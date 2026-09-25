@@ -1630,3 +1630,50 @@ a.tag-work {
   }
 }
 
+
+/* ------------------------------------------------ RSS の一覧(しくみページ) */
+.prose .feed-list {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 24px;
+  border-top: 1px solid var(--line);
+}
+.prose .feed-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.feed-name {
+  flex: 1 1 12em;
+  font-weight: 700;
+}
+.feed-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.feed-btn {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--panel);
+  color: var(--text);
+  font: inherit;
+  font-size: 13px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.feed-btn:hover {
+  border-color: var(--text);
+}
+.feed-btn:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}

@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import FeedList from "../../components/FeedList.astro";
 import { feedStatus, feeds, categories, topicCategories, platforms, thresholds, kindLabels, generatedAt, formatDateTime, allNews, dedupeStats, calendar, workPages, dealStores } from "../../lib/news";
 import { withBase } from "../../lib/url";
 import { breadcrumb } from "../../lib/seo";
@@ -123,20 +124,16 @@ const merged = allNews.filter((it) => it.sources.length > 1).length;
     </ul>
 
     <h2>RSSで読む</h2>
-    <p>お使いのRSSリーダーに登録できます。どれも日本語の記事の新しい50件です。</p>
-    <ul>
-      <li><a href={withBase("/feed.xml")}>全記事</a> <code>{withBase("/feed.xml")}</code></li>
-      <li><a href={withBase("/feed/deal/all.xml")}>セール・無料配布（すべての店）</a> <code>{withBase("/feed/deal/all.xml")}</code></li>
-      {dealStores.filter((st) => st.id !== "other").map((st) => (
-        <li><a href={withBase(`/feed/deal/${st.id}.xml`)}>{st.label}のセール・無料配布</a> <code>{withBase(`/feed/deal/${st.id}.xml`)}</code></li>
-      ))}
-      {platforms.map((p) => (
-        <li><a href={withBase(`/feed/platform/${p.id}.xml`)}>{p.label}</a> <code>{withBase(`/feed/platform/${p.id}.xml`)}</code></li>
-      ))}
-      {topicCategories.map((c) => (
-        <li><a href={withBase(`/feed/${c.id}.xml`)}>{c.label}</a> <code>{withBase(`/feed/${c.id}.xml`)}</code></li>
-      ))}
-    </ul>
+    <p>お使いのRSSリーダーに登録できます。どれも日本語の記事の新しい50件です。Feedly・Inoreader はボタンから登録画面が開きます。ほかのリーダーは「URLをコピー」して貼りつけてください。</p>
+    <FeedList
+      feeds={[
+          { label: "全記事", path: withBase("/feed.xml") },
+          { label: "セール・無料配布（すべての店）", path: withBase("/feed/deal/all.xml") },
+          ...dealStores.filter((st) => st.id !== "other").map((st) => ({ label: `${st.label}のセール・無料配布`, path: withBase(`/feed/deal/${st.id}.xml`) })),
+          ...platforms.map((p) => ({ label: p.label, path: withBase(`/feed/platform/${p.id}.xml`) })),
+          ...topicCategories.map((c) => ({ label: c.label, path: withBase(`/feed/${c.id}.xml`) })),
+        ]}
+    />
 
     <h2>収集している媒体</h2>
     <div class="table-scroll">

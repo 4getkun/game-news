@@ -1,0 +1,42 @@
+---
+// RSS の一覧。リーダーへの登録ボタン(Feedly / Inoreader)と URL のコピーを付ける。
+// ブラウザは RSS のリンクを押しても今はリーダーを起動せず XML をそのまま表示するため、
+// 各リーダーの「購読を追加」ページへ直接飛ばす。
+interface Props {
+  feeds: { label: string; path: string }[];
+}
+const { feeds } = Astro.props;
+const abs = (path: string) => new URL(path, Astro.site).toString();
+---
+
+<ul class="feed-list">
+  {feeds.map((f) => {
+    const url = abs(f.path);
+    return (
+      <li>
+        <span class="feed-name">{f.label}</span>
+        <span class="feed-actions">
+          <a class="feed-btn" href={`https://feedly.com/i/subscription/feed%2F${encodeURIComponent(url)}`} target="_blank" rel="noopener noreferrer">Feedly</a>
+          <a class="feed-btn" href={`https://www.inoreader.com/?add_feed=${encodeURIComponent(url)}`} target="_blank" rel="noopener noreferrer">Inoreader</a>
+          <button type="button" class="feed-btn" data-copy={url}>URLをコピー</button>
+        </span>
+      </li>
+    );
+  })}
+</ul>
+
+<script>
+  // URL をコピー(ほかのリーダーに貼りつける用)。押したボタンに一瞬「コピーしました」と出す
+  document.addEventListener("click", async (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLButtonElement>("[data-copy]");
+    if (!btn) return;
+    const label = btn.textContent;
+    try {
+      await navigator.clipboard.writeText(btn.dataset.copy!);
+      btn.textContent = "コピーしました";
+    } catch {
+      window.prompt("この URL をコピーしてください", btn.dataset.copy);
+    }
+    setTimeout(() => (btn.textContent = label), 1500);
+  });
+</script>
