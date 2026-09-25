@@ -4,6 +4,7 @@
 //  - 最後まで行ったら最初に戻る
 //  - 効果音は Web Audio の矩形波をその場で合成する(音声ファイルは使わない)。♪ボタンで切り替え、端末に覚える
 //  - 動きを減らす設定の人には、1文字ずつではなく一度に出す
+//  - 開いたときの「◯けん とどいた！」にも文字送りの音とファンファーレを付ける(playIntro)
 
 interface HeroItem {
   t: string;
@@ -34,6 +35,61 @@ function tone(freq: number, dur: number, start = 0, vol = 0.05) {
   }
 }
 
+/** 「とどいた！」のファンファーレ(ドミソド↑の短い上り) */
+function jingle(start = 0) {
+  [523, 659, 784, 1047].forEach((f, i) => tone(f, i === 3 ? 0.22 : 0.08, start + i * 0.085, 0.045));
+}
+
+/**
+ * 開いたときの「◯けん とどいた！」の1文字ずつ(CSS のアニメーション)に合わせて音を鳴らす。
+ * ブラウザは、ページを一度も押していないうちは音を出させない(自動再生の制限)。
+ * 鳴らせないときは、開いてから少しの間に最初に押されたところでファンファーレだけ鳴らす
+ */
+function playIntro(reduceMotion: boolean) {
+  const lines = [...document.querySelectorAll<HTMLElement>(".msg .typer")];
+  const schedule = (offset: number) => {
+    if (reduceMotion) {
+      jingle(0);
+      return;
+    }
+    // 各文字の表示時刻(CSS の --i × 28ms + --d)に合わせ、2文字ごとに「ピッ」
+    let lineEnd = 0;
+    lines.forEach((line, li) => {
+      const d = parseFloat(line.style.getPropertyValue("--d")) || 0;
+      const spans = [...line.querySelectorAll<HTMLElement>("span")];
+      spans.forEach((sp, i) => {
+        const at = (d + i * 28) / 1000 - offset;
+        if (at >= 0 && i % 2 === 1 && sp.textContent?.trim()) tone(1760 + (i % 3) * 40, 0.025, at, 0.03);
+      });
+      // 1行目(「とどいた！」)を打ち終えたところでファンファーレ
+      if (li === 0) lineEnd = (d + spans.length * 28) / 1000 - offset;
+    });
+    if (lineEnd >= 0) jingle(lineEnd + 0.05);
+  };
+
+  const loadedAt = performance.now();
+  try {
+    audio ??= new AudioContext();
+  } catch {
+    return;
+  }
+  if (audio.state === "running") {
+    // このスクリプトが動くまでに CSS のアニメーションは少し進んでいるので、その分ずらす
+    const anim = lines[0]?.querySelector("span")?.getAnimations()[0];
+    schedule(anim && typeof anim.currentTime === "number" ? anim.currentTime / 1000 : 0);
+    return;
+  }
+  const onFirst = (e: Event) => {
+    ["pointerdown", "keydown"].forEach((t) => removeEventListener(t, onFirst, true));
+    // ♪ボタン(音を切る操作)で鳴らすのは逆効果なので鳴らさない
+    if ((e.target as HTMLElement | null)?.closest?.("#msg-sound")) return;
+    // 開いてから時間が経っていたら鳴らさない(関係ない操作で急に鳴ると驚くため)
+    if (performance.now() - loadedAt > 8000) return;
+    void audio!.resume().then(() => jingle(0));
+  };
+  ["pointerdown", "keydown"].forEach((t) => addEventListener(t, onFirst, { capture: true, once: true }));
+}
+
 export function startMessageWindow() {
   const win = document.querySelector<HTMLElement>(".msg");
   const link = document.getElementById("msg-link") as HTMLAnchorElement | null;
@@ -56,6 +112,7 @@ export function startMessageWindow() {
     soundBtn.title = soundOn ? "効果音: オン" : "効果音: オフ";
   };
   renderSound();
+  if (soundOn) playIntro(reduceMotion);
 
   let index = 0;
   let timer = 0;
