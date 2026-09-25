@@ -1,10 +1,10 @@
 """ファビコン一式を作る(ドット絵)。
 
-図柄: サイトの絞り込みメニューと同じ JRPG のコマンドウィンドウ。紺の地に白い枠、
-金色の ▶ カーソルが指している1行目は選択中なので金色(サイトの .menu-item[aria-pressed] と同じ)、
-その下の2行目はまだ選んでいない項目なので薄い色。16x16 のマス目で1ドットずつ決めてあるので、ブラウザのタブ(16px)で
-そのまま読める。大きいサイズは同じマス目を整数倍に拡大する(ぼかさない)。
-(姉妹サイト anime-news は極太書体の「全」がタブでつぶれた。ここは最初から16pxで設計する)
+図柄: 紺のタイルに白いゲームパッド(コントローラー)。左に十字キー、右に2つのボタン(金と緑)、
+真ん中にセレクト・スタート。ゲーム好きなら一目で「ゲームのサイト」と分かる形にした
+(以前の「コマンドウィンドウ＋カーソル」は意味が伝わりにくかった)。
+16x16 のマス目で1ドットずつ決めてあるので、ブラウザのタブ(16px)でそのまま読める。
+大きいサイズは同じマス目を整数倍に拡大する(ぼかさない)。
 
     python tools/make-icons.py   (要 Pillow)
 
@@ -18,27 +18,29 @@ OUT = Path(__file__).resolve().parent.parent / "public"
 
 # 1文字=1ドット。. は透明
 PALETTE = {
-    "N": "#13206E",  # ウィンドウの紺
-    "W": "#F4F6FF",  # 枠
-    "C": "#FFD84A",  # カーソルと選択中の行(--cursor)
-    "M": "#AAB4E6",  # 選んでいない行(--win-muted)
+    "N": "#13206E",  # タイルの紺(ウィンドウと同じ)
+    "W": "#F4F6FF",  # ゲームパッドの本体
+    "D": "#0E1538",  # 十字キー
+    "C": "#FFD84A",  # ボタン(金 = --cursor)
+    "G": "#4BE08A",  # ボタン(緑 = --hp)
+    "M": "#8C98D8",  # セレクト・スタート
 }
 GRID = [
     ".NNNNNNNNNNNNNN.",
+    "NNNNNNNNNNNNNNNN",
+    "NNNNNNNNNNNNNNNN",
+    "NNWWWWWWWWWWWWNN",
     "NWWWWWWWWWWWWWWN",
-    "NWNNNNNNNNNNNNWN",
-    "NWNNNNNNNNNNNNWN",
-    "NWNCNNNNNNNNNNWN",
-    "NWNCCNNNNNNNNNWN",
-    "NWNCCCNCCCCCNNWN",
-    "NWNCCCNCCCCCNNWN",
-    "NWNCCNNNNNNNNNWN",
-    "NWNCNNNNNNNNNNWN",
-    "NWNNNNNMMMMNNNWN",
-    "NWNNNNNMMMMNNNWN",
-    "NWNNNNNNNNNNNNWN",
-    "NWNNNNNNNNNNNNWN",
+    "NWWWDWWWWWWWWGWN",
+    "NWWDDDWWWWWWWWWN",
+    "NWWWDWWMMWWCWWWN",
     "NWWWWWWWWWWWWWWN",
+    "NWWWWWWWWWWWWWWN",
+    "NWWWWNNNNNNWWWWN",
+    "NWWWWNNNNNNWWWWN",
+    "NNWWNNNNNNNNWWNN",
+    "NNNNNNNNNNNNNNNN",
+    "NNNNNNNNNNNNNNNN",
     ".NNNNNNNNNNNNNN.",
 ]
 assert len(GRID) == 16 and all(len(row) == 16 for row in GRID)
