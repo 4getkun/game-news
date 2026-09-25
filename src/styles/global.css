@@ -1517,3 +1517,121 @@ a.tag-work {
   cursor: pointer;
   text-decoration: underline;
 }
+
+/* ------------------------------------------------ セール(ショップ) */
+/* 値札は「赤地に白」で一覧の中でも目に入るように。無料は HP の緑 */
+.deal-badge {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  font-family: var(--font-pixel);
+  font-size: 12px;
+  line-height: 20px;
+  padding: 0 7px;
+  border: 0;
+  border-radius: 3px;
+  background: #d81e3c;
+  color: #fff;
+  cursor: pointer;
+}
+.deal-badge small {
+  font-size: 10px;
+  opacity: 0.9;
+}
+.deal-badge.is-free {
+  background: #11874a;
+}
+.toolbar .deal-toggle {
+  height: 44px;
+  border-color: #d81e3c;
+  background: var(--panel);
+  color: #b3122e;
+  font-weight: 700;
+}
+.toolbar .deal-toggle[aria-pressed="true"] {
+  background: #d81e3c;
+  color: #fff;
+}
+.deal-count {
+  font-family: var(--font-pixel);
+  font-weight: 400;
+}
+:root[data-theme="dark"] .toolbar .deal-toggle[aria-pressed="false"] {
+  color: #ff7d92;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .toolbar .deal-toggle[aria-pressed="false"] {
+    color: #ff7d92;
+  }
+}
+
+.shop {
+  margin-top: 34px;
+  padding: 24px 18px 14px;
+}
+.shop-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.shop-row {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  min-height: 40px;
+  padding: 4px 0 4px 18px;
+  color: var(--win-text);
+  text-decoration: none;
+}
+.shop-price {
+  font-family: var(--font-pixel);
+  font-size: 16px;
+  text-align: right;
+  color: #ff8a9c;
+}
+.shop-price.is-free {
+  color: var(--hp);
+}
+.shop-name {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 14px;
+}
+.shop-store {
+  font-family: var(--font-pixel);
+  font-size: 12px;
+  color: var(--win-muted);
+}
+.shop-foot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  align-items: center;
+  margin-top: 8px;
+  padding: 10px 0 0 18px;
+  border-top: 1px dashed rgb(244 246 255 / 30%);
+  font-family: var(--font-pixel);
+  font-size: 13px;
+}
+.shop-foot a {
+  color: var(--win-text);
+  min-height: 32px;
+  display: inline-flex;
+  align-items: center;
+}
+.shop-all {
+  color: var(--cursor) !important;
+}
+.shop-store-link {
+  color: var(--win-muted) !important;
+}
+@media (max-width: 640px) {
+  .shop-row {
+    grid-template-columns: 52px minmax(0, 1fr);
+  }
+  .shop-store {
+    display: none;
+  }
+}

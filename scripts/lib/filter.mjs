@@ -137,6 +137,24 @@ export function classifyPlatforms(title, summary, config) {
     .map((p) => p.id);
 }
 
+/**
+ * セール・無料配布の記事かを判定する(見出しで判定。店は見出し＋要約)。
+ * 返り値: null(セールではない) か { stores: ["steam", ...], off: 最大の割引率(%) | null, free: 無料配布か }
+ * Kindle のマンガのポイント還元・ハードや周辺機器の値引き・ガチャは対象外(deals.exclude)
+ */
+export function classifyDeal(title, summary, config) {
+  const d = config.deals;
+  if (!d) return null;
+  const t = normalizeForMatch(title);
+  if (!d.signals.some((re) => new RegExp(re, "i").test(t))) return null;
+  if (d.exclude.some((re) => new RegExp(re, "i").test(t))) return null;
+  const all = `${t} ${normalizeForMatch(summary)}`;
+  const stores = d.stores.filter((st) => new RegExp(st.pattern, "i").test(all)).map((st) => st.id);
+  const offs = [...t.matchAll(/(\d{1,3})\s*%\s*(オフ|off|引き|割引)/gi)].map((m) => Number(m[1])).filter((n) => n > 0 && n <= 100);
+  const free = /無料配布|期間限定(で)?無料|無料で(入手|もらえる|配布)|(?<![\d,])0円で|→\s*0円|free to keep|free this week|giveaway/i.test(t);
+  return { stores, off: offs.length ? Math.max(...offs) : null, free };
+}
+
 export function isSpoiler(title, config) {
   const t = normalizeForMatch(title);
   if (containsAny(t, config.spoiler.keywords)) return true;
@@ -251,6 +269,7 @@ export function evaluateItem({ title, summary }, feed, config, knownWorks = null
     score,
     hits,
     categories: classifyCategories(matchTitle, summary, config),
+    deal: classifyDeal(matchTitle, summary, config),
     platforms: classifyPlatforms(matchTitle, summary, config),
     works: extractWorks(matchTitle, config, { lenient: feed.kind === "specialist" }),
     spoiler: isSpoiler(matchTitle, config),
@@ -369,6 +388,7 @@ function mergeGroup(group, kindRank) {
     firstSeen: group.map((it) => it.firstSeen).filter(Boolean).sort()[0] ?? primary.firstSeen ?? null,
     image: primary.image ?? group.find((it) => it.image)?.image ?? null,
     categories: union("categories"),
+    deal: primary.deal ?? group.find((it) => it.deal)?.deal ?? null,
     platforms: union("platforms"),
     works: [...new Set([...(primary.works ?? []), ...union("works")])],
     spoiler: group.some((it) => it.spoiler),

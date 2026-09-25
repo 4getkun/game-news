@@ -22,6 +22,7 @@ export const GET: APIRoute = () => {
     sp: it.spoiler ? 1 : 0,
     sy: it.syndicated ? 1 : 0,
     x: it.sources.slice(1).map((s) => ({ n: s.name, l: s.link, ...(s.syndicated ? { sy: 1 } : {}) })),
+    ...(it.deal ? { dl: { s: it.deal.stores, o: it.deal.off, f: it.deal.free ? 1 : 0 } } : {}),
   }));
   return new Response(JSON.stringify({ generatedAt, items }), {
     headers: { "Content-Type": "application/json; charset=utf-8" },

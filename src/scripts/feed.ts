@@ -30,6 +30,8 @@ interface RawItem {
   sy?: 0 | 1;
   /** 同じ話題を報じた他の媒体。sy=1 は再配信(転載) */
   x: { n: string; l: string; sy?: 1 }[];
+  /** セール・無料配布の記事(s: 店 / o: 最大の割引率 / f: 無料配布) */
+  dl?: { s: string[]; o: number | null; f: 0 | 1 };
 }
 
 interface Item extends RawItem {
@@ -46,6 +48,8 @@ interface Config {
   generatedAt: string;
   categories: { id: string; label: string; emoji: string; sensitive: boolean }[];
   platforms: { id: string; label: string }[];
+  /** セール記事の店(steam / epic / ps / nintendo / xbox / other) */
+  stores: { id: string; label: string }[];
   feeds: { id: string; name: string; kind: string; lang: string }[];
   kindLabels: Record<string, string>;
   /** タイトル名 → タイトルページの slug(ページがあるタイトルだけ) */
@@ -60,6 +64,10 @@ interface State {
   q: string;
   cats: Set<string>;
   plats: Set<string>;
+  /** セール・無料配布の記事だけ */
+  deal: boolean;
+  /** セールの店(deal のときだけ効く) */
+  stores: Set<string>;
   period: Period;
   sort: "new" | "hot";
   work: string;
@@ -80,6 +88,8 @@ interface State {
 
 // 最初に描く件数。サーバー側で描く最新30件とそろえ、残りはスクロールに合わせて足す
 const PAGE_SIZE = 30;
+const MORE_LABEL = "つづきを よむ";
+const MORE_LEFT = "のこり";
 const PREFS_KEY = "game-news:prefs";
 const READ_KEY = "game-news:read";
 const READ_MAX = 4000;
@@ -121,6 +131,7 @@ export async function startFeed() {
   const config = JSON.parse($("#app-config").textContent || "{}") as Config;
   const catLabel = Object.fromEntries(config.categories.map((c) => [c.id, c]));
   const platLabel = Object.fromEntries(config.platforms.map((p) => [p.id, p.label]));
+  const storeLabel = Object.fromEntries(config.stores.map((st) => [st.id, st.label]));
 
   const prefs = storageGet(PREFS_KEY, {} as Partial<Record<string, unknown>>);
   const url = new URL(location.href);
@@ -128,6 +139,8 @@ export async function startFeed() {
     q: url.searchParams.get("q") ?? "",
     cats: new Set((url.searchParams.get("cat") ?? "").split(",").filter((c) => c in catLabel)),
     plats: new Set((url.searchParams.get("plat") ?? "").split(",").filter((p) => p in platLabel)),
+    deal: url.searchParams.get("deal") === "1" || url.searchParams.has("store"),
+    stores: new Set((url.searchParams.get("store") ?? "").split(",").filter((st) => st in storeLabel)),
     period: (["all", "24h", "3d", "7d"].includes(url.searchParams.get("period") ?? "") ? url.searchParams.get("period") : "all") as Period,
     sort: url.searchParams.get("sort") === "hot" ? "hot" : "new",
     work: url.searchParams.get("work") ?? "",
@@ -211,13 +224,15 @@ export async function startFeed() {
   }
 
   /** skip に指定した条件だけを無視して判定する(カテゴリ・媒体の件数表示に使う) */
-  function passes(it: Item, skip: "cats" | "sources" | "plats" | null = null, query = parseQuery(state.q)) {
+  function passes(it: Item, skip: "cats" | "sources" | "plats" | "deal" | "stores" | null = null, query = parseQuery(state.q)) {
     if (skip !== "sources" && state.hiddenSources.has(it.src)) return false;
     if (state.lang !== "all" && it.lang !== state.lang) return false;
     const hours = PERIOD_HOURS[state.period];
     if (hours !== Infinity && now - it.time > hours * 3600_000) return false;
     if (skip !== "cats" && state.cats.size > 0 && !it.c.some((c) => state.cats.has(c))) return false;
     if (skip !== "plats" && state.plats.size > 0 && !it.p.some((p) => state.plats.has(p))) return false;
+    if (skip !== "deal" && state.deal && !it.dl) return false;
+    if (skip !== "deal" && skip !== "stores" && state.deal && state.stores.size > 0 && !it.dl?.s.some((st) => state.stores.has(st))) return false;
     if (state.work && !it.w.includes(state.work)) return false;
     if (state.onlyFollow && state.follow.length > 0 && !it.w.some((w) => state.follow.includes(w))) return false;
     if (state.multiOnly && it.originals === 0) return false;
@@ -247,6 +262,14 @@ export async function startFeed() {
   const dayKeyFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" });
   const todayKey = dayKeyFmt.format(new Date());
   const yesterdayKey = dayKeyFmt.format(new Date(Date.now() - 86400_000));
+
+  /** セール記事の札: 無料 > -70% > セール。店が分かれば添える */
+  function dealBadge(it: Item) {
+    if (!it.dl) return "";
+    const what = it.dl.f ? "無料" : it.dl.o ? `-${it.dl.o}%` : "セール";
+    const where = it.dl.s.filter((st) => st !== "other").map((st) => storeLabel[st]).join("・");
+    return `<button type="button" class="deal-badge${it.dl.f ? " is-free" : ""}" data-deal-tag="${esc(it.dl.s[0] ?? "")}" title="セール記事で絞り込む">${esc(what)}${where ? `<small>${esc(where)}</small>` : ""}</button>`;
+  }
 
   function renderItem(it: Item): string {
     const followed = it.w.some((w) => state.follow.includes(w));
@@ -285,6 +308,7 @@ export async function startFeed() {
         <div>
           <div class="item-meta">
             ${isNew(it) ? `<span class="new-badge">NEW</span>` : ""}
+            ${dealBadge(it)}
             <span class="src"><span class="kind-mark kind-${esc(it.k)}" title="${esc(config.kindLabels[it.k] ?? "")}"></span>${esc(it.sn)}</span>
             ${it.originals ? `<span class="more-src">ほか${it.originals}媒体</span>` : ""}
             ${it.sy ? `<span class="lang" title="元の媒体の記事が見つからなかった再配信記事">転載</span>` : ""}
@@ -308,41 +332,101 @@ export async function startFeed() {
     return { title: base, sub: "" };
   }
 
+  /** 日ごとの見出しを付けて記事を並べる。prevKey は直前に描いた日(続きを足すときに同じ日の見出しを重ねないため) */
+  function renderGroups(list: Item[], prevKey = ""): { head: string; rest: string; lastKey: string } {
+    // head: 直前の日の続き(既存の最後の .day の中に足す分) / rest: 新しい日のまとまり
+    let head = "";
+    let rest = "";
+    let currentKey = prevKey;
+    let open = false;
+    for (const it of list) {
+      const key = it.time ? dayKeyFmt.format(it.time) : "unknown";
+      if (key !== currentKey) {
+        if (open) rest += "</div>";
+        const { title, sub } = key === "unknown" ? { title: "日付不明", sub: "" } : dayLabel(key, it.time);
+        rest += `<div class="day"><div class="day-head"><h2>${title}</h2><span>${sub}</span></div>`;
+        currentKey = key;
+        open = true;
+      }
+      if (open) rest += renderItem(it);
+      else head += renderItem(it);
+    }
+    if (open) rest += "</div>";
+    return { head, rest, lastKey: currentKey };
+  }
+
+  let renderedKey = "";
+  // 「もっと見る」の先読み: ボタンに近づいたら次の分の HTML を作り、サムネイルを読み始めておく
+  let prefetched: { from: number; html: { head: string; rest: string; lastKey: string } } | null = null;
+
+  function nextBatch() {
+    const batch = lastResult.slice(shown, shown + PAGE_SIZE);
+    return state.sort === "hot" ? { head: batch.map(renderItem).join(""), rest: "", lastKey: renderedKey } : renderGroups(batch, renderedKey);
+  }
+
+  function prefetchMore() {
+    if (shown >= lastResult.length || prefetched?.from === shown) return;
+    prefetched = { from: shown, html: nextBatch() };
+    for (const it of lastResult.slice(shown, shown + PAGE_SIZE)) {
+      if (it.i) {
+        const img = new Image();
+        img.referrerPolicy = "no-referrer";
+        img.src = it.i;
+      }
+    }
+  }
+
+  function updateMoreButton() {
+    const btn = $("#more");
+    const left = lastResult.length - shown;
+    btn.hidden = left <= 0;
+    btn.textContent = `${MORE_LABEL}（${MORE_LEFT}${Math.max(0, left)}件）`;
+  }
+
+  /** 「もっと見る」: 次の PAGE_SIZE 件を、いま出ている一覧の下に足す(上の記事は描き直さない) */
+  function showMore() {
+    const html = prefetched?.from === shown ? prefetched.html : nextBatch();
+    prefetched = null;
+    const list = $("#feed-list");
+    const days = list.querySelectorAll(".day");
+    const lastDay = days[days.length - 1];
+    if (html.head && lastDay) lastDay.insertAdjacentHTML("beforeend", html.head);
+    if (html.rest) list.insertAdjacentHTML("beforeend", html.rest);
+    renderedKey = html.lastKey;
+    shown += PAGE_SIZE;
+    updateMoreButton();
+  }
+
   function renderList() {
     const list = $("#feed-list");
     const slice = lastResult.slice(0, shown);
+    prefetched = null;
     if (slice.length === 0) {
       list.innerHTML = `<div class="empty"><p>条件に合うニュースはありません。</p><button type="button" class="btn btn-solid" id="reset-all">絞り込みをすべて解除</button></div>`;
       $("#more").hidden = true;
       return;
     }
-    let html = "";
     if (state.sort === "hot") {
-      html = `<div class="day"><div class="day-head"><h2>話題順</h2><span>報じた媒体の数が多い順</span></div>${slice.map(renderItem).join("")}</div>`;
+      list.innerHTML = `<div class="day"><div class="day-head"><h2>話題順</h2><span>報じた媒体の数が多い順</span></div>${slice.map(renderItem).join("")}</div>`;
+      renderedKey = "";
     } else {
-      let currentKey = "";
-      for (const it of slice) {
-        const key = it.time ? dayKeyFmt.format(it.time) : "unknown";
-        if (key !== currentKey) {
-          if (currentKey) html += "</div>";
-          const { title, sub } = key === "unknown" ? { title: "日付不明", sub: "" } : dayLabel(key, it.time);
-          html += `<div class="day"><div class="day-head"><h2>${title}</h2><span>${sub}</span></div>`;
-          currentKey = key;
-        }
-        html += renderItem(it);
-      }
-      html += "</div>";
+      const g = renderGroups(slice);
+      list.innerHTML = g.rest;
+      renderedKey = g.lastKey;
     }
-    list.innerHTML = html;
-    $("#more").hidden = lastResult.length <= shown;
+    updateMoreButton();
   }
 
   function renderCounts(query: ReturnType<typeof parseQuery>) {
     const catCounts = new Map<string, number>();
     const srcCounts = new Map<string, number>();
     const platCounts = new Map<string, number>();
+    const storeCounts = new Map<string, number>();
+    let dealCount = 0;
     for (const it of items) {
       if (isMuted(it) || isHiddenTopic(it)) continue;
+      if (it.dl && passes(it, "deal", query)) dealCount++;
+      if (it.dl && passes(it, "stores", query)) for (const st of it.dl.s) storeCounts.set(st, (storeCounts.get(st) ?? 0) + 1);
       if (passes(it, "cats", query)) for (const c of it.c) catCounts.set(c, (catCounts.get(c) ?? 0) + 1);
       if (passes(it, "sources", query)) srcCounts.set(it.src, (srcCounts.get(it.src) ?? 0) + 1);
       if (passes(it, "plats", query)) for (const p of it.p) platCounts.set(p, (platCounts.get(p) ?? 0) + 1);
@@ -358,6 +442,17 @@ export async function startFeed() {
       btn.querySelector(".count")!.textContent = String(n);
       btn.setAttribute("aria-pressed", String(state.plats.has(btn.dataset.plat!)));
       btn.classList.toggle("is-empty", n === 0);
+    });
+    document.querySelectorAll<HTMLButtonElement>("#store-menu [data-store]").forEach((btn) => {
+      const n = storeCounts.get(btn.dataset.store!) ?? 0;
+      btn.querySelector(".count")!.textContent = String(n);
+      btn.setAttribute("aria-pressed", String(state.deal && state.stores.has(btn.dataset.store!)));
+      btn.classList.toggle("is-empty", n === 0);
+    });
+    document.querySelectorAll<HTMLButtonElement>("[data-deal-toggle]").forEach((btn) => {
+      btn.setAttribute("aria-pressed", String(state.deal));
+      const c = btn.querySelector(".deal-count");
+      if (c) c.textContent = String(dealCount);
     });
     document.querySelectorAll<HTMLInputElement>("#source-list [data-source]").forEach((input) => {
       input.checked = !state.hiddenSources.has(input.dataset.source!);
@@ -411,6 +506,7 @@ export async function startFeed() {
     // 選択中の条件
     const active: string[] = [];
     if (state.q) active.push(`<button type="button" class="chip" data-clear="q">「${esc(state.q)}」</button>`);
+    if (state.deal) active.push(`<button type="button" class="chip" data-clear="deal">セール・無料${state.stores.size ? `（${[...state.stores].map((st) => storeLabel[st]).join("・")}）` : ""}</button>`);
     for (const p of state.plats) active.push(`<button type="button" class="chip" data-plat="${p}">${esc(platLabel[p])}</button>`);
     for (const c of state.cats) active.push(`<button type="button" class="chip" data-cat="${c}">${esc(catLabel[c].label)}</button>`);
     if (state.period !== "all") active.push(`<button type="button" class="chip" data-clear="period">${{ "24h": "24時間以内", "3d": "3日以内", "7d": "7日以内" }[state.period]}</button>`);
@@ -479,6 +575,8 @@ export async function startFeed() {
     set("q", state.q);
     set("cat", [...state.cats].join(","));
     set("plat", [...state.plats].join(","));
+    set("deal", state.deal && state.stores.size === 0 ? "1" : "");
+    set("store", state.deal ? [...state.stores].join(",") : "");
     set("period", state.period, "all");
     set("sort", state.sort, "new");
     set("work", state.work);
@@ -510,6 +608,8 @@ export async function startFeed() {
     Object.assign(state, { q: "", period: "all", sort: "new", work: "", lang: "ja", onlyFollow: false, multiOnly: false, hideRead: false, newOnly: false });
     state.cats.clear();
     state.plats.clear();
+    state.deal = false;
+    state.stores.clear();
     state.hiddenSources.clear();
     apply();
   }
@@ -588,14 +688,21 @@ export async function startFeed() {
       read.closest(".item")?.classList.add("is-read");
       return;
     }
-    const btn = el.closest<HTMLElement>("button, a[data-work-link], a[data-plat-link]");
+    const btn = el.closest<HTMLElement>("button, a[data-work-link], a[data-plat-link], a[data-deal-toggle], a[data-store-link]");
     if (!btn) return;
     const d = btn.dataset;
+    if (btn.tagName === "A" && d.dealToggle !== undefined) e.preventDefault();
     if (d.workLink) {
       e.preventDefault();
       setWork(d.workLink);
     } else if (d.work) {
       setWork(d.work);
+    } else if (d.storeLink) {
+      e.preventDefault();
+      state.deal = true;
+      state.stores = new Set([d.storeLink]);
+      apply();
+      document.getElementById("feed")?.scrollIntoView({ behavior: "smooth" });
     } else if (d.platLink) {
       e.preventDefault();
       state.plats = new Set([d.platLink]);
@@ -607,6 +714,22 @@ export async function startFeed() {
       apply();
     } else if (d.tagPlat) {
       state.plats = new Set([d.tagPlat]);
+      apply();
+    } else if (d.dealToggle !== undefined) {
+      // ヒーローの「セール記事をぜんぶ見る」(scroll)は入れるだけ。ツールバーのボタンは切り替え
+      state.deal = d.dealToggle === "scroll" ? true : !state.deal;
+      if (!state.deal) state.stores.clear();
+      apply();
+      if (state.deal && d.dealToggle === "scroll") document.getElementById("feed")?.scrollIntoView({ behavior: "smooth" });
+    } else if (d.store) {
+      // 店は「セールの中で絞る」もの。押したらセールの絞り込みも入れる
+      if (state.deal && state.stores.has(d.store)) state.stores.delete(d.store);
+      else state.stores.add(d.store);
+      state.deal = true;
+      apply();
+    } else if (d.dealTag !== undefined) {
+      state.deal = true;
+      state.stores = new Set(d.dealTag && d.dealTag !== "other" ? [d.dealTag] : []);
       apply();
     } else if (d.cat) {
       if (state.cats.has(d.cat)) state.cats.delete(d.cat);
@@ -630,6 +753,10 @@ export async function startFeed() {
       if (k === "q") state.q = "";
       else if (k === "cats") state.cats.clear();
       else if (k === "plats") state.plats.clear();
+      else if (k === "deal") {
+        state.deal = false;
+        state.stores.clear();
+      } else if (k === "stores") state.stores.clear();
       else if (k === "period") state.period = "all";
       else if (k === "lang") state.lang = "ja";
       else if (k === "work") state.work = "";
@@ -644,21 +771,20 @@ export async function startFeed() {
     } else if (btn.id === "reset-all") {
       resetAll();
     } else if (btn.id === "more") {
-      shown += PAGE_SIZE;
-      renderList();
+      showMore();
     }
   });
 
-  // 一覧の末尾が見えたら自動で続きを出す(ボタンはキーボード操作・非対応環境向けに残す)
+  // 続きはボタンを押したときだけ出す。ボタンまであと1000px ほどになったら、次の分を先に作っておく
+  // (HTML の組み立てとサムネイルの読み込み)。押したときにすぐ出せる
   const moreBtn = $("#more");
   if ("IntersectionObserver" in window) {
     new IntersectionObserver((entries) => {
-      if (entries.some((en) => en.isIntersecting) && !moreBtn.hidden) {
-        shown += PAGE_SIZE;
-        renderList();
-      }
-    }, { rootMargin: "600px" }).observe(moreBtn);
+      if (entries.some((en) => en.isIntersecting) && !moreBtn.hidden) prefetchMore();
+    }, { rootMargin: "1000px" }).observe(moreBtn);
   }
+  moreBtn.addEventListener("pointerenter", prefetchMore);
+  moreBtn.addEventListener("focus", prefetchMore);
 
   // 折りたたみの開閉を端末に覚えておく(最初は閉じている)
   const FOLD_KEY = PREFS_KEY.replace(":prefs", ":folds");

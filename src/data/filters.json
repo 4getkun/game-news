@@ -350,26 +350,11 @@
       "id": "sale",
       "label": "セール・無料",
       "emoji": "🏷️",
-      "keywords": [
-        "セール",
-        "割引",
-        "%オフ",
-        "％オフ",
-        "OFF",
-        "無料配布",
-        "無料化",
-        "基本プレイ無料",
-        "期間限定無料",
-        "フリープレイ",
-        "ゲームパス",
-        "Game Pass",
-        "sale",
-        "free",
-        "discount"
-      ],
+      "keywords": [],
       "ignore": [
         "無料体験版"
-      ]
+      ],
+      "$comment": "キーワードでは判定しない。deals(classifyDeal)でセール記事と判定したものに付く"
     },
     {
       "id": "demo",
@@ -821,5 +806,53 @@
       "ティザー"
     ],
     "skipIfMatches": []
+  },
+  "deals": {
+    "$comment": "セール・無料配布の記事の判定(見出しで判定)。signals のどれかに当たり、exclude に当たらないものをセール記事とする。stores は見出し＋要約から店を判定。scripts/lib/filter.mjs の classifyDeal 参照",
+    "signals": [
+      "\\d{1,3}\\s*%\\s*(オフ|off|引き|割引)",
+      "\\d[\\d,]*円\\s*[→⇒~〜]\\s*\\d[\\d,]*円",
+      "過去最安|最安値",
+      "セール(が|を)?(開催|実施|スタート|開始)|セール中|セール価格|セール情報|大型セール|(サマー|オータム|ウィンター|スプリング|ホリデー|ゴールデンウィーク|年末年始|ブラックフライデー)セール|半額",
+      "無料配布|期間限定(で)?無料|無料で(入手|もらえる|配布)|(?<![\\d,])0円で|→\\s*0円",
+      "\b(on sale|sale now live|% off|free to keep|free this week|giveaway)\b"
+    ],
+    "exclude": [
+      "Kindle|電子書籍|マンガ|漫画|コミック|ポイント還元|%還元|還元セール",
+      "本体|コントローラー|ヘッドセット|モニター|SSD|ゲーミングPC|ノートPC|laptop|TV|テレビ|console deal",
+      "ガチャ|ジュエル|課金"
+    ],
+    "stores": [
+      {
+        "id": "steam",
+        "label": "Steam",
+        "pattern": "steam"
+      },
+      {
+        "id": "epic",
+        "label": "Epic",
+        "pattern": "epic ?games|epicストア"
+      },
+      {
+        "id": "ps",
+        "label": "PS Store",
+        "pattern": "ps ?store|playstation ?store|psストア|ps plus"
+      },
+      {
+        "id": "nintendo",
+        "label": "eショップ",
+        "pattern": "eショップ|eshop"
+      },
+      {
+        "id": "xbox",
+        "label": "Xbox",
+        "pattern": "xbox|game pass|ゲームパス"
+      },
+      {
+        "id": "other",
+        "label": "その他",
+        "pattern": "\bgog\b|humble|prime gaming|プライム会員"
+      }
+    ]
   }
 }

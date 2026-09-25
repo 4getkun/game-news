@@ -361,7 +361,9 @@ async function main() {
       kind: feed.kind,
       lang: feed.lang,
       score: verdict.score,
-      categories: verdict.categories,
+      // セール記事は「セール・無料」カテゴリにも入れる(カテゴリの絞り込みからも見つかるように)
+      categories: verdict.deal ? [...new Set([...verdict.categories, "sale"])] : verdict.categories.filter((c) => c !== "sale"),
+      deal: verdict.deal,
       platforms: verdict.platforms,
       works: verdict.works,
       spoiler: verdict.spoiler,

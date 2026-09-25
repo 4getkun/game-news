@@ -34,6 +34,17 @@ export interface NewsItem {
   /** 元記事が見つからず、再配信ポータルの記事だけが残っているもの */
   syndicated?: boolean;
   sources: NewsSource[];
+  /** セール・無料配布の記事(scripts/lib/filter.mjs の classifyDeal) */
+  deal?: Deal | null;
+}
+
+export interface Deal {
+  /** 店(steam / epic / ps / nintendo / xbox / other)。見出し・要約から分かったものだけ */
+  stores: string[];
+  /** 見出しにある最大の割引率(%) */
+  off: number | null;
+  /** 無料配布 */
+  free: boolean;
 }
 
 /** 予定(カレンダー)。scripts/fetch-news.mjs の buildCalendar が作る */
@@ -118,6 +129,23 @@ export function platformCounts(hours = 24): { id: string; label: string; count: 
 }
 
 /** 直近 hours 時間の日本語記事の数 */
+/** セール記事の店 */
+export const dealStores = (filtersData as unknown as { deals: { stores: { id: string; label: string }[] } }).deals.stores.map(({ id, label }) => ({ id, label }));
+
+/** いまのセール・無料配布の記事(新しい順)。ヒーローの「ショップ」とセールの RSS に使う */
+export function currentDeals(days = 7, limit = Infinity): NewsItem[] {
+  const since = (new Date(generatedAt).getTime() || Date.now()) - days * 86400_000;
+  const sensitive = new Set(sensitiveCategories.map((c) => c.id));
+  return jaNews
+    .filter((it) => it.deal && (!it.pubDate || Date.parse(it.pubDate) >= since) && !it.categories.some((c) => sensitive.has(c)))
+    .slice(0, limit);
+}
+
+/** セールの札の文字(無料 / -70% / セール) */
+export function dealLabel(deal: Deal): string {
+  return deal.free ? "無料" : deal.off ? `-${deal.off}%` : "セール";
+}
+
 export function recentCount(hours = 24): number {
   const base = new Date(generatedAt).getTime() || Date.now();
   return jaNews.filter((it) => it.pubDate && Date.parse(it.pubDate) >= base - hours * 3600_000).length;

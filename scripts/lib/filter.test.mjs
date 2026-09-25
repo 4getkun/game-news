@@ -53,7 +53,7 @@ test("機種の判定: Switch 2 だけの記事に Switch を付けない", () =
 test("カテゴリ: 発売・セール・アップデート", () => {
   const has = (t, id) => classifyCategories(t, "", config).includes(id);
   assert.ok(has("『X』発売日が12月10日に決定", "release"));
-  assert.ok(has("Steamで『X』が75%オフのセール", "sale"));
+  assert.ok(!has("Steamで『X』が75%オフのセール", "sale")); // セールは classifyDeal で付ける(下のテスト)
   assert.ok(has("『X』大型アップデート配信、新DLCも", "update"));
   assert.ok(!has("『X』開発者インタビュー", "new")); // 「発表」だけでは新作にしない
 });
@@ -122,4 +122,25 @@ test("予定の抽出: 中止・延期は拾わない", async () => {
   const { extractSchedules } = await import("./filter.mjs");
   assert.deepEqual(extractSchedules("東京ゲームショウ2026、5日目（9月21日）の開催中止が発表", "2026-09-20T03:00:00Z", config), []);
   assert.deepEqual(extractSchedules("『X』12月10日発売延期", "2026-09-20T03:00:00Z", config), []);
+});
+
+test("セール記事の判定: Steam のセールは拾い、マンガの還元やハードの値引きは拾わない", async () => {
+  const { classifyDeal } = await import("./filter.mjs");
+  const deal = (t, s = "") => classifyDeal(t, s, config);
+  const p3 = deal("【過去最安値】『ペルソナ3 リロード』が“70％オフ”の「7678円→2303円」で購入できるお得なセール開催中。Steamにて10月8日まで");
+  assert.deepEqual(p3, { stores: ["steam"], off: 70, free: false });
+  assert.equal(deal("【無料】『Astrea』がEpic Gamesストアにて無料配布中").free, true);
+  assert.deepEqual(deal("【無料】『Astrea』がEpic Gamesストアにて無料配布中").stores, ["epic"]);
+  assert.ok(deal("PS4版「ゲーム発展国++」など全14タイトルがお得に。PlayStation Storeでカイロソフト作品のセールが開催中"));
+  assert.equal(deal("【50%還元】マンガ『X』Kindle版が全巻50%ポイント還元セール中"), null);
+  assert.equal(deal("Woot's New Sale Includes the Best Switch 2 Console Deal of the Year"), null);
+  assert.equal(deal("Hideo Kojima responds to accusations of Physint being over budget"), null);
+  assert.equal(deal("『X』大型アップデート配信"), null);
+});
+
+test("セール記事の判定: 「690円で」を無料配布と取り違えない", async () => {
+  const { classifyDeal } = await import("./filter.mjs");
+  const d = classifyDeal("Switch 2版「夜勤事件」が本日配信開始。発売を記念して30％オフの690円で販売中", "", config);
+  assert.deepEqual(d, { stores: [], off: 30, free: false });
+  assert.equal(classifyDeal("【4,500円→0円】『High On Life』がAmazonプライム会員向けに無料配布", "", config).free, true);
 });

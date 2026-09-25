@@ -2,7 +2,7 @@
 // 記事1件(JavaScript が無くても読めるサーバー側の描画)。トップの最初の30件とタイトルページで使う。
 // ブラウザ側で描き直すときの形は src/scripts/feed.ts の renderItem と同じにしておく。
 import type { NewsItem } from "../lib/news";
-import { categories, platforms, workSlugByName } from "../lib/news";
+import { categories, platforms, workSlugByName, dealStores, dealLabel } from "../lib/news";
 import { withBase } from "../lib/url";
 
 interface Props {
@@ -23,6 +23,8 @@ const fmt = new Intl.DateTimeFormat("ja-JP", {
   timeZone: "Asia/Tokyo",
 });
 const time = it.pubDate ? fmt.format(new Date(it.pubDate)) : "";
+const storeLabel = Object.fromEntries(dealStores.map((st) => [st.id, st.label]));
+const dealWhere = it.deal ? it.deal.stores.filter((st) => st !== "other").map((st) => storeLabel[st]).join("・") : "";
 const others = it.sources.filter((s) => !s.syndicated).length - 1;
 ---
 
@@ -31,6 +33,7 @@ const others = it.sources.filter((s) => !s.syndicated).length - 1;
     <time class="item-time" datetime={it.pubDate ?? undefined}>{time}</time>
     <div>
       <div class="item-meta">
+        {it.deal && <span class:list={["deal-badge", { "is-free": it.deal.free }]}>{dealLabel(it.deal)}{dealWhere && <small>{dealWhere}</small>}</span>}
         <span class="src"><span class={`kind-mark kind-${it.kind}`}></span>{it.source}</span>
         {others > 0 && <span class="more-src">ほか{others}媒体</span>}
       </div>
