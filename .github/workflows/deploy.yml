@@ -2,7 +2,7 @@ name: Update news and deploy to Cloudflare Pages
 
 # 公開URLは https://fourgetkun.com/game-news/ 。ここでは Cloudflare Pages のプロジェクト
 # game-news へ Direct Upload し、fourgetkun-hub の Worker(src/pages-proxy/proxy.js)が
-# そこから取ってきて返す(news-lifespan・anime-news と同じ。リポジトリを private のままにできる)。
+# そこから取ってきて返す(news-lifespan・anime-news と同じ)。
 #
 # 1時間ごとに RSS を集め直し、data/archive.json(生データ30日分)と src/data/news.json
 # (フィルタ・統合済み)をコミットしてから、ビルドして公開する。
@@ -11,9 +11,8 @@ name: Update news and deploy to Cloudflare Pages
 # GitHub の schedule は「空いていれば動く」扱いで数時間に1回しか動かないことがあったため。
 # schedule は予備として残し、直前(40分以内)にデータを更新済みなら最初のステップで打ち切る。
 #
-# 間隔を1時間にしているのは、private リポジトリの Actions 無料枠(月2,000分)を
-# ほかのリポジトリと分け合っているため。1回およそ1〜2分なので、1時間ごとで月720〜1,440分。
-# 30分ごとにすると倍になり、枠を超えやすい。各フィードは半日〜数日分を抱えているので、
+# リポジトリは public(2026-09-26 に変更)なので Actions の実行時間は無料枠に数えられない。
+# 1時間ごとにしているのは、媒体への取得の負担を抑えるため。各フィードは半日〜数日分を抱えているので、
 # 1時間ごとでも取りこぼしはほぼ出ない。
 #
 # 必要なリポジトリの secrets(mahjong-war と同じもの):

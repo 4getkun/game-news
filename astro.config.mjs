@@ -7,7 +7,7 @@ import tailwindcss from '@tailwindcss/vite';
 // ビルド成果物は Cloudflare Pages のプロジェクト game-news (https://game-news.pages.dev) へ
 // GitHub Actions から Direct Upload する。ここは「配信元」で、利用者が見るのは
 // fourgetkun.com/game-news/。fourgetkun-hub の Worker(src/pages-proxy/proxy.js)が
-// /game-news/* を pages.dev から取ってきて返す(リポジトリを private のままにできる)。
+// /game-news/* を pages.dev から取ってきて返す。
 // そのため site/base は公開側に合わせる。pages.dev を直接開かれたら Base.astro が公開側へ転送する。
 //
 // 静的出力のみ(アダプターは使わない)。2026-09 時点の wrangler は `pages project create` を
