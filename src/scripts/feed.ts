@@ -688,21 +688,14 @@ export async function startFeed() {
       read.closest(".item")?.classList.add("is-read");
       return;
     }
-    const btn = el.closest<HTMLElement>("button, a[data-work-link], a[data-plat-link], a[data-deal-toggle], a[data-store-link]");
+    const btn = el.closest<HTMLElement>("button, a[data-work-link], a[data-plat-link]");
     if (!btn) return;
     const d = btn.dataset;
-    if (btn.tagName === "A" && d.dealToggle !== undefined) e.preventDefault();
     if (d.workLink) {
       e.preventDefault();
       setWork(d.workLink);
     } else if (d.work) {
       setWork(d.work);
-    } else if (d.storeLink) {
-      e.preventDefault();
-      state.deal = true;
-      state.stores = new Set([d.storeLink]);
-      apply();
-      document.getElementById("feed")?.scrollIntoView({ behavior: "smooth" });
     } else if (d.platLink) {
       e.preventDefault();
       state.plats = new Set([d.platLink]);
@@ -716,11 +709,9 @@ export async function startFeed() {
       state.plats = new Set([d.tagPlat]);
       apply();
     } else if (d.dealToggle !== undefined) {
-      // ヒーローの「セール記事をぜんぶ見る」(scroll)は入れるだけ。ツールバーのボタンは切り替え
-      state.deal = d.dealToggle === "scroll" ? true : !state.deal;
+      state.deal = !state.deal;
       if (!state.deal) state.stores.clear();
       apply();
-      if (state.deal && d.dealToggle === "scroll") document.getElementById("feed")?.scrollIntoView({ behavior: "smooth" });
     } else if (d.store) {
       // 店は「セールの中で絞る」もの。押したらセールの絞り込みも入れる
       if (state.deal && state.stores.has(d.store)) state.stores.delete(d.store);

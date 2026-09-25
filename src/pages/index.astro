@@ -16,7 +16,6 @@ import {
   workSlugByName,
   dealStores,
   currentDeals,
-  dealLabel,
 } from "../lib/news";
 import { withBase } from "../lib/url";
 
@@ -31,14 +30,8 @@ const platStats = platformCounts(24);
 const platMax = Math.max(1, ...platStats.map((p) => p.count));
 // JavaScript が動かない環境でも最新分だけは読めるように、先頭だけサーバー側で描く
 const initialItems = jaNews.slice(0, 30);
-// ヒーローの「ショップ」: この1週間のセール・無料配布(店ごとの件数と、新しい順に数件)
+// ツールバーの「セール」ボタンに出す、この1週間のセール・無料配布の件数(読み込み後はブラウザ側で数え直す)
 const deals = currentDeals(7);
-const shopRows = deals.slice(0, 5);
-const storeLabel = Object.fromEntries(dealStores.map((st) => [st.id, st.label]));
-const shopStores = dealStores
-  .filter((st) => st.id !== "other")
-  .map((st) => ({ ...st, count: deals.filter((it) => it.deal!.stores.includes(st.id)).length }))
-  .filter((st) => st.count > 0);
 
 const config = {
   dataUrl: withBase("/data/news.json"),
@@ -106,28 +99,6 @@ const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }
           <p class="status-foot">媒体 {feeds.length} ／ 日本語の記事 ぜんぶで {jaNews.length}件</p>
         </nav>
       </div>
-      {shopRows.length > 0 && (
-        <section class="win shop" aria-labelledby="shop-title">
-          <span class="win-title" id="shop-title">ショップ（セール・むりょう）</span>
-          <ul class="shop-list">
-            {shopRows.map((it) => (
-              <li>
-                <a class="shop-row cursor-row" href={it.link} target="_blank" rel="noopener noreferrer">
-                  <span class:list={["shop-price", { "is-free": it.deal!.free }]}>{dealLabel(it.deal!)}</span>
-                  <span class="shop-name">{it.title}</span>
-                  <span class="shop-store">{it.deal!.stores.filter((st) => st !== "other").map((st) => storeLabel[st]).join("・")}</span>
-                </a>
-              </li>
-            ))}
-          </ul>
-          <div class="shop-foot">
-            <a class="shop-all" href={`${withBase("/")}?deal=1#feed`} data-deal-toggle="scroll">セール記事を ぜんぶ みる（{deals.length}けん）</a>
-            {shopStores.map((st) => (
-              <a class="shop-store-link" href={`${withBase("/")}?store=${st.id}#feed`} data-store-link={st.id}>{st.label} {st.count}</a>
-            ))}
-          </div>
-        </section>
-      )}
       {works.length > 0 && (
         <nav class="win works-win" aria-label="この3日間で話題のタイトル">
           <span class="win-title">わだいの タイトル</span>
