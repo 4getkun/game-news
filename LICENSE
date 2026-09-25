@@ -1,0 +1,33 @@
+Copyright (c) 2026 4getkun. All rights reserved.
+
+このリポジトリのソースコード・デザイン・画像(アイコン、OG画像など)・フィルタの設定と辞書
+(src/data/filters.json など)の著作権は 4getkun に帰属します。
+
+このリポジトリは閲覧できるように公開していますが、オープンソースではありません。
+著作権者の書面による許可なく、全部または一部を複製・改変・再配布・転載すること、
+ほかのサイトやサービス・製品に組み込んで使うこと(商用・非商用を問いません)を禁じます。
+GitHub の利用規約で認められている範囲(GitHub 上での閲覧とフォーク)を超える利用は許可していません。
+
+次のものはこのライセンスの対象外で、それぞれの権利者・ライセンスに従います。
+  - 収集したニュースの見出し・要約・リンク・サムネイル画像(data/、src/data/news.json):
+    各配信元の媒体に帰属します
+  - tools/fonts/ のフォント(BIZ UDGothic・DotGothic16): SIL Open Font License 1.1
+    (同じフォルダの OFL-*.txt を参照)
+  - package.json に書かれた外部ライブラリ: それぞれのライセンス
+
+公開サイト: https://fourgetkun.com/game-news/
+
+---
+
+Copyright (c) 2026 4getkun. All rights reserved.
+
+This repository is publicly visible for reference only. It is NOT open source.
+No permission is granted to copy, modify, redistribute, or use any part of this
+repository (source code, design, images, filter configuration and dictionaries)
+in other sites, services, or products, commercial or non-commercial, without
+prior written permission from the copyright holder. Use beyond what the GitHub
+Terms of Service allow (viewing and forking on GitHub) is not permitted.
+
+Excluded: collected news headlines, summaries, links and thumbnails belong to
+their publishers; fonts in tools/fonts/ are under the SIL Open Font License 1.1;
+third-party packages are under their own licenses.
