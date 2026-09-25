@@ -170,3 +170,20 @@ test("ちいかわ: アニメ・グッズの記事は除外、ゲーム化・ゲ
   assert.equal(off("オンライン人狼アクション『Among Us』がカラフルな“めじるしアクセサリー”に！"), false);
   assert.equal(off("『牧場物語』歴代シリーズの「ウシ」にだけ注目しためじるしアクセサリーがユニーク！"), false);
 });
+
+test("途中で切れた見出しは、同じ書き出しの完全な見出しにまとめる", async () => {
+  const { isTruncatedTitle } = await import("./filter.mjs");
+  assert.equal(isTruncatedTitle("人気ゾンビサバイバルゲーム『7 Days to"), true);
+  assert.equal(isTruncatedTitle("TVアニメ『X』第24話のあらすじ公開！ 東は、平と会えなくなることを分かったうえで…"), false);
+  assert.equal(isTruncatedTitle("新作『X』の発売日が決定"), false);
+  const mk = (title, link, pubDate, kind) => ({
+    title, link, pubDate, kind, summary: "", image: null, categories: [], platforms: [], spoiler: false, score: 0, lang: "ja",
+    works: [], sources: [{ name: link, sourceId: link, link }],
+  });
+  const out = dedupeItems([
+    mk("人気ゾンビサバイバルゲーム『7 Days to", "https://g/1", "2026-09-26T03:00:00Z", "aggregator"),
+    mk("人気ゾンビサバイバルゲーム『7 Days to Die』に“バックパック”が実装", "https://d/1", "2026-09-26T02:00:00Z", "specialist"),
+  ]);
+  assert.equal(out.length, 1);
+  assert.ok(out[0].title.includes("Die』"));
+});

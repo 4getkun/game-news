@@ -371,8 +371,9 @@ function timeOf(item) {
 
 function mergeGroup(group, kindRank) {
   if (group.length === 1) return group[0];
-  // 代表記事: 再配信でない記事 > 専門媒体 > 総合 > プレス > Googleニュース経由、同順位なら要約が長い方
-  const rank = (it) => kindRank(it) + (it.syndicated ? 100 : 0);
+  // 代表記事: 見出しが途中で切れていない記事 > 再配信でない記事 > 専門媒体 > 総合 > プレス > Googleニュース経由、
+  // 同順位なら要約が長い方
+  const rank = (it) => kindRank(it) + (it.syndicated ? 100 : 0) + (isTruncatedTitle(it.title) ? 1000 : 0);
   const primary = group.reduce((best, cur) => {
     const rb = rank(best);
     const rc = rank(cur);
@@ -418,6 +419,17 @@ function mergeGroup(group, kindRank) {
  * kindRank: 代表記事の選び方(小さいほど優先)
  * options: syndicationWindowMs / syndicationSimilarity (filters.json の syndication から渡す)
  */
+/**
+ * 途中で切れた見出しか(Googleニュース経由で「人気ゾンビサバイバルゲーム『7 Days to」のように届くことがある)。
+ * 括弧の開きと閉じの数が合わないものを true にする。「…」で終わる見出しは、あらすじの見出し
+ * (「〜は…」)のようにわざと付けているものが多いので、切れているとは見なさない
+ */
+export function isTruncatedTitle(title) {
+  const t = String(title ?? "").trim();
+  const pairs = [["『", "』"], ["「", "」"], ["【", "】"], ["（", "）"], ["《", "》"], ["〈", "〉"]];
+  return pairs.some(([o, c]) => t.split(o).length > t.split(c).length);
+}
+
 export function dedupeItems(items, kindRank = () => 0, options = {}) {
   const syndWindow = options.syndicationWindowMs ?? 72 * 60 * 60 * 1000;
   const syndSim = options.syndicationSimilarity ?? 0.7;
@@ -450,6 +462,23 @@ export function dedupeItems(items, kindRank = () => 0, options = {}) {
     const key = langOf(it) + "|" + norms[i];
     if (byTitle.has(key)) union(i, byTitle.get(key), "exact");
     else byTitle.set(key, i);
+  });
+
+  // 1'. 途中で切れた見出しは、同じ書き出しで始まる完全な見出しの記事にまとめる
+  items.forEach((it, i) => {
+    if (!isTruncatedTitle(it.title)) return;
+    const head = norms[i];
+    if (head.length < 12) return;
+    const t = timeOf(it);
+    const j = items.findIndex(
+      (other, k) =>
+        k !== i &&
+        langOf(other) === langOf(it) &&
+        norms[k].length > head.length &&
+        norms[k].startsWith(head) &&
+        (t === null || timeOf(other) === null || Math.abs(timeOf(other) - t) <= syndWindow),
+    );
+    if (j >= 0) union(i, j, "syndicated");
   });
 
   const dated = items

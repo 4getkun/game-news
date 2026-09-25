@@ -18,6 +18,7 @@ import path from "node:path";
 import {
   evaluateItem,
   dedupeItems,
+  isTruncatedTitle,
   splitPublisherSuffix,
   extractWorks,
   workKey,
@@ -384,6 +385,8 @@ async function main() {
     syndicationSimilarity: synd.similarity ?? 0.7,
   });
   const dd = dedupeItems.lastStats;
+  // まとめ先が見つからなかった、途中で切れた見出しには「…」を付けて、切れていることが分かるようにする
+  for (const it of deduped) if (isTruncatedTitle(it.title)) it.title += "…";
   deduped.sort((a, b) => (b.pubDate ? Date.parse(b.pubDate) : 0) - (a.pubDate ? Date.parse(a.pubDate) : 0));
   const output = deduped.slice(0, MAX_OUTPUT_ITEMS);
   const calendar = buildCalendar(output);
