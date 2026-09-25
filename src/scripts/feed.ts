@@ -14,6 +14,8 @@ interface RawItem {
   s: string;
   l: string;
   d: string | null;
+  /** このサイトが初めて拾った時刻(「前回から新着」の判定用) */
+  fs?: string | null;
   i: string | null;
   src: string;
   sn: string;
@@ -32,6 +34,8 @@ interface RawItem {
 
 interface Item extends RawItem {
   time: number;
+  /** 初めて拾った時刻(ms)。前回の訪問より後なら NEW */
+  seen: number;
   haystack: string;
   /** 再配信を除いた、独自に報じた他媒体の数(「話題順」の基準) */
   originals: number;
@@ -44,6 +48,10 @@ interface Config {
   platforms: { id: string; label: string }[];
   feeds: { id: string; name: string; kind: string; lang: string }[];
   kindLabels: Record<string, string>;
+  /** タイトル名 → タイトルページの slug(ページがあるタイトルだけ) */
+  workSlugs: Record<string, string>;
+  /** サイトのトップの URL(タイトルページへのリンクに使う) */
+  baseUrl: string;
 }
 
 type Period = "all" | "24h" | "3d" | "7d";
@@ -66,12 +74,18 @@ interface State {
   spoilerBlur: boolean;
   hideRead: boolean;
   multiOnly: boolean;
+  /** 前回の訪問から後に拾った記事だけ(保存しない) */
+  newOnly: boolean;
 }
 
 const PAGE_SIZE = 60;
 const PREFS_KEY = "game-news:prefs";
 const READ_KEY = "game-news:read";
 const READ_MAX = 4000;
+// 「前回から新着」: 最後に開いた時刻を localStorage に残す。同じ訪問の中で再読み込みしても
+// NEW が消えないよう、訪問の最初に読んだ値を sessionStorage に取っておいてそちらを使う
+const LAST_VISIT_KEY = PREFS_KEY.replace(":prefs", ":lastVisit");
+const VISIT_BASE_KEY = PREFS_KEY.replace(":prefs", ":visitBase");
 const PERIOD_HOURS: Record<Period, number> = { all: Infinity, "24h": 24, "3d": 72, "7d": 168 };
 
 const $ = <T extends HTMLElement = HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
@@ -125,8 +139,22 @@ export async function startFeed() {
     spoilerBlur: prefs.spoilerBlur !== false,
     hideRead: prefs.hideRead === true,
     multiOnly: prefs.multiOnly === true,
+    newOnly: url.searchParams.get("new") === "1",
   };
   const readSet = new Set(storageGet<string[]>(READ_KEY, []));
+  const visitBase = (() => {
+    try {
+      let base = sessionStorage.getItem(VISIT_BASE_KEY);
+      if (base === null) {
+        base = localStorage.getItem(LAST_VISIT_KEY) ?? "";
+        sessionStorage.setItem(VISIT_BASE_KEY, base);
+      }
+      localStorage.setItem(LAST_VISIT_KEY, String(Date.now()));
+      return Number(base) || 0;
+    } catch {
+      return 0;
+    }
+  })();
   const revealed = new Set<string>();
 
   let items: Item[] = [];
@@ -136,6 +164,7 @@ export async function startFeed() {
     items = json.items.map((it) => ({
       ...it,
       time: it.d ? Date.parse(it.d) : 0,
+      seen: it.fs ? Date.parse(it.fs) : it.d ? Date.parse(it.d) : 0,
       haystack: norm(`${it.t} ${it.s} ${it.w.join(" ")} ${it.sn}`),
       originals: it.x.filter((s) => !s.sy).length,
     }));
@@ -172,9 +201,15 @@ export async function startFeed() {
     if (state.onlyFollow && state.follow.length > 0 && !it.w.some((w) => state.follow.includes(w))) return false;
     if (state.multiOnly && it.originals === 0) return false;
     if (state.hideRead && readSet.has(it.l)) return false;
+    if (state.newOnly && !isNew(it)) return false;
     if (query.include.some((w) => !it.haystack.includes(w))) return false;
     if (query.exclude.some((w) => it.haystack.includes(w))) return false;
     return true;
+  }
+
+  /** 前回の訪問より後に拾った記事(初めての訪問では何も NEW にしない) */
+  function isNew(it: Item) {
+    return visitBase > 0 && it.seen > visitBase;
   }
 
   function isMuted(it: Item) {
@@ -195,7 +230,7 @@ export async function startFeed() {
   function renderItem(it: Item): string {
     const followed = it.w.some((w) => state.follow.includes(w));
     const guard = state.spoilerBlur && it.sp === 1 && !revealed.has(it.l);
-    const classes = ["item", readSet.has(it.l) ? "is-read" : "", followed ? "is-followed" : "", guard ? "spoiler-guard" : ""]
+    const classes = ["item", isNew(it) ? "is-new" : "", readSet.has(it.l) ? "is-read" : "", followed ? "is-followed" : "", guard ? "spoiler-guard" : ""]
       .filter(Boolean)
       .join(" ");
     const others = it.x.filter((s) => !s.sy);
@@ -228,6 +263,7 @@ export async function startFeed() {
         <time class="item-time" ${it.d ? `datetime="${esc(it.d)}"` : ""}>${it.time ? timeFmt.format(it.time) : ""}</time>
         <div>
           <div class="item-meta">
+            ${isNew(it) ? `<span class="new-badge">NEW</span>` : ""}
             <span class="src"><span class="kind-mark kind-${esc(it.k)}" title="${esc(config.kindLabels[it.k] ?? "")}"></span>${esc(it.sn)}</span>
             ${it.originals ? `<span class="more-src">ほか${it.originals}媒体</span>` : ""}
             ${it.sy ? `<span class="lang" title="元の媒体の記事が見つからなかった再配信記事">転載</span>` : ""}
@@ -315,6 +351,13 @@ export async function startFeed() {
     setSeg("period", state.period);
     setSeg("sort", state.sort);
     setSeg("lang", state.lang);
+    const newBtn = document.getElementById("new-only");
+    if (newBtn) {
+      const n = items.filter((it) => isNew(it) && it.lang === "ja").length;
+      newBtn.hidden = visitBase === 0 || n === 0;
+      newBtn.setAttribute("aria-pressed", String(state.newOnly));
+      newBtn.querySelector(".new-count")!.textContent = String(n);
+    }
     $<HTMLInputElement>("#only-follow").checked = state.onlyFollow;
     $<HTMLInputElement>("#spoiler-blur").checked = state.spoilerBlur;
     $<HTMLInputElement>("#hide-read").checked = state.hideRead;
@@ -337,6 +380,7 @@ export async function startFeed() {
     if (state.work) {
       const following = state.follow.includes(state.work);
       banner.innerHTML = `<div class="work-banner"><h2>${esc(state.work)}</h2>
+        ${config.workSlugs[state.work] ? `<a class="chip" href="${config.baseUrl}work/${encodeURIComponent(config.workSlugs[state.work])}/">タイトルページ</a>` : ""}
         <button type="button" class="chip" data-toggle-follow="${esc(state.work)}" aria-pressed="${following}">${following ? "★ フォロー中" : "☆ フォローする"}</button>
         <button type="button" class="chip" data-clear="work">タイトルの絞り込みを解除</button></div>`;
     } else {
@@ -351,6 +395,7 @@ export async function startFeed() {
     if (state.period !== "all") active.push(`<button type="button" class="chip" data-clear="period">${{ "24h": "24時間以内", "3d": "3日以内", "7d": "7日以内" }[state.period]}</button>`);
     if (state.lang === "en") active.push(`<button type="button" class="chip" data-clear="lang">Englishのみ</button>`);
     if (state.onlyFollow) active.push(`<button type="button" class="chip" data-clear="onlyFollow">フォロー中のタイトルのみ</button>`);
+    if (state.newOnly) active.push(`<button type="button" class="chip" data-clear="newOnly">前回から新着のみ</button>`);
     if (state.multiOnly) active.push(`<button type="button" class="chip" data-clear="multiOnly">複数媒体の話題のみ</button>`);
     if (state.hiddenSources.size) active.push(`<button type="button" class="chip" data-clear="sources">${state.hiddenSources.size}媒体を非表示中</button>`);
     $("#active-filters").innerHTML = active.join("");
@@ -404,6 +449,7 @@ export async function startFeed() {
     set("sort", state.sort, "new");
     set("work", state.work);
     set("lang", state.lang, "ja");
+    set("new", state.newOnly ? "1" : "");
     if (u.href !== location.href) history.replaceState(null, "", u);
   }
 
@@ -427,7 +473,7 @@ export async function startFeed() {
   }
 
   function resetAll() {
-    Object.assign(state, { q: "", period: "all", sort: "new", work: "", lang: "ja", onlyFollow: false, multiOnly: false, hideRead: false });
+    Object.assign(state, { q: "", period: "all", sort: "new", work: "", lang: "ja", onlyFollow: false, multiOnly: false, hideRead: false, newOnly: false });
     state.cats.clear();
     state.plats.clear();
     state.hiddenSources.clear();
@@ -555,7 +601,11 @@ export async function startFeed() {
       else if (k === "work") state.work = "";
       else if (k === "onlyFollow") state.onlyFollow = false;
       else if (k === "multiOnly") state.multiOnly = false;
+      else if (k === "newOnly") state.newOnly = false;
       else if (k === "sources") state.hiddenSources.clear();
+      apply();
+    } else if (btn.id === "new-only") {
+      state.newOnly = !state.newOnly;
       apply();
     } else if (btn.id === "reset-all") {
       resetAll();

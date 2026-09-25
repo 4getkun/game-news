@@ -1,0 +1,62 @@
+---
+// タイトルページ。記事が2件以上あるゲームタイトルごとに1ページ(src/lib/news.ts の workPages)。
+// そのタイトルの記事を新しい順に並べ、予定(カレンダー)に載っている日付があれば上に出す。
+import Base from "../../layouts/Base.astro";
+import NewsItem from "../../components/NewsItem.astro";
+import { workPages, calendar, categories, formatDateTime } from "../../lib/news";
+import type { WorkPage } from "../../lib/news";
+import { withBase } from "../../lib/url";
+
+export function getStaticPaths() {
+  return workPages.map((w) => ({ params: { slug: w.slug }, props: { work: w } }));
+}
+
+const { work } = Astro.props as { work: WorkPage };
+const items = work.items;
+const schedule = calendar.filter((e) => e.work === work.name);
+const first = items[items.length - 1]?.pubDate;
+const last = items[0]?.pubDate;
+// 記事に多く付いているカテゴリ上位3つ(ページの説明文に使う)
+const catCount = new Map<string, number>();
+for (const it of items) for (const c of it.categories) catCount.set(c, (catCount.get(c) ?? 0) + 1);
+const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
+const topCats = [...catCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([c]) => catLabel[c]);
+const description = `『${work.name}』のニュース${items.length}件をまとめて表示。${topCats.length ? `${topCats.join("・")}など。` : ""}`;
+const dateLabel = (d: string, precision: string) => {
+  const [y, m, day] = d.split("-");
+  return precision === "month" ? `${y}年${Number(m)}月` : `${y}年${Number(m)}月${Number(day)}日`;
+};
+---
+
+<Base title={`${work.name}のニュース`} description={description}>
+  <section class="wrap work-page">
+    <p class="crumbs"><a href={withBase("/work/")}>タイトル一覧</a></p>
+    <h1 class="work-title">{work.name}</h1>
+    <p class="work-meta">
+      ニュース {items.length}件
+      {first && last && <>（{formatDateTime(first)} 〜 {formatDateTime(last)}）</>}
+    </p>
+    <p class="work-actions">
+      <a class="btn btn-solid" href={`${withBase("/")}?work=${encodeURIComponent(work.name)}#feed`}>絞り込み画面で見る・フォローする</a>
+    </p>
+
+    {schedule.length > 0 && (
+      <section class="work-schedule win">
+        <span class="win-title">よてい</span>
+        <ul>
+          {schedule.map((e) => (
+            <li>
+              <strong>{dateLabel(e.date, e.precision)}</strong> {e.label}
+              <a href={e.link} target="_blank" rel="noopener noreferrer">{e.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <div class="day">
+      <div class="day-head"><h2>ニュース</h2><span>新しい順</span></div>
+      {items.map((it) => <NewsItem item={it} showDate />)}
+    </div>
+  </section>
+</Base>

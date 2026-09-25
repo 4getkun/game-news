@@ -1,5 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
+import NewsItem from "../components/NewsItem.astro";
 import {
   jaNews,
   generatedAt,
@@ -12,8 +13,8 @@ import {
   recentCount,
   kindLabels,
   trendingWorks,
+  workSlugByName,
 } from "../lib/news";
-import type { NewsItem } from "../lib/news";
 import { withBase } from "../lib/url";
 
 // ヒーローはビルド時に描くので、閲覧側の「見たくない話題を隠す」が効かない。
@@ -35,15 +36,10 @@ const config = {
   platforms,
   feeds: feeds.map(({ id, name, kind, lang }) => ({ id, name, kind, lang })),
   kindLabels,
+  workSlugs: workSlugByName,
+  baseUrl: withBase("/"),
 };
 
-const timeOf = (iso: string | null) =>
-  iso
-    ? new Intl.DateTimeFormat("ja-JP", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo" }).format(new Date(iso))
-    : "";
-const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
-const platLabel = Object.fromEntries(platforms.map((p) => [p.id, p.label]));
-const itemWorks = (it: NewsItem) => it.works.slice(0, 3);
 
 // メッセージウィンドウの1文字ずつ表示。文字ごとに span を作り、表示の遅れを --i で渡す
 const chars = (text: string) => Array.from(text);
@@ -123,6 +119,9 @@ const line2Delay = chars(line1).length * 28 + 350;
         <button type="button" data-value="new" aria-pressed="true">新着順</button>
         <button type="button" data-value="hot" aria-pressed="false">話題順</button>
       </div>
+      <button type="button" class="btn new-only" id="new-only" aria-pressed="false" hidden>
+        前回から新着 <span class="new-count">0</span>件
+      </button>
       <button type="button" class="btn filter-open" id="filter-open" aria-controls="panel" aria-expanded="false">
         コマンド<span id="filter-badge"></span>
       </button>
@@ -250,29 +249,7 @@ const line2Delay = chars(line1).length * 28 + 350;
       <div id="feed-list">
         <div class="day">
           <div class="day-head"><h2>最新</h2></div>
-          {initialItems.map((it) => (
-            <article class="item">
-              <div class="item-grid cursor-row">
-                <time class="item-time" datetime={it.pubDate ?? undefined}>{timeOf(it.pubDate)}</time>
-                <div>
-                  <div class="item-meta">
-                    <span class="src"><span class={`kind-mark kind-${it.kind}`}></span>{it.source}</span>
-                    {it.sources.filter((s) => !s.syndicated).length > 1 && (
-                      <span class="more-src">ほか{it.sources.filter((s) => !s.syndicated).length - 1}媒体</span>
-                    )}
-                  </div>
-                  <h3 class="item-title"><a href={it.link} target="_blank" rel="noopener noreferrer">{it.title}</a></h3>
-                  {it.summary && <p class="item-summary">{it.summary}</p>}
-                  <div class="item-tags">
-                    {(it.platforms ?? []).map((p) => <span class="plat">{platLabel[p]}</span>)}
-                    {itemWorks(it).map((w) => <span class="tag tag-work">{w}</span>)}
-                    {it.categories.slice(0, 3).map((c) => <span class="tag">#{catLabel[c]}</span>)}
-                  </div>
-                </div>
-                {it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
-              </div>
-            </article>
-          ))}
+          {initialItems.map((it) => <NewsItem item={it} />)}
         </div>
       </div>
       <div class="feed-more"><button type="button" class="btn" id="more" hidden>つづきを表示</button></div>

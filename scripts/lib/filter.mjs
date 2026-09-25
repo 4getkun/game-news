@@ -365,6 +365,8 @@ function mergeGroup(group, kindRank) {
   return {
     ...primary,
     pubDate: times.length ? new Date(Math.min(...times)).toISOString() : primary.pubDate,
+    // 「前回から新着」の判定用。まとめたうち一番早く拾った時刻
+    firstSeen: group.map((it) => it.firstSeen).filter(Boolean).sort()[0] ?? primary.firstSeen ?? null,
     image: primary.image ?? group.find((it) => it.image)?.image ?? null,
     categories: union("categories"),
     platforms: union("platforms"),
@@ -466,4 +468,102 @@ export function dedupeItems(items, kindRank = () => 0, options = {}) {
   });
   dedupeItems.lastStats = stats;
   return [...groups.values()].map((g) => mergeGroup(g, kindRank));
+}
+
+// ---- 予定(カレンダー)の抽出 --------------------------------------------------
+//
+// 見出しの「12月10日発売」「10月3日より放送開始」「2027年1月から配信」「本日発売」のような
+// 「日付 + 動詞」を拾って、発売日・放送日などの予定にする。
+//  - 年が書かれていなければ、記事の日付から見て一番近い将来(45日前まで許す)の年にする
+//  - 日付の直後が「まで」「〆」のものは締め切りなので拾わない
+//  - 日付と動詞の間に「PV」「ビジュアル」などがあるもの(「12月10日にPV公開」)は予定ではない
+//  - 日まで分かれば precision: "day"、月までなら "month"(「2027年1月放送」「10月期」)
+// 動詞と除外語は filters.json の schedule で決める。
+
+const JST_OFFSET_MS = 9 * 60 * 60 * 1000;
+
+function jstParts(date) {
+  const d = new Date(date.getTime() + JST_OFFSET_MS);
+  return { y: d.getUTCFullYear(), m: d.getUTCMonth() + 1, d: d.getUTCDate() };
+}
+
+function pad(n) {
+  return String(n).padStart(2, "0");
+}
+
+/**
+ * 年の無い日付に年を補う。記事の日付より150日以上前になるときだけ翌年にする
+ * (9月の記事の「1月8日放送」は来年、「7月15日に放送された」は今年)
+ */
+function inferYear(month, day, pub) {
+  const p = jstParts(pub);
+  let y = p.y;
+  const candidate = Date.UTC(y, month - 1, day || 1);
+  if (candidate < Date.UTC(p.y, p.m - 1, p.d) - 150 * 86400000) y += 1;
+  return y;
+}
+
+const DATE_RE =
+  /(?:(\d{4})年\s*)?(\d{1,2})月(?:\s*(\d{1,2})日)?(期)?|(?<![\d/])(\d{1,2})\/(\d{1,2})(?![\d/])|(本日)/g;
+
+/**
+ * 1つの文から予定を取り出す。pubDate は記事の公開日時(年の補完と「本日」に使う)。
+ * 返り値: [{ date: "2026-12-10" | "2026-12", precision: "day" | "month", verb, label }]
+ */
+export function extractSchedules(text, pubDate, config) {
+  const sched = config.schedule;
+  if (!sched || !pubDate) return [];
+  const pub = new Date(pubDate);
+  if (Number.isNaN(pub.getTime())) return [];
+  const t = normalizeForMatch(text);
+  // 毎週の話数の告知(「第96話 放送」)はカレンダーを埋めてしまうので拾わない
+  if ((sched.skipIfMatches ?? []).some((re) => new RegExp(re, "i").test(t))) return [];
+  const out = [];
+  for (const m of t.matchAll(DATE_RE)) {
+    let year;
+    let month;
+    let day;
+    if (m[7]) {
+      ({ y: year, m: month, d: day } = jstParts(pub));
+    } else if (m[5]) {
+      month = Number(m[5]);
+      day = Number(m[6]);
+    } else {
+      year = m[1] ? Number(m[1]) : undefined;
+      month = Number(m[2]);
+      day = m[3] ? Number(m[3]) : undefined;
+      if (m[4]) day = undefined; // 「10月期」は月まで
+    }
+    if (!month || month > 12 || (day !== undefined && (day < 1 || day > 31))) continue;
+
+    // 「本日」は直後の動詞だけ(「本日限定の…」のような別の意味を拾わない)
+    const windowLen = m[7] ? 6 : (sched.window ?? 16);
+    const after = t.slice(m.index + m[0].length, m.index + m[0].length + windowLen);
+    if (/^\s*[（(][^）)]{1,3}[）)]\s*まで|^\s*まで|^\s*〆/.test(after)) continue;
+
+    // 一番手前に出てくる動詞を採用する
+    let best = null;
+    for (const v of sched.verbs) {
+      for (const kw of v.keywords) {
+        const i = after.indexOf(normalizeForMatch(kw));
+        if (i !== -1 && (best === null || i < best.i)) best = { i, v };
+      }
+    }
+    if (!best) continue;
+    // 「放送され」「公開された」「発売した」のような過去の出来事や、「開催中止」「発売延期」は予定ではない
+    const verbWord = best.v.keywords.find((kw) => after.startsWith(normalizeForMatch(kw), best.i)) ?? "";
+    const rest = after.slice(best.i + normalizeForMatch(verbWord).length);
+    if (/^(され|された|した|していた|済み|済|中止|延期|見送)/.test(rest)) continue;
+    const between = after.slice(0, best.i);
+    if ((sched.excludeBetween ?? []).some((w) => between.includes(normalizeForMatch(w)))) continue;
+    if (/[。！？!?]/.test(between)) continue; // 文をまたいだものは別の話
+
+    if (year === undefined) year = inferYear(month, day, pub);
+    const precision = day === undefined ? "month" : "day";
+    const date = precision === "day" ? `${year}-${pad(month)}-${pad(day)}` : `${year}-${pad(month)}`;
+    if (!out.some((e) => e.date === date && e.verb === best.v.id)) {
+      out.push({ date, precision, verb: best.v.id, label: best.v.label });
+    }
+  }
+  return out;
 }

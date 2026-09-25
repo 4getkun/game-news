@@ -23,6 +23,7 @@ import {
   workKey,
   buildWorkDisplayMap,
   isSyndicated,
+  extractSchedules,
   originalPublisherFromTitle,
 } from "./lib/filter.mjs";
 
@@ -167,6 +168,53 @@ async function loadArchive() {
 
 const linkKey = (link) => link.split("#")[0].replace(/[?&]source=rss$/, "");
 
+/**
+ * 予定(カレンダー)を作る。見出しから「日付＋動詞」を拾い、同じ作品・同じ日・同じ動詞は1件にまとめる。
+ * 見出しで見つからず作品名があるときだけ要約も見る(要約の日付は別の話のことが多いため)。
+ * 表示するのは14日前〜400日先まで。
+ */
+function buildCalendar(items) {
+  const now = Date.now();
+  const from = now - 14 * 86400000;
+  const to = now + 400 * 86400000;
+  const inRange = (e) => {
+    const [y, m, d] = e.date.split("-").map(Number);
+    const start = Date.UTC(y, m - 1, d ?? 1);
+    const end = e.precision === "month" ? Date.UTC(y, m, 1) : start + 86400000;
+    return end >= from && start <= to;
+  };
+  const byKey = new Map();
+  for (const it of items) {
+    if (it.lang !== "ja") continue;
+    let found = extractSchedules(it.title, it.pubDate, FILTERS);
+    if (found.length === 0 && it.works.length > 0 && it.summary) found = extractSchedules(it.summary, it.pubDate, FILTERS);
+    for (const e of found) {
+      if (!inRange(e)) continue;
+      const subject = it.works[0] ? workKey(it.works[0], FILTERS) : it.title;
+      const key = `${subject}|${e.date}|${e.verb}`;
+      const entry = {
+        ...e,
+        work: it.works[0] ?? null,
+        title: it.title,
+        link: it.link,
+        source: it.source,
+        sources: it.sources.length,
+        categories: it.categories,
+        platforms: it.platforms ?? [],
+        spoiler: it.spoiler,
+      };
+      const prev = byKey.get(key);
+      if (!prev) byKey.set(key, entry);
+      else {
+        // 一番多くの媒体が報じた記事を代表にし、件数は足し合わせる
+        const merged = entry.sources > prev.sources ? entry : prev;
+        byKey.set(key, { ...merged, sources: prev.sources + entry.sources });
+      }
+    }
+  }
+  return [...byKey.values()].sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : b.sources - a.sources));
+}
+
 async function main() {
   console.log(`ゲームニュース収集を開始 (${FEEDS.length}フィード)`);
   const results = await Promise.all(FEEDS.map(fetchFeedRaw));
@@ -176,13 +224,21 @@ async function main() {
   const archiveMap = new Map();
   for (const it of await loadArchive()) archiveMap.set(linkKey(it.link), it);
   let fresh = 0;
+  const nowIso = new Date().toISOString();
   for (const { items } of results) {
     for (const it of items) {
       const key = linkKey(it.link);
       if (!archiveMap.has(key)) fresh++;
-      // 既存分は初回取得時の pubDate を保つ(フィードによっては更新のたびに日付が変わるため)
+      // 既存分は初回取得時の pubDate と firstSeen を保つ(フィードによっては更新のたびに日付が変わるため)。
+      // firstSeen は「このサイトが初めて拾った時刻」。閲覧側の「前回から新着」はこれで判定する
+      // (Googleニュース経由の記事は公開日時が古くても、拾ったのは今ということがある)
       const prev = archiveMap.get(key);
-      archiveMap.set(key, prev ? { ...it, pubDate: prev.pubDate ?? it.pubDate } : it);
+      archiveMap.set(
+        key,
+        prev
+          ? { ...it, pubDate: prev.pubDate ?? it.pubDate, firstSeen: prev.firstSeen ?? prev.pubDate ?? nowIso }
+          : { ...it, firstSeen: nowIso },
+      );
     }
   }
   const archive = [...archiveMap.values()].filter((it) => {
@@ -228,6 +284,7 @@ async function main() {
       summary: it.summary,
       link: it.link,
       pubDate: it.pubDate,
+      firstSeen: it.firstSeen ?? it.pubDate ?? null,
       image: it.image ?? null,
       source: displayName,
       sourceId: feed.id,
@@ -258,6 +315,7 @@ async function main() {
   const dd = dedupeItems.lastStats;
   deduped.sort((a, b) => (b.pubDate ? Date.parse(b.pubDate) : 0) - (a.pubDate ? Date.parse(a.pubDate) : 0));
   const output = deduped.slice(0, MAX_OUTPUT_ITEMS);
+  const calendar = buildCalendar(output);
 
   const syndicatedTotal = accepted.filter((it) => it.syndicated).length;
   const syndicatedLeft = output.filter((it) => it.syndicated).length;
@@ -280,6 +338,7 @@ async function main() {
         generatedAt: new Date().toISOString(),
         count: output.length,
         dedupe: { ...dd, syndicatedTotal, syndicatedLeft },
+        calendar,
         feeds: feedsStatus,
         items: output,
       },
@@ -291,6 +350,7 @@ async function main() {
   console.log(
     `完了: 表示 ${output.length}件 (アーカイブ ${archive.length}件 / 今回新規 ${fresh}件 / ` +
       `フィルタ通過 ${accepted.length}件 / 統合で ${accepted.length - deduped.length}件を集約` +
+      ` / 予定 ${calendar.length}件` +
       ` [見出し一致 ${dd.exact} / 再配信 ${dd.syndicated} / 類似 ${dd.similar}] / 作品辞書 ${knownWorks.size}語)`,
   );
   for (const f of feedsStatus) {

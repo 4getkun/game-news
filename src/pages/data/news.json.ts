@@ -10,6 +10,7 @@ export const GET: APIRoute = () => {
     s: it.summary,
     l: it.link,
     d: it.pubDate,
+    fs: it.firstSeen ?? null,
     i: it.image,
     src: it.sourceId,
     sn: it.source,

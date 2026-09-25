@@ -1,0 +1,50 @@
+---
+// 記事1件(JavaScript が無くても読めるサーバー側の描画)。トップの最初の30件とタイトルページで使う。
+// ブラウザ側で描き直すときの形は src/scripts/feed.ts の renderItem と同じにしておく。
+import type { NewsItem } from "../lib/news";
+import { categories, platforms, workSlugByName } from "../lib/news";
+import { withBase } from "../lib/url";
+
+interface Props {
+  item: NewsItem;
+  /** 時刻の代わりに日付も出す(タイトルページのように日をまたいで並べるとき) */
+  showDate?: boolean;
+}
+const { item: it, showDate = false } = Astro.props;
+const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
+const platLabel = Object.fromEntries(platforms.map((p) => [p.id, p.label]));
+const fmt = new Intl.DateTimeFormat("ja-JP", {
+  ...(showDate ? { month: "numeric", day: "numeric" } : {}),
+  hour: "2-digit",
+  minute: "2-digit",
+  timeZone: "Asia/Tokyo",
+});
+const time = it.pubDate ? fmt.format(new Date(it.pubDate)) : "";
+const others = it.sources.filter((s) => !s.syndicated).length - 1;
+---
+
+<article class="item">
+  <div class="item-grid cursor-row">
+    <time class="item-time" datetime={it.pubDate ?? undefined}>{time}</time>
+    <div>
+      <div class="item-meta">
+        <span class="src"><span class={`kind-mark kind-${it.kind}`}></span>{it.source}</span>
+        {others > 0 && <span class="more-src">ほか{others}媒体</span>}
+      </div>
+      <h3 class="item-title"><a href={it.link} target="_blank" rel="noopener noreferrer">{it.title}</a></h3>
+      {it.summary && <p class="item-summary">{it.summary}</p>}
+      <div class="item-tags">
+        {(it.platforms ?? []).map((p) => <span class="plat">{platLabel[p]}</span>)}
+        {it.works.slice(0, 3).map((w) =>
+          workSlugByName[w] ? (
+            <a class="tag tag-work" href={withBase(`/work/${workSlugByName[w]}/`)}>{w}</a>
+          ) : (
+            <span class="tag tag-work">{w}</span>
+          ),
+        )}
+        {it.categories.slice(0, 3).map((c) => <span class="tag">#{catLabel[c]}</span>)}
+      </div>
+    </div>
+    {it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+  </div>
+</article>

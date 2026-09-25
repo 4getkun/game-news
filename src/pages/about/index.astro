@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { feedStatus, feeds, categories, thresholds, kindLabels, generatedAt, formatDateTime, allNews, dedupeStats } from "../../lib/news";
+import { feedStatus, feeds, categories, topicCategories, platforms, thresholds, kindLabels, generatedAt, formatDateTime, allNews, dedupeStats, calendar, workPages } from "../../lib/news";
+import { withBase } from "../../lib/url";
 import type { FeedKind } from "../../lib/news";
 
 const kinds = Object.keys(kindLabels) as FeedKind[];
@@ -102,6 +103,33 @@ const merged = allNews.filter((it) => it.sources.length > 1).length;
       <li><strong>話題順</strong>: 独自に報じた媒体の数が多い順に並べます（転載は数えません）。</li>
     </ul>
     <p>フォロー・ミュート・既読などの設定は、お使いのブラウザにだけ保存されます。</p>
+
+    <h2>前回から新着・予定・タイトルページ</h2>
+    <ul>
+      <li>
+        <strong>前回から新着</strong>: 前に開いたとき以降にこのサイトが拾った記事に「NEW」が付き、「前回から新着」ボタンでそれだけに絞れます。
+        同じ訪問の中で再読み込みしても印は消えません。最後に開いた時刻はお使いのブラウザにだけ保存されます。
+      </li>
+      <li>
+        <strong><a href={withBase("/calendar/")}>よてい</a></strong>: 見出しの「12月10日発売」「本日配信」「10月1日より体験版」のような日付を拾い、発売・配信・アップデート・体験版・開催の予定として並べています（いま{calendar.length}件）。
+        年が書かれていない日付は記事の日付から補い、「◯日まで」のセールの締め切り・「PV公開」・過去の出来事・中止や延期は拾いません。
+      </li>
+      <li>
+        <strong><a href={withBase("/work/")}>タイトルページ</a></strong>: 直近30日のニュースに2件以上出てきたゲーム（いま{workPages.length}件）ごとに、記事と予定をまとめたページがあります。
+      </li>
+    </ul>
+
+    <h2>RSSで読む</h2>
+    <p>お使いのRSSリーダーに登録できます。どれも日本語の記事の新しい50件です。</p>
+    <ul>
+      <li><a href={withBase("/feed.xml")}>全記事</a> <code>{withBase("/feed.xml")}</code></li>
+      {platforms.map((p) => (
+        <li><a href={withBase(`/feed/platform/${p.id}.xml`)}>{p.label}</a> <code>{withBase(`/feed/platform/${p.id}.xml`)}</code></li>
+      ))}
+      {topicCategories.map((c) => (
+        <li><a href={withBase(`/feed/${c.id}.xml`)}>{c.label}</a> <code>{withBase(`/feed/${c.id}.xml`)}</code></li>
+      ))}
+    </ul>
 
     <h2>収集している媒体</h2>
     <div class="table-scroll">

@@ -1,0 +1,34 @@
+---
+// タイトル一覧。記事の多い順。検索はブラウザ側で絞り込むだけの小さな仕組み
+import Base from "../../layouts/Base.astro";
+import { workPages } from "../../lib/news";
+import { withBase } from "../../lib/url";
+---
+
+<Base title="タイトル一覧" description={`ニュースに出てきたゲームタイトル${workPages.length}件の一覧。タイトルごとのニュースをまとめて読めます。`}>
+  <section class="wrap work-index">
+    <h1 class="work-title">タイトル一覧</h1>
+    <p class="work-meta">直近30日のニュースに2件以上出てきたタイトル {workPages.length}件（記事の多い順）</p>
+    <label class="search work-search">
+      <span class="sr-only">タイトル名で絞り込む</span>
+      <input id="work-q" type="search" placeholder="タイトル名で絞り込む" autocomplete="off" />
+    </label>
+    <ul class="work-list win" id="work-list">
+      {workPages.map((w) => (
+        <li data-name={w.name.normalize("NFKC").toLowerCase()}>
+          <a class="cursor-row" href={withBase(`/work/${w.slug}/`)}>{w.name}</a>
+          <span class="count">{w.items.length}件</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Base>
+
+<script is:inline>
+  const q = document.getElementById("work-q");
+  const rows = document.querySelectorAll("#work-list li");
+  q?.addEventListener("input", () => {
+    const v = q.value.normalize("NFKC").toLowerCase().trim();
+    rows.forEach((li) => (li.hidden = v !== "" && !li.dataset.name.includes(v)));
+  });
+</script>

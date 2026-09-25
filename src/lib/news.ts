@@ -18,6 +18,8 @@ export interface NewsItem {
   summary: string;
   link: string;
   pubDate: string | null;
+  /** このサイトが初めて拾った時刻(「前回から新着」の判定用) */
+  firstSeen?: string | null;
   image: string | null;
   source: string;
   sourceId: string;
@@ -32,6 +34,23 @@ export interface NewsItem {
   /** 元記事が見つからず、再配信ポータルの記事だけが残っているもの */
   syndicated?: boolean;
   sources: NewsSource[];
+}
+
+/** 予定(カレンダー)。scripts/fetch-news.mjs の buildCalendar が作る */
+export interface CalendarEntry {
+  /** "2026-12-10"(日まで) か "2026-12"(月まで) */
+  date: string;
+  precision: "day" | "month";
+  verb: string;
+  label: string;
+  work: string | null;
+  title: string;
+  link: string;
+  source: string;
+  sources: number;
+  categories: string[];
+  platforms: string[];
+  spoiler: boolean;
 }
 
 export interface FeedStatus {
@@ -61,6 +80,7 @@ const data = newsData as unknown as {
   count: number;
   dedupe?: { exact: number; syndicated: number; similar: number; syndicatedTotal: number; syndicatedLeft: number };
   feeds: FeedStatus[];
+  calendar?: CalendarEntry[];
   items: NewsItem[];
 };
 
@@ -70,6 +90,7 @@ export const jaNews = allNews.filter((it) => it.lang === "ja");
 export const generatedAt = data.generatedAt;
 export const feedStatus = data.feeds;
 export const dedupeStats = data.dedupe;
+export const calendar: CalendarEntry[] = data.calendar ?? [];
 export const feeds = feedsData as { id: string; name: string; url: string; kind: FeedKind; lang: string; minScore?: number }[];
 export const categories = (filtersData as unknown as { categories: Category[] }).categories;
 /** 絞り込みのチップに並べるカテゴリ */
@@ -137,3 +158,54 @@ export function trendingWorks(hours = 72, limit = 12): { name: string; count: nu
     .sort((a, b) => b.count - a.count)
     .slice(0, limit);
 }
+
+// ---- 作品ページ -------------------------------------------------------------
+
+/** 作品ページを作る最低件数。1件だけの作品は中身が薄いので作らない */
+export const WORK_PAGE_MIN_ITEMS = 2;
+
+/**
+ * 作品名から URL 用の名前を作る。日本語はそのまま使い、URL で問題になる記号だけ「-」にする。
+ * (「FFX/X-2 HD Remaster」の「/」はパスの区切りになってしまうため)
+ */
+export function workSlug(name: string): string {
+  return (
+    name
+      .normalize("NFKC")
+      .replace(/[\/\?#%&:*"<>|\s.,!！?？'’`^~{}\[\]()（）【】「」『』〈〉]+/g, "-")
+      .replace(/-+/g, "-")
+      .replace(/^-|-$/g, "") || "work"
+  );
+}
+
+export interface WorkPage {
+  name: string;
+  slug: string;
+  items: NewsItem[];
+}
+
+/** 記事が WORK_PAGE_MIN_ITEMS 件以上ある作品の一覧(記事の多い順)。slug が重なったら番号を付ける */
+export const workPages: WorkPage[] = (() => {
+  const byName = new Map<string, NewsItem[]>();
+  for (const item of allNews) {
+    for (const w of item.works) {
+      if (!byName.has(w)) byName.set(w, []);
+      byName.get(w)!.push(item);
+    }
+  }
+  const pages: WorkPage[] = [];
+  const used = new Set<string>();
+  const sorted = [...byName.entries()]
+    .filter(([, items]) => items.length >= WORK_PAGE_MIN_ITEMS)
+    .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "ja"));
+  for (const [name, items] of sorted) {
+    let slug = workSlug(name);
+    for (let n = 2; used.has(slug); n++) slug = `${workSlug(name)}-${n}`;
+    used.add(slug);
+    pages.push({ name, slug, items });
+  }
+  return pages;
+})();
+
+/** 作品名 → 作品ページの slug(ページがある作品だけ) */
+export const workSlugByName: Record<string, string> = Object.fromEntries(workPages.map((w) => [w.name, w.slug]));

@@ -1,0 +1,104 @@
+---
+// 予定(カレンダー)。見出しから拾った「日付＋動詞」を月ごと・日ごとに並べる(scripts/fetch-news.mjs の buildCalendar)。
+// 月までしか分からない予定(「2027年1月放送」)は、その月の先頭に「◯月中」としてまとめる。
+import Base from "../../layouts/Base.astro";
+import { calendar, workSlugByName, generatedAt, formatDateTime, platforms } from "../../lib/news";
+import filters from "../../data/filters.json";
+import { withBase } from "../../lib/url";
+
+const verbs = (filters as unknown as { schedule: { verbs: { id: string; label: string }[] } }).schedule.verbs;
+const weekday = new Intl.DateTimeFormat("ja-JP", { weekday: "short", timeZone: "UTC" });
+const todayKey = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" }).format(new Date(generatedAt));
+
+type Entry = (typeof calendar)[number];
+const months = new Map<string, { monthOnly: Entry[]; days: Map<string, Entry[]> }>();
+for (const e of calendar) {
+  const ym = e.date.slice(0, 7);
+  if (!months.has(ym)) months.set(ym, { monthOnly: [], days: new Map() });
+  const m = months.get(ym)!;
+  if (e.precision === "month") m.monthOnly.push(e);
+  else {
+    if (!m.days.has(e.date)) m.days.set(e.date, []);
+    m.days.get(e.date)!.push(e);
+  }
+}
+const platLabel = Object.fromEntries(platforms.map((p) => [p.id, p.label]));
+const monthLabel = (ym: string) => `${ym.slice(0, 4)}年${Number(ym.slice(5, 7))}月`;
+const dayLabel = (d: string) => {
+  const [y, m, day] = d.split("-").map(Number);
+  return `${m}月${day}日（${weekday.format(new Date(Date.UTC(y, m - 1, day)))}）`;
+};
+---
+
+<Base
+  title="予定（発売・配信・アップデート）"
+  description="ゲームニュースの見出しから拾った、発売日・配信日・アップデート・体験版・イベントの予定を日付順に並べたカレンダー。"
+>
+  <section class="wrap cal-page">
+    <h1 class="work-title">予定</h1>
+    <p class="work-meta">
+      ニュースの見出しから「12月10日発売」「本日配信」のような日付を拾って並べています（{calendar.length}件、{formatDateTime(generatedAt)}時点）。
+      正式な日程は各記事で確かめてください。
+    </p>
+    <div class="chips cal-filter" id="cal-filter" role="group" aria-label="種類で絞り込む">
+      <button type="button" class="chip" data-verb="all" aria-pressed="true">すべて</button>
+      {verbs.map((v) => <button type="button" class="chip" data-verb={v.id} aria-pressed="false">{v.label}</button>)}
+    </div>
+
+    {calendar.length === 0 && <p class="empty">いまは予定がありません。</p>}
+
+    {[...months.entries()].map(([ym, m]) => (
+      <section class="cal-month">
+        <h2 class="cal-month-head">{monthLabel(ym)}</h2>
+        {m.monthOnly.length > 0 && (
+          <div class="cal-day">
+            <h3 class="cal-day-head">{Number(ym.slice(5, 7))}月中</h3>
+            <ul class="cal-list">
+              {m.monthOnly.map((e) => (
+                <li data-verb={e.verb}>
+                  <span class={`cal-verb cal-verb-${e.verb}`}>{e.label}</span>
+                  {e.work && workSlugByName[e.work] ? (
+                    <a class="cal-work" href={withBase(`/work/${workSlugByName[e.work]}/`)}>{e.work}</a>
+                  ) : e.work ? <span class="cal-work">{e.work}</span> : null}
+                  {e.platforms.map((p) => <span class="plat">{platLabel[p]}</span>)}
+                  <a class="cal-title" href={e.link} target="_blank" rel="noopener noreferrer">{e.title}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {[...m.days.entries()].map(([d, list]) => (
+          <div class={`cal-day${d === todayKey ? " is-today" : ""}${d < todayKey ? " is-past" : ""}`}>
+            <h3 class="cal-day-head">{dayLabel(d)}{d === todayKey && <span class="cal-today">今日</span>}</h3>
+            <ul class="cal-list">
+              {list.map((e) => (
+                <li data-verb={e.verb}>
+                  <span class={`cal-verb cal-verb-${e.verb}`}>{e.label}</span>
+                  {e.work && workSlugByName[e.work] ? (
+                    <a class="cal-work" href={withBase(`/work/${workSlugByName[e.work]}/`)}>{e.work}</a>
+                  ) : e.work ? <span class="cal-work">{e.work}</span> : null}
+                  {e.platforms.map((p) => <span class="plat">{platLabel[p]}</span>)}
+                  <a class="cal-title" href={e.link} target="_blank" rel="noopener noreferrer">{e.title}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+    ))}
+  </section>
+</Base>
+
+<script is:inline>
+  // 種類で絞り込む(空になった日・月は隠す)
+  const buttons = document.querySelectorAll("#cal-filter [data-verb]");
+  buttons.forEach((b) =>
+    b.addEventListener("click", () => {
+      const v = b.dataset.verb;
+      buttons.forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      document.querySelectorAll(".cal-list li").forEach((li) => (li.hidden = v !== "all" && li.dataset.verb !== v));
+      document.querySelectorAll(".cal-day").forEach((d) => (d.hidden = !d.querySelector("li:not([hidden])")));
+      document.querySelectorAll(".cal-month").forEach((m) => (m.hidden = !m.querySelector(".cal-day:not([hidden])")));
+    }),
+  );
+</script>

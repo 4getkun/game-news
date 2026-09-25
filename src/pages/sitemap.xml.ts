@@ -1,11 +1,12 @@
 // fourgetkun-hub の robots.txt から案内されるサイトマップ(hub の build-manifest.js の PROXIED_SITEMAPS)。
 // URL は公開側(fourgetkun.com/game-news/...)で、末尾スラッシュ付きを正本にする。
 import type { APIRoute } from "astro";
-import { generatedAt } from "../lib/news";
+import { generatedAt, workPages } from "../lib/news";
 
 export const prerender = true;
 
-const PAGES = ["/", "/about/"];
+// タイトルページは記事が2件以上あるタイトルだけ(src/lib/news.ts の workPages)
+const PAGES = ["/", "/calendar/", "/work/", "/about/", ...workPages.map((w) => `/work/${encodeURIComponent(w.slug)}/`)];
 
 export const GET: APIRoute = ({ site }) => {
   const base = import.meta.env.BASE_URL.replace(/\/$/, "");

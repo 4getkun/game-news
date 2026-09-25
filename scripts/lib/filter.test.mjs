@@ -104,3 +104,22 @@ test("同じタイトルの表記ゆれは同じキー・同じ表示名にな�
   const map = buildWorkDisplayMap([...ff, "FFX/X-2 HD Remaster"], config);
   assert.equal(map.get("FINAL FANTASY X/X-2 HD Remaster"), "FFX/X-2 HD Remaster"); // 一番多い表記
 });
+
+test("予定の抽出(ゲーム): 発売日・配信日を拾い、締め切りや過去は拾わない", async () => {
+  const { extractSchedules } = await import("./filter.mjs");
+  const pub = "2026-09-25T03:00:00Z";
+  const ex = (t) => extractSchedules(t, pub, config).map((e) => `${e.date}:${e.verb}`);
+  assert.deepEqual(ex("『A列車で行こう9 PRIME LINE』Steamで12月10日配信"), ["2026-12-10:launch"]);
+  assert.deepEqual(ex("『X』2027年2月19日発売決定"), ["2027-02-19:release"]);
+  assert.deepEqual(ex("『X』Switch 2版が本日発売"), ["2026-09-25:release"]);
+  assert.deepEqual(ex("『X』体験版を10月1日より配信"), ["2026-10-01:launch"]);
+  assert.deepEqual(ex("『X』9月30日まで50%オフ"), []);
+  assert.deepEqual(ex("『X』10月1日にPV公開"), []);
+  assert.deepEqual(ex("『X』8月1日に発売された新作が累計100万本"), []);
+});
+
+test("予定の抽出: 中止・延期は拾わない", async () => {
+  const { extractSchedules } = await import("./filter.mjs");
+  assert.deepEqual(extractSchedules("東京ゲームショウ2026、5日目（9月21日）の開催中止が発表", "2026-09-20T03:00:00Z", config), []);
+  assert.deepEqual(extractSchedules("『X』12月10日発売延期", "2026-09-20T03:00:00Z", config), []);
+});
