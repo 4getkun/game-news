@@ -9,8 +9,11 @@ interface Props {
   item: NewsItem;
   /** 時刻の代わりに日付も出す(タイトルページのように日をまたいで並べるとき) */
   showDate?: boolean;
+  /** サムネイルを出すか。トップの最初の30件では出さない(他サイトの大きな画像で最初の表示が遅くなるため。
+   *  ブラウザ側で一覧を描き直すときに遅延読み込みで出る) */
+  showThumb?: boolean;
 }
-const { item: it, showDate = false } = Astro.props;
+const { item: it, showDate = false, showThumb = true } = Astro.props;
 const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
 const platLabel = Object.fromEntries(platforms.map((p) => [p.id, p.label]));
 const fmt = new Intl.DateTimeFormat("ja-JP", {
@@ -45,6 +48,6 @@ const others = it.sources.filter((s) => !s.syndicated).length - 1;
         {it.categories.slice(0, 3).map((c) => <span class="tag">#{catLabel[c]}</span>)}
       </div>
     </div>
-    {it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+    {showThumb && it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
   </div>
 </article>

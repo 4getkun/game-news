@@ -249,7 +249,7 @@ const line2Delay = chars(line1).length * 28 + 350;
       <div id="feed-list">
         <div class="day">
           <div class="day-head"><h2>最新</h2></div>
-          {initialItems.map((it) => <NewsItem item={it} />)}
+          {initialItems.map((it) => <NewsItem item={it} showThumb={false} />)}
         </div>
       </div>
       <div class="feed-more"><button type="button" class="btn" id="more" hidden>つづきを表示</button></div>
