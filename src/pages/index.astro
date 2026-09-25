@@ -46,6 +46,8 @@ const chars = (text: string) => Array.from(text);
 const line1 = `ゲームのニュースが ${recent}けん とどいた！`;
 const line2 = latest ? `▶ ${latest.title}` : "";
 const line2Delay = chars(line1).length * 28 + 350;
+// ▼(またはウィンドウ)を押すと次のニュースへ送る。送る順番の見出し(見たくない話題は除く)
+const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }));
 ---
 
 <Base>
@@ -63,17 +65,22 @@ const line2Delay = chars(line1).length * 28 + 350;
             <span class="sr-only">{line1}</span>
             <span class="typer" aria-hidden="true">{chars(line1).map((c, i) => <span style={`--i:${i}`}>{c}</span>)}</span>
           </p>
+          <button type="button" class="msg-sound" id="msg-sound" aria-pressed="true" aria-label="効果音">♪</button>
           {latest && (
-            <p class="msg-line">
-              <a href={latest.link} target="_blank" rel="noopener noreferrer">
-                <span class="sr-only">いちばん新しいニュース: {latest.title}</span>
-                <span class="typer" aria-hidden="true" style={`--d:${line2Delay}ms`}>
+            <p class="msg-line" id="msg-headline">
+              <a href={latest.link} target="_blank" rel="noopener noreferrer" id="msg-link">
+                <span class="sr-only" id="msg-sr">いちばん新しいニュース: {latest.title}</span>
+                <span class="typer" id="msg-typed" aria-hidden="true" style={`--d:${line2Delay}ms`}>
                   {chars(line2).map((c, i) => <span style={`--i:${i}`}>{c}</span>)}
                 </span>
               </a>
             </p>
           )}
-          <span class="msg-next" aria-hidden="true">▼</span>
+          <div class="msg-foot">
+            <span class="msg-count" id="msg-count" aria-live="polite">1/{heroQueue.length}</span>
+            <button type="button" class="msg-next" id="msg-next" aria-label="次のニュースを表示">▼</button>
+          </div>
+          <script type="application/json" id="hero-queue" set:html={JSON.stringify(heroQueue)} />
         </div>
         <nav class="win status" aria-label="この24時間の機種別の件数">
           <span class="win-title">ステータス（24時間）</span>
@@ -266,6 +273,11 @@ const line2Delay = chars(line1).length * 28 + 350;
 
   <script type="application/json" id="app-config" set:html={JSON.stringify(config)} />
 </Base>
+
+<script>
+  import { startMessageWindow } from "../scripts/message-window";
+  startMessageWindow();
+</script>
 
 <script>
   import { startFeed } from "../scripts/feed";
