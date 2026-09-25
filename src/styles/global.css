@@ -1415,3 +1415,11 @@ a.tag-work {
   opacity: 1 !important;
   color: var(--muted);
 }
+/* 記事のタイトル名・話題のタグは押せるボタンなので、指で押しやすい高さ(24px 以上)を取る */
+.item-tags .tag,
+.item-tags .plat {
+  min-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  padding-block: 2px;
+}
