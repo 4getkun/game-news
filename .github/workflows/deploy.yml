@@ -7,6 +7,10 @@ name: Update news and deploy to Cloudflare Pages
 # 1時間ごとに RSS を集め直し、data/archive.json(生データ30日分)と src/data/news.json
 # (フィルタ・統合済み)をコミットしてから、ビルドして公開する。
 #
+# 起動のしかた: fourgetkun-hub の Cron Trigger(src/news-feeds.js)が毎時 workflow_dispatch で起動する。
+# GitHub の schedule は「空いていれば動く」扱いで数時間に1回しか動かないことがあったため。
+# schedule は予備として残し、直前(40分以内)にデータを更新済みなら最初のステップで打ち切る。
+#
 # 間隔を1時間にしているのは、private リポジトリの Actions 無料枠(月2,000分)を
 # ほかのリポジトリと分け合っているため。1回およそ1〜2分なので、1時間ごとで月720〜1,440分。
 # 30分ごとにすると倍になり、枠を超えやすい。各フィードは半日〜数日分を抱えているので、
@@ -47,22 +51,37 @@ jobs:
           ref: main
           fetch-depth: 1
 
+      # 予備の schedule が、Cron Trigger からの起動の直後に重ねて動いたときは何もしない
+      - name: Skip if updated recently (schedule only)
+        id: guard
+        if: github.event_name == 'schedule'
+        run: |
+          last=$(git log -1 --format=%ct -- src/data/news.json)
+          age=$(( $(date +%s) - last ))
+          echo "data age: ${age}s"
+          if [ "$age" -lt 2400 ]; then echo "skip=true" >> "$GITHUB_OUTPUT"; fi
+
       - name: Setup Node.js
+        if: steps.guard.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: npm ci --no-audit --no-fund
 
       - name: Test filters
+        if: steps.guard.outputs.skip != 'true'
         run: npm test
 
       - name: Fetch game news
+        if: steps.guard.outputs.skip != 'true'
         run: npm run fetch-news
 
       - name: Commit updated data if changed
+        if: steps.guard.outputs.skip != 'true'
         run: |
           if git diff --quiet -- data/archive.json src/data/news.json; then
             echo "No data changes."
@@ -82,10 +101,11 @@ jobs:
           fi
 
       - name: Build site
+        if: steps.guard.outputs.skip != 'true'
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
-        if: env.CLOUDFLARE_API_TOKEN != ''
+        if: steps.guard.outputs.skip != 'true' && env.CLOUDFLARE_API_TOKEN != ''
         # プロジェクト(game-news / game-news.pages.dev)は作成済み。
         # 新しく作り直すときは `wrangler pages project create game-news --production-branch=main --force`
         # (--force が無いと Workers へ振り替えられる。astro.config.mjs のコメント参照)

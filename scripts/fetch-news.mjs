@@ -122,23 +122,48 @@ function withHardTimeout(promise, ms, label) {
   ]).finally(() => clearTimeout(timer));
 }
 
-async function parseWithRetry(feed) {
+// Googleニュースは同じ IP から短時間に何本も取ると 503 を返す(GitHub Actions のサーバーは共用の IP なので
+// なおさら)。Google の分だけ1本ずつ間を空けて取り、503/429 のときは長めに待ってからもう一度だけ取る。
+const GOOGLE_INTERVAL_MS = 1500;
+const RATE_LIMIT_RETRY_MS = 30000;
+const isGoogleNews = (feed) => /(^|\.)news\.google\.com$/.test(new URL(feed.url).hostname);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function parseWithRetry(feed, url = feed.url) {
   let lastErr;
   for (let attempt = 0; attempt <= RETRY_COUNT; attempt++) {
     try {
-      return await withHardTimeout(parser.parseURL(feed.url), HARD_TIMEOUT_MS, feed.name);
+      return await withHardTimeout(parser.parseURL(url), HARD_TIMEOUT_MS, feed.name);
     } catch (err) {
       lastErr = err;
-      if (attempt < RETRY_COUNT) await new Promise((r) => setTimeout(r, 2000));
+      if (attempt < RETRY_COUNT) {
+        // 混雑・一時的な拒否(503/429)はすぐ取り直しても同じ結果になるので長めに待つ
+        const limited = /Status code (503|429)/.test(err.message);
+        await sleep(limited ? RATE_LIMIT_RETRY_MS : 2000);
+      }
     }
   }
   throw lastErr;
 }
 
+/**
+ * 直接取れなければ、feeds.json の relayUrl(fourgetkun-hub の /_feeds/<id>.xml)から取る。
+ * コミックナタリー・映画ナタリーは GitHub Actions のサーバーからの取得を 405 で断るため
+ */
+async function parseFeed(feed) {
+  try {
+    return { parsed: await parseWithRetry(feed), via: null };
+  } catch (err) {
+    if (!feed.relayUrl) throw err;
+    console.warn(`  直接の取得に失敗(${err.message})。中継から取得: ${feed.name}`);
+    return { parsed: await parseWithRetry(feed, feed.relayUrl), via: "relay" };
+  }
+}
+
 /** フィード1本を取得し、フィルタ前の生アイテム(アーカイブ形式)にして返す */
 async function fetchFeedRaw(feed) {
   try {
-    const parsed = await parseWithRetry(feed);
+    const { parsed, via } = await parseFeed(feed);
     const items = [];
     for (const item of (parsed.items ?? []).slice(0, MAX_PER_FEED)) {
       const rawTitle = stripHtml(item.title);
@@ -165,7 +190,7 @@ async function fetchFeedRaw(feed) {
         publisher,
       });
     }
-    console.log(`  OK   ${feed.name}: ${items.length}件`);
+    console.log(`  OK   ${feed.name}: ${items.length}件${via === "relay" ? "(中継)" : ""}`);
     return { feed, items, ok: true };
   } catch (err) {
     console.warn(`  FAIL ${feed.name}: ${err.message}`);
@@ -233,7 +258,21 @@ function buildCalendar(items) {
 
 async function main() {
   console.log(`ゲームニュース収集を開始 (${FEEDS.length}フィード)`);
-  const results = await Promise.all(FEEDS.map(fetchFeedRaw));
+  // Googleニュースは1本ずつ間を空けて順番に、それ以外は並べて同時に取る(isGoogleNews のコメント参照)
+  const googleFeeds = FEEDS.filter(isGoogleNews);
+  const otherFeeds = FEEDS.filter((f) => !isGoogleNews(f));
+  const googleSerial = (async () => {
+    const out = [];
+    for (const [i, feed] of googleFeeds.entries()) {
+      if (i > 0) await sleep(GOOGLE_INTERVAL_MS);
+      out.push(await fetchFeedRaw(feed));
+    }
+    return out;
+  })();
+  const [others, google] = await Promise.all([Promise.all(otherFeeds.map(fetchFeedRaw)), googleSerial]);
+  // 表示や統計は feeds.json の順に並べる
+  const byId = new Map([...others, ...google].map((r) => [r.feed.id, r]));
+  const results = FEEDS.map((f) => byId.get(f.id));
 
   // ---- 2. 生データのアーカイブ(積み増し + ローリング削除) ----
   const cutoff = Date.now() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
