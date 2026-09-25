@@ -828,6 +828,10 @@
   background: var(--page);
   border-bottom: 2px solid var(--text);
 }
+/* 絞り込みのツールバーが無いページ(タイトルページ)では、見出しをヘッダーのすぐ下に貼りつける */
+.work-page .day-head {
+  top: var(--header-h);
+}
 .day-head h2 {
   font-family: var(--font-pixel);
   font-weight: 400;
