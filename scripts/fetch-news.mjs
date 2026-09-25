@@ -147,17 +147,27 @@ async function parseWithRetry(feed, url = feed.url) {
 }
 
 /**
- * 直接取れなければ、feeds.json の relayUrl(fourgetkun-hub の /_feeds/<id>.xml)から取る。
- * コミックナタリー・映画ナタリーは GitHub Actions のサーバーからの取得を 405 で断るため
+ * 直接取れなければ、feeds.json の fallbackUrls を順に試す。
+ * コミックナタリー・映画ナタリーは GitHub Actions のサーバー(米国のデータセンター)からの取得を 405 で断る。
+ *  1) fourgetkun-hub の中継(/_feeds/<id>.xml)… 日本から呼べば取れるが、Actions から呼ぶと
+ *     米国の Cloudflare から取りに行くことになり、同じく断られることがある(502)
+ *  2) Googleニュースの site: 検索 … 見出しとリンクは取れる(要約は無い)
+ * via には、どこから取ったか("relay" / "google")を返す。
  */
 async function parseFeed(feed) {
-  try {
-    return { parsed: await parseWithRetry(feed), via: null };
-  } catch (err) {
-    if (!feed.relayUrl) throw err;
-    console.warn(`  直接の取得に失敗(${err.message})。中継から取得: ${feed.name}`);
-    return { parsed: await parseWithRetry(feed, feed.relayUrl), via: "relay" };
+  const urls = [feed.url, ...(feed.fallbackUrls ?? [])];
+  let lastErr;
+  for (const [i, url] of urls.entries()) {
+    try {
+      const parsed = await parseWithRetry(feed, url);
+      const via = i === 0 ? null : /news\.google\.com/.test(url) ? "google" : "relay";
+      return { parsed, via };
+    } catch (err) {
+      lastErr = err;
+      if (i + 1 < urls.length) console.warn(`  取得に失敗(${err.message})。次の取得先を試す: ${feed.name}`);
+    }
   }
+  throw lastErr;
 }
 
 /** フィード1本を取得し、フィルタ前の生アイテム(アーカイブ形式)にして返す */
@@ -178,6 +188,10 @@ async function fetchFeedRaw(feed) {
       if (feed.kind === "aggregator") {
         ({ title, publisher } = splitPublisherSuffix(rawTitle));
         summary = "";
+      } else if (via === "google") {
+        // 代わりに Googleニュースから取れた記事: 見出し末尾の「 - ナタリー」を落とし、出典はこのフィード名にする
+        title = splitPublisherSuffix(rawTitle).title;
+        summary = "";
       }
 
       items.push({
@@ -190,7 +204,7 @@ async function fetchFeedRaw(feed) {
         publisher,
       });
     }
-    console.log(`  OK   ${feed.name}: ${items.length}件${via === "relay" ? "(中継)" : ""}`);
+    console.log(`  OK   ${feed.name}: ${items.length}件${via ? `(${via === "relay" ? "中継" : "Googleニュース"}から)` : ""}`);
     return { feed, items, ok: true };
   } catch (err) {
     console.warn(`  FAIL ${feed.name}: ${err.message}`);
