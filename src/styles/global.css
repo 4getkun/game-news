@@ -445,11 +445,8 @@
 /* --------------------------------------------------------- filter panel */
 .panel {
   position: sticky;
-  top: calc(var(--header-h) + var(--toolbar-h) + 22px);
-  max-height: calc(100dvh - var(--header-h) - var(--toolbar-h) - 40px);
-  overflow: auto;
-  overscroll-behavior: contain;
-  scrollbar-width: thin;
+  /* 画面より高いときの位置は feed.ts の updatePanelTop が --panel-top で決める(中でスクロールさせない) */
+  top: var(--panel-top, calc(var(--header-h) + var(--toolbar-h) + 22px));
   padding: 26px 18px 18px 30px;
 }
 .panel-head {
@@ -1106,6 +1103,8 @@
     display: inline-flex;
   }
   .panel {
+    overflow: auto;
+    overscroll-behavior: contain;
     position: fixed;
     inset: auto 8px 8px 8px;
     top: auto;
@@ -1422,4 +1421,50 @@ a.tag-work {
   display: inline-flex;
   align-items: center;
   padding-block: 2px;
+}
+
+/* ------------------------------------------------ コマンドの折りたたみ(ばいたい・ミュート・ことば) */
+.fold-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  cursor: pointer;
+  list-style: none;
+}
+.fold-head::-webkit-details-marker {
+  display: none;
+}
+.fold-head::before {
+  content: "▶";
+  font-size: 10px;
+  color: var(--win-muted);
+}
+.fold[open] > .fold-head::before {
+  content: "▼";
+  color: var(--cursor);
+}
+.panel .fold-head h2 {
+  margin: 0;
+}
+.fold-note {
+  margin-left: auto;
+  font-family: var(--font-pixel);
+  font-size: 12px;
+  color: var(--cursor);
+}
+.fold[open] > .fold-head {
+  margin-bottom: 10px;
+}
+.fold-actions {
+  margin: 0 0 6px;
+  text-align: right;
+}
+.fold-actions button {
+  border: 0;
+  background: none;
+  color: var(--win-muted);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: underline;
 }

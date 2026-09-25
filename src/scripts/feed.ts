@@ -175,6 +175,26 @@ export async function startFeed() {
     return;
   }
 
+  // PC: 絞り込みパネルは中でスクロールさせず(列の間にスクロールバーが出てしまうため)、
+  // ページと一緒に流れて、下端が画面の下に来たところで止まるようにする。
+  // パネルが画面より短ければ、今まで通りツールバーの下に貼りつく
+  const panelEl = $("#panel");
+  const wide = matchMedia("(min-width: 961px)");
+  function updatePanelTop() {
+    if (!wide.matches) {
+      panelEl.style.removeProperty("--panel-top");
+      return;
+    }
+    const css = getComputedStyle(document.documentElement);
+    const base = parseFloat(css.getPropertyValue("--header-h")) + parseFloat(css.getPropertyValue("--toolbar-h")) + 16;
+    const top = Math.min(base, window.innerHeight - panelEl.offsetHeight - 16);
+    panelEl.style.setProperty("--panel-top", `${Math.round(top)}px`);
+  }
+  new ResizeObserver(updatePanelTop).observe(panelEl);
+  window.addEventListener("resize", updatePanelTop);
+  wide.addEventListener("change", updatePanelTop);
+  updatePanelTop();
+
   const now = Date.now();
   let shown = PAGE_SIZE;
   let lastResult: Item[] = [];
@@ -404,6 +424,17 @@ export async function startFeed() {
     $("#filter-badge").textContent = badge ? `（${badge}）` : "";
   }
 
+  // 折りたたみ(媒体・ミュート・言語)の見出しの横に、いまの設定を短く出す
+  function renderFoldNotes() {
+    const set = (id: string, text: string) => {
+      const el = document.getElementById(`${id}-note`);
+      if (el) el.textContent = text;
+    };
+    set("sources", state.hiddenSources.size ? `${state.hiddenSources.size}媒体を非表示中` : "");
+    set("mute", state.mute.length ? `${state.mute.length}語` : "");
+    set("lang", state.lang === "ja" ? "" : state.lang === "en" ? "English のみ" : "すべて");
+  }
+
   function apply({ resetPage = true } = {}) {
     if (resetPage) shown = PAGE_SIZE;
     const query = parseQuery(state.q);
@@ -434,7 +465,9 @@ export async function startFeed() {
       .filter(Boolean)
       .join(" / ");
     renderControls();
+    renderFoldNotes();
     renderCounts(query);
+    updatePanelTop();
     renderList();
     syncUrl();
     savePrefs();
@@ -626,6 +659,19 @@ export async function startFeed() {
       }
     }, { rootMargin: "600px" }).observe(moreBtn);
   }
+
+  // 折りたたみの開閉を端末に覚えておく(最初は閉じている)
+  const FOLD_KEY = PREFS_KEY.replace(":prefs", ":folds");
+  const foldState = storageGet<Record<string, boolean>>(FOLD_KEY, {});
+  document.querySelectorAll<HTMLDetailsElement>("details.fold").forEach((d) => {
+    if (foldState[d.dataset.fold!]) d.open = true;
+    d.addEventListener("toggle", () => {
+      foldState[d.dataset.fold!] = d.open;
+      storageSet(FOLD_KEY, foldState);
+      updatePanelTop();
+    });
+  });
+
 
   // スマホ: 絞り込みパネルを下から出す
   const panel = $("#panel");
