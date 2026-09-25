@@ -315,7 +315,6 @@ export async function startFeed() {
             ${it.originals ? `<span class="more-src">ほか${it.originals}媒体</span>` : ""}
             ${it.sy ? `<span class="lang" title="元の媒体の記事が見つからなかった再配信記事">転載</span>` : ""}
             ${it.lang === "en" ? `<span class="lang">EN</span>` : ""}
-            <button type="button" class="shiori" data-shiori="${esc(it.l)}" data-t="${it.time}" title="ここまで読んだことを、ぼうけんのしょに記録する">しおり</button>
           </div>
           <h3 class="item-title"><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer" data-read="${esc(it.l)}">${esc(it.t)}</a></h3>
           ${it.s ? `<p class="item-summary">${esc(it.s)}</p>` : ""}
@@ -648,7 +647,6 @@ export async function startFeed() {
     list: $("#feed-list"),
     win: $("#bouken"),
     result: () => lastResult,
-    readCount: () => readSet.size,
     sortNew: () => state.sort === "new",
     revealUntil: (index) => {
       if (shown > index) return;

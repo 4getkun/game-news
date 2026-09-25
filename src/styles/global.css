@@ -1863,26 +1863,42 @@ a.tag-work {
 .item.is-past:focus-within {
   opacity: 1;
 }
-.shiori {
-  margin-left: auto;
-  padding: 0 8px;
-  min-height: 24px;
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  background: transparent;
-  color: var(--muted);
+.bk-fab {
+  position: fixed;
+  right: 16px;
+  bottom: 20px;
+  z-index: 70;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 44px;
+  padding: 0 16px;
+  background: #000;
+  color: #fff;
+  border: 3px solid #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 0 3px #000;
   font-family: var(--font-pixel);
-  font-size: 11px;
+  font-size: 14px;
   cursor: pointer;
 }
-.shiori:hover {
-  border-color: var(--text);
-  color: var(--text);
+.bk-fab[hidden] {
+  display: none;
+}
+.bk-fab:hover .bk-cur,
+.bk-fab:focus-visible .bk-cur {
+  visibility: visible;
+  animation: cursor-blink 1s steps(1) infinite;
+}
+.bk-fab:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
 }
 .bk-toast {
   position: fixed;
   left: 50%;
-  bottom: 24px;
+  /* 右下の「しおりを はさむ」と重ならない高さ */
+  bottom: 80px;
   z-index: 80;
   translate: -50% 0;
   min-width: min(360px, calc(100vw - 32px));

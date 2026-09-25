@@ -4,7 +4,8 @@
 //    「ここまで よんだ」の帯をはさみ、栞から記録した時点のいちばん上までの記事は薄く表示する
 //    (記録した後に届いた記事は、今までどおり NEW のまま)
 //  - 記録のしかた: 自動(ページを離れるとき、今回いちばん下まで読んだ記事。前の栞より深いときだけ上書き)
-//    と手動(記事の「しおり」ボタン)
+//    と手動(一覧まで下りると右下に出る「しおりを はさむ」。画面のまん中の記事に栞をはさむ)
+//  - レベル: 訪れた日数(日本時間の日付で1日1回)がけいけんち。レベルが上がった日は「レベルが あがった！」
 //  - 冊数は1冊、置き場所はこの端末(localStorage)。3冊・ふっかつのじゅもん は使ってみてから
 //  - 並び順が「話題順」のときは帯を出さない(時刻の並びではないため)
 
@@ -12,6 +13,30 @@ import { tone, soundEnabled } from "./message-window";
 
 const KEY = "game-news:bouken";
 const DISMISS_KEY = "game-news:bouken-dismissed";
+const VISITS_KEY = "game-news:visits";
+
+/** レベル L になるのに要る日数: 1, 2, 4, 7, 11, 16, 22 … (上がるほど間が1日ずつ広がる) */
+const daysForLevel = (level: number) => 1 + (level * (level - 1)) / 2;
+function levelOf(days: number) {
+  let level = 1;
+  while (daysForLevel(level + 1) <= days) level++;
+  return { level, next: daysForLevel(level + 1) - days };
+}
+
+/** 今日(日本時間)を訪問日に加え、訪問日数と「今日レベルが上がったか」を返す */
+function recordVisit(): { days: number; levelUp: boolean } {
+  const today = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" }).format(new Date());
+  try {
+    const list = JSON.parse(localStorage.getItem(VISITS_KEY) ?? "[]") as string[];
+    if (list.includes(today)) return { days: list.length, levelUp: false };
+    const before = levelOf(list.length).level;
+    list.push(today);
+    localStorage.setItem(VISITS_KEY, JSON.stringify(list.slice(-3000)));
+    return { days: list.length, levelUp: list.length > 1 && levelOf(list.length).level > before };
+  } catch {
+    return { days: 1, levelUp: false };
+  }
+}
 
 interface Save {
   /** 栞をはさんだ記事 */
@@ -62,8 +87,6 @@ export function setupBouken(deps: {
   win: HTMLElement;
   /** いまの絞り込み結果(並び順どおり) */
   result: () => Entry[];
-  /** 読んだ記事の数(レベルの計算に使う) */
-  readCount: () => number;
   /** 新着順か(帯は新着順のときだけ) */
   sortNew: () => boolean;
   /** index 番目の記事まで一覧に出す(「つづきから」で栞の位置まで描く) */
@@ -76,6 +99,7 @@ export function setupBouken(deps: {
     dismissed = sessionStorage.getItem(DISMISS_KEY) === "1";
   } catch {}
 
+  const visit = recordVisit();
   const newestTime = () => deps.result().reduce((m, e) => Math.max(m, e.time), 0);
 
   // ---------------------------------------------------------------- 帯と既読の薄表示
@@ -119,15 +143,14 @@ export function setupBouken(deps: {
     const at = result.findIndex((e) => e.l === save!.link);
     const rest = at >= 0 ? result.length - at - 1 : result.filter((e) => e.time < save!.t).length;
     const fresh = result.filter((e) => e.time > save!.top).length;
-    const read = deps.readCount();
-    const level = 1 + Math.floor(read / 10);
+    const { level, next } = levelOf(visit.days);
     deps.win.hidden = false;
     const cmd = (id: string, label: string, note = "") =>
       `<button type="button" class="bk-cmd" data-bouken="${id}"><span class="bk-cur" aria-hidden="true">▶</span><span>${label}</span><span class="bk-note">${note}</span></button>`;
     deps.win.innerHTML = `<section class="bk-win" aria-label="ぼうけんのしょ">
       <span class="bk-title">ぼうけんのしょ</span>
       <div class="bk-head"><span>ぼうけんのしょ 1</span><span>${fmt.format(save.at)}</span></div>
-      <div class="bk-stats"><span>のこり ${rest}けん</span><span>あたらしく ${fresh}けん</span><span>レベル ${level}</span></div>
+      <div class="bk-stats"><span>のこり ${rest}けん</span><span>あたらしく ${fresh}けん</span><span>レベル ${level}</span><span>ほうもん ${visit.days}にち（つぎまで あと${next}にち）</span></div>
       <div class="bk-cmds">${
         confirming
           ? `<p class="bk-ask">ほんとうに ぼうけんのしょを けしますか？</p>${cmd("erase-yes", "はい")}${cmd("erase-no", "いいえ")}`
@@ -181,20 +204,38 @@ export function setupBouken(deps: {
   // ページを離れるときに、前の栞より深ければ記録する
   let deepest: { link: string; t: number; index: number } | null = null;
   let scrollTimer = 0;
+  /** 画面のまん中にある記事(いま読んでいるところ) */
+  const currentItem = () => {
+    const box = deps.list.getBoundingClientRect();
+    const el = document.elementFromPoint(box.left + Math.min(80, box.width / 2), window.innerHeight / 2)?.closest<HTMLElement>(".item[data-t]");
+    if (!el || !deps.list.contains(el)) return null;
+    const link = el.querySelector<HTMLAnchorElement>(".item-title a")?.getAttribute("href") ?? "";
+    return { link, t: Number(el.dataset.t), index: deps.result().findIndex((e) => e.l === link) };
+  };
+
+  // 手動の記録: 記事ごとのボタンは一覧が騒がしくなるので、一覧まで下りたときだけ右下に1つ出す
+  const fab = document.createElement("button");
+  fab.type = "button";
+  fab.className = "bk-fab";
+  fab.hidden = true;
+  fab.innerHTML = `<span class="bk-cur" aria-hidden="true">▶</span>しおりを はさむ`;
+  fab.title = "画面のまん中の記事までを「ここまで よんだ」として、ぼうけんのしょに記録します";
+  document.body.append(fab);
+  fab.addEventListener("click", () => {
+    const cur = currentItem();
+    if (cur && cur.index >= 0) saveAt(cur.link, cur.t, true);
+  });
   window.addEventListener(
     "scroll",
     () => {
       if (scrollTimer) return;
       scrollTimer = window.setTimeout(() => {
         scrollTimer = 0;
-        const box = deps.list.getBoundingClientRect();
-        const el = document.elementFromPoint(box.left + Math.min(80, box.width / 2), window.innerHeight / 2)?.closest<HTMLElement>(".item[data-t]");
-        if (!el || !deps.list.contains(el)) return;
-        const t = Number(el.dataset.t);
-        const link = el.querySelector<HTMLAnchorElement>(".item-title a")?.getAttribute("href") ?? "";
-        const index = deps.result().findIndex((e) => e.l === link);
-        if (index >= 0 && (!deepest || index > deepest.index)) deepest = { link, t, index };
-      }, 400);
+        const cur = currentItem();
+        // 一覧の3件目より下にいるときだけ「しおりを はさむ」を出す
+        fab.hidden = !cur || cur.index < 2 || !deps.sortNew();
+        if (cur && cur.index >= 0 && (!deepest || cur.index > deepest.index)) deepest = cur;
+      }, 250);
     },
     { passive: true },
   );
@@ -213,11 +254,6 @@ export function setupBouken(deps: {
   // ---------------------------------------------------------------- 操作
   document.addEventListener("click", (e) => {
     const el = e.target as HTMLElement;
-    const shiori = el.closest<HTMLElement>("[data-shiori]");
-    if (shiori) {
-      saveAt(shiori.dataset.shiori!, Number(shiori.dataset.t), true);
-      return;
-    }
     const btn = el.closest<HTMLElement>("[data-bouken]");
     if (!btn) return;
     const cmd = btn.dataset.bouken;
@@ -258,6 +294,14 @@ export function setupBouken(deps: {
       toast("ぼうけんのしょ 1は きえてしまいました。");
     }
   });
+
+  if (visit.levelUp) {
+    // 表示が落ち着いてから知らせる
+    setTimeout(() => {
+      if (soundEnabled()) [523, 523, 523, 698, 880].forEach((f, i) => tone(f, i === 4 ? 0.3 : 0.08, [0, 0.1, 0.2, 0.3, 0.45][i], 0.045));
+      toast(`レベルが あがった！ レベル ${levelOf(visit.days).level}`);
+    }, 1200);
+  }
 
   return {
     /** 一覧を描いた(足した)後に呼ぶ */
