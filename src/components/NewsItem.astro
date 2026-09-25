@@ -48,7 +48,9 @@ const others = it.sources.filter((s) => !s.syndicated).length - 1;
             <span class="tag tag-work">{w}</span>
           ),
         )}
-        {it.categories.slice(0, 3).map((c) => <span class="tag">#{catLabel[c]}</span>)}
+        {it.categories.length > 0 && (
+          <span class="item-cats">{it.categories.slice(0, 3).map((c) => <span class="tag tag-cat">#{catLabel[c]}</span>)}</span>
+        )}
       </div>
     </div>
     {showThumb && it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}

@@ -840,6 +840,12 @@
   gap: 4px 16px;
   padding: 15px 0 15px 18px;
 }
+/* サムネイルの無い記事は右の列を作らない(空の列の分だけ本文とハッシュタグが右端に届かなくなるため) */
+@container (min-width: 521px) {
+  .item-grid:not(:has(.item-thumb)) {
+    grid-template-columns: 52px minmax(0, 1fr);
+  }
+}
 .item-grid.cursor-row::before {
   left: 0;
   top: 27px;
@@ -941,6 +947,27 @@
 .tag:hover {
   color: var(--text);
   text-decoration: underline;
+}
+/* 話題のハッシュタグ: 記事の右端にそろえ、押せる札の形にする(押すとその話題で絞り込む) */
+.item-cats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-left: auto;
+}
+.item-tags .tag.tag-cat {
+  min-height: 30px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--panel);
+  color: var(--muted);
+}
+.item-tags .tag.tag-cat:hover {
+  border-color: var(--cursor);
+  color: var(--text);
+  text-decoration: none;
 }
 .tag-work {
   font-weight: 700;
