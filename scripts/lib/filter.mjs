@@ -258,10 +258,25 @@ export function extractWorks(title, config, { lenient = false } = {}) {
  * 1記事ぶんの判定をまとめて行う。採用しない場合は null を返す。
  * feed: feeds.json の1要素 / knownWorks: 専門媒体から集めた作品名の Set
  */
+/**
+ * ゲーム専門媒体が出すアニメ・音楽・映画などの記事か。見出しにアニメ・コンサート等の語があり、
+ * ゲームの語が1つも無い(作品辞書の加点は数えない)ものを true にする。
+ * ゲームが原作のタイトル(offTopic.gameOriginWorks)のアニメ化・コンサートは false(ゲームの話題として残す)
+ */
+export function isOffTopic(title, summary, config) {
+  const o = config.offTopic;
+  if (!o) return false;
+  const t = normalizeForMatch(title);
+  if (!o.signals.some((re) => new RegExp(re).test(t))) return false;
+  if (o.gameOriginWorks.some((w) => containsKeyword(t, w))) return false;
+  return relevanceScore(title, summary, config, null).score <= 0;
+}
+
 export function evaluateItem({ title, summary }, feed, config, knownWorks = null) {
   if (isHardExcluded(title, summary, config)) return null;
 
   const matchTitle = stripTrailingSource(splitPublisherSuffix(title).title);
+  if (isOffTopic(matchTitle, summary, config)) return null;
   const { score, hits } = relevanceScore(matchTitle, summary, config, knownWorks);
   if (feed.kind !== "specialist" && score < thresholdFor(feed, config)) return null;
 

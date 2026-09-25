@@ -144,3 +144,16 @@ test("セール記事の判定: 「690円で」を無料配布と取り違えな
   assert.deepEqual(d, { stores: [], off: 30, free: false });
   assert.equal(classifyDeal("【4,500円→0円】『High On Life』がAmazonプライム会員向けに無料配布", "", config).free, true);
 });
+
+test("ゲーム専門媒体のアニメ・音楽の記事は除外し、ゲーム原作のアニメ化やゲームのイベントは残す", async () => {
+  const { isOffTopic } = await import("./filter.mjs");
+  const off = (t) => isOffTopic(t, "", config);
+  assert.equal(off("TVアニメ『ラブライブ！』のオーケストラコンサートが2027年1月10日・11日に開催決定！"), true);
+  assert.equal(off("マンガ『封神演義』初の大型原画展が2027年春に開催決定！"), true);
+  assert.equal(off("『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』興行収入“21億円”を突破！"), true);
+  assert.equal(off("TVアニメ「SEKIRO: NO DEFEAT」，2027年1月より放送決定"), false);
+  assert.equal(off("『ゼルダの伝説』40周年コンサートのチケット最速先行が本日スタート"), false);
+  assert.equal(off("『Roco Kingdom』発表会に大人気声優のKENNさん、相羽あいなさんが登壇！"), false);
+  const denfami = { id: "denfaminico", kind: "specialist", lang: "ja" };
+  assert.equal(evaluateItem({ title: "TVアニメ『ラブライブ！』のオーケストラコンサートが開催決定", summary: "" }, denfami, config, new Set([workKey("ラブライブ!", config)])), null);
+});
