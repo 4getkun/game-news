@@ -106,11 +106,27 @@ function pickImage(item) {
   return url ?? null;
 }
 
+/**
+ * rss-parser の timeout は接続までしか効かず、応答の途中で止まったフィードを待ち続けることがある
+ * (GitHub Actions で「Fetch」のステップが何分も終わらなかった)。1回の取得に上限をかける。
+ */
+const HARD_TIMEOUT_MS = 45000;
+
+function withHardTimeout(promise, ms, label) {
+  let timer;
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => {
+      timer = setTimeout(() => reject(new Error(`${label}: ${ms / 1000}秒で打ち切り`)), ms);
+    }),
+  ]).finally(() => clearTimeout(timer));
+}
+
 async function parseWithRetry(feed) {
   let lastErr;
   for (let attempt = 0; attempt <= RETRY_COUNT; attempt++) {
     try {
-      return await parser.parseURL(feed.url);
+      return await withHardTimeout(parser.parseURL(feed.url), HARD_TIMEOUT_MS, feed.name);
     } catch (err) {
       lastErr = err;
       if (attempt < RETRY_COUNT) await new Promise((r) => setTimeout(r, 2000));
@@ -358,7 +374,10 @@ async function main() {
   }
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+// 打ち切ったフィードの接続が残っていてもプロセスが終わるよう、明示的に終了する
+main()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
