@@ -647,6 +647,7 @@ export async function startFeed() {
     list: $("#feed-list"),
     win: $("#bouken"),
     result: () => lastResult,
+    readCount: () => readSet.size,
     sortNew: () => state.sort === "new",
     revealUntil: (index) => {
       if (shown > index) return;
