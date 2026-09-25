@@ -6,6 +6,8 @@ interface Props {
   title?: string;
   description?: string;
   noindex?: boolean;
+  /** 構造化データ(JSON-LD)。ページごとのパンくずなど。サイト全体の WebSite はトップだけに付ける */
+  jsonLd?: unknown;
 }
 
 const SITE_NAME = "ゲームニュース全部";
@@ -13,7 +15,23 @@ const {
   title,
   description = "4Gamer・AUTOMATON・ファミ通・電撃・Googleニュースなど20以上のRSSを1時間ごとに集めて、機種や話題で見たいニュースだけに絞り込めるゲームニュースまとめ。",
   noindex = false,
+  jsonLd,
 } = Astro.props;
+// 見出し・メニュー用のドット書体 DotGothic16 だけを読む(本文は各端末の system-ui)。描画を止めないよう
+// preload → 読み込み後に stylesheet へ切り替える。以前は本文用の M PLUS 1p も読んでいて、
+// Google Fonts だけで約1MB・スマホ条件の Lighthouse で最初の表示が12秒を超えていた
+const FONT_CSS = "https://fonts.googleapis.com/css2?family=DotGothic16&display=swap";
+const isHome = Astro.url.pathname === import.meta.env.BASE_URL;
+const siteUrl = new URL(withBase("/"), Astro.site).toString();
+const websiteLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE_NAME,
+  url: siteUrl,
+  inLanguage: "ja",
+  description,
+  isPartOf: { "@type": "WebSite", name: "fourgetkun 工房", url: "https://fourgetkun.com/" },
+};
 const pageTitle = title ? `${title}｜${SITE_NAME}` : `${SITE_NAME}｜ゲームニュースRSSまとめ`;
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = new URL(withBase("/og-image.png"), Astro.site).toString();
@@ -64,10 +82,10 @@ const nav = [
     <meta name="twitter:image" content={ogImage} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=DotGothic16&family=M+PLUS+1p:wght@400;700&display=swap"
-    />
+    <link rel="preload" as="style" href={FONT_CSS} onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript><link rel="stylesheet" href={FONT_CSS} /></noscript>
+    {isHome && <script type="application/ld+json" set:html={JSON.stringify(websiteLd)} />}
+    {jsonLd !== undefined && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
     <script is:inline>
       // テーマの初期化(ちらつき防止のため head 内で実行)。保存が無ければOS設定に従う
       try {

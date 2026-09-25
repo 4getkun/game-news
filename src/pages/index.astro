@@ -262,5 +262,9 @@ const line2Delay = chars(line1).length * 28 + 350;
 
 <script>
   import { startFeed } from "../scripts/feed";
-  startFeed();
+  // 絞り込み用のデータ(数百KB)の読み込みと一覧の描き直しは、最初の表示が終わってから行う。
+  // それまではサーバー側で描いた最新30件が見えている
+  const run = () => void startFeed();
+  if ("requestIdleCallback" in window) requestIdleCallback(run, { timeout: 1500 });
+  else setTimeout(run, 200);
 </script>

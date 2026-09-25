@@ -78,7 +78,8 @@ interface State {
   newOnly: boolean;
 }
 
-const PAGE_SIZE = 60;
+// 最初に描く件数。サーバー側で描く最新30件とそろえ、残りはスクロールに合わせて足す
+const PAGE_SIZE = 30;
 const PREFS_KEY = "game-news:prefs";
 const READ_KEY = "game-news:read";
 const READ_MAX = 4000;

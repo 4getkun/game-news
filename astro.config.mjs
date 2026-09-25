@@ -17,6 +17,8 @@ export default defineConfig({
   site: 'https://fourgetkun.com',
   base: '/game-news',
   trailingSlash: 'always',
+  // CSS は HTML に埋め込む(別ファイルだと描画を止めるリクエストが1つ増える)
+  build: { inlineStylesheets: 'always' },
   vite: {
     plugins: [tailwindcss()],
   },

@@ -6,6 +6,7 @@ import NewsItem from "../../components/NewsItem.astro";
 import { workPages, calendar, categories, formatDateTime } from "../../lib/news";
 import type { WorkPage } from "../../lib/news";
 import { withBase } from "../../lib/url";
+import { breadcrumb, absUrl } from "../../lib/seo";
 
 export function getStaticPaths() {
   return workPages.map((w) => ({ params: { slug: w.slug }, props: { work: w } }));
@@ -22,13 +23,34 @@ for (const it of items) for (const c of it.categories) catCount.set(c, (catCount
 const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
 const topCats = [...catCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([c]) => catLabel[c]);
 const description = `『${work.name}』のニュース${items.length}件をまとめて表示。${topCats.length ? `${topCats.join("・")}など。` : ""}`;
+// パンくず + このタイトルのニュース一覧(CollectionPage)。記事そのものは各媒体のものなのでリンク先の URL だけ並べる
+const jsonLd = [
+  breadcrumb([
+    { name: "タイトル一覧", path: "/work/" },
+    { name: work.name, path: `/work/${work.slug}/` },
+  ]),
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${work.name}のニュース`,
+    url: absUrl(`/work/${work.slug}/`),
+    inLanguage: "ja",
+    description,
+    about: { "@type": "VideoGame", name: work.name },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: items.length,
+      itemListElement: items.slice(0, 20).map((it, i) => ({ "@type": "ListItem", position: i + 1, url: it.link, name: it.title })),
+    },
+  },
+];
 const dateLabel = (d: string, precision: string) => {
   const [y, m, day] = d.split("-");
   return precision === "month" ? `${y}年${Number(m)}月` : `${y}年${Number(m)}月${Number(day)}日`;
 };
 ---
 
-<Base title={`${work.name}のニュース`} description={description}>
+<Base title={`${work.name}のニュース`} description={description} jsonLd={jsonLd}>
   <section class="wrap work-page">
     <p class="crumbs"><a href={withBase("/work/")}>タイトル一覧</a></p>
     <h1 class="work-title">{work.name}</h1>

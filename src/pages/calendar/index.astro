@@ -5,6 +5,7 @@ import Base from "../../layouts/Base.astro";
 import { calendar, workSlugByName, generatedAt, formatDateTime, platforms } from "../../lib/news";
 import filters from "../../data/filters.json";
 import { withBase } from "../../lib/url";
+import { breadcrumb } from "../../lib/seo";
 
 const verbs = (filters as unknown as { schedule: { verbs: { id: string; label: string }[] } }).schedule.verbs;
 const weekday = new Intl.DateTimeFormat("ja-JP", { weekday: "short", timeZone: "UTC" });
@@ -31,6 +32,7 @@ const dayLabel = (d: string) => {
 ---
 
 <Base
+  jsonLd={breadcrumb([{ name: "予定", path: "/calendar/" }])}
   title="予定（発売・配信・アップデート）"
   description="ゲームニュースの見出しから拾った、発売日・配信日・アップデート・体験版・イベントの予定を日付順に並べたカレンダー。"
 >

@@ -1,0 +1,9 @@
+# Cloudflare Pages の応答ヘッダー。
+# ファイル名に中身のハッシュが入る /_astro/ は1年キャッシュしてよい
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 配信元(game-news.pages.dev)そのものは検索に載せない。公開側は fourgetkun.com/game-news/。
+# fourgetkun-hub の取り次ぎ(src/pages-proxy/proxy.js)はこのヘッダーを落として返すので、公開側には付かない
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex

@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import { feedStatus, feeds, categories, topicCategories, platforms, thresholds, kindLabels, generatedAt, formatDateTime, allNews, dedupeStats, calendar, workPages } from "../../lib/news";
 import { withBase } from "../../lib/url";
+import { breadcrumb } from "../../lib/seo";
 import type { FeedKind } from "../../lib/news";
 
 const kinds = Object.keys(kindLabels) as FeedKind[];
@@ -9,7 +10,7 @@ const statusById = new Map(feedStatus.map((f) => [f.id, f]));
 const merged = allNews.filter((it) => it.sources.length > 1).length;
 ---
 
-<Base title="収集元とフィルタのしくみ" description="どの媒体からどうやってゲームニュースを集め、どんなルールで絞り込んでいるかの説明です。">
+<Base jsonLd={breadcrumb([{ name: "収集元とフィルタのしくみ", path: "/about/" }])} title="収集元とフィルタのしくみ" description="どの媒体からどうやってゲームニュースを集め、どんなルールで絞り込んでいるかの説明です。">
   <article class="wrap prose">
     <h1>収集元とフィルタのしくみ</h1>
     <p>
