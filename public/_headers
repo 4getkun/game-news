@@ -11,3 +11,7 @@ https://:project.pages.dev/*
 # ドット書体(tools/make-font-subset.py で作る。名前は変わらないので1週間)
 /fonts/*
   Cache-Control: public, max-age=604800
+
+# ぼうけんのしょの共有カード(tools/make-share-cards.py で作る。名前は変わらないので1週間)
+/share/*
+  Cache-Control: public, max-age=604800

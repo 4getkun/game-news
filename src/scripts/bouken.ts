@@ -7,7 +7,8 @@
 //    と手動(一覧まで下りると右下に出る「しおりを はさむ」。画面のまん中の記事に栞をはさむ)
 //  - レベル: 訪れた日(日本時間の日付で1日1回)ごとに けいけんち 100。必要なけいけんちは RPG のように
 //    べき関数で増える(最初はすぐ上がり、だんだんゆっくり)。上がった日は「レベルが あがった！」
-//  - じまん: X に投稿(ハッシュタグ #ゲームニュース全部)・ぼうけんのしょを画像で保存/共有
+//  - きょうゆう: X に投稿(ハッシュタグ #ゲームニュース全部)。共有する URL は /share/lv◯/ で、そのページの
+//    og:image(レベルごとのカード。tools/make-share-cards.py)が投稿に埋め込まれる。画像の保存/共有も
 //  - 冊数は1冊、置き場所はこの端末(localStorage)。3冊・ふっかつのじゅもん は使ってみてから
 //  - 並び順が「話題順」のときは帯を出さない(時刻の並びではないため)
 
@@ -184,7 +185,7 @@ export function setupBouken(deps: {
       <div class="bk-cmds">${
         confirming
           ? `<p class="bk-ask">ほんとうに ぼうけんのしょを けしますか？</p>${cmd("erase-yes", "はい")}${cmd("erase-no", "いいえ")}`
-          : `${main}${cmd("share-x", "Xで じまんする", "#" + SITE_NAME)}${cmd("share-image", "がぞうで ほぞん", "ぼうけんのしょの カード")}${save ? cmd("erase", "ぼうけんのしょを けす") : ""}`
+          : `${main}${cmd("share-x", "Xで きょうゆう", "カードつき #" + SITE_NAME)}${cmd("share-image", "がぞうで ほぞん", "ぼうけんのしょの カード")}${save ? cmd("erase", "ぼうけんのしょを けす") : ""}`
       }</div>
     </section>`;
   }
@@ -198,7 +199,8 @@ export function setupBouken(deps: {
   function shareToX() {
     const u = new URL("https://x.com/intent/post");
     u.searchParams.set("text", shareText());
-    u.searchParams.set("url", SITE_URL);
+    // レベルごとの共有ページ。そのページの og:image(レベルのカード)が投稿に埋め込まれる
+    u.searchParams.set("url", `${SITE_URL}share/lv${Math.min(levelOf(visit.days).level, 99)}/`);
     u.searchParams.set("hashtags", SITE_NAME);
     window.open(u.toString(), "_blank", "noopener,noreferrer");
   }
