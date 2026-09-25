@@ -1450,7 +1450,11 @@ a.tag-work {
   color: var(--focus-text);
 }
 .cal-today {
-  margin-left: 6px;
+  /* 日付の横だと列の幅に収まらず途中で折り返すので、日付の下に置く */
+  display: block;
+  width: fit-content;
+  margin-top: 4px;
+  white-space: nowrap;
   font-size: 11px;
   padding: 0 6px;
   border-radius: 3px;
