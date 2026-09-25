@@ -10,6 +10,7 @@
 // 保存は localStorage。使えない環境(プライベートモード等)でも動作はするよう全て try で囲む。
 
 import { attachSuggest, type Suggestion } from "./suggest";
+import { setupBouken } from "./bouken";
 
 interface RawItem {
   t: string;
@@ -303,7 +304,7 @@ export async function startFeed() {
       .slice(0, 3)
       .map((c) => `<button type="button" class="tag tag-cat" data-tag-cat="${c}">#${esc(catLabel[c]?.label ?? c)}</button>`)
       .join("");
-    return `<article class="${classes}">
+    return `<article class="${classes}" data-t="${it.time}">
       <div class="item-grid cursor-row">
         <time class="item-time" ${it.d ? `datetime="${esc(it.d)}"` : ""}>${it.time ? timeFmt.format(it.time) : ""}</time>
         <div>
@@ -314,6 +315,7 @@ export async function startFeed() {
             ${it.originals ? `<span class="more-src">ほか${it.originals}媒体</span>` : ""}
             ${it.sy ? `<span class="lang" title="元の媒体の記事が見つからなかった再配信記事">転載</span>` : ""}
             ${it.lang === "en" ? `<span class="lang">EN</span>` : ""}
+            <button type="button" class="shiori" data-shiori="${esc(it.l)}" data-t="${it.time}" title="ここまで読んだことを、ぼうけんのしょに記録する">しおり</button>
           </div>
           <h3 class="item-title"><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer" data-read="${esc(it.l)}">${esc(it.t)}</a></h3>
           ${it.s ? `<p class="item-summary">${esc(it.s)}</p>` : ""}
@@ -395,7 +397,11 @@ export async function startFeed() {
     renderedKey = html.lastKey;
     shown += PAGE_SIZE;
     updateMoreButton();
+    afterRenderHook();
   }
+
+  // 一覧を描いた後の処理(ぼうけんのしょの帯)。記事を読み込んだ後に setupBouken で差し替える
+  let afterRenderHook = () => {};
 
   // 件数(と非表示にした件数)。一覧を描き直すと消えるので、最初の日付の見出しに付け直す
   const countEl = $(".feed-count");
@@ -420,6 +426,7 @@ export async function startFeed() {
     }
     list.querySelector(".day-head")!.append(countEl);
     updateMoreButton();
+    afterRenderHook();
   }
 
   function renderCounts(query: ReturnType<typeof parseQuery>) {
@@ -635,6 +642,22 @@ export async function startFeed() {
       apply();
     }, 180);
   });
+
+  // ぼうけんのしょ(ここまで読んだ、の栞)
+  const bouken = setupBouken({
+    list: $("#feed-list"),
+    win: $("#bouken"),
+    result: () => lastResult,
+    readCount: () => readSet.size,
+    sortNew: () => state.sort === "new",
+    revealUntil: (index) => {
+      if (shown > index) return;
+      shown = Math.ceil((index + 1) / PAGE_SIZE) * PAGE_SIZE;
+      renderList();
+    },
+  });
+  afterRenderHook = bouken.afterRender;
+  bouken.afterRender();
 
   // 検索窓の下の候補(作品名・話題・機種)。候補を選ぶと、キーワードではなくその絞り込みを入れる
   const workCount = new Map<string, number>();

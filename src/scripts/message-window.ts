@@ -16,8 +16,17 @@ const TYPE_MS = 32; // 1文字の間隔
 
 let audio: AudioContext | null = null;
 
+/** ♪(効果音)がオンか。ぼうけんのしょ(bouken.ts)からも使う */
+export function soundEnabled(): boolean {
+  try {
+    return localStorage.getItem(SOUND_KEY) !== "off";
+  } catch {
+    return true;
+  }
+}
+
 /** 矩形波を短く鳴らす(ファミコンの音源と同じ波形)。start は今からの秒 */
-function tone(freq: number, dur: number, start = 0, vol = 0.05) {
+export function tone(freq: number, dur: number, start = 0, vol = 0.05) {
   try {
     audio ??= new AudioContext();
     const t0 = audio.currentTime + start;
