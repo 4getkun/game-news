@@ -317,10 +317,10 @@ export async function startFeed() {
           <h3 class="item-title"><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer" data-read="${esc(it.l)}">${esc(it.t)}</a></h3>
           ${it.s ? `<p class="item-summary">${esc(it.s)}</p>` : ""}
           ${guard ? `<button type="button" class="spoiler-reveal" data-reveal="${esc(it.l)}">ネタバレの可能性あり。タップで表示</button>` : ""}
-          ${plats || works || cats ? `<div class="item-tags">${plats}${works}${cats ? `<span class="item-cats">${cats}</span>` : ""}</div>` : ""}
-          ${extra}
         </div>
         ${it.i ? `<img class="item-thumb" src="${esc(it.i)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+        ${plats || works || cats ? `<div class="item-tags">${works}${plats || cats ? `<span class="item-cats">${plats}${cats}</span>` : ""}</div>` : ""}
+        ${extra}
       </div>
     </article>`;
   }

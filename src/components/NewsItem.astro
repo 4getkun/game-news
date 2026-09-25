@@ -39,20 +39,22 @@ const others = it.sources.filter((s) => !s.syndicated).length - 1;
       </div>
       <h3 class="item-title"><a href={it.link} target="_blank" rel="noopener noreferrer">{it.title}</a></h3>
       {it.summary && <p class="item-summary">{it.summary}</p>}
-      <div class="item-tags">
-        {(it.platforms ?? []).map((p) => <span class="plat">{platLabel[p]}</span>)}
-        {it.works.slice(0, 3).map((w) =>
-          workSlugByName[w] ? (
-            <a class="tag tag-work" href={withBase(`/work/${workSlugByName[w]}/`)}>{w}</a>
-          ) : (
-            <span class="tag tag-work">{w}</span>
-          ),
-        )}
-        {it.categories.length > 0 && (
-          <span class="item-cats">{it.categories.slice(0, 3).map((c) => <span class="tag tag-cat">#{catLabel[c]}</span>)}</span>
-        )}
-      </div>
     </div>
     {showThumb && it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+    <div class="item-tags">
+      {it.works.slice(0, 3).map((w) =>
+        workSlugByName[w] ? (
+          <a class="tag tag-work" href={withBase(`/work/${workSlugByName[w]}/`)}>{w}</a>
+        ) : (
+          <span class="tag tag-work">{w}</span>
+        ),
+      )}
+      {((it.platforms ?? []).length > 0 || it.categories.length > 0) && (
+        <span class="item-cats">
+          {(it.platforms ?? []).map((p) => <span class="plat">{platLabel[p]}</span>)}
+          {it.categories.slice(0, 3).map((c) => <span class="tag tag-cat">#{catLabel[c]}</span>)}
+        </span>
+      )}
+    </div>
   </div>
 </article>
