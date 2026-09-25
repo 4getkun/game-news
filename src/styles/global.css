@@ -1436,9 +1436,6 @@ a.tag-work {
   padding: 14px 0;
   border-bottom: 1px solid var(--line);
 }
-.cal-day.is-past {
-  opacity: 0.55;
-}
 .cal-day-head {
   margin: 0;
   font-family: var(--font-pixel);

@@ -11,9 +11,12 @@ const verbs = (filters as unknown as { schedule: { verbs: { id: string; label: s
 const weekday = new Intl.DateTimeFormat("ja-JP", { weekday: "short", timeZone: "UTC" });
 const todayKey = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" }).format(new Date(generatedAt));
 
+// 過ぎた日の予定は出さない(月までしか分からない予定は、その月が終わるまで出す)
+const upcoming = calendar.filter((e) => (e.precision === "month" ? e.date.slice(0, 7) >= todayKey.slice(0, 7) : e.date >= todayKey));
+
 type Entry = (typeof calendar)[number];
 const months = new Map<string, { monthOnly: Entry[]; days: Map<string, Entry[]> }>();
-for (const e of calendar) {
+for (const e of upcoming) {
   const ym = e.date.slice(0, 7);
   if (!months.has(ym)) months.set(ym, { monthOnly: [], days: new Map() });
   const m = months.get(ym)!;
@@ -39,7 +42,7 @@ const dayLabel = (d: string) => {
   <section class="wrap cal-page">
     <h1 class="work-title">予定</h1>
     <p class="work-meta">
-      ニュースの見出しから「12月10日発売」「本日配信」のような日付を拾って並べています（{calendar.length}件、{formatDateTime(generatedAt)}時点）。
+      ニュースの見出しから「12月10日発売」「本日配信」のような日付を拾って並べています（{upcoming.length}件、{formatDateTime(generatedAt)}時点）。
       正式な日程は各記事で確かめてください。
     </p>
     <div class="chips cal-filter" id="cal-filter" role="group" aria-label="種類で絞り込む">
@@ -47,7 +50,7 @@ const dayLabel = (d: string) => {
       {verbs.map((v) => <button type="button" class="chip" data-verb={v.id} aria-pressed="false">{v.label}</button>)}
     </div>
 
-    {calendar.length === 0 && <p class="empty">いまは予定がありません。</p>}
+    {upcoming.length === 0 && <p class="empty">いまは予定がありません。</p>}
 
     {[...months.entries()].map(([ym, m]) => (
       <section class="cal-month">
@@ -70,7 +73,7 @@ const dayLabel = (d: string) => {
           </div>
         )}
         {[...m.days.entries()].map(([d, list]) => (
-          <div class={`cal-day${d === todayKey ? " is-today" : ""}${d < todayKey ? " is-past" : ""}`}>
+          <div class={`cal-day${d === todayKey ? " is-today" : ""}`} data-date={d}>
             <h3 class="cal-day-head">{dayLabel(d)}{d === todayKey && <span class="cal-today">今日</span>}</h3>
             <ul class="cal-list">
               {list.map((e) => (
@@ -92,6 +95,10 @@ const dayLabel = (d: string) => {
 </Base>
 
 <script is:inline>
+  // ページは1時間ごとに作り直すので、日付が変わった直後は前日の予定が残ることがある。開いた時点で過ぎた日は消す
+  const today = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" }).format(new Date());
+  document.querySelectorAll(".cal-day[data-date]").forEach((d) => d.dataset.date < today && d.remove());
+  document.querySelectorAll(".cal-month").forEach((m) => !m.querySelector(".cal-day") && m.remove());
   // 種類で絞り込む(空になった日・月は隠す)
   const buttons = document.querySelectorAll("#cal-filter [data-verb]");
   buttons.forEach((b) =>
