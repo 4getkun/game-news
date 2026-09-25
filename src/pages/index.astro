@@ -273,16 +273,16 @@ const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }
       </section>
     </aside>
 
-    <div>
-      <div class="feed-status" aria-live="polite">
-        <span><strong id="result-count">{jaNews.length}</strong> 件</span>
-        <span id="hidden-note"></span>
-        <div class="active-filters" id="active-filters"></div>
-      </div>
+    <div class="feed-col">
+      <div class="active-filters" id="active-filters"></div>
       <div id="work-banner"></div>
       <div id="feed-list">
         <div class="day">
-          <div class="day-head"><h2>最新</h2></div>
+          <div class="day-head">
+            <h2>最新</h2>
+            <!-- 件数は一覧の最初の日付の見出しの右端に置く(一覧を描き直すたびに feed.ts が付け直す) -->
+            <p class="feed-count" aria-live="polite"><span id="hidden-note"></span><span><strong id="result-count">{jaNews.length}</strong> 件</span></p>
+          </div>
           {initialItems.map((it) => <NewsItem item={it} showThumb={false} />)}
         </div>
       </div>

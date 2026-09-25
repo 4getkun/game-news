@@ -397,12 +397,16 @@ export async function startFeed() {
     updateMoreButton();
   }
 
+  // 件数(と非表示にした件数)。一覧を描き直すと消えるので、最初の日付の見出しに付け直す
+  const countEl = $(".feed-count");
+
   function renderList() {
     const list = $("#feed-list");
     const slice = lastResult.slice(0, shown);
     prefetched = null;
     if (slice.length === 0) {
-      list.innerHTML = `<div class="empty"><p>条件に合うニュースはありません。</p><button type="button" class="btn btn-solid" id="reset-all">絞り込みをすべて解除</button></div>`;
+      list.innerHTML = `<div class="day"><div class="day-head"><h2>見つかりません</h2></div><div class="empty"><p>条件に合うニュースはありません。</p><button type="button" class="btn btn-solid" id="reset-all">絞り込みをすべて解除</button></div></div>`;
+      list.querySelector(".day-head")!.append(countEl);
       $("#more").hidden = true;
       return;
     }
@@ -414,6 +418,7 @@ export async function startFeed() {
       list.innerHTML = g.rest;
       renderedKey = g.lastKey;
     }
+    list.querySelector(".day-head")!.append(countEl);
     updateMoreButton();
   }
 

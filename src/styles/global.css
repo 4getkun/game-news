@@ -490,6 +490,13 @@
   padding-block: 30px 80px;
   align-items: start;
 }
+/* PC: 一覧の最初の見出しの下線と、左の絞り込みウィンドウの上端をそろえる
+   (見出しの上の余白 10px + 文字の行 30px + 下の余白 8px = 48px だけウィンドウを下げる) */
+@media (min-width: 961px) {
+  .panel {
+    margin-top: 48px;
+  }
+}
 
 /* --------------------------------------------------------- filter panel */
 .panel {
@@ -739,16 +746,21 @@
 }
 
 /* ---------------------------------------------------------------- feed */
-.feed-status {
+.feed-count {
+  margin: 0 0 0 auto;
+  /* 見出しの行(30px)より高くならないようにする(下線の位置がずれるため) */
+  align-self: flex-end;
+  height: 30px;
+  line-height: 30px;
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px 14px;
+  align-items: baseline;
+  gap: 14px;
   font-size: 13px;
   color: var(--muted);
-  margin-bottom: 4px;
+  white-space: nowrap;
 }
-.feed-status strong {
+.feed-count strong {
+  line-height: 30px;
   font-family: var(--font-pixel);
   color: var(--text);
   font-size: 20px;
@@ -758,6 +770,10 @@
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
+  margin-bottom: 12px;
+}
+.active-filters:empty {
+  display: none;
 }
 .active-filters .chip::after {
   content: "×";
@@ -789,6 +805,9 @@
 .day {
   margin-top: 28px;
 }
+.day:first-child {
+  margin-top: 0;
+}
 .day-head {
   position: sticky;
   top: calc(var(--header-h) + var(--toolbar-h));
@@ -804,6 +823,7 @@
   font-family: var(--font-pixel);
   font-weight: 400;
   font-size: 20px;
+  line-height: 30px;
   margin: 0;
 }
 .day-head span {
