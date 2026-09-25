@@ -93,7 +93,8 @@ export function relevanceScore(title, summary, config, knownWorks = null) {
   }
   if (knownWorks && knownWorks.size > 0) {
     const titleWorks = extractWorks(title, config, { lenient: true });
-    if (titleWorks.some((w) => knownWorks.has(w))) {
+    // 作品辞書は workKey で持つ(表記ゆれがあっても当たるように)
+    if (titleWorks.some((w) => knownWorks.has(workKey(w, config)))) {
       score += config.relevance.knownWorkBonus;
       hits.push("#known-work");
     }
@@ -154,6 +155,49 @@ export function canonicalWork(raw, config) {
     w = w.replace(new RegExp(p, "i"), "").trim();
   }
   return w;
+}
+
+const ROMAN = { i: 1, ii: 2, iii: 3, iv: 4, v: 5, vi: 6, vii: 7, viii: 8, ix: 9, x: 10, xi: 11, xii: 12, xiii: 13, xiv: 14, xv: 15, xvi: 16 };
+
+/**
+ * 作品名の「同じ作品か」を判定するためのキー。表示には使わない。
+ *  - 全角/半角・大文字小文字・空白・中黒・コロン・波線・™ の違いを無視
+ *  - works.aliases で略称にそろえる(「ファイナルファンタジー」「FINAL FANTASY」→「FF」など)
+ *  - 略称の直後のローマ数字を数字にする(「FFVII」→「ff7」、「ドラクエXI」→「ドラクエ11」)
+ * 「FFX/X-2 HD Remaster」「FINAL FANTASY X/X-2 HD Remaster」「ファイナルファンタジーX/X-2 HDリマスター」は同じキーになる。
+ */
+export function workKey(name, config) {
+  let k = normalizeForMatch(name).toLowerCase();
+  for (const [from, to] of Object.entries(config.works.aliases ?? {})) {
+    k = k.split(normalizeForMatch(from).toLowerCase()).join(normalizeForMatch(to).toLowerCase());
+  }
+  const prefixes = (config.works.numeralPrefixes ?? []).map((x) => normalizeForMatch(x).toLowerCase());
+  for (const pre of prefixes) {
+    const esc = pre.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    k = k.replace(new RegExp(`(${esc})\\s?(xvi|xv|xiv|xiii|xii|xi|x|ix|viii|vii|vi|v|iv|iii|ii|i)(?![a-z])`, "g"), (_, a, n) => a + ROMAN[n]);
+  }
+  // ハイフンは「X-2」の区切りなので残す(消すと「FFX-2」が「FF102」になる)
+  return k.replace(/[\s・･:：~〜～™®]/g, "");
+}
+
+/**
+ * 同じ作品の表記ゆれを1つの表示名にそろえる対応表を作る。
+ * キーごとに最も多く使われている表記を選ぶ(同数なら短い方)。
+ */
+export function buildWorkDisplayMap(allWorks, config) {
+  const byKey = new Map();
+  for (const w of allWorks) {
+    const key = workKey(w, config);
+    if (!byKey.has(key)) byKey.set(key, new Map());
+    const counts = byKey.get(key);
+    counts.set(w, (counts.get(w) ?? 0) + 1);
+  }
+  const display = new Map();
+  for (const counts of byKey.values()) {
+    const best = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].length - b[0].length)[0][0];
+    for (const w of counts.keys()) display.set(w, best);
+  }
+  return display;
 }
 
 /**

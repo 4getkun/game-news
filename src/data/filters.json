@@ -661,7 +661,29 @@
       "アップデート"
     ],
     "lenientCornerQuotes": false,
-    "$comment_lenient": "ゲームの記事の「」はキャラ名・モンスター名が多いので、タイトルは『』(と「ゲーム」「シリーズ」などの直後の「」)だけから取る"
+    "$comment_lenient": "ゲームの記事の「」はキャラ名・モンスター名が多いので、タイトルは『』(と「ゲーム」「シリーズ」などの直後の「」)だけから取る",
+    "aliases": {
+      "ファイナルファンタジー": "FF",
+      "FINAL FANTASY": "FF",
+      "ドラゴンクエスト": "ドラクエ",
+      "DRAGON QUEST": "ドラクエ",
+      "モンスターハンター": "モンハン",
+      "MONSTER HUNTER": "モンハン",
+      "ポケットモンスター": "ポケモン",
+      "キングダムハーツ": "KH",
+      "KINGDOM HEARTS": "KH",
+      "リマスター": "remaster",
+      "リメイク": "remake"
+    },
+    "numeralPrefixes": [
+      "FF",
+      "ドラクエ",
+      "KH",
+      "ペルソナ",
+      "サガ",
+      "SaGa"
+    ],
+    "$comment_aliases": "aliases・numeralPrefixes は「同じ作品か」の判定キーだけに使う(表示名は一番多い表記)。scripts/lib/filter.mjs の workKey 参照"
   },
   "syndication": {
     "$comment": "再配信(転載)ポータル。媒体名(Googleニュースの「 - 媒体名」やフィード名)かURLのドメインがここに当たる記事は、元記事があればそちらにまとめる。",

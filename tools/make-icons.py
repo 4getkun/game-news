@@ -1,7 +1,8 @@
 """ファビコン一式を作る(ドット絵)。
 
-図柄: JRPG のコマンドウィンドウ。紺の地に白い枠、金色の ▶ カーソルが白い1行目を指し、
-その下にもう1行(薄い色)。16x16 のマス目で1ドットずつ決めてあるので、ブラウザのタブ(16px)で
+図柄: サイトの絞り込みメニューと同じ JRPG のコマンドウィンドウ。紺の地に白い枠、
+金色の ▶ カーソルが指している1行目は選択中なので金色(サイトの .menu-item[aria-pressed] と同じ)、
+その下の2行目はまだ選んでいない項目なので薄い色。16x16 のマス目で1ドットずつ決めてあるので、ブラウザのタブ(16px)で
 そのまま読める。大きいサイズは同じマス目を整数倍に拡大する(ぼかさない)。
 (姉妹サイト anime-news は極太書体の「全」がタブでつぶれた。ここは最初から16pxで設計する)
 
@@ -18,23 +19,23 @@ OUT = Path(__file__).resolve().parent.parent / "public"
 # 1文字=1ドット。. は透明
 PALETTE = {
     "N": "#13206E",  # ウィンドウの紺
-    "W": "#F4F6FF",  # 枠と1行目
-    "C": "#FFD84A",  # カーソル
-    "M": "#8C98D8",  # 2行目(まだ選んでいない項目)
+    "W": "#F4F6FF",  # 枠
+    "C": "#FFD84A",  # カーソルと選択中の行(--cursor)
+    "M": "#AAB4E6",  # 選んでいない行(--win-muted)
 }
 GRID = [
     ".NNNNNNNNNNNNNN.",
     "NWWWWWWWWWWWWWWN",
     "NWNNNNNNNNNNNNWN",
+    "NWNNNNNNNNNNNNWN",
     "NWNCNNNNNNNNNNWN",
     "NWNCCNNNNNNNNNWN",
-    "NWNCCCNNWWWWWNWN",
-    "NWNCCCCNWWWWWNWN",
-    "NWNCCCNNNNNNNNWN",
+    "NWNCCCNCCCCCNNWN",
+    "NWNCCCNCCCCCNNWN",
     "NWNCCNNNNNNNNNWN",
     "NWNCNNNNNNNNNNWN",
-    "NWNNNNNNMMMMNNWN",
-    "NWNNNNNNMMMMNNWN",
+    "NWNNNNNMMMMNNNWN",
+    "NWNNNNNMMMMNNNWN",
     "NWNNNNNNNNNNNNWN",
     "NWNNNNNNNNNNNNWN",
     "NWWWWWWWWWWWWWWN",

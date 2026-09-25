@@ -12,6 +12,7 @@ import {
   isSyndicated,
   classifyCategories,
   classifyPlatforms,
+  workKey,
 } from "./filter.mjs";
 
 const config = JSON.parse(readFileSync(new URL("../../src/data/filters.json", import.meta.url), "utf-8"));
@@ -39,7 +40,8 @@ test("スポーツの「ゲーム」は拾わない", () => {
 test("作品辞書に載っている作品名は、ゲーム用語が無くても加点される", () => {
   const item = { title: "『ペルソナ4 リバイバル』公式グッズの通販スタート", summary: "" };
   assert.equal(evaluateItem(item, aggregator, config), null);
-  assert.ok(evaluateItem(item, aggregator, config, new Set(["ペルソナ4 リバイバル"])));
+  // 作品辞書は workKey で持つ。表記が少し違っても(空白の有無など)当たる
+  assert.ok(evaluateItem(item, aggregator, config, new Set([workKey("ペルソナ4リバイバル", config)])));
 });
 
 test("機種の判定: Switch 2 だけの記事に Switch を付けない", () => {
@@ -88,4 +90,17 @@ test("「」のキャラ名はタイトル扱いしない(『』だけ)", () => 
     extractWorks("『ドラクエモンスターズ4』新キャラ「オルミラ」の情報が公開", config, { lenient: true }),
     ["ドラクエモンスターズ4"],
   );
+});
+
+test("同じタイトルの表記ゆれは同じキー・同じ表示名になる", async () => {
+  const { buildWorkDisplayMap } = await import("./filter.mjs");
+  const ff = ["FFX/X-2 HD Remaster", "FINAL FANTASY X/X-2 HD Remaster", "FF X/X-2 HD Remaster", "ファイナルファンタジーX/X-2 HDリマスター"];
+  assert.equal(new Set(ff.map((w) => workKey(w, config))).size, 1);
+  assert.equal(workKey("ファイナルファンタジーVII リベレーション", config), workKey("FF7 リベレーション", config));
+  assert.equal(workKey("信長の野望･飛翔", config), workKey("信長の野望・飛翔", config));
+  // 別の作品は別のキー
+  assert.notEqual(workKey("FFX-2", config), workKey("FF10", config));
+  assert.notEqual(workKey("FF14", config), workKey("FF7", config));
+  const map = buildWorkDisplayMap([...ff, "FFX/X-2 HD Remaster"], config);
+  assert.equal(map.get("FINAL FANTASY X/X-2 HD Remaster"), "FFX/X-2 HD Remaster"); // 一番多い表記
 });
