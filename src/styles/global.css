@@ -248,6 +248,15 @@
   margin: 8px 0 18px;
   letter-spacing: 0.02em;
 }
+/* 見出しを押すとトップ(絞り込みなし)に戻る。見た目は見出しのまま変えない */
+.hero-home {
+  color: inherit;
+  text-decoration: none;
+}
+.hero-home:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 4px;
+}
 .hero-lede {
   color: var(--muted);
   max-width: 42em;
