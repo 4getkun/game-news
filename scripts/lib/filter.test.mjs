@@ -157,3 +157,16 @@ test("ゲーム専門媒体のアニメ・音楽の記事は除外し、ゲー�
   const denfami = { id: "denfaminico", kind: "specialist", lang: "ja" };
   assert.equal(evaluateItem({ title: "TVアニメ『ラブライブ！』のオーケストラコンサートが開催決定", summary: "" }, denfami, config, new Set([workKey("ラブライブ!", config)])), null);
 });
+
+test("ちいかわ: アニメ・グッズの記事は除外、ゲーム化・ゲームの記事は残す", async () => {
+  const { isOffTopic } = await import("./filter.mjs");
+  const off = (t) => isOffTopic(t, "", config);
+  assert.equal(off("アニメ『ちいかわ』の新作が一時休止、10月2日からは人気シリーズ回をリバイバル放送へ"), true);
+  assert.equal(off("「ちいかわ くりまんじゅうだらけくじ」が大人気！BIGぬいぐるみ、マスコットも"), true);
+  assert.equal(off("「ボンボンドロップシール」ちいかわの新作が発売！"), true);
+  assert.equal(off("『ちいかわ』がゲーム化！Nintendo Switchで2027年発売"), false);
+  assert.equal(off("【ちいぽけ】1.5周年を記念してABEMAでアニメ『ちいかわ』全362話を無料一挙放送"), false);
+  // ゲームのタイトルのグッズは残す
+  assert.equal(off("オンライン人狼アクション『Among Us』がカラフルな“めじるしアクセサリー”に！"), false);
+  assert.equal(off("『牧場物語』歴代シリーズの「ウシ」にだけ注目しためじるしアクセサリーがユニーク！"), false);
+});
