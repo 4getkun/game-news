@@ -1,0 +1,16 @@
+{
+  "name": "ゲームニュース全部",
+  "short_name": "ゲームニュース",
+  "description": "ゲーム関連ニュースのRSSを集めて、転載・重複をまとめ、機種や話題で絞り込めるサイト",
+  "lang": "ja",
+  "start_url": "/game-news/",
+  "scope": "/game-news/",
+  "display": "standalone",
+  "background_color": "#13206E",
+  "theme_color": "#13206E",
+  "icons": [
+    { "src": "/game-news/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/game-news/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/game-news/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

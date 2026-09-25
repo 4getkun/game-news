@@ -1,0 +1,92 @@
+name: Update news and deploy to Cloudflare Pages
+
+# 公開URLは https://fourgetkun.com/game-news/ 。ここでは Cloudflare Pages のプロジェクト
+# game-news へ Direct Upload し、fourgetkun-hub の Worker(src/pages-proxy/proxy.js)が
+# そこから取ってきて返す(news-lifespan・anime-news と同じ。リポジトリを private のままにできる)。
+#
+# 1時間ごとに RSS を集め直し、data/archive.json(生データ30日分)と src/data/news.json
+# (フィルタ・統合済み)をコミットしてから、ビルドして公開する。
+#
+# 間隔を1時間にしているのは、private リポジトリの Actions 無料枠(月2,000分)を
+# ほかのリポジトリと分け合っているため。1回およそ1〜2分なので、1時間ごとで月720〜1,440分。
+# 30分ごとにすると倍になり、枠を超えやすい。各フィードは半日〜数日分を抱えているので、
+# 1時間ごとでも取りこぼしはほぼ出ない。
+#
+# 必要なリポジトリの secrets(mahjong-war と同じもの):
+#   CLOUDFLARE_API_TOKEN   Account > Cloudflare Pages > Edit の権限を持つトークン
+#   CLOUDFLARE_ACCOUNT_ID  アカウントID
+# 未設定の間はデプロイだけを飛ばす(収集とコミットは続く)。
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 毎時47分(UTC。anime-news の17分とずらす)。00分は混んでいて遅れやすい
+    - cron: "47 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# 手動 push が定期実行の待機枠を奪わないよう、トリガーの種類ごとに分ける
+# (同時に走った場合の push 競合はリベースして再試行する)
+concurrency:
+  group: "update-${{ github.event_name }}"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Test filters
+        run: npm test
+
+      - name: Fetch game news
+        run: npm run fetch-news
+
+      - name: Commit updated data if changed
+        run: |
+          if git diff --quiet -- data/archive.json src/data/news.json; then
+            echo "No data changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/archive.json src/data/news.json
+            git commit -m "chore: update game news"
+            for i in 1 2 3; do
+              if git push origin HEAD:main; then
+                break
+              fi
+              echo "push failed (attempt $i/3), rebasing onto latest main and retrying..."
+              git fetch --depth=20 origin main
+              git rebase -X theirs origin/main
+            done
+          fi
+
+      - name: Build site
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        # プロジェクト(game-news / game-news.pages.dev)は作成済み。
+        # 新しく作り直すときは `wrangler pages project create game-news --production-branch=main --force`
+        # (--force が無いと Workers へ振り替えられる。astro.config.mjs のコメント参照)
+        run: npx wrangler pages deploy dist --project-name=game-news --branch=main --commit-dirty=true

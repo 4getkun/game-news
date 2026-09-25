@@ -1,0 +1,29 @@
+{
+  "name": "game-news",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ゲーム関連ニュースのRSSを片っ端から集めて、フィルタリングして読むための静的サイト",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "probe-feeds": "node scripts/probe-feeds.mjs",
+    "test": "node --test \"scripts/**/*.test.mjs\""
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.3.5",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "wrangler": "4.136.2"
+  }
+}

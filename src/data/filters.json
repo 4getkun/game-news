@@ -1,0 +1,768 @@
+{
+  "$comment": "収集時フィルタの設定。scripts/lib/filter.mjs が読み込む。キーワードは全角英数を半角に正規化した上で、大文字小文字を無視して部分一致で判定する(英単語は単語境界つき)。",
+  "thresholds": {
+    "$comment": "フィードの種類ごとの「ゲーム関連度スコア」の採用しきい値。specialist(ゲーム専門媒体)は除外ルールに当たらない限り全部採用。",
+    "specialist": 0,
+    "aggregator": 3,
+    "general": 4,
+    "press": 6
+  },
+  "hardExclude": {
+    "$comment": "どのフィードから来ても無条件で捨てる記事。広告・成人向け・求人・パチンコ/パチスロ(遊技機はこのサイトの対象外)など。",
+    "title": [
+      "【PR】",
+      "[PR]",
+      "（PR）",
+      "(PR)",
+      "PR】",
+      "Sponsored",
+      "【広告】",
+      "求人",
+      "採用情報",
+      "スタッフ募集"
+    ],
+    "any": [
+      "成人向け",
+      "アダルト",
+      "R18",
+      "R-18",
+      "18禁",
+      "エロ",
+      "グラビア",
+      "パチンコ",
+      "パチスロ",
+      "スロット新台",
+      "オンラインカジノ",
+      "ギャンブル"
+    ]
+  },
+  "relevance": {
+    "$comment": "総合媒体・プレスリリース・Googleニュース経由の記事がゲーム関連かを判定する重み付きキーワード。見出しに出る語は2倍。スポーツの「ゲーム差」「ゲームセット」など、ゲーム以外の「ゲーム」は減点する。",
+    "weights": {
+      "新作ゲーム": 4,
+      "ゲームソフト": 4,
+      "家庭用ゲーム": 4,
+      "スマホゲーム": 4,
+      "ソシャゲ": 4,
+      "PCゲーム": 4,
+      "インディーゲーム": 4,
+      "ビデオゲーム": 4,
+      "Nintendo Switch": 4,
+      "Switch 2": 4,
+      "ニンテンドースイッチ": 4,
+      "PS5": 4,
+      "PS4": 3,
+      "PlayStation": 3,
+      "プレイステーション": 3,
+      "Xbox": 4,
+      "Steam": 4,
+      "Epic Games": 3,
+      "任天堂": 3,
+      "カプコン": 3,
+      "スクウェア・エニックス": 4,
+      "スクエニ": 3,
+      "バンダイナムコ": 2,
+      "セガ": 2,
+      "コナミ": 2,
+      "コーエーテクモ": 3,
+      "アトラス": 2,
+      "フロム・ソフトウェア": 4,
+      "ポケモン": 2,
+      "HoYoverse": 4,
+      "Cygames": 3,
+      "DLC": 3,
+      "アップデート": 1,
+      "大型アップデート": 3,
+      "パッチ": 1,
+      "早期アクセス": 3,
+      "体験版": 3,
+      "ダウンロード版": 3,
+      "パッケージ版": 3,
+      "予約開始": 1,
+      "発売日": 2,
+      "配信日": 2,
+      "事前登録": 3,
+      "ガチャ": 3,
+      "リリース": 1,
+      "RPG": 2,
+      "アクションゲーム": 3,
+      "シミュレーション": 1,
+      "FPS": 3,
+      "格闘ゲーム": 3,
+      "ローグライク": 3,
+      "オープンワールド": 3,
+      "eスポーツ": 4,
+      "ゲーム実況": 3,
+      "プロゲーマー": 4,
+      "東京ゲームショウ": 4,
+      "TGS": 2,
+      "Nintendo Direct": 4,
+      "ニンテンドーダイレクト": 4,
+      "State of Play": 4,
+      "gamescom": 4,
+      "The Game Awards": 4,
+      "BitSummit": 4,
+      "ゲーム": 2,
+      "ゲーム化": 3,
+      "実況": 1,
+      "攻略": 2,
+      "game": 2,
+      "video game": 4,
+      "gameplay": 3,
+      "trailer": 1,
+      "console": 2,
+      "DLC ": 2,
+      "ゲーム差": -6,
+      "ゲームセット": -6,
+      "ゲームメーク": -6,
+      "ゲームチェンジャー": -4,
+      "ゲーム理論": -5,
+      "マネーゲーム": -5,
+      "試合": -2,
+      "打点": -4,
+      "本塁打": -4,
+      "ゴール": -1,
+      "ボードゲーム": -1,
+      "カードゲーム": 0,
+      "ゲームセンター": 1,
+      "宝くじ": -4,
+      "競馬": -6,
+      "実装": 2,
+      "参戦": 2,
+      "SSR": 3,
+      "UR": 1,
+      "周年": 1,
+      "生放送": 1,
+      "週間販売": 4,
+      "販売数": 2,
+      "リメイク": 2,
+      "リマスター": 3,
+      "移植": 2,
+      "VR": 1,
+      "Meta Quest": 3,
+      "アケアカ": 4,
+      "アーケード": 2,
+      "プレイ": 1,
+      "クリア": 1,
+      "ボス": 1,
+      "キャラクター": 1,
+      "プロセカ": 3,
+      "モンハン": 3,
+      "ドラクエ": 3,
+      "FF": 1,
+      "ポケモンGO": 4,
+      "MLB": -8,
+      "Gameday": -8,
+      "Final Score": -8,
+      "NFL": -6,
+      "NBA": -6,
+      "サッカー": -3,
+      "Jリーグ": -6,
+      "プロ野球": -6
+    },
+    "knownWorkBonus": 4,
+    "$comment_knownWorkBonus": "ゲーム専門媒体の記事から抽出した作品名(直近の作品辞書)が見出しに出てくる場合の加点。"
+  },
+  "platforms": {
+    "$comment": "機種の判定(記事に複数付く)。表示側で機種ごとに絞り込める。Switch 2 は Switch より先に判定し、Switch 2 だけの記事に Switch を付けないよう switchOnly で見分ける。",
+    "list": [
+      {
+        "id": "switch2",
+        "label": "Switch 2",
+        "keywords": [
+          "Switch 2",
+          "Switch2",
+          "スイッチ2",
+          "スイッチ 2"
+        ]
+      },
+      {
+        "id": "switch",
+        "label": "Switch",
+        "keywords": [
+          "Nintendo Switch",
+          "ニンテンドースイッチ",
+          "Switch"
+        ],
+        "exclude": [
+          "Switch 2",
+          "Switch2",
+          "スイッチ2",
+          "スイッチ 2"
+        ]
+      },
+      {
+        "id": "ps5",
+        "label": "PS5",
+        "keywords": [
+          "PS5",
+          "PlayStation 5",
+          "プレイステーション5",
+          "プレイステーション 5",
+          "PS5 Pro"
+        ]
+      },
+      {
+        "id": "ps4",
+        "label": "PS4",
+        "keywords": [
+          "PS4",
+          "PlayStation 4",
+          "プレイステーション4"
+        ]
+      },
+      {
+        "id": "xbox",
+        "label": "Xbox",
+        "keywords": [
+          "Xbox",
+          "Game Pass",
+          "ゲームパス"
+        ]
+      },
+      {
+        "id": "pc",
+        "label": "PC",
+        "keywords": [
+          "PC版",
+          "Steam",
+          "Epic Games",
+          "PCゲーム",
+          "Windows",
+          "for PC",
+          "on PC"
+        ]
+      },
+      {
+        "id": "mobile",
+        "label": "スマホ",
+        "keywords": [
+          "スマホ",
+          "iOS",
+          "Android",
+          "App Store",
+          "Google Play",
+          "スマートフォン",
+          "アプリ"
+        ]
+      },
+      {
+        "id": "vr",
+        "label": "VR",
+        "keywords": [
+          "VR",
+          "Meta Quest",
+          "PS VR2",
+          "PSVR2"
+        ]
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "new",
+      "label": "新作発表",
+      "emoji": "✨",
+      "keywords": [
+        "新作",
+        "最新作",
+        "電撃発表",
+        "新規IP",
+        "タイトル発表",
+        "制作決定",
+        "開発中",
+        "開発決定",
+        "始動",
+        "続編",
+        "リメイク",
+        "リマスター",
+        "移植",
+        "announced",
+        "announces",
+        "reveal",
+        "revealed",
+        "remake",
+        "remaster",
+        "sequel",
+        "new IP"
+      ]
+    },
+    {
+      "id": "release",
+      "label": "発売・配信",
+      "emoji": "📦",
+      "keywords": [
+        "発売日",
+        "発売決定",
+        "配信日",
+        "配信開始",
+        "配信決定",
+        "本日発売",
+        "本日配信",
+        "予約開始",
+        "予約受付",
+        "事前登録",
+        "早期アクセス",
+        "正式リリース",
+        "サービス開始",
+        "release date",
+        "launches",
+        "out now",
+        "pre-order"
+      ]
+    },
+    {
+      "id": "update",
+      "label": "アップデート・DLC",
+      "emoji": "🔧",
+      "keywords": [
+        "アップデート",
+        "DLC",
+        "追加コンテンツ",
+        "パッチ",
+        "新シーズン",
+        "シーズン",
+        "拡張",
+        "バージョン",
+        "Ver.",
+        "update",
+        "patch",
+        "expansion",
+        "season"
+      ]
+    },
+    {
+      "id": "trailer",
+      "label": "PV・映像",
+      "emoji": "🎞️",
+      "keywords": [
+        "PV",
+        "トレーラー",
+        "映像",
+        "プレイ動画",
+        "ティザー",
+        "trailer",
+        "teaser",
+        "gameplay"
+      ]
+    },
+    {
+      "id": "sale",
+      "label": "セール・無料",
+      "emoji": "🏷️",
+      "keywords": [
+        "セール",
+        "割引",
+        "%オフ",
+        "％オフ",
+        "OFF",
+        "無料配布",
+        "無料化",
+        "基本プレイ無料",
+        "期間限定無料",
+        "フリープレイ",
+        "ゲームパス",
+        "Game Pass",
+        "sale",
+        "free",
+        "discount"
+      ],
+      "ignore": [
+        "無料体験版"
+      ]
+    },
+    {
+      "id": "demo",
+      "label": "体験版・テスト",
+      "emoji": "🧪",
+      "keywords": [
+        "体験版",
+        "デモ版",
+        "ベータテスト",
+        "βテスト",
+        "CBT",
+        "OBT",
+        "ネットワークテスト",
+        "試遊",
+        "demo",
+        "beta",
+        "playtest"
+      ]
+    },
+    {
+      "id": "event",
+      "label": "イベント・発表会",
+      "emoji": "🎤",
+      "keywords": [
+        "東京ゲームショウ",
+        "TGS",
+        "Nintendo Direct",
+        "ニンテンドーダイレクト",
+        "State of Play",
+        "gamescom",
+        "The Game Awards",
+        "BitSummit",
+        "発表会",
+        "配信番組",
+        "ショーケース",
+        "イベント",
+        "Direct",
+        "showcase"
+      ]
+    },
+    {
+      "id": "hardware",
+      "label": "ハード・周辺機器",
+      "emoji": "🕹️",
+      "keywords": [
+        "本体",
+        "新型",
+        "コントローラー",
+        "周辺機器",
+        "ゲーミングPC",
+        "グラフィックボード",
+        "GPU",
+        "ゲーミングモニター",
+        "ヘッドセット",
+        "SSD",
+        "値上げ",
+        "価格改定",
+        "hardware",
+        "controller"
+      ]
+    },
+    {
+      "id": "esports",
+      "label": "eスポーツ・大会",
+      "emoji": "🏆",
+      "keywords": [
+        "eスポーツ",
+        "esports",
+        "大会",
+        "優勝",
+        "決勝",
+        "リーグ",
+        "プロゲーマー",
+        "EVO",
+        "tournament"
+      ]
+    },
+    {
+      "id": "mobile",
+      "label": "スマホゲーム",
+      "emoji": "📱",
+      "keywords": [
+        "スマホゲーム",
+        "スマホ向け",
+        "アプリ",
+        "事前登録",
+        "ガチャ",
+        "iOS",
+        "Android",
+        "mobile"
+      ]
+    },
+    {
+      "id": "indie",
+      "label": "インディー",
+      "emoji": "🌱",
+      "keywords": [
+        "インディー",
+        "インディーズ",
+        "個人開発",
+        "同人ゲーム",
+        "BitSummit",
+        "indie"
+      ]
+    },
+    {
+      "id": "review",
+      "label": "レビュー・インタビュー",
+      "emoji": "📝",
+      "keywords": [
+        "レビュー",
+        "プレイレポート",
+        "インタビュー",
+        "試遊レポート",
+        "インプレッション",
+        "開発者",
+        "review",
+        "interview",
+        "hands-on",
+        "preview"
+      ]
+    },
+    {
+      "id": "media",
+      "label": "アニメ・映画化",
+      "emoji": "🎬",
+      "keywords": [
+        "アニメ化",
+        "TVアニメ",
+        "映画化",
+        "実写化",
+        "劇場版",
+        "ドラマ化",
+        "anime",
+        "movie",
+        "film",
+        "adaptation"
+      ]
+    },
+    {
+      "id": "collab",
+      "label": "コラボ・グッズ",
+      "emoji": "🧸",
+      "keywords": [
+        "コラボ",
+        "グッズ",
+        "フィギュア",
+        "一番くじ",
+        "カフェ",
+        "collab",
+        "merch",
+        "figure"
+      ]
+    },
+    {
+      "id": "business",
+      "label": "業界・ビジネス",
+      "emoji": "📈",
+      "keywords": [
+        "決算",
+        "売上",
+        "販売本数",
+        "出荷",
+        "累計",
+        "万本",
+        "買収",
+        "資本業務提携",
+        "レイオフ",
+        "解雇",
+        "人員削減",
+        "スタジオ閉鎖",
+        "業界",
+        "sales",
+        "revenue",
+        "layoffs",
+        "acquisition",
+        "acquires"
+      ]
+    },
+    {
+      "id": "ranking",
+      "label": "ランキング・調査",
+      "emoji": "📊",
+      "keywords": [
+        "ランキング",
+        "売上ランキング",
+        "週販",
+        "調査",
+        "アンケート",
+        "TOP10",
+        "ranking",
+        "chart"
+      ]
+    },
+    {
+      "id": "trouble",
+      "label": "事件・トラブル",
+      "emoji": "⚠️",
+      "sensitive": true,
+      "scope": "title",
+      "skipQuoted": true,
+      "hint": "脅迫・逮捕・訴訟・炎上・不正・障害・サービス終了など",
+      "keywords": [
+        "脅迫",
+        "被害届",
+        "殺害予告",
+        "誹謗中傷",
+        "書類送検",
+        "逮捕",
+        "容疑者",
+        "容疑で",
+        "起訴",
+        "提訴",
+        "訴訟",
+        "炎上",
+        "不祥事",
+        "活動休止",
+        "無期限休止",
+        "休業",
+        "契約解除",
+        "盗撮",
+        "ストーカー",
+        "暴行",
+        "詐欺",
+        "情報漏洩",
+        "謝罪",
+        "arrested",
+        "lawsuit",
+        "harassment",
+        "チート",
+        "不正ツール",
+        "BAN",
+        "アカウント停止",
+        "サービス終了",
+        "サ終",
+        "サーバーダウン",
+        "障害",
+        "不具合で配信停止",
+        "集団訴訟"
+      ]
+    },
+    {
+      "id": "romance",
+      "label": "熱愛・結婚",
+      "emoji": "💍",
+      "sensitive": true,
+      "scope": "title",
+      "skipQuoted": true,
+      "hint": "結婚・入籍・熱愛・交際・離婚など",
+      "keywords": [
+        "結婚",
+        "入籍",
+        "熱愛",
+        "交際",
+        "離婚",
+        "不倫",
+        "妊娠",
+        "第1子",
+        "第2子",
+        "出産",
+        "married",
+        "marriage"
+      ]
+    },
+    {
+      "id": "obituary",
+      "label": "訃報",
+      "emoji": "🕊️",
+      "keywords": [
+        "死去",
+        "逝去",
+        "訃報",
+        "亡くなった",
+        "永眠",
+        "passed away",
+        "dies at",
+        "has died"
+      ],
+      "sensitive": true,
+      "scope": "title",
+      "skipQuoted": true,
+      "hint": "死去・逝去・訃報など"
+    }
+  ],
+  "spoiler": {
+    "$comment": "ネタバレを含む可能性が高い見出し。表示側の「ネタバレぼかし」がこのフラグを見る。",
+    "keywords": [
+      "ネタバレ",
+      "エンディング",
+      "ラスボス",
+      "真相",
+      "結末",
+      "spoiler",
+      "spoilers",
+      "ending explained"
+    ],
+    "patterns": [
+      "第d+章",
+      "chapter d+"
+    ]
+  },
+  "works": {
+    "$comment": "見出しから作品名を抜き出して正規化するためのルール。",
+    "stripPrefixes": [
+      "新作",
+      "最新作",
+      "スマホ向け",
+      "スマートフォン向け",
+      "PS5版",
+      "Switch版",
+      "Switch 2版",
+      "PC版",
+      "Steam版",
+      "ゲーム",
+      "アプリ",
+      "TVアニメ",
+      "劇場版",
+      "映画"
+    ],
+    "stripSuffixPatterns": [
+      "\\s*(第\\d+期|第\\d+クール|\\d+(st|nd|rd|th)\\s*Season|Season\\s*\\d+|シーズン\\d+|第\\d+章|完結編|前編|後編)$"
+    ],
+    "cornerQuoteContextPattern": "(ゲーム|新作|最新作|シリーズ|タイトル|版|アプリ|RPG|アクション|シミュレーション)$",
+    "ignore": [
+      "ゲーム",
+      "PV",
+      "ネタバレ",
+      "Steam",
+      "DLC",
+      "公式",
+      "アップデート"
+    ],
+    "lenientCornerQuotes": false,
+    "$comment_lenient": "ゲームの記事の「」はキャラ名・モンスター名が多いので、タイトルは『』(と「ゲーム」「シリーズ」などの直後の「」)だけから取る"
+  },
+  "syndication": {
+    "$comment": "再配信(転載)ポータル。媒体名(Googleニュースの「 - 媒体名」やフィード名)かURLのドメインがここに当たる記事は、元記事があればそちらにまとめる。",
+    "windowHours": 72,
+    "similarity": 0.7,
+    "portals": [
+      "Yahoo!ニュース",
+      "news.yahoo.co.jp",
+      "Yahoo!ニュース エンタメ",
+      "dメニューニュース",
+      "ｄメニューニュース",
+      "topics.smt.docomo.ne.jp",
+      "エキサイトニュース",
+      "excite.co.jp",
+      "エキサイト",
+      "SmartNews",
+      "スマートニュース",
+      "ライブドアニュース",
+      "livedoor",
+      "news.livedoor.com",
+      "gooニュース",
+      "goo.ne.jp",
+      "news.goo.ne.jp",
+      "auone.jp",
+      "au Webポータル",
+      "MSN",
+      "msn.com",
+      "Infoseek",
+      "楽天Infoseekニュース",
+      "ニコニコニュース",
+      "news.nicovideo.jp",
+      "BIGLOBEニュース",
+      "news.biglobe.ne.jp",
+      "antenna",
+      "グノシー",
+      "Gunosy",
+      "LINE NEWS",
+      "LINEニュース",
+      "mixiニュース",
+      "newsdig",
+      "Newsdig"
+    ],
+    "hosts": [
+      "news.yahoo.co.jp",
+      "topics.smt.docomo.ne.jp",
+      "news.livedoor.com",
+      "news.goo.ne.jp",
+      "excite.co.jp",
+      "auone.jp",
+      "msn.com",
+      "news.infoseek.co.jp",
+      "news.nicovideo.jp",
+      "news.biglobe.ne.jp",
+      "smartnews.com",
+      "antenna.jp",
+      "gunosy.com",
+      "news.line.me",
+      "news.mixi.jp"
+    ]
+  },
+  "$comment_sensitive": "sensitive: true のカテゴリは「見たくない話題」として、閲覧側で隠せる(既定は表示)。scope: \"title\" は見出しだけで判定、skipQuoted は『』「」の中(作品名・あらすじの引用)を無視する。アニメのあらすじには「殺害」「逮捕」、作品名には「結婚」が普通に出てくるため"
+}

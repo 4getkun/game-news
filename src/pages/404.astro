@@ -1,0 +1,12 @@
+---
+import Base from "../layouts/Base.astro";
+import { withBase } from "../lib/url";
+---
+
+<Base title="ページが見つかりません" noindex>
+  <section class="wrap prose">
+    <h1>このページはありません</h1>
+    <p>URLが変わったか、削除された可能性があります。</p>
+    <p><a class="btn btn-solid" href={withBase("/")}>最新ニュースを見る</a></p>
+  </section>
+</Base>

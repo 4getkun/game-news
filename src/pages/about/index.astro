@@ -1,0 +1,129 @@
+---
+import Base from "../../layouts/Base.astro";
+import { feedStatus, feeds, categories, thresholds, kindLabels, generatedAt, formatDateTime, allNews, dedupeStats } from "../../lib/news";
+import type { FeedKind } from "../../lib/news";
+
+const kinds = Object.keys(kindLabels) as FeedKind[];
+const statusById = new Map(feedStatus.map((f) => [f.id, f]));
+const merged = allNews.filter((it) => it.sources.length > 1).length;
+---
+
+<Base title="収集元とフィルタのしくみ" description="どの媒体からどうやってゲームニュースを集め、どんなルールで絞り込んでいるかの説明です。">
+  <article class="wrap prose">
+    <h1>収集元とフィルタのしくみ</h1>
+    <p>
+      このサイトは、ゲームに関係するニュースのRSSをできるだけ多く集め、関係のない記事を落としてから並べています。
+      掲載するのは見出し・短い要約・リンクだけで、記事の全文は各配信元でお読みください。
+      最終更新は <strong>{formatDateTime(generatedAt)}</strong>、いま <strong>{allNews.length}件</strong> を掲載中で、
+      そのうち <strong>{merged}件</strong> は複数の媒体が報じた話題をひとつにまとめたものです。
+    </p>
+
+    <h2>フィルタは2段構え</h2>
+    <p>
+      集めるときに「ゲームの記事かどうか」を機械的に判定し（収集時フィルタ）、読むときに「自分が読みたいかどうか」を自分で絞り込みます（表示時フィルタ）。
+    </p>
+
+    <h3>収集時フィルタ（1時間ごと、サーバー側）</h3>
+    <ol class="pipeline">
+      <li><div><b>除外</b>広告・タイアップ記事、成人向け、求人、パチンコ・パチスロなどは、どの媒体から来ても捨てます。</div></li>
+      <li>
+        <div>
+          <b>ゲーム関連度スコア</b>
+          「新作ゲーム」「Switch 2」「DLC」「Steam」などの語に重みを付けて合計し、媒体の種類ごとのしきい値で採否を決めます。
+          見出しに出てくる語は要約だけに出てくる語の2倍で数え、野球の「ゲーム差」「ゲームセット」や MLB の試合速報のような、ゲーム以外の「ゲーム」は減点します。
+          ゲーム専門媒体の見出しから集めたタイトル名（作品辞書）が出てくれば加点するので、ファミ通・電撃のように『タイトル名』だけの見出しでも拾えます。
+        </div>
+      </li>
+      <li><div><b>カテゴリ付け</b>新作・発売・アップデート・セールなど{categories.length}種類のカテゴリを、1記事に複数付けます。</div></li>
+      <li><div><b>機種の判定</b>Switch 2・Switch・PS5・PS4・Xbox・PC・スマホ・VR を記事ごとに付けます。「Switch 2」だけの記事に「Switch」は付けません。</div></li>
+      <li><div><b>タイトル名の抽出</b>見出しの『』からタイトル名を取り出し、「Switch 2版」「新作」などを取り除いて表記をそろえます。</div></li>
+      <li><div><b>ネタバレ判定</b>「エンディング」「ラスボス」などを含む見出しに印を付け、表示時にぼかします。</div></li>
+      <li>
+        <div>
+          <b>再配信（転載）の統合</b>
+          Yahoo!ニュース・dメニューニュース・エキサイトなどのポータルが元媒体の記事を再配信したものは、見出しが完全に同じか、72時間以内でよく似ていれば元記事にまとめ、「転載」として後ろに並べます。
+          元記事が見つからないときだけ、再配信記事を「元媒体名（ポータル名）」として残します。
+        </div>
+      </li>
+      <li>
+        <div>
+          <b>同じ話題の統合</b>
+          12時間以内に出た見出しがよく似た記事を、別の媒体が同じ発表を報じたものとしてまとめます。
+          同じタイトルの記事はタイトル名を除いた残りで比べるので、「発売日決定」と「開発者インタビュー」はまとめません。
+          また、似た記事が数珠つなぎになって無関係な記事まで1つになるのを防ぐため、最初の記事とも似ていることを条件にしています。
+        </div>
+      </li>
+    </ol>
+    {dedupeStats && (
+      <p>
+        直近の更新では、見出しの完全一致で <strong>{dedupeStats.exact}件</strong>、再配信の判定で <strong>{dedupeStats.syndicated}件</strong>、
+        よく似た見出しで <strong>{dedupeStats.similar}件</strong> をまとめました。
+      </p>
+    )}
+
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th>媒体の種類</th><th class="num">採用しきい値</th><th>考え方</th></tr></thead>
+        <tbody>
+          {kinds.map((k) => (
+            <tr>
+              <td><span class={`kind-mark kind-${k}`} style="display:inline-block; margin-right:6px;"></span>{kindLabels[k]}</td>
+              <td class="num">{k === "specialist" ? "なし" : thresholds[k]}</td>
+              <td>
+                {{
+                  specialist: "ゲーム専門なので除外ルール以外は全部採用",
+                  aggregator: "検索語でほぼ絞れているので緩め",
+                  general: "エンタメ全般なので厳しめ",
+                  press: "件数が多く雑多なので最も厳しく",
+                }[k]}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p>
+      判定ルールはリポジトリの <code>src/data/filters.json</code>、媒体は <code>src/data/feeds.json</code> にまとまっています。
+      生のRSSは30日分を別に保存していて、ルールを変えると次の更新で過去分にもかけ直されます。
+    </p>
+
+    <h3>表示時フィルタ（ブラウザ側）</h3>
+    <ul>
+      <li><strong>キーワード</strong>: スペース区切りで全部を含む記事、<code>-語</code> でその語を含む記事を除外。<code>/</code> キーで検索欄に移動します。</li>
+      <li><strong>言語</strong>: 最初は日本語の記事だけを表示します。英語の記事は「すべて」か「English」に切り替えると出てきます。</li>
+      <li><strong>機種・話題・期間・並び順・タイトル</strong>: 条件はURLに入るので、そのまま共有できます。トップのステータス欄の機種名を押すと、その機種だけになります。</li>
+      <li><strong>タイトルのフォロー</strong>: ◆の付いたタイトル名を押して「フォローする」と、そのタイトルの記事に金色の印が付き、フォロー中のタイトルだけの表示もできます。</li>
+      <li><strong>ミュート</strong>: 登録した語を含む記事を隠します。</li>
+      <li>
+        <strong>見たくない話題を隠す</strong>: 「事件・トラブル」（脅迫・逮捕・訴訟・炎上・不正・障害・サービス終了など）、「熱愛・結婚」、「訃報」を話題ごとに隠せます（最初はすべて表示）。
+        見出しだけで判定し、『』「」の中は見ないので、タイトル名に出てくる語では隠れません。トップのお知らせ欄には、これらの話題は最初から載せません。
+      </li>
+      <li><strong>既読</strong>: 開いた記事は薄く表示され、「読んだ記事を隠す」で消せます。</li>
+      <li><strong>話題順</strong>: 独自に報じた媒体の数が多い順に並べます（転載は数えません）。</li>
+    </ul>
+    <p>フォロー・ミュート・既読などの設定は、お使いのブラウザにだけ保存されます。</p>
+
+    <h2>収集している媒体</h2>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr><th>媒体</th><th>種類</th><th class="num">今回取得</th><th class="num">30日分</th><th class="num">採用</th></tr>
+        </thead>
+        <tbody>
+          {feeds.map((f) => {
+            const s = statusById.get(f.id);
+            return (
+              <tr>
+                <td>{f.name}{f.lang === "en" && "（英語）"}</td>
+                <td><span class={`kind-mark kind-${f.kind}`} style="display:inline-block; margin-right:6px;"></span>{kindLabels[f.kind]}</td>
+                <td class="num">{s ? (s.ok ? s.fetched : <span class="status-ng">取得失敗</span>) : "-"}</td>
+                <td class="num">{s?.archived ?? "-"}</td>
+                <td class="num">{s?.accepted ?? "-"}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </article>
+</Base>
