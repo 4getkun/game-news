@@ -1870,6 +1870,20 @@ a.tag-work {
   height: 2px;
   background: repeating-linear-gradient(90deg, #fff 0 6px, transparent 6px 10px);
 }
+.bm-divider.is-new {
+  animation: bm-flash 0.3s steps(1) 6;
+}
+@keyframes bm-flash {
+  50% {
+    background: #fff;
+    color: #000;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .bm-divider.is-new {
+    animation: none;
+  }
+}
 .item.is-past {
   opacity: 0.55;
 }

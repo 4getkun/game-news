@@ -4,7 +4,7 @@
 //    栞は「この記事の時刻までは読んだ」という印。その記事のすぐ下に「ここまで よんだ」の帯をはさみ、
 //    それより前の記事は薄く、後の記事(記録の後に届いた記事も)は「みどく」として普通に出す
 //  - 記録のしかた: 自動(ページを離れるとき、今回いちばん下まで読んだ記事。前の栞より深いときだけ上書き)
-//    と手動(一覧まで下りると右下に出る「しおりを はさむ」。画面のまん中の記事に栞をはさむ)
+//    と手動(一覧まで下りると右下に出る「しおりを はさむ」。画面のいちばん下に見えている記事の下に栞をはさむ)
 //  - レベル: 訪れた日(日本時間の日付で1日1回)ごとに けいけんち 100。必要なけいけんちは RPG のように
 //    べき関数で増える(最初はすぐ上がり、だんだんゆっくり)。上がった日は「レベルが あがった！」
 //  - きょうゆう: X に投稿(ハッシュタグ #ゲームニュース全部)。共有する URL は /share/lv◯/ で、そのページの
@@ -307,8 +307,16 @@ export function setupBouken(deps: {
       sessionStorage.removeItem(DISMISS_KEY);
     } catch {}
     if (manual) {
+      // 帯を入れたり上のウィンドウが変わったりしても、画面が動かないようにする
+      // (栞をはさんだ記事の位置を覚えておき、描き直した後に同じ位置へ戻す)
+      const ref = [...deps.list.querySelectorAll<HTMLElement>(".item[data-t]")].find((el) => linkOf(el) === link);
+      const before = ref?.getBoundingClientRect().top;
       placeMarker();
       renderWindow();
+      if (ref && before !== undefined) window.scrollBy(0, ref.getBoundingClientRect().top - before);
+      // どこに入ったか分かるよう、帯を点滅させる
+      const divider = deps.list.querySelector<HTMLElement>(".bm-divider");
+      divider?.classList.add("is-new");
       saveSound();
       toast("ぼうけんのしょ 1に きろくしました。");
     }
@@ -334,11 +342,22 @@ export function setupBouken(deps: {
   fab.className = "bk-fab";
   fab.hidden = true;
   fab.innerHTML = `<span class="bk-cur" aria-hidden="true">▶</span>しおりを はさむ`;
-  fab.title = "画面のまん中の記事までを「ここまで よんだ」として、ぼうけんのしょに記録します";
+  fab.title = "画面のいちばん下に見えている記事までを「ここまで よんだ」として、ぼうけんのしょに記録します";
   document.body.append(fab);
+  /** 画面の下端までに全部見えている記事のうち、いちばん下のもの(そこまで読んだところ) */
+  const bottomItem = () => {
+    const limit = window.innerHeight;
+    let found: HTMLElement | null = null;
+    for (const el of deps.list.querySelectorAll<HTMLElement>(".item[data-t]")) {
+      const r = el.getBoundingClientRect();
+      if (r.top >= limit) break;
+      if (r.bottom <= limit && r.bottom > 0) found = el;
+    }
+    return found;
+  };
   fab.addEventListener("click", () => {
-    const cur = currentItem();
-    if (cur && cur.index >= 0) saveAt(cur.link, cur.t, true);
+    const el = bottomItem();
+    if (el) saveAt(linkOf(el), Number(el.dataset.t), true);
   });
   window.addEventListener(
     "scroll",
