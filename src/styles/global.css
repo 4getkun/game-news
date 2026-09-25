@@ -31,7 +31,7 @@
   /* 明るい地に置く文字用のオレンジ(--focus のままだとコントラストが足りない) */
   --focus-text: #a85200;
 
-  --font-pixel: "DotGothic16", "MS Gothic", monospace;
+  --font-pixel: "DotGothic16 Sub", "MS Gothic", monospace;
   /* 本文は各端末の標準書体。名前を並べると無いフォントを1文字ごとに探して最初のレイアウトが重くなる
      (fourgetkun-hub の AGENTS.md「速さ」参照) */
   --font-body: system-ui, sans-serif;

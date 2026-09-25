@@ -7,3 +7,7 @@
 # fourgetkun-hub の取り次ぎ(src/pages-proxy/proxy.js)はこのヘッダーを落として返すので、公開側には付かない
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
+
+# ドット書体(tools/make-font-subset.py で作る。名前は変わらないので1週間)
+/fonts/*
+  Cache-Control: public, max-age=604800

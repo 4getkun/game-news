@@ -17,10 +17,9 @@ const {
   noindex = false,
   jsonLd,
 } = Astro.props;
-// 見出し・メニュー用のドット書体 DotGothic16 だけを読む(本文は各端末の system-ui)。描画を止めないよう
-// preload → 読み込み後に stylesheet へ切り替える。以前は本文用の M PLUS 1p も読んでいて、
-// Google Fonts だけで約1MB・スマホ条件の Lighthouse で最初の表示が12秒を超えていた
-const FONT_CSS = "https://fonts.googleapis.com/css2?family=DotGothic16&display=swap";
+// 見出し・メニュー用のドット書体 DotGothic16 は、よく使う文字だけに絞ったものを自前で配る(tools/make-font-subset.py)。
+// Google Fonts だと約120個に分かれたファイルが届くたびに配置をやり直し、最初の表示が遅くなっていた
+const FONT_URL = withBase("/fonts/dotgothic16-sub.woff2");
 const isHome = Astro.url.pathname === import.meta.env.BASE_URL;
 const siteUrl = new URL(withBase("/"), Astro.site).toString();
 const websiteLd = {
@@ -80,10 +79,8 @@ const nav = [
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImage} />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="preload" as="style" href={FONT_CSS} onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript><link rel="stylesheet" href={FONT_CSS} /></noscript>
+    <link rel="preload" as="font" type="font/woff2" href={FONT_URL} crossorigin />
+    <style set:html={`@font-face{font-family:"DotGothic16 Sub";src:url("${FONT_URL}") format("woff2");font-display:swap}`} />
     {isHome && <script type="application/ld+json" set:html={JSON.stringify(websiteLd)} />}
     {jsonLd !== undefined && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
     <script is:inline>
