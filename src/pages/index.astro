@@ -17,7 +17,7 @@ import type { NewsItem } from "../lib/news";
 import { withBase } from "../lib/url";
 
 // ヒーローはビルド時に描くので、閲覧側の「見たくない話題を隠す」が効かない。
-// 事件・訃報のような話題は最初から載せない(一覧では設定どおりに表示・非表示)
+// 事件・トラブルの話題は最初から載せない(一覧では設定どおりに表示・非表示)
 const sensitiveIds = new Set(sensitiveCategories.map((c) => c.id));
 const showcase = jaNews.filter((it) => !it.categories.some((c) => sensitiveIds.has(c)));
 const latest = showcase[0];

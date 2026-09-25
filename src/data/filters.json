@@ -610,48 +610,6 @@
         "不具合で配信停止",
         "集団訴訟"
       ]
-    },
-    {
-      "id": "romance",
-      "label": "熱愛・結婚",
-      "emoji": "💍",
-      "sensitive": true,
-      "scope": "title",
-      "skipQuoted": true,
-      "hint": "結婚・入籍・熱愛・交際・離婚など",
-      "keywords": [
-        "結婚",
-        "入籍",
-        "熱愛",
-        "交際",
-        "離婚",
-        "不倫",
-        "妊娠",
-        "第1子",
-        "第2子",
-        "出産",
-        "married",
-        "marriage"
-      ]
-    },
-    {
-      "id": "obituary",
-      "label": "訃報",
-      "emoji": "🕊️",
-      "keywords": [
-        "死去",
-        "逝去",
-        "訃報",
-        "亡くなった",
-        "永眠",
-        "passed away",
-        "dies at",
-        "has died"
-      ],
-      "sensitive": true,
-      "scope": "title",
-      "skipQuoted": true,
-      "hint": "死去・逝去・訃報など"
     }
   ],
   "spoiler": {
@@ -764,5 +722,5 @@
       "news.mixi.jp"
     ]
   },
-  "$comment_sensitive": "sensitive: true のカテゴリは「見たくない話題」として、閲覧側で隠せる(既定は表示)。scope: \"title\" は見出しだけで判定、skipQuoted は『』「」の中(作品名・あらすじの引用)を無視する。アニメのあらすじには「殺害」「逮捕」、作品名には「結婚」が普通に出てくるため"
+  "$comment_sensitive": "sensitive: true のカテゴリは「見たくない話題」として、閲覧側で隠せる(既定は表示)。ゲーム版は「事件・トラブル」だけ(熱愛・結婚や訃報はゲームのニュースにはほぼ出てこないので、アニメ版にだけある)。scope: \"title\" は見出しだけで判定、skipQuoted は『』「」の中(タイトル名)を無視する"
 }
