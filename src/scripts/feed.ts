@@ -358,17 +358,46 @@ export async function startFeed() {
 
   let renderedKey = "";
   // 「もっと見る」の先読み: ボタンに近づいたら次の分の HTML を作り、サムネイルを読み始めておく
-  let prefetched: { from: number; html: { head: string; rest: string; lastKey: string } } | null = null;
+  let prefetched: { from: number; to: number; html: { head: string; rest: string; lastKey: string } } | null = null;
+
+  // 新着順では、日付は新しい日から、1日の中は 0時→24時 の順に並べる(上から下へ読むと時刻が進み、
+  // ぼうけんのしょの「ここまで よんだ」と向きがそろう)。1日の途中で切れないよう、日単位で出す
+  const dayOf = (it: Item) => (it.time ? dayKeyFmt.format(it.time) : "unknown");
+  /** 新着順で n 件目まで出すとき、その日の最後の記事まで広げた件数 */
+  function wholeDayEnd(n: number) {
+    let end = Math.min(n, lastResult.length);
+    while (end > 0 && end < lastResult.length && dayOf(lastResult[end]) === dayOf(lastResult[end - 1])) end++;
+    return end;
+  }
+  /** 新しい順の記事を、日ごとに 0時→24時 の順へ並べ替える(日の並びは新しい日から) */
+  function dayAscending(list: Item[]) {
+    const out: Item[] = [];
+    let run: Item[] = [];
+    for (const it of list) {
+      if (run.length && dayOf(run[0]) !== dayOf(it)) {
+        out.push(...run.reverse());
+        run = [];
+      }
+      run.push(it);
+    }
+    out.push(...run.reverse());
+    return out;
+  }
 
   function nextBatch() {
-    const batch = lastResult.slice(shown, shown + PAGE_SIZE);
-    return state.sort === "hot" ? { head: batch.map(renderItem).join(""), rest: "", lastKey: renderedKey } : renderGroups(batch, renderedKey);
+    if (state.sort === "hot") {
+      const to = Math.min(shown + PAGE_SIZE, lastResult.length);
+      return { to, html: { head: lastResult.slice(shown, to).map(renderItem).join(""), rest: "", lastKey: renderedKey } };
+    }
+    const to = wholeDayEnd(shown + PAGE_SIZE);
+    return { to, html: renderGroups(dayAscending(lastResult.slice(shown, to)), renderedKey) };
   }
 
   function prefetchMore() {
     if (shown >= lastResult.length || prefetched?.from === shown) return;
-    prefetched = { from: shown, html: nextBatch() };
-    for (const it of lastResult.slice(shown, shown + PAGE_SIZE)) {
+    const next = nextBatch();
+    prefetched = { from: shown, ...next };
+    for (const it of lastResult.slice(shown, next.to)) {
       if (it.i) {
         const img = new Image();
         img.referrerPolicy = "no-referrer";
@@ -384,9 +413,10 @@ export async function startFeed() {
     btn.textContent = `${MORE_LABEL}（${MORE_LEFT}${Math.max(0, left)}件）`;
   }
 
-  /** 「もっと見る」: 次の PAGE_SIZE 件を、いま出ている一覧の下に足す(上の記事は描き直さない) */
+  /** 「もっと見る」: 次の PAGE_SIZE 件(新着順は日単位)を、いま出ている一覧の下に足す(上の記事は描き直さない) */
   function showMore() {
-    const html = prefetched?.from === shown ? prefetched.html : nextBatch();
+    const next = prefetched?.from === shown ? prefetched : nextBatch();
+    const html = next.html;
     prefetched = null;
     const list = $("#feed-list");
     const days = list.querySelectorAll(".day");
@@ -394,7 +424,7 @@ export async function startFeed() {
     if (html.head && lastDay) lastDay.insertAdjacentHTML("beforeend", html.head);
     if (html.rest) list.insertAdjacentHTML("beforeend", html.rest);
     renderedKey = html.lastKey;
-    shown += PAGE_SIZE;
+    shown = next.to;
     updateMoreButton();
     afterRenderHook();
   }
@@ -407,6 +437,7 @@ export async function startFeed() {
 
   function renderList() {
     const list = $("#feed-list");
+    if (state.sort !== "hot") shown = wholeDayEnd(shown);
     const slice = lastResult.slice(0, shown);
     prefetched = null;
     if (slice.length === 0) {
@@ -419,7 +450,7 @@ export async function startFeed() {
       list.innerHTML = `<div class="day"><div class="day-head"><h2>話題順</h2><span>報じた媒体の数が多い順</span></div>${slice.map(renderItem).join("")}</div>`;
       renderedKey = "";
     } else {
-      const g = renderGroups(slice);
+      const g = renderGroups(dayAscending(slice));
       list.innerHTML = g.rest;
       renderedKey = g.lastKey;
     }

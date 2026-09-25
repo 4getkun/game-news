@@ -1,8 +1,8 @@
 // 「ぼうけんのしょ」: ここまで読んだ、の栞(しおり)。ドラクエのセーブ画面のような黒いウィンドウで出す。
 //
-//  - 栞は「上(新しい記事)から読んできて、ここまで読んだ」という位置。その記事のすぐ下に
-//    「ここまで よんだ」の帯をはさみ、栞から記録した時点のいちばん上までの記事は薄く表示する
-//    (記録した後に届いた記事は、今までどおり NEW のまま)
+//  - 一覧は1日の中を 0時→24時 の順に並べているので、上から下へ読むと時刻が進む。
+//    栞は「この記事の時刻までは読んだ」という印。その記事のすぐ下に「ここまで よんだ」の帯をはさみ、
+//    それより前の記事は薄く、後の記事(記録の後に届いた記事も)は「みどく」として普通に出す
 //  - 記録のしかた: 自動(ページを離れるとき、今回いちばん下まで読んだ記事。前の栞より深いときだけ上書き)
 //    と手動(一覧まで下りると右下に出る「しおりを はさむ」。画面のまん中の記事に栞をはさむ)
 //  - レベル: 訪れた日(日本時間の日付で1日1回)ごとに けいけんち 100。必要なけいけんちは RPG のように
@@ -61,8 +61,8 @@ interface Save {
   link: string;
   /** その記事の時刻(ms)。これより古い記事が「つづき」 */
   t: number;
-  /** 記録したときの、いちばん新しい記事の時刻(ms)。これより新しい記事は記録の後に届いたもの */
-  top: number;
+  /** (以前の版の名残。使っていない) */
+  top?: number;
   /** 記録した時刻(ms) */
   at: number;
 }
@@ -120,36 +120,37 @@ export function setupBouken(deps: {
   } catch {}
 
   const visit = recordVisit();
-  const newestTime = () => deps.result().reduce((m, e) => Math.max(m, e.time), 0);
 
   // ---------------------------------------------------------------- 帯と既読の薄表示
+  const linkOf = (el: Element) => el.querySelector<HTMLAnchorElement>(".item-title a")?.getAttribute("href") ?? "";
+
+  /** 栞より後(みどく)の記事。同じ時刻の記事は、一覧で栞の記事より後にあるものだけ */
+  function unread(result: Entry[]) {
+    if (!save) return result;
+    return result.filter((e) => e.time > save!.t);
+  }
+
   function placeMarker() {
     deps.list.querySelector(".bm-divider")?.remove();
     const items = [...deps.list.querySelectorAll<HTMLElement>(".item[data-t]")];
     items.forEach((el) => el.classList.remove("is-past"));
     if (!save || !deps.sortNew()) return;
     const marker = `<div class="bm-divider" role="separator" aria-label="ここまで読んだ">ここまで よんだ ─ ${fmt.format(save.at)}</div>`;
-    // 栞の記事が一覧にあれば、そのすぐ下。無ければ(絞り込みで外れたなど)時刻で位置を決める。
-    // 同じ時刻の記事がいくつもあるので、記事そのものを目印にする
-    const anchor = items.find((el) => el.querySelector<HTMLAnchorElement>(".item-title a")?.getAttribute("href") === save!.link);
-    let reached = false;
-    let prevNewer = false;
-    let placed = false;
+    // 栞の記事が一覧にあればそのすぐ下。無ければ(絞り込みで外れたなど)、栞の時刻までで最後の記事の下
+    const anchor = items.find((el) => linkOf(el) === save!.link);
+    let passedAnchor = false;
+    let last: HTMLElement | null = null;
     for (const el of items) {
       const t = Number(el.dataset.t);
-      const read = anchor ? !reached : t >= save.t;
-      if (read && t <= save.top) el.classList.add("is-past");
-      if (anchor) {
-        if (el === anchor) {
-          el.insertAdjacentHTML("afterend", marker);
-          reached = true;
-        }
-      } else if (!placed && t < save.t && prevNewer) {
-        el.insertAdjacentHTML("beforebegin", marker);
-        placed = true;
+      // 同じ時刻の記事がいくつもあるので、栞と同じ時刻のものは一覧で栞より前にあるものだけ既読にする
+      const read = t < save.t || (t === save.t && (!anchor || !passedAnchor));
+      if (el === anchor) passedAnchor = true;
+      if (read) {
+        el.classList.add("is-past");
+        if (!last || t >= Number(last.dataset.t)) last = el;
       }
-      if (t >= save.t) prevNewer = true;
     }
+    (anchor ?? last)?.insertAdjacentHTML("afterend", marker);
   }
 
   // ---------------------------------------------------------------- ウィンドウ
@@ -165,16 +166,14 @@ export function setupBouken(deps: {
     let restLine = "";
     let rest = 0;
     if (save) {
-      const at = result.findIndex((e) => e.l === save!.link);
-      rest = at >= 0 ? result.length - at - 1 : result.filter((e) => e.time < save!.t).length;
-      const fresh = result.filter((e) => e.time > save!.top).length;
-      restLine = `<div class="bk-stats"><span>のこり ${rest}けん</span><span>あたらしく ${fresh}けん</span></div>`;
+      rest = unread(result).length;
+      restLine = `<div class="bk-stats"><span>みどく ${rest}けん</span></div>`;
     }
     deps.win.hidden = false;
     const cmd = (id: string, label: string, note = "") =>
       `<button type="button" class="bk-cmd" data-bouken="${id}"><span class="bk-cur" aria-hidden="true">▶</span><span>${label}</span><span class="bk-note">${note}</span></button>`;
     const main = save
-      ? `${rest > 0 ? cmd("continue", "つづきから", "しおりの ところへ") : `<p class="bk-ask">つづきは もう ありません。</p>`}${cmd("top", "さいしょから", "あたらしい じゅん")}`
+      ? `${rest > 0 ? cmd("continue", "つづきから", "しおりの ところへ") : `<p class="bk-ask">つづきは もう ありません。</p>`}${cmd("top", "とじる")}`
       : cmd("top", "とじる");
     deps.win.innerHTML = `<section class="bk-win" aria-label="ぼうけんのしょ">
       <span class="bk-title">ぼうけんのしょ</span>
@@ -298,7 +297,7 @@ export function setupBouken(deps: {
   }
 
   function saveAt(link: string, t: number, manual: boolean) {
-    save = { link, t, top: Math.max(newestTime(), t), at: Date.now() };
+    save = { link, t, top: t, at: Date.now() };
     store(save);
     confirming = false;
     dismissed = false;
@@ -315,15 +314,16 @@ export function setupBouken(deps: {
 
   // 自動の記録: 今回の訪問でいちばん下まで読んだ記事(画面のまん中を通り過ぎた記事)を覚えておき、
   // ページを離れるときに、前の栞より深ければ記録する
-  let deepest: { link: string; t: number; index: number } | null = null;
+  let deepest: { link: string; t: number; index: number; pos: number } | null = null;
   let scrollTimer = 0;
   /** 画面のまん中にある記事(いま読んでいるところ) */
   const currentItem = () => {
     const box = deps.list.getBoundingClientRect();
     const el = document.elementFromPoint(box.left + Math.min(80, box.width / 2), window.innerHeight / 2)?.closest<HTMLElement>(".item[data-t]");
     if (!el || !deps.list.contains(el)) return null;
-    const link = el.querySelector<HTMLAnchorElement>(".item-title a")?.getAttribute("href") ?? "";
-    return { link, t: Number(el.dataset.t), index: deps.result().findIndex((e) => e.l === link) };
+    const link = linkOf(el);
+    const pos = [...deps.list.querySelectorAll(".item[data-t]")].indexOf(el);
+    return { link, t: Number(el.dataset.t), index: deps.result().findIndex((e) => e.l === link), pos };
   };
 
   // 手動の記録: 記事ごとのボタンは一覧が騒がしくなるので、一覧まで下りたときだけ右下に1つ出す
@@ -346,19 +346,17 @@ export function setupBouken(deps: {
         scrollTimer = 0;
         const cur = currentItem();
         // 一覧の3件目より下にいるときだけ「しおりを はさむ」を出す
-        fab.hidden = !cur || cur.index < 2 || !deps.sortNew();
-        if (cur && cur.index >= 0 && (!deepest || cur.index > deepest.index)) deepest = cur;
+        fab.hidden = !cur || cur.pos < 2 || !deps.sortNew();
+        // 読み進めた位置 = 画面のまん中を通った記事のうち、いちばん新しい時刻のもの
+        if (cur && cur.index >= 0 && cur.pos >= 2 && (!deepest || cur.t > deepest.t)) deepest = cur;
       }, 250);
     },
     { passive: true },
   );
   const autoSave = () => {
-    if (!deepest || !deps.sortNew() || deepest.index < 3) return;
-    if (save) {
-      // 前の栞より深い(下の)ときだけ上書きする
-      const at = deps.result().findIndex((e) => e.l === save!.link);
-      if (at >= 0 ? deepest.index <= at : deepest.t >= save.t) return;
-    }
+    if (!deepest || !deps.sortNew()) return;
+    // 前の栞より先(新しい時刻)まで読んだときだけ上書きする
+    if (save && deepest.t <= save.t) return;
     saveAt(deepest.link, deepest.t, false);
   };
   document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && autoSave());
@@ -372,14 +370,16 @@ export function setupBouken(deps: {
     const cmd = btn.dataset.bouken;
     if (cmd === "continue" && save) {
       const result = deps.result();
-      const at = result.findIndex((x) => x.l === save!.link);
-      const index = at >= 0 ? at + 1 : result.findIndex((x) => x.time < save!.t);
-      if (index < 0) return;
-      deps.revealUntil(index + 5);
+      const next = unread(result).reduce<Entry | null>((m, e) => (!m || e.time < m.time ? e : m), null);
+      if (!next) return;
+      deps.revealUntil(result.indexOf(next));
       if (soundEnabled()) [523, 659, 784].forEach((f, i) => tone(f, 0.08, i * 0.07, 0.04));
       // 記事は画面外だと高さを見積もりで描いている(content-visibility)ので、なめらかに動かすと
       // 途中で位置がずれて止まる。一度に飛んでから、描き終わった後にもう一度合わせる
-      const jump = () => deps.list.querySelector(".bm-divider")?.scrollIntoView({ block: "center" });
+      const target = () =>
+        [...deps.list.querySelectorAll<HTMLElement>(".item[data-t]")].find((el) => linkOf(el) === next.l) ??
+        deps.list.querySelector<HTMLElement>(".bm-divider");
+      const jump = () => target()?.scrollIntoView({ block: "center" });
       jump();
       requestAnimationFrame(() => requestAnimationFrame(jump));
       setTimeout(jump, 300);
