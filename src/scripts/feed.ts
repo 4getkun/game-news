@@ -9,6 +9,8 @@
 //
 // 保存は localStorage。使えない環境(プライベートモード等)でも動作はするよう全て try で囲む。
 
+import { attachSuggest, type Suggestion } from "./suggest";
+
 interface RawItem {
   t: string;
   s: string;
@@ -105,9 +107,12 @@ function esc(s: string): string {
   return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
 }
 
-/** 全角英数を半角・大文字を小文字に寄せる(検索とミュートの判定用) */
+/** 全角英数を半角・大文字を小文字・ひらがなをカタカナに寄せる(検索とミュートの判定用。「らぶ」で「ラブライブ」が当たる) */
 function norm(s: string): string {
-  return s.normalize("NFKC").toLowerCase();
+  return s
+    .normalize("NFKC")
+    .toLowerCase()
+    .replace(/[ぁ-ゖ]/g, (c) => String.fromCharCode(c.charCodeAt(0) + 0x60));
 }
 
 function storageGet<T>(key: string, fallback: T): T {
@@ -629,6 +634,51 @@ export async function startFeed() {
       state.q = (e.target as HTMLInputElement).value.trim();
       apply();
     }, 180);
+  });
+
+  // 検索窓の下の候補(作品名・話題・機種)。候補を選ぶと、キーワードではなくその絞り込みを入れる
+  const workCount = new Map<string, number>();
+  const recentWorkCount = new Map<string, number>();
+  const catCount = new Map<string, number>();
+  for (const it of items) {
+    if (it.lang !== "ja") continue;
+    for (const w of it.w) {
+      workCount.set(w, (workCount.get(w) ?? 0) + 1);
+      if (now - it.time < 72 * 3600_000) recentWorkCount.set(w, (recentWorkCount.get(w) ?? 0) + 1);
+    }
+    for (const c of it.c) catCount.set(c, (catCount.get(c) ?? 0) + 1);
+  }
+  const platCount = new Map<string, number>();
+  for (const it of items) for (const p of it.p) platCount.set(p, (platCount.get(p) ?? 0) + 1);
+  const suggestions: Suggestion[] = (() => {
+    const list: Suggestion[] = [...workCount].map(([w, n]) => ({ kind: "work", label: w, value: w, count: n }));
+    for (const c of config.categories) if (!c.sensitive) list.push({ kind: "cat", label: c.label, value: c.id, count: catCount.get(c.id) ?? 0 });
+    for (const p of config.platforms) list.push({ kind: "plat", label: p.label, value: p.id, count: platCount.get(p.id) ?? 0 });
+    return list;
+  })();
+  attachSuggest({
+    input: $<HTMLInputElement>("#q"),
+    list: $("#q-suggest"),
+    candidates: () => suggestions,
+    trending: () =>
+      [...recentWorkCount]
+        .sort((a, b) => b[1] - a[1])
+        .map(([w, n]) => ({ kind: "work" as const, label: w, value: w, count: n })),
+    workWord: "タイトル",
+    onPick: (s) => {
+      clearTimeout(qTimer);
+      state.q = "";
+      $<HTMLInputElement>("#q").value = "";
+      if (s.kind === "work") {
+        state.work = s.value;
+      } else if (s.kind === "cat") {
+        state.cats = new Set([s.value]);
+      } else if (s.kind === "plat") {
+        state.plats = new Set([s.value]);
+      }
+      apply();
+      document.getElementById("feed")?.scrollIntoView({ behavior: "smooth" });
+    },
   });
 
   const segment = (id: string, key: "period" | "sort" | "lang") =>
