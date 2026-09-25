@@ -281,16 +281,12 @@ export async function startFeed() {
     const reposts = it.x.filter((s) => s.sy);
     const link = (s: { n: string; l: string }) =>
       `<a href="${esc(s.l)}" target="_blank" rel="noopener noreferrer" data-read="${esc(it.l)}">${esc(s.n)}</a>`;
+    // 「同じ話題」「転載」はタイトルのタグの右に並べる(別の行にするとタグの行と揃わず崩れて見えるため)
     const extra =
-      others.length || reposts.length
-        ? `<div class="item-extra">${
-            others.length
-              ? `同じ話題: ${others.slice(0, 6).map(link).join("、")}${others.length > 6 ? ` ほか${others.length - 6}件` : ""}`
-              : ""
-          }${others.length && reposts.length ? "<br>" : ""}${
-            reposts.length ? `<span class="repost">転載: ${reposts.slice(0, 4).map(link).join("、")}</span>` : ""
-          }</div>`
-        : "";
+      (others.length
+        ? `<span class="item-extra">同じ話題: ${others.slice(0, 6).map(link).join("、")}${others.length > 6 ? ` ほか${others.length - 6}件` : ""}</span>`
+        : "") +
+      (reposts.length ? `<span class="item-extra repost">転載: ${reposts.slice(0, 4).map(link).join("、")}</span>` : "");
     const works = it.w
       .slice(0, 3)
       .map((w) => `<button type="button" class="tag tag-work" data-work="${esc(w)}">${esc(w)}</button>`)
@@ -319,8 +315,7 @@ export async function startFeed() {
           ${guard ? `<button type="button" class="spoiler-reveal" data-reveal="${esc(it.l)}">ネタバレの可能性あり。タップで表示</button>` : ""}
         </div>
         ${it.i ? `<img class="item-thumb" src="${esc(it.i)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
-        ${plats || works || cats ? `<div class="item-tags">${works}${plats || cats ? `<span class="item-cats">${plats}${cats}</span>` : ""}</div>` : ""}
-        ${extra}
+        ${plats || works || cats || extra ? `<div class="item-tags">${works}${extra}${plats || cats ? `<span class="item-cats">${plats}${cats}</span>` : ""}</div>` : ""}
       </div>
     </article>`;
   }
