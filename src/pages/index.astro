@@ -54,8 +54,8 @@ const line2 = latest ? `▶ ${latest.title}` : "";
 const TYPE_MS = 28;
 const line2Delay = chars(line1).length * TYPE_MS + 350;
 // ▼(またはウィンドウ)を押すと次のニュースへ送る。送る順番の見出し(見たくない話題は除く)
-const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link, i: it.image }));
-// PC で出す「つづくニュース」(次の4件)と、記事の「え」(幅に余裕があるときだけ)
+const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }));
+// PC で出す「つづくニュース」(次の4件)
 const LOG_SIZE = 4;
 const heroLog = heroQueue.slice(1, 1 + LOG_SIZE);
 ---
@@ -93,9 +93,6 @@ const heroLog = heroQueue.slice(1, 1 + LOG_SIZE);
             ))}
           </ol>
           </div>
-          <figure class="msg-pic" id="msg-pic" aria-hidden="true">
-            {heroQueue[0]?.i ? <img src={heroQueue[0].i} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /> : <span>？</span>}
-          </figure>
           <div class="msg-foot">
             <span class="msg-count" id="msg-count" aria-live="polite">1/{heroQueue.length}</span>
             <button type="button" class="msg-next" id="msg-next" aria-label="次のニュースを表示">▼</button>

@@ -1990,9 +1990,8 @@ a.tag-work {
   }
 }
 
-/* ------------------------------------------------ おしらせ: つづくニュース と 記事の「え」(PCで幅に余裕があるとき) */
-.msg-log,
-.msg-pic {
+/* ------------------------------------------------ おしらせ: つづくニュース(PCで幅に余裕があるとき) */
+.msg-log {
   display: none;
 }
 @media (min-width: 961px) {
@@ -2030,34 +2029,5 @@ a.tag-work {
   }
   .msg .msg-log a:hover {
     color: var(--win-text);
-  }
-}
-@media (min-width: 1200px) {
-  .msg {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 208px;
-    gap: 22px;
-    align-items: start;
-  }
-  .msg-body {
-    min-width: 0;
-  }
-  .msg-pic {
-    display: grid;
-    place-items: center;
-    margin: 4px 0 0;
-    aspect-ratio: 16 / 10;
-    border: 3px solid var(--frame);
-    border-radius: 6px;
-    background: var(--win-deep);
-    overflow: hidden;
-    font-family: var(--font-pixel);
-    font-size: 40px;
-    color: var(--win-muted);
-  }
-  .msg-pic img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
   }
 }

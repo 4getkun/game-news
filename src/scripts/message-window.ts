@@ -9,8 +9,6 @@
 interface HeroItem {
   t: string;
   l: string;
-  /** サムネイル */
-  i?: string | null;
 }
 
 const SOUND_KEY = "game-news:sound";
@@ -113,7 +111,6 @@ export function startMessageWindow() {
   const next = document.getElementById("msg-next");
   const soundBtn = document.getElementById("msg-sound");
   const log = document.getElementById("msg-log");
-  const pic = document.getElementById("msg-pic");
   const queue = JSON.parse(document.getElementById("hero-queue")?.textContent || "[]") as HeroItem[];
   if (!win || !link || !typed || !sr || !count || !next || !soundBtn || queue.length === 0) return;
 
@@ -143,22 +140,11 @@ export function startMessageWindow() {
   };
 
   const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
-  // 「つづくニュース」(次の4件)と、記事の「え」を、いま出しているニュースに合わせる
+  // 「つづくニュース」(次の4件)を、いま出しているニュースに合わせる
   const renderSide = () => {
     if (log) {
       const rest = Array.from({ length: Math.min(LOG_SIZE, queue.length - 1) }, (_, k) => queue[(index + 1 + k) % queue.length]);
       log.innerHTML = rest.map((it) => `<li><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer">${esc(it.t)}</a></li>`).join("");
-    }
-    if (pic) {
-      const src = queue[index].i;
-      pic.innerHTML = src ? `<img src="${esc(src)}" alt="" decoding="async" referrerpolicy="no-referrer" onerror="this.replaceWith('？')">` : "<span>？</span>";
-      // 次の記事の絵を先に読んでおく
-      const nextSrc = queue[(index + 1) % queue.length].i;
-      if (nextSrc) {
-        const img = new Image();
-        img.referrerPolicy = "no-referrer";
-        img.src = nextSrc;
-      }
     }
   };
 
