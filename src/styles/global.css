@@ -1949,3 +1949,39 @@ a.tag-work {
   font-size: 12px;
   color: var(--faint);
 }
+
+/* ------------------------------------------------ ヘッダーの検索欄(「しくみ」とテーマ切り替えの間) */
+.header-search {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 210px;
+  height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--muted);
+}
+.header-search:focus-within {
+  border-color: var(--win);
+}
+.header-search input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+  font-size: 13px;
+  outline: none;
+}
+.header-search input::placeholder {
+  color: var(--faint);
+}
+/* 狭い画面ではヘッダーに入らないので出さない(トップは一覧の上の検索欄を使う) */
+@media (max-width: 900px) {
+  .header-search {
+    display: none;
+  }
+}

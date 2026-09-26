@@ -734,6 +734,25 @@ export async function startFeed() {
     },
   });
 
+  // ヘッダーの検索欄(Base.astro)。トップでは一覧の検索欄と中身をそろえ、打った文字ですぐ絞り込む
+  const headerQ = document.getElementById("hq") as HTMLInputElement | null;
+  if (headerQ) {
+    const listQ = $<HTMLInputElement>("#q");
+    headerQ.value = state.q;
+    headerQ.addEventListener("input", () => {
+      listQ.value = headerQ.value;
+      listQ.dispatchEvent(new Event("input"));
+    });
+    listQ.addEventListener("input", () => {
+      if (document.activeElement !== headerQ) headerQ.value = listQ.value;
+    });
+    // Enter ではページを読み直さず、一覧へ移るだけ
+    headerQ.form?.addEventListener("submit", (e) => {
+      e.preventDefault();
+      document.getElementById("feed")?.scrollIntoView({ behavior: "smooth" });
+    });
+  }
+
   const segment = (id: string, key: "period" | "sort" | "lang") =>
     $(`#${id}`).addEventListener("click", (e) => {
       const btn = (e.target as HTMLElement).closest<HTMLButtonElement>("button[data-value]");
