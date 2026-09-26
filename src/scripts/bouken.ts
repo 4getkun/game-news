@@ -136,7 +136,7 @@ export function setupBouken(deps: {
     const items = [...deps.list.querySelectorAll<HTMLElement>(".item[data-t]")];
     items.forEach((el) => el.classList.remove("is-past"));
     if (!save || !deps.sortNew()) return;
-    const marker = `<div class="bm-divider" role="separator" aria-label="ここまで読んだ">ここまで よんだ ─ ${fmt.format(save.at)}</div>`;
+    const marker = `<div class="bm-divider" role="separator" aria-label="ここまで読んだ">✦ セーブポイント ✦ ─ ${fmt.format(save.at)}</div>`;
     // 栞の記事が一覧にあればそのすぐ下。無ければ(絞り込みで外れたなど)、栞の時刻までで最後の記事の下
     const anchor = items.find((el) => linkOf(el) === save!.link);
     let passedAnchor = false;
@@ -174,11 +174,11 @@ export function setupBouken(deps: {
     const cmd = (id: string, label: string, note = "") =>
       `<button type="button" class="bk-cmd" data-bouken="${id}"><span class="bk-cur" aria-hidden="true">▶</span><span>${label}</span><span class="bk-note">${note}</span></button>`;
     const main = save
-      ? `${rest > 0 ? cmd("continue", "つづきから", "しおりの ところへ") : `<p class="bk-ask">つづきは もう ありません。</p>`}${cmd("top", "とじる")}`
+      ? `${rest > 0 ? cmd("continue", "つづきから", "セーブポイントへ") : `<p class="bk-ask">つづきは もう ありません。</p>`}${cmd("top", "とじる")}`
       : cmd("top", "とじる");
     deps.win.innerHTML = `<section class="bk-win" aria-label="ぼうけんのしょ">
       <span class="bk-title">ぼうけんのしょ</span>
-      <div class="bk-head"><span>ぼうけんのしょ 1</span><span>${save ? fmt.format(save.at) : "しおり なし"}</span></div>
+      <div class="bk-head"><span>ぼうけんのしょ 1</span><span>${save ? fmt.format(save.at) : "セーブ なし"}</span></div>
       <div class="bk-level"><span class="bk-lv">レベル ${level}</span><span>${titleOf(level)}</span></div>
       <div class="bk-stats"><span>E ${exp}</span><span>つぎの レベルまで ${next}</span><span>ほうもん ${visit.days}にち</span><span>よんだ ${deps.readCount()}けん</span></div>
       ${restLine}
@@ -339,10 +339,11 @@ export function setupBouken(deps: {
   // 手動の記録: 記事ごとのボタンは一覧が騒がしくなるので、一覧まで下りたときだけ右下に1つ出す
   const fab = document.createElement("button");
   fab.type = "button";
+  fab.setAttribute("aria-label", "ここまで読んだところを記録する(セーブ)");
   fab.className = "bk-fab";
   fab.hidden = true;
-  fab.innerHTML = `<span class="bk-cur" aria-hidden="true">▶</span>しおりを はさむ`;
-  fab.title = "画面のいちばん下に見えている記事までを「ここまで よんだ」として、ぼうけんのしょに記録します";
+  fab.innerHTML = `<span class="bk-cur" aria-hidden="true">▶</span>セーブする`;
+  fab.title = "画面のいちばん下に見えている記事までを読んだとして、ぼうけんのしょに記録します";
   document.body.append(fab);
   /** 画面の下端までに全部見えている記事のうち、いちばん下のもの(そこまで読んだところ) */
   const bottomItem = () => {
