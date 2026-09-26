@@ -350,7 +350,7 @@
 .typer span {
   opacity: 0;
   animation: type-in 0s linear forwards;
-  animation-delay: calc(var(--i) * 16ms + var(--d, 0ms));
+  animation-delay: calc(var(--i) * 28ms + var(--d, 0ms));
 }
 @keyframes type-in {
   to {
@@ -1996,6 +1996,16 @@ a.tag-work {
   display: none;
 }
 @media (min-width: 961px) {
+  /* 見出しは文字送りで1行ずつ伸びるので、3行分の高さを先に取っておく(下の「つづくニュース」が動かないように)。
+     3行を超える見出しは「…」で切る */
+  #msg-headline {
+    height: calc(3 * 1.7em);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+  }
   .msg-log {
     display: block;
     margin: 14px 0 0;

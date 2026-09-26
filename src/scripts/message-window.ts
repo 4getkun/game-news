@@ -14,9 +14,9 @@ interface HeroItem {
 }
 
 const SOUND_KEY = "game-news:sound";
-const TYPE_MS = 18; // ▼で送ったときの1文字の間隔
+const TYPE_MS = 32; // ▼で送ったときの1文字の間隔
 /** 開いたときの CSS の1文字ずつ(.typer)の間隔。global.css・index.astro と同じ */
-const INTRO_MS = 16;
+const INTRO_MS = 28;
 const LOG_SIZE = 4;
 
 let audio: AudioContext | null = null;

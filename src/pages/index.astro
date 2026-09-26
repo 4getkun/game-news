@@ -51,8 +51,8 @@ const chars = (text: string) => Array.from(text);
 const line1 = `ゲームのニュースが ${recent}けん とどいた！`;
 const line2 = latest ? `▶ ${latest.title}` : "";
 // 1文字の間隔(ms)。src/styles/global.css の .typer と src/scripts/message-window.ts の INTRO_MS と同じ
-const TYPE_MS = 16;
-const line2Delay = chars(line1).length * TYPE_MS + 250;
+const TYPE_MS = 28;
+const line2Delay = chars(line1).length * TYPE_MS + 350;
 // ▼(またはウィンドウ)を押すと次のニュースへ送る。送る順番の見出し(見たくない話題は除く)
 const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link, i: it.image }));
 // PC で出す「つづくニュース」(次の4件)と、記事の「え」(幅に余裕があるときだけ)
