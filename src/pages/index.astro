@@ -50,9 +50,14 @@ const config = {
 const chars = (text: string) => Array.from(text);
 const line1 = `ゲームのニュースが ${recent}けん とどいた！`;
 const line2 = latest ? `▶ ${latest.title}` : "";
-const line2Delay = chars(line1).length * 28 + 350;
+// 1文字の間隔(ms)。src/styles/global.css の .typer と src/scripts/message-window.ts の INTRO_MS と同じ
+const TYPE_MS = 16;
+const line2Delay = chars(line1).length * TYPE_MS + 250;
 // ▼(またはウィンドウ)を押すと次のニュースへ送る。送る順番の見出し(見たくない話題は除く)
-const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }));
+const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link, i: it.image }));
+// PC で出す「つづくニュース」(次の4件)と、記事の「え」(幅に余裕があるときだけ)
+const LOG_SIZE = 4;
+const heroLog = heroQueue.slice(1, 1 + LOG_SIZE);
 ---
 
 <Base>
@@ -66,6 +71,7 @@ const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }
       <div class="hero-grid">
         <div class="win msg">
           <span class="win-title">おしらせ</span>
+          <div class="msg-body">
           <p class="msg-line">
             <span class="sr-only">{line1}</span>
             <span class="typer" aria-hidden="true">{chars(line1).map((c, i) => <span style={`--i:${i}`}>{c}</span>)}</span>
@@ -81,6 +87,15 @@ const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }
               </a>
             </p>
           )}
+          <ol class="msg-log" id="msg-log" aria-label="つづくニュース">
+            {heroLog.map((it) => (
+              <li><a href={it.l} target="_blank" rel="noopener noreferrer">{it.t}</a></li>
+            ))}
+          </ol>
+          </div>
+          <figure class="msg-pic" id="msg-pic" aria-hidden="true">
+            {heroQueue[0]?.i ? <img src={heroQueue[0].i} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /> : <span>？</span>}
+          </figure>
           <div class="msg-foot">
             <span class="msg-count" id="msg-count" aria-live="polite">1/{heroQueue.length}</span>
             <button type="button" class="msg-next" id="msg-next" aria-label="次のニュースを表示">▼</button>

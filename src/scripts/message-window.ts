@@ -9,10 +9,15 @@
 interface HeroItem {
   t: string;
   l: string;
+  /** サムネイル */
+  i?: string | null;
 }
 
 const SOUND_KEY = "game-news:sound";
-const TYPE_MS = 32; // 1文字の間隔
+const TYPE_MS = 18; // ▼で送ったときの1文字の間隔
+/** 開いたときの CSS の1文字ずつ(.typer)の間隔。global.css・index.astro と同じ */
+const INTRO_MS = 16;
+const LOG_SIZE = 4;
 
 let audio: AudioContext | null = null;
 
@@ -67,11 +72,11 @@ function playIntro(reduceMotion: boolean) {
       const d = parseFloat(line.style.getPropertyValue("--d")) || 0;
       const spans = [...line.querySelectorAll<HTMLElement>("span")];
       spans.forEach((sp, i) => {
-        const at = (d + i * 28) / 1000 - offset;
+        const at = (d + i * INTRO_MS) / 1000 - offset;
         if (at >= 0 && i % 2 === 1 && sp.textContent?.trim()) tone(1760 + (i % 3) * 40, 0.025, at, 0.03);
       });
       // 1行目(「とどいた！」)を打ち終えたところでファンファーレ
-      if (li === 0) lineEnd = (d + spans.length * 28) / 1000 - offset;
+      if (li === 0) lineEnd = (d + spans.length * INTRO_MS) / 1000 - offset;
     });
     if (lineEnd >= 0) jingle(lineEnd + 0.05);
   };
@@ -107,6 +112,8 @@ export function startMessageWindow() {
   const count = document.getElementById("msg-count");
   const next = document.getElementById("msg-next");
   const soundBtn = document.getElementById("msg-sound");
+  const log = document.getElementById("msg-log");
+  const pic = document.getElementById("msg-pic");
   const queue = JSON.parse(document.getElementById("hero-queue")?.textContent || "[]") as HeroItem[];
   if (!win || !link || !typed || !sr || !count || !next || !soundBtn || queue.length === 0) return;
 
@@ -135,6 +142,26 @@ export function startMessageWindow() {
     win.classList.remove("is-typing");
   };
 
+  const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
+  // 「つづくニュース」(次の4件)と、記事の「え」を、いま出しているニュースに合わせる
+  const renderSide = () => {
+    if (log) {
+      const rest = Array.from({ length: Math.min(LOG_SIZE, queue.length - 1) }, (_, k) => queue[(index + 1 + k) % queue.length]);
+      log.innerHTML = rest.map((it) => `<li><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer">${esc(it.t)}</a></li>`).join("");
+    }
+    if (pic) {
+      const src = queue[index].i;
+      pic.innerHTML = src ? `<img src="${esc(src)}" alt="" decoding="async" referrerpolicy="no-referrer" onerror="this.replaceWith('？')">` : "<span>？</span>";
+      // 次の記事の絵を先に読んでおく
+      const nextSrc = queue[(index + 1) % queue.length].i;
+      if (nextSrc) {
+        const img = new Image();
+        img.referrerPolicy = "no-referrer";
+        img.src = nextSrc;
+      }
+    }
+  };
+
   const show = (i: number) => {
     index = (i + queue.length) % queue.length;
     const item = queue[index];
@@ -142,6 +169,7 @@ export function startMessageWindow() {
     link.href = item.l;
     sr.textContent = `ニュース ${index + 1}件目: ${item.t}`;
     count.textContent = `${index + 1}/${queue.length}`;
+    renderSide();
     // 最初に描いた、CSS で1文字ずつ出す版を捨てて、ここからは JS で送る
     typed.classList.remove("typer");
     typed.removeAttribute("style");
