@@ -63,7 +63,10 @@ for (const file of htmlFiles(dir)) {
   changedFiles.push(file);
   if (!dry) {
     const doctype = html.match(/^\s*<!doctype[^>]*>/i)?.[0].trim() ?? "<!DOCTYPE html>";
-    writeFileSync(file, doctype + document.documentElement.outerHTML);
+    // Write every top-level node, not just <html>: Astro puts page-level <script type="module">
+    // tags after </html>, and browsers still run them. Keeping only documentElement dropped them.
+    const nodes = [...document.childNodes].filter((n) => n.nodeType !== 10); // 10: doctype
+    writeFileSync(file, doctype + nodes.map((n) => n.outerHTML ?? n.textContent ?? "").join(""));
   }
 }
 if (!quiet) {
