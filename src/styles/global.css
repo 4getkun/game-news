@@ -512,6 +512,10 @@
   .panel {
     margin-top: 48px;
   }
+  /* ぼうけんのしょが一覧の上に出ているときは、その黒いウィンドウの上端(.bk-win の margin-top)にそろえる */
+  .layout:has(#bouken:not([hidden])) .panel {
+    margin-top: 18px;
+  }
 }
 
 /* --------------------------------------------------------- filter panel */

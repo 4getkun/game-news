@@ -187,3 +187,12 @@ test("途中で切れた見出しは、同じ書き出しの完全な見出し�
   assert.equal(out.length, 1);
   assert.ok(out[0].title.includes("Die』"));
 });
+
+test("ネタバレ判定(ゲーム): 告知やネタバレ防止の呼びかけはネタバレにしない", () => {
+  const sp = (x) => isSpoiler(x, config);
+  assert.equal(sp("ドラゴン娘育成ローグライト『DRAPLINE』正式リリース、怒涛の「エンディング25種追加」でついに完結"), false);
+  assert.equal(sp("『エースコンバット8』プレイ動画の配信やSNSの投稿における“ネタバレ防止”を呼びかけ"), false);
+  assert.equal(sp("『ドラプリン』が正式リリース。「本当の結末」にたどり着く新シナリオ実装"), false);
+  assert.equal(sp("【ネタバレ注意】『まのさば』二次創作ゲームが制作中"), true);
+  assert.equal(sp("『X』最終章の感想。黒幕の正体が判明"), true);
+});
