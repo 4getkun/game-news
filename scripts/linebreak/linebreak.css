@@ -1,0 +1,26 @@
+/* The styles the line breaking needs (scripts/linebreak). cli.mjs inserts <wbr> between
+   phrases and marks the element with data-bx; the browser then breaks only there, never inside
+   a word ("リーチ|率", "かもしれな|い"). Running text (data-bx="t": paragraphs, list items) is
+   justified, as in print: the small gap a phrase break leaves is spread over the line. Short,
+   prominent text (data-bx="") is balanced instead, so its lines are of even length. */
+p, li, dd { line-break: strict; }
+[data-bx] { word-break: keep-all; overflow-wrap: break-word; }
+[data-bx="t"]:not(td) { text-align: justify; text-justify: inter-character; }
+/* a column narrower than about 36 characters (a card, a side note) has too few break points per
+   line to justify without visible letter spacing: linebreak.js marks it .bx-ragged, flush left */
+[data-bx="t"]:not(td).bx-ragged { text-align: start; }
+/* table cells are too narrow to justify without visible letter spacing: they fill the cell, ragged right */
+/* On a phone a line holds only about 20 characters, so a phrase break can leave a gap of a
+   quarter of the line. There, running text breaks at any character (except inside the words
+   marked .nw) and is set flush left. */
+@media (max-width: 640px) { [data-bx="t"], [data-bx="t"]:not(td) { word-break: normal; text-align: start; } }
+/* words kept on one line (katakana words, numbers with units, short kanji compounds, names)
+   and the last phrases of a paragraph, so no line ends in a lone "す。" */
+.nw { white-space: nowrap; }
+/* the spans added here must look exactly like the text around them, even where the site styles
+   every span in a card (".card span { color: red }" is meant for the card's own label) */
+[data-bx] :is(span.nw, span.ss) { all: unset; }
+[data-bx] span.nw { white-space: nowrap; }
+/* a sentence start moved to a new line by linebreak.js */
+.ss.on::before { content: ""; display: block; }
+h1, h2, h3, [data-bx]:not([data-bx="t"]) { text-wrap: balance; }

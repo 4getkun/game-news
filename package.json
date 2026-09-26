@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/linebreak/cli.mjs dist",
     "preview": "astro preview",
     "astro": "astro",
     "fetch-news": "node scripts/fetch-news.mjs",
@@ -25,6 +25,8 @@
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
+    "budoux": "^0.9.2",
+    "linkedom": "^0.18.13",
     "wrangler": "4.136.2"
   }
 }

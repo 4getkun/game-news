@@ -1,5 +1,7 @@
 ---
 import "../styles/global.css";
+// 日本語の改行の仕上げ(文頭の文節の位置合わせ・狭い段落の左寄せ)。scripts/linebreak/README.md
+import linebreakJs from "../../scripts/linebreak/linebreak.js?raw";
 import { withBase } from "../lib/url";
 
 interface Props {
@@ -138,5 +140,6 @@ const nav = [
         try { localStorage.setItem("game-news:theme", root.dataset.theme); } catch {}
       });
     </script>
+    <script is:inline set:html={linebreakJs} />
   </body>
 </html>

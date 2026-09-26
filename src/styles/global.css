@@ -2,6 +2,8 @@
    読み込むとソース中の単語から不要なクラスまで生成されて CSS が膨らむ */
 @layer theme, base, components, utilities;
 @import "tailwindcss/preflight.css" layer(base);
+/* 日本語の改行(scripts/linebreak。ビルド後に文節区切りを入れる。設定は linebreak.config.mjs) */
+@import "../../scripts/linebreak/linebreak.css";
 
 /*
  * デザインの軸: 「JRPGのコマンドウィンドウ」。姉妹サイト anime-news(マンガのコマ)とは別の顔にする。
@@ -2029,5 +2031,17 @@ a.tag-work {
   }
   .msg .msg-log a:hover {
     color: var(--win-text);
+  }
+}
+
+/* ヘッダーが狭いとき(スマホ): ロゴ・メニュー・テーマ切り替えが1行に入りきらず、ロゴの文字がメニューに
+   重なり、切り替えボタンが縮んでいた。ロゴとボタンは縮めず、440px 以下ではロゴのマークだけにする */
+.logo,
+#theme-toggle {
+  flex: none;
+}
+@media (max-width: 440px) {
+  .logo > span {
+    display: none;
   }
 }
