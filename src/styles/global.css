@@ -1942,3 +1942,10 @@ a.tag-work {
 .bk-toast[hidden] {
   display: none;
 }
+
+/* しくみページの末尾の小さな注記 */
+.prose .fine-print {
+  margin-top: 40px;
+  font-size: 12px;
+  color: var(--faint);
+}

@@ -28,7 +28,6 @@ const merged = allNews.filter((it) => it.sources.length > 1).length;
 
     <h3>収集時フィルタ（1時間ごと、サーバー側）</h3>
     <ol class="pipeline">
-      <li><div><b>除外</b>広告・タイアップ記事、成人向け、求人、パチンコ・パチスロなどは、どの媒体から来ても捨てます。</div></li>
       <li>
         <div>
           <b>ゲーム関連度スコア</b>
@@ -157,5 +156,6 @@ const merged = allNews.filter((it) => it.sources.length > 1).length;
         </tbody>
       </table>
     </div>
+    <p class="fine-print">※ 媒体側でPR・広告と表記された記事や、成人向け・求人、パチンコ・パチスロなどの記事は掲載していません。</p>
   </article>
 </Base>
