@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-27T17:47:39.216Z",
- "count": 1641,
+ "generatedAt": "2026-09-27T18:44:45.014Z",
+ "count": 1642,
  "dedupe": {
   "exact": 125,
   "syndicated": 8,
@@ -3537,9 +3537,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 171,
    "accepted": 127
   },
@@ -3548,9 +3548,9 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 165,
    "accepted": 81
   },
@@ -3559,9 +3559,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 151,
    "accepted": 143
   },
@@ -3570,9 +3570,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 169,
    "accepted": 129
   },
@@ -3581,9 +3581,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 115,
    "accepted": 105
   },
@@ -3592,9 +3592,9 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 108,
    "accepted": 61
   },
@@ -3672,11 +3672,39 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 108,
-   "accepted": 108
+   "archived": 109,
+   "accepted": 109
   }
  ],
  "items": [
+  {
+   "title": "Gears of War story director laid off mere days after E-Day went gold",
+   "summary": "Microsoft's layoffs continue to hit accomplished teams.",
+   "link": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+   "pubDate": "2026-09-27T18:19:43.000Z",
+   "firstSeen": "2026-09-27T18:44:42.784Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/ZkAd6Pu64tN54SNVBUpoeG-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/"
+    }
+   ]
+  },
   {
    "title": "Netflix Tried to Bring Obsession Straight to Streaming Before It Exploded in Theaters",
    "summary": "Director Curry Barker said Netflix bid to put Obsession straight to streaming before Focus Features helped it become the biggest box office…",
