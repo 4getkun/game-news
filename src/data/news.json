@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-29T07:32:32.921Z",
- "count": 2238,
+ "generatedAt": "2026-09-29T07:48:56.311Z",
+ "count": 2242,
  "dedupe": {
   "exact": 192,
   "syndicated": 10,
-  "similar": 66,
+  "similar": 67,
   "syndicatedTotal": 79,
   "syndicatedLeft": 19
  },
@@ -3356,6 +3356,22 @@
   {
    "date": "2026-11",
    "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "UCC上島珈琲 めじるしガチャマスコット",
+   "title": "コーヒー好きにはたまらない！UCCの品々が“めじるし”マスコットになって初登場！『UCC上島珈琲 めじるしガチャマスコット』2026年11月発売予定",
+   "link": "https://prtimes.jp/main/html/rd/p/000000364.000009185.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "mobile"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
    "verb": "event",
    "label": "開催・放送",
    "work": "ウマ娘",
@@ -4589,8 +4605,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 209,
-   "accepted": 208
+   "archived": 210,
+   "accepted": 209
   },
   {
    "id": "inside-games",
@@ -4600,7 +4616,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 277,
+   "archived": 278,
    "accepted": 210
   },
   {
@@ -4677,8 +4693,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 217,
-   "accepted": 159
+   "archived": 218,
+   "accepted": 160
   },
   {
    "id": "gnews-ps5",
@@ -4710,8 +4726,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2913,
-   "accepted": 38
+   "archived": 3009,
+   "accepted": 40
   },
   {
    "id": "gematsu",
@@ -4765,8 +4781,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 65,
-   "accepted": 65
+   "archived": 66,
+   "accepted": 66
   },
   {
    "id": "pcgamer",
@@ -4781,6 +4797,102 @@
   }
  ],
  "items": [
+  {
+   "title": "“絶対に遊んではいけない“ブラウザゲーの謎を解くホラーADV『プレイ禁止』発売延期。『FGO』塩川洋介氏率いる213℉との共同開発は終了へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/09/29/172908.html",
+   "pubDate": "2026-09-29T07:45:03.000Z",
+   "firstSeen": "2026-09-29T07:48:53.018Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "プレイ禁止",
+    "FGO"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/09/29/172908.html"
+    }
+   ]
+  },
+  {
+   "title": "「ぼむぼむアニマル デスクトップ放置鉱山」Steamにて正式リリース！20％OFFセール開催中！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000659.000003290.html",
+   "pubDate": "2026-09-29T07:40:58.000Z",
+   "firstSeen": "2026-09-29T07:48:53.018Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release",
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 20,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000659.000003290.html"
+    }
+   ]
+  },
+  {
+   "title": "コーヒー好きにはたまらない！UCCの品々が“めじるし”マスコットになって初登場！『UCC上島珈琲 めじるしガチャマスコット』2026年11月発売予定",
+   "summary": "タカラトミーグループの株式会社タカラトミーアーツは、UCC上島珈琲株式会社（以下、UCC）の人気商品をミニチュア化したガチャ(TM)(カプセルトイ)商品 『UCC上島珈琲 めじるしガチャマスコット』＜1回300円（税...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000364.000009185.html",
+   "pubDate": "2026-09-29T07:39:01.000Z",
+   "firstSeen": "2026-09-29T07:48:53.018Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "UCC上島珈琲 めじるしガチャマスコット"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000364.000009185.html"
+    }
+   ]
+  },
   {
    "title": "審査が通らず延期のラーメン店経営シム『Japanese Ramen Simulator』3週間以上前からSteamの審査に出していたと開発CEOが明かす",
    "summary": "",
@@ -4896,6 +5008,35 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2609292p"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch 2を電源ごと収納＆隠せるスチール製ケーブルボックスがサンワから",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YUHRPUnJBNTI5TVpNZ3dEQVc3V1FBcjBWejdzMXc2UDNiclJTTEpfd1BpVWRpdmhLd3M3c3p4ZWpLbnVMdG4tS3g2bWVtaUJER21OeVdpSVZUTXktMDdMUw?oc=5",
+   "pubDate": "2026-09-29T07:08:00.000Z",
+   "firstSeen": "2026-09-29T07:48:53.018Z",
+   "image": null,
+   "source": "エルミタージュ秋葉原",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "エルミタージュ秋葉原",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YUHRPUnJBNTI5TVpNZ3dEQVc3V1FBcjBWejdzMXc2UDNiclJTTEpfd1BpVWRpdmhLd3M3c3p4ZWpLbnVMdG4tS3g2bWVtaUJER21OeVdpSVZUTXktMDdMUw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -33654,7 +33795,7 @@
    "pubDate": "2026-09-25T12:56:15.000Z",
    "firstSeen": "2026-09-25T14:10:35.560Z",
    "image": null,
-   "source": "ndw.jp",
+   "source": "Nintendo DREAM WEB",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -33671,7 +33812,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ndw.jp",
+     "name": "Nintendo DREAM WEB",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYNFNYZjU0UURGSktGT0lKUWF5QkFKZEdXaW1yYXNqYUFmYkJUMW5IRVpmSzVLb0F1U0N5MzFyRkRiWlN4aWdabUtrVHhkMElZUVln?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -67871,7 +68012,7 @@
    "pubDate": "2026-09-11T07:00:00.000Z",
    "firstSeen": "2026-09-11T07:00:00.000Z",
    "image": null,
-   "source": "moguravr.com",
+   "source": "Mogura VR",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -67889,7 +68030,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "moguravr.com",
+     "name": "Mogura VR",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Vy1OY1ZxZnFOSlRLaHNnLXB6RVlWa3VSNW5MT2w1RkV0TXl5cW51MjhZV1B0R1ZGWThrRXVYb0Zac0NoQjhhdHMxSGRaYi1UTmc0N1RjWEY?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
@@ -67903,7 +68044,7 @@
    "pubDate": "2026-09-11T07:00:00.000Z",
    "firstSeen": "2026-09-25T16:07:39.348Z",
    "image": null,
-   "source": "ndw.jp",
+   "source": "Nintendo DREAM WEB",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -67920,7 +68061,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ndw.jp",
+     "name": "Nintendo DREAM WEB",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSlQwNHBtaXBmbEZtWVZfaDAxaElObElHTUp3d3FYRzFrOE1kV3BCMno0OTU2YXZGbGJVeXZCa3MzNU5kNFZia0VfZjRxUzVzbFdQSWxB?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -67967,7 +68108,7 @@
    "pubDate": "2026-09-11T07:00:00.000Z",
    "firstSeen": "2026-09-26T02:47:51.238Z",
    "image": null,
-   "source": "ndw.jp",
+   "source": "Nintendo DREAM WEB",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -67985,7 +68126,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ndw.jp",
+     "name": "Nintendo DREAM WEB",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSDJ5NDZuR0U2bUNUTE1IWGRMdmlLOVpZanZvQmNJbUJfZTd0ZElQakpLTG5QODFvbk55cF9UNmxEcXBEeWRQcGxhbWZLdUE?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
