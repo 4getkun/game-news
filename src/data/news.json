@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-30T01:48:22.275Z",
- "count": 2546,
+ "generatedAt": "2026-09-30T02:53:02.134Z",
+ "count": 2566,
  "dedupe": {
   "exact": 210,
   "syndicated": 11,
@@ -1692,6 +1692,22 @@
   {
    "date": "2026-09-30",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "しまむら・シャンブル限定「けろけろけろっぴ」グッズが本日9月30日発売！可愛いチャーム各種、ショッピングバッグなど日常使いできるアイテムも",
+   "link": "https://www.inside-games.jp/article/2026/09/30/188495.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-09-30",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Nivalis Nights",
@@ -2853,6 +2869,23 @@
    "source": "GAME Watch",
    "sources": 1,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-07",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "オーバーウォッチ",
+   "title": "『オーバーウォッチ』新ヒーロー「ドクトリン」のゲームプレイトレーラーが公開。他者の生気を操るサポートヒーローとして10月7日開幕のシーズン5で参戦",
+   "link": "https://news.denfaminicogamer.jp/news/260930k",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "update",
+    "trailer"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -4564,7 +4597,7 @@
    "verb": "release",
    "label": "発売",
    "work": null,
-   "title": "「星のカービィ 危機一発」が12月26日より発売！雲モチーフのタルからワープスターに乗ったカービィが飛び出す",
+   "title": "「星のカービィ 危機一発」が12月26日より発売！雲モチーフのかわいいタルからワープスターに乗ったカービィが飛び出す",
    "link": "https://news.denfaminicogamer.jp/news/260930r",
    "source": "電ファミニコゲーマー",
    "sources": 1,
@@ -5060,8 +5093,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 179,
-   "accepted": 178
+   "archived": 180,
+   "accepted": 179
   },
   {
    "id": "4gamer-sp",
@@ -5082,8 +5115,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 143,
-   "accepted": 142
+   "archived": 145,
+   "accepted": 144
   },
   {
    "id": "denfaminico",
@@ -5093,8 +5126,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 223,
-   "accepted": 181
+   "archived": 228,
+   "accepted": 186
   },
   {
    "id": "gamewatch",
@@ -5104,8 +5137,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 98,
-   "accepted": 88
+   "archived": 101,
+   "accepted": 91
   },
   {
    "id": "gamespark",
@@ -5115,8 +5148,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 247,
-   "accepted": 245
+   "archived": 248,
+   "accepted": 246
   },
   {
    "id": "inside-games",
@@ -5126,8 +5159,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 305,
-   "accepted": 234
+   "archived": 310,
+   "accepted": 239
   },
   {
    "id": "ps-blog",
@@ -5167,9 +5200,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 229,
    "accepted": 168
   },
@@ -5178,9 +5211,9 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 232,
    "accepted": 114
   },
@@ -5189,9 +5222,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 191,
    "accepted": 183
   },
@@ -5200,9 +5233,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 240,
    "accepted": 178
   },
@@ -5211,9 +5244,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 160,
    "accepted": 152
   },
@@ -5222,9 +5255,9 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 149,
    "accepted": 86
   },
@@ -5236,8 +5269,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3826,
-   "accepted": 48
+   "archived": 3910,
+   "accepted": 49
   },
   {
    "id": "gematsu",
@@ -5247,8 +5280,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 56,
-   "accepted": 56
+   "archived": 58,
+   "accepted": 58
   },
   {
    "id": "ign",
@@ -5308,6 +5341,533 @@
  ],
  "items": [
   {
+   "title": "Idea Factory announces visual novel brand IFChronicle and crime suspense adventure game ICONOLOGY for Switch, PC",
+   "summary": "Idea Factory has announced the launch of the new visual novel brand IFChronicle, as well …",
+   "link": "https://www.gematsu.com/2026/09/idea-factory-announces-visual-novel-brand-ifchronicle-and-crime-suspense-adventure-game-iconology-for-switch-pc",
+   "pubDate": "2026-09-30T02:47:43.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/09/ICONOLOGY-Ann_09-29-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/09/idea-factory-announces-visual-novel-brand-ifchronicle-and-crime-suspense-adventure-game-iconology-for-switch-pc"
+    }
+   ]
+  },
+  {
+   "title": "「お前も“家族”だ！」フォトスポットも登場。「バイオハザード」30周年展の追加情報が発表かわいい「赤べこ型ゾンビ犬」などグッズ情報も公開",
+   "summary": "10月30日より開催を予定している展覧会「THE WORLD OF BIOHAZARD 30周年展」の追加情報が公開された。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2144357.html",
+   "pubDate": "2026-09-30T02:31:39.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2144357.html"
+    }
+   ]
+  },
+  {
+   "title": "『オトメイト』『コンパイルハート』のアイディアファクトリーが新作ゲーム『ICONOLOGY』発表。アドベンチャーゲーム専門の新ブランド「IFChronicle」第1弾タイトル",
+   "summary": "第1弾タイトル『ICONOLOGY』も発表。容疑者の脳内イメージを「絵画」として抽出する装置で未解決事件に挑むマルチエンディングゲーム",
+   "link": "https://news.denfaminicogamer.jp/news/260930o",
+   "pubDate": "2026-09-30T02:30:29.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/0f0d93e4928f2f9944fa0aa0d5282510-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "オトメイト",
+    "コンパイルハート",
+    "ICONOLOGY"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/260930o"
+    }
+   ]
+  },
+  {
+   "title": "「ガンダム」×「ホロライブ」コラボグッズ第1弾！星街すいせい含む6名のエンブレムデザイン採用ビンズセット、Tシャツなどラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/09/30/188497.html",
+   "pubDate": "2026-09-30T02:30:02.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/09/30/188497.html"
+    }
+   ]
+  },
+  {
+   "title": "「オトメイト」アイディアファクトリーの“ADV専門”新ブランドが放つ『イコノロジー』発表。「PSYCHO-PASS サイコパス」の深見真氏がシナリオ担当、容疑者の脳内を「絵画化」して暴く犯罪捜査",
+   "summary": "IFChronicleは9月30日、『ICONOLOGY（イコノロジー）』を発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20260930-470763/",
+   "pubDate": "2026-09-30T02:30:01.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260930-470763-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "イコノロジー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20260930-470763/"
+    }
+   ]
+  },
+  {
+   "title": "アイディアファクトリーが新ブランド「IFChronicle（イフクロニクル）」を立ち上げ。第1弾タイトル「ICONOLOGY（イコノロジー）」も発表に",
+   "summary": "オトメイトやコンパイルハートなどのブランドを展開するアイディアファクトリーは本日，新ブランド「IFChronicle（イフクロニクル）」を立ち上げたと発表した。第1弾タイトル「ICONOLOGY（イコノロジー）」の情報も公開されている。",
+   "link": "https://www.4gamer.net/games/046/G104623/20260929018/",
+   "pubDate": "2026-09-30T02:30:00.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ICONOLOGY(イコノロジー)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/046/G104623/20260929018/"
+    }
+   ]
+  },
+  {
+   "title": "Steamおすすめの「割引＆イベント」コーナー、人力でのキュレーションを廃止へ。自動でユーザーに関連するタイトルがオススメされる方式に変更",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/09/30/172946.html",
+   "pubDate": "2026-09-30T02:26:08.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/09/30/172946.html"
+    }
+   ]
+  },
+  {
+   "title": "Beginner-friendly shoot ’em up Kaguya for PC launches in 2027",
+   "summary": "Kaguya, a bullet hell shoot ’em up “friendly for beginners,” will launch for PC via …",
+   "link": "https://www.gematsu.com/2026/09/beginner-friendly-shoot-em-up-kaguya-for-pc-launches-in-2027",
+   "pubDate": "2026-09-30T02:24:37.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Kaguya_09-29-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/09/beginner-friendly-shoot-em-up-kaguya-for-pc-launches-in-2027"
+    }
+   ]
+  },
+  {
+   "title": "『ポケモン ファイアレッド・リーフグリーン』との連携に向けた『ポケモンホーム』のメンテナンスが10月7日に実施へ。『FRLG』で仲間したポケモンを他シリーズに連れて行けるように",
+   "summary": "『FRLG』で仲間したポケモンを他シリーズに連れて行ける。また、対応したソフト図鑑を完成させると、幻のポケモン・セレビィを『HOME』上で受け取れるように",
+   "link": "https://news.denfaminicogamer.jp/news/260930s",
+   "pubDate": "2026-09-30T02:24:21.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HPmqhn6WYAA2odq-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン ファイアレッド・リーフグリーン",
+    "ポケモンホーム",
+    "FRLG"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/260930s"
+    }
+   ]
+  },
+  {
+   "title": "「仮面ライダーカブト」20周年記念！真骨彫製法「ダークカブト ライダーフォーム」が会員先着販売、全員向け抽選販売も順次実施",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/09/30/188496.html",
+   "pubDate": "2026-09-30T02:15:03.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/09/30/188496.html"
+    }
+   ]
+  },
+  {
+   "title": "「GUNDAM」×「hololive production」コラボ商品第1弾が「STRICT-G」にて発売決定。本日13時より予約開始ピンズセット、ラバーコースター、刺繍Tシャツがラインナップ",
+   "summary": "バンダイは、ガンダムの世界観を取り入れたアパレルショップ「STRICT-G」にて、「GUNDAM」と「hololive production」のコラボレーション商品第1弾を発売する。ピンズセット、ラバーコースター、刺繍Tシャツがあり、価格は1,320円から。9月30日13時よりバ…",
+   "link": "https://game.watch.impress.co.jp/docs/news/2144346.html",
+   "pubDate": "2026-09-30T02:08:29.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2144346.html"
+    }
+   ]
+  },
+  {
+   "title": "「GTA6」公式の新たなスクリーンショットが公開！ 主人公ジェイソン＆ルシアの姿も",
+   "summary": "ロックスター・ゲームスは、プレイステーション 5/Xbox Series X|S用オープンワールドクライムアクション「グランド・セフト・オートVI（GTA6）」の新たなスクリーンショットを公開した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2144341.html",
+   "pubDate": "2026-09-30T02:08:22.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2144341.html"
+    }
+   ]
+  },
+  {
+   "title": "『ウィッチャー3 リマスター』PC版にて「セーブ失敗」不具合発生中、原因は“フォルダ名の日本語”か。回避策も案内される",
+   "summary": "『ウィッチャー3 ワイルドハント リマスター』PC版の日本語ユーザーからはセーブ時に「セーブに失敗した」と表示される不具合などが報告され、修正までの回避策が案内されている。",
+   "link": "https://automaton-media.com/articles/newsjp/20260930-470758/",
+   "pubDate": "2026-09-30T02:07:06.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260930-470758-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ウィッチャー3 リマスター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20260930-470758/"
+    }
+   ]
+  },
+  {
+   "title": "しまむら・シャンブル限定「けろけろけろっぴ」グッズが本日9月30日発売！可愛いチャーム各種、ショッピングバッグなど日常使いできるアイテムも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/09/30/188495.html",
+   "pubDate": "2026-09-30T02:05:03.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/09/30/188495.html"
+    }
+   ]
+  },
+  {
+   "title": "モノクロ世界で写真を撮りながら気ままに旅するゲーム『トーエム2』配信開始。不思議な現象を撮影して風変わりなキャラクターたちの困りごとを解決していこう",
+   "summary": "不思議な現象を撮影したり、風変わりなキャラクターたちの困りごとを解決したり、寄り道したりしながら自由に冒険しよう",
+   "link": "https://news.denfaminicogamer.jp/news/260930n",
+   "pubDate": "2026-09-30T02:02:38.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ss_2915fbb51301f07790fbafc29936d7aa4d337476.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "トーエム2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/260930n"
+    }
+   ]
+  },
+  {
+   "title": "懐かしくも迫力満点！2016年発売の「RX-78-2 ガンダム」「シャア専用ザク」ら3商品がROBOT魂 ver. A.N.I.M.E.より再販",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/09/30/188494.html",
+   "pubDate": "2026-09-30T02:00:03.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/09/30/188494.html"
+    }
+   ]
+  },
+  {
+   "title": "ValveのTPS『Deadlock』の最大同接が「22万人」を記録する大きな盛り上がり。6体の新ヒーローが追加される大型アプデ「City Never Sleeps」が配信",
+   "summary": "6体の新ヒーローが追加される大型アプデ「City Never Sleeps」が配信。新ヒーローの追加順はゲーム内の投票で決定され、ヒーロー総数は全44体へ",
+   "link": "https://news.denfaminicogamer.jp/news/260930p",
+   "pubDate": "2026-09-30T01:59:53.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/header_portraits-1024x480.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Deadlock"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/260930p"
+    }
+   ]
+  },
+  {
+   "title": "『オーバーウォッチ』新ヒーロー「ドクトリン」のゲームプレイトレーラーが公開。他者の生気を操るサポートヒーローとして10月7日開幕のシーズン5で参戦",
+   "summary": "味方には追加ライフ、敵には最大ライフ減少を付与するアルティメットが超強そう。新たなサポートヒーローとして10月7日開幕のシーズン5で参戦",
+   "link": "https://news.denfaminicogamer.jp/news/260930k",
+   "pubDate": "2026-09-30T01:58:28.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/647c3c635467145652e23b4744c652ec-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "update",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "オーバーウォッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/260930k"
+    }
+   ]
+  },
+  {
    "title": "『Among Us』新たな幽霊役職「インフルエンサー」追加アプデ！死んだクルーがランダムな\"画像\"で告げ口して議論をかき回すかインポスター特定につながるか",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/09/30/172945.html",
@@ -5332,6 +5892,34 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/09/30/172945.html"
+    }
+   ]
+  },
+  {
+   "title": "グラニフ×「ナイトメアー・ビフォア・クリスマス」コラボが最高にオシャレ！幽霊犬ゼロの耳付きパーカー、ジャックTシャツなど全20種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/09/30/188493.html",
+   "pubDate": "2026-09-30T01:40:03.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/09/30/188493.html"
     }
    ]
   },
@@ -5398,7 +5986,7 @@
    ]
   },
   {
-   "title": "『Star Fox（スターフォックス）』の楽曲が「ニンテンドーミュージック」に追加",
+   "title": "『Star Fox（スターフォックス）』の楽曲が「ニンテンドーミュージック」に追加。バトルモードに3つの新ステージが追加されるゲーム本編の無料アップデートも配信開始",
    "summary": "『スターフォックス 64』をベースに刷新されたNintendo Switch 2向けタイトル。楽曲は「コーネリア」「スターウルフ」「セクターＹ＆ソーラ」など全62曲が収録",
    "link": "https://news.denfaminicogamer.jp/news/260930u",
    "pubDate": "2026-09-30T01:33:33.000Z",
@@ -5409,8 +5997,11 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 12,
-   "categories": [],
+   "score": 18,
+   "categories": [
+    "release",
+    "update"
+   ],
    "deal": null,
    "platforms": [
     "switch2"
@@ -5573,7 +6164,7 @@
    ]
   },
   {
-   "title": "「星のカービィ 危機一発」が12月26日より発売！雲モチーフのタルからワープスターに乗ったカービィが飛び出す",
+   "title": "「星のカービィ 危機一発」が12月26日より発売！雲モチーフのかわいいタルからワープスターに乗ったカービィが飛び出す",
    "summary": "「星のカービィ 危機一発」が12月26日より発売！雲モチーフのタルからワープスターに乗ったカービィが飛び出す",
    "link": "https://news.denfaminicogamer.jp/news/260930r",
    "pubDate": "2026-09-30T01:17:38.000Z",
@@ -5741,6 +6332,36 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2144188.html"
+    }
+   ]
+  },
+  {
+   "title": "DCG Entertainment、放置系フィッシング箱庭ゲーム『Desktop Fishing Garden』をSteamでリリース",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000002.000191562.html",
+   "pubDate": "2026-09-30T01:00:00.000Z",
+   "firstSeen": "2026-09-30T02:52:58.298Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Desktop Fishing Garden"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000002.000191562.html"
     }
    ]
   },
