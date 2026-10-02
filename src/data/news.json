@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-02T13:48:23.058Z",
- "count": 3862,
+ "generatedAt": "2026-10-02T14:52:43.277Z",
+ "count": 3874,
  "dedupe": {
   "exact": 321,
   "syndicated": 15,
@@ -3449,6 +3449,22 @@
   {
    "date": "2026-10-02",
    "precision": "day",
+   "verb": "update",
+   "label": "アップデート",
+   "work": null,
+   "title": "「新約・怒首領蜂大復活」，全ステージ対応のトレーニングモードを本日実装。今冬には「ブラックレーベル」も実装予定",
+   "link": "https://www.4gamer.net/games/997/G099714/20261002051/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-02",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -6298,6 +6314,20 @@
    "spoiler": false
   },
   {
+   "date": "2026-11-01",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Owlboy",
+   "title": "“非常に好評”アクションADV『Owlboy』特別アプデ11月1日配信！10周年を記念してゲームプレイを大きく改善",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173098.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2026-11-02",
    "precision": "day",
    "verb": "release",
@@ -6533,6 +6563,20 @@
    "categories": [
     "demo"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-10",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "魔法使いの夜 下",
+   "title": "小説『魔法使いの夜 下』の書影が公開。2人の魔女と1人の少年の束の間の安息を破り、“橙色の魔術師”が現れる",
+   "link": "https://news.denfaminicogamer.jp/news/2610023a",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -8084,8 +8128,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 317,
-   "accepted": 311
+   "archived": 318,
+   "accepted": 312
   },
   {
    "id": "4gamer-sp",
@@ -8117,8 +8161,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 375,
-   "accepted": 312
+   "archived": 377,
+   "accepted": 314
   },
   {
    "id": "gamewatch",
@@ -8139,8 +8183,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 398,
-   "accepted": 394
+   "archived": 400,
+   "accepted": 396
   },
   {
    "id": "inside-games",
@@ -8191,9 +8235,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 335,
    "accepted": 254
   },
@@ -8202,9 +8246,9 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 309,
    "accepted": 159
   },
@@ -8213,9 +8257,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 237,
    "accepted": 223
   },
@@ -8224,9 +8268,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 373,
    "accepted": 288
   },
@@ -8235,9 +8279,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 209,
    "accepted": 194
   },
@@ -8246,9 +8290,9 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 198,
    "accepted": 115
   },
@@ -8260,7 +8304,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 7808,
+   "archived": 7846,
    "accepted": 123
   },
   {
@@ -8271,8 +8315,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 96,
-   "accepted": 96
+   "archived": 98,
+   "accepted": 98
   },
   {
    "id": "ign",
@@ -8293,8 +8337,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 171,
-   "accepted": 171
+   "archived": 172,
+   "accepted": 172
   },
   {
    "id": "gamespot",
@@ -8304,8 +8348,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 96,
-   "accepted": 96
+   "archived": 98,
+   "accepted": 98
   },
   {
    "id": "nintendolife",
@@ -8315,8 +8359,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 105,
-   "accepted": 105
+   "archived": 106,
+   "accepted": 106
   },
   {
    "id": "pcgamer",
@@ -8326,11 +8370,321 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 239,
-   "accepted": 239
+   "archived": 240,
+   "accepted": 240
   }
  ],
  "items": [
+  {
+   "title": "The WoW: Forever beta's nerf to dungeon XP isn't nearly as bad as it seems",
+   "summary": "The danger of skimming patch notes.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-forever-betas-nerf-to-dungeon-xp-isnt-nearly-as-bad-as-it-seems/",
+   "pubDate": "2026-10-02T14:30:42.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/MEcbxoCTbRdnZsEr2yLnkd-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-forever-betas-nerf-to-dungeon-xp-isnt-nearly-as-bad-as-it-seems/"
+    }
+   ]
+  },
+  {
+   "title": "屈強な兵士でも射撃に秀でた警官でもない―異なる身体条件を補い合い知恵と協力で挑む4人協力型ホラー『ZONE L.O.S.T.』デモ版配信",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173099.html",
+   "pubDate": "2026-10-02T14:26:24.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ZONE L.O.S.T."
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/02/173099.html"
+    }
+   ]
+  },
+  {
+   "title": "Sony’s Revised PS5 Slim Could Be Getting Cheaper To Make, But Not To Buy",
+   "summary": "It looks like Sony has quietly revised the PS5 console once again, with new internal changes across the (mother)board. It's not clear when t…",
+   "link": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/",
+   "pubDate": "2026-10-02T14:17:50.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/06/PS5-Body.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/"
+    }
+   ]
+  },
+  {
+   "title": "“非常に好評”アクションADV『Owlboy』特別アプデ11月1日配信！10周年を記念してゲームプレイを大きく改善",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173098.html",
+   "pubDate": "2026-10-02T14:10:42.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Owlboy"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/02/173098.html"
+    }
+   ]
+  },
+  {
+   "title": "STRANGER THAN HEAVEN ‘1943 Minami, Osaka In-Depth Look’ gameplay",
+   "summary": "Publisher SEGA and developer RGG Studio have released a new gameplay video for 50-year action …",
+   "link": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay",
+   "pubDate": "2026-10-02T14:07:12.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/STRANGER-HEAVEN_10-02-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay"
+    }
+   ]
+  },
+  {
+   "title": "小説『魔法使いの夜 下』の書影が公開。2人の魔女と1人の少年の束の間の安息を破り、“橙色の魔術師”が現れる",
+   "summary": "奈須きのこ氏がTYPE-MOONのノベルゲームを自らの手で小説化、イラストはこやまひろかず氏。11月10日に星海社FICTIONSより発売",
+   "link": "https://news.denfaminicogamer.jp/news/2610023a",
+   "pubDate": "2026-10-02T14:00:04.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HTjOGQeagAAdShq-720x1024.jpeg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "魔法使いの夜 下"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610023a"
+    }
+   ]
+  },
+  {
+   "title": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
+   "summary": "Din demand. In what proved to be a pretty predictable Zelda 40th Anniversary Direct, Nintendo announced that a special concert tour would co…",
+   "link": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
+   "pubDate": "2026-10-02T14:00:00.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://images.nintendolife.com/143c7965f712c/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert"
+    }
+   ]
+  },
+  {
+   "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+   "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, wh…",
+   "link": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+   "pubDate": "2026-10-02T13:59:39.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://assetsio.gnwcdn.com/gta-6-sex-scene.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 3,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards"
+    }
+   ]
+  },
+  {
+   "title": "「新約・怒首領蜂大復活」，全ステージ対応のトレーニングモードを本日実装。今冬には「ブラックレーベル」も実装予定",
+   "summary": "ケイブは本日（2026年10月2日），弾幕シューティング「新約・怒首領蜂大復活」に新要素を追加する大型アップデート“Version1.1.0”をリリースした。あわせて，今冬までのアップデート計画が公開されている。",
+   "link": "https://www.4gamer.net/games/997/G099714/20261002051/",
+   "pubDate": "2026-10-02T13:57:56.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/997/G099714/20261002051/"
+    }
+   ]
+  },
+  {
+   "title": "『GTA VI』発売前夜、NBAのマイアミ・ヒートが一夜限りの「バイスシティ」に。バイスシティのモデルであるマイアミを本拠地とするバスケチームが、専用コートと新ユニフォームで試合へ",
+   "summary": "11月18日の試合を専用コートと新ユニフォームで迎える。本拠地の屋上には「Welcome to Vice City」の看板も",
+   "link": "https://news.denfaminicogamer.jp/news/2610022q",
+   "pubDate": "2026-10-02T13:55:28.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/roof-drone-signage.avif",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": -4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA VI"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610022q"
+    }
+   ]
+  },
+  {
+   "title": "NBA’s Miami Heat Will Wear GTA 6 Jerseys And Play On A Branded Court The Day Before Release",
+   "summary": "The NBA's Miami Heat have announced that they will wear GTA 6-inspired jerseys when they host the Milwaukee Bucks on November 18, a day befo…",
+   "link": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
+   "pubDate": "2026-10-02T13:38:28.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_09.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": -6,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/"
+    }
+   ]
+  },
   {
    "title": "“圧倒的に好評”リズム格闘アクション『Dead as Disco』新ボス、ストーリー追加の大型アップデート配信―20%オフのセール実施中",
    "summary": "",
@@ -8421,6 +8775,32 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/"
+    }
+   ]
+  },
+  {
+   "title": "Miami HEAT to play as Grand Theft Auto VI’s Vice City on November 18",
+   "summary": "Professional basketball team Miami HEAT will play as Grand Theft Auto VI‘s Vice City during …",
+   "link": "https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18",
+   "pubDate": "2026-10-02T13:15:20.000Z",
+   "firstSeen": "2026-10-02T14:52:38.291Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Miami-HEAT-Vice-City_10-02-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18"
     }
    ]
   },
