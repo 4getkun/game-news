@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-02T09:48:25.170Z",
- "count": 3786,
+ "generatedAt": "2026-10-02T10:48:19.823Z",
+ "count": 3808,
  "dedupe": {
-  "exact": 306,
-  "syndicated": 15,
+  "exact": 310,
+  "syndicated": 16,
   "similar": 116,
-  "syndicatedTotal": 109,
-  "syndicatedLeft": 22
+  "syndicatedTotal": 110,
+  "syndicatedLeft": 23
  },
  "calendar": [
   {
@@ -2759,6 +2759,25 @@
   {
    "date": "2026-10-01",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ヴィラクタル",
+   "title": "最大3人協力のボードゲームRPG「ヴィラクタル」，Switch2/Switch版を本日発売。ダイスで箱庭を探索し，カードで強敵に挑む",
+   "link": "https://www.4gamer.net/games/011/G101108/20261001032/",
+   "source": "4Gamer.net",
+   "sources": 3,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-01",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "バルーンボンバー",
@@ -2800,25 +2819,6 @@
    "title": "「ヴィラクタル」Nintendo Switch 2/Switch版が本日発売！ダイスとカードで毎回異なる箱庭に挑むボードゲームRPG",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtNU42YnplVGdQSGFZQjRPYnhLRzBONWFCblotaFM5Qm9iSUN2OVo3eFpNdmRlR3B6ZU1qeV91d0lDLWhFVF9taUVNUWZDUzJPVE8tSQ?oc=5",
    "source": "Gamer",
-   "sources": 2,
-   "categories": [
-    "release"
-   ],
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-01",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "ヴィラクタル",
-   "title": "最大3人協力のボードゲームRPG「ヴィラクタル」，Switch2/Switch版を本日発売。ダイスで箱庭を探索し，カードで強敵に挑む",
-   "link": "https://www.4gamer.net/games/011/G101108/20261001032/",
-   "source": "4Gamer.net",
    "sources": 2,
    "categories": [
     "release"
@@ -4487,6 +4487,23 @@
    "categories": [],
    "platforms": [
     "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-08",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ぼくと釣り日記",
+   "title": "『ぼくと釣り日記』Switch 2/Switch版のダウンロード版予約が開始！ 10月8日発売の本格釣りアクションRPG",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UV0xlUEJ1YnFoTGlHWVNvVG9ZODdJN2FHSUhrVlpxNzlpcjd0NFhRbFlQNFptMW9lOVRWNHJxNkpiNU51QWdDaXF6VjRiR0hrNUJCX1hIaERORXktNjBTTA?oc=5",
+   "source": "AppBank",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch2",
+    "switch"
    ],
    "spoiler": false
   },
@@ -7954,8 +7971,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 306,
-   "accepted": 300
+   "archived": 308,
+   "accepted": 302
   },
   {
    "id": "4gamer-sp",
@@ -7976,8 +7993,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 224,
-   "accepted": 222
+   "archived": 226,
+   "accepted": 224
   },
   {
    "id": "denfaminico",
@@ -7987,8 +8004,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 369,
-   "accepted": 307
+   "archived": 370,
+   "accepted": 308
   },
   {
    "id": "gamewatch",
@@ -8009,8 +8026,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 385,
-   "accepted": 381
+   "archived": 389,
+   "accepted": 385
   },
   {
    "id": "inside-games",
@@ -8020,8 +8037,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 490,
-   "accepted": 363
+   "archived": 494,
+   "accepted": 366
   },
   {
    "id": "ps-blog",
@@ -8064,8 +8081,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 321,
-   "accepted": 245
+   "archived": 322,
+   "accepted": 246
   },
   {
    "id": "gnews-dengeki",
@@ -8075,8 +8092,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 305,
-   "accepted": 158
+   "archived": 306,
+   "accepted": 159
   },
   {
    "id": "gnews-newgame",
@@ -8086,8 +8103,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 234,
-   "accepted": 221
+   "archived": 235,
+   "accepted": 222
   },
   {
    "id": "gnews-switch2",
@@ -8097,8 +8114,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 365,
-   "accepted": 281
+   "archived": 369,
+   "accepted": 285
   },
   {
    "id": "gnews-ps5",
@@ -8109,7 +8126,7 @@
    "error": null,
    "fetched": 100,
    "archived": 208,
-   "accepted": 193
+   "accepted": 194
   },
   {
    "id": "gnews-update",
@@ -8119,8 +8136,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 193,
-   "accepted": 111
+   "archived": 194,
+   "accepted": 112
   },
   {
    "id": "prtimes",
@@ -8130,7 +8147,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 7670,
+   "archived": 7695,
    "accepted": 123
   },
   {
@@ -8152,8 +8169,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 309,
-   "accepted": 309
+   "archived": 311,
+   "accepted": 311
   },
   {
    "id": "eurogamer",
@@ -8185,8 +8202,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 104,
-   "accepted": 104
+   "archived": 105,
+   "accepted": 105
   },
   {
    "id": "pcgamer",
@@ -8196,11 +8213,645 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 231,
-   "accepted": 231
+   "archived": 234,
+   "accepted": 234
   }
  ],
  "items": [
+  {
+   "title": "カプコンの次世代REエンジン「REX」の“基盤技術”が一般公開、自由に使える。データ処理が“最大約3倍”速くなるらしい",
+   "summary": "カプコンは10月2日、同社の最新データ表現・シリアライズ基盤ライブラリ「RE:Dox」をOSSとして公開したと発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261002-471537/",
+   "pubDate": "2026-10-02T10:45:54.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261002-471537-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261002-471537/"
+    }
+   ]
+  },
+  {
+   "title": "『ウィザードリィ』や『マイトアンドマジック』の影響を受けた3DダンジョンRPG『The Sundered Anvil』Steamストアページ公開",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173088.html",
+   "pubDate": "2026-10-02T10:45:03.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ウィザードリィ",
+    "マイトアンドマジック",
+    "The Sundered Anvil"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/02/173088.html"
+    }
+   ]
+  },
+  {
+   "title": "Looks like you will have to pinky promise you won't export your RTX 5090 if you buy a gaming PC from Micro Center now",
+   "summary": "That's a whole lot of paperwork just for a new rig.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/looks-like-you-will-have-to-pinky-promise-you-wont-export-your-rtx-5090-if-you-buy-a-gaming-pc-from-micro-center-now/",
+   "pubDate": "2026-10-02T10:31:31.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/dMHeoyF85ptrkZLthKfisE-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/looks-like-you-will-have-to-pinky-promise-you-wont-export-your-rtx-5090-if-you-buy-a-gaming-pc-from-micro-center-now/"
+    }
+   ]
+  },
+  {
+   "title": "Prime Video，映画「8番出口」の見放題配信を開始。興行収入51億円を突破したヒット作が見放題に登場",
+   "summary": "Amazonは本日（2026年10月2日），プライム会員向けサービス「PrimeVideo」にて映画「8番出口」の見放題配信を開始した。映画「8番出口」は，KOTAKECREATEが2023年にリリースした同名の異変探しゲームを原作とする作品だ。",
+   "link": "https://www.4gamer.net/games/751/G075133/20261002039/",
+   "pubDate": "2026-10-02T10:30:19.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 3,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/751/G075133/20261002039/"
+    }
+   ]
+  },
+  {
+   "title": "「カードキャプターさくら」よりフィギュア「木之本桜 My First Sparkle」が超豪華！ CLAMP35周年とグッスマ25周年を記念",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/02/188680.html",
+   "pubDate": "2026-10-02T10:30:03.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/02/188680.html"
+    }
+   ]
+  },
+  {
+   "title": "「鶏肉ですけど？」誘拐した人間から臓器を摘出し，残った肉まで売りさばいて犯罪帝国を築き上げる。協力プレイ対応のダークコメディシミュレーション「any donors?」発表",
+   "summary": "インディー開発スタジオatyourownriskstudiosは本日，PC向け新作「anydonors?」を発表した。本作は，臓器マフィアとなり，誘拐したターゲットから臓器を摘出して売りさばくシミュレーションゲームで，オンライン協力プレイに対応予定だ。",
+   "link": "https://www.4gamer.net/games/047/G104743/20261002037/",
+   "pubDate": "2026-10-02T10:23:04.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "any donors?"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/047/G104743/20261002037/"
+    }
+   ]
+  },
+  {
+   "title": "『ぼくと釣り日記』Switch 2/Switch版のダウンロード版予約が開始！ 10月8日発売の本格釣りアクションRPG",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UV0xlUEJ1YnFoTGlHWVNvVG9ZODdJN2FHSUhrVlpxNzlpcjd0NFhRbFlQNFptMW9lOVRWNHJxNkpiNU51QWdDaXF6VjRiR0hrNUJCX1hIaERORXktNjBTTA?oc=5",
+   "pubDate": "2026-10-02T10:20:45.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [
+    "ぼくと釣り日記"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UV0xlUEJ1YnFoTGlHWVNvVG9ZODdJN2FHSUhrVlpxNzlpcjd0NFhRbFlQNFptMW9lOVRWNHJxNkpiNU51QWdDaXF6VjRiR0hrNUJCX1hIaERORXktNjBTTA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "GUの「ちいかわ」コラボグッズがむちゃかわ！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/02/188679.html",
+   "pubDate": "2026-10-02T10:20:03.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/02/188679.html"
+    }
+   ]
+  },
+  {
+   "title": "『ポピープレイタイム』世界観の協力サバイバルホラー『Escape from Playtime』オープンベータがSteamで10月5日まで開催中。プレイタイム社の廃おもちゃ工場で戦利品を集める",
+   "summary": "プレイタイム社の廃おもちゃ工場を舞台に、徘徊する「失敗作」から逃げつつ物資を集める。推奨は4人までだが、ベータでは最大8人参加のカオスも楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/2610022n",
+   "pubDate": "2026-10-02T10:17:54.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_b1bc3c2912aebad4c5b736a1da31704f0c2c5720.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ポピープレイタイム",
+    "Escape From Playtime"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610022n"
+    }
+   ]
+  },
+  {
+   "title": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet",
+   "summary": "A true phantom pooper.",
+   "link": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
+   "pubDate": "2026-10-02T10:16:45.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/ktGJBYWfNM2ytQ8JcAn5VG-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/"
+    }
+   ]
+  },
+  {
+   "title": "【5,660円→1,923円】セットで200時間は遊べる『Lobotomy Corporation』『Library Of Ruina』2作Steamセールで66%オフ！モンスター管理シムと出来良すぎターン制カードバトルを体感せよ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173085.html",
+   "pubDate": "2026-10-02T10:15:03.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 66,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Lobotomy Corporation",
+    "Library Of Ruina"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/02/173085.html"
+    }
+   ]
+  },
+  {
+   "title": "『ヴィラクタル』Nintendo Switch 2 Edition が10月1日発売！ Switch版も同時展開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWnBINHdLYXdFaHNibTJxZms1QjlSOE5PVko4ZGNGeGtvcDNJV0ZGMmtocjN5elZoYWNtMDQzcnNHWDh6djZOWnJpMXZzaGRNTHl0ZHRRbXNjODRsTFI2cw?oc=5",
+   "pubDate": "2026-10-02T10:13:20.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [
+    "ヴィラクタル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWnBINHdLYXdFaHNibTJxZms1QjlSOE5PVko4ZGNGeGtvcDNJV0ZGMmtocjN5elZoYWNtMDQzcnNHWDh6djZOWnJpMXZzaGRNTHl0ZHRRbXNjODRsTFI2cw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『ゼルダの伝説』朽ちたマスターソードモチーフのSwitch 2用ワイヤレスコントローラーが10月9日登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNFhlanBsOThWMTAtQVB0RU5YWEJ3SlhiOFZlVmxkM1laMUEzeVpWWVVoZUhDczZibE02V3JHaGVXcGRfUGQ0YWVGbFU1UEJ3LXJmcEpOOEVXdw?oc=5",
+   "pubDate": "2026-10-02T10:10:00.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ゼルダの伝説"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNFhlanBsOThWMTAtQVB0RU5YWEJ3SlhiOFZlVmxkM1laMUEzeVpWWVVoZUhDczZibE02V3JHaGVXcGRfUGQ0YWVGbFU1UEJ3LXJmcEpOOEVXdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
+   "summary": "The creator of one of the most popular Total War: Warhammer III mods ever has deliberately corrupted it so that it will no longer work with…",
+   "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
+   "pubDate": "2026-10-02T10:09:30.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/02/ss-412c2f277066c99dc0e69f2b448b8ac3122237b7-1920x1080-1790935484099.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates"
+    }
+   ]
+  },
+  {
+   "title": "The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture",
+   "summary": "Here's our breakdown of the most expensive cards in Magic: The Gathering's brand-new expansion, Reality Fracture. That includes massive Face…",
+   "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards",
+   "pubDate": "2026-10-02T10:09:27.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/02/reality-fracture-mtg-ign-1790935717735.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards"
+    }
+   ]
+  },
+  {
+   "title": "高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門家も監修のリアル生態系づくり、その作り込みを訊いた",
+   "summary": "都市建設型の海洋シミュレーションゲーム『Life Below』を試遊してきた。",
+   "link": "https://automaton-media.com/articles/reportjp/20261002-471528/",
+   "pubDate": "2026-10-02T10:02:24.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261002-471528-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Life Below"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/reportjp/20261002-471528/"
+    }
+   ]
+  },
+  {
+   "title": "『リトルナイトメア』元開発者が手掛けるホラーゲーム『End of Abyss』リリース。謎めいた地下施設でおぞましいクリーチャーと対峙",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173084.html",
+   "pubDate": "2026-10-02T10:00:04.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "リトルナイトメア",
+    "End of Abyss"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/02/173084.html"
+    }
+   ]
+  },
+  {
+   "title": "『ストレイ』や『世界樹の迷宮I・II・III』が50%オフ！『メタファー：リファンタジオ』60%オフ、『FF12』『薔薇と椿』は70%オフに【eショップ・PS Storeのお薦めセール】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/02/188678.html",
+   "pubDate": "2026-10-02T10:00:03.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "ps",
+     "nintendo"
+    ],
+    "off": 70,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "ストレイ",
+    "世界樹の迷宮I・II・III",
+    "メタファー:リファンタジオ",
+    "FF12",
+    "薔薇と椿"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/02/188678.html"
+    }
+   ]
+  },
+  {
+   "title": "「地球防衛軍5 for Nintendo Switch 2」を10月5日19時より先行実況プレイ！Switch 2で巨大生物の大群に挑む",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZUJoeXh4eGhlV2RlcThKVWZtQzZvcENoNTRjMkRqVFBuR1lYQ0I5UUFTVkt2WHB4ZTlmTXJrTlVNVDBSTWpqd2JsbkVYTGt6dEU4dA?oc=5",
+   "pubDate": "2026-10-02T10:00:00.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "Gamer",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZUJoeXh4eGhlV2RlcThKVWZtQzZvcENoNTRjMkRqVFBuR1lYQ0I5UUFTVkt2WHB4ZTlmTXJrTlVNVDBSTWpqd2JsbkVYTGt6dEU4dA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes",
+   "summary": "Gotta go forward. A lot of Sonic fans are eager to see the likes of Sonic Adventure make a return as a remake or remaster – for some reason.…",
+   "link": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
+   "pubDate": "2026-10-02T10:00:00.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://images.nintendolife.com/fd19674c9c393/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes"
+    }
+   ]
+  },
+  {
+   "title": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%",
+   "summary": "Some power efficiency improvements for Steam Frame in the 0.4.3 beta update.",
+   "link": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
+   "pubDate": "2026-10-02T09:53:15.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/Jxk6NCA9KSnag5KwJx3fQT-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "update",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/"
+    }
+   ]
+  },
   {
    "title": "「プロセカ」，アブノーマリティ･ダンシンガールをリズムゲーム楽曲に追加。3DMVを公開",
    "summary": "",
@@ -8377,6 +9028,38 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/02/188677.html"
+    }
+   ]
+  },
+  {
+   "title": "『エースコンバット8』の新作グッズがアソビストアに登場。 TGS2026先行販売アイテムの受注を10/26の23時59分まで受付。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94VkRkV3VEalo5ZFlycWlZaXk5WUhjc2RyTmRMbFo1eHA1aV9OSmM2UzRWZWVTOERiY3lSZVRwdnNILXlIaDdKVktWb0ZHQUxqUF9JVHc1QQ?oc=5",
+   "pubDate": "2026-10-02T09:40:00.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "エースコンバット8"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94VkRkV3VEalo5ZFlycWlZaXk5WUhjc2RyTmRMbFo1eHA1aV9OSmM2UzRWZWVTOERiY3lSZVRwdnNILXlIaDdKVktWb0ZHQUxqUF9JVHc1QQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -8928,6 +9611,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/02/173079.html"
+    }
+   ]
+  },
+  {
+   "title": "『モンハン』イャンクックのねんどろいどが予約開始。耳の部位破壊まで再現できるパーツ付き。すやすや眠る姿もかわいい",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KWHU3RUtnRzlMSkxVU0RNbzFEdlU2VjV2bkMtMTNTYll1a2E4QXhaSXhyNWtfSVNqQjFPczlITnRLVXpRUXBrNHNTLUZSbWFrYUk0dURRZw?oc=5",
+   "pubDate": "2026-10-02T09:10:00.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "モンハン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KWHU3RUtnRzlMSkxVU0RNbzFEdlU2VjV2bkMtMTNTYll1a2E4QXhaSXhyNWtfSVNqQjFPczlITnRLVXpRUXBrNHNTLUZSbWFrYUk0dURRZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -10174,6 +10888,43 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/justin-wong-and-ifc-yipes-literally-commentate-ryus-match-against-blanka-in-the-street-fighter-movie"
+    }
+   ]
+  },
+  {
+   "title": "スパイク・チュンソフトの96タイトルがSteamで最大90%OFFになるオータムセールを開催！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YaEI5VzF0SE92U0Z3Ym8xOFFVakJDQTM1anlZVnZja2JSd2J6dG1EUkxTTUdvWVhYMmNGd0VSWGgtZ0gxaWcwblBLaHhyVE4tMEwydUFKVE1hdw?oc=5",
+   "pubDate": "2026-10-02T07:24:00.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 90,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YaEI5VzF0SE92U0Z3Ym8xOFFVakJDQTM1anlZVnZja2JSd2J6dG1EUkxTTUdvWVhYMmNGd0VSWGgtZ0gxaWcwblBLaHhyVE4tMEwydUFKVE1hdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -12504,19 +13255,26 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 0,
+   "score": 4,
    "categories": [
     "collab"
    ],
    "deal": null,
    "platforms": [],
-   "works": [],
+   "works": [
+    "ストリートファイター6"
+   ],
    "spoiler": false,
    "sources": [
     {
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/02/188638.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/02/173087.html"
     }
    ]
   },
@@ -15784,13 +16542,13 @@
    ]
   },
   {
-   "title": "PS5 Proじゃなくても画質向上、ソニーの新AI超解像『QSSR』 ウルヴァリンとヨウテイから提供。既存ゲームもアップデートで対応可",
+   "title": "PS5 Proじゃなくても画質向上、ソニーの新AI超解像『QSSR』 ウルヴァリンとヨウテイから提供。既存ゲームもアップデートで対応可 - techno-edge.net",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBublpFa0s2d2Y2bVpfenh5VWpzZmpRdHJfYzJBMzFUaTY1NzdVbGxVLVNhQ0F4WVh5azJQRlVhMDMtQUlqbjZtRjJCbHBMNXJ3OVVkdTJDZnRUUE9wai1oeXU5SURHVVE?oc=5",
    "pubDate": "2026-10-01T22:15:02.000Z",
    "firstSeen": "2026-10-01T22:48:24.193Z",
    "image": null,
-   "source": "テクノエッジ TechnoEdge",
+   "source": "Googleニュース「ゲーム アップデート」",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -15809,10 +16567,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "テクノエッジ TechnoEdge",
+     "name": "Googleニュース「ゲーム アップデート」",
      "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBublpFa0s2d2Y2bVpfenh5VWpzZmpRdHJfYzJBMzFUaTY1NzdVbGxVLVNhQ0F4WVh5azJQRlVhMDMtQUlqbjZtRjJCbHBMNXJ3OVVkdTJDZnRUUE9wai1oeXU5SURHVVE?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBublpFa0s2d2Y2bVpfenh5VWpzZmpRdHJfYzJBMzFUaTY1NzdVbGxVLVNhQ0F4WVh5azJQRlVhMDMtQUlqbjZtRjJCbHBMNXJ3OVVkdTJDZnRUUE9wai1oeXU5SURHVVE?oc=5"
     },
     {
      "name": "テクノエッジ（Yahoo!ニュース）",
@@ -22128,6 +22885,39 @@
    ]
   },
   {
+   "title": "【DRIMAGE プレスリリース】『パズルSEVENTEEN』新規コンテンツアップデート＆イベントを実施",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kWHhxWmdzd0lGRDBXZVc2MFBzS0dKTVdjVG81cnNIdEQzY0hicFZnNHVmdno1bzdvR0ZsbTdPMnpWcktxYXhpS2JfWFE5VWpVanllcGJneHVVVUs2MWdYc1liRjc2a3RPZHpQMzRYQzU3QUgwY3BOaFh4aw?oc=5",
+   "pubDate": "2026-10-01T11:15:23.000Z",
+   "firstSeen": "2026-10-02T10:48:13.574Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-update",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "パズルSEVENTEEN"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kWHhxWmdzd0lGRDBXZVc2MFBzS0dKTVdjVG81cnNIdEQzY0hicFZnNHVmdno1bzdvR0ZsbTdPMnpWcktxYXhpS2JfWFE5VWpVanllcGJneHVVVUs2MWdYc1liRjc2a3RPZHpQMzRYQzU3QUgwY3BOaFh4aw?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "“密造酒”の販売で逆転人生！アブないビジネスで無職から成り上がる経営シム『Redneck Simulator』Steamストアページ公開",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/01/173025.html",
@@ -27065,6 +27855,35 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/"
+    }
+   ]
+  },
+  {
+   "title": "放棄された地下施設に隠された秘密を解き明かすアクションアドベンチャー『End of Abyss』発売！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fV1Vkdk1uTkhkVGJic1FjNkFVOUNSSXRxcDFzTW9SY3NBaGxGdHA1cmNPWDgza3E2aEozM19pZzFCN1BSZG9Bb042TFJDVzBRM0FkRFpJeDZhd2c?oc=5",
+   "pubDate": "2026-10-01T04:53:01.000Z",
+   "firstSeen": "2026-10-01T05:47:39.657Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "End of Abyss"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fV1Vkdk1uTkhkVGJic1FjNkFVOUNSSXRxcDFzTW9SY3NBaGxGdHA1cmNPWDgza3E2aEozM19pZzFCN1BSZG9Bb042TFJDVzBRM0FkRFpJeDZhd2c?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -32319,7 +33138,7 @@
    "pubDate": "2026-09-30T18:23:00.000Z",
    "firstSeen": "2026-10-01T00:47:35.171Z",
    "image": null,
-   "source": "finance.biggo.jp",
+   "source": "BigGo ファイナンス",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -32334,7 +33153,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "finance.biggo.jp",
+     "name": "BigGo ファイナンス",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGYXpQRFRjbUpqVHpfb3k1WjhhZ25td1NyTGdBUlNkbW1KU2hmMVNLTDNYVnpqay1TMmJiRWVEYkw2a1FieHljeUprY25haW8zdEhXZFBUcDRaWnpnTjBfemdIQnpfZE5aT2d0blB4ZERmSGgt?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -37424,34 +38243,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2609303f"
-    }
-   ]
-  },
-  {
-   "title": "ゲームアップデートのお知らせ(9/30 18:00実施) - news.fate-go.jp",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JR21NQzBRRTVUNEhlRnk5LWt2U0xTZk1PUmdONmt5M2tUUWNuT1h6ajFIakFDdzdobktOVnROWTJhbWM3V3FxSGxMU2lXLVc1U1kyTg?oc=5",
-   "pubDate": "2026-09-30T09:41:04.000Z",
-   "firstSeen": "2026-09-30T13:48:31.760Z",
-   "image": null,
-   "source": "Googleニュース「ゲーム アップデート」",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「ゲーム アップデート」",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JR21NQzBRRTVUNEhlRnk5LWt2U0xTZk1PUmdONmt5M2tUUWNuT1h6ajFIakFDdzdobktOVnROWTJhbWM3V3FxSGxMU2lXLVc1U1kyTg?oc=5"
     }
    ]
   },
@@ -54573,13 +55364,13 @@
    ]
   },
   {
-   "title": "ソニーストアでPS5 Pro抽選販売の受付開始 「過去2年で60時間以上プレイ」「日本在住」など条件あり",
+   "title": "ソニーストアでPS5 Pro抽選販売の受付開始 「過去2年で60時間以上プレイ」「日本在住」など条件あり - techno-edge.net",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudFVQMFhXY3ZoZmwzRjBoYXFuYjVVSmRONkVUc2hlRms5bXRGWGJ1alNtdVUwNVNBX2x3TEd5VUJiZDZjdkM0LU1RRURCYTIwVDBLWU5TcmRORXZRUkYybGUtY1N0Wnc?oc=5",
    "pubDate": "2026-09-29T05:14:14.000Z",
    "firstSeen": "2026-09-29T05:48:14.518Z",
    "image": null,
-   "source": "テクノエッジ TechnoEdge",
+   "source": "Googleニュース「PS5 発売」",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -54594,10 +55385,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "テクノエッジ TechnoEdge",
+     "name": "Googleニュース「PS5 発売」",
      "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudFVQMFhXY3ZoZmwzRjBoYXFuYjVVSmRONkVUc2hlRms5bXRGWGJ1alNtdVUwNVNBX2x3TEd5VUJiZDZjdkM0LU1RRURCYTIwVDBLWU5TcmRORXZRUkYybGUtY1N0Wnc?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudFVQMFhXY3ZoZmwzRjBoYXFuYjVVSmRONkVUc2hlRms5bXRGWGJ1alNtdVUwNVNBX2x3TEd5VUJiZDZjdkM0LU1RRURCYTIwVDBLWU5TcmRORXZRUkYybGUtY1N0Wnc?oc=5"
     }
    ]
   },
@@ -90000,7 +90790,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [
     "sale"
    ],
@@ -108513,34 +109303,6 @@
    ]
   },
   {
-   "title": "ゲームアップデートのお知らせ(9/22 18:00実施) - news.fate-go.jp",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5",
-   "pubDate": "2026-09-22T09:32:29.000Z",
-   "firstSeen": "2026-09-22T09:32:29.000Z",
-   "image": null,
-   "source": "Googleニュース「ゲーム アップデート」",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「ゲーム アップデート」",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5"
-    }
-   ]
-  },
-  {
    "title": "【ポケモン】純金製のサーフゴーが横浜大黄金展にて発売。混じりっけなしの本物の“おうごんのからだ”が154万円で購入できる",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0dExTaUVjVTJXYU1CN0tlcmhyZmJnblN0VTdQR3ZTMVdkVno2bXpBVFRkamx6VnFEdkUzNnpHbnIzNW9GMDBGMlVFR0IxRkp3eVNpSDY1dw?oc=5",
@@ -110757,34 +111519,6 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign"
-    }
-   ]
-  },
-  {
-   "title": "ゲームアップデートのお知らせ(9/20 18:00実施) - news.fate-go.jp",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdFlxSTdpLV9vcG9tLWxqTzhkWm04aTJXZmJKV1EyWVVnemg0aFJSM2ZHNHZpb3FMejBHLWVYLXdjZVV6anFhQUNHQ25fTGlOQjhESA?oc=5",
-   "pubDate": "2026-09-20T09:13:05.000Z",
-   "firstSeen": "2026-09-20T09:13:05.000Z",
-   "image": null,
-   "source": "Googleニュース「ゲーム アップデート」",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「ゲーム アップデート」",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdFlxSTdpLV9vcG9tLWxqTzhkWm04aTJXZmJKV1EyWVVnemg0aFJSM2ZHNHZpb3FMejBHLWVYLXdjZVV6anFhQUNHQ25fTGlOQjhESA?oc=5"
     }
    ]
   },
@@ -115560,34 +116294,6 @@
    ]
   },
   {
-   "title": "ゲームアップデートのお知らせ(9/16 20:00実施) - news.fate-go.jp",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yN241eHVrTWVrVk1nNTdNQjA1dWczOE9uaUdjTW1jODg0Qlk1OGlIZWhoN2ZOc1dfNy14N3NTMEFMbVRQY3Y1akxxSmZxRG53S3IwMg?oc=5",
-   "pubDate": "2026-09-16T11:30:02.000Z",
-   "firstSeen": "2026-09-25T09:49:45.558Z",
-   "image": null,
-   "source": "Googleニュース「ゲーム アップデート」",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「ゲーム アップデート」",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yN241eHVrTWVrVk1nNTdNQjA1dWczOE9uaUdjTW1jODg0Qlk1OGlIZWhoN2ZOc1dfNy14N3NTMEFMbVRQY3Y1akxxSmZxRG53S3IwMg?oc=5"
-    }
-   ]
-  },
-  {
    "title": "『アウタープレーン』が「東京ゲームショウ2026」出展！ 1周年アップデートも予告 9月17日から",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UZ1BoektxUjFoZDZsaTdTZWk4YUJQVVhHZUtsUy1wT1lMUmtJZ2xXQWZHd0U3c1VfQUs1RWI2aTVNaThXeE9ZY0oyQVNoSjc5cGszWC0xYlhQWTZ0LWM3Ng?oc=5",
@@ -119342,13 +120048,13 @@
    ]
   },
   {
-   "title": "ゲームアップデートのお知らせ(9/9 18:00実施) - news.fate-go.jp",
+   "title": "ゲームアップデートのお知らせ(9/22 18:00実施)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WYktRZkFXRkVSR2hfcFJIQmU1cUJET2F2dVhLODU2V1ZHeDJ6TndIYVYtbjF4SGlyTkZRZGxoX0hMT3ZKamRaaWdZTjd0TUM1UWw4Ug?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5",
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
-   "source": "Googleニュース「ゲーム アップデート」",
+   "source": "Fate/Grand Order 公式サイト",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -119363,9 +120069,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Googleニュース「ゲーム アップデート」",
+     "name": "Fate/Grand Order 公式サイト",
      "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WYktRZkFXRkVSR2hfcFJIQmU1cUJET2F2dVhLODU2V1ZHeDJ6TndIYVYtbjF4SGlyTkZRZGxoX0hMT3ZKamRaaWdZTjd0TUM1UWw4Ug?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
