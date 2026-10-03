@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-03T22:48:34.107Z",
- "count": 4087,
+ "generatedAt": "2026-10-03T23:48:32.296Z",
+ "count": 4091,
  "dedupe": {
-  "exact": 339,
-  "syndicated": 19,
+  "exact": 340,
+  "syndicated": 18,
   "similar": 122,
   "syndicatedTotal": 114,
   "syndicatedLeft": 23
@@ -308,6 +308,26 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "「Kalanoro（カラノロ）」PC，PS5，Switchで本日発売。マダガスカルの民話とアートにインスパイアされた世界が舞台のアクションアドベンチャー",
+   "link": "https://www.4gamer.net/games/036/G103600/20260924054/",
+   "source": "4Gamer.net",
+   "sources": 2,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "switch",
+    "ps5",
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-09-24",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "ダービースタリオン2",
    "title": "『ダービースタリオン2』公式攻略ガイドブックが本日発売。種牡馬237頭＆繁殖牝馬327頭のデータを掲載した196ページの別冊付録つき",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xekFsNnpDN2poLW1OSmkycHE3WldNekpmd0hNUUdBeVpFS1gtSE1saS1lUzQtTTN1RFFpQzdCRUIzbDNGbzc1VGQ3cWQ0cE1YQ2NvN3RDMA?oc=5",
@@ -397,26 +417,6 @@
    ],
    "platforms": [
     "mobile"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-09-24",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「Kalanoro（カラノロ）」PC，PS5，Switchで本日発売。マダガスカルの民話とアートにインスパイアされた世界が舞台のアクションアドベンチャー",
-   "link": "https://www.4gamer.net/games/036/G103600/20260924054/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "release"
-   ],
-   "platforms": [
-    "switch",
-    "ps5",
-    "pc"
    ],
    "spoiler": false
   },
@@ -1131,6 +1131,24 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "How to Fish",
+   "title": "人気釣りゲーム「How to Fish」，新たな島や武器，ボスなどを追加するアップデートを配信",
+   "link": "https://www.4gamer.net/games/035/G103514/20260929013/",
+   "source": "4Gamer.net",
+   "sources": 2,
+   "categories": [
+    "update"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-09-28",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "Japanese Ramen Simulator",
    "title": "本日9月28日9時リリース予定だったラーメン店経営シム『Japanese Ramen Simulator』の早期アクセス配信が遅延。発売前審査により",
    "link": "http://www.gamespark.jp/article/2026/09/28/172836.html",
@@ -1156,24 +1174,6 @@
     "event"
    ],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-09-28",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "How to Fish",
-   "title": "人気釣りゲーム「How to Fish」，新たな島や武器，ボスなどを追加するアップデートを配信",
-   "link": "https://www.4gamer.net/games/035/G103514/20260929013/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
-   "platforms": [
-    "pc"
-   ],
    "spoiler": false
   },
   {
@@ -1435,7 +1435,7 @@
    "work": "Minecraft",
    "title": "『Minecraft』の世界で始まる新たな冒険。『Minecraft Dungeons II』がNintendo Switch 2 / Nintendo Switchで本日配信。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajFNNkdvak0wUEtFaXA5bTlNSk1MUW9lV3kwU2liRndxaEd5TFNtYXVnUjZMamZLR1lDS250SWJhUlE3dHIzQ3d5MVdJVGFyYXlXenFVNEdLYTZCQmRZdEE4eTgtc21SUnlVWEFyYXAyRGN5bDNlWS1SU19kUUV4dE4zX3p6dw?oc=5",
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sources": 1,
    "categories": [
     "release"
@@ -3085,7 +3085,7 @@
    "work": "ゼノブレイド2 Nintendo Switch 2 Edition",
    "title": "『ゼノブレイド2 Nintendo Switch 2 Edition』のパッケージ版が本日より発売開始。アップグレードパス / ダウンロード版は配信中。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDR1LXNWQ0FwcUhVUEMyT0JCbzVpZGFRVXJzdVVubml4aFROY1VaNWZzNllGNDl1eXFfWDA2V25iRzhHWkprQm9ILUZmYkdhbURpRTRSaFhmYVpLVTd5SnpMMmtibzhneXkzdC0wc2RVNDV2Z1lrRThfNDdtbVNRLWVjSENyQQ?oc=5",
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -6005,7 +6005,7 @@
    "work": "Pokémon LEGENDS Z-A Nintendo Switch 2 Edition + M次元ラッシュ",
    "title": "TSUTAYAオリジナル特典付き！『Pokémon LEGENDS Z-A Nintendo Switch 2 Edition ＋ M次元ラッシュ』2026年10月29日（木）発売！",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qYzd3UGFPeU5tU1N4VjQ2R2xhRWJpWHpNRUJfWXRzSVluaDFUQTMzZTFjd3dOaklXQWNFYU0tbTgxSTZ1VDBMM0xPYjMtbmVwUUhqTjh3?oc=5",
-   "source": "tsutaya.tsite.jp",
+   "source": "TSUTAYA",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -6103,7 +6103,7 @@
    "work": "ゼルダの伝説 時のオカリナ",
    "title": "Nintendo Switch 2『ゼルダの伝説 時のオカリナ』は11月5日発売。「ゼルダの伝説40周年」特別デザインの「Nintendo Switch 2」や周辺機器も10月29日発売。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnRDVjRPVHljRnJtTlB4eHVyeklPYnFZNmNiSkRhM2NyamRFQ1ZuczRvZHowbFdWVFFMaGsxTUtpMW14R0xJNUFhWGNlYy1lTFo1UDdTRmRaOHFYU3ByYTFVYUZ4ZEd0WV9BMjNqalI3ZjZGUk1TTDRaMGR4c3hobmtSYjQtUQ?oc=5",
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sources": 1,
    "categories": [
     "hardware"
@@ -6359,6 +6359,20 @@
    "platforms": [
     "mobile"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「ちいかわ」漫画のコマがマグネット化！「キャラマグネッツ5」が11月発売―当たったらラッキーなレア3種も",
+   "link": "https://www.inside-games.jp/article/2026/10/04/188708.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -6902,7 +6916,7 @@
    "work": "ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定",
    "title": "『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』を11月12日に発売。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjNzcEplRXVQSHhOb2VtaXpQNFM5T1NGTGNuRDB4ZFVSd2VGQUpVMnZSZm5RMU1rX0MxU2Ewa2pZRW1sTVVKLUxkU3E1ek90eTctbHRQTkp1TUJEWkZ1WHVTLUV4eDRXVmlMWllqWkdGZG1LTW14Z2NJZXpWQ3JPcUdJSXJTUQ?oc=5",
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -6970,7 +6984,7 @@
    "title": "「ハローキティ アイランドアドベンチャー Nintendo Switch 2 Edition：フレンドシップバンドル」，11月20日発売。本編＋DLC2種を収録",
    "link": "https://www.4gamer.net/games/047/G104730/20261002025/",
    "source": "4Gamer.net",
-   "sources": 1,
+   "sources": 2,
    "categories": [],
    "platforms": [
     "switch2"
@@ -7287,7 +7301,7 @@
    "work": "ゼノブレイド3 Nintendo Switch 2 Edition",
    "title": "『ゼノブレイド3 Nintendo Switch 2 Edition』の最新情報を公開。アップグレードパス / ダウンロード版 / パッケージ版ともに12月3日に発売。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZm85TlktYVBXRFl1b0ZOM0pldlY5ZlI1WHo3M2U4QmZQX0xGclRVR0k3bm9RYkducGh1OHI2SmNzSHFwVnl2VEl5T0dnd0NPMGVVRnVXOGFSZWMwandzNHppSl9JakthakdHSmJHUUNTUDh0cjU2QnE0ZmJGUzdocmZhMWJ5UQ?oc=5",
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -7526,7 +7540,7 @@
    "work": "エッジ オブ メモリーズ",
    "title": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IN2lyN21JUWZrUGpVVXVwZnluZnhuQ0RTUkZpUnU1UmtUdTJMUGlzTUxNcUZ5Y1JLdThDc0FGMG42NlNhV1FSOFZwNWRTZWVJczNNandCdURmYTBsNzlNQkRVaw?oc=5",
-   "source": "4Gamer.net",
+   "source": "4gamer.net",
    "sources": 1,
    "categories": [
     "release"
@@ -7934,7 +7948,7 @@
    "work": "メトロイド ラヴェナス",
    "title": "喰うか喰われるか。メトロイドの力を宿したサムスのサバイバル。シリーズ完全新作『メトロイド ラヴェナス』がNintendo Switch 2 で2027年1月28日に発売決定。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXVmc2RlcE9XSl9qNjR0amdmY0RKYVNzMjhBOHNSdVdfVmdzUnhXeWRlNlV4TU5lREE2YUNmNUJ3QWp1U1JKdktCakJQVjgzcnNXNTkxcjQ0X0ZVempLenl6blR5WEstWjJfbDVYT2FpWGNJU193SDRvcEZSOXR5UVY1WFNtQQ?oc=5",
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sources": 1,
    "categories": [
     "new",
@@ -8019,7 +8033,7 @@
    "title": "「バブルボブル 4 フレンズ Nintendo Switch 2 Edition + スタードロップマウンテン」，2027年2月25日発売。縦スクロールの新ステージを追加",
    "link": "https://www.4gamer.net/games/046/G104680/20260930032/",
    "source": "4Gamer.net",
-   "sources": 5,
+   "sources": 6,
    "categories": [
     "release"
    ],
@@ -8350,8 +8364,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 434,
-   "accepted": 429
+   "archived": 435,
+   "accepted": 430
   },
   {
    "id": "inside-games",
@@ -8361,8 +8375,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 519,
-   "accepted": 388
+   "archived": 521,
+   "accepted": 390
   },
   {
    "id": "ps-blog",
@@ -8405,8 +8419,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 350,
-   "accepted": 266
+   "archived": 351,
+   "accepted": 267
   },
   {
    "id": "gnews-dengeki",
@@ -8416,7 +8430,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 338,
+   "archived": 339,
    "accepted": 172
   },
   {
@@ -8438,8 +8452,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 383,
-   "accepted": 298
+   "archived": 382,
+   "accepted": 297
   },
   {
    "id": "gnews-ps5",
@@ -8460,7 +8474,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 206,
+   "archived": 207,
    "accepted": 121
   },
   {
@@ -8537,11 +8551,127 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 267,
-   "accepted": 267
+   "archived": 268,
+   "accepted": 268
   }
  ],
  "items": [
+  {
+   "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+   "summary": "Even a man forged from steel falters sometimes.",
+   "link": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+   "pubDate": "2026-10-03T23:19:41.000Z",
+   "firstSeen": "2026-10-03T23:48:25.366Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/hZS6AmJbYzwtWwjDeL6g2C-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/"
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ」漫画のコマがマグネット化！「キャラマグネッツ5」が11月発売―当たったらラッキーなレア3種も",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/04/188708.html",
+   "pubDate": "2026-10-03T23:10:03.000Z",
+   "firstSeen": "2026-10-03T23:48:25.366Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/04/188708.html"
+    }
+   ]
+  },
+  {
+   "title": "アングラ音楽の猛者が集ったインディーゲーム音楽5選！『SIGNALIS』の1000 Eyes、ブレイクコアの雄Lauren Bousfieldなどご紹介【音楽からゲームをはじめてもいいんだよ #5】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/04/173133.html",
+   "pubDate": "2026-10-03T23:00:03.000Z",
+   "firstSeen": "2026-10-03T23:48:25.366Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SIGNALIS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/04/173133.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】『バニーガーデン2』英梨紗が可愛すぎる！制服がキュートな『学マス』に『NIKKE』まで「TGS」美女レイヤー8選【写真37枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/04/188707.html",
+   "pubDate": "2026-10-03T23:00:03.000Z",
+   "firstSeen": "2026-10-03T23:48:25.366Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "バニーガーデン2",
+    "学マス",
+    "NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/04/188707.html"
+    }
+   ]
+  },
   {
    "title": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
    "summary": "Unlikely, but not impossible?",
@@ -17730,7 +17860,7 @@
    "firstSeen": "2026-10-02T09:48:18.848Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17751,9 +17881,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Vd3prVWtDSWJTNEYwTHU3TG8weTN2OXNZRUp1Z1lWc3l1QXItLWVLT3NZdXY4TEY3OV8tRFpjSlhSbW1Qdlh3cWpqNWtJeG1BRGZ1dXNWOA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -19856,6 +19986,12 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/047/G104730/20261002025/"
+    },
+    {
+     "name": "4gamer.net",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRmxLQkt4eHVpMy1zWHllRzhGM0Z4dGNqNkdVWFp0WHVrdjFoMExFakNRZnVkSUQ3SmdxVE1wNUN0b0NtN29EaTlLaFRxa0F4WXpqR19pNXBqUkFKNXQtc21YOA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -23378,6 +23514,12 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/830/G083033/20261002007/"
+    },
+    {
+     "name": "4gamer.net",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ySzJ2QVRnS01iMGsyQkxqbk1Ca1cxX3RSbG5KczR5ZmprMXlNUk5PNk1hQVM3YXFodkg5Uk1PeGhiMEVMUkw3SFUyb1RMSllZRGpoeXRoZWxmSmRtS0pMX3RWTQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -23467,7 +23609,7 @@
      "link": "https://game.watch.impress.co.jp/docs/news/2145098.html"
     },
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlRNak9EWmNKVXo4a3lqVHBCeFcxaUFMZXNnR1ptdFRJOHU2R1NUeTVZVHB5d3AybHY3TmY2Mkt1LVhvS1ZDcVBVcWgtd3dmZnNmaVNpZlRiY2dCWUM5RmhwUnp2SXZObXg3a294bmFNVGdnbDd4cTBLZ3VGMXhGU3BmSGhyUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -23763,7 +23905,7 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "CAPCOM",
+     "name": "capcom.co.jp",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwR2NxSkJ5Z3JxZllLSGJ5M2M3Vy1VOUFuenFhTlVocG11T1JFZ0xwOWZ4ekpUUWo0N1RVODJ3UjhVcWFYYzVFTGg0N0Z1bmxrUVhwR3Fpc3hrS1BwNm5kbG5xVXZfbHVNNllR?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -25110,7 +25252,7 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "東洋経済オンライン（Yahoo!ニュース）",
+     "name": "東洋経済オンライン（news.yahoo.co.jp）",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zU2hqV3FwNS1fWjVrWHNfRVptMUtQcHdLTVVzdzFQNjloS1J4aklQMXI0akRCWUx6X0s5VzBEV3JiWVhNeGZleEpsWWVucWNoaGloUUt0VmtraU0xQTNPcndYVm05QkNIMTlrREc4WWwzSGNYX3dVY3FrVjhRbkU?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
@@ -32009,7 +32151,7 @@
    ]
   },
   {
-   "title": "Switch 2対応メモリカードに512GB版、お値段なんと「Switch Lite本体と同等」任天堂公式品はファイアフラワー柄",
+   "title": "Switch 2対応メモリカードに512GB版、お値段なんと「Switch Lite本体レベル」任天堂公式品はファイアフラワー柄",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KLWNQWUY4YTNybTd0eWhnaWNjcUMwbkdtdXJ1dGl4V1l2anlDZXF2dC1UejBkTWdRTGZBOWNCOGhBUVU0bFIxcjFZSQ?oc=5",
    "pubDate": "2026-10-01T10:54:15.000Z",
@@ -32039,7 +32181,7 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "オタク総研（Yahoo!ニュース）",
+     "name": "オタク総研（news.yahoo.co.jp）",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NdFN4b3FQQ0ZCUGhVX3EyMEZrb2NYVEE5X2dGTnF0aGg5RGpPcW1SM21JZm95TlphNjlad2xrcmFzMkI2Zl9tRVVZQjcwdlpYejg0aWoxYllmWTc3WlJXR2pIbnVTRXA1MjlET0swbFZjUy00LUd5WjZrTkVUcTA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
@@ -33349,7 +33491,7 @@
     {
      "name": "4gamer.net",
      "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QRGc3ODQ4VHdJRjNCd0RzNklTeXI2ekEwV0t6cmNPMXROZ1V1TkdYNTQwS2RPVkFjT1NsT3FnTXFQQ0lCcHZHR2hFUG5VTGctbEdPQm0xTHNkVEt2UjlNZlhkTXJVbmxpVlQtci1WZ04ydkU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42OHI5VDc5aXBESWM5TE1DXzB2LVhicXhnbEhvSUJrTkp4blcyMzVSMXNUUXBab2w0R051czY5YV9QYVpvd3ZkRmxyVzBhV1JqYkVzbmUtc0JYSXdNck53Zi1RUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -35374,7 +35516,7 @@
      "link": "https://www.inside-games.jp/article/2026/10/01/188591.html"
     },
     {
-     "name": "Game Spark（Yahoo!ニュース）",
+     "name": "Game Spark（news.yahoo.co.jp）",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Db052anZEbDFUQ0UtT2pBWGEwNExobkVENTRnOG94RDl2MkZYOURWalJZOGhwUm9iS3loNXBNZ08tX2owT3kxSkVUQ2VoRFhtYktTRmdpTVJ2a3dTVzJ2MGJhQUdMM0VLWHBPRk5FYkxYcHlHN2xCUWc0N3FGQXM?oc=5",
      "via": "Googleニュース「PS5 発売」",
@@ -39905,7 +40047,7 @@
    "pubDate": "2026-10-01T01:17:17.000Z",
    "firstSeen": "2026-10-01T04:47:33.666Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -39922,7 +40064,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDR1LXNWQ0FwcUhVUEMyT0JCbzVpZGFRVXJzdVVubml4aFROY1VaNWZzNllGNDl1eXFfWDA2V25iRzhHWkprQm9ILUZmYkdhbURpRTRSaFhmYVpLVTd5SnpMMmtibzhneXkzdC0wc2RVNDV2Z1lrRThfNDdtbVNRLWVjSENyQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -40479,7 +40621,7 @@
    "pubDate": "2026-10-01T00:37:05.000Z",
    "firstSeen": "2026-10-01T08:47:46.262Z",
    "image": null,
-   "source": "tsutaya.tsite.jp",
+   "source": "TSUTAYA",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -40496,7 +40638,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "tsutaya.tsite.jp",
+     "name": "TSUTAYA",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qYzd3UGFPeU5tU1N4VjQ2R2xhRWJpWHpNRUJfWXRzSVluaDFUQTMzZTFjd3dOaklXQWNFYU0tbTgxSTZ1VDBMM0xPYjMtbmVwUUhqTjh3?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -48069,7 +48211,7 @@
    "pubDate": "2026-09-30T08:56:26.000Z",
    "firstSeen": "2026-09-30T12:48:20.035Z",
    "image": null,
-   "source": "KONAMI GROUP CORPORATION",
+   "source": "konami.com",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -48084,7 +48226,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "KONAMI GROUP CORPORATION",
+     "name": "konami.com",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFBaTlMzS2xDTlBGMHdIQl9xN3Y0Wi1TMXRRUVRGZFBVYW1qX19DR2M4MUZLTjdDQ3MwenI1UnZxbmE1MUF2RnpfX0w4UXlEVTVsblV2OUltMHVjam9YN0VoTFZmLXgySGdUNGQtRFF4Z3BXNjV6ZFE0bERIcFR1U3BvMDZGODQ?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
@@ -49788,6 +49930,12 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
+     "name": "4gamer.net",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YQjZ5NTRiZ0VIdmx1MUZnS3BRZk1EdFBxdUdmMzA0LXFSOV9yMnZZSWtEa1M2bWwySVNCSGc2bi1OTXl0TFZYaC1VSVpqcHlqelBELXRoZnlEWHI1YW5kb3Z4aw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
      "name": "Gamer",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOUDZoRHc0b3ZJTkpBMzViWHJLYjk0VlpTbjR4YlJMVmh1WVJIZnNfa3N1V3pVOXVhbHN1X20xT3dUWmc3aU53TTdwakZEc0c3U0pvWA?oc=5",
@@ -49892,7 +50040,7 @@
    "pubDate": "2026-09-30T07:00:00.000Z",
    "firstSeen": "2026-10-02T20:48:12.935Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -49907,7 +50055,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ob25NNE4zSl81Qk9xVGhtRTJ1SGxCc1UtZFVQRTB2MEpwWk8wSTZpNWtNUHR6eHdKNFZlWlRaejhab19hRG9fYS1kZ21KMmFFaW1yWkZpTDlyRkYtc1Q2eTJuTHVBcEdxb0E?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -53467,7 +53615,7 @@
      "syndicated": true
     },
     {
-     "name": "ｄメニューニュース",
+     "name": "topics.smt.docomo.ne.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1pDQzR5cDNpUFFRRHdtRjdVQVdSNFFiTlR3QjFnRlNMdnI3dU15VHV0b2lTci15VHRFRzBvbjVvcV9BYllkQXJTaVV2R2piaURnUFNXLWJtUnNoczNxc2pyRldDbzdSYlRXVkl0a2lkc1h6TVhtOU01dk9PcW0tS2VMaTZIeUlQeDhnRHpiOUdhYlY0ZlJSN1plc9IBmwFBVV95cUxPQ1pDQzR5cDNpUFFRRHdtRjdVQVdSNFFiTlR3QjFnRlNMdnI3dU15VHV0b2lTci15VHRFRzBvbjVvcV9BYllkQXJTaVV2R2piaURnUFNXLWJtUnNoczNxc2pyRldDbzdSYlRXVkl0a2lkc1h6TVhtOU01dk9PcW0tS2VMaTZIeUlQeDhnRHpiOUdhYlY0ZlJSN1plcw?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -62157,7 +62305,7 @@
    "pubDate": "2026-09-29T08:41:55.000Z",
    "firstSeen": "2026-09-29T10:48:21.695Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -62178,7 +62326,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajFNNkdvak0wUEtFaXA5bTlNSk1MUW9lV3kwU2liRndxaEd5TFNtYXVnUjZMamZLR1lDS250SWJhUlE3dHIzQ3d5MVdJVGFyYXlXenFVNEdLYTZCQmRZdEE4eTgtc21SUnlVWEFyYXAyRGN5bDNlWS1SU19kUUV4dE4zX3p6dw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -62278,7 +62426,7 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "Fav-Log by ITmedia（Yahoo!ニュース）",
+     "name": "Fav-Log by ITmedia（news.yahoo.co.jp）",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWnM0NXc5VE5aelZsenpiMWV2ZEdNM1dLajdJaW9pbThDa3pfRjRmTWNIXzBKNDdQNENDZWZFNG9HSmx3UFpfa3VrX1lSRk9SMU5mRGE0VEh1R1RwdjFYSGVhdHNBaXZBVktnTGZXcGhiOGlaaWFaczhheF9UYVk?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
@@ -63943,6 +64091,12 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/035/G103514/20260929013/"
+    },
+    {
+     "name": "4gamer.net",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5cVJyalZEMXVRVmF1dFotNklpbEkzM29KQ1JibHFnMTJLcmcyYnd2SHhfc3Y1SzY2VjcyR01tQmVVZE03TzN6VFpINy1yTThCdm1jYmNxaUx6RmQ0UXh3NVJhdw?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -66562,7 +66716,7 @@
      "via": "Googleニュース「PS5 発売」"
     },
     {
-     "name": "オタク総研（Yahoo!ニュース）",
+     "name": "オタク総研（news.yahoo.co.jp）",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqY2RyLUtmX0ZUa3JtZUJaQ1Jvd2JsMHV2WkdWNEJlX2M5WnN0NFVQQmR0NENYZTJ4TmFlTkI2WTV5OWI0b21HWC1OdndzUjlndmtZT010WFRvZ0tkeUkwbVoyOTI5SzUtNmFDbHdXWmhLMDJtcHFRdjU1VWNuOGc?oc=5",
      "via": "Googleニュース「PS5 発売」",
@@ -95889,7 +96043,7 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
-     "name": "オタク総研（Yahoo!ニュース）",
+     "name": "オタク総研（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWVnYmhPU3ZZaVp2WVZtSElvUEVrNWpNNWcyc1pRbF9mcHk2d2RGR2pkZ1VGZ1M1WERLMlBWMElBb1FZd09TN2xjX1hQWEVlRU5OaWwzZnVkODBBdFU5NzFTTHhYdkFUalk0NjEtck9uSG5vZFZFTUFNenJnLVNwVXJ3WUppcXlQdnNielBR?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -107636,6 +107790,12 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/036/G103600/20260924054/"
+    },
+    {
+     "name": "4gamer.net",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sWFNEUHJ5aFVTN0FJR2Jsd3FoQVdFRVZJdF9IUVE1REpZTHZUcmx5ZjB1TGg1Q2FFM19vVmFNT1A2dkpUT0ZhLTI4dllqcExHbklQYTRiUl9VanFEQlB4N0huQQ?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -113608,7 +113768,7 @@
      "via": "Googleニュース「PS5 発売」"
     },
     {
-     "name": "GAME Watch（Yahoo!ニュース）",
+     "name": "GAME Watch（news.yahoo.co.jp）",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sYVFkclA3OEh6UnhERkVlRno5UE1hcm9xazFMVXV4UUd2OGkxZlFGbGtaWkpXaEs1dFZwdlZVY1ZLbnVrZG1iMGh1cE5GODA4d0E0WHdsYkRCbTB1SDZremV6Y1BiQTBGT0wyU29pZ3ZfbjV3SFM3d05pamxTeUE?oc=5",
      "via": "Googleニュース「PS5 発売」",
@@ -120866,7 +121026,7 @@
    "pubDate": "2026-09-20T07:00:00.000Z",
    "firstSeen": "2026-09-30T19:48:15.426Z",
    "image": null,
-   "source": "SPA!（Yahoo!ニュース）",
+   "source": "SPA!（news.yahoo.co.jp）",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -120882,7 +121042,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "SPA!（Yahoo!ニュース）",
+     "name": "SPA!（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HOW9NV21kVlBmMTdGOWNnUGxjOWVzT1FlVU1GVjFnY1pMdTFyUnNJb1NkY21IRkJrNzl2WTJpbGdYVFhwSWcweWNYRzZBTnpCeVFOTUx6Qkg5Z3g0RFBLNll2Rkw4OWNVcnBhU3ViaHNPYTJ3R0k0YzdaNjVkVFE?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -121651,7 +121811,7 @@
    "pubDate": "2026-09-19T22:00:34.000Z",
    "firstSeen": "2026-09-19T22:00:34.000Z",
    "image": null,
-   "source": "ふたまん＋（Yahoo!ニュース）",
+   "source": "ふたまん＋（news.yahoo.co.jp）",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -121668,7 +121828,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ふたまん＋（Yahoo!ニュース）",
+     "name": "ふたまん＋（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjc0N05NTGl0b01SdU40ZngzRUJ4WHpPRVZ6UkJxZnVIWVFCUzR2MmwweWhGOUZlMXBncG9NN1dkR041NkxzS2pxbjVDV1JPYlhQNUFjVW8xZWVYbzFXaWhRRWFHQk50Zm5lQTc2SEZDZGpkQVNIdy1CWW1KNXpXS2doSDZDMHFRR2JudzNR?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -122042,7 +122202,7 @@
    "pubDate": "2026-09-19T07:00:00.000Z",
    "firstSeen": "2026-09-19T14:02:34.000Z",
    "image": null,
-   "source": "4Gamer.net",
+   "source": "4gamer.net",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -122058,9 +122218,15 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "4Gamer.net",
+     "name": "4gamer.net",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yb0J3elZHN09lellfdnFjQjVUcWw0SmpvQV9qVkI2cDBuNEhJc1dXNjQ1dGZiUlZ6VmRlZHNfVTVsQWxZd2FocTJFeHk4bllNZ2V2X3NMUlo1Z3M0Y2dLeDE2VQ?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmtOUWpDOEtPUXRIenJwaklVNzlCTU9xNUo2VW03YV9ybmdvQmpfdjkwTEUwMDN2RlNlQlNtaklSSUZicXpTNFZBcDBOUDN0Z3RYX3ZjOWpUbDU4TFBLRmZhcGRCY1cxdmxNUXNYMFdseHJLNkx0YmNZMDVvOEtUVGxn?oc=5",
      "via": "Googleニュース「PS5 発売」"
     }
    ]
@@ -123092,9 +123258,15 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
-     "name": "4Gamer.net",
+     "name": "4gamer.net",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CSi1FcW92TS1GVEJQc3E0QzY3b1I4RkVGeWs1MmZUeThPZ1dWS0tGTGJCSVE1RWR2dVROVFNvUURSMWV2RzJUNDBMc3VQeVpCRXJncFNRSlplRjlLTkV0MnZNYw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3VtTTlXbHBpMTR0MUJaRXNXS0tkSDFaeTV1VVh2eXc5cEUxY05tNHZjOGlDVTBIbUZaUEhNTFpkcWtudERTTjJpejJkaW9kSmM1RlJkd2F2UlUyVEZOdk5HSkVYTHYxQ0d3MzNOWWdwNHR4Ti1yZXFzWkZzU0dQcTZR?oc=5",
      "via": "Googleニュース「新作ゲーム」"
     }
    ]
@@ -123907,7 +124079,7 @@
    "pubDate": "2026-09-17T10:57:43.000Z",
    "firstSeen": "2026-09-17T10:57:43.000Z",
    "image": null,
-   "source": "4Gamer.net",
+   "source": "4gamer.net",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -123926,7 +124098,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "4Gamer.net",
+     "name": "4gamer.net",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqM0tmOERvVFo2cVE4VzYtYjBBNU5za2pWWWJFaWdGR0s3TkxtSm8xM1Z5emYzLXk0a1lOc051ckpUNjU1R1RacTFmWjZITVRYRG1xSTVzbXN4NjhxOXFBVlBHbw?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -124431,7 +124603,7 @@
    "pubDate": "2026-09-17T07:00:00.000Z",
    "firstSeen": "2026-09-30T21:48:21.755Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -124450,7 +124622,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOU1GYzFpaUliTUk1RjJZbWcxajhpLVg5bmQ0d2FaQ1VRb1pYbHBlZExOejJ4MkxtbDRlYVdMcFc4MTQ5WnhEcWxlWmRTdFhYeFljaVBQaDR3M0pDLXg2SU40Vnk3a01QUmJ4aXhVZzQ0TlJsaHhQTTlxZ0RJSnJxVDF4VlpvQQ?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
@@ -124624,7 +124796,7 @@
    "pubDate": "2026-09-17T03:33:00.000Z",
    "firstSeen": "2026-09-17T03:33:00.000Z",
    "image": null,
-   "source": "MANTANWEB（Yahoo!ニュース）",
+   "source": "MANTANWEB（news.yahoo.co.jp）",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -124640,7 +124812,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "MANTANWEB（Yahoo!ニュース）",
+     "name": "MANTANWEB（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84U0ZVVXFLSkFGVU1tVGFzTFNDbnFwUjVvaE1xanVUMTg1LXpkd3l5ejkxZHZuandVRjNlQ2FHQkhhU3RseXV6aXh4dDl6UnhveWZlRWZLZFIxWUhocTFubnNqVXoxOUpPbi1HeEQyaUwzM2pEQUtMVElsaXBVbkE?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -124931,7 +125103,7 @@
    "pubDate": "2026-09-16T23:00:00.000Z",
    "firstSeen": "2026-09-16T23:00:00.000Z",
    "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース）",
+   "source": "WEBザテレビジョン（news.yahoo.co.jp）",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -124949,7 +125121,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "WEBザテレビジョン（Yahoo!ニュース）",
+     "name": "WEBザテレビジョン（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUZ1hNV1ZLZ3VvRUJOc1J5ekRYV01lLTJhZ2REeTRKWVM5VURkVjlmbHk3U0tiX0V1V1J2S1JTbkFRa0d3OXBKSXREZHBOX2ZWQk13N3dMekpSWVplV0I5VVhzT1RjMkFwYzJrUGJVdEtlcEsya29KWDM1UkVhUWs?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -125913,7 +126085,7 @@
    "pubDate": "2026-09-15T07:00:00.000Z",
    "firstSeen": "2026-09-15T07:00:00.000Z",
    "image": null,
-   "source": "Yahoo!ニュース",
+   "source": "news.yahoo.co.jp",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -125928,7 +126100,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Yahoo!ニュース",
+     "name": "news.yahoo.co.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9palZna3BqZm9PckUtdVJiNUgxaWcyRk0wQ2lwR09FdmpFcjV4dEhOTEFHLXQ0V3d4eFI5MHlqSjVKWUIwSUZkWDVxNlM2SEhPelZ6RUJ1VFAzWG9VSkZFSkhNMVdPX2JWejZvUkRtdXpEMjZOWUpjYkdxUmhiajA?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -125975,7 +126147,7 @@
    "pubDate": "2026-09-15T07:00:00.000Z",
    "firstSeen": "2026-09-15T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -125994,7 +126166,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmRCQWZLOXoyT2lNRzBRMlBaT1dCNXZ5cTBGa2dtRHoteGJCMmpsRTYyRENCSnVEWnNRR1dUY21QcWIxY2xzbWh5bm1sOTZpY1RDeDlqQk9zdVBQTFB0QWdKcFFLZzBnMjZpM185WWM4cGxIV0VXcmJOTm9KOE5qWFhobnJodw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -126066,7 +126238,7 @@
      "via": "Googleニュース「PS5 発売」"
     },
     {
-     "name": "GAME Watch（Yahoo!ニュース）",
+     "name": "GAME Watch（news.yahoo.co.jp）",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0xoZWkwa21GTVVKeGptdkNhOG1DTnVRaV9mbEp1Q3FaQnZNeTY1X1hNVnlxN1FLcW82QnRIWVUxeU5WMU1yd3dXTGdTRVVaTnlMbVJjMkdHV2JSWWtpSGtCcU1rZ2pNVDNPa1U2WjRibzlUTktiRGNmdGhiMTNURTdna1BSVkM1ME5GUXVR?oc=5",
      "via": "Googleニュース「PS5 発売」",
@@ -126943,7 +127115,7 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
-     "name": "ファミ通.com（Yahoo!ニュース）",
+     "name": "ファミ通.com（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjF2MW16ZDFEekRPZlRRVFo5WXZKNHZBR0dYVHUyVUhncTE2czl6Q0pPQUF2SEkzUS1meUxSUXBiTVBzWjBMNzFTZWdwZnlfWXRTLVd3WXpFbFJIZ3B6eTc1ZnhkN205QVJ3MVR4bUJBMGxSMGRTZGN5R0JMSURSd0pzS20zN1htQ0JZZ1FR?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -127029,7 +127201,7 @@
    "pubDate": "2026-09-12T07:00:00.000Z",
    "firstSeen": "2026-09-12T07:00:00.000Z",
    "image": null,
-   "source": "Yahoo!ニュース",
+   "source": "news.yahoo.co.jp",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -127048,9 +127220,16 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Yahoo!ニュース",
+     "name": "news.yahoo.co.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WZEJpZkhWWHVnSXRxZzNyVWlsU2RXdkdnUWs1dFpiTGZkRWlub2RTV1ZwSFA5OGc3REEwc0JUZlBDWW0tNm1nNlFDTzZnNzNOMDNGcVBOMTdHNXdfMW9fSnV3bjUtNG1wLXB1MnZxMngxV01MSFU5dEduQkRnQTQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzVZYzFGSVNDWFQzV01zN2NFRUpkeGJKUDBtT0NrQ2NLZ0FYeVl3VFRkWmM2elo5TUxCdzZCZ3BNSE05Z1ZrZW15TTl1WGctVW9Wc3ZyRVJub1lwUTlZSGN6SEFha2hjN3JiTHFEWnBlYnVkc0dtdjdHakZab0RyYnhGMUU4VjB0VEl2S3FB?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
     }
@@ -127063,7 +127242,7 @@
    "pubDate": "2026-09-12T07:00:00.000Z",
    "firstSeen": "2026-09-12T07:00:00.000Z",
    "image": null,
-   "source": "Yahoo!ニュース",
+   "source": "news.yahoo.co.jp",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -127080,9 +127259,16 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Yahoo!ニュース",
+     "name": "news.yahoo.co.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wRHloMlgyV3hrNzRYVnk3RGNCZ1M2X3F6TGMzWEd2UFdLc1ktVVlTektVR2kwVEg1TjF2YWxXZTZXNHU1dVA0TzRVUTZLZ2xwM2RpNzhlQXVsVktyRzh5VG5RREVxUWFnZURvSHp4RzVrakxjbzBfbTJrd2Vyc00?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1REVXZqaUFvTjVmelZjUGZnb1hQck5PSTBVN01OaElWWHY4S2FhLWM5WTI1Q2oyZER4UlVsdTM1V191Nks4VFRPTkJsTGg0X0dZNmY0ZkFhSmVEUDNMX2VkZ0Myb242UHJjblRGQjhxNjV6Uk5jT1RNcXJhNTV3bkFzQU1ZcVBMTUllUl93?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
     }
@@ -127243,7 +127429,7 @@
    "pubDate": "2026-09-11T07:00:00.000Z",
    "firstSeen": "2026-09-11T07:00:00.000Z",
    "image": null,
-   "source": "Yahoo!ニュース",
+   "source": "news.yahoo.co.jp",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -127263,7 +127449,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Yahoo!ニュース",
+     "name": "news.yahoo.co.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVLURQQUUyNFFZS3ZJTkpaUjA1TXBVZk9ZSVQ2QnJrR3VBRWpsbEZTZmZRSC1CTU5ieFFORHVkVVdBS3F6UTEza0F1QXNraFg4V1c2enl2TVFaWjAyQkowa0l6VTlnOGZEdGdLUnRXY20yMUtFNUQyV1ZsOFFPNXc?oc=5",
      "via": "Googleニュース「新作ゲーム」",
@@ -127410,7 +127596,7 @@
    "pubDate": "2026-09-11T07:00:00.000Z",
    "firstSeen": "2026-09-26T00:47:24.761Z",
    "image": null,
-   "source": "4Gamer.net",
+   "source": "4gamer.net",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -127429,7 +127615,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "4Gamer.net",
+     "name": "4gamer.net",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IN2lyN21JUWZrUGpVVXVwZnluZnhuQ0RTUkZpUnU1UmtUdTJMUGlzTUxNcUZ5Y1JLdThDc0FGMG42NlNhV1FSOFZwNWRTZWVJczNNandCdURmYTBsNzlNQkRVaw?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -127656,7 +127842,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -127676,7 +127862,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHk4eTQ2bkx3aTNMLWVSTzlGbGgxRW9Senk0cEV5TWRndXdwWVlmNk9WOWRuNmtEVGozZXZCY1ZvLVlwUmFQb1R6b1dtVHMxQnVIYzAyZER2UUpzdVJ2Sm1UUUdZMzllTGR0a0luRGUzNy1jV0gyUkprY3EtUTdBckxxSGJxdw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -127772,7 +127958,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース）",
+   "source": "コミックナタリー（news.yahoo.co.jp）",
    "sourceId": "gnews-newgame",
    "syndicated": true,
    "kind": "aggregator",
@@ -127789,9 +127975,16 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー（Yahoo!ニュース）",
+     "name": "コミックナタリー（news.yahoo.co.jp）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Y3pSMDM1ZEVzMjdsa3hTMVUyV2ctdC0tdjhNWlFMODRWekw0TTdDbnh0cHlxWGZJVDh4am1Cc3BFX0ZqRVBjTHg3VDRrd1ZxWW9tclcxNlEtLW0yVS1Ua21pZW81bU96X2xPaTh5OVdDR0QwMngxVmtWdVhudFk?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDJhNnFzT09Lbkh5NVBvamZvYzNWbmkyMURzc3lwSzRzY2YxRmdUQXpYT3RDeHc4VmxQV1lYS3F2SWZSd1VzMnRHWm9lT3BLWk5XMnRJdmhjSkRMOXAwVFRwNHdvN1dGWm1DSHp1V1FNVHRnZkFXdU00VHF4OXFwR1UxdTdUOGRwemN5eVJ3?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
     }
@@ -127804,7 +127997,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -127821,7 +128014,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjNzcEplRXVQSHhOb2VtaXpQNFM5T1NGTGNuRDB4ZFVSd2VGQUpVMnZSZm5RMU1rX0MxU2Ewa2pZRW1sTVVKLUxkU3E1ek90eTctbHRQTkp1TUJEWkZ1WHVTLUV4eDRXVmlMWllqWkdGZG1LTW14Z2NJZXpWQ3JPcUdJSXJTUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -127835,7 +128028,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -127854,7 +128047,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjFodDVXY2VPZWE4eFVKNnB0NW41bUZXNlZWcjlzaENRMGxxeC1adjkxMlBnUUxHY1hYNndKTlpXaDJmdGcwQkhnb3ljN2c4NEZLYlAxMEIwM3NlUUxYUmF0Sjg1Q0RtcGR1MlFCS2ZQUEh6dXJiZVBJbFJzMmNxaDRMZ1VEUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -127944,7 +128137,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -127964,7 +128157,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ3o0c2U5NG1FaXNvNkdyTFRMLVZLX2FBckpVei1teW8tSUc3RjJYdjVfTzZCQmdZUWE1MGJYMGtLZmpKcVFYZ3U1RzJRVXZyRXBWTWsydS0zeU9wYkJqQUt5VS11TDNmTG1yRk5nbUVSbW1HSHVsTkxReDlFNUk1TERHQ0JHQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -127978,7 +128171,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -127995,7 +128188,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZm85TlktYVBXRFl1b0ZOM0pldlY5ZlI1WHo3M2U4QmZQX0xGclRVR0k3bm9RYkducGh1OHI2SmNzSHFwVnl2VEl5T0dnd0NPMGVVRnVXOGFSZWMwandzNHppSl9JakthakdHSmJHUUNTUDh0cjU2QnE0ZmJGUzdocmZhMWJ5UQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -128464,7 +128657,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-26T10:28:55.325Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -128484,7 +128677,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXVmc2RlcE9XSl9qNjR0amdmY0RKYVNzMjhBOHNSdVdfVmdzUnhXeWRlNlV4TU5lREE2YUNmNUJ3QWp1U1JKdktCakJQVjgzcnNXNTkxcjQ0X0ZVempLenl6blR5WEstWjJfbDVYT2FpWGNJU193SDRvcEZSOXR5UVY1WFNtQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -128830,7 +129023,7 @@
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -128849,7 +129042,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnRDVjRPVHljRnJtTlB4eHVyeklPYnFZNmNiSkRhM2NyamRFQ1ZuczRvZHowbFdWVFFMaGsxTUtpMW14R0xJNUFhWGNlYy1lTFo1UDdTRmRaOHFYU3ByYTFVYUZ4ZEd0WV9BMjNqalI3ZjZGUk1TTDRaMGR4c3hobmtSYjQtUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -128992,7 +129185,7 @@
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -129007,7 +129200,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSMXFMLTFBZWVMQ3ZPOUhDS0p1MjF3d25SNUJLb3R1VjNEQU44YWxWaVVFSjhGbFc1VU16dUZVdy1uSmZ5US1vTC1kRTdVMXA0VVRxaDNSX0JQTDRLZG1rS0ZWaExmd3l4SGNsdk5Sc1RxQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -129510,7 +129703,7 @@
    "pubDate": "2026-09-08T14:47:04.000Z",
    "firstSeen": "2026-09-08T14:47:04.000Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -129525,15 +129718,15 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ek1UWmdxMTlZenBrVl9oNExFdEhCd0lWTDdUaVc3WWVaXzJaQWtCRUJmd3ZBZm4wcUhYQnFjNVRpN1RKVVRpa3ByNUtMeFQzMEFWLUFCSnlKY2V0VTJ0Ym5EUmFqUEo3YWc?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZ1QtMW16OGFHYjQxazJJYmJ0R3ZCakZaUk5BRkJqZGZ3eVlmVHF0TXY1RWRkMHFuRTUzaFFzSHFLQWNGRzVXWnczb1JkUTB3dmU3ZU5qME04Rlh2bFNLazJOSG1iay1DY0V2Tk0wYWtid3NEWXc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cVV5V0I0MTZpaHN1dkg2VkNyMVp4c3U5QnFicjhFYzJCeE9zSWhVMUxvYTdKMURtTUVoM3FnVTROQzZON0dlRU5xQWpVRUk3RkNsMlJlZVlzbDJTeGNvbGU0NXhJSlNBdWVtaVAwMFRvSHM?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -129710,7 +129903,7 @@
    "pubDate": "2026-09-08T07:00:00.000Z",
    "firstSeen": "2026-09-08T07:00:00.000Z",
    "image": null,
-   "source": "4Gamer.net",
+   "source": "4gamer.net",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -129727,9 +129920,15 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "4Gamer.net",
+     "name": "4gamer.net",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjB4ejRjTnpLRnZ0eTFYNnhZdE5PYlFtbldEbVFnM0YtUERIbXVDbG9UOUJ5NnlFNWM5WHR2eTNJTUlRd3p0N2hmNXdTRGFaRTZDR2tMd3R6VUY5X1dMVFpMYkdPSkdWWEkwSWlLd2dtTXJFSUM4dUlJSEFFdGxKZFh3?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    },
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUdWQ0VrOFY2dUkzRTlxamktN1Raa2Q1ek1ic1diSkNURGxGRVpodzVjN1cyRjctS1NuejBpbkNVSHljZzJLZDFpQU5yVnVXV2xlQ0FtSzF0eU92QUlwR1ZWVk9IcGxTWUFqZGppRm5qX01kNXJfRm0xSnJSRF9iYjJPZVRxUU0?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
@@ -130350,7 +130549,7 @@
    "pubDate": "2026-09-04T07:00:00.000Z",
    "firstSeen": "2026-09-04T07:00:00.000Z",
    "image": null,
-   "source": "KONAMI GROUP CORPORATION",
+   "source": "konami.com",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -130367,7 +130566,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "KONAMI GROUP CORPORATION",
+     "name": "konami.com",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iZ1o4TWhRMkZzREl2dzZoNExWWG9mTUZHT05DbVRPMW9KcUxPTFllN3lNcmw5eFNHU05Yb2pWMFhDRjEwR2QwejJPTXpRR2tzeWdPNGJJRW1qTzJ1U2wzN3NFODNUN0JKVzFZY0VZUWtLZEUw?oc=5",
      "via": "Googleニュース「新作ゲーム」"
