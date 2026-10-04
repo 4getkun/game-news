@@ -1,33 +1,14 @@
 {
- "generatedAt": "2026-10-04T19:48:16.818Z",
- "count": 4207,
+ "generatedAt": "2026-10-04T20:48:17.141Z",
+ "count": 4211,
  "dedupe": {
-  "exact": 354,
-  "syndicated": 18,
-  "similar": 123,
-  "syndicatedTotal": 117,
+  "exact": 347,
+  "syndicated": 20,
+  "similar": 125,
+  "syndicatedTotal": 118,
   "syndicatedLeft": 22
  },
  "calendar": [
-  {
-   "date": "2026-09",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": "マーベル ウルヴァリン",
-   "title": "【9月発売PS5/PS4新作ゲーム】『マーベル ウルヴァリン』『空の軌跡 the 2nd』『The Blood of Dawnwalker』など最新作を紹介！",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wUGI1Z2lIU2RmQXc5NWxISm1BQzVrMTFiZHFLbXg2WEJRSTYwdHBNZ2xuRURSQkY0LU4taVpHWUpTNURmeWdvdDFJT0JjYXdvZ1Y3cVoxbw?oc=5",
-   "source": "famitsu.com",
-   "sources": 3,
-   "categories": [
-    "new"
-   ],
-   "platforms": [
-    "ps5",
-    "ps4"
-   ],
-   "spoiler": false
-  },
   {
    "date": "2026-09",
    "precision": "month",
@@ -54,7 +35,7 @@
    "work": "The Blood of Dawnwalker",
    "title": "【9月発売PC新作ゲーム】『The Blood of Dawnwalker』『空の軌跡 the 2nd』『サイレントヒル タウンフォール』など最新作を紹介！",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wTXRQbkVJYUJhWkFRaXhqVFFoTC15bGdfeDh3b01ObUs2SWJ6T3NCbGdKQ0tFYmNVenByQXpsdlNyN09hclVFeUZTZUp1UThhYUJTX1NKMA?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 2,
    "categories": [
     "new"
@@ -70,7 +51,7 @@
    "work": "ドラクエ11S",
    "title": "【9月発売Switch/Switch2新作ゲーム】『ドラクエ11S』『ファイアーエムブレム 万紫千紅』『鬼武者 Way of the Sword』など最新作を紹介！",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NQ19uRVB3WHE5WWFzN3hqRzJwVmxfNjZFQmdUUXJva1ZYWlRtd0dfR3hpRDctS1M0ZFVIMzF6bGIzNjl6eU1TT1k2eUQyd212MDZicWw4WQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 2,
    "categories": [
     "new"
@@ -78,6 +59,25 @@
    "platforms": [
     "switch2",
     "switch"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-09",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "マーベル ウルヴァリン",
+   "title": "【9月発売PS5/PS4新作ゲーム】『マーベル ウルヴァリン』『空の軌跡 the 2nd』『The Blood of Dawnwalker』など最新作を紹介！",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wUGI1Z2lIU2RmQXc5NWxISm1BQzVrMTFiZHFLbXg2WEJRSTYwdHBNZ2xuRURSQkY0LU4taVpHWUpTNURmeWdvdDFJT0JjYXdvZ1Y3cVoxbw?oc=5",
+   "source": "ファミ通",
+   "sources": 2,
+   "categories": [
+    "new"
+   ],
+   "platforms": [
+    "ps5",
+    "ps4"
    ],
    "spoiler": false
   },
@@ -154,7 +154,7 @@
    "work": "サカモトデイズ ミッション",
    "title": "【9月発売スマホ新作ゲーム】『サカモトデイズ ミッション』『お嬢さま回避2』『ラスト・セーフゾーン』が配信",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12M3FWZUFqUE5QYzd3Z2JXSmlJZXh3RC1JQ0JCbF9MYU9mYlo2Z1c1Q1JiUHRvTVY3SXJhZTBJSGNHc0NWRWMwTHlEaTA2VEo1TG5STnZJUQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "new"
@@ -1454,7 +1454,7 @@
    "work": "Minecraft",
    "title": "『Minecraft』の世界で始まる新たな冒険。『Minecraft Dungeons II』がNintendo Switch 2 / Nintendo Switchで本日配信。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajFNNkdvak0wUEtFaXA5bTlNSk1MUW9lV3kwU2liRndxaEd5TFNtYXVnUjZMamZLR1lDS250SWJhUlE3dHIzQ3d5MVdJVGFyYXlXenFVNEdLYTZCQmRZdEE4eTgtc21SUnlVWEFyYXAyRGN5bDNlWS1SU19kUUV4dE4zX3p6dw?oc=5",
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sources": 1,
    "categories": [
     "release"
@@ -2077,7 +2077,7 @@
    "work": "Nivalis Nights",
    "title": "『Nivalis Nights』サイバーパンク都市でラーメン屋を経営できるライフシム。住人たちと交流でき、ときには恋も見つかる？【9月30日発売】",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TNWRUMGxIM2k5OFRIYng2N0lCWWZyMVh5MUIyX3NIS1ZnelBzU2REZ21nb1dTS2Fuc0NoOXdtcFdQYlBlbC1FWF9jNDFpMDI5LUxaUVh1SQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -2294,7 +2294,7 @@
    "title": "【読者の声】2026年10月発売の新作ゲームは何を買う？―注目タイトルまとめ！",
    "link": "http://www.gamespark.jp/article/2026/09/26/172804.html",
    "source": "Game*Spark",
-   "sources": 6,
+   "sources": 5,
    "categories": [
     "new"
    ],
@@ -2310,7 +2310,7 @@
    "title": "「ニューゲーム＋＋」を10月に実装！『CONTROL Resonant』今後のアップデート計画が明らかに",
    "link": "http://www.gamespark.jp/article/2026/09/26/172791.html",
    "source": "Game*Spark",
-   "sources": 4,
+   "sources": 3,
    "categories": [
     "update"
    ],
@@ -2329,23 +2329,6 @@
    "sources": 2,
    "categories": [
     "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10",
-   "precision": "month",
-   "verb": "update",
-   "label": "アップデート",
-   "work": "Rust",
-   "title": "【本体50%オフ】新たな家畜や小動物などが追加される『Rust』2026年10月の大型アップデート「Livestock」配信！",
-   "link": "http://www.gamespark.jp/article/2026/10/02/173072.html",
-   "source": "Game*Spark",
-   "sources": 2,
-   "categories": [
-    "update",
-    "hardware"
    ],
    "platforms": [],
    "spoiler": false
@@ -2423,6 +2406,23 @@
     "switch2",
     "switch"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "Rust",
+   "title": "【本体50%オフ】新たな家畜や小動物などが追加される『Rust』2026年10月の大型アップデート「Livestock」配信！",
+   "link": "http://www.gamespark.jp/article/2026/10/02/173072.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "update",
+    "hardware"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -2597,7 +2597,7 @@
    "work": "肝試しオンライン",
    "title": "『肝試しオンライン』怪異が出る夜の校舎でみんなで肝試し。怖い目にあって視聴者を増やしていくオンラインマルチプレイホラーゲーム10月末発売予定",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFYmFaVkp1Sml5UXNNUXJLNlpqVkVISHFOcXN1eHYtWWdLLUtySXRINFlhMmJ2ZmdXaDlLRV9vcncxdk5YY29Lc0wtdkhRWGUzSW5CUzRaZw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -2643,7 +2643,7 @@
    "work": "8番出口",
    "title": "【アマプラ10月配信作品】ゲーム実写映画『8番出口』『マインクラフト／ザ・ムービー』。ジャンプ漫画実写『サカモトデイズ』などが見放題に",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bEMzNVdDVzU4bk5WcFR2cTFrUl9UOU5GMzAySWdhMGlXM1pJMVdJTGNOSHdxYk5yeG5LckEzWmNQYW5DamhfVFBRT1VYMFJ0WmRLMXYxZw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -3120,7 +3120,7 @@
    "work": "ゼノブレイド2 Nintendo Switch 2 Edition",
    "title": "『ゼノブレイド2 Nintendo Switch 2 Edition』のパッケージ版が本日より発売開始。アップグレードパス / ダウンロード版は配信中。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDR1LXNWQ0FwcUhVUEMyT0JCbzVpZGFRVXJzdVVubml4aFROY1VaNWZzNllGNDl1eXFfWDA2V25iRzhHWkprQm9ILUZmYkdhbURpRTRSaFhmYVpLVTd5SnpMMmtibzhneXkzdC0wc2RVNDV2Z1lrRThfNDdtbVNRLWVjSENyQQ?oc=5",
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -3227,7 +3227,7 @@
    "work": "夜の名前",
    "title": "『夜の名前』平成アーケード音ゲー文化を描いたテキストADV体験版が10月1日配信。特別実装のサウンドルームにて高音質のBGMが試聴可能に",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqaDFVUnJacjMtei1ob3RJZi1tTVdyZEU2eVJNd1lBYXJ1OWo2MktsMnN1WUFsV1JQemkwUnNwNTVVQXViRjZDWDRKUVZmdE1QWjF6R0F2Zw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "demo"
@@ -3475,7 +3475,7 @@
    "work": "エースコンバット8",
    "title": "『エースコンバット8』が本日（10/2）発売。“公式ガイド：基本操作編”も公開された。図解入りで飛行の基本から空戦のコツ、僚機への指示などを紹介しているので初心者でも問題なく遊べそう",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JYUV0bUZLWFVETWd3YmZ1Wm9aMnpnWTN0anRETXNDSUpTT2FUbG1KeDE5MkNjR3VuLTFCLXBrXzRPWHc5dHotTmFpQmIxVEpFN0ZwVnZCVQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 3,
    "categories": [],
    "platforms": [],
@@ -4155,7 +4155,7 @@
    "work": "魔法少女そらな☆マギカ",
    "title": "【まどドラ】初の完全新作ストーリー『魔法少女そらな☆マギカ』本日（10/4）配信。宇宙舞台の2225年、人類の運命を揺るがす本格ハードSF",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xWkRxZkFkSElUdVBsSUkyVExEOThqMUV5V3VzU0VGeVFoYWo4YlNfaHIwS29pdkxFZ1dfODRmMmhkZUYxTGVmY1lSbnlpWktTY2kxaHY1NA?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "new"
@@ -4213,7 +4213,7 @@
    "work": "マインクラフト ダンジョンズ 2",
    "title": "【10/4配信】青木瑠璃子とXBOXのTGS2026発表をチェック＆『マインクラフト ダンジョンズ 2』を遊ぶWeb生放送・ファミラボ特番を配信",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5VXJvalFSQ1hyNEQwX2l0MG1ZOGVfRV9sVGJjSlU2UTkzRi0wWnk4MDhfYm1XNTh2UmdLNGxnV2JGak0zNGlCZHRTeVBqVXRGZXUxeUdqQQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -4360,7 +4360,7 @@
    "work": "デジボク地球防衛軍2",
    "title": "【PS Plusフリープレイ】『デジボク地球防衛軍2』『Hello Neighbor』『F1 25』が10月6日より追加",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3ZVdNY1ZYeXh4SmI1cTN2SkVtemZMZjhpLXgyUmNMc3hlMzJLRXU2TlhxS05xb25UU2cxWXFMWDZFYlhna1BjcElFVTVveTVMN1NhY3JIaw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -4718,7 +4718,7 @@
    "work": "カピバラを整理しよう!",
    "title": "『カピバラを整理しよう！』4800体のカワイイぬいぐるみをひたすらお片付け。フルーツや恐竜など12テーマ・240種のカピバラが登場、10月8日にSteamで発売",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZUczNEN3bXV6d3FFMW5wLUYtUkowNmF4NUhaV0s1NU1uRU5nNE54Q3J1Mk5UQXh4S2FiMEJfQzA5VS1PX0FOUjc1TzREa1R1UHZPZ214Yw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -5138,7 +5138,7 @@
    "work": "都市伝説解体センター",
    "title": "【ふとみー】『都市伝説解体センター』新グッズにぽっちゃりになったあざみーが突如登場。10月11日開催のピクセルアートパークにて先行販売",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTS3RCN2hrUTlLTWNNWndxMWJkbWY5QXp2UHdKMDZaMVFudWczc0RHNDczSi1mRTRYWE9rbWFlRGFqY3FmVXVPam1YZk5uY2taeFZGNVR0aw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "collab"
@@ -5587,7 +5587,7 @@
    "work": "バイオハザード",
    "title": "『バイオハザード』のリメイクシリーズ『RE:2』『RE:3』『RE:4』のSwitch2版が10月16日に配信決定【Nintendo Direct 2026.9.9】",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNcXh6d0lKRWJ1Y0dFcnhUbVZIWWNiLUx1TmtHWENlaG8xRGtoalRmUktZMmZ3WTdoUEdQVi1WRVg5ejBUeG5qWUphRmFVOV9NRUJvYTlmMA?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "new",
@@ -5834,7 +5834,7 @@
    "work": "ファイナルファンタジーVII リベレーション",
    "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mWU5CQk5kUTBPRU9yajd2X0xyN0UtbmtadHpvMkktRVZycFpEN1ZjS0dpdWE2MjJocUtKYUthSmRKY0NvUXd4OGZwbWR2aHBDV29uNTFNcw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "demo"
@@ -5896,7 +5896,7 @@
    "work": "アビスリング",
    "title": "『アビスリング』モンスターを料理するダンジョン探索アクション。オークはとんかつ、ミノタウロスは丼、スライムはゼリーに調理【10月26日発売】",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUc29YZ2tZUlJKRGctVENuWE9acENTbDJvbEJ4eDhQQlAwQkk4aVUzMDlWWjRMQWFWNWk2R0J6QlBDSXJDQlZhM3AzRDFWYkRqVVdJc1UxSQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -6202,7 +6202,7 @@
    "work": "ゼルダの伝説 時のオカリナ",
    "title": "Nintendo Switch 2『ゼルダの伝説 時のオカリナ』は11月5日発売。「ゼルダの伝説40周年」特別デザインの「Nintendo Switch 2」や周辺機器も10月29日発売。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnRDVjRPVHljRnJtTlB4eHVyeklPYnFZNmNiSkRhM2NyamRFQ1ZuczRvZHowbFdWVFFMaGsxTUtpMW14R0xJNUFhWGNlYy1lTFo1UDdTRmRaOHFYU3ByYTFVYUZ4ZEd0WV9BMjNqalI3ZjZGUk1TTDRaMGR4c3hobmtSYjQtUQ?oc=5",
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sources": 1,
    "categories": [
     "hardware"
@@ -7015,7 +7015,7 @@
    "work": "ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定",
    "title": "『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』を11月12日に発売。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjNzcEplRXVQSHhOb2VtaXpQNFM5T1NGTGNuRDB4ZFVSd2VGQUpVMnZSZm5RMU1rX0MxU2Ewa2pZRW1sTVVKLUxkU3E1ek90eTctbHRQTkp1TUJEWkZ1WHVTLUV4eDRXVmlMWllqWkdGZG1LTW14Z2NJZXpWQ3JPcUdJSXJTUQ?oc=5",
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -7226,7 +7226,7 @@
    "work": "ウェイ オブ ザ ハンター2",
    "title": "『ウェイ オブ ザ ハンター2』PS5パッケージ版が11月26日に発売。頼れる猟犬を相棒に北米とアフリカの大自然でハンティング",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtblpIcHZ1SWY5RmNuTkFWMTFUNzZVdXdzdUNOSWVzNW5jX2xNaVRMV012em1ETmhNUG1qTVRvRVBjclh3VGgybHpCM2tUSi1mU1BwZmt5WQ?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -7470,7 +7470,7 @@
    "work": "サイレントヒルf",
    "title": "『サイレントヒルf』公式設定資料集が12月7日に発売決定。秘蔵の設定素材と資料をたっぷり掲載＆開発スタッフ・出演キャストのインタビューも！",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ca1dzNFQyMG1uNUhGOVdzVXpBNTVJZS14YTFXYU1HY3dVRXpscVBDS0R0dVBCZ1h3VlBabmlPMS1faWh0YS1hQno4cDZWZ2NqUlIxUUxwZw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "release",
@@ -7556,7 +7556,7 @@
    "work": "ぼくは航空管制官 エアポートヒーロー 成田×ANA",
    "title": "『ぼくは航空管制官 エアポートヒーロー 成田×ANA』Switchで12月10日発売。舞台は成田国際空港、ANA国際線40年の歩みを振り返れる資料室をゲーム内に用意",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YSnJBelIyZ1FYenJUZHFGUzItWXFhanNXMml3bDRKSldteHZ1Vk5wa3ZXV2NPY2dONXpFYlA4U0hsQ2I1bTQ5OFpWNWNvMDctN09ZZUEtYw?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -7675,7 +7675,7 @@
    "work": "タイズ オブ トゥモロー",
    "title": "『タイズ オブ トゥモロー』PS5パッケージ版が12月17日発売。ほかプレイヤーの選択が物語に影響するナラティブアドベンチャー",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ObUt5RlhGYzNXaS1VeFBmRU9vbnFIaExVVUZZbm82UW8yOGxOSVVIYy0tRGxaQi05QkZONEZuUm1uMHFKWXM5NEhSOEliZmd2NldvQlNsMA?oc=5",
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [],
    "platforms": [
@@ -8047,7 +8047,7 @@
    "work": "メトロイド ラヴェナス",
    "title": "喰うか喰われるか。メトロイドの力を宿したサムスのサバイバル。シリーズ完全新作『メトロイド ラヴェナス』がNintendo Switch 2 で2027年1月28日に発売決定。",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXVmc2RlcE9XSl9qNjR0amdmY0RKYVNzMjhBOHNSdVdfVmdzUnhXeWRlNlV4TU5lREE2YUNmNUJ3QWp1U1JKdktCakJQVjgzcnNXNTkxcjQ0X0ZVempLenl6blR5WEstWjJfbDVYT2FpWGNJU193SDRvcEZSOXR5UVY1WFNtQQ?oc=5",
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sources": 1,
    "categories": [
     "new",
@@ -8551,8 +8551,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 385,
-   "accepted": 300
+   "archived": 386,
+   "accepted": 301
   },
   {
    "id": "gnews-ps5",
@@ -9041,7 +9041,7 @@
    "pubDate": "2026-10-04T15:00:00.000Z",
    "firstSeen": "2026-10-04T18:48:45.567Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -9058,7 +9058,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WLXl4TTN5V1djUlFiWjB4dWZWdW9rdW1jRGw1cy1KUWZremRDZFJjTWZHSVhCSjZoTUE0LUdPYTUxNnJzbEtqS1ZHSWN2NUhPTVh0RWJXbw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -9189,7 +9189,7 @@
    "pubDate": "2026-10-04T13:00:00.000Z",
    "firstSeen": "2026-10-04T16:48:09.980Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -9206,7 +9206,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xWkRxZkFkSElUdVBsSUkyVExEOThqMUV5V3VzU0VGeVFoYWo4YlNfaHIwS29pdkxFZ1dfODRmMmhkZUYxTGVmY1lSbnlpWktTY2kxaHY1NA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -9387,7 +9387,7 @@
    "pubDate": "2026-10-04T11:20:00.000Z",
    "firstSeen": "2026-10-04T14:48:13.524Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -9413,7 +9413,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZdVRqVTd5bTg5NXFEVVZFTDF4TzNKRFN0YXI5Y3l4eFVBNG5Sd0hTOTRyTkRpV1hGODY0azhKcGp4NW1FYkFGQ2d0OUFpZkdkamJrc0JSZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -9778,7 +9778,7 @@
    "pubDate": "2026-10-04T09:10:00.000Z",
    "firstSeen": "2026-10-04T12:48:10.908Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -9795,7 +9795,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRVNWcFFjMmVRdWFGU3ozRzl6UnRCcHlJU3NNMVl4Q3p4ekdERkcxUS1JUjM3OVZGZExqOHZxRFV1Z3lvZGpkNVY5RFR4UVc3VFFBbWxXSQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -9948,7 +9948,7 @@
    "pubDate": "2026-10-04T09:00:00.000Z",
    "firstSeen": "2026-10-04T12:48:10.908Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -9965,7 +9965,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBQzBwXzRGLVJycFpWdnRGVndBODZ2RHN5bzJjNUJtcHhjZGY2SnBVMjliUEV6NUptWmZJOVhEWGw3Zm5pc3dZSjI3aGlNR1hYWWhnb19lRQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -10253,7 +10253,7 @@
    "pubDate": "2026-10-04T07:40:00.000Z",
    "firstSeen": "2026-10-04T11:48:11.798Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -10270,7 +10270,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ueTNEWE1ESTM5VElVZlpSXzVUWVFNajA4X3FHYXhIc1Biel9FWHk5UklvdmFmc05ybHIxTV9xZjB5VXoyRVFDMnFaMzF4MVoyMWtsR1hobw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -10422,12 +10422,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/04/188729.html"
-    },
-    {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jd2JaekdyZXdBMnhFQ1U0WlZsQWpFYXhpQzEtMnFWa0RIX2pGbWtiZm42QTZBVFFxQUtXUm5WMHhjdXd6TUVFUkpMWG1TTFJnb2ZDMDA0U2wyR09GQmEwajJLQU1DZw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
     },
     {
      "name": "ｄメニューニュース",
@@ -10657,7 +10651,7 @@
    "pubDate": "2026-10-04T04:20:00.000Z",
    "firstSeen": "2026-10-04T08:48:25.091Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -10674,7 +10668,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTS3RCN2hrUTlLTWNNWndxMWJkbWY5QXp2UHdKMDZaMVFudWczc0RHNDczSi1mRTRYWE9rbWFlRGFqY3FmVXVPam1YZk5uY2taeFZGNVR0aw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -11020,7 +11014,7 @@
    "pubDate": "2026-10-04T03:00:00.000Z",
    "firstSeen": "2026-10-04T06:48:28.081Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -11035,7 +11029,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11QkpUSzFjY05CbEwyanhYc2ZxTFQ5RHRyYTA1dDI4M09pZnlPNU1jQTdkM1ZRS19NeWRqWGV5M0ZrQmZqRFRXaGt6VDgxZ2Q5cmRISEtwQQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -11252,7 +11246,7 @@
    "pubDate": "2026-10-04T02:30:00.000Z",
    "firstSeen": "2026-10-04T06:48:28.081Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -11270,7 +11264,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DOVUtWV9Sb2VHSlBsWFNMX2puWGlScXMwU19UTzRsTHhMR3E5S0dtNjNiQXlRVnhKdFM2YjFzaG1xREswUHBaQU1NamJxcmZSRTdBanZscw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -11374,7 +11368,7 @@
    "pubDate": "2026-10-04T02:00:00.000Z",
    "firstSeen": "2026-10-04T05:48:25.522Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -11389,7 +11383,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JNHBtVHRzTWJqMHBmWHloM0thNU80WWE5dWFzc1U1UDYxZUNselQ0eDEyWjkwbHZUWHl5RjByaE5zTTVTQUw3NFdReVdQMTFBVEliYkhVbw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -12666,7 +12660,7 @@
      "link": "https://news.denfaminicogamer.jp/news/261004b"
     },
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YNGFWdHBKUTluYTlYVHNqNDJhN0hkRmhwOVNYaGM2X3o1bWdmMjNTd1VwbGtaUkJfMHR5bEVRTzh3RXVwLWhHV0FWSUZYSVM5TTZrVDg4MA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -13348,7 +13342,7 @@
    "pubDate": "2026-10-03T11:00:00.000Z",
    "firstSeen": "2026-10-03T13:48:13.449Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -13363,7 +13357,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93MDlqZU41WVRYZmNwOXJ1STdEd29uMC1XY0h2QTg4V05Dbm82MUh1YkZiZm0yYk1Gbk1teVZyWjRHSlpGZVEyLVduNXNfQjh4SmdLZHJCbw?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -13607,7 +13601,7 @@
    "pubDate": "2026-10-03T09:30:00.000Z",
    "firstSeen": "2026-10-03T10:48:09.086Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -13625,7 +13619,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SMUM4Z2x5cWtsdElvalF2MURKSHhxcTEwUTAtMVQtVE9BdGRHUExxTnNueVNBMkh6OGktVVJ1YU5DR2VyanBxSnhjMUZLRDAwaEd1b3ZSTQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -13710,7 +13704,7 @@
    "pubDate": "2026-10-03T09:10:00.000Z",
    "firstSeen": "2026-10-03T10:48:09.086Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -13728,7 +13722,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8waEpUU04zYXhtRGRzVFVqVUZDQmNyLWVOUzY5SEVFQzVHVkZ2d055TFd0WEhyWFBldE1fcW5USnVaSThZYS0xeVVZSTJ2aV9fWUQ5M241WQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -14276,7 +14270,7 @@
    "pubDate": "2026-10-03T07:15:00.000Z",
    "firstSeen": "2026-10-03T07:47:51.542Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -14294,7 +14288,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42ZWZsREx3MlRDUnV1WENoR0VNbHdVS0FFX1RFQmh1LVlwUGNOUnF4a3I5YmhYclNNbGw4OWRWVUd1bnVjWGgtcHVZSV9wN3FuUmVRS2lkQQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -14334,7 +14328,7 @@
    "pubDate": "2026-10-03T06:55:00.000Z",
    "firstSeen": "2026-10-03T07:47:51.542Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -14351,7 +14345,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FVXRIQlEzNGdORGRwQW1LZ3F3bU9lcy14TEFoQUM2VHBtQnZHYmNrQjgyOUI4TElSUVBJUHZMLXFvUFZOQUdObmZVR2RGalNoNXR4RmNoOA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -15263,7 +15257,7 @@
    "pubDate": "2026-10-03T03:00:00.000Z",
    "firstSeen": "2026-10-03T03:47:52.455Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -15280,7 +15274,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuSjZIYzBsRGRzeHRSYVJZVVdsQ3FGellBR2RubzdZblVMODN4a1pPQ2ZFUU5oZ1ZUUmxlTjYwd1VUdGlyX1lNZ25OZTVwNHFVMHVxWmZHUQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -15353,7 +15347,7 @@
    "pubDate": "2026-10-03T02:31:00.000Z",
    "firstSeen": "2026-10-03T03:47:52.455Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -15379,7 +15373,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83bU1jTmJKQ1FjYllPNVpfemtENm1BZ3B0YU1iMDBfWW9pZHNob19BNWpVWE1CejNrVXpVazRhMC1GTFYyS1oyMnRRUmhWMFM3UUlsLTNobw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -15583,7 +15577,7 @@
    "pubDate": "2026-10-03T02:05:00.000Z",
    "firstSeen": "2026-10-03T03:47:52.455Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -15603,7 +15597,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiY2RBQWk4eG5UOGhRMm14S3VoVFhhcTlnY010SlM0NElqeVQxYmZCMTFITVpGM1BYd1ZqdHBWbm15cnp3alhwdUlMNHhUMDJWRWduUDd4TQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -18254,7 +18248,7 @@
    "pubDate": "2026-10-02T14:30:00.000Z",
    "firstSeen": "2026-10-02T17:48:13.121Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -18271,7 +18265,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03cDBZUmJBaTNpa1BLQnJnamJiemdnS1RjNXFpRXplcGxGWURMbjdUVElQc1FTYjB6Ykg3NktMSjZxVmJfM1ZXdHVmc2VBMVpTZWw4RXF0SQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -19120,7 +19114,7 @@
    "pubDate": "2026-10-02T12:50:00.000Z",
    "firstSeen": "2026-10-02T13:48:16.627Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -19135,7 +19129,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UMFI5Unh4bmpleWd2U1VMMHpJUnJZT3U4T3JzczhoV2xXNDRhUTZMWU1EejB1NmRZbmNPTlplbElKWHRkMGlWQlo2alQ2UlR1LXBJbThtVQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -19410,7 +19404,7 @@
    "pubDate": "2026-10-02T12:10:00.000Z",
    "firstSeen": "2026-10-02T13:48:16.627Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -19435,7 +19429,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDRkdmd2h1YmR1bk01Mk0xdVppY0U5akdZQ2pqTU5RRlJXd29jMGJuTHZySk9EY0xoVFRseWJQalpNYTBlYm1LZ080V3AxQzBRbkF1dTgwQQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -20350,7 +20344,7 @@
    "pubDate": "2026-10-02T10:30:00.000Z",
    "firstSeen": "2026-10-02T11:48:18.398Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -20368,7 +20362,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mWU5CQk5kUTBPRU9yajd2X0xyN0UtbmtadHpvMkktRVZycFpEN1ZjS0dpdWE2MjJocUtKYUthSmRKY0NvUXd4OGZwbWR2aHBDV29uNTFNcw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -20829,12 +20823,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/02/173084.html"
-    },
-    {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQXN6U3FSVnNjTWQ3cU9zTnQ1SzNUSXZaT3FnMkNHeDRFQWIwS055M09wLTJoTnBYSmdxdnB3ZmstZjNnczNySUdIc1BvWC1XZkZhVWFfX1VLUFEzNnhQSEZQVlhOUQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -20948,7 +20936,7 @@
    "pubDate": "2026-10-02T10:00:00.000Z",
    "firstSeen": "2026-10-02T11:48:18.398Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -20973,7 +20961,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4teGtITUptQTVjMThmZF9fOUZFZlFwSWY1R2pGVGl1OENjRlJWZ1dubF9MeFhJaFVzS296VC1IYkZzeEJKQk8wODlLUnBLNWZzbjR0eEdNMA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -21197,7 +21185,7 @@
    "pubDate": "2026-10-02T09:40:00.000Z",
    "firstSeen": "2026-10-02T10:48:13.574Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -21215,7 +21203,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94VkRkV3VEalo5ZFlycWlZaXk5WUhjc2RyTmRMbFo1eHA1aV9OSmM2UzRWZWVTOERiY3lSZVRwdnNILXlIaDdKVktWb0ZHQUxqUF9JVHc1QQ?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -21229,7 +21217,7 @@
    "pubDate": "2026-10-02T09:40:00.000Z",
    "firstSeen": "2026-10-02T11:48:18.398Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -21246,7 +21234,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YSnJBelIyZ1FYenJUZHFGUzItWXFhanNXMml3bDRKSldteHZ1Vk5wa3ZXV2NPY2dONXpFYlA4U0hsQ2I1bTQ5OFpWNWNvMDctN09ZZUEtYw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -21423,7 +21411,7 @@
    "pubDate": "2026-10-02T09:30:00.000Z",
    "firstSeen": "2026-10-02T09:48:18.848Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -21444,7 +21432,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Vd3prVWtDSWJTNEYwTHU3TG8weTN2OXNZRUp1Z1lWc3l1QXItLWVLT3NZdXY4TEY3OV8tRFpjSlhSbW1Qdlh3cWpqNWtJeG1BRGZ1dXNWOA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -21816,7 +21804,7 @@
    "pubDate": "2026-10-02T09:10:00.000Z",
    "firstSeen": "2026-10-02T10:48:13.574Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -21833,7 +21821,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KWHU3RUtnRzlMSkxVU0RNbzFEdlU2VjV2bkMtMTNTYll1a2E4QXhaSXhyNWtfSVNqQjFPczlITnRLVXpRUXBrNHNTLUZSbWFrYUk0dURRZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -22043,7 +22031,7 @@
    "pubDate": "2026-10-02T09:00:00.000Z",
    "firstSeen": "2026-10-02T12:48:15.131Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -22061,7 +22049,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CM3F3b0tLZ2R1OUxXSGhQWE02N2ZMQlBpVk45eTJFR3NEbWpHSXdlNF9fYTc0UHlXSG01NFU5SVotSjFTVmlLRVI3WjFWT2JQd19NdHp6aw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -22161,7 +22149,7 @@
    "pubDate": "2026-10-02T08:50:00.000Z",
    "firstSeen": "2026-10-02T15:48:17.646Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -22178,7 +22166,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvMGo3TVVPdTN4N0d6NGNKZ1k3ejhhMWZVTklFOG5KUER3M29ua2JPaERlR2l0cE5HNDZtb2RIbWpVQ2M2cVJxZ0hTa2RqSWRTQ3lXSXBUZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -22751,7 +22739,7 @@
    "pubDate": "2026-10-02T08:23:21.000Z",
    "firstSeen": "2026-10-02T08:48:20.586Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -22768,7 +22756,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTZVV3aTB4RXdSYzVSTU1xTllPcUtKVlF3Qnc5RlFFSVJlLTJyVGNJaDVRNzZnQzgtUkxydVpIdmUwbENPVnVHSHN5NVUyVFhuU1puSmNJNA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -23048,7 +23036,7 @@
    "pubDate": "2026-10-02T07:52:00.000Z",
    "firstSeen": "2026-10-02T08:48:20.586Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -23065,7 +23053,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZUczNEN3bXV6d3FFMW5wLUYtUkowNmF4NUhaV0s1NU1uRU5nNE54Q3J1Mk5UQXh4S2FiMEJfQzA5VS1PX0FOUjc1TzREa1R1UHZPZ214Yw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -23522,12 +23510,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/02/173072.html"
-    },
-    {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iQmc1WmVfMW1iS3N3bExZNi1BQnZ1TXBqS1ozdVZ6VUg2UWxIYjZ3UVNfeS1XdW0zZlR5Znh0Ulp0bGZaN3VNMmFFX1ZTMkJzMExWaXJNcUdWZUFhRUZ6S3MteW5GQQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -23726,7 +23708,7 @@
    "pubDate": "2026-10-02T07:00:00.000Z",
    "firstSeen": "2026-10-02T07:48:12.577Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -23744,7 +23726,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtZnpvV05DYkY1VGNWcEJSNnowNGhYYndLT0tYVnRqcFp5b2Fad3duX3JCcnhhZWNRTmprVENwVUxFRWdNNTRaUk5lMkdhdHNfdXlsRGhmZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -23758,7 +23740,7 @@
    "pubDate": "2026-10-02T06:58:00.000Z",
    "firstSeen": "2026-10-02T08:48:20.586Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -23786,7 +23768,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HRFlNbC1TWGowOFB4Rml1THN0MXROYU9HLXc5b295OFFnVXloZElFQ3pqb3VuLUxUMFk3RXhiUUZsMTgtcXBWM3lCSjkyMEQ3RjdPX3NNZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -24172,12 +24154,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/02/173069.html"
-    },
-    {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yWHBpVUlYNVd3Tndma0dFZ2JHU3hxZE01WEhwWjVmRHpQSnRNanhPZ2ZHdDRlRGVMZnJ3VnRFU01DXzdoNm5kUWVjVHZ4N1FvbS1nVDhfMnJTR3dPQVBOUkpUV1FPZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "千葉テレビ放送株式会社",
@@ -24883,7 +24859,7 @@
    "pubDate": "2026-10-02T04:41:00.000Z",
    "firstSeen": "2026-10-02T05:52:51.823Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -24898,7 +24874,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QY2F5Rk14R3BnRWVMWlpYVzRPdkZmMVMxVjhOTm16QnVmNldnalNJaTVra1pOU051RmRfbEJJa1VWOGNHam1rcTZ3YUJaaFctZ1dxeE82SQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -24912,7 +24888,7 @@
    "pubDate": "2026-10-02T04:40:00.000Z",
    "firstSeen": "2026-10-02T05:52:51.823Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -24925,7 +24901,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qZl85NXR2c012RFk0OE1DSjBZRlRRemNmUUFFZTNVdnRrbjkyZ3VMdzVGT3phblJRNjEzd0E5VHhIT2pkMDBhUmI2dDg5Ri14ZFFDQ1drWQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -26260,7 +26236,7 @@
    "pubDate": "2026-10-02T03:02:39.000Z",
    "firstSeen": "2026-10-02T04:48:12.742Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -26278,7 +26254,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ca1dzNFQyMG1uNUhGOVdzVXpBNTVJZS14YTFXYU1HY3dVRXpscVBDS0R0dVBCZ1h3VlBabmlPMS1faWh0YS1hQno4cDZWZ2NqUlIxUUxwZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -26758,7 +26734,7 @@
    "pubDate": "2026-10-02T03:00:00.000Z",
    "firstSeen": "2026-10-02T03:48:26.258Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -26775,7 +26751,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aVzdpMk9pVWhiaExCTFVyaDlWdTBkX1F0Uzc5WnExWkdNci1RTWJUVFRyNVFhS3AwOTdkemdfZE9iay1rUF8ySzFOTF9USy1wUFdSenprVQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -27173,7 +27149,7 @@
      "link": "https://game.watch.impress.co.jp/docs/news/2145098.html"
     },
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlRNak9EWmNKVXo4a3lqVHBCeFcxaUFMZXNnR1ptdFRJOHU2R1NUeTVZVHB5d3AybHY3TmY2Mkt1LVhvS1ZDcVBVcWgtd3dmZnNmaVNpZlRiY2dCWUM5RmhwUnp2SXZObXg3a294bmFNVGdnbDd4cTBLZ3VGMXhGU3BmSGhyUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -27286,7 +27262,7 @@
    "pubDate": "2026-10-02T02:10:00.000Z",
    "firstSeen": "2026-10-02T03:48:26.258Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -27301,7 +27277,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JYUV0bUZLWFVETWd3YmZ1Wm9aMnpnWTN0anRETXNDSUpTT2FUbG1KeDE5MkNjR3VuLTFCLXBrXzRPWHc5dHotTmFpQmIxVEpFN0ZwVnZCVQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -31041,7 +31017,7 @@
    "pubDate": "2026-10-01T16:41:00.000Z",
    "firstSeen": "2026-10-01T18:47:45.931Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -31059,7 +31035,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sMTBHQ3RpcDVNYWlBZC0xblZYVUxzUWhsQXFfZ0JoYmU2SUNPb2JPQ013MUtDZGZERG9qTnRYZnpSdXVaQkxhczVLT1VsUk1uWGcyWUNrOA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -33944,7 +33920,7 @@
    "pubDate": "2026-10-01T13:00:00.000Z",
    "firstSeen": "2026-10-01T13:47:49.430Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -33964,7 +33940,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rWjZROW50X3pUMUc3cnFrOTNuc0JJUThHWFEtVG9wLWo5N3FWQzktZ3RwVzBwQmViZGw1RlFGcGxYeTBnOVotT1BEWUJRNkFaUmhPclRtNA?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -33978,7 +33954,7 @@
    "pubDate": "2026-10-01T13:00:00.000Z",
    "firstSeen": "2026-10-01T13:47:49.430Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -33995,7 +33971,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ObUt5RlhGYzNXaS1VeFBmRU9vbnFIaExVVUZZbm82UW8yOGxOSVVIYy0tRGxaQi05QkZONEZuUm1uMHFKWXM5NEhSOEliZmd2NldvQlNsMA?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -34119,7 +34095,7 @@
    "pubDate": "2026-10-01T13:00:00.000Z",
    "firstSeen": "2026-10-01T14:47:42.414Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -34136,7 +34112,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LU3lsZG5BY0tiTkNNXzFmV1ZsbzdpYWN2ZWk5anY4SHR6dGkzdHpJRzVpczFBYWo0Z1Bra3NLNjZOazhNM2hPTlNqeDBmUUQ4QW5xcjMtRQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -34203,12 +34179,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/01/173031.html"
-    },
-    {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04Qno0elA0VGhwc0U1eFZlcHFqdF8temV3Z2oxUTVhR0kyTzBsSndXWVNPNWlmczF6VTd5bTR2Z0FwWTA0VGdjZkFJcEg2OUVhNFdyRUNOZ3RGd2NWNDM0emhxYWJnUQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -37095,7 +37065,7 @@
    "pubDate": "2026-10-01T09:28:00.000Z",
    "firstSeen": "2026-10-01T11:47:45.648Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -37110,7 +37080,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NRmdsWmlVZ25OQ3NsSUNaeXo0UEtmTUVZRW0yNFJ6ZmhaQ2o5RFgxSkRsejRvZFA5ZWlIRFlsQm9EOHRHUTRtOS1mdk9JSkJMampDV0wydw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -37808,7 +37778,7 @@
    "pubDate": "2026-10-01T08:28:00.000Z",
    "firstSeen": "2026-10-01T09:47:41.389Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -37826,7 +37796,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0Y0ZEVFcDZsTDM3QldocHhFSXk4bi0xLVRUX3RKbENuN3FseDBsSXlnSy1vMGNPa2kzZzdfSzE1RDVqb3FUNXA3TlNzOTcxMG9ZM2c3TQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -38902,7 +38872,7 @@
    "pubDate": "2026-10-01T07:00:00.000Z",
    "firstSeen": "2026-10-01T09:47:41.389Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -38920,7 +38890,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LWEdveVRGRjRjX25GLVJqZl9tbFZrdDFVWW53Y0sxQ1c0ZVNkMW0xTjJocTZqMFdLSjVwRTc5VXJxOFJQM3EzMzRqcS03T1Y5WXRxdVdGdw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -39238,7 +39208,7 @@
    "pubDate": "2026-10-01T06:38:00.000Z",
    "firstSeen": "2026-10-01T08:47:46.262Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -39253,7 +39223,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUc29YZ2tZUlJKRGctVENuWE9acENTbDJvbEJ4eDhQQlAwQkk4aVUzMDlWWjRMQWFWNWk2R0J6QlBDSXJDQlZhM3AzRDFWYkRqVVdJc1UxSQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -40146,7 +40116,7 @@
    "pubDate": "2026-10-01T05:21:00.000Z",
    "firstSeen": "2026-10-01T06:47:41.093Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -40161,7 +40131,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mVVlIZC1FTDRQcDBQNlZIQS0zdndua0lYeGc5bTNKbWhuUDkwajF4QUw5ZnhQM0dpNlV1djFLRXN0bTB4cGlwQnB1RHNHSFRnZWh1bEdhVQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -40405,7 +40375,7 @@
    "pubDate": "2026-10-01T05:00:00.000Z",
    "firstSeen": "2026-10-01T05:47:39.657Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -40424,7 +40394,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeHhUSGhrOS1sVmNzREZtSmh5VGUwQkM1S0xZODhiOGowSmNlRkR5YldMX2UzblRhWWN2d3JjUmYtNTBvTGxIRENiYVBsYUdWcDJZR085bw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -41065,7 +41035,7 @@
    "pubDate": "2026-10-01T04:06:28.000Z",
    "firstSeen": "2026-10-01T04:47:33.666Z",
    "image": null,
-   "source": "hashout.jp",
+   "source": "shiritomo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -41084,7 +41054,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "hashout.jp",
+     "name": "shiritomo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ZQ2FCcnZXN0ktQWtMYnlRS0RNNEN4bjFYMXNRMF8zT0VmUWtWTGE2WkJSTnNzSVpCM2V2MnhURl9OeXJu?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -41281,7 +41251,7 @@
    "pubDate": "2026-10-01T03:49:00.000Z",
    "firstSeen": "2026-10-01T05:47:39.657Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -41298,7 +41268,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3ZVdNY1ZYeXh4SmI1cTN2SkVtemZMZjhpLXgyUmNMc3hlMzJLRXU2TlhxS05xb25UU2cxWXFMWDZFYlhna1BjcElFVTVveTVMN1NhY3JIaw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -42363,7 +42333,7 @@
    "pubDate": "2026-10-01T03:00:00.000Z",
    "firstSeen": "2026-10-01T03:47:31.993Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -42390,7 +42360,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqRFhYUzVHTzR3ZlAwMVRyczlhZ0Y5OGhXYi1KeFZLaVRDU1NsV2ZaSVB5MTBwV3BtcGo0dTRBb3VHVzdVOEthY3k3U0NZenpid1hMUldOYw?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
@@ -43673,7 +43643,7 @@
    "pubDate": "2026-10-01T01:17:17.000Z",
    "firstSeen": "2026-10-01T04:47:33.666Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -43690,7 +43660,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDR1LXNWQ0FwcUhVUEMyT0JCbzVpZGFRVXJzdVVubml4aFROY1VaNWZzNllGNDl1eXFfWDA2V25iRzhHWkprQm9ILUZmYkdhbURpRTRSaFhmYVpLVTd5SnpMMmtibzhneXkzdC0wc2RVNDV2Z1lrRThfNDdtbVNRLWVjSENyQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -44065,7 +44035,7 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "digitalpr.jp",
+     "name": "Digital PR Platform",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBLNW05WktYOHctejlXZXZ0MGFENlc1cVg3aFJ1aFBsQ3BILVhibl9PTlRSUFh0R21MMUV6ZWVoenpaUEk?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -44705,7 +44675,7 @@
    "pubDate": "2026-09-30T23:00:00.000Z",
    "firstSeen": "2026-10-01T03:47:31.993Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -44720,7 +44690,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FaUtGdVNaZzBHTHNPMXZzd1dSc3ZNa1hubGx4V3BsZVBudWRHWjVuN0hVRjFVT2RXcENIeHlISFd1Q0pQV2dNWmg3Xzl4ZmJnQ0lKSlJpdw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -47179,7 +47149,7 @@
    "pubDate": "2026-09-30T15:00:00.000Z",
    "firstSeen": "2026-09-30T17:48:15.354Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -47196,7 +47166,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqaDFVUnJacjMtei1ob3RJZi1tTVdyZEU2eVJNd1lBYXJ1OWo2MktsMnN1WUFsV1JQemkwUnNwNTVVQXViRjZDWDRKUVZmdE1QWjF6R0F2Zw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -48462,7 +48432,7 @@
    "pubDate": "2026-09-30T13:00:00.000Z",
    "firstSeen": "2026-09-30T15:48:20.199Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -48477,7 +48447,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFYmFaVkp1Sml5UXNNUXJLNlpqVkVISHFOcXN1eHYtWWdLLUtySXRINFlhMmJ2ZmdXaDlLRV9vcncxdk5YY29Lc0wtdkhRWGUzSW5CUzRaZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -49536,7 +49506,7 @@
    "pubDate": "2026-09-30T11:00:00.000Z",
    "firstSeen": "2026-09-30T11:48:14.429Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -49555,7 +49525,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WaUpsRVMtdkhKYVhXblJzck5GYnBObmVmWlJlOXd1SU5yWTM5Ui1hRXlPMVJ5bXllWXo3U0pWa1hhbUVJSFUyVFRWX2ZrWk9YRjZ1enlKcw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -50917,6 +50887,34 @@
    ]
   },
   {
+   "title": "ゲームアップデートのお知らせ(9/30 18:00実施) - news.fate-go.jp",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JR21NQzBRRTVUNEhlRnk5LWt2U0xTZk1PUmdONmt5M2tUUWNuT1h6ajFIakFDdzdobktOVnROWTJhbWM3V3FxSGxMU2lXLVc1U1kyTg?oc=5",
+   "pubDate": "2026-09-30T09:41:04.000Z",
+   "firstSeen": "2026-09-30T13:48:31.760Z",
+   "image": null,
+   "source": "Googleニュース「ゲーム アップデート」",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「ゲーム アップデート」",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JR21NQzBRRTVUNEhlRnk5LWt2U0xTZk1PUmdONmt5M2tUUWNuT1h6ajFIakFDdzdobktOVnROWTJhbWM3V3FxSGxMU2lXLVc1U1kyTg?oc=5"
+    }
+   ]
+  },
+  {
    "title": "製造業の蒸気低炭素化を支援する電気ボイラー「g-Steam(TM)」の展開を開始＜English follows＞",
    "summary": "東洋エンジニアリング株式会社（代表取締役 取締役社長 CEO：細井 栄治、以下TOYO）は、原子力発電所向け設備として長年培ってきたチューブ式電気ボイラー技術を「g-Steam(TM)」としてブランド化し、製造業向け...",
    "link": "https://prtimes.jp/main/html/rd/p/000000270.000107878.html",
@@ -51467,7 +51465,7 @@
    "pubDate": "2026-09-30T09:10:00.000Z",
    "firstSeen": "2026-09-30T15:48:20.199Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -51484,7 +51482,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5VXJvalFSQ1hyNEQwX2l0MG1ZOGVfRV9sVGJjSlU2UTkzRi0wWnk4MDhfYm1XNTh2UmdLNGxnV2JGak0zNGlCZHRTeVBqVXRGZXUxeUdqQQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -51697,7 +51695,7 @@
      "link": "https://prtimes.jp/main/html/rd/p/000020262.000007006.html"
     },
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yYkVrWW9YcmRxcUNvMXdiblM2WV9oOHRaTnJwdTNxYnRLeWkzSklSOTZ4U2RhY2poanRxQVZPMW5pOTNnb3Z4REZ3RWtvLWlraTlfdTNrNA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -53305,7 +53303,7 @@
    "pubDate": "2026-09-30T07:15:00.000Z",
    "firstSeen": "2026-09-30T08:48:14.889Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -53322,7 +53320,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRSmg4Uy00S0xSQV9VZXRKd2NETDMxZ3pQTHFveXZvYWx3Z2VqSlVudHQ4NVYzWlloT1FmWFl4SnpSTGU5RGhnYW5UOHhyMmZRUGtveHNLbw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -53336,7 +53334,7 @@
    "pubDate": "2026-09-30T07:10:00.000Z",
    "firstSeen": "2026-09-30T07:48:23.208Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -53356,7 +53354,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56blZCWnljX1NoR1Bka0ZOb2p4VjFqWnN1UU9TbUdTNjkwMG9leDlNMUNOdnZfZURuRnQwNHpYZHRmSlRDRUlWWDdvclp5cENoQ1hZRXlQYw?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -53524,7 +53522,7 @@
    "pubDate": "2026-09-30T07:00:00.000Z",
    "firstSeen": "2026-09-30T07:48:23.208Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -53539,7 +53537,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VLUYzU2VNandJb0MtdmhSYnp5aG9qaHBiX3ZLVHgtTHZyT3Z6eTBxbFBSN09RUjhMNUF4cjBaN1dLU0x4TTVRSkFDLXl1RXNnZmg1MDF5TQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -55489,7 +55487,7 @@
    "pubDate": "2026-09-30T04:11:12.000Z",
    "firstSeen": "2026-09-30T04:48:14.197Z",
    "image": null,
-   "source": "hashout.jp",
+   "source": "shiritomo",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -55510,7 +55508,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "hashout.jp",
+     "name": "shiritomo",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VNEpCa25YdEJlX19QdzRTSjBNTmhuU3lUTHlkZ1Zwd2JFZlFmOWs2QjZpUWtvMlpCVF9qNi03NUYxTG4x?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -56343,7 +56341,7 @@
    "pubDate": "2026-09-30T03:10:00.000Z",
    "firstSeen": "2026-09-30T05:48:16.562Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -56360,7 +56358,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oTTdWLUhvSU1GemhFM0Z5U2pYdzZlQXd6d0sxa1hBOHRPaUZjSE00Q0hSZkRTRGJ3ZjdwbzB0b1pMNDFvZGFNVWZaWnY4UkxkVXc2blVpUQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -58614,7 +58612,7 @@
    "pubDate": "2026-09-30T01:00:00.000Z",
    "firstSeen": "2026-09-30T03:48:16.675Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -58631,7 +58629,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bEMzNVdDVzU4bk5WcFR2cTFrUl9UOU5GMzAySWdhMGlXM1pJMVdJTGNOSHdxYk5yeG5LckEzWmNQYW5DamhfVFBRT1VYMFJ0WmRLMXYxZw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -63985,7 +63983,7 @@
    "pubDate": "2026-09-29T11:30:00.000Z",
    "firstSeen": "2026-09-29T14:48:20.044Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -64000,7 +63998,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TNWRUMGxIM2k5OFRIYng2N0lCWWZyMVh5MUIyX3NIS1ZnelBzU2REZ21nb1dTS2Fuc0NoOXdtcFdQYlBlbC1FWF9jNDFpMDI5LUxaUVh1SQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -64815,7 +64813,7 @@
    "pubDate": "2026-09-29T10:05:00.000Z",
    "firstSeen": "2026-09-29T11:48:15.509Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -64832,7 +64830,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zUUprdEItN2kzTE5iX3pGYTk5Uml1NzVFUDJYM1BWSEdCTlA2VDhybWlsUWxSdHZ1alJMNGdfaUtHZ3RuZ2ZMVV9IZmt2bVdOVTR4VFo0TQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -65852,7 +65850,7 @@
    "pubDate": "2026-09-29T09:00:00.000Z",
    "firstSeen": "2026-09-29T10:48:21.695Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -65870,7 +65868,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TMUNCOXpkVzl5YnNib0l6dTZodWE3WnROSFBsTFFtS21sVkpTaXd6MTliOTNmcFZkemwtSEpmN3RXdGZCMDFaaFM1RHV3Uk80dnlCNWc2WQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -66002,7 +66000,7 @@
    "pubDate": "2026-09-29T08:41:55.000Z",
    "firstSeen": "2026-09-29T10:48:21.695Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -66023,7 +66021,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajFNNkdvak0wUEtFaXA5bTlNSk1MUW9lV3kwU2liRndxaEd5TFNtYXVnUjZMamZLR1lDS250SWJhUlE3dHIzQ3d5MVdJVGFyYXlXenFVNEdLYTZCQmRZdEE4eTgtc21SUnlVWEFyYXAyRGN5bDNlWS1SU19kUUV4dE4zX3p6dw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -66177,7 +66175,7 @@
    "pubDate": "2026-09-29T08:30:00.000Z",
    "firstSeen": "2026-09-29T10:48:21.695Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -66192,7 +66190,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvWl8xNUtCM3c3Z0NzZEItX1lNM3NxYWhBRHg5QlhnNUsxcTB5ajJiSnNQV0REaHlWS0o2MEhnUzdyWHlDMXFoNW1FQ1M3QnlvVERFRVJBRQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -66530,7 +66528,7 @@
    "pubDate": "2026-09-29T08:02:00.000Z",
    "firstSeen": "2026-09-29T08:48:18.184Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -66547,7 +66545,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vYVBFSm1fbEliRmlsMGZGSjc0X1RBNy1naXhGWm4tdFVuRk4tcTVoRURTblJDTlpzNmZQNVpWLXhfOHVOZ0owc0xtMDdHMW53d0pvS2dHUQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -68919,7 +68917,7 @@
    "pubDate": "2026-09-29T04:00:00.000Z",
    "firstSeen": "2026-09-29T05:48:14.518Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -68936,7 +68934,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NTExvQnA4YUdTcEZUaVJvUXYzcC1nS1RBblJIMUdVcld0UzhzVHdRaTBfdTFIVzVCR2hhMzBDMVV6OE9QVE9FR2pKLVJWUmJfNGpsdjJLOA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -70117,7 +70115,7 @@
    "pubDate": "2026-09-29T02:49:00.000Z",
    "firstSeen": "2026-09-29T03:48:14.431Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -70138,7 +70136,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qcW1hT0hsb1Nfa1VZNkpXcEp4QXM1SEVjZVpRSDU0c015ZXJwTGM3MlkxWHViUHVQb3Z3T1I1R2NrUl9YRWhNY1ByNVp2NFpVSFIxaXc0MA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -71766,7 +71764,7 @@
    "pubDate": "2026-09-29T01:00:00.000Z",
    "firstSeen": "2026-09-29T02:48:16.096Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -71783,7 +71781,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jNVNWLVcyQlV2WW5hZGFZYmpfRGZrQS1GRzJKdWduM3hpaFZ2bmM3bHA4WmYtVW9mTXl5SnRFckowRldoSTRLSHREMTJaRU5mT3ZVbWpKOA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -76154,7 +76152,7 @@
    "pubDate": "2026-09-28T11:30:00.000Z",
    "firstSeen": "2026-09-28T12:48:14.656Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -76171,7 +76169,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqNTZvYWJ1S3FsQVZxaGNxOHlOREM3REttdkY3d3ZuUWEtSFB3YnVJeFZjYWJlS0tSTmVIMHhHSnZJWm5ZZnBZZHhxUGZmQzZmSGlObENhaw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -80131,7 +80129,7 @@
    "pubDate": "2026-09-28T06:00:00.000Z",
    "firstSeen": "2026-09-28T06:47:58.583Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -80148,7 +80146,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iU3ByMi1EMVp3MkIwVzBNcjBtdFczOTJOb3k3Zm9zdlBoYlQ3RWdCRHM0dHNrQzVOYTEzazA1MDA2Nk9QSmYwU0xDa0k2dUdMRDlLRmlndw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -80649,7 +80647,7 @@
    "pubDate": "2026-09-28T05:00:00.000Z",
    "firstSeen": "2026-09-28T05:47:33.851Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -80666,7 +80664,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lTUtXVE9DYnVfQ2NmY0laWHRHd1QzdFppSTFLWW5Gc1Y5RXN6cE40MHNIbnR2b2UzUzZGUmJ4bmxVVF9VV0gxMkVYNXRMR3FKYmtPM3ZMSQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -81671,7 +81669,7 @@
    "pubDate": "2026-09-28T03:45:00.000Z",
    "firstSeen": "2026-09-28T04:47:36.047Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -81686,7 +81684,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURXdoY3Vhb1dHQkJsWFA2QzllbVVab1lJZkxVZHl1a3JlSm1tbVpTbVYyTFJXa0EySHlqUGVFenAyT1VLTHhrYkdNRmh1U1hZanlCbVRVWQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -83915,7 +83913,7 @@
    "pubDate": "2026-09-28T01:05:00.000Z",
    "firstSeen": "2026-09-28T02:47:34.310Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -83934,7 +83932,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tanZWN0M0ZzR4c0N1cHd0aTdoNDZHMFlmT0pzTzE1dmwwdlJvZ2ZXTWhiN0FuMGtEeGx1YlduMk1LY1pqT2RCZDRVa3ZpTmtmb0dWTGNfaw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -84460,7 +84458,7 @@
    "pubDate": "2026-09-27T22:00:00.000Z",
    "firstSeen": "2026-09-27T22:47:39.678Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -84475,7 +84473,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zOVBVaUJOemRpME5CYlpwZm4xLU44bUZNUkFsNWZWcmhHVWZOcnJQUmtOVzRRalktcVlXb3hXSHc2Z2M2UUlyYUJVcmFtdnNiVGtiWHo2RQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -86692,7 +86690,7 @@
    "pubDate": "2026-09-27T08:10:00.000Z",
    "firstSeen": "2026-09-27T08:47:27.764Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -86709,7 +86707,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LM29DcElEUG8xQXpYUEdpZlhtQUJ5X2c4ZTNjTXJ2TGVLMW4xQmE4dGIxUGRONmxHUHQtNDd4RHgzMmtMRW5jQjl1UFg4dHRPOGtZaWlyTQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -89999,12 +89997,6 @@
      "link": "http://www.gamespark.jp/article/2026/09/26/172804.html"
     },
     {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOM2lyQUJfUHFOemIxQ1NJTlhWSE9YcURkREpSUjYta3FfYTdRUXZQc29RWFlrRUdfdDlPTEtHTjR0MjNoUkRIWm9oSDF0azB3Q1BwdkN4SXYzeC1fUEdkdTJQeEo5Zw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    },
-    {
      "name": "千葉テレビ放送株式会社",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zbEE4ei1qMmtnZjdtOVJJMllHUWJfZzJ3dXU0NTNnXzh0ODNoSldoYlk2eWN2S1V6dU1ER2RBTGxXWTRKN0x1OURTUzloZ0gxaFFnc2ZqQ0NlUGI3eDFJ?oc=5",
@@ -91105,12 +91097,6 @@
      "link": "http://www.gamespark.jp/article/2026/09/26/172791.html"
     },
     {
-     "name": "gamespark.jp",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VdmZERXBOZ2tjU0E4ZjlxMUZwWFdFTkFYZURnTWRaVXFrTy1lV2VDeUJsdUxlTHlGSkF1X2hlZDN6Q2ZHaTgwc3lfdEE1WDF5WjN4M2stZnhrRU16am0zWE5qZ2xqdw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    },
-    {
      "name": "Game Spark（Yahoo!ニュース）",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LYm14cE83RS1BWWxZMWpmSERJRHJzS084M1Z6VWtUb1BMczVCSmcyUWJrRkYwNWpmNndsVzJPOG84WEY1ZkFVYXduSDBPeUhib2IwSlMtQnM0ZTRRdFc1NGdDbWw3Z2tDWVZmNkpzYjJiLUltNk9fX0VRMWZtWWc?oc=5",
@@ -91937,7 +91923,7 @@
    "pubDate": "2026-09-26T03:00:00.000Z",
    "firstSeen": "2026-09-26T03:47:51.105Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -91958,7 +91944,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DTENkWEVnVUstbTlOQWNTYTBtMms0bXlzWVpUQ3JmRmtHZjlnc19jLXNiWERiaHVPVFMyRzFPVjJrRmRianZhOTBxc0U2Sm9qOEE0MVhNNA?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -120620,13 +120606,13 @@
    ]
   },
   {
-   "title": "【新作ゲーム開発中！！】 by コトバがあるのに気付けない？！ひらがな系ボードゲーム「コトバトリ」を再販したい！ - camp-fire.jp",
+   "title": "【新作ゲーム開発中！！】 by コトバがあるのに気付けない？！ひらがな系ボードゲーム「コトバトリ」を再販したい！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTGF2a2NMNDlLb2RXOFh1c2d1cE1BU2FMZ1E5eVRXQk53YVRkbnBuWjJ1eG5Tajg2U3VYdkoxNk1nWTlUVTVsMEgyWS02dkQtc1RfZUQtWkdkQ3NpUWwxY0JKTE1ibmxHNXBV?oc=5",
    "pubDate": "2026-09-23T09:30:00.000Z",
    "firstSeen": "2026-09-27T23:47:35.030Z",
    "image": null,
-   "source": "Googleニュース「新作ゲーム」",
+   "source": "CAMPFIRE (キャンプファイヤー)",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -120643,9 +120629,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Googleニュース「新作ゲーム」",
+     "name": "CAMPFIRE (キャンプファイヤー)",
      "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTGF2a2NMNDlLb2RXOFh1c2d1cE1BU2FMZ1E5eVRXQk53YVRkbnBuWjJ1eG5Tajg2U3VYdkoxNk1nWTlUVTVsMEgyWS02dkQtc1RfZUQtWkdkQ3NpUWwxY0JKTE1ibmxHNXBV?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTGF2a2NMNDlLb2RXOFh1c2d1cE1BU2FMZ1E5eVRXQk53YVRkbnBuWjJ1eG5Tajg2U3VYdkoxNk1nWTlUVTVsMEgyWS02dkQtc1RfZUQtWkdkQ3NpUWwxY0JKTE1ibmxHNXBV?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -122166,6 +122153,34 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow"
+    }
+   ]
+  },
+  {
+   "title": "ゲームアップデートのお知らせ(9/22 18:00実施) - news.fate-go.jp",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5",
+   "pubDate": "2026-09-22T09:32:29.000Z",
+   "firstSeen": "2026-09-22T09:32:29.000Z",
+   "image": null,
+   "source": "Googleニュース「ゲーム アップデート」",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「ゲーム アップデート」",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5"
     }
    ]
   },
@@ -124390,6 +124405,34 @@
    ]
   },
   {
+   "title": "ゲームアップデートのお知らせ(9/20 18:00実施) - news.fate-go.jp",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdFlxSTdpLV9vcG9tLWxqTzhkWm04aTJXZmJKV1EyWVVnemg0aFJSM2ZHNHZpb3FMejBHLWVYLXdjZVV6anFhQUNHQ25fTGlOQjhESA?oc=5",
+   "pubDate": "2026-09-20T09:13:05.000Z",
+   "firstSeen": "2026-09-20T09:13:05.000Z",
+   "image": null,
+   "source": "Googleニュース「ゲーム アップデート」",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「ゲーム アップデート」",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdFlxSTdpLV9vcG9tLWxqTzhkWm04aTJXZmJKV1EyWVVnemg0aFJSM2ZHNHZpb3FMejBHLWVYLXdjZVV6anFhQUNHQ25fTGlOQjhESA?oc=5"
+    }
+   ]
+  },
+  {
    "title": "「ツイステ」，新キャラクターのシルエットをお披露目。ゲーム内新イベントに先駆けて特別映像を公開",
    "summary": "アニプレックスは本日（2026年9月20日），「ディズニーツイステッドワンダーランド」のゲーム内新イベントの開催に先駆けて特別映像を公開し，新キャラクターのシルエットをお披露目した。また，10月4日19：00よりABEMA特番「ディズニーツイステッドワンダーランドチャンネル」が配…",
    "link": "https://www.4gamer.net/games/448/G044893/20260918079/",
@@ -124794,7 +124837,7 @@
    "pubDate": "2026-09-20T06:47:00.000Z",
    "firstSeen": "2026-09-26T11:48:27.882Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -124812,7 +124855,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VV3Y3WUhWbE5NbDVDSi1XTGRiUkhtaXE5dHd3Z2MxcmxSTUJzRXdNakxJX3JiTERjT0R4VEpHX3lLZklra0ZtN0lmOHFQdEh0Tm5paGZkYw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -125480,7 +125523,7 @@
    "pubDate": "2026-09-20T00:00:04.000Z",
    "firstSeen": "2026-09-20T00:00:04.000Z",
    "image": null,
-   "source": "gamespark.jp",
+   "source": "Game*Spark",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -125499,7 +125542,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "gamespark.jp",
+     "name": "Game*Spark",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xZ3dDcmlycGxXY3M0cjROOUFoZWUwQnk3S2lHdl9IaUtvNzUxOE9kUS1EZGNQODhCQTZxUHloVmU3dzFhU0lmY2w5RTkyMGh1ZGNZYmdGcDZ3WDRzZlU1TmN6SVMyQQ?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -125509,6 +125552,11 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VN2NBT0p5WlBaWk9XZ1lRWng0aTQ2VlV2bEtZbm1PZkNiaGNrdnoycmptVUh0M2xibkFVR19kWUJhbXR0aG9NZEVIc3NqZjBCZkhTN2ZjRm9OdEdhay05UmRSZ2FfeGltblE?oc=5",
      "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "Googleニュース「新作ゲーム」",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWFhXRGVkbm9reG12UGpIMU1Jb1QzV0pseUdwdS03SHNnSFFTSkVFN293NWhEVWdZdXFoSmFfVXVMdHg2OFQ4emh2MUdTYlhqelgwa01kckxQdXNLdF9MbDcwbU9uMFRhcmNXaExBVGJ0WlRoeHhrdURWakp5MkZGNw?oc=5"
     }
    ]
   },
@@ -128328,7 +128376,7 @@
    "pubDate": "2026-09-17T07:00:00.000Z",
    "firstSeen": "2026-09-30T21:48:21.755Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -128347,7 +128395,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOU1GYzFpaUliTUk1RjJZbWcxajhpLVg5bmQ0d2FaQ1VRb1pYbHBlZExOejJ4MkxtbDRlYVdMcFc4MTQ5WnhEcWxlWmRTdFhYeFljaVBQaDR3M0pDLXg2SU40Vnk3a01QUmJ4aXhVZzQ0TlJsaHhQTTlxZ0RJSnJxVDF4VlpvQQ?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
@@ -128552,7 +128600,7 @@
    "pubDate": "2026-09-17T03:15:02.000Z",
    "firstSeen": "2026-09-17T03:15:02.000Z",
    "image": null,
-   "source": "gamespark.jp",
+   "source": "Game*Spark",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -128572,15 +128620,20 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "gamespark.jp",
+     "name": "Game*Spark",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02TmkycFFWUUVOenJ1bHZkdG1HVGZRSnNWWkFkS3FnRENXS3FMOUdtaW5DYnkwLVppRWZMbW9sME05WWpNalA2WlIxaFRTWEwzaFBySWRpWmc5N25fUVFBZzB1VFNHZw?oc=5",
      "via": "Googleニュース「PS5 発売」"
     },
     {
+     "name": "Googleニュース「PS5 発売」",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TZFBaQ0hnTzVFRVotSkxJN0hadHVvcE1QZko0czNzYTdzQW05YnljdU5Oend0cjFTbUhuZXR1a3BBU1ZDQmxEUWFadFBEb1A5ckNEUlM5V2ppUjJxR0hGelp0ZjRfb2s?oc=5"
+    },
+    {
      "name": "インサイド",
      "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TZFBaQ0hnTzVFRVotSkxJN0hadHVvcE1QZko0czNzYTdzQW05YnljdU5Oend0cjFTbUhuZXR1a3BBU1ZDQmxEUWFadFBEb1A5ckNEUlM5V2ppUjJxR0hGelp0ZjRfb2s?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUY1QzTU5rb0poZ0ZLRzNxbi1EM0JkUkUtTUg5VXRKeVNpMTVudWtBMy1uTlFURkgyS05tbUhFdzBzQUhCeENUYXVqbHVxR3VuTHRMajRNR3Faa2lORWtlQXVCZnFiYVFQUkVmbjg4WFo5UVRLdXdvdzZR?oc=5",
      "via": "Googleニュース「PS5 発売」"
     },
     {
@@ -129193,6 +129246,34 @@
    ]
   },
   {
+   "title": "ゲームアップデートのお知らせ(9/16 20:00実施) - news.fate-go.jp",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yN241eHVrTWVrVk1nNTdNQjA1dWczOE9uaUdjTW1jODg0Qlk1OGlIZWhoN2ZOc1dfNy14N3NTMEFMbVRQY3Y1akxxSmZxRG53S3IwMg?oc=5",
+   "pubDate": "2026-09-16T11:30:02.000Z",
+   "firstSeen": "2026-09-25T09:49:45.558Z",
+   "image": null,
+   "source": "Googleニュース「ゲーム アップデート」",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「ゲーム アップデート」",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yN241eHVrTWVrVk1nNTdNQjA1dWczOE9uaUdjTW1jODg0Qlk1OGlIZWhoN2ZOc1dfNy14N3NTMEFMbVRQY3Y1akxxSmZxRG53S3IwMg?oc=5"
+    }
+   ]
+  },
+  {
    "title": "『アウタープレーン』が「東京ゲームショウ2026」出展！ 1周年アップデートも予告 9月17日から",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UZ1BoektxUjFoZDZsaTdTZWk4YUJQVVhHZUtsUy1wT1lMUmtJZ2xXQWZHd0U3c1VfQUs1RWI2aTVNaThXeE9ZY0oyQVNoSjc5cGszWC0xYlhQWTZ0LWM3Ng?oc=5",
@@ -129321,7 +129402,7 @@
    "pubDate": "2026-09-16T07:00:00.000Z",
    "firstSeen": "2026-09-16T07:00:00.000Z",
    "image": null,
-   "source": "gamespark.jp",
+   "source": "Game*Spark",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -129342,7 +129423,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "gamespark.jp",
+     "name": "Game*Spark",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TQkZWMVRZeUluVjdUc2ZWd0ZtZGkxaHNtS0RqLWhpcXFOTHVXM2pGZXlldlJ2Z043akZrbE5MNUR4X21qWmExNEZyOEZGOFMyZnNnYjNNZ0g1TU10c0drbUYxdFB3UQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -129779,7 +129860,7 @@
    "pubDate": "2026-09-15T07:00:00.000Z",
    "firstSeen": "2026-09-15T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -129796,7 +129877,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNQXktdmJxUXlCbnJscW9SSXFlRDdNeEtzcnJURFdSbTN6akE4czhDOFMzSzlMbXhkQTZsci1BMEJPeEpJVVRkYm81TjdpZUdaYmtqdTdnVQ?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -129872,7 +129953,7 @@
    "pubDate": "2026-09-15T07:00:00.000Z",
    "firstSeen": "2026-09-15T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -129891,7 +129972,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmRCQWZLOXoyT2lNRzBRMlBaT1dCNXZ5cTBGa2dtRHoteGJCMmpsRTYyRENCSnVEWnNRR1dUY21QcWIxY2xzbWh5bm1sOTZpY1RDeDlqQk9zdVBQTFB0QWdKcFFLZzBnMjZpM185WWM4cGxIV0VXcmJOTm9KOE5qWFhobnJodw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -129978,7 +130059,7 @@
    "pubDate": "2026-09-15T07:00:00.000Z",
    "firstSeen": "2026-09-15T07:00:00.000Z",
    "image": null,
-   "source": "gamespark.jp",
+   "source": "Game*Spark",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -129996,7 +130077,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "gamespark.jp",
+     "name": "Game*Spark",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KU2NZUkpWZUViQXcwaHptLWFPUkhJbjJESUI0X2o2dEFEMldtWmhhZ3Jxa3MzSnRXZUFBdlZTcUdpeVlzRkc5c19XUm43Y3JWOTFyMFROcTRlMWt4Yl9kLWRjMmU3Zw?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -130626,7 +130707,7 @@
    "pubDate": "2026-09-14T07:00:00.000Z",
    "firstSeen": "2026-09-14T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -130644,7 +130725,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bHl6bmdWeFpXZm9tdzhGQnI1dkdQSXUyOVFiYm9kdWR6TnRnVUUyN0d0amRjdEloT2xRMTc4Rko4azFkamJTaFhKUTcyOHZCbFdrRUgyQQ?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -130688,7 +130769,7 @@
    "pubDate": "2026-09-14T07:00:00.000Z",
    "firstSeen": "2026-09-14T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -130707,7 +130788,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fc3FZamQxNTZiUlBtU1ZlLVp5MERSMko0akVjRkNLd20wSVhJc1ozb1gydlJ6MHI4T24xNThTQ3FGUGZ6UGlmdGNudjhWSWljbDk4QkR2cw?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -130814,7 +130895,7 @@
    "pubDate": "2026-09-13T07:00:00.000Z",
    "firstSeen": "2026-09-13T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -130834,15 +130915,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PLTRET0p3NF9XZENsaDdjOXpYZHlDbTdOVFRZRkJFZkFiWExIUzJPN0l5RFMwM3I5clhHS1pUaW0yUHJaWXo3WmlWMHo1SERPUG05LXpQMA?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    },
-    {
      "name": "ファミ通",
      "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGN2d3bVk2VFZ3cUUtN1Axb3p3U3RDUGh5LU9oUF9WZy1JcnpUZ1JCZHVHazNPbnNYUk41M1gyNjlRWTRTTDE5OF94YkYyR0IyQm5qUUlHM2xzYVBIeVh1RHZFLWFpMTF5Rmc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PLTRET0p3NF9XZENsaDdjOXpYZHlDbTdOVFRZRkJFZkFiWExIUzJPN0l5RFMwM3I5clhHS1pUaW0yUHJaWXo3WmlWMHo1SERPUG05LXpQMA?oc=5",
      "via": "Googleニュース「新作ゲーム」"
     },
     {
@@ -130887,9 +130962,14 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
+     "name": "Googleニュース「新作ゲーム」",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkxCVjVtbUpCQ0ZKV1Z2bGVlYzZJZHY1RXNiRzRjbGc3X2VRTHpmOUc3MFV3NFctRHdXek43UGpPMUlhQzRKYnZTd1E4Tkp2R2tUYmpqNUxSeWRlM0hnYXVLYWt3UWdndUV3dk94eGhzaXNIWm03M3ZoWGF5VTQwOQ?oc=5"
+    },
+    {
      "name": "インサイド",
      "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkxCVjVtbUpCQ0ZKV1Z2bGVlYzZJZHY1RXNiRzRjbGc3X2VRTHpmOUc3MFV3NFctRHdXek43UGpPMUlhQzRKYnZTd1E4Tkp2R2tUYmpqNUxSeWRlM0hnYXVLYWt3UWdndUV3dk94eGhzaXNIWm03M3ZoWGF5VTQwOQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnAxNWdnOWtVRjZrNW4xNkhRMnVtN2pnUjdmQmtNMDNZbVRaUnIwcnY2bWJubS16SjJ5ZTliT29BZ0NLSVFxU3hyeHJRZVNCb3M2UUItWTA1QjVNcjJWSWJoTXRndkNhcVYzNVFaNW9mU2ltZnRVZFlzMTlXMlJ2eVF6NA?oc=5",
      "via": "Googleニュース「新作ゲーム」"
     }
    ]
@@ -131559,7 +131639,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -131579,7 +131659,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHk4eTQ2bkx3aTNMLWVSTzlGbGgxRW9Senk0cEV5TWRndXdwWVlmNk9WOWRuNmtEVGozZXZCY1ZvLVlwUmFQb1R6b1dtVHMxQnVIYzAyZER2UUpzdVJ2Sm1UUUdZMzllTGR0a0luRGUzNy1jV0gyUkprY3EtUTdBckxxSGJxdw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -131707,7 +131787,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -131724,7 +131804,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjNzcEplRXVQSHhOb2VtaXpQNFM5T1NGTGNuRDB4ZFVSd2VGQUpVMnZSZm5RMU1rX0MxU2Ewa2pZRW1sTVVKLUxkU3E1ek90eTctbHRQTkp1TUJEWkZ1WHVTLUV4eDRXVmlMWllqWkdGZG1LTW14Z2NJZXpWQ3JPcUdJSXJTUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -131738,7 +131818,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -131757,7 +131837,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjFodDVXY2VPZWE4eFVKNnB0NW41bUZXNlZWcjlzaENRMGxxeC1adjkxMlBnUUxHY1hYNndKTlpXaDJmdGcwQkhnb3ljN2c4NEZLYlAxMEIwM3NlUUxYUmF0Sjg1Q0RtcGR1MlFCS2ZQUEh6dXJiZVBJbFJzMmNxaDRMZ1VEUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -131847,7 +131927,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -131867,7 +131947,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ3o0c2U5NG1FaXNvNkdyTFRMLVZLX2FBckpVei1teW8tSUc3RjJYdjVfTzZCQmdZUWE1MGJYMGtLZmpKcVFYZ3U1RzJRVXZyRXBWTWsydS0zeU9wYkJqQUt5VS11TDNmTG1yRk5nbUVSbW1HSHVsTkxReDlFNUk1TERHQ0JHQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -132141,7 +132221,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-10T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
@@ -132160,7 +132240,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SX0NmZ1hHSzY5S1dON3NzS3ZtM3ItdWlTN21HNkJoaGFmMW1xcTlXZmxtOThRWm50M0tqTF9Pa3hIYzh0SkdxR1lzMWNCUnhEUGRUeXd4TQ?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
@@ -132365,7 +132445,7 @@
    "pubDate": "2026-09-10T07:00:00.000Z",
    "firstSeen": "2026-09-26T10:28:55.325Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -132385,7 +132465,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXVmc2RlcE9XSl9qNjR0amdmY0RKYVNzMjhBOHNSdVdfVmdzUnhXeWRlNlV4TU5lREE2YUNmNUJ3QWp1U1JKdktCakJQVjgzcnNXNTkxcjQ0X0ZVempLenl6blR5WEstWjJfbDVYT2FpWGNJU193SDRvcEZSOXR5UVY1WFNtQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -132482,7 +132562,7 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
-     "name": "福井新聞社",
+     "name": "fukuishimbun.co.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxYzdnYnZpbFVOVFBvU2FUUkdabThBZVBxVUZoQUVHWEtYNWhXM3k3QmtvSUptZXgwbHU2cERKbDFWdFNHUlpwUHFNUUJVVGhPRVpEb0pGTk1qeEtieEE?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -132620,7 +132700,7 @@
    "pubDate": "2026-09-09T14:20:17.000Z",
    "firstSeen": "2026-09-09T14:20:17.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -132635,7 +132715,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzUTVVXzF4RzVkQVNsc3czcjdZQ1hMYk9lcDBoSWxKWVRLRThrM3o0YTZ0NDNvYTlZZElOdU1MMUo1V0pnNjhnWW9UV1hRZUVqUWhiTWlJZlE4bmV3ejZsTTM1UDVwbFdiaFE?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -132731,7 +132811,7 @@
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -132750,7 +132830,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnRDVjRPVHljRnJtTlB4eHVyeklPYnFZNmNiSkRhM2NyamRFQ1ZuczRvZHowbFdWVFFMaGsxTUtpMW14R0xJNUFhWGNlYy1lTFo1UDdTRmRaOHFYU3ByYTFVYUZ4ZEd0WV9BMjNqalI3ZjZGUk1TTDRaMGR4c3hobmtSYjQtUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -132893,7 +132973,7 @@
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -132908,7 +132988,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSMXFMLTFBZWVMQ3ZPOUhDS0p1MjF3d25SNUJLb3R1VjNEQU44YWxWaVVFSjhGbFc1VU16dUZVdy1uSmZ5US1vTC1kRTdVMXA0VVRxaDNSX0JQTDRLZG1rS0ZWaExmd3l4SGNsdk5Sc1RxQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -132922,7 +133002,7 @@
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -132946,7 +133026,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNcXh6d0lKRWJ1Y0dFcnhUbVZIWWNiLUx1TmtHWENlaG8xRGtoalRmUktZMmZ3WTdoUEdQVi1WRVg5ejBUeG5qWUphRmFVOV9NRUJvYTlmMA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
@@ -132988,9 +133068,9 @@
    ]
   },
   {
-   "title": "ゲームアップデートのお知らせ(9/22 18:00実施)",
+   "title": "ゲームアップデートのお知らせ(9/9 18:00実施)",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WYktRZkFXRkVSR2hfcFJIQmU1cUJET2F2dVhLODU2V1ZHeDJ6TndIYVYtbjF4SGlyTkZRZGxoX0hMT3ZKamRaaWdZTjd0TUM1UWw4Ug?oc=5",
    "pubDate": "2026-09-09T07:00:00.000Z",
    "firstSeen": "2026-09-09T07:00:00.000Z",
    "image": null,
@@ -133011,7 +133091,7 @@
     {
      "name": "Fate/Grand Order 公式サイト",
      "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWHk2QmpjWWlRRDhJQUp0RXlyRWhJbVJtLUZQR3BrWlotaktGbnFtaDFGMk1idG1ZSjNPSzBwSE5rMXVXWnlYYk5JMG1kV1EzUlJpLQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WYktRZkFXRkVSR2hfcFJIQmU1cUJET2F2dVhLODU2V1ZHeDJ6TndIYVYtbjF4SGlyTkZRZGxoX0hMT3ZKamRaaWdZTjd0TUM1UWw4Ug?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
@@ -133411,7 +133491,7 @@
    "pubDate": "2026-09-08T14:47:04.000Z",
    "firstSeen": "2026-09-08T14:47:04.000Z",
    "image": null,
-   "source": "nintendo.com",
+   "source": "Nintendo",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -133426,15 +133506,15 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nintendo.com",
+     "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ek1UWmdxMTlZenBrVl9oNExFdEhCd0lWTDdUaVc3WWVaXzJaQWtCRUJmd3ZBZm4wcUhYQnFjNVRpN1RKVVRpa3ByNUtMeFQzMEFWLUFCSnlKY2V0VTJ0Ym5EUmFqUEo3YWc?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cVV5V0I0MTZpaHN1dkg2VkNyMVp4c3U5QnFicjhFYzJCeE9zSWhVMUxvYTdKMURtTUVoM3FnVTROQzZON0dlRU5xQWpVRUk3RkNsMlJlZVlzbDJTeGNvbGU0NXhJSlNBdWVtaVAwMFRvSHM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZ1QtMW16OGFHYjQxazJJYmJ0R3ZCakZaUk5BRkJqZGZ3eVlmVHF0TXY1RWRkMHFuRTUzaFFzSHFLQWNGRzVXWnczb1JkUTB3dmU3ZU5qME04Rlh2bFNLazJOSG1iay1DY0V2Tk0wYWtid3NEWXc?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -133446,7 +133526,7 @@
    "pubDate": "2026-09-08T07:00:00.000Z",
    "firstSeen": "2026-09-08T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -133463,7 +133543,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52MS1WN3EyOXBnTE4xWTE1UHF4Q3JraXFjX0xGNThaaWM5SmNCRHB2b1YyYm5ZUkFmek1XbnRlWGRwQXdwMWE3eHprXzFaVFJyM1RZWV9mbw?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -133733,7 +133813,7 @@
    "pubDate": "2026-09-07T07:00:00.000Z",
    "firstSeen": "2026-09-07T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -133754,7 +133834,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12M3FWZUFqUE5QYzd3Z2JXSmlJZXh3RC1JQ0JCbF9MYU9mYlo2Z1c1Q1JiUHRvTVY3SXJhZTBJSGNHc0NWRWMwTHlEaTA2VEo1TG5STnZJUQ?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -133840,7 +133920,7 @@
    "pubDate": "2026-09-07T07:00:00.000Z",
    "firstSeen": "2026-09-07T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -133857,7 +133937,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtblpIcHZ1SWY5RmNuTkFWMTFUNzZVdXdzdUNOSWVzNW5jX2xNaVRMV012em1ETmhNUG1qTVRvRVBjclh3VGgybHpCM2tUSi1mU1BwZmt5WQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
@@ -133966,7 +134046,7 @@
    "pubDate": "2026-09-06T07:00:00.000Z",
    "firstSeen": "2026-09-06T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -133985,7 +134065,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wTXRQbkVJYUJhWkFRaXhqVFFoTC15bGdfeDh3b01ObUs2SWJ6T3NCbGdKQ0tFYmNVenByQXpsdlNyN09hclVFeUZTZUp1UThhYUJTX1NKMA?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -134074,7 +134154,7 @@
    "pubDate": "2026-09-06T07:00:00.000Z",
    "firstSeen": "2026-09-06T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -134096,7 +134176,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NQ19uRVB3WHE5WWFzN3hqRzJwVmxfNjZFQmdUUXJva1ZYWlRtd0dfR3hpRDctS1M0ZFVIMzF6bGIzNjl6eU1TT1k2eUQyd212MDZicWw4WQ?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -134117,7 +134197,7 @@
    "pubDate": "2026-09-06T07:00:00.000Z",
    "firstSeen": "2026-09-06T07:00:00.000Z",
    "image": null,
-   "source": "famitsu.com",
+   "source": "ファミ通",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -134139,16 +134219,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "famitsu.com",
+     "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wUGI1Z2lIU2RmQXc5NWxISm1BQzVrMTFiZHFLbXg2WEJRSTYwdHBNZ2xuRURSQkY0LU4taVpHWUpTNURmeWdvdDFJT0JjYXdvZ1Y3cVoxbw?oc=5",
      "via": "Googleニュース「PS5 発売」"
-    },
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oZmVLQ1I1N21NYXZNRlcwQndmV3lGT2ZUNHJYS2JKbDNQeGM4Y3ZkblBueExuMkZlVk9OdzFiaUN0a2p4T2h2NEpMNUZJalRhQmI1QWVnZ19JbDBwM0ZMNW1HWEpJT0ZEOEE?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
     },
     {
      "name": "Yahoo!ニュース",
@@ -134227,7 +134301,7 @@
    "pubDate": "2026-09-05T07:00:00.000Z",
    "firstSeen": "2026-09-26T03:47:51.105Z",
    "image": null,
-   "source": "gamespark.jp",
+   "source": "Game*Spark",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -134243,7 +134317,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "gamespark.jp",
+     "name": "Game*Spark",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTFRkVWFCTm05RmYtOVRod1dUQkY1SmhHdEJ0X3ZqZWxlRmE2dl9YaVlLLWhXc1ZFRXdmRDRjSERYLUR0UmQ5WEVzdE5HaFZmOFp4YVFiTXN6Xy1iZUJpTnZ5NmVXZw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
