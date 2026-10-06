@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-06T22:48:18.274Z",
- "count": 5064,
+ "generatedAt": "2026-10-06T23:48:13.414Z",
+ "count": 5075,
  "dedupe": {
-  "exact": 432,
-  "syndicated": 26,
+  "exact": 433,
+  "syndicated": 25,
   "similar": 141,
   "syndicatedTotal": 146,
   "syndicatedLeft": 23
@@ -4127,6 +4127,23 @@
    "sources": 2,
    "categories": [
     "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-04",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "ドロッセルマイヤーズ・ヒストリア",
+   "title": "ドロマイの“過去と未来”が語られた「ドロッセルマイヤーズ15周年祭」をレポート。新作「ドロッセルマイヤーズ・ヒストリア」の100人同時プレイも",
+   "link": "https://www.4gamer.net/games/048/G104813/20261007002/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "new",
+    "event"
    ],
    "platforms": [],
    "spoiler": false
@@ -8923,6 +8940,22 @@
    "spoiler": false
   },
   {
+   "date": "2026-12-04",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "SOMBRAS: negative frames",
+   "title": "カメラを手に2000年代日本の街を歩くホラー『SOMBRAS: negative frames』デモ版配信。12月4日リリース予定",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173265.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "demo"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2026-12-07",
    "precision": "day",
    "verb": "release",
@@ -10086,8 +10119,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 406,
-   "accepted": 400
+   "archived": 407,
+   "accepted": 401
   },
   {
    "id": "4gamer-sp",
@@ -10141,8 +10174,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 565,
-   "accepted": 559
+   "archived": 568,
+   "accepted": 562
   },
   {
    "id": "inside-games",
@@ -10207,7 +10240,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 404,
+   "archived": 405,
    "accepted": 204
   },
   {
@@ -10218,8 +10251,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 275,
-   "accepted": 260
+   "archived": 276,
+   "accepted": 261
   },
   {
    "id": "gnews-switch2",
@@ -10229,7 +10262,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 499,
+   "archived": 501,
    "accepted": 391
   },
   {
@@ -10262,7 +10295,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 10622,
+   "archived": 10632,
    "accepted": 165
   },
   {
@@ -10284,8 +10317,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 502,
-   "accepted": 502
+   "archived": 508,
+   "accepted": 508
   },
   {
    "id": "eurogamer",
@@ -10333,6 +10366,161 @@
   }
  ],
  "items": [
+  {
+   "title": "5月にUE5で進化したサバクラ『Conan Exiles Enhanced』「巨人の王の遺産」アプデ第2弾配信開始―本編半額セールは10月9日午前2時まで",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173266.html",
+   "pubDate": "2026-10-06T23:30:03.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "Conan Exiles Enhanced"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173266.html"
+    }
+   ]
+  },
+  {
+   "title": "カメラを手に2000年代日本の街を歩くホラー『SOMBRAS: negative frames』デモ版配信。12月4日リリース予定",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173265.html",
+   "pubDate": "2026-10-06T23:15:03.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SOMBRAS: negative frames"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173265.html"
+    }
+   ]
+  },
+  {
+   "title": "協力プレイ対応ドタバタ系キッチンカー運営ACT『Hot Meals, Fast Wheels』プロローグ版の無料配信開始―事故ると車内がめちゃくちゃになる物理演算採用",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173264.html",
+   "pubDate": "2026-10-06T23:00:03.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Hot Meals, Fast Wheels"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173264.html"
+    }
+   ]
+  },
+  {
+   "title": "ドロマイの“過去と未来”が語られた「ドロッセルマイヤーズ15周年祭」をレポート。新作「ドロッセルマイヤーズ・ヒストリア」の100人同時プレイも",
+   "summary": "アナログゲームブランド・ドロッセルマイヤーズの創立15周年を記念したイベント「ドロッセルマイヤーズ15周年祭」が2026年10月4日，LOFT9Shibuyaで開催された。渡辺範明氏と佐々木隼氏が登壇し，15年間の歩みや今後のものづくりについて語ったイベントの模様をレポートする。",
+   "link": "https://www.4gamer.net/games/048/G104813/20261007002/",
+   "pubDate": "2026-10-06T23:00:00.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドロッセルマイヤーズ・ヒストリア"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/048/G104813/20261007002/"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
+   "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
+   "link": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
+   "pubDate": "2026-10-06T22:42:41.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch"
+    }
+   ]
+  },
   {
    "title": "ソニックの有田焼「Infinite Blue」が全世界50体限定で販売へ、価格は1体100万円。10月9日から池袋PARCOで開催されるイベントで5体を先行販売",
    "summary": "「YOYOYO Official Store」にてオンライン抽選販売される。応募期間は10月9日10時から10月18日23時59分まで",
@@ -10386,6 +10574,140 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/07/173263.html"
+    }
+   ]
+  },
+  {
+   "title": "The Best UK LEGO Deals This Prime Day Include Pokémon, Star Wars, and More",
+   "summary": "We're expecting some of these LEGO sets to sell out fast, so be sure to check the Prime Day deals swiftly",
+   "link": "https://www.ign.com/articles/the-best-uk-lego-deals-this-prime-day-include-pokmon-star-wars-and-more",
+   "pubDate": "2026-10-06T22:28:55.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/06/header-1791325679020.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-best-uk-lego-deals-this-prime-day-include-pokmon-star-wars-and-more"
+    }
+   ]
+  },
+  {
+   "title": "The Daniel Craig 007 4K Blu-ray Collection Is at Its Lowest Price of 2026",
+   "summary": "",
+   "link": "https://www.ign.com/articles/the-daniel-craig-007-4k-blu-ray-collection-is-at-its-lowest-price-of-2026",
+   "pubDate": "2026-10-06T22:14:00.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": "https://assets-prd.ignimgs.com/2022/03/26/wallpapersden-com-no-time-to-die-james-bond-1280x720-1608261946637-1632319047844-1648272770134.jpeg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-daniel-craig-007-4k-blu-ray-collection-is-at-its-lowest-price-of-2026"
+    }
+   ]
+  },
+  {
+   "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
+   "summary": "PlayStation fans are questioning the security of their PSN accounts as yet another prominent community member had their account hacked and s…",
+   "link": "https://www.ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
+   "pubDate": "2026-10-06T22:10:40.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": "https://assets1.ignimgs.com/2015/10/27/playstation-logojpg-9b373d.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "This Needs to Change"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky"
+    }
+   ]
+  },
+  {
+   "title": "Insomniac Finally Lets Players Toggle Wolverine's Story-Related Scent Trails on and Off With a 'Hint' Button",
+   "summary": "In the latest patch for Marvel’s Wolverine, Insomniac has enabled the long-awaited option for players to choose whether or not they want to…",
+   "link": "https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off",
+   "pubDate": "2026-10-06T22:07:53.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/08/wolverinethumb-1788880705929.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off"
+    }
+   ]
+  },
+  {
+   "title": "Ex-Activision CEO Bobby Kotick Joins Skydance Board of Directors Following WB-Paramount Merger",
+   "summary": "Former Activision CEO Bobby Kotick, who stepped down from running the Call of Duty publisher after Microsoft completed its $69 billion acqui…",
+   "link": "https://www.ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger",
+   "pubDate": "2026-10-06T22:05:29.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/06/image-1791324177483.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger"
     }
    ]
   },
@@ -20119,6 +20441,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/06/173214.html"
+    }
+   ]
+  },
+  {
+   "title": "AtomBase、スマートフォン向けダンジョン探索アクションRPG『迷宮ストーム』をリリース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NZXpMb3dOemxiX1NIaGNBQV9aMkx6d3FTRlFtNG41TUU4UmJCRkkzdWVUTlRjeTFZLVN2YlBNZXdUUEFE?oc=5",
+   "pubDate": "2026-10-06T04:08:00.000Z",
+   "firstSeen": "2026-10-06T23:48:08.469Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "迷宮ストーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NZXpMb3dOemxiX1NIaGNBQV9aMkx6d3FTRlFtNG41TUU4UmJCRkkzdWVUTlRjeTFZLVN2YlBNZXdUUEFE?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -31075,7 +31428,7 @@
    "pubDate": "2026-10-05T06:03:00.000Z",
    "firstSeen": "2026-10-05T21:47:54.838Z",
    "image": null,
-   "source": "dengekionline.com",
+   "source": "電撃オンライン",
    "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
@@ -31092,7 +31445,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "dengekionline.com",
+     "name": "電撃オンライン",
      "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNVo2NWlYdEEwLWVfcmpBYnVnLVZrRHdYS1RjMkpEc0pGbGlmNEc4TG85TERoRHRsajVUX041d0lUamFsTlhyeWF0N0g2bFVkWXdvVlNFbG1mUQ?oc=5",
      "via": "Googleニュース「電撃オンライン」"
@@ -37331,11 +37684,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/04/188729.html"
-    },
-    {
-     "name": "Googleニュース「新作ゲーム」",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GSm1lMF9pX1B4X1YxdEd0clBuLTBzVjkzblVLek5yVlQtR3NGUTBsSGpyenZvcGw5d3puUldzUW1TcUh0LUVOSHhJOU96cXZNZWduQnF2VnFJUi1oMkdORTFEcFZIc0VDMmc?oc=5"
     },
     {
      "name": "Excite エキサイト",
