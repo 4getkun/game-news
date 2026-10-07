@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-07T12:47:57.987Z",
- "count": 5356,
+ "generatedAt": "2026-10-07T13:47:59.501Z",
+ "count": 5378,
  "dedupe": {
-  "exact": 455,
+  "exact": 456,
   "syndicated": 27,
   "similar": 147,
-  "syndicatedTotal": 146,
+  "syndicatedTotal": 147,
   "syndicatedLeft": 23
  },
  "calendar": [
@@ -2230,6 +2230,22 @@
   {
    "date": "2026-10",
    "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "FF レゾナンス",
+   "title": "【10月発売PC新作ゲーム】『FF レゾナンス』『CoD: MW4』『エースコンバット8』『スター・ウォーズ：ギャラクティック・レーサー』など最新作を紹介！",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vN2JCWEE2dzZjYWhoODBha01ueUJNZllzQWNISzJzVjl4bDZnVUZvNzNYcG40Qk1GZzBhUkN4bE9pTy1QV1ZxNGFOaDFQUEtIUEVHVXcxVQ?oc=5",
+   "source": "ファミ通",
+   "sources": 2,
+   "categories": [
+    "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
    "verb": "event",
    "label": "開催・放送",
    "work": "ペルソナ",
@@ -2276,6 +2292,25 @@
    ],
    "platforms": [
     "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "マビノギモバイル",
+   "title": "【10月発売スマホ新作ゲーム】『マビノギモバイル』『ワンピース 海のごちそうレストラン』『ルネの冒険者カフェ』が配信",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FYXozbXVGUDRBbGNUb1ZXQzFWSkZ4SFA3SUtONGZBYlY1OVBtN1luVXdfSzZ0dmZaNmVKQWkyeW5fdFh5VEtpcDNRTEpxbmRPeXdYZnRjYw?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "platforms": [
+    "mobile"
    ],
    "spoiler": false
   },
@@ -4992,6 +5027,24 @@
   {
    "date": "2026-10-07",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "オートシュータースピンオフ「Deep Rock Galactic: Survivor」のPS5版が本日発売",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14UzVIcXNwSDA0TlRWTVlvVTVkUWxsNUJibkc3UzVJNm1KVFI3SU9PWi1sSjlrdGRYMnBqZDRQclpnRlhpU25JY0xGVQ?oc=5",
+   "source": "doope!",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "ps5"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-07",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "ファイティングゴルフ",
@@ -5912,7 +5965,7 @@
    "precision": "day",
    "verb": "event",
    "label": "開催・放送",
-   "work": "FFレゾナンス",
+   "work": "FF レゾナンス",
    "title": "FFVIIリメイクシリーズ完結編「FINAL FANTASY VII REVELATION」の中南米初デモがBGS 2026に登場。HD-2Dの新作「FFレゾナンス」のボス戦体験やバスターソード展示も",
    "link": "https://www.4gamer.net/games/013/G101379/20261001015/",
    "source": "4Gamer.net",
@@ -10771,8 +10824,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 304,
-   "accepted": 301
+   "archived": 305,
+   "accepted": 302
   },
   {
    "id": "denfaminico",
@@ -10782,7 +10835,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 571,
+   "archived": 572,
    "accepted": 477
   },
   {
@@ -10804,8 +10857,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 604,
-   "accepted": 598
+   "archived": 606,
+   "accepted": 600
   },
   {
    "id": "inside-games",
@@ -10860,7 +10913,7 @@
    "error": null,
    "fetched": 100,
    "archived": 443,
-   "accepted": 348
+   "accepted": 349
   },
   {
    "id": "gnews-dengeki",
@@ -10870,8 +10923,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 420,
-   "accepted": 211
+   "archived": 421,
+   "accepted": 212
   },
   {
    "id": "gnews-newgame",
@@ -10881,8 +10934,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 283,
-   "accepted": 266
+   "archived": 286,
+   "accepted": 268
   },
   {
    "id": "gnews-switch2",
@@ -10903,8 +10956,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 249,
-   "accepted": 227
+   "archived": 250,
+   "accepted": 228
   },
   {
    "id": "gnews-update",
@@ -10925,7 +10978,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11472,
+   "archived": 11532,
    "accepted": 178
   },
   {
@@ -10936,8 +10989,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 119,
-   "accepted": 119
+   "archived": 121,
+   "accepted": 121
   },
   {
    "id": "ign",
@@ -10947,8 +11000,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 520,
-   "accepted": 520
+   "archived": 527,
+   "accepted": 527
   },
   {
    "id": "eurogamer",
@@ -10958,8 +11011,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 215,
-   "accepted": 215
+   "archived": 218,
+   "accepted": 218
   },
   {
    "id": "gamespot",
@@ -10980,8 +11033,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 155,
-   "accepted": 155
+   "archived": 156,
+   "accepted": 156
   },
   {
    "id": "pcgamer",
@@ -10991,11 +11044,437 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 307,
-   "accepted": 307
+   "archived": 309,
+   "accepted": 309
   }
  ],
  "items": [
+  {
+   "title": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode",
+   "summary": "Call of Duty recently kicked off a week of Modern Warfare 4 DMZ news, which brought us a first look at the \"action extraction\" mode and some…",
+   "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
+   "pubDate": "2026-10-07T13:46:53.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assetsio.gnwcdn.com/modern-warfare-dmz-rose-edit.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion"
+    }
+   ]
+  },
+  {
+   "title": "The biggest discounts on PC hardware we've spotted this Prime Day",
+   "summary": "All of these products have a 25% or greater saving right now.",
+   "link": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
+   "pubDate": "2026-10-07T13:42:30.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/F7ZdXEUwuYCVKXcp5r4ubV-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/"
+    }
+   ]
+  },
+  {
+   "title": "オートシュータースピンオフ「Deep Rock Galactic: Survivor」のPS5版が本日発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14UzVIcXNwSDA0TlRWTVlvVTVkUWxsNUJibkc3UzVJNm1KVFI3SU9PWi1sSjlrdGRYMnBqZDRQclpnRlhpU25JY0xGVQ?oc=5",
+   "pubDate": "2026-10-07T13:41:24.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14UzVIcXNwSDA0TlRWTVlvVTVkUWxsNUJibkc3UzVJNm1KVFI3SU9PWi1sSjlrdGRYMnBqZDRQclpnRlhpU25JY0xGVQ?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『Escape from Tarkov』のCustomsに「柵乗り越え用の足場」出現、もう迂回もギリジャンもしなくていい。「ランスルー」警告など、地味に嬉しい改善いろいろ",
+   "summary": "PvEモードの刷新が特に注目を集めるなか、痒いところに手が届くさまざまな改善点が話題となっている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261007-472288/",
+   "pubDate": "2026-10-07T13:32:21.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261007-472288-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Escape from Tarkov"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261007-472288/"
+    }
+   ]
+  },
+  {
+   "title": "【10月発売スマホ新作ゲーム】『マビノギモバイル』『ワンピース 海のごちそうレストラン』『ルネの冒険者カフェ』が配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FYXozbXVGUDRBbGNUb1ZXQzFWSkZ4SFA3SUtONGZBYlY1OVBtN1luVXdfSzZ0dmZaNmVKQWkyeW5fdFh5VEtpcDNRTEpxbmRPeXdYZnRjYw?oc=5",
+   "pubDate": "2026-10-07T13:30:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "マビノギモバイル",
+    "ワンピース 海のごちそうレストラン",
+    "ルネの冒険者カフェ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FYXozbXVGUDRBbGNUb1ZXQzFWSkZ4SFA3SUtONGZBYlY1OVBtN1luVXdfSzZ0dmZaNmVKQWkyeW5fdFh5VEtpcDNRTEpxbmRPeXdYZnRjYw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
+   "title": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
+   "summary": "Monster Hunter Rise is coming to Android and iOS through Netflix, new store listings have revealed today. The game, which originally launche…",
+   "link": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
+   "pubDate": "2026-10-07T13:27:42.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assetsio.gnwcdn.com/MH-mobile-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "new",
+    "mobile",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix"
+    }
+   ]
+  },
+  {
+   "title": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
+   "summary": "Forza Horizon 6's highly-anticipated release on PlayStation 5 has apparently been delayed to 2027, according to new information. Yes, this i…",
+   "link": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+   "pubDate": "2026-10-07T13:22:49.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 11,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027"
+    }
+   ]
+  },
+  {
+   "title": "ATMOSFAR launches in Early Access on October 29",
+   "summary": "“Sky-high” cooperative survival game ATMOSFAR will launch in Early Access for PC via Steam and …",
+   "link": "https://www.gematsu.com/2026/10/atmosfar-launches-in-early-access-on-october-29",
+   "pubDate": "2026-10-07T13:12:24.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/ATMOSFAR-EA-Date_10-07-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/atmosfar-launches-in-early-access-on-october-29"
+    }
+   ]
+  },
+  {
+   "title": "Lenovo's Legion Go S has dropped by 14% this Prime Day, beating the Steam Deck in price and performance",
+   "summary": "I'd be picking it over the Steam Deck anyway.",
+   "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovos-legion-go-s-has-dropped-by-14-percent-this-prime-day-beating-the-steam-deck-in-price-and-performance/",
+   "pubDate": "2026-10-07T13:10:35.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/YE7fT7XGMMhvJPJLZRaXWT-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovos-legion-go-s-has-dropped-by-14-percent-this-prime-day-beating-the-steam-deck-in-price-and-performance/"
+    }
+   ]
+  },
+  {
+   "title": "1日16万円以上のAI費用発生で開発元が悲鳴。『妹に運転を教える』プレイヤー数1か月で20倍に―デモ版早期終了も視野",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173304.html",
+   "pubDate": "2026-10-07T13:10:14.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "妹に運転を教える"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173304.html"
+    }
+   ]
+  },
+  {
+   "title": "【10月発売PC新作ゲーム】『FF レゾナンス』『CoD: MW4』『エースコンバット8』『スター・ウォーズ：ギャラクティック・レーサー』など最新作を紹介！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vN2JCWEE2dzZjYWhoODBha01ueUJNZllzQWNISzJzVjl4bDZnVUZvNzNYcG40Qk1GZzBhUkN4bE9pTy1QV1ZxNGFOaDFQUEtIUEVHVXcxVQ?oc=5",
+   "pubDate": "2026-10-07T13:00:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "FF レゾナンス",
+    "CoD: MW4",
+    "エースコンバット8",
+    "スター・ウォーズ:ギャラクティック・レーサー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vN2JCWEE2dzZjYWhoODBha01ueUJNZllzQWNISzJzVjl4bDZnVUZvNzNYcG40Qk1GZzBhUkN4bE9pTy1QV1ZxNGFOaDFQUEtIUEVHVXcxVQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "ファミ通.com（Yahoo!ニュース）",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVm9yQ1BGVkNKZVI2YkNMZVFGUzNkQWhHb2NRYm5KWUNhZUcwdXdfRFpFWTJkWkRUOVVYbEIyNzdpN0pxRHlseVRueGt3T21RTjlzUFFsQjVOaVl6LWV2alpaT1pfY3Fmbk5neHYtMWpCbXl5dklFQmJ2Zm40Q3c?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Review: Order Of The Sinking Star (Switch 2) - Intense, Sometimes Gruelling, But Always Inventive",
+   "summary": "What a puzzler. Order of the Sinking Star is not for the weak-willed. The latest puzzle adventure from Jonathan Blow (Braid, The Witness) ma…",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/order-of-the-sinking-star",
+   "pubDate": "2026-10-07T13:00:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://images.nintendolife.com/a4066be6f5ee9/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/order-of-the-sinking-star"
+    }
+   ]
+  },
+  {
+   "title": "Windows同梱だった『3Dピンボール』復活に一筋の光？ユーザーからの希望に部門EVP「検討する」",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173303.html",
+   "pubDate": "2026-10-07T12:54:22.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "3Dピンボール"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173303.html"
+    }
+   ]
+  },
+  {
+   "title": "Save 33% On This Disney Lorcana Starter Set for Prime Day",
+   "summary": "Two decks, boxes, counters and a rulebook, all for under $20? Sounds like a great deal to us.",
+   "link": "https://www.ign.com/articles/save-33-on-this-disney-lorcana-starter-set-for-prime-day",
+   "pubDate": "2026-10-07T12:36:10.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/01/21/lorcana-full-release-schedule-2026-ign-1769011499455.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/save-33-on-this-disney-lorcana-starter-set-for-prime-day"
+    }
+   ]
+  },
   {
    "title": "【10月発売Switch/Switch2新作ゲーム】『テイルズ オブ エターニア リマスター』『FF レゾナンス』『ドラゴンズドグマ 2：ダークアリズン』など最新作を紹介！",
    "summary": "",
@@ -11019,7 +11498,7 @@
    ],
    "works": [
     "テイルズ オブ エターニア リマスター",
-    "FFレゾナンス",
+    "FF レゾナンス",
     "ドラゴンズドグマ 2:ダークアリズン"
    ],
    "spoiler": false,
@@ -11029,6 +11508,61 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZV0NFZkhiZXRmQmZEZ1hscjFfRlRlekppYmN5RW5EQmt4aXlnNGdOcTRpb3hpLUI0TS1CNml4UGFVODdERUFIOHZvZWxpQ0xod3J1S1ZlTQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6: The Big Interview",
+   "summary": "The in-depth interview with Rockstar North's Rob Nelson in full, as he played through 30 minutes of the game ahead of the Netflix reveal.",
+   "link": "https://www.ign.com/articles/gta-6-the-big-interview",
+   "pubDate": "2026-10-07T12:30:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/07/gta-6-1791374410439.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "new",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-the-big-interview"
+    }
+   ]
+  },
+  {
+   "title": "Pokémon Center Rolls Out Invite-Only Access for Ascended Heroes Elite Trainer Box",
+   "summary": "Pokémon Center is rolling out an Invite-Only queue to combat scalpers and restock the wildly popular Mega Evolution—Ascended Heroes Elite Tr…",
+   "link": "https://www.ign.com/articles/pokemon-center-ascended-heroes-etb-invite-only-restock",
+   "pubDate": "2026-10-07T12:30:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/06/ascended-heroes-chase-cards-1791318278646.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/pokemon-center-ascended-heroes-etb-invite-only-restock"
     }
    ]
   },
@@ -11152,6 +11686,116 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/07/173302.html"
+    }
+   ]
+  },
+  {
+   "title": "Carrie Ending Explained: Who Lived, Who Died, and What Could Mike Flanagan Have in Mind Next for This Universe?",
+   "summary": "Mike Flanagan's Carrie has arrived on Prime Video. So who lived, who died, and what could be next in this universe?",
+   "link": "https://www.ign.com/articles/carrie-ending-explained-mike-flanagan-who-lived-who-died",
+   "pubDate": "2026-10-07T12:00:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/06/carrie-thumb-1791327705421.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/carrie-ending-explained-mike-flanagan-who-lived-who-died"
+    }
+   ]
+  },
+  {
+   "title": "Disney Lorcana TCG’s Hyperia City Expansion: First Hands-On Impressions",
+   "summary": "Get an early look at Disney Lorcana’s upcoming Hyperia City expansion, featuring more Pixar characters from the Coco franchise and more.",
+   "link": "https://www.ign.com/articles/disney-lorcana-tcgs-hyperia-city-expansion-first-hands-on-impressions",
+   "pubDate": "2026-10-07T12:00:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/06/dlorhyper-preview-1791323043343.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/disney-lorcana-tcgs-hyperia-city-expansion-first-hands-on-impressions"
+    }
+   ]
+  },
+  {
+   "title": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
+   "summary": "The AI video game clone explosion continues at pace. Now, someone has made Minecraft playable inside X / Twitter with working multiplayer.",
+   "link": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
+   "pubDate": "2026-10-07T11:59:07.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto"
+    }
+   ]
+  },
+  {
+   "title": "Pragmata Drops to Lowest Price Ever on Switch 2 and Xbox for Prime Day",
+   "summary": "Capcom's acclaimed sci-fi action game Pragmata is down to $39.99 on Nintendo Switch 2 and Xbox during Amazon Prime Big Deal Days. Save $20 b…",
+   "link": "https://www.ign.com/articles/pragmata-prime-day-best-deal-ps5-switch",
+   "pubDate": "2026-10-07T11:51:09.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://assets-prd.ignimgs.com/2026/04/15/prag-things-oo2-1776284768291.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 22,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/pragmata-prime-day-best-deal-ps5-switch"
     }
    ]
   },
@@ -12362,6 +13006,32 @@
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VjJMVV9LLXA4UzI2bnNfM01fSW81UHFTSTVjc0tmUkFCWjRodFJMVXF4ZmZIOE5hSW5WbE1iVXVINHdXUGRqNTVnX2UxRUdSTm1pLU5hMGhpdw?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "Rumor: Ape Escape revival in development at Evening Star",
+   "summary": "A new Ape Escape is in development at Penny’s Big Breakaway developer Evening Star, which …",
+   "link": "https://www.gematsu.com/2026/10/rumor-ape-escape-revival-in-development-at-evening-star",
+   "pubDate": "2026-10-07T10:00:28.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Ape-Escape-Rumor_10-07-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/rumor-ape-escape-revival-in-development-at-evening-star"
     }
    ]
   },
@@ -13719,6 +14389,35 @@
      "name": "電撃オンライン",
      "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcW1UY0ptUnMwRXhEdW5Fd3NLd1hHV2pWQVFCZ0xaQm9PTFVWdHpqUzdmU2s4SEtuZjdhSHpId3pYSzBJci1Fb0taVEZWMlBnV0FjN1FLMUx1dw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
+   "title": "『機動戦艦ナデシコ』放送30周年を記念しサントラ＆キャラソン全12タイトルがサブスク解禁。ユリカ役・桑島法子のコメント到着＆YouTubeで一挙配信スタート",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4OGhReHFtT2ZLcEQ2NWtmVkJZS29SbGw1UHNHeDBBTlRDV1draEdKaHlIVmYzVzBKTlZndlhLWk1sSFg3RzZIQW9YRkZhMWd0Tm5WYll5bDh5dw?oc=5",
+   "pubDate": "2026-10-07T09:00:00.000Z",
+   "firstSeen": "2026-10-07T13:47:50.548Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "機動戦艦ナデシコ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4OGhReHFtT2ZLcEQ2NWtmVkJZS29SbGw1UHNHeDBBTlRDV1draEdKaHlIVmYzVzBKTlZndlhLWk1sSFg3RzZIQW9YRkZhMWd0Tm5WYll5bDh5dw?oc=5",
      "via": "Googleニュース「電撃オンライン」"
     }
    ]
@@ -31632,7 +32331,7 @@
    "firstSeen": "2026-10-06T03:47:52.566Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -31652,9 +32351,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORDJKZnhTcERDVzFSMk1QY0I3RTJGZ2syYXlIaXBEanBYMFNZWGE1YUYzYVhiLVloVFdYUEV6SE5tU0wzczhRaFB2YVR2Z2xaMHA3VDlvZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
@@ -37530,7 +38229,7 @@
    "firstSeen": "2026-10-05T10:47:57.972Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -37548,9 +38247,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUW1VMkF1QmV5RG8xYnhteVNJUzdmVWpYR2JqOEtfWWJnZ2M1ZEpEVnRJR0ZNMllmS0phZFpfeFhMWmhuQUFQSVFQc1Y2UXJpVTlIQmp0X205QQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -63310,7 +64009,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "FFレゾナンス"
+    "FF レゾナンス"
    ],
    "spoiler": false,
    "sources": [
@@ -86834,7 +87533,7 @@
    ]
   },
   {
-   "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3 期も (1/7)",
+   "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3期も",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SVpndmNDVGxhRzU5T29veDZCRVNzN29lLVNLMmFlYWRua2FZc3ZmNFByWHdnN2xpY09aYWdNZ0lpdVZCSWduSFh3TGtIVGxrOW5tclFyTQ?oc=5",
    "pubDate": "2026-09-30T10:30:00.000Z",
@@ -120524,7 +121223,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "FFレゾナンス"
+    "FF レゾナンス"
    ],
    "spoiler": false,
    "sources": [
@@ -141100,7 +141799,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "FFレゾナンス"
+    "FF レゾナンス"
    ],
    "spoiler": false,
    "sources": [
@@ -148655,7 +149354,7 @@
    "platforms": [],
    "works": [
     "FF",
-    "FFレゾナンス"
+    "FF レゾナンス"
    ],
    "spoiler": false,
    "sources": [
