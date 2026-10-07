@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-07T05:47:57.998Z",
- "count": 5196,
+ "generatedAt": "2026-10-07T06:47:56.906Z",
+ "count": 5214,
  "dedupe": {
   "exact": 444,
   "syndicated": 26,
-  "similar": 143,
+  "similar": 144,
   "syndicatedTotal": 147,
   "syndicatedLeft": 23
  },
@@ -4929,6 +4929,25 @@
   {
    "date": "2026-10-07",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "マビノギモバイル",
+   "title": "MMORPG「マビノギモバイル」が本日10月7日より正式サービス開始。サービス開始記念イベントやキャンペーンも開催",
+   "link": "https://game.watch.impress.co.jp/docs/news/2146419.html",
+   "source": "GAME Watch",
+   "sources": 2,
+   "categories": [
+    "release",
+    "event"
+   ],
+   "platforms": [
+    "mobile"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-07",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ドラクエ",
@@ -4956,27 +4975,6 @@
     "update"
    ],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-07",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "マビノギモバイル",
-   "title": "オンラインRPG「マビノギモバイル」本日サービス開始。モバイルとPCのクロスプレイに対応し，料理やハウジングも楽しめる",
-   "link": "https://www.4gamer.net/games/387/G038732/20261007015/",
-   "source": "4Gamer.net（スマホ）",
-   "sources": 1,
-   "categories": [
-    "new",
-    "release",
-    "mobile"
-   ],
-   "platforms": [
-    "pc",
-    "mobile"
-   ],
    "spoiler": false
   },
   {
@@ -5866,6 +5864,20 @@
    "categories": [
     "collab"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「ポケモン」アパレルが10月10日ドン・キホーテ/アピタにて発売！ピカチュウたちになりきれるBIG着ぐるみパーカーと、普段着になるプルパーカー各種",
+   "link": "https://www.inside-games.jp/article/2026/10/07/188881.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -10389,8 +10401,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 425,
-   "accepted": 419
+   "archived": 426,
+   "accepted": 420
   },
   {
    "id": "4gamer-sp",
@@ -10411,8 +10423,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 296,
-   "accepted": 293
+   "archived": 297,
+   "accepted": 294
   },
   {
    "id": "denfaminico",
@@ -10422,8 +10434,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 531,
-   "accepted": 444
+   "archived": 536,
+   "accepted": 447
   },
   {
    "id": "gamewatch",
@@ -10433,8 +10445,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 208,
-   "accepted": 181
+   "archived": 209,
+   "accepted": 182
   },
   {
    "id": "gamespark",
@@ -10444,8 +10456,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 585,
-   "accepted": 579
+   "archived": 586,
+   "accepted": 580
   },
   {
    "id": "inside-games",
@@ -10455,8 +10467,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 693,
-   "accepted": 523
+   "archived": 694,
+   "accepted": 524
   },
   {
    "id": "ps-blog",
@@ -10499,8 +10511,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 428,
-   "accepted": 335
+   "archived": 433,
+   "accepted": 339
   },
   {
    "id": "gnews-dengeki",
@@ -10510,7 +10522,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 409,
+   "archived": 410,
    "accepted": 206
   },
   {
@@ -10521,8 +10533,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 281,
-   "accepted": 266
+   "archived": 282,
+   "accepted": 267
   },
   {
    "id": "gnews-switch2",
@@ -10532,8 +10544,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 508,
-   "accepted": 396
+   "archived": 510,
+   "accepted": 398
   },
   {
    "id": "gnews-ps5",
@@ -10543,8 +10555,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 242,
-   "accepted": 220
+   "archived": 243,
+   "accepted": 221
   },
   {
    "id": "gnews-update",
@@ -10565,8 +10577,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11165,
-   "accepted": 173
+   "archived": 11218,
+   "accepted": 175
   },
   {
    "id": "gematsu",
@@ -10620,8 +10632,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 152,
-   "accepted": 152
+   "archived": 153,
+   "accepted": 153
   },
   {
    "id": "pcgamer",
@@ -10636,6 +10648,401 @@
   }
  ],
  "items": [
+  {
+   "title": "『ペルソナ』が「やっぱりステーキ」とコラボ開催。「豪快やきにく丼」「マル久豆腐の手ごねハンバーグ」など、ゲーム内のキャラクターやシーンをモチーフにしたメニューがラインナップ",
+   "summary": "ゲーム内の要素をモチーフにしたフードやドリンクのほか、描き起こしイラストを用いた歴代主人公たちのグッズも登場",
+   "link": "https://news.denfaminicogamer.jp/news/2610072b",
+   "pubDate": "2026-10-07T06:40:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-19-724x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ペルソナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072b"
+    }
+   ]
+  },
+  {
+   "title": "MMORPG「マビノギモバイル」が本日10月7日より正式サービス開始。サービス開始記念イベントやキャンペーンも開催",
+   "summary": "ネクソンは、PC/スマートフォン用オンラインRPG「マビノギモバイル」を本日10月7日より日本にてサービスを開始した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2146419.html",
+   "pubDate": "2026-10-07T06:35:07.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "マビノギモバイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2146419.html"
+    }
+   ]
+  },
+  {
+   "title": "「フロム脳の作る『Potion Craft』です」―魔物嫌いの薬師が魔物を匿い…歪な感情と奇妙な友情描くダーク探索ADV『トバリ喰らいと血の薬師』Steamデモ版公開",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173284.html",
+   "pubDate": "2026-10-07T06:35:03.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Potion Craft",
+    "トバリ喰らいと血の薬師"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173284.html"
+    }
+   ]
+  },
+  {
+   "title": "「ポケモン」アパレルが10月10日ドン・キホーテ/アピタにて発売！ピカチュウたちになりきれるBIG着ぐるみパーカーと、普段着になるプルパーカー各種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/07/188881.html",
+   "pubDate": "2026-10-07T06:30:03.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/07/188881.html"
+    }
+   ]
+  },
+  {
+   "title": "【全話無料】『毎度! 浦安鉄筋家族』が72時間限定で無料公開中、期間は10月11日11時まで。小学生の主人公・大沢木小鉄を中心にドタバタコメディが繰り広げられるギャグマンガ",
+   "summary": "小学生の主人公・大沢木小鉄を中心にドタバタコメディが繰り広げられるギャグマンガ。1話完結なので、どこから読んでも楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/2610072a",
+   "pubDate": "2026-10-07T06:29:59.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HTbTIpQaEAAxgat-768x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "毎度! 浦安鉄筋家族"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072a"
+    }
+   ]
+  },
+  {
+   "title": "『マビノギ』シリーズのモバイル向け新作RPG『マビノギモバイル』国内正式サービスが開始。フィールドやダンジョンでの冒険、料理、裁縫、ハウジングなどいろんなコンテンツを楽しめる",
+   "summary": "『マビノギ』世界を再構築し新たなストーリーが展開。フィールドやダンジョンでの冒険、料理、裁縫、ハウジングなどいろんなコンテンツを楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/261007z",
+   "pubDate": "2026-10-07T06:21:10.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/MABINOGI-MOBILE-Japan-Launch_key-art-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "マビノギ",
+    "マビノギモバイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261007z"
+    }
+   ]
+  },
+  {
+   "title": "『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』の韓国での早期購入特典が発表！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4THNzaEJwMTI5dnE5YXhEYkpQRl9kcV85ck56S2R5ekFTdFp0dzcyZUFWanpuLTRiVEhhR0FLbkZUZ2E0NXVJUWI0bHI0MF9PeHRzOVFLWnRKQVhJV24zOUc5UXNWbkpiM25Lcw?oc=5",
+   "pubDate": "2026-10-07T06:16:36.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "Nintendo Switch 情報ブログ",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Switch 情報ブログ",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4THNzaEJwMTI5dnE5YXhEYkpQRl9kcV85ck56S2R5ekFTdFp0dzcyZUFWanpuLTRiVEhhR0FLbkZUZ2E0NXVJUWI0bHI0MF9PeHRzOVFLWnRKQVhJV24zOUc5UXNWbkpiM25Lcw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "コピーガード「Denuvo」、“謎のクラック常習犯”特定に向けて怒りの徹底追跡。25本以上ものゲームを破ったDenuvoキラー",
+   "summary": "「Denuvo Anti-Tamper」を手がけるDenuvo社は、カリフォルニア州の連邦裁判所に対してDiscord、Valve、Redditに向けた召喚状の発行許可を求めた。Denuvoを数十タイトルにわたって回避し損害を与えたという匿名ユーザー「voices38」の身元を特…",
+   "link": "https://automaton-media.com/articles/newsjp/20261007-472231/",
+   "pubDate": "2026-10-07T06:14:41.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261007-472231-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261007-472231/"
+    }
+   ]
+  },
+  {
+   "title": "「Time Takers」，2回目となる「Steamグローバルプレイテスト」を11月13日8：00〜16日8：00の72時間限定で開催",
+   "summary": "NCは本日（2026年10月7日），PC向け新作タイトル「TimeTakers」で，2回目となる「Steamグローバルプレイテスト」を11月13日8：00〜16日8：00の72時間限定で開催すると発表した。これまでに複数回にわたってテストが実施されているが，今回は戦闘バランスが調…",
+   "link": "https://www.4gamer.net/games/865/G086556/20261007017/",
+   "pubDate": "2026-10-07T06:08:49.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/865/G086556/20261007017/"
+    }
+   ]
+  },
+  {
+   "title": "『マビノギモバイル』スローライフMMORPG生活ガイドとプチ攻略。採集、釣り、料理、製作、楽器演奏、マイホーム……。ファンタジー世界での暮らし方",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kRDBGVy1LSkFpeUNDbFF1b20tREtsR3dOTjR4VzRwd3BXVHpWR3Z6b0FfU2UtS09FcDl1UEdfbk5yTWZ4MmwtNk90RGw3bFdWSC1BaTVmOA?oc=5",
+   "pubDate": "2026-10-07T06:00:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "マビノギモバイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kRDBGVy1LSkFpeUNDbFF1b20tREtsR3dOTjR4VzRwd3BXVHpWR3Z6b0FfU2UtS09FcDl1UEdfbk5yTWZ4MmwtNk90RGw3bFdWSC1BaTVmOA?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "12月より『ゼノブレイド2 Nintendo Switch 2 Edition』のアクリルスタンドが発売！ emptyにて予約受付中",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LSnc2YXFqSnVBSGJPUjc0QVVUZ0pxdG8tTDRNTkpQeTM4UWo2LTU5b1RkV0d0ZExoLUYybUt2TlBYZkRVa09jX2dVaU84dDVRUE1nYg?oc=5",
+   "pubDate": "2026-10-07T05:54:32.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "Nintendo DREAM WEB",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ゼノブレイド2 Nintendo Switch 2 Edition"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo DREAM WEB",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LSnc2YXFqSnVBSGJPUjc0QVVUZ0pxdG8tTDRNTkpQeTM4UWo2LTU5b1RkV0d0ZExoLUYybUt2TlBYZkRVa09jX2dVaU84dDVRUE1nYg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『ガーデン ソウル』格ゲー的爽快コンボが魅力のローグライトアクション。Steam体験版が配信開始、発表から1週間で1万ウィッシュリストを突破",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NQ1VwUFc4SG1rbThXV0hqazF1aVFqYlh3VDVGVFpCRzRnZk0xV3RLaWZWT3I1aEtlUUxLSnlWdGlyTDlCZ0UtSXJpdllfbmRNSkFIWnNOaw?oc=5",
+   "pubDate": "2026-10-07T05:54:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ガーデン ソウル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NQ1VwUFc4SG1rbThXV0hqazF1aVFqYlh3VDVGVFpCRzRnZk0xV3RLaWZWT3I1aEtlUUxLSnlWdGlyTDlCZ0UtSXJpdllfbmRNSkFIWnNOaw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "整備済みPS5 Proが新品より55％高い異例の価格に。米GameStopが約22万円に値上げ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abEZLMGt4WlVlT0FTdDVNNDczckFuTklLU2Vpb1k1ZzV2TXNpOFg0QVBWa0N0STlfbEhxeGJKNlVPWVNkcmVMUGRwY0RwamJCZ1E?oc=5",
+   "pubDate": "2026-10-07T05:50:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "Gadget Gate",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gadget Gate",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abEZLMGt4WlVlT0FTdDVNNDczckFuTklLU2Vpb1k1ZzV2TXNpOFg0QVBWa0N0STlfbEhxeGJKNlVPWVNkcmVMUGRwY0RwamJCZ1E?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
   {
    "title": "協力プレイ対応のサバイバルホラー『The Crimson Hunt』配信！吸血鬼ハンターと吸血鬼にさらわれた女性が恐怖に立ち向かう",
    "summary": "",
@@ -10871,6 +11278,100 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEdWdrRzV2MWRVUkgwM0s1V29jcExYTThfV2FidURkN1A1Tmg3cFdicG1lNmFWdGZXWXIwbEw2U0VLLTg3ejBRSXdLcTQ3Ujl4Snl6TlBNbG5aQQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『カオゼロ』1周年記念！めいどりーみんコラボカフェ「悪夢喫茶」開催決定！",
+   "summary": "スマイルゲートは、自社でサービス中であり、SUPER CREATIVEが開発するローグライクRPG『カオスゼロナイトメア』（以下、『カオゼロ』）のサービス開始1周年を記念し、株式会社ネオディライトインターナショナ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000228.000137745.html",
+   "pubDate": "2026-10-07T05:00:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カオゼロ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000228.000137745.html"
+    }
+   ]
+  },
+  {
+   "title": "『Time Takers』11月13日から72時間限定の「Steamグローバルプレイテスト」の開催が決定！ 9月に開催した「Steamグローバルプレイテスト」からの変更点を解説した動画も公開",
+   "summary": "NC Corporation(本社:韓国 板橋(パンギョ)、共同代表:金 澤辰(キム テクジン) / 朴 炳武(パク ビョンム)、以下NC)は、MISTIL GAMES(共同代表: 趙 容敏(チョ ヨンミン) / 徐 龍洙(ソ ヨンス))が開発中の新作タイム...",
+   "link": "https://prtimes.jp/main/html/rd/p/000003076.000001868.html",
+   "pubDate": "2026-10-07T05:00:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Time Takers"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000003076.000001868.html"
+    }
+   ]
+  },
+  {
+   "title": "ネクソン、新作オンラインRPG『マビノギモバイル』の正式サービスを2026年10月7日より開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1pVlBZb2JKT3hRUjNOWEJWTWluRWtiV1VxZWVlRlNrbFlqV2U0bWNxeXQ3Z3UwNk5xcDRSMkt4LU81THBj?oc=5",
+   "pubDate": "2026-10-07T04:56:42.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "マビノギモバイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1pVlBZb2JKT3hRUjNOWEJWTWluRWtiV1VxZWVlRlNrbFlqV2U0bWNxeXQ3Z3UwNk5xcDRSMkt4LU81THBj?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -11480,7 +11981,41 @@
    ]
   },
   {
-   "title": "11もの工程で日本刀を作り上げる日本産ハードコア刀鍛冶シム『刀鍛冶 』一部の作刀工程が楽しめるデモ版を10月9日より公開",
+   "title": "『Solar Arena』ドット絵風デザインが目を引く2Dトップビュー対戦シューティング。Steam体験版が配信開始。レーザーや誘導弾を駆使して勝利を目指せ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtM0tfZWhiYUFPc2RFZkNiQVFlelFnVFZjRW5SWlBROGlGeFcxUlplMUhvd0I0a3duS1EzZTNWQ3pFa1hGNjFkZjZxcV9UTzFIMUJfTFl5bw?oc=5",
+   "pubDate": "2026-10-07T04:03:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Solar Arena"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtM0tfZWhiYUFPc2RFZkNiQVFlelFnVFZjRW5SWlBROGlGeFcxUlplMUhvd0I0a3duS1EzZTNWQ3pFa1hGNjFkZjZxcV9UTzFIMUJfTFl5bw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "11もの工程で日本刀を作り上げる日本産ハードコア刀鍛冶シム『刀鍛冶』一部の作刀工程が楽しめるデモ版を10月9日より公開",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/07/173279.html",
    "pubDate": "2026-10-07T04:00:04.000Z",
@@ -13071,7 +13606,7 @@
   },
   {
    "title": "Konami Announces The Composer For Castlevania: Belmont's Curse",
-   "summary": "From the composer behind Rogue Prince of Persia. As we get closer to the launch of Castlevania: Belmont's Curse later this month, Konami has…",
+   "summary": "From the talent behind the Rogue Prince of Persia soundtrack. As we get closer to the launch of Castlevania: Belmont's Curse later this mont…",
    "link": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
    "pubDate": "2026-10-07T02:15:00.000Z",
    "firstSeen": "2026-10-07T02:47:48.365Z",
@@ -19036,6 +19571,46 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/06/188858.html"
+    }
+   ]
+  },
+  {
+   "title": "『ダークソウル』シリーズのSteam版が久々の半額セール。『エルデンリング ナイトレイン』にも登場するアルトリウスや無名の王の原産地に行こう",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xVm13MC1Qd2NZQ2p6VjdzM3VpblBfLW8yXzlINEVyZ1VueFdfbzRzc0VUYlBXWm9OclYyYmN1RmRvNTJ1WFN4cEZsNG1wTzlKbzNFOWlLUQ?oc=5",
+   "pubDate": "2026-10-06T11:30:00.000Z",
+   "firstSeen": "2026-10-07T06:47:47.911Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": null,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ダークソウル",
+    "エルデンリング ナイトレイン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xVm13MC1Qd2NZQ2p6VjdzM3VpblBfLW8yXzlINEVyZ1VueFdfbzRzc0VUYlBXWm9OclYyYmN1RmRvNTJ1WFN4cEZsNG1wTzlKbzNFOWlLUQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
