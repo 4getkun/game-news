@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-07T08:47:55.946Z",
- "count": 5251,
+ "generatedAt": "2026-10-07T09:52:31.950Z",
+ "count": 5279,
  "dedupe": {
-  "exact": 443,
+  "exact": 444,
   "syndicated": 27,
   "similar": 144,
   "syndicatedTotal": 144,
@@ -9253,6 +9253,20 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "DJミックスアルバム「Sonic The Hedgehog DJ Style \"MOSAIC\"」，12月2日に発売",
+   "link": "https://www.4gamer.net/games/991/G999109/20261007029/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-02",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "UFO山",
    "title": "謎の遭難死を追うモキュメンタリー番組『UFO山』が書籍化、12月2日に発売。放送後の追加取材や書籍オリジナルの展開も収録",
    "link": "https://news.denfaminicogamer.jp/news/2610022l",
@@ -10530,8 +10544,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 431,
-   "accepted": 425
+   "archived": 434,
+   "accepted": 428
   },
   {
    "id": "4gamer-sp",
@@ -10541,8 +10555,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 131,
-   "accepted": 126
+   "archived": 134,
+   "accepted": 129
   },
   {
    "id": "automaton",
@@ -10552,8 +10566,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 298,
-   "accepted": 295
+   "archived": 301,
+   "accepted": 298
   },
   {
    "id": "denfaminico",
@@ -10563,8 +10577,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 549,
-   "accepted": 459
+   "archived": 557,
+   "accepted": 466
   },
   {
    "id": "gamewatch",
@@ -10574,8 +10588,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 212,
-   "accepted": 185
+   "archived": 214,
+   "accepted": 186
   },
   {
    "id": "gamespark",
@@ -10585,8 +10599,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 592,
-   "accepted": 586
+   "archived": 596,
+   "accepted": 590
   },
   {
    "id": "inside-games",
@@ -10596,8 +10610,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 705,
-   "accepted": 526
+   "archived": 714,
+   "accepted": 529
   },
   {
    "id": "ps-blog",
@@ -10637,9 +10651,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 438,
    "accepted": 344
   },
@@ -10648,9 +10662,9 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 412,
    "accepted": 206
   },
@@ -10659,9 +10673,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 279,
    "accepted": 264
   },
@@ -10670,9 +10684,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 511,
    "accepted": 399
   },
@@ -10681,9 +10695,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 244,
    "accepted": 222
   },
@@ -10692,11 +10706,11 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 232,
-   "accepted": 135
+   "accepted": 136
   },
   {
    "id": "prtimes",
@@ -10706,8 +10720,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11335,
-   "accepted": 177
+   "archived": 11392,
+   "accepted": 178
   },
   {
    "id": "gematsu",
@@ -10728,8 +10742,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 514,
-   "accepted": 514
+   "archived": 515,
+   "accepted": 515
   },
   {
    "id": "eurogamer",
@@ -10750,8 +10764,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 127,
-   "accepted": 127
+   "archived": 128,
+   "accepted": 128
   },
   {
    "id": "nintendolife",
@@ -10761,8 +10775,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 153,
-   "accepted": 153
+   "archived": 154,
+   "accepted": 154
   },
   {
    "id": "pcgamer",
@@ -10777,6 +10791,756 @@
   }
  ],
  "items": [
+  {
+   "title": "「これぞポッドレース！これぞ近年屈指のレースゲームだ」海外レビューハイスコア『スター・ウォーズ：ギャラクティック・レーサー』",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173294.html",
+   "pubDate": "2026-10-07T09:45:03.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スター・ウォーズ:ギャラクティック・レーサー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173294.html"
+    }
+   ]
+  },
+  {
+   "title": "「コードギアス」のスマホ/PC向けゲーム『コードギアス 反逆のルルーシュ ロストストーリーズ』12月7日サービス終了へ。4年半の歴史に幕、オフライン版が配信予定",
+   "summary": "DMM GAMESおよびf4samuraiは10月7日、『コードギアス 反逆のルルーシュ ロストストーリーズ』を12月7日にサービス終了すると告知した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261007-472269/",
+   "pubDate": "2026-10-07T09:44:03.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261007-472269-header2.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "コードギアス 反逆のルルーシュ ロストストーリーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261007-472269/"
+    }
+   ]
+  },
+  {
+   "title": "【怪作】呪い、憑き神、因習、異能力、あらゆる要素のごった煮ノベルゲーム『デスマッチラブコメ！』Steamにて40％オフのセール開催中。3000円→「1800円」で購入できる",
+   "summary": "「告白されると爆死する」主人公が織りなす“学園伝奇ラブコメノベル”。ジェットコースターのような展開の濁流",
+   "link": "https://news.denfaminicogamer.jp/news/2610072y",
+   "pubDate": "2026-10-07T09:40:30.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Screenshot-2026-10-07-18-32-43-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 40,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "デスマッチラブコメ!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072y"
+    }
+   ]
+  },
+  {
+   "title": "【ロススト】「コードギアス 反逆のルルーシュ ロストストーリーズ」、12月7日15時をもってサービス終了オフライン版アプリを準備中",
+   "summary": "DMM GAMESは、Android/iOS/PC用ナイトメアフレームバトルRPG「コードギアス 反逆のルルーシュ ロストストーリーズ」のサービスを12月7日15時に終了する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2146533.html",
+   "pubDate": "2026-10-07T09:39:55.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "mobile",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2146533.html"
+    }
+   ]
+  },
+  {
+   "title": "DJミックスアルバム「Sonic The Hedgehog DJ Style \"MOSAIC\"」，12月2日に発売",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/991/G999109/20261007029/",
+   "pubDate": "2026-10-07T09:39:51.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/991/G999109/20261007029/"
+    }
+   ]
+  },
+  {
+   "title": "「ポケモンホーム」にしれっと「ゲームボーイアドバンスシリーズ」表記があってざわつく。『ファイアレッド・リーフグリーン』に続いて“GBA作品”は出るのか",
+   "summary": "株式会社ポケモンは10月7日、「Pokémon HOME」向けにメンテナンスを実施。アップデートにより追加された「ゲームボーイアドバンスシリーズ」という記載について、コミュニティはにわかに沸き立っている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261007-472256/",
+   "pubDate": "2026-10-07T09:34:40.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261007-472256-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ファイアレッド・リーフグリーン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261007-472256/"
+    }
+   ]
+  },
+  {
+   "title": "老舗MMO新映像に生成AI使用疑惑。指が6本、中世騎士の靴がスニーカー…「説明がつかない」と開発元謝罪。外注先は“AI不使用”明言のはずが…",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173293.html",
+   "pubDate": "2026-10-07T09:30:03.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "trailer",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173293.html"
+    }
+   ]
+  },
+  {
+   "title": "『ポケモン』デデンネの等身大ドアストッパーがシュール！エレキネットでくっつく「バチュル ぬいぐるみ」など、2匹の新グッズが順次発売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/07/188900.html",
+   "pubDate": "2026-10-07T09:30:03.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/07/188900.html"
+    }
+   ]
+  },
+  {
+   "title": "「チェンクロ」，体育祭を楽しむウィッシュが登場するフェスを開催",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/223/G022384/20261007028/",
+   "pubDate": "2026-10-07T09:27:53.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/223/G022384/20261007028/"
+    }
+   ]
+  },
+  {
+   "title": "「プロセカ」，“6th ANNIVERSARY 全国校内放送”を開催。リズムゲーム楽曲に「推定ラブソング」を追加",
+   "summary": "セガは，リズム＆アドベンチャーゲーム「プロジェクトセカイカラフルステージ！feat.初音ミク」の6周年記念企画として，「6thANNIVERSARY全国校内放送」を，本日（2026年10月7日）から全国の高校で開始した。",
+   "link": "https://www.4gamer.net/games/476/G047609/20261007026/",
+   "pubDate": "2026-10-07T09:24:41.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/476/G047609/20261007026/"
+    }
+   ]
+  },
+  {
+   "title": "「D2メガテン」，新★5悪魔「魔王 ロキ【マリス】」を実装",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/393/G039361/20261007027/",
+   "pubDate": "2026-10-07T09:18:22.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/393/G039361/20261007027/"
+    }
+   ]
+  },
+  {
+   "title": "日本ファルコム、『空の軌跡』グローバル販売好調で再び業績予想を上方修正―営業利益28億円など過去最高へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173292.html",
+   "pubDate": "2026-10-07T09:15:02.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "空の軌跡"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173292.html"
+    }
+   ]
+  },
+  {
+   "title": "Pokémon Pokopia's New Mystery Gift Distribution Is Now Available",
+   "summary": "Free furniture! The Pokémon Pokopia Mystery Gift codes haven't been coming thick and fast since the game launched earlier this year, but wit…",
+   "link": "https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available",
+   "pubDate": "2026-10-07T09:15:00.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://images.nintendolife.com/d4adeba8234f9/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available"
+    }
+   ]
+  },
+  {
+   "title": "『コードギアス 反逆のルルーシュ ロストストーリーズ』12月7日15時にサービス終了。2022年5月の開始から約4年半の歩みに幕",
+   "summary": "ゲーム独自の主人公として、ルルーシュとともに原作の世界を体験できるRPG。サービス終了後も、一部コンテンツを楽しめるオフライン版アプリを準備中",
+   "link": "https://news.denfaminicogamer.jp/news/2610072x",
+   "pubDate": "2026-10-07T09:13:34.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-21-1024x538.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "mobile",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "コードギアス 反逆のルルーシュ ロストストーリーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072x"
+    }
+   ]
+  },
+  {
+   "title": "チーターの“キーボード・マウス操作のクセ”から「本人そのもののBAN」を目指す技術研究。「別アカ復帰」を逃がさない",
+   "summary": "キーボードやマウスの“入力の癖”から、アカウントが同一人物のものかを特定する手法を考案した人物が現れた。",
+   "link": "https://automaton-media.com/articles/newsjp/20261007-472245/",
+   "pubDate": "2026-10-07T09:13:30.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261007-472245-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261007-472245/"
+    }
+   ]
+  },
+  {
+   "title": "建物のネット環境を整備するため，サーバールームで計3072個のポートへケーブルを配線していくシム「Cable Management Simulator」発表",
+   "summary": "サーバールームでケーブルを配線していくシミュレーションゲーム「CableManagementSimulator」が発表された。時間制限に追われることなく，計3072個のポートへ自分のペースでケーブルを接続していく。",
+   "link": "https://www.4gamer.net/games/048/G104845/20261007024/",
+   "pubDate": "2026-10-07T09:08:41.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 3,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/048/G104845/20261007024/"
+    }
+   ]
+  },
+  {
+   "title": "『アストラエ・オラティオ』CBTプレイレポ。“魔法×行政”の奇妙な東京で少女たちと働く公務員生活が始まる",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/07/188896.html",
+   "pubDate": "2026-10-07T09:05:03.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アストラエ・オラティオ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/07/188896.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
+   "summary": "PC players hoping to find a way to play GTA 6 when it launches on consoles next month must be feeling pretty disappointed, as Microsoft has…",
+   "link": "https://www.gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report/",
+   "pubDate": "2026-10-07T09:03:51.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Lucia.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report/"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『機動戦艦ナデシコ』サントラやキャラソンのサブスク配信が解禁。公式プレイリストも公開され、ミスマル・ユリカ役を演じた桑島法子さんからのコメントも到着",
+   "summary": "10月7日、キングレコード株式会社は、アニメ『機動戦艦ナデシコ』のオリジナルサウンドトラックやキャラソンのサブスクリプション配信を解禁した。 今回のサブスク配信解禁は、アニメ放送30周年を記念したもの。また、ミスマル・ユリカ役を演じた桑島法子さんからのコメントも到着。さらに、公式…",
+   "link": "https://news.denfaminicogamer.jp/news/2610072s",
+   "pubDate": "2026-10-07T09:00:57.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/574e69ffb5d0788d83402d02d14cfe50-1024x768.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "機動戦艦ナデシコ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072s"
+    }
+   ]
+  },
+  {
+   "title": "【盛況】『スター・ウォーズ：ギャラクティック・レーサー』Steamの最大同接数「1万5000人」を突破。発売1日で1000件以上のレビュー集まる",
+   "summary": "『スター・ウォーズ』の世界を舞台に、フォースの力に頼らずスキルと戦略で違法レースゲームに挑む。メタスコアは「88/100」と高評価",
+   "link": "https://news.denfaminicogamer.jp/news/2610072p",
+   "pubDate": "2026-10-07T09:00:32.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/PhotoshopExtension_Image_2-7-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "スター・ウォーズ:ギャラクティック・レーサー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072p"
+    }
+   ]
+  },
+  {
+   "title": "「物理派が仮に20％でも、その20％こそ最も忠実なファン」元PS幹部、ディスク廃止はブランドへの大打撃と警鐘",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/07/173291.html",
+   "pubDate": "2026-10-07T09:00:04.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173291.html"
+    }
+   ]
+  },
+  {
+   "title": "絵本のような手描き世界の空を旅する「セラフィーヌは空を行く」試遊レポート。慣性操舵と偏差射撃が熱いスチームパンク飛行船ADV［OIGS2026］",
+   "summary": "10月3日と4日に開催された「OSAKAINDIEGAMESSUMMIT2026」にて，水鏡スタジオが制作する「セラフィーヌは空を行く」のデモ版が出展されていた。手描きイラストが織りなす美しい空の冒険譚と，リアリティのある操舵・砲撃戦の感触を開発者のコメントとともにお届けする",
+   "link": "https://www.4gamer.net/games/048/G104834/20261007018/",
+   "pubDate": "2026-10-07T09:00:00.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/048/G104834/20261007018/"
+    }
+   ]
+  },
+  {
+   "title": "【半額】「東方Project」のキャラが設定・イラスト両方でわかる書籍『東方Project人妖名鑑』の『宵闇編』『常世編』が半額セール中",
+   "summary": "キャラクターの成り立ちを制作者ZUN氏本人のコメント付きで紹介。新規描き下ろしイラストも多数掲載",
+   "link": "https://news.denfaminicogamer.jp/news/2610072u",
+   "pubDate": "2026-10-07T08:55:46.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/touhou-1024x724.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "東方Project人妖名鑑",
+    "宵闇編",
+    "常世編"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072u"
+    }
+   ]
+  },
+  {
+   "title": "『FNaF』の2D横スクロールホラー『FNaF: Into the Pit』が無料で受け取れる。Amazon Prime会員向けゲームサービス「Luna」10月の無料配布タイトルが公開",
+   "summary": "ほか、2016年版『DOOM』や、妹を探して広大な終末世界を旅するゲーム『Caravan SandWitch』など全10タイトルを順次配信",
+   "link": "https://news.denfaminicogamer.jp/news/2610072r",
+   "pubDate": "2026-10-07T08:51:08.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_0e6537b99ea57f7460120d5d7e0066718fe46215.1920x1080-1024x575.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": true
+   },
+   "platforms": [],
+   "works": [
+    "FNaF",
+    "FNaF: Into the Pit"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072r"
+    }
+   ]
+  },
+  {
+   "title": "宇宙のロマンを楽しみ尽くせる国家運営4Xゲーム『Stellaris』がSteamで70%オフ。DLC『BioGenesis』『Shadows of the Shroud』も過去最安値の40%オフに",
+   "summary": "DLC2本は「星を丸ごと喰いつくすバケモノでの大暴れ」や「異次元の存在との危険な取引」を楽しめるもの。日本語にも公式対応",
+   "link": "https://news.denfaminicogamer.jp/news/2610072h",
+   "pubDate": "2026-10-07T08:50:06.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_2845b664ba55eceb041056d4795b8cfc0e66d3e4.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "update",
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 70,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Stellaris",
+    "BioGenesis",
+    "Shadows of the Shroud"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610072h"
+    }
+   ]
+  },
   {
    "title": "『ゼノブレイド2 Nintendo Switch 2 Edition』のアクリルスタンドが予約開始。「レックス」や「ニア」、新衣装の「ホムラ」と「ヒカリ」まで、全15種がラインナップ",
    "summary": "10月7日、株式会社emptyは、『ゼノブレイド2 Nintendo Switch 2 Edition』のアクリルスタンドの予約受付を開始した。 同商品は、「レックス」「ホムラ」「ヒカリ」「ニア」といったメインキャラクターに、「Nintendo Switch 2 Edition」…",
@@ -10930,6 +11694,34 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/07/173290.html"
+    }
+   ]
+  },
+  {
+   "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
+   "summary": "Why settle for just a TV when you can get the entire home theater.",
+   "link": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
+   "pubDate": "2026-10-07T08:30:00.000Z",
+   "firstSeen": "2026-10-07T09:52:22.941Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/07/lgb6-1791360961806.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale"
     }
    ]
   },
@@ -22245,6 +23037,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/06/173236.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/07/188895.html"
     }
    ]
   },
@@ -39050,6 +39847,35 @@
    ]
   },
   {
+   "title": "『にゃんこ大戦争』 一部キャラクターの超本能上方修正",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90TWZ5R2RSeDhVS2FCSjFoSFhmdFFWcEc0WGpndm1YUXBqTXg3OEp5Wm1FT0JsdVMtMEcwTEU2Mkp6Z2wxTkllUThxcXpJQlp5UkNCTWhSTFRsUXh3?oc=5",
+   "pubDate": "2026-10-05T03:04:23.000Z",
+   "firstSeen": "2026-10-06T04:47:52.121Z",
+   "image": null,
+   "source": "にゃんこポータル",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "にゃんこ大戦争"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にゃんこポータル",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90TWZ5R2RSeDhVS2FCSjFoSFhmdFFWcEc0WGpndm1YUXBqTXg3OEp5Wm1FT0JsdVMtMEcwTEU2Mkp6Z2wxTkllUThxcXpJQlp5UkNCTWhSTFRsUXh3?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
    "title": "「原神」，死の執政「ロノヴァ」の画像を公式Xで公開。命ノ星座などが明かされていないため，プレイアブル化しないか",
    "summary": "HoYoverseは2026年10月4日，オープンワールドRPG「原神」のキャラクター「ロノヴァ」（CV：折笠富美子）の画像を公式Xで公開した。ロノヴァは，天理の影であり，死の執政だ。",
    "link": "https://www.4gamer.net/games/486/G048621/20261005011/",
@@ -44232,6 +45058,40 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/04/173138.html"
+    }
+   ]
+  },
+  {
+   "title": "『にゃんこ大戦争』1億2000万ダウンロード突破記念イベント第3弾開催のお知らせ",
+   "summary": "ポノス株式会社（本社：京都府京都市、代表取締役：辻子依旦、以下「ポノス」）が提供するスマートフォン向けゲームアプリ『にゃんこ大戦争』がシリーズ累計1億2000万ダウンロードを突破いたしました。これを記念...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000780.000036495.html",
+   "pubDate": "2026-10-04T02:40:41.000Z",
+   "firstSeen": "2026-10-04T02:48:23.607Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event",
+    "mobile",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "にゃんこ大戦争"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000780.000036495.html"
     }
    ]
   },
