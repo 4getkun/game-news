@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-08T09:31:17.946Z",
- "count": 5803,
+ "generatedAt": "2026-10-08T09:48:06.042Z",
+ "count": 5814,
  "dedupe": {
-  "exact": 500,
+  "exact": 501,
   "syndicated": 28,
-  "similar": 164,
+  "similar": 165,
   "syndicatedTotal": 158,
   "syndicatedLeft": 22
  },
@@ -5298,15 +5298,17 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "地球防衛軍5 for Nintendo Switch 2",
-   "title": "『地球防衛軍５ for Nintendo Switch 2』が10月8日発売！ 通常版3,980円、DLC付きデラックスエディションも",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SX3FCZEhaVzJKelpyNXl2VEJwUjFkQU1ybVJ3YUNfQmF4dmFKS1daU0FUNnA0MFZSc3o2cWhndFhzOUJDOFBCOTVTTUVPdG54WnF2S0RVSzNSTnlVNExnTA?oc=5",
-   "source": "AppBank",
+   "work": "ワンス・アポン・ア・塊魂",
+   "title": "Nintendo Switch 2版「ワンス・アポン・ア・塊魂」，本日発売。有料追加DLC「ローリングライブハイライツ」も同時リリース",
+   "link": "https://www.4gamer.net/games/024/G102492/20261008015/",
+   "source": "4Gamer.net",
    "sources": 5,
    "categories": [
+    "release",
     "update"
    ],
    "platforms": [
+    "switch",
     "switch2"
    ],
    "spoiler": false
@@ -5316,17 +5318,15 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "ワンス・アポン・ア・塊魂",
-   "title": "Nintendo Switch 2版「ワンス・アポン・ア・塊魂」，本日発売。有料追加DLC「ローリングライブハイライツ」も同時リリース",
-   "link": "https://www.4gamer.net/games/024/G102492/20261008015/",
-   "source": "4Gamer.net",
-   "sources": 4,
+   "work": "地球防衛軍5 for Nintendo Switch 2",
+   "title": "『地球防衛軍５ for Nintendo Switch 2』が10月8日発売！ 通常版3,980円、DLC付きデラックスエディションも",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SX3FCZEhaVzJKelpyNXl2VEJwUjFkQU1ybVJ3YUNfQmF4dmFKS1daU0FUNnA0MFZSc3o2cWhndFhzOUJDOFBCOTVTTUVPdG54WnF2S0RVSzNSTnlVNExnTA?oc=5",
+   "source": "AppBank",
+   "sources": 5,
    "categories": [
-    "release",
     "update"
    ],
    "platforms": [
-    "switch",
     "switch2"
    ],
    "spoiler": false
@@ -6526,6 +6526,20 @@
    "categories": [
     "collab"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「ぷよクエ」，番組「ぷよクエ公式生放送 〜13.5周年スペシャル〜」を10月10日に配信",
+   "link": "https://www.4gamer.net/games/202/G020261/20261008037/",
+   "source": "4Gamer.net（スマホ）",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -11925,6 +11939,23 @@
    "verb": "event",
    "label": "開催・放送",
    "work": null,
+   "title": "大型ゲームイベント“WePlay Expo JAPAN 2027”が2027年4月2日～4日に幕張メッセで開催。AAAタイトルからインディータイトルまでが集まる場に",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TZUJoZXpJb012eW1kX0JVVk5aQWVjZW9NSnlVc0xUV2U3cW9KdlVtSnR5WVRBTjh4VUNZQURjaUlkdUFteG1GOVBLRWttUkdROUVlUnNMZw?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "event",
+    "indie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04-02",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
    "title": "中国の大型ゲームイベントが日本上陸 WePlay Expo JAPAN 2027として4月2日～4日に幕張メッセで開催",
    "link": "https://jp.ign.com/games/84378/weplay-expo-japan-2027424",
    "source": "IGN Japan",
@@ -12022,8 +12053,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 143,
-   "accepted": 136
+   "archived": 145,
+   "accepted": 138
   },
   {
    "id": "automaton",
@@ -12033,8 +12064,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 324,
-   "accepted": 321
+   "archived": 325,
+   "accepted": 322
   },
   {
    "id": "denfaminico",
@@ -12055,8 +12086,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 233,
-   "accepted": 203
+   "archived": 234,
+   "accepted": 204
   },
   {
    "id": "gamespark",
@@ -12066,8 +12097,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 654,
-   "accepted": 648
+   "archived": 656,
+   "accepted": 650
   },
   {
    "id": "inside-games",
@@ -12077,7 +12108,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 776,
+   "archived": 777,
    "accepted": 570
   },
   {
@@ -12154,8 +12185,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 582,
-   "accepted": 466
+   "archived": 584,
+   "accepted": 468
   },
   {
    "id": "gnews-ps5",
@@ -12165,8 +12196,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 277,
-   "accepted": 250
+   "archived": 279,
+   "accepted": 252
   },
   {
    "id": "gnews-update",
@@ -12187,8 +12218,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 12570,
-   "accepted": 197
+   "archived": 12664,
+   "accepted": 200
   },
   {
    "id": "gematsu",
@@ -12259,6 +12290,289 @@
  ],
  "items": [
   {
+   "title": "高評価寿司レースゲーム『わびさび寿司ダービー』には、「裏ワザ」がまだ眠ってるらしい。開発者に訊いた寿司になった理由や高評価の秘訣、そして裏技コマンド",
+   "summary": "「OSAKA INDIE GAMES SUMMIT 2026」で実施した、寿司育成レースゲーム『わびさび寿司ダービー』の開発者ゅゆゆ氏へのインタビューをお届けする。",
+   "link": "https://automaton-media.com/articles/interviewsjp/wabisabi-20261008-472492/",
+   "pubDate": "2026-10-08T09:46:23.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/wabisabi-20261008-472492-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "indie",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "わびさび寿司ダービー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/interviewsjp/wabisabi-20261008-472492/"
+    }
+   ]
+  },
+  {
+   "title": "「『キングダム ハーツ IV』へと続くこれ以上ない花道」海外レビューハイスコア『キングダム ハーツ コレクション [I～III]』",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/08/173354.html",
+   "pubDate": "2026-10-08T09:45:02.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "キングダム ハーツ IV",
+    "キングダム ハーツ コレクション [I~III]"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/08/173354.html"
+    }
+   ]
+  },
+  {
+   "title": "eスポーツチーム「REJECT」ふ～ど・YAS・ひなお・Laggia・Raef、フランス・ニースで開催の『EVO FRANCE 2026』に出場",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000665.000050979.html",
+   "pubDate": "2026-10-08T09:41:20.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "EVO FRANCE 2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000665.000050979.html"
+    }
+   ]
+  },
+  {
+   "title": "バガチャン2026 優勝店「恵比寿BLACOWS」監修の期間限定バーガーに「よつ葉スライスチーズ」が採用",
+   "summary": "よつ葉乳業株式会社（本社：北海道札幌市、代表取締役社長：井出 元郎）は、当社商品「よつ葉スライスチーズ」が、ウェンディーズ・ジャパン株式会社およびファーストキッチン株式会社が運営するハンバーガーレ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000026.000170412.html",
+   "pubDate": "2026-10-08T09:41:20.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "esports",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000026.000170412.html"
+    }
+   ]
+  },
+  {
+   "title": "「プロセカ」，リズムゲーム楽曲「アルティメットセンパイ」を追加",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/476/G047609/20261008038/",
+   "pubDate": "2026-10-08T09:40:36.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/476/G047609/20261008038/"
+    }
+   ]
+  },
+  {
+   "title": "『ワンス・アポン・ア・塊魂』Switch2版が本日（10/8）発売。『Rolling LIVE』の一部内容を収録した有料追加DLC“ローリングライブハイライツ”も配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMDZDNTViZEViNE9HR1hMNUFGTnZNbnFGQ1ZtQzRzV1QyOXh5X195N3RFRk04SGo0WUhXXy1iTUl1NE5QdTdEQmJiMzFLcm1SSzZWX0JXOA?oc=5",
+   "pubDate": "2026-10-08T09:40:00.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ワンス・アポン・ア・塊魂",
+    "Rolling LIVE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMDZDNTViZEViNE9HR1hMNUFGTnZNbnFGQ1ZtQzRzV1QyOXh5X195N3RFRk04SGo0WUhXXy1iTUl1NE5QdTdEQmJiMzFLcm1SSzZWX0JXOA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "【最初の30日間は無料配布】六角形の盤面で相手カードを裏返す数値比較・陣取りローグライクデッキ構築『Hex Reverse』Steamで無料公開中―有料化後もそのまま遊べる",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/08/173353.html",
+   "pubDate": "2026-10-08T09:35:03.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": null,
+    "free": true
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Hex Reverse"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/08/173353.html"
+    }
+   ]
+  },
+  {
+   "title": "「ぷよクエ」，番組「ぷよクエ公式生放送 〜13.5周年スペシャル〜」を10月10日に配信",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/202/G020261/20261008037/",
+   "pubDate": "2026-10-08T09:32:13.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/202/G020261/20261008037/"
+    }
+   ]
+  },
+  {
+   "title": "Switch 2版「FFVII リメイク インターグレード」DDX版が割引率アップで1,775円（税込）！スクエニのDL版セールが開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WVXRfVVliTlJnZGRrV3FKX1c4UlRkS1JNY09KV0lBZzdSVUZmZ05CN3FkS1poOUV1Nm05QmYtMDNqLVhvWDlPaThURUpDNG1HVnk3dA?oc=5",
+   "pubDate": "2026-10-08T09:32:00.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "Gamer",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "FFVII リメイク インターグレード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WVXRfVVliTlJnZGRrV3FKX1c4UlRkS1JNY09KV0lBZzdSVUZmZ05CN3FkS1poOUV1Nm05QmYtMDNqLVhvWDlPaThURUpDNG1HVnk3dA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "Game*Sparkレビュー：映画「バイオハザード」が取り戻した“恐怖”―監督にザック・クレッガーが適任だった理由",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/08/173352.html",
@@ -12283,6 +12597,34 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/08/173352.html"
+    }
+   ]
+  },
+  {
+   "title": "マクドナルド×USJコラボ再びか。次回ハッピーセット予告公開25周年の「ユニバーサル・スタジオ・ジャパン オールスターズ」に期待",
+   "summary": "日本マクドナルドは10月8日、Xにて次回ハッピーセット予告と思われる画像を公開した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2146860.html",
+   "pubDate": "2026-10-08T09:27:12.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2146860.html"
     }
    ]
   },
@@ -12421,6 +12763,36 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/"
+    }
+   ]
+  },
+  {
+   "title": "大型ゲームイベント“WePlay Expo JAPAN 2027”が2027年4月2日～4日に幕張メッセで開催。AAAタイトルからインディータイトルまでが集まる場に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TZUJoZXpJb012eW1kX0JVVk5aQWVjZW9NSnlVc0xUV2U3cW9KdlVtSnR5WVRBTjh4VUNZQURjaUlkdUFteG1GOVBLRWttUkdROUVlUnNMZw?oc=5",
+   "pubDate": "2026-10-08T09:10:00.000Z",
+   "firstSeen": "2026-10-08T09:47:56.021Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TZUJoZXpJb012eW1kX0JVVk5aQWVjZW9NSnlVc0xUV2U3cW9KdlVtSnR5WVRBTjh4VUNZQURjaUlkdUFteG1GOVBLRWttUkdROUVlUnNMZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -13188,6 +13560,11 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/040/G104086/20261008034/"
+    },
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000609.000053064.html"
     },
     {
      "name": "gamebiz【ゲームビズ】",
@@ -15930,7 +16307,7 @@
    "firstSeen": "2026-10-08T05:47:47.369Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15949,9 +16326,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zS3JRYXdEODhEYVNuM3hLME5EUFZnbmhHektlY2VtOXVhWVI0dENicmltVGJIZUc5ckh6a0dRbHhBWGMyWkNvZXAyNDhyOHNFNkZaczRfMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -18144,37 +18521,6 @@
    ]
   },
   {
-   "title": "4匹のケモノを操作して悪霊軍団と戦う2Dアクション「ケモノヒーローズ」のPS5版が発売！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yMFJYRl9DdFU3YTRnVld1S0JSb1JuLU5FZ1dGRmY5WWJ5YlZlS01nRGswWndyaXZINS1JNTlXWlR4ZU5QOENpczlPd24zUGRzVkx2WE1aZ3ZGMFp3X0FF?oc=5",
-   "pubDate": "2026-10-08T02:49:27.000Z",
-   "firstSeen": "2026-10-08T04:47:49.689Z",
-   "image": null,
-   "source": "千葉テレビ放送株式会社",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "ケモノヒーローズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "千葉テレビ放送株式会社",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yMFJYRl9DdFU3YTRnVld1S0JSb1JuLU5FZ1dGRmY5WWJ5YlZlS01nRGswWndyaXZINS1JNTlXWlR4ZU5QOENpczlPd24zUGRzVkx2WE1aZ3ZGMFp3X0FF?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
    "title": "「Core Keeper」，Steamで全編無料のフリーウィークエンドを10月9日から開催。最新アップデート「地下のライダー」も遊べる",
    "summary": "PugstormとFireshineGamesは本日，採掘サンドボックスADV「CoreKeeper」のPC（Steam）版が全編無料で遊べるフリーウィークエンドを，2026年10月9日2：00から10月13日2：00まで開催すると発表した。本作は最大8人の協力プレイに対応してお…",
    "link": "https://www.4gamer.net/games/621/G062117/20261008009/",
@@ -18345,6 +18691,43 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000104.000089834.html"
+    }
+   ]
+  },
+  {
+   "title": "4匹のケモノを操作して悪霊軍団と戦う2Dアクション「ケモノヒーローズ」のPS5版が発売！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yMFJYRl9DdFU3YTRnVld1S0JSb1JuLU5FZ1dGRmY5WWJ5YlZlS01nRGswWndyaXZINS1JNTlXWlR4ZU5QOENpczlPd24zUGRzVkx2WE1aZ3ZGMFp3X0FF?oc=5",
+   "pubDate": "2026-10-08T02:37:00.000Z",
+   "firstSeen": "2026-10-08T04:47:49.689Z",
+   "image": null,
+   "source": "千葉テレビ放送株式会社",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "ケモノヒーローズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yMFJYRl9DdFU3YTRnVld1S0JSb1JuLU5FZ1dGRmY5WWJ5YlZlS01nRGswWndyaXZINS1JNTlXWlR4ZU5QOENpczlPd24zUGRzVkx2WE1aZ3ZGMFp3X0FF?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XeGdCYTgyR0JBcXU3dGxVTFZoX0RZVW56cGFCVndlTkJqdFZTMk9OU3Rmb1NSWkhMQ3VhRnNaZ0VEbFUtMTZnSVlITFY0TkwybmpKTA?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -103436,7 +103819,7 @@
    ]
   },
   {
-   "title": "ゲーム内アップデート実施のお知らせ (Patch 1.3.1) | SILENT HILL 公式サイト",
+   "title": "ゲーム内アップデート実施のお知らせ (Patch 1.3.0) | SILENT HILL f 公式サイト",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFBaTlMzS2xDTlBGMHdIQl9xN3Y0Wi1TMXRRUVRGZFBVYW1qX19DR2M4MUZLTjdDQ3MwenI1UnZxbmE1MUF2RnpfX0w4UXlEVTVsblV2OUltMHVjam9YN0VoTFZmLXgySGdUNGQtRFF4Z3BXNjV6ZFE0bERIcFR1U3BvMDZGODQ?oc=5",
    "pubDate": "2026-09-30T08:56:26.000Z",
