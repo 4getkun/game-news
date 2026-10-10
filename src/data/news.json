@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-10T08:48:45.152Z",
+ "generatedAt": "2026-10-10T09:48:33.584Z",
  "count": 6000,
  "dedupe": {
-  "exact": 562,
+  "exact": 565,
   "syndicated": 38,
   "similar": 180,
-  "syndicatedTotal": 185,
+  "syndicatedTotal": 186,
   "syndicatedLeft": 9
  },
  "calendar": [
@@ -9306,6 +9306,22 @@
   {
    "date": "2026-11-04",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ドキばぐ闇鍋編",
+   "title": "柴田亜美先生による大人気マンガの傑作選『ドキばぐ闇鍋編』11月4日発売で予約受付中！ 11月7日開催の“ファミ通40周年フェス”ではサイン会も",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMEh2OGhmVV82RkJ5TVZET05XM0VWQVFrYzhmLTJINzZEZmxoWTliUVRTVG9UNE83LVhkLWtQb0g5cFMtb3N5WTVvSnpyTFJnZWFhRVJ6VQ?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-04",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "テイルズ オブ ジ アビス",
@@ -9537,6 +9553,22 @@
    "categories": [
     "demo",
     "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "ドキばぐ闇鍋編",
+   "title": "柴田亜美先生による大人気マンガの傑作選『ドキばぐ闇鍋編』11月4日発売で予約受付中！ 11月7日開催の“ファミ通40周年フェス”ではサイン会も",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMEh2OGhmVV82RkJ5TVZET05XM0VWQVFrYzhmLTJINzZEZmxoWTliUVRTVG9UNE83LVhkLWtQb0g5cFMtb3N5WTVvSnpyTFJnZWFhRVJ6VQ?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -10724,6 +10756,22 @@
    ],
    "platforms": [
     "switch",
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "モンハンワイルズSwitch2版12月4日発売へ、ハンターの「重ね着コーデ」投稿に7,589いいね",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FVHRRVkhSc2FRVFd2aW00QmRKZlZNSmJEY2lGSGpQYVJDOE1MNW9jcml3eFRkcnlrZnl2RjVxUlQ1aTZN?oc=5",
+   "source": "shiritomo",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
     "switch2"
    ],
    "spoiler": false
@@ -12364,8 +12412,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 557,
-   "accepted": 548
+   "archived": 559,
+   "accepted": 550
   },
   {
    "id": "4gamer-sp",
@@ -12386,8 +12434,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 371,
-   "accepted": 366
+   "archived": 372,
+   "accepted": 367
   },
   {
    "id": "denfaminico",
@@ -12419,8 +12467,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 777,
-   "accepted": 768
+   "archived": 779,
+   "accepted": 770
   },
   {
    "id": "inside-games",
@@ -12474,8 +12522,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 540,
-   "accepted": 431
+   "archived": 542,
+   "accepted": 433
   },
   {
    "id": "gnews-dengeki",
@@ -12485,8 +12533,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 491,
-   "accepted": 244
+   "archived": 492,
+   "accepted": 245
   },
   {
    "id": "gnews-newgame",
@@ -12496,8 +12544,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 324,
-   "accepted": 302
+   "archived": 325,
+   "accepted": 303
   },
   {
    "id": "gnews-switch2",
@@ -12507,8 +12555,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 616,
-   "accepted": 501
+   "archived": 617,
+   "accepted": 502
   },
   {
    "id": "gnews-ps5",
@@ -12529,8 +12577,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 258,
-   "accepted": 158
+   "archived": 259,
+   "accepted": 159
   },
   {
    "id": "prtimes",
@@ -12562,8 +12610,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 694,
-   "accepted": 694
+   "archived": 695,
+   "accepted": 695
   },
   {
    "id": "eurogamer",
@@ -12595,8 +12643,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 190,
-   "accepted": 190
+   "archived": 191,
+   "accepted": 191
   },
   {
    "id": "pcgamer",
@@ -12611,6 +12659,220 @@
   }
  ],
  "items": [
+  {
+   "title": "“チーム制”縦シュー『アームドポリス バトライダー（仮）』発表―『魔法大作戦』『バトルガレッガ』の機体も参戦のSTGがエムツーショットトリガーズで復活へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/10/173477.html",
+   "pubDate": "2026-10-10T09:27:54.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アームドポリス バトライダー(仮)",
+    "魔法大作戦",
+    "バトルガレッガ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/10/173477.html"
+    }
+   ]
+  },
+  {
+   "title": "モンハンワイルズSwitch2版12月4日発売へ、ハンターの「重ね着コーデ」投稿に7,589いいね",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FVHRRVkhSc2FRVFd2aW00QmRKZlZNSmJEY2lGSGpQYVJDOE1MNW9jcml3eFRkcnlrZnl2RjVxUlQ1aTZN?oc=5",
+   "pubDate": "2026-10-10T09:21:49.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "shiritomo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "shiritomo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FVHRRVkhSc2FRVFd2aW00QmRKZlZNSmJEY2lGSGpQYVJDOE1MNW9jcml3eFRkcnlrZnl2RjVxUlQ1aTZN?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "イカサマポーカーで地獄を生き残れ。“666”が最強の役になる「Hell Hold'em」はローグライクとテキサス・ホールデムが見事に融合した注目作だ",
+   "summary": "ゲームイベント「SAGABarcelonaGameFest2026」会場では，独創的なアイデアで注目を集めるインディータイトルが多数展示されている。そのなかでも，一風変わった世界観と骨太なシステムで来場者にアピールしているのが，地獄を舞台にしたデッキ構築型ローグライク「HellH…",
+   "link": "https://www.4gamer.net/games/049/G104929/20261010013/",
+   "pubDate": "2026-10-10T09:13:29.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/049/G104929/20261010013/"
+    }
+   ]
+  },
+  {
+   "title": "舞とクーラもお得に使用できる！『DEAD OR ALIVE 6 Last Round』キャラクター使用権含むDLCセールが開催中",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/10/173476.html",
+   "pubDate": "2026-10-10T09:10:03.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "update",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "DEAD OR ALIVE 6 Last Round"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/10/173476.html"
+    }
+   ]
+  },
+  {
+   "title": "週刊Steam広場 第174号：「Clive Barker's Hellraiser: Revival」や「スター・ウォーズ：ギャラクティック・レーサー」が発売に",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，ホラー映画「ヘル・レイザー」シリーズを題材とする「CliveBarker'sHellraiser:Revival」や，ローグライトレース「スター・ウォーズ：ギャラクティック・レーサー」が…",
+   "link": "https://www.4gamer.net/games/038/G003821/20261009008/",
+   "pubDate": "2026-10-10T09:00:00.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/038/G003821/20261009008/"
+    }
+   ]
+  },
+  {
+   "title": "柴田亜美先生による大人気マンガの傑作選『ドキばぐ闇鍋編』11月4日発売で予約受付中！ 11月7日開催の“ファミ通40周年フェス”ではサイン会も",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMEh2OGhmVV82RkJ5TVZET05XM0VWQVFrYzhmLTJINzZEZmxoWTliUVRTVG9UNE83LVhkLWtQb0g5cFMtb3N5WTVvSnpyTFJnZWFhRVJ6VQ?oc=5",
+   "pubDate": "2026-10-10T09:00:00.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドキばぐ闇鍋編"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMEh2OGhmVV82RkJ5TVZET05XM0VWQVFrYzhmLTJINzZEZmxoWTliUVRTVG9UNE83LVhkLWtQb0g5cFMtb3N5WTVvSnpyTFJnZWFhRVJ6VQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "『ドラゴンズドグマ 2：ダークアリズン』いきなりSteam同接“3万人”突破、評判も上々。12種類の新ダンジョンに新シナリオ、“ハクスラ”楽しめる新天地など追加要素てんこ盛り",
+   "summary": "カプコンは10月9日、『ドラゴンズドグマ 2：ダークアリズン』を発売した。本作は『ドラゴンズドグマ 2』に拡張コンテンツを盛り込んだ作品で、それら追加要素が人気となり、さっそく盛況を博しているかたちだ。",
+   "link": "https://automaton-media.com/articles/newsjp/20261010-472969/",
+   "pubDate": "2026-10-10T08:57:31.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472969-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 15,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ドラゴンズドグマ 2:ダークアリズン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261010-472969/"
+    }
+   ]
+  },
   {
    "title": "スイッチ2版『ドラゴンズドグマ 2：ダークアリズン』PS5とのグラフィック比較を海外YouTubeチャンネルが公開―フレーム生成で60fps相当の描写に",
    "summary": "",
@@ -12639,6 +12901,13 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/10/173475.html"
+    },
+    {
+     "name": "Game Spark（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTmZWeUFxVlQ5MlQ3dk5GbGRkSkJKREJrYmx5VHBPUmpzMzA2Qk00ZFlRUUxyUVZpeS1pdWMtSkZxU2JVZndjdnVTcmNZanhnQXFTNVlocC0yNkVQU3E4TDJHazVyN2tSR1paWS1oOFBXRFBTSm9NS1pBSGlkaFE?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -12665,6 +12934,32 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/991/G999110/20261010010/"
+    }
+   ]
+  },
+  {
+   "title": "Magic: The Gathering Marvel: Darkhold Destiny Preorders Are Now Live",
+   "summary": "Grab Play Boosters, Bundles, Commander Precons and more from Marvel's upcoming Darkhold Destiny set, launching in 2027",
+   "link": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live",
+   "pubDate": "2026-10-10T08:38:45.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/09/marvel-darkhold-destiny-ign-preorders-1791557688289.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live"
     }
    ]
   },
@@ -12878,6 +13173,35 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/10/189077.html"
+    }
+   ]
+  },
+  {
+   "title": "『Vガンダム』キャラクター人気投票開催。投票しないのはおかしいですよ、カテジナさん！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBd3otNWpYb2lhVnB2LTByUlA0eXlRTE0xUlktSkJNTEpCOWU5cGxHUi1ZU2c0ZGFFek5NckdncWVBcGdYOVVOVE5zeGxfbXdFeXF2X3UyWnkwZw?oc=5",
+   "pubDate": "2026-10-10T07:30:00.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Vガンダム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBd3otNWpYb2lhVnB2LTByUlA0eXlRTE0xUlktSkJNTEpCOWU5cGxHUi1ZU2c0ZGFFek5NckdncWVBcGdYOVVOVE5zeGxfbXdFeXF2X3UyWnkwZw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -14615,7 +14939,7 @@
    "firstSeen": "2026-10-10T01:48:28.293Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14632,9 +14956,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iSWw0ZnFUWXpHZ2JMMlhIRGhxV215M3lLdzl0VUUxS0g1ekNrY0tUWW5kMm5oanBZeXdqZFR2SHZGSnVtRUtESkxjczdXRTgtWnluQTJQaw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -26510,6 +26834,41 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000544.000014847.html"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『ガルパン』新作アプリゲーム『ガルすか』制作決定。自分だけのチームを編成して戦うディフェンスゲーム",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VlM2QXRVTm1LRlQwenVMeGJTRld5R1pCcFNvRjhacDRkZ3dDM2VSaE12MmdXeXhsX2lvbWVPVXh6VDVnWF9qV3FnZkkwd1ViUFZUOVNZRGVGUQ?oc=5",
+   "pubDate": "2026-10-09T03:41:00.000Z",
+   "firstSeen": "2026-10-10T09:48:26.473Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "ガルパン",
+    "ガルすか"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VlM2QXRVTm1LRlQwenVMeGJTRld5R1pCcFNvRjhacDRkZ3dDM2VSaE12MmdXeXhsX2lvbWVPVXh6VDVnWF9qV3FnZkkwd1ViUFZUOVNZRGVGUQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -191109,297 +191468,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2609243a"
-    }
-   ]
-  },
-  {
-   "title": "10月サ終予定の『AVA』特設サイトにSHAKAさんなど4名からのコメント追加公開―新作『AVA RE:BIRTH』はクローズドβテストの応募受付開始",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172719.html",
-   "pubDate": "2026-09-24T12:15:03.000Z",
-   "firstSeen": "2026-09-24T12:15:03.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "demo",
-    "trouble"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "AVA",
-    "AVA RE:BIRTH"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172719.html"
-    }
-   ]
-  },
-  {
-   "title": "Xbox’s New Mythic Achievements Take 15 Seconds To Tell You “Good Job”",
-   "summary": "Xbox Achievements have remained mostly the same since they were first introduced decades ago, but it looks like they're set to evolve slight…",
-   "link": "https://www.gamespot.com/articles/xboxs-new-mythic-achievements-take-15-seconds-to-tell-you-good-job/",
-   "pubDate": "2026-09-24T12:12:08.000Z",
-   "firstSeen": "2026-09-24T12:12:08.000Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-Mythic.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/xboxs-new-mythic-achievements-take-15-seconds-to-tell-you-good-job/"
-    }
-   ]
-  },
-  {
-   "title": "「バンドリ！アワーノーツ」が本日リリース。SRメンバーのミラクルチケットなど，豪華報酬を獲得できるログインキャンペーンが開催中",
-   "summary": "ブシロードは本日（2026年9月24日），スマートフォン向け新作リズムゲーム「バンドリ！アワーノーツ」をリリースした。「BanGDream!」プロジェクトの新作リズムゲームで，新バンド「millsage」「一家DumbRock!」が登場し，新たなゲームモードも楽しめる。リリースを…",
-   "link": "https://www.4gamer.net/games/974/G097456/20260924061/",
-   "pubDate": "2026-09-24T12:11:07.000Z",
-   "firstSeen": "2026-09-24T12:11:07.000Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/974/G097456/20260924061/"
-    }
-   ]
-  },
-  {
-   "title": "第20回アジア競技大会のeスポーツ全11種目にテンセントの「ECS」を導入。競技運営を技術面から支援",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/991/G999107/20260924062/",
-   "pubDate": "2026-09-24T12:06:24.000Z",
-   "firstSeen": "2026-09-24T12:06:24.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999107/20260924062/"
-    }
-   ]
-  },
-  {
-   "title": "「20周年記念『龍が如く』冠婚贈祭展 -極-」，チケットを販売中",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/947/G094758/20260924060/",
-   "pubDate": "2026-09-24T12:01:21.000Z",
-   "firstSeen": "2026-09-24T12:01:21.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "龍が如く"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/947/G094758/20260924060/"
-    }
-   ]
-  },
-  {
-   "title": "【独占】「怪異」×「謎」がテーマの男性VTuber『帳区』がいよいよ9月26日デビュー！ 電ファミ限定でメンバー4名にインタビュー",
-   "summary": "日々の配信に“謎”や“違和感”が現れる期待の新プロジェクト。「怪異診断」からはじまる参加型の仕掛けなどを展開してきたが、ついに全貌が解禁",
-   "link": "https://news.denfaminicogamer.jp/news/2609242p",
-   "pubDate": "2026-09-24T12:00:37.000Z",
-   "firstSeen": "2026-09-24T12:00:37.000Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/tbrq_kv_press_16x9_copy-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "帳区"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2609242p"
-    }
-   ]
-  },
-  {
-   "title": "「クリック」を極めた59gマウスに8KHzキーボード、AIマイクまで！ロジクールG新製品が一挙登場した「G PLAY TOKYO 2026」レポート",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172718.html",
-   "pubDate": "2026-09-24T12:00:04.000Z",
-   "firstSeen": "2026-09-24T12:00:04.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172718.html"
-    }
-   ]
-  },
-  {
-   "title": "新規男性VTuberプロジェクト「帳区（とばりく）」，デビュー配信を9月26日に実施。初配信を控えた2人からのメッセージも",
-   "summary": "MBSイノベーションドライブとアップランドは本日（2026年9月24日），両社が共同で展開する新規VTuberプロジェクト「帳区（とばりく）」所属の男性VTuber4名の初配信を9月26日に実施すると発表した。併せてプロジェクトPVの公開もスタートしている。",
-   "link": "https://www.4gamer.net/games/044/G104483/20260924001/",
-   "pubDate": "2026-09-24T12:00:00.000Z",
-   "firstSeen": "2026-09-24T12:00:00.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/044/G104483/20260924001/"
-    }
-   ]
-  },
-  {
-   "title": "【イニブ】『ガンダム EXVS.2』アムロ搭乗“リ・ガズィ”が10月7日参戦。ダミーバルーンや89式ベース・ジャバーを駆使して戦う万能機",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51WjMta3FWTExIQXNTbGhLeW1TaUF4TWN6X09QODZLdmsxZXdkR3hnZTFkODRTX283NmtLdXc4N0lKVjRRc05fNmtLV2dlVlE0MnVkR0tnMA?oc=5",
-   "pubDate": "2026-09-24T12:00:00.000Z",
-   "firstSeen": "2026-09-24T12:00:00.000Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ガンダム EXVS.2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51WjMta3FWTExIQXNTbGhLeW1TaUF4TWN6X09QODZLdmsxZXdkR3hnZTFkODRTX283NmtLdXc4N0lKVjRRc05fNmtLV2dlVlE0MnVkR0tnMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program",
-   "summary": "Well, at least it looks a little nicer. Believe it or not, Dragon Quest XI: Echoes of an Elusive Age was the first title ever announced for…",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
-   "pubDate": "2026-09-24T12:00:00.000Z",
-   "firstSeen": "2026-09-24T12:00:00.000Z",
-   "image": "https://images.nintendolife.com/057c94eab9d69/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition"
     }
    ]
   }
