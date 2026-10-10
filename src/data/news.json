@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-10T05:48:41.237Z",
+ "generatedAt": "2026-10-10T06:48:34.033Z",
  "count": 6000,
  "dedupe": {
-  "exact": 564,
+  "exact": 567,
   "syndicated": 38,
-  "similar": 184,
+  "similar": 185,
   "syndicatedTotal": 189,
   "syndicatedLeft": 10
  },
@@ -1470,6 +1470,22 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "秋の夜長に遊びたい10月発売の新作アクション5選！銀河で無慈悲なレースに挑み、リズムに乗って戦い、昭和の異界で銃を撃ちまくろう【特集】",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189076.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "new"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -5865,6 +5881,23 @@
     "collab"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "トラックフル",
+   "title": "トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tVXR6eUN5Ql9MOFlHQlQzYmpwa1F5amhYcGQ2cWRJbnpqOEluS0ZyOXotQVBIR2FDa2lHeXY1UnhoQmdTX3hyRkpIZHAwUXVsWGNTeTFKQQ?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "pc",
+    "mobile"
+   ],
    "spoiler": false
   },
   {
@@ -10360,6 +10393,22 @@
   {
    "date": "2026-12",
    "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "Switch 2の操作性を向上させるグリップが12月上旬に発売！装着したままドックにセット可能",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yVzIxc3JLUDFjV2xvN0kzOURxTDlwUE5OOWhXNkZTeXBJb2FnSXJ1cHRkTXJlNWl4OVM0RXNDZWdMclo0RHNtXzVwYkNEdmtqTGhzZg?oc=5",
+   "source": "Gamer",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
    "verb": "update",
    "label": "アップデート",
    "work": "餓狼伝説 City of the Wolves",
@@ -12350,8 +12399,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 553,
-   "accepted": 544
+   "archived": 555,
+   "accepted": 546
   },
   {
    "id": "4gamer-sp",
@@ -12361,8 +12410,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 161,
-   "accepted": 154
+   "archived": 162,
+   "accepted": 155
   },
   {
    "id": "automaton",
@@ -12372,8 +12421,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 368,
-   "accepted": 363
+   "archived": 369,
+   "accepted": 364
   },
   {
    "id": "denfaminico",
@@ -12383,8 +12432,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 709,
-   "accepted": 595
+   "archived": 710,
+   "accepted": 596
   },
   {
    "id": "gamewatch",
@@ -12405,8 +12454,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 769,
-   "accepted": 760
+   "archived": 771,
+   "accepted": 762
   },
   {
    "id": "inside-games",
@@ -12416,8 +12465,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 888,
-   "accepted": 656
+   "archived": 889,
+   "accepted": 657
   },
   {
    "id": "ps-blog",
@@ -12460,8 +12509,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 538,
-   "accepted": 426
+   "archived": 539,
+   "accepted": 428
   },
   {
    "id": "gnews-dengeki",
@@ -12482,8 +12531,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 335,
-   "accepted": 313
+   "archived": 336,
+   "accepted": 314
   },
   {
    "id": "gnews-switch2",
@@ -12493,8 +12542,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 635,
-   "accepted": 517
+   "archived": 637,
+   "accepted": 519
   },
   {
    "id": "gnews-ps5",
@@ -12504,8 +12553,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 328,
-   "accepted": 295
+   "archived": 329,
+   "accepted": 297
   },
   {
    "id": "gnews-update",
@@ -12526,7 +12575,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 14629,
+   "archived": 14647,
    "accepted": 236
   },
   {
@@ -12598,34 +12647,267 @@
  ],
  "items": [
   {
-   "title": "DMM GAMESでも事前登録受付中！新作ブラウザゲーム『カオス★スマッシュ』",
+   "title": "ゲーム実況には過激すぎた？ホラーACT『Clive Barker's Hellraiser: Revival』実況でYouTubeチャンネル削除...海外投稿者本人は「編集で隠していたのに」と不満を露わに",
    "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000231.000087703.html",
-   "pubDate": "2026-10-10T05:40:37.000Z",
-   "firstSeen": "2026-10-10T05:48:30.008Z",
+   "link": "http://www.gamespark.jp/article/2026/10/10/173469.html",
+   "pubDate": "2026-10-10T06:30:03.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
    "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
    "syndicated": false,
-   "kind": "press",
+   "kind": "specialist",
    "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "release",
-    "mobile"
-   ],
+   "score": 16,
+   "categories": [],
    "deal": null,
    "platforms": [],
    "works": [
-    "カオス★スマッシュ"
+    "Clive Barker's Hellraiser: Revival"
    ],
    "spoiler": false,
    "sources": [
     {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000231.000087703.html"
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/10/173469.html"
+    }
+   ]
+  },
+  {
+   "title": "『Canyons』のリリース時期が2027年11月と発表！初となる協力プレイ用キャンペーンの予告トレーラーも公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ybHJSUVBNTzNIbVdCRTdyZGp5Q0loNzlLLThOTUtjMG5VVHo3ZGlVa09lOS1udUpMc09sMENDUkR0ZWlwZHcwQmNLQnFyWklQVFZIdExacUU0SDg?oc=5",
+   "pubDate": "2026-10-10T06:27:48.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Canyons"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ybHJSUVBNTzNIbVdCRTdyZGp5Q0loNzlLLThOTUtjMG5VVHo3ZGlVa09lOS1udUpMc09sMENDUkR0ZWlwZHcwQmNLQnFyWklQVFZIdExacUU0SDg?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "秋の夜長に遊びたい10月発売の新作アクション5選！銀河で無慈悲なレースに挑み、リズムに乗って戦い、昭和の異界で銃を撃ちまくろう【特集】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189076.html",
+   "pubDate": "2026-10-10T06:00:03.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189076.html"
+    }
+   ]
+  },
+  {
+   "title": "「プロセカ」，ハイドレンジアをリズムゲーム楽曲に追加。3DMVも公開",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/476/G047609/20261009047/",
+   "pubDate": "2026-10-10T06:00:00.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/476/G047609/20261009047/"
+    }
+   ]
+  },
+  {
+   "title": "Switch 2の操作性を向上させるグリップが12月上旬に発売！装着したままドックにセット可能",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yVzIxc3JLUDFjV2xvN0kzOURxTDlwUE5OOWhXNkZTeXBJb2FnSXJ1cHRkTXJlNWl4OVM0RXNDZWdMclo0RHNtXzVwYkNEdmtqTGhzZg?oc=5",
+   "pubDate": "2026-10-10T05:59:00.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": null,
+   "source": "Gamer",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yVzIxc3JLUDFjV2xvN0kzOURxTDlwUE5OOWhXNkZTeXBJb2FnSXJ1cHRkTXJlNWl4OVM0RXNDZWdMclo0RHNtXzVwYkNEdmtqTGhzZg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『ソニックレーシング クロスワールド』シーズン2開幕、1対1新モード「デュエルモード」が登場。DLCでは「ゴジラ」「エヴァンゲリオン」「FF7リメイク」など、コラボたくさん",
+   "summary": "セガは10月10日、レースゲーム『ソニックレーシング クロスワールド』にてシーズン2を開始した。シーズン2では新モード「デュエルモード」が追加されている。またDLCとして登場するコラボキャラの情報も公開された。",
+   "link": "https://automaton-media.com/articles/newsjp/20261010-472936/",
+   "pubDate": "2026-10-10T05:56:23.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472936-header.jpeg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "new",
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ソニックレーシング クロスワールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261010-472936/"
+    }
+   ]
+  },
+  {
+   "title": "トラック配達ゲーム『トラックフル』物理演算でバランス不安定な積み荷を慎重に運ぶ。Steam＆Google Play版が本日（10/10）発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tVXR6eUN5Ql9MOFlHQlQzYmpwa1F5amhYcGQ2cWRJbnpqOEluS0ZyOXotQVBIR2FDa2lHeXY1UnhoQmdTX3hyRkpIZHAwUXVsWGNTeTFKQQ?oc=5",
+   "pubDate": "2026-10-10T05:55:00.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc",
+    "mobile"
+   ],
+   "works": [
+    "トラックフル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tVXR6eUN5Ql9MOFlHQlQzYmpwa1F5amhYcGQ2cWRJbnpqOEluS0ZyOXotQVBIR2FDa2lHeXY1UnhoQmdTX3hyRkpIZHAwUXVsWGNTeTFKQQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "3つのイベントを統合した南ヨーロッパ最大級のゲームイベント「SAGA Barcelona Game Fest 2026」が開催。ゲスト国の日本からはゲーム音楽のレジェンドも参加",
+   "summary": "スペイン・バルセロナで「SAGABarcelonaGameFest2026」が10月9日から11日まで開催中だ。3つのイベントを統合した新たなゲームイベントで，第1回のゲスト国には日本を選出された。東野美紀氏と松前真奈美氏によるトークセッションも行われる。",
+   "link": "https://www.4gamer.net/games/991/G999110/20261010007/",
+   "pubDate": "2026-10-10T05:51:11.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/991/G999110/20261010007/"
+    }
+   ]
+  },
+  {
+   "title": "水槽から脱して冒険する“エビ”を飼育する水槽管理ゲーム『Indoor Shrimp Farming Simulator』の無料体験版が配信開始。なぜかエビがスケボーに乗り、お外を探検可能",
+   "summary": "1700種以上のエビを飼育する放置系ゲームかと思いきや、広大な世界で他エビの依頼もこなせる異色のタイトル。内なるエビを解き放て",
+   "link": "https://news.denfaminicogamer.jp/news/261010j",
+   "pubDate": "2026-10-10T05:49:47.000Z",
+   "firstSeen": "2026-10-10T06:48:27.022Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/16x9-1024x587.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Indoor Shrimp Farming Simulator"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261010j"
     }
    ]
   },
@@ -12747,6 +13029,37 @@
    ]
   },
   {
+   "title": "【P5R】『ペルソナ5 ザ・ロイヤル』とbeautiful peopleコラボの上下逆で着られるブルゾンって何なんだ。意味不明レベルの構造設計技術",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82d1M2T0RxX0EtWlh1VnliRk9IekhSNDVfdDdsbDRHWUZVeVF4Q3BaWFo2N0s1RjRCU2NpSU5NcTU3OTVZd19JUE5XSzZXYzZ1MWZ4ejhrTQ?oc=5",
+   "pubDate": "2026-10-10T04:47:00.000Z",
+   "firstSeen": "2026-10-10T05:48:30.008Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ペルソナ5 ザ・ロイヤル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82d1M2T0RxX0EtWlh1VnliRk9IekhSNDVfdDdsbDRHWUZVeVF4Q3BaWFo2N0s1RjRCU2NpSU5NcTU3OTVZd19JUE5XSzZXYzZ1MWZ4ejhrTQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RdFA5SWFQbVMwaEpfNHJfLUtCMXlpSG1iaFl3bkM0eGdhQkF3enB0TFR2Sm9tMFNIOU5sa09RT3R0bTZSS2N1NlluT01LbWJyTTlOX1pROA?oc=5",
@@ -12780,16 +13093,16 @@
    ]
   },
   {
-   "title": "科学アドベンチャーシリーズのスタッフが贈る完全新作“非”科学サスペンス『覗怪（しかい）』プロローグムービー公開",
-   "summary": "株式会社MAGES. （東京都港区 代表取締役社長：浅田誠）は、今冬発売予定のNintendo Switch(TM)/PlayStation(R)5用ゲーム『覗怪』について、プロローグムービーを公開したことをお知らせいたします。 <h2 class...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000263.000046985.html",
+   "title": "「覗怪（しかい）」のプロローグムービー公開。科学アドベンチャーシリーズのスタッフによる完全新作オカルトサスペンス",
+   "summary": "MAGES.は，2026年冬のリリースを予定している新作アドベンチャーゲーム「覗怪（しかい）」のプロローグムービーを公開した。「STEINS;GATE」など，「論理と科学」で世界の謎を描いてきた科学アドベンチャーシリーズのスタッフが，科学では解き明かせない「怪異」に迫る異色作だ。",
+   "link": "https://www.4gamer.net/games/036/G103670/20261010009/",
    "pubDate": "2026-10-10T04:15:17.000Z",
    "firstSeen": "2026-10-10T04:48:30.341Z",
    "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
    "syndicated": false,
-   "kind": "press",
+   "kind": "specialist",
    "lang": "ja",
    "score": 13,
    "categories": [
@@ -12804,6 +13117,11 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/036/G103670/20261010009/"
+    },
     {
      "name": "PR TIMES",
      "sourceId": "prtimes",
@@ -12870,6 +13188,38 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/991/G999110/20261010008/"
+    }
+   ]
+  },
+  {
+   "title": "DMM GAMESでも事前登録受付中！新作ブラウザゲーム『カオス★スマッシュ』",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000231.000087703.html",
+   "pubDate": "2026-10-10T04:00:02.000Z",
+   "firstSeen": "2026-10-10T05:48:30.008Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カオス★スマッシュ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000231.000087703.html"
     }
    ]
   },
@@ -13076,6 +13426,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/10/189071.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/10/173468.html"
     }
    ]
   },
@@ -35529,6 +35884,35 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/gta-6-reveals-a-handful-of-radio-stations-djs-and-songs-ahead-of-release"
+    }
+   ]
+  },
+  {
+   "title": "『Clive Barker's Hellraiser: Revival』がリリース！「ヘルレイザー」の新たな物語を楽しめるサバイバルホラー",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wWkJYYWRscVFwajExUXg1Nkh0VnM5V0hSV1hIMFo1V2ZFYktVNkp1M2UxSlZ0UWZNNE9kQkNBTEVMSk9hM0tPTGFrMHpjalhFdUtrSmdndExQTms?oc=5",
+   "pubDate": "2026-10-08T14:31:38.000Z",
+   "firstSeen": "2026-10-08T14:47:51.432Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Clive Barker's Hellraiser: Revival"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wWkJYYWRscVFwajExUXg1Nkh0VnM5V0hSV1hIMFo1V2ZFYktVNkp1M2UxSlZ0UWZNNE9kQkNBTEVMSk9hM0tPTGFrMHpjalhFdUtrSmdndExQTms?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -191042,332 +191426,6 @@
      "name": "4Gamer.net（スマホ）",
      "sourceId": "4gamer-sp",
      "link": "https://www.4gamer.net/games/402/G040221/20260924048/"
-    }
-   ]
-  },
-  {
-   "title": "Razer Reclusa X Mini 65% gaming keyboard review",
-   "summary": "A budget mini keeb that somehow manages to feel high-end.",
-   "link": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
-   "pubDate": "2026-09-24T11:05:07.000Z",
-   "firstSeen": "2026-09-24T11:05:07.000Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/YSG4N9J9jHFHRxpSnGamWe-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/"
-    }
-   ]
-  },
-  {
-   "title": "I applied DLSS 5 to my Miku Hatsune game of choice, and I have some regrets",
-   "summary": "Welcome to anime Hell.",
-   "link": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
-   "pubDate": "2026-09-24T11:03:24.000Z",
-   "firstSeen": "2026-09-24T11:03:24.000Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/Ja6npo7oBRfFwGTeJHMWkS-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/"
-    }
-   ]
-  },
-  {
-   "title": "【吉田輝和のTGS絵日記】『FF』がドットのまま進化を続けていたらこうなる！？シリーズ初のHD-2Dで描かれる『ファイナルファンタジー レゾナンス』",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172717.html",
-   "pubDate": "2026-09-24T11:00:03.000Z",
-   "firstSeen": "2026-09-24T11:00:03.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF",
-    "FF レゾナンス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172717.html"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】高身長美女レイヤーが魅せるスリットから伸びた美脚に釘付け！『ブルアカ』アルは細いウエストもすごかった【写真8枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/24/188209.html",
-   "pubDate": "2026-09-24T11:00:03.000Z",
-   "firstSeen": "2026-09-24T11:00:03.000Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ブルアカ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/24/188209.html"
-    }
-   ]
-  },
-  {
-   "title": "わしゃがなTVの最新動画では，ミニチュアサイズのお惣菜「ぷちサンプルシリーズ」の開封動画をお届け。理想の食卓は完成するのか？",
-   "summary": "本日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新動画が公開された。今回は，ぷちサンプルシリーズ「帰り道、いいにおい！〜晩ごはんの想い出〜」と「今日も買ってこ！スーパーのお惣菜」の開封の模様をお届けする。",
-   "link": "https://www.4gamer.net/games/991/G999106/20260924026/",
-   "pubDate": "2026-09-24T11:00:00.000Z",
-   "firstSeen": "2026-09-24T11:00:00.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999106/20260924026/"
-    }
-   ]
-  },
-  {
-   "title": "純正品より安くて多機能なら買いでしょ！ 任天堂ライセンス取得済Switch 2用コントローラーが18％オフ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRYWZJYkRsdDBWdnphdFFtVkdmejhRcXRJOFpQRlZkLWFZUkwwRzFkNkRjTnV1SGc4QnR1emVhN21VR1VQam80Qmc0Yl9JZ0NCSU5ncQ?oc=5",
-   "pubDate": "2026-09-24T11:00:00.000Z",
-   "firstSeen": "2026-09-24T11:00:00.000Z",
-   "image": null,
-   "source": "ASCII.jp",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRYWZJYkRsdDBWdnphdFFtVkdmejhRcXRJOFpQRlZkLWFZUkwwRzFkNkRjTnV1SGc4QnR1emVhN21VR1VQam80Qmc0Yl9JZ0NCSU5ncQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "“臓器を畑で栽培する”クトゥルフ農業経営シム『夜明けの笛吹き者』Steamで好発進。「人柴」量産で作業丸投げ、“SAN値”ある限り働かせる",
-   "summary": "2P Gamesは9月23日、Bone Nailが手がける『夜明けの笛吹き者』を配信開始した。",
-   "link": "https://automaton-media.com/articles/newsjp/20260924-469801/",
-   "pubDate": "2026-09-24T10:59:29.000Z",
-   "firstSeen": "2026-09-24T10:59:29.000Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260924-469801-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "夜明けの笛吹き者"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20260924-469801/"
-    }
-   ]
-  },
-  {
-   "title": "Meta’s $1,300 VR Glasses Could Be The Most Expensive Way To Play Xbox Games",
-   "summary": "For years, Meta has had one of the best entry-level virtual reality headsets with the Quest 3 and its slightly lower-specced successor, the…",
-   "link": "https://www.gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games/",
-   "pubDate": "2026-09-24T10:59:20.000Z",
-   "firstSeen": "2026-09-24T10:59:20.000Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Meta-VR-Glasses.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox",
-    "vr"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games/"
-    }
-   ]
-  },
-  {
-   "title": "『サイバーパンク2077』トラウマ級ボスの「封殺テクニック」、今になって一躍話題に。ホラーかくれんぼ拒絶ビルド",
-   "summary": "『サイバーパンク2077』の拡張パック「仮初めの自由」に登場するとあるボスを“封殺”できるというテクニックが、同拡張リリースより3年越しに脚光を浴びている。",
-   "link": "https://automaton-media.com/articles/newsjp/20260924-469784/",
-   "pubDate": "2026-09-24T10:49:22.000Z",
-   "firstSeen": "2026-09-24T10:49:22.000Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260924-469784-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サイバーパンク2077"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20260924-469784/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch 2版「SHINOBI 復讐の斬撃」，本日発売。通常版とデジタルデラックス版をラインナップ",
-   "summary": "セガは本日（2026年9月24日），Switch2版「SHINOBI復讐の斬撃」を発売した。価格は通常版が3300円，デジタルデラックス版が4400円（いずれも税込）。本作は，伝説の忍者「ジョー・ムサシ」が仲間の仇を討つために，巨悪に立ち向かう物語を描くアクションゲームだ。",
-   "link": "https://www.4gamer.net/games/018/G101851/20260924047/",
-   "pubDate": "2026-09-24T10:48:55.000Z",
-   "firstSeen": "2026-09-24T10:48:55.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 27,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "SHINOBI 復讐の斬撃"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/018/G101851/20260924047/"
-    }
-   ]
-  },
-  {
-   "title": "『テイルズ オブ シンフォニア』コレットの“コーヒー”がコラボカフェに登場。『テイルズ オブ リバース』からは“ピーチパイ”風タルトがラインナップ",
-   "summary": "ufotable Cafeは、「『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ～RPGが紡いだ軌跡～」コラボカフェ第3弾の開催が決定したことを発表した。 コラボカフェ第3弾では、『テイルズ オブ シンフォニア』『テイルズ オブ リバース』の描…",
-   "link": "https://news.denfaminicogamer.jp/news/2609242u",
-   "pubDate": "2026-09-24T10:45:55.000Z",
-   "firstSeen": "2026-09-24T10:45:55.000Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/tales30th-3_cafe-1024x576-1.webp",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "テイルズ オブ シンフォニア",
-    "テイルズ オブ リバース"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2609242u"
     }
    ]
   }
