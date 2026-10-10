@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-10T19:48:13.465Z",
+ "generatedAt": "2026-10-10T20:48:11.253Z",
  "count": 6000,
  "dedupe": {
   "exact": 572,
   "syndicated": 39,
-  "similar": 181,
+  "similar": 182,
   "syndicatedTotal": 190,
   "syndicatedLeft": 10
  },
@@ -12557,8 +12557,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 260,
-   "accepted": 160
+   "archived": 261,
+   "accepted": 161
   },
   {
    "id": "prtimes",
@@ -14922,7 +14922,7 @@
    "firstSeen": "2026-10-10T06:48:27.022Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14940,9 +14940,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tVXR6eUN5Ql9MOFlHQlQzYmpwa1F5amhYcGQ2cWRJbnpqOEluS0ZyOXotQVBIR2FDa2lHeXY1UnhoQmdTX3hyRkpIZHAwUXVsWGNTeTFKQQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -41115,7 +41115,7 @@
    "firstSeen": "2026-10-08T10:47:46.817Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -41132,9 +41132,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSSmR1M2VPbWl6eUtVT3ZqTkFlZG56dmc5SHM4WkJ0NWJ5cm1TWGh5UkZkNUNpbHF1cGJoRWh6UW1Ea2VrVkNCU0pySlY2elVaVXRxYmVrMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
