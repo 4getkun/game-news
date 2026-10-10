@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-10T00:48:32.892Z",
+ "generatedAt": "2026-10-10T01:48:35.174Z",
  "count": 6000,
  "dedupe": {
-  "exact": 558,
+  "exact": 559,
   "syndicated": 38,
   "similar": 181,
   "syndicatedTotal": 188,
@@ -1302,25 +1302,6 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
-   "work": "CoD: MW4",
-   "title": "【10月発売PS5/PS4新作ゲーム】『CoD: MW4』『エースコンバット8』『デューン・アウェイクニング』など最新作を紹介！",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IUkZpbzdORVJvVUl4YTFzYVdSaTNDYi1vMHpSaHFtUklKSUJwdkZER19wMU9Zd2RaTTltbDFUUVQzeUVMbTl0XzdXSXBLaXBpT3l6TE5paw?oc=5",
-   "source": "ファミ通",
-   "sources": 3,
-   "categories": [
-    "new"
-   ],
-   "platforms": [
-    "ps5",
-    "ps4"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
    "work": null,
    "title": "音速で空を制し、スター・ウォーズの違法レースに挑み、麦わらの一味とレストランを経営する！2026年10月発売のおすすめ新作ゲーム5選【特集】",
    "link": "https://www.inside-games.jp/article/2026/10/03/188702.html",
@@ -1363,6 +1344,25 @@
    ],
    "platforms": [
     "xbox"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "CoD: MW4",
+   "title": "【10月発売PS5/PS4新作ゲーム】『CoD: MW4』『エースコンバット8』『デューン・アウェイクニング』など最新作を紹介！",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IUkZpbzdORVJvVUl4YTFzYVdSaTNDYi1vMHpSaHFtUklKSUJwdkZER19wMU9Zd2RaTTltbDFUUVQzeUVMbTl0XzdXSXBLaXBpT3l6TE5paw?oc=5",
+   "source": "ファミ通",
+   "sources": 2,
+   "categories": [
+    "new"
+   ],
+   "platforms": [
+    "ps5",
+    "ps4"
    ],
    "spoiler": false
   },
@@ -5863,6 +5863,22 @@
    "sources": 2,
    "categories": [
     "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「リリア・ゲームミュージック・セレクション vol.3 伊藤賢治 with 成田勤」のチケットが本日発売。2027年3月13日に川口で開催",
+   "link": "https://www.4gamer.net/games/810/G081093/20261007048/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -12097,6 +12113,22 @@
    "spoiler": false
   },
   {
+   "date": "2027-03-13",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "「リリア・ゲームミュージック・セレクション vol.3 伊藤賢治 with 成田勤」のチケットが本日発売。2027年3月13日に川口で開催",
+   "link": "https://www.4gamer.net/games/810/G081093/20261007048/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2027-03-18",
    "precision": "day",
    "verb": "release",
@@ -12288,8 +12320,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 549,
-   "accepted": 540
+   "archived": 551,
+   "accepted": 542
   },
   {
    "id": "4gamer-sp",
@@ -12310,8 +12342,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 363,
-   "accepted": 358
+   "archived": 364,
+   "accepted": 359
   },
   {
    "id": "denfaminico",
@@ -12354,8 +12386,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 875,
-   "accepted": 646
+   "archived": 879,
+   "accepted": 649
   },
   {
    "id": "ps-blog",
@@ -12398,8 +12430,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 531,
-   "accepted": 421
+   "archived": 532,
+   "accepted": 422
   },
   {
    "id": "gnews-dengeki",
@@ -12420,8 +12452,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 333,
-   "accepted": 311
+   "archived": 335,
+   "accepted": 313
   },
   {
    "id": "gnews-switch2",
@@ -12431,8 +12463,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 629,
-   "accepted": 512
+   "archived": 630,
+   "accepted": 513
   },
   {
    "id": "gnews-ps5",
@@ -12453,8 +12485,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 263,
-   "accepted": 161
+   "archived": 262,
+   "accepted": 160
   },
   {
    "id": "prtimes",
@@ -12464,8 +12496,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 14380,
-   "accepted": 228
+   "archived": 14424,
+   "accepted": 230
   },
   {
    "id": "gematsu",
@@ -12486,8 +12518,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 692,
-   "accepted": 692
+   "archived": 694,
+   "accepted": 694
   },
   {
    "id": "eurogamer",
@@ -12536,6 +12568,268 @@
  ],
  "items": [
   {
+   "title": "脱獄サンドボックス新作『The Escapists 3』発表。9年ぶりのシリーズ最新作は3Dに、“5つの刑務所”から自由に脱獄",
+   "summary": "Team17は10月9日、『The Escapists 3』を発表した。本作は脱獄サンドボックス『The Escapists』シリーズの最新作となる。",
+   "link": "https://automaton-media.com/articles/newsjp/the-escapists-3-20261010-472890/",
+   "pubDate": "2026-10-10T01:41:55.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/the-escapists-3-20261010-472890-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "The Escapists 3"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/the-escapists-3-20261010-472890/"
+    }
+   ]
+  },
+  {
+   "title": "10/31（土）「任天堂グループ マリオクラブ株式会社 キャリア採用会社説明会」（オンライン） IT業界やサービス業界などの異業種、他業界からのご応募も大歓迎!!",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000005141.000003670.html",
+   "pubDate": "2026-10-10T01:40:37.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000005141.000003670.html"
+    }
+   ]
+  },
+  {
+   "title": "『ワンピース カードゲーム』“ONE PIECE DAY'26”記念商品がプレバンで抽選販売中！特別な「ルフィ」と「ドン！！カード」の2枚セット",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189066.html",
+   "pubDate": "2026-10-10T01:30:03.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ワンピース カードゲーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189066.html"
+    }
+   ]
+  },
+  {
+   "title": "剣術経験者のこだわりが宿る「QUEEN'S GUARD」プレイレポート。護衛として王女を守り抜くアクションアドベンチャー［OIGS2026］",
+   "summary": "10月3日と4日に開催された「OSAKAINDIEGAMESSUMMIT2026」にて，MIBUKISTUDIOのアクションADV「QUEEN'SGUARD」のデモ版が出展されていた。剣術経験者のこだわりが宿るリアルな攻防の手触りと，2027年発売予定の本作について，開発者のコメ…",
+   "link": "https://www.4gamer.net/games/049/G104928/20261009060/",
+   "pubDate": "2026-10-10T01:30:00.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/049/G104928/20261009060/"
+    }
+   ]
+  },
+  {
+   "title": "キーボードを打つほど、農園が育つ。『コトコト農園』最新DemoがSteamで公開！",
+   "summary": "UMa Studioが開発する、キーボード操作と農園づくりを組み合わせたデスクトップ型放置ゲーム『コトコト農園 ～キーボードで育つちいさな世界～ 』の最新Demoが、Steamにて公開されました。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000003.000181762.html",
+   "pubDate": "2026-10-10T01:15:17.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "コトコト農園"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000003.000181762.html"
+    }
+   ]
+  },
+  {
+   "title": "『崩壊：スターレイル』火花フィギュアが予約締切迫る！いたずらっぽい笑み、シルクハット型のステージが華やかさを演出",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189064.html",
+   "pubDate": "2026-10-10T01:00:03.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩壊:スターレイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189064.html"
+    }
+   ]
+  },
+  {
+   "title": "「リリア・ゲームミュージック・セレクション vol.3 伊藤賢治 with 成田勤」のチケットが本日発売。2027年3月13日に川口で開催",
+   "summary": "川口総合文化センター・リリアで2027年3月13日に開催されるコンサート，「リリア・ゲームミュージック・セレクションvol.3伊藤賢治with成田勤」のチケット一般発売が，本日（10月10日）10：00にスタートした。料金は全席指定8000円（税込）だ。",
+   "link": "https://www.4gamer.net/games/810/G081093/20261007048/",
+   "pubDate": "2026-10-10T01:00:00.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/810/G081093/20261007048/"
+    }
+   ]
+  },
+  {
+   "title": "『覗怪』不気味さが増すプロローグムービーが公開。『STEINS;GATE』『CHAOS;HEAD』科学ADVシリーズスタッフが贈る最新“非”科学サスペンス",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iSWw0ZnFUWXpHZ2JMMlhIRGhxV215M3lLdzl0VUUxS0g1ekNrY0tUWW5kMm5oanBZeXdqZFR2SHZGSnVtRUtESkxjczdXRTgtWnluQTJQaw?oc=5",
+   "pubDate": "2026-10-10T01:00:00.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "覗怪",
+    "STEINS;GATE",
+    "CHAOS;HEAD"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iSWw0ZnFUWXpHZ2JMMlhIRGhxV215M3lLdzl0VUUxS0g1ekNrY0tUWW5kMm5oanBZeXdqZFR2SHZGSnVtRUtESkxjczdXRTgtWnluQTJQaw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "最強合体獣「キングオブモンス」が全高約30cmで立体化！額と目もバッチリ光る",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189063.html",
+   "pubDate": "2026-10-10T00:45:03.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189063.html"
+    }
+   ]
+  },
+  {
    "title": "eスポーツチーム「REJECT」Shadowverse部門 ぱらちゃん、RAGE決勝大会に進出 REJECT HUBでパブリックビューイングを開催",
    "summary": "",
    "link": "https://prtimes.jp/main/html/rd/p/000000667.000050979.html",
@@ -12560,6 +12854,32 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000667.000050979.html"
+    }
+   ]
+  },
+  {
+   "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
+   "summary": "Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But fo…",
+   "link": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
+   "pubDate": "2026-10-10T00:36:42.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/08/mdd-1-1791498129253.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny"
     }
    ]
   },
@@ -12822,6 +13142,61 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/049/G104923/20261009056/"
+    }
+   ]
+  },
+  {
+   "title": "『クレイジータクシー：ワールドツアー』新マップ“ブラジル”が発表。そして“ダイソー”が登場決定。カラフルな世界遺産の街並みや美しいビーチにも注目",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDM0RzekdTNUJ4VXpOZzV1S05KalRkRU1qNVBTY3FYRVJUVkMtbUw1X3doME9saFF5aEFvRkhDd0hINUw4cmhwZUpVOEg0NlJRRFNPSU5KOA?oc=5",
+   "pubDate": "2026-10-10T00:00:00.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "クレイジータクシー:ワールドツアー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDM0RzekdTNUJ4VXpOZzV1S05KalRkRU1qNVBTY3FYRVJUVkMtbUw1X3doME9saFF5aEFvRkhDd0hINUw4cmhwZUpVOEg0NlJRRFNPSU5KOA?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+   "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually…",
+   "link": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+   "pubDate": "2026-10-09T23:56:23.000Z",
+   "firstSeen": "2026-10-10T01:48:28.293Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/09/gta-6-cover-art-1791589629353.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely"
     }
    ]
   },
@@ -13219,7 +13594,7 @@
    "link": "https://www.ign.com/articles/magic-the-gathering-at-nycc-everything-announced",
    "pubDate": "2026-10-09T22:16:00.000Z",
    "firstSeen": "2026-10-09T23:48:30.031Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/live-blog-blogroll-1791585260685.jpg",
+   "image": "https://assets-prd.ignimgs.com/2026/10/10/marvel-mtg-blogroll-1791592739050.jpg",
    "source": "IGN",
    "sourceId": "ign",
    "syndicated": false,
@@ -24229,7 +24604,7 @@
    "firstSeen": "2026-10-09T04:47:45.429Z",
    "image": null,
    "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -24249,9 +24624,9 @@
    "sources": [
     {
      "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDaE10UGtIODhWOVAzTG9YbmJ3aV84dUY5RUMwVEJlbndZQjdTWURWNWxfeTFjVFdQblY2UG9tTG44N2JP?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -33767,7 +34142,7 @@
    "pubDate": "2026-10-08T15:00:00.000Z",
    "firstSeen": "2026-10-08T15:47:49.745Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -33782,7 +34157,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1X25BN0tONUJaM0ZucEZ5cEhmLTJZblVSd1dBM1Buam43YzVQblhIMjctQnh4dGNraXlrbUFTZURDYk14YWJmQjFJdU5pcVctSlIzQTBBUQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -44285,7 +44660,7 @@
    "firstSeen": "2026-10-08T04:47:49.689Z",
    "image": null,
    "source": "Minecraft",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -44300,9 +44675,9 @@
    "sources": [
     {
      "name": "Minecraft",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnhETzd6N3MxQjRwdFFZUmZ0VWd5bG5FWW5qVnk3SXVHRmxvRzU3ZWIwSUVMWkRtZ18tT0p0TTVtUkU5bVBZZWN2STNwa1RmSWVaa2YzOHB6Sm5vYnpNX1AxYWE3VW5SU3R6aF9sSnNpcWVUeEtjbzBmNW9RRFBTQ0djcmpyRDh6RHZFOA?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -45981,12 +46356,6 @@
      "name": "ファミ通",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IUkZpbzdORVJvVUl4YTFzYVdSaTNDYi1vMHpSaHFtUklKSUJwdkZER19wMU9Zd2RaTTltbDFUUVQzeUVMbTl0XzdXSXBLaXBpT3l6TE5paw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    },
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9reFBDMENVTWx5Sk9Bbk9hN0x4OHhxaHNyMDlNNXFiTEp0QUNMVEREdTJ4ZzlUdFRMVTFjLXpWMG1YdEtYX0pwaDlsLV9Cb2hTUlFLVEtqUnlHcWJyek9mUWk3RzhSVnJxVUE?oc=5",
      "via": "Googleニュース「PS5 発売」"
     },
     {
@@ -190964,361 +191333,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/045/G104525/20260924033/"
-    }
-   ]
-  },
-  {
-   "title": "NoQuarter、レトロFPS『BRAZILIAN DRUG DEALER BEFORE 4』をリリース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5qdmJhVjU0b2NabnFqajA3aXhBWWRqdjRpTlJRN1llbzBpVFRlSzZIOWItVFZEVEpzQ2VIYlZsYXZsM3FX?oc=5",
-   "pubDate": "2026-09-24T09:35:00.000Z",
-   "firstSeen": "2026-09-24T09:35:00.000Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "BRAZILIAN DRUG DEALER BEFORE 4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5qdmJhVjU0b2NabnFqajA3aXhBWWRqdjRpTlJRN1llbzBpVFRlSzZIOWItVFZEVEpzQ2VIYlZsYXZsM3FX?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "“くろがねの城”として語り継がれる勇姿！「マジンガーZ」が黒と白の特別カラーでアメイジング・ヤマグチに再臨",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/24/188206.html",
-   "pubDate": "2026-09-24T09:30:03.000Z",
-   "firstSeen": "2026-09-24T09:30:03.000Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/24/188206.html"
-    }
-   ]
-  },
-  {
-   "title": "『ダービースタリオン2』公式攻略ガイドブックが本日発売。種牡馬237頭＆繁殖牝馬327頭のデータを掲載した196ページの別冊付録つき",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xekFsNnpDN2poLW1OSmkycHE3WldNekpmd0hNUUdBeVpFS1gtSE1saS1lUzQtTTN1RFFpQzdCRUIzbDNGbzc1VGQ3cWQ0cE1YQ2NvN3RDMA?oc=5",
-   "pubDate": "2026-09-24T09:30:00.000Z",
-   "firstSeen": "2026-09-24T09:30:00.000Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダービースタリオン2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xekFsNnpDN2poLW1OSmkycHE3WldNekpmd0hNUUdBeVpFS1gtSE1saS1lUzQtTTN1RFFpQzdCRUIzbDNGbzc1VGQ3cWQ0cE1YQ2NvN3RDMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "“願いを叶える悪魔”と少女の百合ADV『ALICE=NULL』Steamにてお披露目。魂を引き換えにした少女の願い、そして実存をめぐる物語",
-   "summary": "Blink Hydrate氏は9月23日、『ALICE=NULL』のSteamストアページを公開した。本作は悪魔を召喚した少女にまつわる、実存をめぐる百合ビジュアルノベルゲームだ。",
-   "link": "https://automaton-media.com/articles/newsjp/alicenull-20260924-469747/",
-   "pubDate": "2026-09-24T09:19:30.000Z",
-   "firstSeen": "2026-09-24T09:19:30.000Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/09/alicenull-20260924-469747-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ALICE=NULL"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/alicenull-20260924-469747/"
-    }
-   ]
-  },
-  {
-   "title": "「牧場物語 歴代ウシさん めじるしアクセサリー」，ガシャポンオンラインで9月25日17：00から予約受付開始。ラインナップはウシさん6種",
-   "summary": "バンダイは，ガシャポン「牧場物語歴代ウシさんめじるしアクセサリー」の予約受付を，ガシャポンオンラインで2026年9月25日17：00から開始する。価格は1回300円（税込）。本商品は，「牧場物語」シリーズに登場した歴代のウシさんをラインナップしためじるしアクセサリーだ。",
-   "link": "https://www.4gamer.net/games/896/G089619/20260924036/",
-   "pubDate": "2026-09-24T09:15:42.000Z",
-   "firstSeen": "2026-09-24T09:15:42.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/896/G089619/20260924036/"
-    }
-   ]
-  },
-  {
-   "title": "Steamでまたマルウェア含む悪質Mod登場…人気の棒人間風キャラぐちゃぐちゃサンドボックス『People Playground』ワークショップ当面は閉鎖へ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172709.html",
-   "pubDate": "2026-09-24T09:15:02.000Z",
-   "firstSeen": "2026-09-24T09:15:02.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "People Playground"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172709.html"
-    }
-   ]
-  },
-  {
-   "title": "『ポケモン ルビー・サファイア』が移植？ SNSで憶測広まるーきっかけは公式の映像が「綺麗すぎる」から、過去ポストと見比べてもクッキリ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/24/188205.html",
-   "pubDate": "2026-09-24T09:15:02.000Z",
-   "firstSeen": "2026-09-24T09:15:02.000Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン ルビー・サファイア"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/24/188205.html"
-    }
-   ]
-  },
-  {
-   "title": "なんでも食べるドラゴン娘を1年掛けて育てる育成ローグライト「DRAPLINE」，正式版を本日リリース",
-   "summary": "VakaGameMagazineは本日（2026年9月24日），Steamで早期アクセスを実施していた「DRAPLINE」を正式リリースした。本作は，1年後に迫る世界の終わりを阻止するために，「神竜」と呼ばれるドラゴン娘を育てる育成ローグライトゲームだ。",
-   "link": "https://www.4gamer.net/games/921/G092147/20260924035/",
-   "pubDate": "2026-09-24T09:07:40.000Z",
-   "firstSeen": "2026-09-24T09:07:40.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/921/G092147/20260924035/"
-    }
-   ]
-  },
-  {
-   "title": "「牧場物語 Your ワンダフルライフ」，2027年春に発売決定。VR HMD「Meta VR Glasses」などで楽しめるマーベラス初のMRタイトル",
-   "summary": "マーベラスは2026年9月24日，同社初のMRタイトル「牧場物語Yourワンダフルライフ」を来春発売すると発表した。価格は未定。対応機種は，Metaが米国時間9月23日に発表したVRヘッドマウントディスプレイ「MetaVRGlasses」，ならびに「MetaQuest3」と「Me…",
-   "link": "https://www.4gamer.net/games/045/G104524/20260924034/",
-   "pubDate": "2026-09-24T09:03:46.000Z",
-   "firstSeen": "2026-09-24T09:03:46.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 3,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "vr"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/045/G104524/20260924034/"
-    }
-   ]
-  },
-  {
-   "title": "Wikipedia内の記事文字数を予想してレースするブラウザゲーム『情報量ダービー』登場！毎回ランダムで8つの記事が出走、文字数が最も多いものを予想しつつハイスコアを目指す",
-   "summary": "各記事のオッズ（倍率）は閲覧数から算出。人気記事ほどオッズが低くなる。文字数が最も多い記事を予想しつつハイスコアを目指そう",
-   "link": "https://news.denfaminicogamer.jp/news/2609242q",
-   "pubDate": "2026-09-24T09:01:44.000Z",
-   "firstSeen": "2026-09-24T09:01:44.000Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/twitter-1024x731.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "情報量ダービー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2609242q"
-    }
-   ]
-  },
-  {
-   "title": "『ペルソナ4 リバイバル』TGSで先行販売されたグッズがオンラインで取り扱い開始。大人気だったジュネスのエプロン、エコバッグも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxcFptT1ZvQjZMc3JoTzBIQWNBR09ITjVpRUdnMmRZR29WNFNNNGIwbm1Ub3NmaFlocno0SndJTU5Sczk4Sm0yUGQwR1VtZm5UWlVHbXVzVQ?oc=5",
-   "pubDate": "2026-09-24T09:01:00.000Z",
-   "firstSeen": "2026-09-24T09:01:00.000Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ペルソナ4 リバイバル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxcFptT1ZvQjZMc3JoTzBIQWNBR09ITjVpRUdnMmRZR29WNFNNNGIwbm1Ub3NmaFlocno0SndJTU5Sczk4Sm0yUGQwR1VtZm5UWlVHbXVzVQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "レトロ×サイケデリックな90年代風ローグライクFPS『ODDCORE』大型アップデート「モール33」を配信。優れたパフォーマンスを発揮すると“視聴者”が増えていく",
-   "summary": "ラウンドを重ねると難易度が上昇する条件を1つ選び戦う。増えた「登録者数」はアイテムやコスメの解禁に使用できる",
-   "link": "https://news.denfaminicogamer.jp/news/2609242d",
-   "pubDate": "2026-09-24T09:00:39.000Z",
-   "firstSeen": "2026-09-24T09:00:39.000Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/screenshot_03-1-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ODDCORE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2609242d"
     }
    ]
   }
