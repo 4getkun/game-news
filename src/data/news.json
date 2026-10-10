@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-10T02:48:43.866Z",
+ "generatedAt": "2026-10-10T03:48:33.414Z",
  "count": 6000,
  "dedupe": {
-  "exact": 559,
+  "exact": 561,
   "syndicated": 38,
   "similar": 181,
   "syndicatedTotal": 188,
@@ -5870,6 +5870,20 @@
   {
    "date": "2026-10-10",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」10月10日22時より放送！",
+   "link": "http://www.gamespark.jp/article/2026/10/10/173463.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -6664,22 +6678,6 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "No Such Place",
-   "title": "最大4人協力・「異常世界」PvE脱出シューター『No Such Place』10月14日早期アクセス配信へ。未知のアイテム根こそぎ回収、銃は汚染で“異形化”する",
-   "link": "https://automaton-media.com/articles/newsjp/20260925-469941/",
-   "source": "AUTOMATON",
-   "sources": 2,
-   "categories": [
-    "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-14",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
    "work": null,
    "title": "「地獄降輪」の公式生放送を10月14日21：00から配信。高橋怜也さん，森久保祥太郎さんが出演",
    "link": "https://www.4gamer.net/games/010/G101096/20261008049/",
@@ -6807,6 +6805,22 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-14",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "No Such Place",
+   "title": "最大4人協力・「異常世界」PvE脱出シューター『No Such Place』10月14日早期アクセス配信へ。未知のアイテム根こそぎ回収、銃は汚染で“異形化”する",
+   "link": "https://automaton-media.com/articles/newsjp/20260925-469941/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -7275,20 +7289,6 @@
    "title": "「禁止事項を破ると死ぬ」脱出ゲーム『絶対遵守』10月16日リリースへ。“何があっても”規則は絶対。見るな、触れるな、止まるな",
    "link": "https://automaton-media.com/articles/newsjp/20260924-469810/",
    "source": "AUTOMATON",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-16",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "Amazon、400万点以上対象セール！ 「プライム感謝祭」10月16日～開催ポイントアップキャンペーンも",
-   "link": "https://game.watch.impress.co.jp/docs/news/2143032.html",
-   "source": "GAME Watch",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -12317,8 +12317,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 551,
-   "accepted": 542
+   "archived": 552,
+   "accepted": 543
   },
   {
    "id": "4gamer-sp",
@@ -12328,8 +12328,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 160,
-   "accepted": 153
+   "archived": 161,
+   "accepted": 154
   },
   {
    "id": "automaton",
@@ -12339,8 +12339,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 365,
-   "accepted": 360
+   "archived": 367,
+   "accepted": 362
   },
   {
    "id": "denfaminico",
@@ -12350,8 +12350,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 703,
-   "accepted": 592
+   "archived": 708,
+   "accepted": 595
   },
   {
    "id": "gamewatch",
@@ -12361,8 +12361,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 274,
-   "accepted": 243
+   "archived": 275,
+   "accepted": 244
   },
   {
    "id": "gamespark",
@@ -12372,8 +12372,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 764,
-   "accepted": 755
+   "archived": 766,
+   "accepted": 757
   },
   {
    "id": "inside-games",
@@ -12383,8 +12383,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 881,
-   "accepted": 651
+   "archived": 885,
+   "accepted": 655
   },
   {
    "id": "ps-blog",
@@ -12427,8 +12427,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 533,
-   "accepted": 423
+   "archived": 535,
+   "accepted": 424
   },
   {
    "id": "gnews-dengeki",
@@ -12438,8 +12438,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 488,
-   "accepted": 242
+   "archived": 489,
+   "accepted": 243
   },
   {
    "id": "gnews-newgame",
@@ -12449,8 +12449,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 335,
-   "accepted": 313
+   "archived": 334,
+   "accepted": 312
   },
   {
    "id": "gnews-switch2",
@@ -12460,8 +12460,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 631,
-   "accepted": 514
+   "archived": 632,
+   "accepted": 515
   },
   {
    "id": "gnews-ps5",
@@ -12471,8 +12471,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 326,
-   "accepted": 293
+   "archived": 328,
+   "accepted": 295
   },
   {
    "id": "gnews-update",
@@ -12493,7 +12493,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 14478,
+   "archived": 14517,
    "accepted": 233
   },
   {
@@ -12564,6 +12564,437 @@
   }
  ],
  "items": [
+  {
+   "title": "『ソニックレーシング クロスワールド』に「綾波」「アスカ」「ゴジラ」「ベヨネッタ」「アイギス」参戦でさらにカオス極まる。先行体験でわかった新要素",
+   "summary": "『ソニックレーシング クロスワールド』に「綾波」「アスカ」「ゴジラ」「ベヨネッタ」「アイギス」参戦。体験してきた。",
+   "link": "https://automaton-media.com/articles/reportjp/sr-20261010-472915/",
+   "pubDate": "2026-10-10T03:47:43.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/sr-20261010-472915-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ソニックレーシング クロスワールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/reportjp/sr-20261010-472915/"
+    }
+   ]
+  },
+  {
+   "title": "『ソニック』新作短編アニメ11月12日に公開決定！『Memories and Beyond ～記憶の未来(さき)へ～』の予告映像が公開。ソニックやシャドウたちがメタルソニックに立ち向かう。日本語吹き替え版も準備中とのこと",
+   "summary": "エッグマン、テイルス、ナックルズ、エミー、ルージュも登場し、ソニック一行がメタルソニックと激しくバトルする。日本語吹き替え版も準備中とのこと",
+   "link": "https://news.denfaminicogamer.jp/news/261010i",
+   "pubDate": "2026-10-10T03:38:18.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/yt_sJG3HkcC64w_maxresdefault-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ソニック",
+    "Memories and Beyond ~記憶の未来(さき)へ~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261010i"
+    }
+   ]
+  },
+  {
+   "title": "“身体から植物が生える少女“の生存探索会話ゲーム『彗星ブルーム』発表。「初対面なのになぜか懐かしい人たち」と交流しつつ、“終わり”の近づく日々を生きる",
+   "summary": "MITOH氏は10月10日、『彗星ブルーム』のSteamストアページを公開した。本作は宇宙と植物をテーマにしたストーリーアドベンチャーゲームだ。",
+   "link": "https://automaton-media.com/articles/newsjp/20261010-472906/",
+   "pubDate": "2026-10-10T03:31:19.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472906-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "彗星ブルーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261010-472906/"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】銀髪ツインテールのミニスカ×ゲーミングガールが弾ける笑顔！「MSI」ステージを盛り上げた美女レイヤー【TGS2026】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189072.html",
+   "pubDate": "2026-10-10T03:30:03.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189072.html"
+    }
+   ]
+  },
+  {
+   "title": "『エースコンバット8』100万本突破を記念してシリーズの楽曲を演奏するバンドライブを開催へ。12月下旬に「LIVE MUSIC FEST.2026」の映像をプレミア公開される予定",
+   "summary": "2月下旬に「LIVE MUSIC FEST.2026」の映像がプレミア公開される予定。詳細は後日、告知される予定。公式Xは「オーオーオーオー♪」とコメントし、ユーザーも共鳴",
+   "link": "https://news.denfaminicogamer.jp/news/261010h",
+   "pubDate": "2026-10-10T03:10:43.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f1e64474ab9acbd661e8fb3bbf5c906a402225aa.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "エースコンバット8"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261010h"
+    }
+   ]
+  },
+  {
+   "title": "なぜ「でもフリューだしな…」と言われるのか？ 意欲的な作品を生み続けてきたフリューと、期待を集める『アノマリス』の今",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189071.html",
+   "pubDate": "2026-10-10T03:10:03.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アノマリス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189071.html"
+    }
+   ]
+  },
+  {
+   "title": "「Brasil Game Show 2026」開幕。オープニングイベントでセガが「クレイジータクシー：ワールドツアー」新マップ「ブラジル」を発表［BGS2026］",
+   "summary": "2026年10月9日，ブラジル・サンパウロで「BrasilGameShow2026」が開幕した。初日の開場前には，出展各社が新作や新製品を紹介する「BGSConference」が行われ，セガは「クレイジータクシー：ワールドツアー」のストーリーモードに「ブラジル」が登場することを，…",
+   "link": "https://www.4gamer.net/games/991/G999110/20261010006/",
+   "pubDate": "2026-10-10T03:02:19.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/991/G999110/20261010006/"
+    }
+   ]
+  },
+  {
+   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」10月10日22時より放送！",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/10/173463.html",
+   "pubDate": "2026-10-10T03:00:03.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/10/173463.html"
+    }
+   ]
+  },
+  {
+   "title": "『ウマ娘』「エヴァ」などが関ヶ原に集結！愛がたっぷり詰まった愛車を取材【第拾回 天下無双 東西最強痛車決戦フォトレポ】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189070.html",
+   "pubDate": "2026-10-10T03:00:03.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウマ娘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189070.html"
+    }
+   ]
+  },
+  {
+   "title": "たった3つのダイスが数千万のパワーに化ける。「DiceVaders」は，ボドゲ的なエンジンビルドをデジタルで極めた“ダイスローグライク”［プレイレポ］",
+   "summary": "Pengonautsが手掛ける「DiceVaders」は，「StarVaders」と世界観を共有するローグライクダイスゲームだ。3つのダイスを振り，効果を連鎖させて高スコアを目指す。ボードゲーム的なエンジン構築の面白さをデジタルで味わえる本作の魅力を紹介しよう。",
+   "link": "https://www.4gamer.net/games/985/G098513/20261009024/",
+   "pubDate": "2026-10-10T03:00:00.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/985/G098513/20261009024/"
+    }
+   ]
+  },
+  {
+   "title": "ミャクミャク初のテーマソングの公式ダンス＆ミュージックビデオが公開",
+   "summary": "2025大阪・関西万博マスターライセンスオフィスは、ミャクミャクのテーマソング「ミャクダンス- みんな一緒に踊ろう Yeahhh! -」を10月10日に公開した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2147055.html",
+   "pubDate": "2026-10-10T03:00:00.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2147055.html"
+    }
+   ]
+  },
+  {
+   "title": "『モンスターハンターアウトランダーズ』キャンペーンを実施。Amazonギフトカードそれぞれ5,000円ぶんを10名様に抽選でプレゼント",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0ZHNXMXBHLWpOWHZnT0dsTEFlYzVmaEZVck8xaWFidFhTZEF0d1VvUVd6VmFjdl9IM1VodDJLVTNpeHRBem12QndPQWdJS3o0OHM2NklYaw?oc=5",
+   "pubDate": "2026-10-10T03:00:00.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "モンスターハンターアウトランダーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0ZHNXMXBHLWpOWHZnT0dsTEFlYzVmaEZVck8xaWFidFhTZEF0d1VvUVd6VmFjdl9IM1VodDJLVTNpeHRBem12QndPQWdJS3o0OHM2NklYaw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "『STEINS;GATE 0』の安本了氏がシナリオを手がけるオカルトADVゲーム『覗怪（しかい）』のプロローグムービーが公開。謎の怪談“赤い屋根の家”をはじめ、さまざまな怪奇現象をチラ見せ",
+   "summary": "謎の怪談“赤い屋根の家”をはじめ、さまざまな怪奇現象をチラ見せ。音楽は『STEINS;GATE』シリーズの阿保剛氏が手がける。今冬にSwitchとPS5に向けて発売予定",
+   "link": "https://news.denfaminicogamer.jp/news/261010g",
+   "pubDate": "2026-10-10T02:49:30.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-34-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5"
+   ],
+   "works": [
+    "STEINS;GATE 0",
+    "覗怪(しかい)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261010g"
+    }
+   ]
+  },
+  {
+   "title": "【ソニックレーシング クロスワールド】『FF7リメイク』や『ペルソナ』シリーズとのコラボDLCパックがシーズン2で登場決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdVQ4WDh6SG9rSFlnZndrU19BNTRLX0gwWXFRVHRZNDBWaEdRQTNERUZKQXhualZMYUo4cnp2bDc2RGhBblZMd2hqMkNNY25XTVVpT3lKZw?oc=5",
+   "pubDate": "2026-10-10T02:48:00.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new",
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "FF7リメイク",
+    "ペルソナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdVQ4WDh6SG9rSFlnZndrU19BNTRLX0gwWXFRVHRZNDBWaEdRQTNERUZKQXhualZMYUo4cnp2bDc2RGhBblZMd2hqMkNNY25XTVVpT3lKZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいど！さまざまなオプションが付属、購入特典にはセリフプレートも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/10/189069.html",
+   "pubDate": "2026-10-10T02:45:02.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/10/189069.html"
+    }
+   ]
+  },
   {
    "title": "『餓狼伝説 City of the Wolves』 に 『鉄拳』 より “瞬撃の紫電” 「麗奈」参戦！コラボレーションアナウンスメントトレーラーを公開",
    "summary": "株式会社SNKは、好評発売中の対戦格闘ゲーム『餓狼伝説 City of the Wolves』（以下、『餓狼伝説 CotW』）において、バンダイナムコエンターテインメントの人気対戦格闘ゲーム『鉄拳』シリーズとのコラボレーショ...",
@@ -12777,7 +13208,7 @@
    "firstSeen": "2026-10-10T02:48:34.963Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12797,9 +13228,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZFA5VkRCcUJxd1Z5WGRkcWI3cW1tMXRFLUlaQnRXYU1MeHJRNlhPaE5pQ2VNdmk1bllwMU0zMDl0OUFHcXZBNEczcERkM3Fza1JGSW5Daw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -17508,6 +17939,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/09/189048.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/10/173464.html"
     }
    ]
   },
@@ -18048,6 +18484,36 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members"
+    }
+   ]
+  },
+  {
+   "title": "【ゴースト オブ ヨウテイ】篤の新たな一面を描くDLCを開発者に直撃。新モードでの仁の戦闘システム変更点とは？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91TzdyTnBmRkJDNEJpWGFidUVFRWxVNHlpS3lmNW5qdHY0ZmxVdzBYZEx3NW5ibFpGa0V6OENybG1ocjlOSWlJajBfb09laDNSMVFKVDVzbnJVQQ?oc=5",
+   "pubDate": "2026-10-09T11:40:00.000Z",
+   "firstSeen": "2026-10-10T03:48:26.283Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91TzdyTnBmRkJDNEJpWGFidUVFRWxVNHlpS3lmNW5qdHY0ZmxVdzBYZEx3NW5ibFpGa0V6OENybG1ocjlOSWlJajBfb09laDNSMVFKVDVzbnJVQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -190854,469 +191320,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/816/G081637/20260924042/"
-    }
-   ]
-  },
-  {
-   "title": "Alienware is working on a fix for the one thing that stops its new 39-inch 5K2K OLED gaming monitor from being perfect",
-   "summary": "This fix could hurt my wallet.",
-   "link": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/",
-   "pubDate": "2026-09-24T10:23:59.000Z",
-   "firstSeen": "2026-09-24T10:23:59.000Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/AXnX49E2EcBtzURHGE8PhB-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/"
-    }
-   ]
-  },
-  {
-   "title": "「Honor of Kings」，新ヒーロー「王維」，新モード「3ミニッツロイヤル Beta」などが登場",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/799/G079964/20260924043/",
-   "pubDate": "2026-09-24T10:21:26.000Z",
-   "firstSeen": "2026-09-24T10:21:26.000Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/799/G079964/20260924043/"
-    }
-   ]
-  },
-  {
-   "title": "『ストレンジャーザンヘヴン』登場人物にさらなる情報追加。城田優、ディーン・フジオカ、大塚明夫、藤原聡（Official髭男dism）、Ado、菅原文太ら演じる15名以上",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03b3NseUR6cVE1WnRVbmJlZE15aFM3VGlSNFM0UUZnOUY4VzFQalFZRTk2YndpZ2xhTk1tRG5tSXAxRHpUX0NFZEZFb3RQM2pBd05yTE9UWQ?oc=5",
-   "pubDate": "2026-09-24T10:17:00.000Z",
-   "firstSeen": "2026-09-24T10:17:00.000Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ストレンジャー ザン ヘヴン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03b3NseUR6cVE1WnRVbmJlZE15aFM3VGlSNFM0UUZnOUY4VzFQalFZRTk2YndpZ2xhTk1tRG5tSXAxRHpUX0NFZEZFb3RQM2pBd05yTE9UWQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "【最大4人】ドット絵見下ろし型PvE脱出シューター『No Such Place』10月14日早期アクセス開始―エージェントとなり異常領域を探索せよ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172714.html",
-   "pubDate": "2026-09-24T10:15:03.000Z",
-   "firstSeen": "2026-09-24T10:15:03.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "No Such Place"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172714.html"
-    }
-   ]
-  },
-  {
-   "title": "コナミブースで見かけたハクスラ「13Z -十三座戦記-」試遊レポート。カスタム要素豊富なローグライクアクションがSwitch2とPS5にも登場［TGS2026］",
-   "summary": "2026年9月17日から20日まで開催された東京ゲームショウ2026のコナミデジタルエンタテインメントブースから，パートナータイトルコーナーに出展されていたローグライクアクション「13Z-十三座戦記-」（PC/PS5/Switch2）の試遊レポートをお届けする。",
-   "link": "https://www.4gamer.net/games/045/G104527/20260924041/",
-   "pubDate": "2026-09-24T10:14:26.000Z",
-   "firstSeen": "2026-09-24T10:14:26.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "demo",
-    "event",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/045/G104527/20260924041/"
-    }
-   ]
-  },
-  {
-   "title": "Meta's new VR headset isn't really a headset and doesn't look like it's meant for gamers",
-   "summary": "Lightweight glasses with a pocket-size compute puck, micro-OLED displays, Snapdragon XR2 Gen 3 chip; however, just a 70-degree FOV and no co…",
-   "link": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/",
-   "pubDate": "2026-09-24T10:10:29.000Z",
-   "firstSeen": "2026-09-24T10:10:29.000Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/wkKTs3kfCrzu38RbpRhEDH-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "vr"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/"
-    }
-   ]
-  },
-  {
-   "title": "『幻想水滸伝 STAR LEAP』ぼっちゃんの後列に置きたいSSRグレミオがサプライズ実装！ メインストーリー3章が配信開始",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iZGFlNzZBVFdvZVVQMDJ3bTBWakVGa0I0dGwxcFJvWElMTlhxal9GbWFic2xSYTZMXzhyckhwSDRmUHg2M2NIOTRMT3VRWG5lbVVhcGRXdWZsQQ?oc=5",
-   "pubDate": "2026-09-24T10:08:00.000Z",
-   "firstSeen": "2026-09-24T10:08:00.000Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "幻想水滸伝 STAR LEAP"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iZGFlNzZBVFdvZVVQMDJ3bTBWakVGa0I0dGwxcFJvWElMTlhxal9GbWFic2xSYTZMXzhyckhwSDRmUHg2M2NIOTRMT3VRWG5lbVVhcGRXdWZsQQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "サッカークラブ経営シミュレーション「Football Manager 27」，開発陣による機能解説動画を公開",
-   "summary": "セガは2026年9月24日，「FootballManager27」の開発陣による機能解説動画を公開した。第1弾となる今回は，ナビゲーションの改善，フルスクリーン体験の強化などにフォーカスしている。",
-   "link": "https://www.4gamer.net/games/037/G103744/20260924038/",
-   "pubDate": "2026-09-24T10:05:38.000Z",
-   "firstSeen": "2026-09-24T10:05:38.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Football Manager 27"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/037/G103744/20260924038/"
-    }
-   ]
-  },
-  {
-   "title": "Amazon、400万点以上対象セール！ 「プライム感謝祭」10月16日～開催ポイントアップキャンペーンも",
-   "summary": "Amazon は、Amazon プライム会員限定のセール「プライム感謝祭」を10月16日0時より10月19日23時59分まで開催する。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2143032.html",
-   "pubDate": "2026-09-24T10:03:26.000Z",
-   "firstSeen": "2026-09-24T10:03:26.000Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2143032.html"
-    }
-   ]
-  },
-  {
-   "title": "頭を撃てばいいわけじゃない！文書を読んで“正しい方法”で敵を撃ち抜く西部劇ソウルライクFPS『ガンズ・オブ・エスカトン』試遊レポ。リロードも手間がかかる、“面倒くさい”が面白い…！",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172713.html",
-   "pubDate": "2026-09-24T10:00:03.000Z",
-   "firstSeen": "2026-09-24T10:00:03.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ガンズ・オブ・エスカトン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172713.html"
-    }
-   ]
-  },
-  {
-   "title": "激亀たちがローグライトで大暴れする「TMNT Splintered Fate」（今日から始めろApple Arcade #84）",
-   "summary": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上のゲームのなかから毎回1本をチョイスし，オススメポイントを紹介していく。第84回では，「TMNTSplinteredFate」を…",
-   "link": "https://www.4gamer.net/games/045/G104516/20260924030/",
-   "pubDate": "2026-09-24T10:00:00.000Z",
-   "firstSeen": "2026-09-24T10:00:00.000Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/045/G104516/20260924030/"
-    }
-   ]
-  },
-  {
-   "title": "『ストレンジャー ザン ヘヴン』開発陣インタビュー。実在の俳優の“老けた顔”を想像する難しさ。5つの時代には異なる国くらい差がある!?【TGS2026】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbGp5VUJCMjNXM3JrYUw0ZUN0TjA4OVJyVDM5QkZNWC1QZWJKS1NENHg0RU44Z3dFM3hucWZITERlYlU4ODk0UEhOdUkwR2REV0hsLWdSMm14QQ?oc=5",
-   "pubDate": "2026-09-24T10:00:00.000Z",
-   "firstSeen": "2026-09-24T10:00:00.000Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ストレンジャー ザン ヘヴン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jbGp5VUJCMjNXM3JrYUw0ZUN0TjA4OVJyVDM5QkZNWC1QZWJKS1NENHg0RU44Z3dFM3hucWZITERlYlU4ODk0UEhOdUkwR2REV0hsLWdSMm14QQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "「N響×ポケモン クラシックコンサートツアー」，10月5日にYouTubeでプレミア公開。ゲームの思い出が蘇る",
-   "summary": "NHK交響楽団（以下，N響）は本日（2026年9月24日），「N響×ポケモンクラシックコンサートツアー」を10月5日19：00にN響公式YouTubeチャンネルでプレミア公開すると発表した。8月21日に東京芸術劇場で行った東京公演の模様がプレミア公開される。",
-   "link": "https://www.4gamer.net/games/619/G061991/20260924040/",
-   "pubDate": "2026-09-24T09:55:19.000Z",
-   "firstSeen": "2026-09-24T09:55:19.000Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/619/G061991/20260924040/"
-    }
-   ]
-  },
-  {
-   "title": "新時代の“ロジクールG”を体感しよう！「Logicool G PLAY 2026」イベントレポート",
-   "summary": "ロジクールは9月24日、新製品発表イベント「Logicool G PLAY 2026」を開催した。会場はTUNNEL TOKYO。",
-   "link": "https://game.watch.impress.co.jp/docs/kikaku/2143016.html",
-   "pubDate": "2026-09-24T09:53:28.000Z",
-   "firstSeen": "2026-09-24T09:53:28.000Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/kikaku/2143016.html"
-    }
-   ]
-  },
-  {
-   "title": "『カイジ』「焼き土下座」や「1050年地下送り」がキャラマグネットで登場。全国のお菓子売り場で発売",
-   "summary": "原作の名場面がマグネットになって登場、“焼き土下座”も“1050年地下送り”もある。公式の商品ページも文言がカイジ風になって楽しんでいる",
-   "link": "https://news.denfaminicogamer.jp/news/2609242w",
-   "pubDate": "2026-09-24T09:47:47.000Z",
-   "firstSeen": "2026-09-24T09:47:47.000Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HS8zzQ2bkAA6yef-819x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "カイジ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2609242w"
-    }
-   ]
-  },
-  {
-   "title": "伝説の湯幻郷「シャンピア」到達！ますます面白くなった最新作『幻想水滸伝 STAR LEAP』第3章を一足お先に体験",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/09/24/172712.html",
-   "pubDate": "2026-09-24T09:45:30.000Z",
-   "firstSeen": "2026-09-24T09:45:30.000Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "幻想水滸伝 STAR LEAP"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/24/172712.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/25/188223.html"
     }
    ]
   }
