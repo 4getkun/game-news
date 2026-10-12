@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T22:48:05.200Z",
+ "generatedAt": "2026-10-12T23:48:09.579Z",
  "count": 6000,
  "dedupe": {
   "exact": 598,
-  "syndicated": 40,
+  "syndicated": 41,
   "similar": 191,
-  "syndicatedTotal": 197,
+  "syndicatedTotal": 198,
   "syndicatedLeft": 14
  },
  "calendar": [
@@ -6844,6 +6844,23 @@
   {
    "date": "2026-10-17",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「プリコネR」と「ウマ娘」がコラボ！ 特別番組を10月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "link": "https://www.4gamer.net/games/421/G042182/20261009041/",
+   "source": "4Gamer.net（スマホ）",
+   "sources": 1,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-17",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -7972,6 +7989,24 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "ノーマンズスカイ",
+   "title": "宇宙探索ゲーム『ノーマンズスカイ』iOS版が10月29日にリリース決定。なんと“過去10年分のアプデ”をすべて収録",
+   "link": "https://news.denfaminicogamer.jp/news/261013b",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "mobile"
+   ],
+   "platforms": [
+    "mobile"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "No Man's Sky",
    "title": "『No Man's Sky』iOS版が10月29日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙【UPDATE】",
    "link": "http://www.gamespark.jp/article/2026/10/12/173523.html",
@@ -9077,7 +9112,7 @@
    "work": null,
    "title": "11月7日開催「ファミ通40周年フェス」物販情報が解禁。全150種以上、35社を超えるゲームメーカーの「貴重なイラストを使用したグッズ」一部を先行公開。抽選申込も開始【2026年10月18日まで】",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91aTV1dHozU3AzcC11NzJaTHp2SW91cHN2RWdZR25CV0dhVlJhbHNqSVFtMEc1TGpMdTRvVmx5VzBZeVNLQVFrYzgzUnRMeENQb1JwOFJSYw?oc=5",
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sources": 1,
    "categories": [
     "collab"
@@ -11718,8 +11753,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 565,
-   "accepted": 556
+   "archived": 567,
+   "accepted": 558
   },
   {
    "id": "4gamer-sp",
@@ -11729,8 +11764,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 167,
-   "accepted": 159
+   "archived": 168,
+   "accepted": 160
   },
   {
    "id": "automaton",
@@ -11751,8 +11786,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 753,
-   "accepted": 627
+   "archived": 756,
+   "accepted": 630
   },
   {
    "id": "gamewatch",
@@ -11773,8 +11808,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 827,
-   "accepted": 818
+   "archived": 828,
+   "accepted": 819
   },
   {
    "id": "inside-games",
@@ -11828,8 +11863,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 583,
-   "accepted": 463
+   "archived": 584,
+   "accepted": 464
   },
   {
    "id": "gnews-dengeki",
@@ -11872,8 +11907,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 342,
-   "accepted": 308
+   "archived": 343,
+   "accepted": 309
   },
   {
    "id": "gnews-update",
@@ -11916,8 +11951,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 769,
-   "accepted": 769
+   "archived": 774,
+   "accepted": 774
   },
   {
    "id": "eurogamer",
@@ -11960,11 +11995,286 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 413,
-   "accepted": 413
+   "archived": 414,
+   "accepted": 414
   }
  ],
  "items": [
+  {
+   "title": "ボールを渡した瞬間の，ネコの幸せそうな顔がたまらない。「私の赤いボールはどこだ?」は親子の話から姉妹の物語へ［OIGS2026］",
+   "summary": "ポイント＆クリックパズル「私の赤いボールはどこだ?」の未公開ステージをOSAKAINDIEGAMESSUMMIT2026の会場で触ってきた。姉妹の物語へ変わった背景も紹介しよう。",
+   "link": "https://www.4gamer.net/games/937/G093713/20261011010/",
+   "pubDate": "2026-10-12T23:30:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/937/G093713/20261011010/"
+    }
+   ]
+  },
+  {
+   "title": "『RimWorld 2』くるか！？開発元が新たな自社製エンジンで動く新作を予告―『RimWorld』本編は同エンジン移行で2～4倍高速化、Mod環境でも早いアプデ1.7告知",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173526.html",
+   "pubDate": "2026-10-12T23:15:21.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "RimWorld 2",
+    "RimWorld"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/13/173526.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uMUJWOG43US1YWFdScVdVem41UlFKUENTUERycE1HV2V3dFJuRWZNVFk2NnZXSG9DS2ZQcGJnTGc5aXdTcFZKUVd3dkFuZ2ZvemQ4aTRacFdDcWtGZFY1TnBTWQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『Halo』シリーズ6作品が遊べるコレクションが「75%」オフのセール中。定価5900円→1475円とお得に。伝説の英雄“マスターチーフ”を主軸とした名作宇宙FPS、合計67ものキャンペーンミッションを楽しめる",
+   "summary": "伝説の英雄“マスターチーフ”を主軸とした名作宇宙FPS、合計67のキャンペーンミッションを楽しめる。マップの数はコレクション全体で120以上にのぼる大ボリューム",
+   "link": "https://news.denfaminicogamer.jp/news/261013h",
+   "pubDate": "2026-10-12T23:12:07.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_567cd7abbf4dc976c707fb6b73be93e21bfbba0a.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "Halo"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261013h"
+    }
+   ]
+  },
+  {
+   "title": "宇宙探索ゲーム『ノーマンズスカイ』iOS版が10月29日にリリース決定。なんと“過去10年分のアプデ”をすべて収録",
+   "summary": "iPhone 11および第3世代iPad Air以降の幅広い機種に対応し、ゲーム全体の容量は「5GB」未満。ゲーム序盤は無料でお試しプレイも",
+   "link": "https://news.denfaminicogamer.jp/news/261013b",
+   "pubDate": "2026-10-12T23:02:10.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/no-mans-sky-ipad-screen-1-5mb-1024x706.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "ノーマンズスカイ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261013b"
+    }
+   ]
+  },
+  {
+   "title": "眠くなるまで，部屋のものを触っていく。無料ADV「オピポピ」は，仕組みが先で物語が後だった［OIGS2026］",
+   "summary": "眠る前の部屋で眠気が満ちるまでを過ごす無料短編アドベンチャー「オピポピ」。OSAKAINDIEGAMESSUMMIT2026で，製作者のぐらたんP氏に聞いた話を交えて，本作を紹介しよう。",
+   "link": "https://www.4gamer.net/games/000/G100036/20261011009/",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/000/G100036/20261011009/"
+    }
+   ]
+  },
+  {
+   "title": "「プリコネR」と「ウマ娘」がコラボ！ 特別番組を10月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "「プリンセスコネクト！Re:Dive」と「ウマ娘プリティーダービー」のコラボを記念した特別番組が，10月17日19：00に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "link": "https://www.4gamer.net/games/421/G042182/20261009041/",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/421/G042182/20261009041/"
+    }
+   ]
+  },
+  {
+   "title": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development",
+   "summary": "Art will be \"generated with full AI workflows\".",
+   "link": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
+   "pubDate": "2026-10-12T22:55:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/gKMnxWErMVmKHsj43Q7jx4-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Our humble goal is to survive the AI revolution"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/"
+    }
+   ]
+  },
+  {
+   "title": "『Vampire Crawlers』のモバイル版が配信開始。『ヴァンサバ』の魅力をカードゲームに落とし込んだスピンオフ作品",
+   "summary": "ストアでは「世界を破壊するほどのコンボを叩き込め！」と紹介。『ヴァンサバ』のクセになる演出が健在で、じっくり遊ぶことも、テンポよく遊ぶこともできる",
+   "link": "https://news.denfaminicogamer.jp/news/261013g",
+   "pubDate": "2026-10-12T22:54:28.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/unnamed-1-1-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Vampire Crawlers",
+    "ヴァンサバ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261013g"
+    }
+   ]
+  },
+  {
+   "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
+   "summary": "Universal cables perfect for your Switch 2, Steam Deck, or iPhone 18.",
+   "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
+   "pubDate": "2026-10-12T22:50:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/12/ainopecable-1791840203679.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026"
+    }
+   ]
+  },
   {
    "title": "USJ、ミャクミャク&ハミクマ コラボグッズの全ラインナップを公開マスコットキーチェーンなど全15点が登場",
    "summary": "ユニバーサル・スタジオ・ジャパンは、大阪・関西万博のマスコットキャラクター「ミャクミャク」とハミクマのコラボレーショングッズを10月13日より発売した。",
@@ -12018,6 +12328,86 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/048/G104850/20261011006/"
+    }
+   ]
+  },
+  {
+   "title": "Satisfactory: The Board Game Preview",
+   "summary": "",
+   "link": "https://www.ign.com/articles/satisfactory-the-board-game-preview",
+   "pubDate": "2026-10-12T22:30:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/12/1000025749-1791838956989.jpeg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/satisfactory-the-board-game-preview"
+    }
+   ]
+  },
+  {
+   "title": "Greta Gerwig's Narnia: The Magician's Nephew Wins Over Skeptical Fans With First Poster",
+   "summary": "The first poster for Greta Gerwig's Narnia: The Magician's Nephew is here, and it seems to have won over a few of the more skeptical fans.",
+   "link": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster",
+   "pubDate": "2026-10-12T22:28:07.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/12/narnia-the-magicians-nephew-poster-fledge-1791843577130.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster"
+    }
+   ]
+  },
+  {
+   "title": "Will You Get a Paramount+ Subscription to Watch Avatar: Seven Havens?",
+   "summary": "",
+   "link": "https://www.ign.com/articles/will-you-get-a-paramount-subscription-to-watch-avatar-seven-havens",
+   "pubDate": "2026-10-12T22:23:24.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/07/avatar-sevenhavens-101-0012-1791333963406.JPG",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/will-you-get-a-paramount-subscription-to-watch-avatar-seven-havens"
     }
    ]
   },
@@ -12106,6 +12496,63 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zU0gzNl80YnpMOUZ0YWlNYWhuV3Y2VTMwX0RlQXp0eTJPSWlSeHd1NU12TjlobFJMS1hqcm1qME1ibnpxTnlqUHVhdFJDTHFnUHlBNGczbw?oc=5",
      "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "サイバーパンク飲食店経営シム『Nivalis Nights』レビュー。いかにしてサイバーパンクラーメン屋の経営を失敗し、なんとか立て直し、しかもささやかな勝利まで掴んだか",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0cmUzaDFqbV9xSkFHMy0yMFVTU2FBXzRqZlJsUkJoSFNBLU1nRnVzam5wRVZTZzVURmJNSkhCSUhuQXFoSnFkNFRfSXhKZ3hhRGw1a2V0aw?oc=5",
+   "pubDate": "2026-10-12T22:00:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Nivalis Nights"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0cmUzaDFqbV9xSkFHMy0yMFVTU2FBXzRqZlJsUkJoSFNBLU1nRnVzam5wRVZTZzVURmJNSkhCSUhuQXFoSnFkNFRfSXhKZ3hhRGw1a2V0aw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "For This Week Only, the Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop With 32GB of RAM Drops to $1,449",
+   "summary": "Strong gaming chops in a slim and lightweight chassis.",
+   "link": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-october-2026",
+   "pubDate": "2026-10-12T22:00:00.000Z",
+   "firstSeen": "2026-10-12T23:47:59.940Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/12/gigabytea16pro2-1791839664238.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-october-2026"
     }
    ]
   },
@@ -34491,7 +34938,7 @@
    "pubDate": "2026-10-09T09:00:00.000Z",
    "firstSeen": "2026-10-09T10:48:05.967Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -34506,7 +34953,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91aTV1dHozU3AzcC11NzJaTHp2SW91cHN2RWdZR25CV0dhVlJhbHNqSVFtMEc1TGpMdTRvVmx5VzBZeVNLQVFrYzgzUnRMeENQb1JwOFJSYw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -37765,7 +38212,7 @@
    "firstSeen": "2026-10-09T05:47:52.680Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -37782,9 +38229,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VR1FuN3h3Z2lsdjhhR0ZwaHpkR3AxT2VaZmxaOXJQd0FGT093RmpRanpDaVl2NFZZOVpsM0dfWmZVeTJRck9lQ3R5b24wbXkxWWhfZTRHcw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -190013,425 +190460,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/"
-    }
-   ]
-  },
-  {
-   "title": "『悪魔城ドラキュラ』シリーズ40周年。初代『悪魔城ドラキュラ』がスマホ向けに期間限定で無料配信、最大80％OFFセール＆記念コンサートも決定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53QWNLamdZTmg2eS1PZGQ2R3BPU3R6WHlrMDYzWEJDTTQwTXRSa1RyZnBzdFhucW5vTFVtNHFjUHpEMVQ2dWpOQnBXUW5fdzZJTHNJc3U1NVpWQQ?oc=5",
-   "pubDate": "2026-09-25T12:00:00.000Z",
-   "firstSeen": "2026-09-25T21:17:07.359Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "mobile",
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 80,
-    "free": true
-   },
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "悪魔城ドラキュラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53QWNLamdZTmg2eS1PZGQ2R3BPU3R6WHlrMDYzWEJDTTQwTXRSa1RyZnBzdFhucW5vTFVtNHFjUHpEMVQ2dWpOQnBXUW5fdzZJTHNJc3U1NVpWQQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "映画『ソウ』シリーズ原作の3対1マルチプレイホラー『SAW: Genesis』早期アクセス版が2027年第1四半期に発売。主催者として参加者に試練を課すか、参加者として施設からの生還を目指すか",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRLVY3TEF5eTRzN2QtUEtTT2NQdVNoQk5ZaXREUklUZTU0MjhfVVRuWVh5eGx2bGFHS0t4bWJ2b29yRFc5QmJqTEFsbjdjajY1UzdXN2Fzaw?oc=5",
-   "pubDate": "2026-09-25T11:57:00.000Z",
-   "firstSeen": "2026-09-25T18:48:16.729Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ソウ",
-    "SAW: Genesis"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRLVY3TEF5eTRzN2QtUEtTT2NQdVNoQk5ZaXREUklUZTU0MjhfVVRuWVh5eGx2bGFHS0t4bWJ2b29yRFc5QmJqTEFsbjdjajY1UzdXN2Fzaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped",
-   "summary": "Finally, a new space for all my rubber ducks.",
-   "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
-   "pubDate": "2026-09-25T11:55:42.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/MbP6K9Kn6HgzWPVSK56xgX-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/"
-    }
-   ]
-  },
-  {
-   "title": "『アモアス』めじるしアクセサリーが9月28日11時より予約開始。半透明のゴースト姿もかわいい。レッドやブルーなど全8種がガシャポンオンラインに登場【Among Us】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WMElNVHplU3RXSDZObTlfdDV5R0ZBR3NVVWRJRjlhQ0hOeDQxbDVieVkxZHEtbGNTRHAtVFJxSk9Ha2JWX01vRnp5aGhqbEh3cVFFM0Y1Zw?oc=5",
-   "pubDate": "2026-09-25T11:50:00.000Z",
-   "firstSeen": "2026-09-26T01:47:28.520Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アモアス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WMElNVHplU3RXSDZObTlfdDV5R0ZBR3NVVWRJRjlhQ0hOeDQxbDVieVkxZHEtbGNTRHAtVFJxSk9Ha2JWX01vRnp5aGhqbEh3cVFFM0Y1Zw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "「THE FINALS」のグローバルeスポーツ大会，APAC地域からの本戦出場チームが確定",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/652/G065211/20260925049/",
-   "pubDate": "2026-09-25T11:49:04.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/652/G065211/20260925049/"
-    }
-   ]
-  },
-  {
-   "title": "Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates",
-   "summary": "Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-…",
-   "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
-   "pubDate": "2026-09-25T11:45:22.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-E-Day_49b4cc.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/"
-    }
-   ]
-  },
-  {
-   "title": "お尻をキュッと突き出したポーズ！『ユミアのアトリエ』主人公「ユミア」が、へそ出しTシャツ＆ホットパンツ姿でフィギュア化",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/25/188275.html",
-   "pubDate": "2026-09-25T11:45:03.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ユミアのアトリエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/25/188275.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/09/26/172790.html"
-    }
-   ]
-  },
-  {
-   "title": "「『NGS』残暑の候 ゲーム実況生放送 2026秋！！」，9月25日に開催決定",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/521/G052100/20260925048/",
-   "pubDate": "2026-09-25T11:40:44.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "NGS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/521/G052100/20260925048/"
-    }
-   ]
-  },
-  {
-   "title": "効果音のために14種の資格を取り，2000坪の土地を買ったゲームオーディオ専門会社AZSTOKEのブースをレポート［TGS2026］",
-   "summary": "東京ゲームショウ2026で，効果音の制作に携わるAZSTOKEがユニークな展示をしていた。同社はリアルな音を求めて収録用の土地を買い，重機の免許も取得。効果音収録に対する取り組みとこだわりについて話を聞いた。",
-   "link": "https://www.4gamer.net/games/991/G999109/20260925047/",
-   "pubDate": "2026-09-25T11:35:46.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999109/20260925047/"
-    }
-   ]
-  },
-  {
-   "title": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
-   "summary": "I've had an on-and-off relationship with World of Warcraft ever since I first booted it up in my early teens. I love the size of the world,…",
-   "link": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
-   "pubDate": "2026-09-25T11:33:13.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding"
-    }
-   ]
-  },
-  {
-   "title": "目的地なし、ひたすらドライブ没頭ゲーム『Slow Roads』Steamでさっそく好調スタート。荒野も海岸も“月面”も、ぼんやり走るZENな旅",
-   "summary": "Topograph Interactiveは9月24日、『Slow Roads』のSteam版を配信開始した。",
-   "link": "https://automaton-media.com/articles/newsjp/20260925-470067/",
-   "pubDate": "2026-09-25T11:31:00.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-470067-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Slow Roads"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20260925-470067/"
-    }
-   ]
-  },
-  {
-   "title": "「お文具といっしょ」ファミマ限定グッズが可愛い！裁縫に挑む「お文具さん」たちのキーホルダー、エコバッグなどをラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/25/188274.html",
-   "pubDate": "2026-09-25T11:30:03.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/25/188274.html"
-    }
-   ]
-  },
-  {
-   "title": "「P5X」，ペルソナ3 ポータブルとのコラボイベントが開幕",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/693/G069335/20260925046/",
-   "pubDate": "2026-09-25T11:29:30.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/693/G069335/20260925046/"
-    }
-   ]
-  },
-  {
-   "title": "名作レトロFPSのフルリマスター版「SiN Reloaded」配信開始。FPSジャンルの黎明期にあたる1998年に登場したゲームが最新グラフィックスで蘇る",
-   "summary": "NightdiveStudiosとAtariは，1998年に発売されたFPS「SiN」のリマスター版「SiNReloaded」をPC向けにリリースした。KEXEngineで現代向けに最適化され，4K解像度や144fpsに対応。拡張パック「WagesofSin」も収録した決定版だ。",
-   "link": "https://www.4gamer.net/games/045/G104542/20260925045/",
-   "pubDate": "2026-09-25T11:24:28.000Z",
-   "firstSeen": "2026-09-25T13:22:37.399Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 21,
-   "categories": [
-    "new",
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "SiN Reloaded"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/045/G104542/20260925045/"
     }
    ]
   }
