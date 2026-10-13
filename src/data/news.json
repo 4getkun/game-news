@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-13T10:48:52.943Z",
+ "generatedAt": "2026-10-13T12:13:13.190Z",
  "count": 6000,
  "dedupe": {
-  "exact": 636,
+  "exact": 643,
   "syndicated": 47,
-  "similar": 209,
-  "syndicatedTotal": 218,
-  "syndicatedLeft": 20
+  "similar": 210,
+  "syndicatedTotal": 220,
+  "syndicatedLeft": 21
  },
  "calendar": [
   {
@@ -362,20 +362,6 @@
    "categories": [
     "indie"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-09-29",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "9月29日発売の「Minecraft Dungeons II」を開発陣と体験。約15年ぶりに登場する新ディメンション「シフト」（Sift）を4人協力プレイで飛び回ってきた",
-   "link": "https://www.4gamer.net/games/014/G101443/20260924017/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -5815,6 +5801,25 @@
   {
    "date": "2026-10-13",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "働く，料理する，ときにはサボる。動物たちの何気ない日常がリズムゲームになる「リズムアニマルカフェ」，本日発売",
+   "link": "https://www.4gamer.net/games/963/G096371/20261013052/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-13",
+   "precision": "day",
    "verb": "update",
    "label": "アップデート",
    "work": "FF14",
@@ -5865,6 +5870,22 @@
    "title": "＜News＞レトロゲーム配信サービス『プロジェクトEGG』にて2026年10月13日に『クリムゾン（MSX2版）』を無料配信開始",
    "link": "https://prtimes.jp/main/html/rd/p/000000535.000069696.html",
    "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-13",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "スト6",
+   "title": "『スト6』Year4追加キャラ・アルジュン本日10月13日配信開始！ C.ヴァイパー水着も登場",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRERxVndZUmpMVVp0blNXZTlYUzlIOVZibzMxR0ExVlB2d3JFREtRdHo2bll1T1d6d2w2ZXNZUTdfdXBoejY2bE9NY09WWk9NbUxWT2kyUFU0UQ?oc=5",
+   "source": "電撃オンライン",
    "sources": 1,
    "categories": [
     "release"
@@ -6486,6 +6507,22 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-15",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "FF14",
+   "title": "『FF14』日本リージョン全データセンターでマッチング可能に！「リージョン内フリーマッチング」公開、期間限定イベント「守護天節」も10月15日より開催",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173556.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -10797,6 +10834,20 @@
   {
    "date": "2026-12-07",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Oomi’s Nook",
+   "title": "ステッカーで箱庭づくりゲーム『Oomi’s Nook』12月7日配信へ。8000枚以上のステッカーをのんびりペタペタ、完成したらゆるふわ生物が暮らしてくれる",
+   "link": "https://automaton-media.com/articles/newsjp/20261013-473233/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-07",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -12391,8 +12442,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 611,
-   "accepted": 600
+   "archived": 617,
+   "accepted": 605
   },
   {
    "id": "4gamer-sp",
@@ -12402,8 +12453,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 171,
-   "accepted": 163
+   "archived": 172,
+   "accepted": 164
   },
   {
    "id": "automaton",
@@ -12413,8 +12464,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 400,
-   "accepted": 395
+   "archived": 403,
+   "accepted": 398
   },
   {
    "id": "denfaminico",
@@ -12424,8 +12475,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 800,
-   "accepted": 671
+   "archived": 804,
+   "accepted": 674
   },
   {
    "id": "gamewatch",
@@ -12435,8 +12486,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 322,
-   "accepted": 291
+   "archived": 323,
+   "accepted": 292
   },
   {
    "id": "gamespark",
@@ -12446,8 +12497,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 853,
-   "accepted": 844
+   "archived": 858,
+   "accepted": 849
   },
   {
    "id": "inside-games",
@@ -12457,8 +12508,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1021,
-   "accepted": 745
+   "archived": 1023,
+   "accepted": 747
   },
   {
    "id": "ps-blog",
@@ -12490,8 +12541,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 87,
-   "accepted": 60
+   "archived": 89,
+   "accepted": 62
   },
   {
    "id": "gnews-famitsu",
@@ -12512,8 +12563,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 554,
-   "accepted": 273
+   "archived": 559,
+   "accepted": 276
   },
   {
    "id": "gnews-newgame",
@@ -12523,8 +12574,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 345,
-   "accepted": 325
+   "archived": 346,
+   "accepted": 326
   },
   {
    "id": "gnews-switch2",
@@ -12534,8 +12585,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 685,
-   "accepted": 562
+   "archived": 691,
+   "accepted": 567
   },
   {
    "id": "gnews-ps5",
@@ -12545,8 +12596,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 385,
-   "accepted": 350
+   "archived": 387,
+   "accepted": 352
   },
   {
    "id": "gnews-update",
@@ -12567,8 +12618,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 15833,
-   "accepted": 256
+   "archived": 15873,
+   "accepted": 257
   },
   {
    "id": "gematsu",
@@ -12589,8 +12640,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 777,
-   "accepted": 777
+   "archived": 779,
+   "accepted": 779
   },
   {
    "id": "eurogamer",
@@ -12600,8 +12651,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 275,
-   "accepted": 275
+   "archived": 276,
+   "accepted": 276
   },
   {
    "id": "gamespot",
@@ -12611,8 +12662,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 181,
-   "accepted": 181
+   "archived": 182,
+   "accepted": 182
   },
   {
    "id": "nintendolife",
@@ -12622,8 +12673,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 213,
-   "accepted": 213
+   "archived": 214,
+   "accepted": 214
   },
   {
    "id": "pcgamer",
@@ -12633,11 +12684,877 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 415,
-   "accepted": 415
+   "archived": 420,
+   "accepted": 420
   }
  ],
  "items": [
+  {
+   "title": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals",
+   "summary": "Kazuo \"Kaz\" Hirai, who was the president of PlayStation from 2007 to 2012, apparently didn't pay much attention to orders he received from S…",
+   "link": "https://www.eurogamer.net/kaz-hirai-playstation-boss-ignored-sony",
+   "pubDate": "2026-10-13T12:12:16.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://assetsio.gnwcdn.com/kaz-hirai-red-bg-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/kaz-hirai-playstation-boss-ignored-sony"
+    }
+   ]
+  },
+  {
+   "title": "『エースコンバット8』予約特典の『エースコンバット・ゼロ』Steam版、“単独起動できる”アプリ追加決定。140GB超の『8』をインストールせずに遊べる",
+   "summary": "バンダイナムコエンターテインメントは10月13日、『エースコンバット8』Steam版の予約特典について、『エースコンバット・ゼロ』を単体アプリケーションとして配信できる見通しになったと告知した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261013-473259/",
+   "pubDate": "2026-10-13T12:08:31.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261013-473259-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc",
+    "mobile"
+   ],
+   "works": [
+    "エースコンバット8",
+    "エースコンバット・ゼロ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261013-473259/"
+    }
+   ]
+  },
+  {
+   "title": "『FF14』日本リージョン全データセンターでマッチング可能に！「リージョン内フリーマッチング」公開、期間限定イベント「守護天節」も10月15日より開催",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173556.html",
+   "pubDate": "2026-10-13T12:03:18.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "FF14"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/13/173556.html"
+    }
+   ]
+  },
+  {
+   "title": "“目玉”に監視されながら作業をするホラーADV「Dyping Working: 作業監視ゲーム」，Steamストアページを公開",
+   "summary": "PLAYISMは本日（2026年10月13日），新作タイトル「DypingWorking:作業監視ゲーム」を発表し，Steamストアページを公開した。本作は，不気味な“目玉”に従ってタイピングを行うホラータイピングゲーム「DypingEscape」のスピンオフとなる，作業用ホラー…",
+   "link": "https://www.4gamer.net/games/049/G104985/20261013054/",
+   "pubDate": "2026-10-13T11:57:13.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/049/G104985/20261013054/"
+    }
+   ]
+  },
+  {
+   "title": "働く，料理する，ときにはサボる。動物たちの何気ない日常がリズムゲームになる「リズムアニマルカフェ」，本日発売",
+   "summary": "SaltGameStudioは本日，リズムゲーム「リズムアニマルカフェ」をSteamでリリースした。本作は，会社で働いたり料理をしたり，ときにはサボったりといった動物たちの何気ない日常をリズムゲームとして描く作品だ。",
+   "link": "https://www.4gamer.net/games/963/G096371/20261013052/",
+   "pubDate": "2026-10-13T11:51:00.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/963/G096371/20261013052/"
+    }
+   ]
+  },
+  {
+   "title": "脱衣麻雀『スーパーリアル麻雀 Venus Returns』オープニングが「思い出」再生可能になるアプデ配信",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173555.html",
+   "pubDate": "2026-10-13T11:47:55.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スーパーリアル麻雀 Venus Returns"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/13/173555.html"
+    }
+   ]
+  },
+  {
+   "title": "カスタム要素やオリジナルテーマ曲など「ホロライブ麻雀 -ホロじゃん-」新情報公開！FLOW GLOW含む全37名が参加",
+   "summary": "【拡大画像へ】 2026年配信予定の新作ゲーム「ホロライブ麻雀 -ホロじゃん-」（以下、「ホロじゃん」）において、ロボ子さん、白上フブキさん、大神ミオさん、宝鐘マリンさんが出演する情報公開特番「牌源郷（ぱいげんきょう）の謎に迫る！」が配信され、本作の最新情報が公開された。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2147809.html",
+   "pubDate": "2026-10-13T11:42:57.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2147809.html"
+    }
+   ]
+  },
+  {
+   "title": "「ストリートファイター6」，Year 4追加キャラ第2弾「アルジュン」が本日参戦。設置技や飛び道具を駆使するトリッキーなファイター",
+   "summary": "カプコンは本日，「ストリートファイター6」にYear4追加キャラクター第2弾「アルジュン」を実装した。ヨガと呼吸法を生かした設置技や飛び道具に加え，パワフルな打撃も得意とするファイターで，アーケードモードには専用ストーリーも追加されている。",
+   "link": "https://www.4gamer.net/games/635/G063504/20261013053/",
+   "pubDate": "2026-10-13T11:41:04.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/635/G063504/20261013053/"
+    }
+   ]
+  },
+  {
+   "title": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'",
+   "summary": "Kraftoff.",
+   "link": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+   "pubDate": "2026-10-13T11:32:01.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/pywHx6NJoTNW3jtD96GwUm-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switchユーザーの味方。山崎実業の新作で「ゲームカード・microSD」の管理が格段にしやすくなる",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OYnNsU0VDZ2pGS1lUQllJampIdFhTeFgxTXhVOEpHYTNuX3J5Nkt3TkFsQklCaXFhakVZOVlzZ28wcmQ0M2U0VXQyNFFpX1k?oc=5",
+   "pubDate": "2026-10-13T11:30:20.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "ROOMIE（ルーミー）",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ROOMIE（ルーミー）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OYnNsU0VDZ2pGS1lUQllJampIdFhTeFgxTXhVOEpHYTNuX3J5Nkt3TkFsQklCaXFhakVZOVlzZ28wcmQ0M2U0VXQyNFFpX1k?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "ヒット作の系譜継ぐホラー作業用ツール『Dyping Working: 作業監視ゲーム』発表！あの目玉がじっくり見つめるあなたの仕事",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173554.html",
+   "pubDate": "2026-10-13T11:30:03.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Dyping Working: 作業監視ゲーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/13/173554.html"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch版「ニコニコ」来年3月末でサービス終了へ。“Switch 2向けの対応予定”もなし",
+   "summary": "ドワンゴは10月13日、2027年3月31日をもってNintendo Switch向けアプリ「ニコニコ」のサービス提供を終了すると発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261013-473240/",
+   "pubDate": "2026-10-13T11:19:56.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261013-473240-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "mobile",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch",
+    "mobile"
+   ],
+   "works": [
+    "ニコニコ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261013-473240/"
+    }
+   ]
+  },
+  {
+   "title": "Hideo Kojima Wears Joy Division T-Shirt to Sony Visit, Sparking Johnny Silverhand Arasaka Tower Comparison",
+   "summary": "Hideo Kojima posted pictures on social media of himself visiting Sony in Japan while wearing a Joy Division T-shirt — and fans are certainly…",
+   "link": "https://www.ign.com/articles/hideo-kojima-wears-joy-division-t-shirt-to-sony-visit-sparking-johnny-silverhand-arasaka-tower-comparison",
+   "pubDate": "2026-10-13T11:16:04.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/13/kojima-1791890138911.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/hideo-kojima-wears-joy-division-t-shirt-to-sony-visit-sparking-johnny-silverhand-arasaka-tower-comparison"
+    }
+   ]
+  },
+  {
+   "title": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on",
+   "summary": "I'll be saving my pennies for something—anything—else, personally.",
+   "link": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
+   "pubDate": "2026-10-13T11:12:30.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/eXGy5QU2CvtncrdkHNPP9A-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/"
+    }
+   ]
+  },
+  {
+   "title": "「プロジェクトセカイ 6th Anniversary 感謝祭」，グッズの事後物販を開始",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/476/G047609/20261013050/",
+   "pubDate": "2026-10-13T11:08:06.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/476/G047609/20261013050/"
+    }
+   ]
+  },
+  {
+   "title": "「ぷよぷよ」，サンリオキャラクターズ「はぴだんぶい」とのコラボが決定",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/458/G045823/20261013049/",
+   "pubDate": "2026-10-13T11:05:29.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/458/G045823/20261013049/"
+    }
+   ]
+  },
+  {
+   "title": "Don't neglect crafting furniture in your Arc Raiders outpost—it unlocks hundreds of extra storage slots",
+   "summary": "Turns out decorating your home away from home isn't purely cosmetic.",
+   "link": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/",
+   "pubDate": "2026-10-13T11:04:52.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/2FQCyUW9Vyw8f7GhCPjobG-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/"
+    }
+   ]
+  },
+  {
+   "title": "舞台「『HUNTER×HUNTER』THE STAGE 4 前編」キメラアント編の登場人物が勢揃いのメインビジュアルが公開。チケットやキャストの情報も解禁",
+   "summary": "各キャラクターのソロビジュアルも公開された。ゴン役は西山蓮都さん 、キルア役は阿久津仁愛さんが演じる",
+   "link": "https://news.denfaminicogamer.jp/news/2610133m",
+   "pubDate": "2026-10-13T11:03:43.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUQQjhzaUAAc1uM-724x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "HUNTER×HUNTER"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610133m"
+    }
+   ]
+  },
+  {
+   "title": "If you're upset about the dire lack of consumer RAM knocking around, this 480 GB Intel GPU isn't going to cheer you up",
+   "summary": "Probably won't even run Crysis.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/",
+   "pubDate": "2026-10-13T11:02:39.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/aXhXovgBHWHTCVQ96aMbpX-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/"
+    }
+   ]
+  },
+  {
+   "title": "「Football Manager 27」，解説動画「トレーニングと戦術の有効性」を公開",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/037/G103744/20261013048/",
+   "pubDate": "2026-10-13T11:00:43.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Football Manager 27"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/037/G103744/20261013048/"
+    },
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qc0JaZkUzNnpveTN0YXg3bnVVTFFKTFZ1S1lna29jYkx2MGZJN1FkNzE5bjRXNnFlTnVFV29aa3lfSzBmZmtDNXNpVUZYel90YTNUSWxKSXhZZkk?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "実はホラーじゃない説!?映画『バイオハザード』（2026）を語りつくす！：#505 しゃべりすぎGAMER",
+   "summary": "今回のしゃべりすぎGAMERではゲームを原作とする映画『バイオハザード』（2026年）について語っています。「銀幕にポップコーン」形式の回をぜひお楽しみください。",
+   "link": "https://jp.ign.com/shaberisugi-gamer/84401/2026505-gamer",
+   "pubDate": "2026-10-13T11:00:37.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg",
+   "source": "IGN Japan",
+   "sourceId": "ign-jp",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "バイオハザード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN Japan",
+     "sourceId": "ign-jp",
+     "link": "https://jp.ign.com/shaberisugi-gamer/84401/2026505-gamer"
+    }
+   ]
+  },
+  {
+   "title": "料理を好きに盛り付けて極上の1枚を撮影するゲーム『Oh! my Table』体験版が公開。料理を並べてさまざまな食器を組み合わせ、最後にはソースの模様を選んで配置",
+   "summary": "10月13日、タイ・バンコクを拠点とするSecret Characterは、HaconNと開発する『Oh! my Table』の体験版を公開した。 同作は、食卓を自由な創作の場に変える、リラックスして楽しめる料理の盛り付けサンドボックスゲームだ。体験版では、用意された一部の食材や…",
+   "link": "https://news.denfaminicogamer.jp/news/2610132j",
+   "pubDate": "2026-10-13T11:00:06.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/02-8-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Oh! my Table"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610132j"
+    }
+   ]
+  },
+  {
+   "title": "露出多めな女悪魔がムッチリ太ももで男どもを締め落とす一人称視点アクション『Brush Burial: Bruiseland』最新デモ版配信中！",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173552.html",
+   "pubDate": "2026-10-13T11:00:03.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Brush Burial: Bruiseland"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/13/173552.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】ギリシャ彫刻のような優美なスタイルに見惚れてしまう！『崩スタ』アグライアの美女レイヤーが神々しい美しさ【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/13/189210.html",
+   "pubDate": "2026-10-13T11:00:03.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩スタ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/13/189210.html"
+    }
+   ]
+  },
+  {
+   "title": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist",
+   "summary": "Ratamatazz. Released at the height of the rhythm-action boom and following the march of peripheral-based music games, Patapon was a visually…",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan",
+   "pubDate": "2026-10-13T11:00:00.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://images.nintendolife.com/8f0c98f4c5bf3/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan"
+    }
+   ]
+  },
+  {
+   "title": "ステッカーで箱庭づくりゲーム『Oomi’s Nook』12月7日配信へ。8000枚以上のステッカーをのんびりペタペタ、完成したらゆるふわ生物が暮らしてくれる",
+   "summary": "Find the Lamp Gamesは10月13日、『Oomi’s Nook』を12月7日に配信すると発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261013-473233/",
+   "pubDate": "2026-10-13T10:55:54.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261013-473233-header.jpeg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Oomi’s Nook"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261013-473233/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch向け「ニコニコ」が2027年3月31日にサービス終了へ。Switch 2への対応予定はなし",
+   "summary": "ブラウザ版ニコニコ動画やニコニコ動画アプリなどからは、引き続き「ニコニコ」を楽しめる。2月28日をもってソフトの新規ダウンロードも停止",
+   "link": "https://news.denfaminicogamer.jp/news/2610133o",
+   "pubDate": "2026-10-13T10:50:00.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/d30337a59704b186ead57558bd50d5dc-1024x538-1.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "mobile",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch",
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610133o"
+    }
+   ]
+  },
+  {
+   "title": "Xbox CEO: We Must Rely On The Past, But We Cannot Rely On The Past",
+   "summary": "Xbox CEO Asha Sharma has once again discussed the new direction for Microsoft's gaming division and how it'll continue to focus heavily on i…",
+   "link": "https://www.gamespot.com/articles/xbox-ceo-we-must-rely-on-the-past-but-we-cannot-rely-on-the-past/",
+   "pubDate": "2026-10-13T10:48:37.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/08/halo-campaign-evolved-is-a-pretty-remake-coming-to-ps5-but-n_2au1.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/xbox-ceo-we-must-rely-on-the-past-but-we-cannot-rely-on-the-past/"
+    }
+   ]
+  },
+  {
+   "title": "Gigabyte deletes blog post on Intel LGA1700 chips in early 2027, but it can't put the cat back in the bag",
+   "summary": "Looks like Gigabyte made an error when it posted about Intel's upcoming LGA1700 chips last week.",
+   "link": "https://www.pcgamer.com/hardware/processors/gigabyte-deletes-blog-post-on-intel-lga1700-chips-coming-early-2027-but-it-cant-put-the-cat-back-in-the-bag/",
+   "pubDate": "2026-10-13T10:46:03.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/uLGCsB6XsTB4aifHk9XXkQ-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/processors/gigabyte-deletes-blog-post-on-intel-lga1700-chips-coming-early-2027-but-it-cant-put-the-cat-back-in-the-bag/"
+    }
+   ]
+  },
+  {
+   "title": "一番くじ「カードキャプターさくら クリアカード編」全ラインナップ公開！目玉の「桜」フィギュアや、小物入れになったクロウカードブックも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/13/189209.html",
+   "pubDate": "2026-10-13T10:45:03.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/13/189209.html"
+    }
+   ]
+  },
   {
    "title": "【10/16配信】声優・夏川椎菜が自分だけのドレスを仕立てるクラフトゲーム『ドレスメーカー』をプレイ #夏川ずっとゲ",
    "summary": "",
@@ -12729,7 +13646,7 @@
   },
   {
    "title": "声優・鈴村健一さんが代表を務める「インテンション」が2027年3月31日をもって解散へ",
-   "summary": "中村悠一さん、東山奈央さん、内田雄馬さん、遠藤綾さんらが所属する声優事務所。所属タレントの今後については、最大限のサポートに努めるとしている",
+   "summary": "鈴村さんは適応障害について、医師から「経営に関わり続ける限り病状は回復しない」と診断されたとしている。中村悠一さん、東山奈央さん、内田雄馬さん、遠藤綾さんらが所属",
    "link": "https://news.denfaminicogamer.jp/news/2610133n",
    "pubDate": "2026-10-13T10:34:29.000Z",
    "firstSeen": "2026-10-13T10:48:39.974Z",
@@ -12761,7 +13678,7 @@
    "firstSeen": "2026-10-13T10:48:39.974Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12777,9 +13694,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51dEllQVBmem51SFhxMEhueTNxYlU1MnExd2pkYlpZaWsyeExScXdYZGZaYURiTkJLSHhnTV9pZTRwT3FNbm5HUm4zRmNUZEhWbWg3V2d6Yw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -13274,6 +14191,12 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
+     "name": "週刊アスキー",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mempua0s3SGFKbGtlU0pKeWx4a1dJSEdoakxrSjU4cFhyZzF3X2xsQWE0YnBibDlTUTdrSkNNUmpjWlpYd3ptaVVCdFhKV25pbnVQdV9FdjI0RUszanc?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
      "name": "Infoseek",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JTXVDR1JINEtGb1E1Qk4zVkQtN2NhOVMybHdzMGZuT2tBN0lhdlcyQV93NTBRY0wyQTZPb0VGWGljdk43eWgtS0wtY1hUSGpFRWxUM0d3Y2xBZXlRQnJONlVn?oc=5",
@@ -13307,6 +14230,32 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/004/G100451/20261013042/"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+   "summary": "GTA 6 fans are celebrating after the Cyberleek memecoin crashed hard yesterday, scuppering the leaker’s crypto scheme.",
+   "link": "https://www.ign.com/articles/gta-6-fans-celebrate-as-cyberleek-cryptocurrency-crashes-hard",
+   "pubDate": "2026-10-13T09:56:22.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/13/ultimate-edition-vice-city-style-05-1791885281233.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-fans-celebrate-as-cyberleek-cryptocurrency-crashes-hard"
     }
    ]
   },
@@ -13984,6 +14933,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/13/189197.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/13/173553.html"
     }
    ]
   },
@@ -14625,6 +15579,34 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000056.000132621.html"
+    }
+   ]
+  },
+  {
+   "title": "『ストリートファイター6』Year 4キャラクター第2弾「アルジュン」が本日10月13日（火）より登場！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000006108.000013450.html",
+   "pubDate": "2026-10-13T08:15:20.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ストリートファイター6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000006108.000013450.html"
     }
    ]
   },
@@ -15407,6 +16389,13 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FQ0thVWtsRlZDSEQzUExQWlExay1LbG9oRXZTNDBkdVNjRlpLWkRnZ2ZqdXA0dGozZldsSlZaV3NpZGxfSmtQN3JCX3dpZFR3VE9aV0MtQ3pJTmxmZEV1VXllNWhQUmExT3Nmak93?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Id19hUGV3QlZsdGo2akNkbjNvYUhHT1RnNEhnVUJISDZNNi11RlFKLU5oUk1UX0hYZEtGeTRGSFU4WmVreUZHZVNNMnBjQnVFbmRGMlJVWjM3TEZ0ZzFQUVU2enhucno2OHdZSVlHdUFKcUF3MzRSVUpGN2UzOG8?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -15592,6 +16581,38 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNUZHNFNjR080Tl9JbmZZLU83cFpycU9OZkl2QUR1eTZSa2dQMXRJS0V2bkduV0JWbm0xMjdiR2p3QW9rYnR5WWdSWTRkb1ZoZHVwY3Nudw?oc=5",
      "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "12年待ったかいがあった！『キャッスルヴァニア ベルモンドカース』はオススメ度9。『悪魔城ドラキュラ』らしさを感じられる傑作【クリア後レビュー】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YeDd0UVpNYV84aDdQclZfcS1xLUozeTI2b2I5eUtoSUY2eU5Oc0xJTlk4X211OHNIeGl2Z1JxYk02NWl2VEJ4ejFVTW5xaWJheURBVi11eFdzQQ?oc=5",
+   "pubDate": "2026-10-13T07:00:00.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "キャッスルヴァニア ベルモンドカース",
+    "悪魔城ドラキュラ"
+   ],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YeDd0UVpNYV84aDdQclZfcS1xLUozeTI2b2I5eUtoSUY2eU5Oc0xJTlk4X211OHNIeGl2Z1JxYk02NWl2VEJ4ejFVTW5xaWJheURBVi11eFdzQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -15983,6 +17004,12 @@
      "name": "gamebiz【ゲームビズ】",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5wVllBd2FPQWwycFc4d1JualBYaGM0MEZUdWl2c2VSV05icnF5NUd2T1h4OG0tRGY2Njl5S0NjQnp0dFdm?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "毎日キレイ",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aaGRNSmVoUEhzR2l0NjFoblhac1lJeUR6X3dOaFZ5WGRRYWpQUU9TMmdiN19Mcm45VXlvcE5HLUw3Ujc2RjVjUmRrWVhiWTZDTTZ0VzFSN0lhR2tTaDFfbl9DLW45ZmNUZDJYWWgzbnJwazVpU3NIZ0Vn?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
@@ -16940,6 +17967,37 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOYW1wYXBiSUJobVhnWTQ5bW96ZDJiUS1WM1ItdGM4MUZhSXVCSFF4NGIweUNFTG43ejltNE9FOEZwUm5SWXZxdmxYSTVGZXdSd0lqMXRJWXl6SWQ4MWI5ZA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『スト6』Year4追加キャラ・アルジュン本日10月13日配信開始！ C.ヴァイパー水着も登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRERxVndZUmpMVVp0blNXZTlYUzlIOVZibzMxR0ExVlB2d3JFREtRdHo2bll1T1d6d2w2ZXNZUTdfdXBoejY2bE9NY09WWk9NbUxWT2kyUFU0UQ?oc=5",
+   "pubDate": "2026-10-13T04:39:00.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スト6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRERxVndZUmpMVVp0blNXZTlYUzlIOVZibzMxR0ExVlB2d3JFREtRdHo2bll1T1d6d2w2ZXNZUTdfdXBoejY2bE9NY09WWk9NbUxWT2kyUFU0UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -18819,6 +19877,34 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzcER1ajJ6VnB4NllsQl96SldtbjFQSzQwLUh5SW96VUFuaTdOWjZ1anJkOWMyaVl2NkNxODFoMTZBQUh0UVJXWGE5eUtWZzRCZktCVUFuQ19Da1U?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "「肩がキツくない」腰で支える軽快感で肩の負担を軽減。シマノから登場のゲームベストが新浮力材と腰サポートベルトで大幅進化。（ルアマガプラス）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zempJTFREbkZ2c2lTWlFOalRPT2wxdGhVSTQzZFdUSUVULWdNUVotSTdmVXpla1BRTmhaUnFma0ZOQ3ZTWVNGX3NUb3BVM29LYW5mbHg5bDVJZHFCRFFNa1NMZWh0eV9HYU9CRFBCekVRWE11M21lcmVsbGtDZm8?oc=5",
+   "pubDate": "2026-10-13T02:40:45.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "ルアマガプラス（Yahoo!ニュース）",
+   "sourceId": "gnews-newgame",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ルアマガプラス（Yahoo!ニュース）",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zempJTFREbkZ2c2lTWlFOalRPT2wxdGhVSTQzZFdUSUVULWdNUVotSTdmVXpla1BRTmhaUnFma0ZOQ3ZTWVNGX3NUb3BVM29LYW5mbHg5bDVJZHFCRFFNa1NMZWh0eV9HYU9CRFBCekVRWE11M21lcmVsbGtDZm8?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
     }
    ]
   },
@@ -21195,6 +22281,37 @@
    ]
   },
   {
+   "title": "『金田一パパの事件簿』最新刊5巻。同級生ママから浮気調査の依頼を受けたはじめは、息子（九十九）とともに脱出ゲームに参加するが…",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MlIxWE9nUGNDeHNwVXpTNElwTU5nR0IwbXFCZW5oNWhWOFIwQ0ZkenBEM09lOXliZ0h1Z1NpQ0JOZFh2bUE2MGFiZW1NaHhsUENTb2UwaDR3UQ?oc=5",
+   "pubDate": "2026-10-12T21:40:00.000Z",
+   "firstSeen": "2026-10-13T12:13:05.664Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "金田一パパの事件簿"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MlIxWE9nUGNDeHNwVXpTNElwTU5nR0IwbXFCZW5oNWhWOFIwQ0ZkenBEM09lOXliZ0h1Z1NpQ0JOZFh2bUE2MGFiZW1NaHhsUENTb2UwaDR3UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "Nintendo Was Reportedly Unhappy With Elon Musk's Saturday Night Live Wario Sketch",
    "summary": "Nintendo was reportedly unhappy with Elon Musk's 2021 Saturday Night Live sketch where he played Wario.",
    "link": "https://www.ign.com/articles/nintendo-was-reportedly-unhappy-with-elon-musks-saturday-night-live-wario-sketch",
@@ -21366,7 +22483,7 @@
    "link": "https://www.ign.com/articles/xteink-x4-pro-on-sale-october-2026",
    "pubDate": "2026-10-12T20:30:00.000Z",
    "firstSeen": "2026-10-12T21:47:32.629Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/4-1791829957342.png",
+   "image": "https://assets-prd.ignimgs.com/2026/10/13/untitled-design-1791892291224.png",
    "source": "IGN",
    "sourceId": "ign",
    "syndicated": false,
@@ -29722,7 +30839,7 @@
    "firstSeen": "2026-10-11T09:47:52.220Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -29739,9 +30856,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rMU00ZjliWVFUS2dXaUZzd3FrdV82MVF5RlIyT0N0OTNIa1Q0blJDS3BKaDdkTGlEV2h1ZnZUYXNLV1lqMU0zZlVWMVFFaHFYVHE4Qm53OA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -190482,1037 +191599,6 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20260927-470213/"
-    }
-   ]
-  },
-  {
-   "title": "Everything Coming to Peacock in October",
-   "summary": "",
-   "link": "https://www.ign.com/articles/whats-new-on-peacock-october-2026",
-   "pubDate": "2026-09-26T18:30:00.000Z",
-   "firstSeen": "2026-09-26T18:48:25.806Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/25/peacock-october-1790374286050.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/whats-new-on-peacock-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-   "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-   "link": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
-   "pubDate": "2026-09-26T18:29:29.000Z",
-   "firstSeen": "2026-09-26T18:48:25.806Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/the-last-of-us-background-ps5-1790446863917.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 11,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026"
-    }
-   ]
-  },
-  {
-   "title": "【先行プレイレビュー】『マインクラフトダンジョンズ 2』先行試遊レポート！新たな次元「シフト」を体験",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aSHV5d3czXzBrcElCWVBCd3lvUFJuR0ZWbVYzNjZET09oVWswZ1B3OTRIaV9VU0diRG1Ic1J3bmdBRmJWLTJmMW90ckFTRERpWmRQYWRycmtmYUU?oc=5",
-   "pubDate": "2026-09-26T18:00:02.000Z",
-   "firstSeen": "2026-09-27T04:48:23.854Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "demo",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マインクラフト ダンジョンズ 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aSHV5d3czXzBrcElCWVBCd3lvUFJuR0ZWbVYzNjZET09oVWswZ1B3OTRIaV9VU0diRG1Ic1J3bmdBRmJWLTJmMW90ckFTRERpWmRQYWRycmtmYUU?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "9月29日発売の「Minecraft Dungeons II」を開発陣と体験。約15年ぶりに登場する新ディメンション「シフト」（Sift）を4人協力プレイで飛び回ってきた",
-   "summary": "9月29日発売の「MinecraftDungeonsII」のハンズオンに参加した。4人協力プレイで，15年ぶりの新ディメンション「シフト」や，つながり合う世界，新たに加わったジャンプなどを体験してきた。",
-   "link": "https://www.4gamer.net/games/014/G101443/20260924017/",
-   "pubDate": "2026-09-26T18:00:00.000Z",
-   "firstSeen": "2026-09-26T18:48:25.806Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/014/G101443/20260924017/"
-    }
-   ]
-  },
-  {
-   "title": "「風の谷のナウシカ」からインスピレーション。「Minecraft Dungeons II」最後の秘密“シフト”がお披露目【TGS2026】",
-   "summary": "東京ゲームショウでは「マインクラフト」ブース全域を使って、日本のゲームファンに向けてアピールに余念が無かった「Minecraft Dungeons II（マインクラフトダンジョンズ2）」。GAME Watchでは、XBOX Showcase、gamescomと2度に渡って試遊レポ…",
-   "link": "https://game.watch.impress.co.jp/docs/kikaku/2143451.html",
-   "pubDate": "2026-09-26T18:00:00.000Z",
-   "firstSeen": "2026-09-26T18:48:25.806Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "demo",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/kikaku/2143451.html"
-    }
-   ]
-  },
-  {
-   "title": "『マイクラ』のテーマパーク「Minecraft World」のジェットコースター「ESCAPE THE NETHER」の映像がお披露目。パークに併設される「Minecraft Hotel」も発表",
-   "summary": "ネザーゲートをくぐり抜けるようなイメージ画像も。「Minecraft World」は2027年にイギリス・ロンドンでオープン",
-   "link": "https://news.denfaminicogamer.jp/news/260927c",
-   "pubDate": "2026-09-26T17:48:15.000Z",
-   "firstSeen": "2026-09-26T18:48:25.806Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/6716a1edf342b2953bcb4ce037cf31e3-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マイクラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/260927c"
-    }
-   ]
-  },
-  {
-   "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
-   "summary": "Mojang has teased Minecraft’s next game drop, giving fans a sneak peek at some of its features.",
-   "link": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
-   "pubDate": "2026-09-26T17:32:00.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/800-800-1790443907943.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more"
-    }
-   ]
-  },
-  {
-   "title": "『マイクラ』新たなディメンション「ザ・シフト」が追加。「ネザー」「ジ・エンド」に続く14年ぶりの新たな世界",
-   "summary": "『マイクラ』新たなディメンション「ザ・シフト」が追加。「ネザー」「ジ・エンド」に続く14年ぶりの新たな世界",
-   "link": "https://news.denfaminicogamer.jp/news/260927d",
-   "pubDate": "2026-09-26T17:30:29.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/1f7e48a174c0bbaac72b9673a200b18d-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マイクラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/260927d"
-    }
-   ]
-  },
-  {
-   "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-   "summary": "Minecraft World got two announcements at Minecraft LIVE today: the world’s first official Minecraft hotel, and the name of the first ever Mi…",
-   "link": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
-   "pubDate": "2026-09-26T17:30:14.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/htkjbgrxuaaoaiy-1790443786886.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named"
-    }
-   ]
-  },
-  {
-   "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
-   "summary": "Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring fr…",
-   "link": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
-   "pubDate": "2026-09-26T17:30:00.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/09/MCV_Frozen_Zombie_1920x1080.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/"
-    }
-   ]
-  },
-  {
-   "title": "Minecraft Is Getting Its First New Dimension in Over 14 Years",
-   "summary": "Minecraft developer Mojang has announced that the Sift is coming to Java and Bedrock Edition in 2027 — the game's first new dimension in ove…",
-   "link": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years",
-   "pubDate": "2026-09-26T17:28:19.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/screenshot-2026-09-26-182752-1790443689989.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years"
-    },
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/"
-    },
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years"
-    }
-   ]
-  },
-  {
-   "title": "The Legend of Zelda: Ocarina of Time Remake Extended Clip Reveals Closer Look at Ganondorf",
-   "summary": "Nintendo has published a short clip that shows a closer look at Ganondorf in The Legend of Zelda: Ocarina of Time remake.",
-   "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf",
-   "pubDate": "2026-09-26T17:24:54.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/the-legend-of-zelda-ocarina-of-time-remake-ganondorf-1790443083896.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf"
-    }
-   ]
-  },
-  {
-   "title": "『マイクラ』新たな洞窟バイオーム「氷の洞窟」が発表。ほのかに光るクリスタルが幻想的だが、天井のつららと新たな敵「フローズンゾンビ」に注意",
-   "summary": "天井のつららは適当にたいまつを置くと落下してくるので注意。氷はサクサク掘れるので鉱石を見つけやすいそう",
-   "link": "https://news.denfaminicogamer.jp/news/260927b",
-   "pubDate": "2026-09-26T17:17:59.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/WS000763-1-1024x582.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マイクラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/260927b"
-    }
-   ]
-  },
-  {
-   "title": "ゲオHD、レトロゲーム強化の新業態 ソフト売り上げは通常ゲオの5倍",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HYUl4czFaM1BmSDFKQ2I5MDdkX2FLcTA4ZUpRVV9DcVNoaE9JVjhEOHp6eVlNWDJocTNudV83Q0Z0X1ctTUhGb2RoZlB2SEJaaTJKU2Q4T3VGcjBLY2MxMFhMWjI4M2VBeWdWRQ?oc=5",
-   "pubDate": "2026-09-26T17:00:00.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": null,
-   "source": "日本経済新聞",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "日本経済新聞",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HYUl4czFaM1BmSDFKQ2I5MDdkX2FLcTA4ZUpRVV9DcVNoaE9JVjhEOHp6eVlNWDJocTNudV83Q0Z0X1ctTUhGb2RoZlB2SEJaaTJKU2Q4T3VGcjBLY2MxMFhMWjI4M2VBeWdWRQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?",
-   "summary": "Cavern club. We are one week closer to the 5th November launch of Ocarina of Time on Switch 2, so that means it's time for my second replay…",
-   "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
-   "pubDate": "2026-09-26T17:00:00.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://images.nintendolife.com/a8410a5467625/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump"
-    }
-   ]
-  },
-  {
-   "title": "I saw the future and it literally stinks",
-   "summary": "You absolutely do not need it. I feel obliged to note this.",
-   "link": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
-   "pubDate": "2026-09-26T17:00:00.000Z",
-   "firstSeen": "2026-09-26T17:48:26.026Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/DUWiwe2wPa5fNuXAFqCF9h-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/"
-    }
-   ]
-  },
-  {
-   "title": "Unabomber Review",
-   "summary": "Unabomber covers the formative years and later arrest of Ted Kaczynski, the titular mail bomber who terrorized the US from the late 1970s un…",
-   "link": "https://www.ign.com/articles/unabomber-netflix-movie-review",
-   "pubDate": "2026-09-26T16:30:00.000Z",
-   "firstSeen": "2026-09-26T16:48:28.804Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/unabomber-crowe-1280-1790456085204.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/unabomber-netflix-movie-review"
-    }
-   ]
-  },
-  {
-   "title": "Melissa Barrera Says She Would Reprise Her Scream Role, Reveals Conditions for Her Return",
-   "summary": "Actress Melissa Barrera said she is open to returning to Scream, but don't expect to see her reprise her role as Sam Carpenter as long as Sp…",
-   "link": "https://www.ign.com/articles/melissa-barrera-says-she-would-reprise-her-scream-role-reveals-conditions-for-her-return",
-   "pubDate": "2026-09-26T16:19:23.000Z",
-   "firstSeen": "2026-09-26T16:48:28.804Z",
-   "image": "https://assets-prd.ignimgs.com/2024/03/28/melissa-barrera-comments-scream-7-1711648434561.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/melissa-barrera-says-she-would-reprise-her-scream-role-reveals-conditions-for-her-return"
-    }
-   ]
-  },
-  {
-   "title": "Everything Coming to Disney+ and Hulu in October",
-   "summary": "",
-   "link": "https://www.ign.com/articles/whats-new-on-disney-and-hulu-in-october-2026",
-   "pubDate": "2026-09-26T16:02:00.000Z",
-   "firstSeen": "2026-09-26T16:48:28.804Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/25/disney-streaming-1790376461364.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/whats-new-on-disney-and-hulu-in-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "What's the weirdest thing that happened to you in a tabletop RPG?",
-   "summary": "Miraculous rolls, insane GMs, tables being flipped over—I want it all.",
-   "link": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
-   "pubDate": "2026-09-26T16:00:00.000Z",
-   "firstSeen": "2026-09-26T16:48:28.804Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/fDBDuJcFEPrKxjtG66Dpgj-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/"
-    }
-   ]
-  },
-  {
-   "title": "Castlevania celebrates turning 40 by giving away the original game for free",
-   "summary": "In celebration of the 40th(!!) anniversary of Castlevania, Konami is giving away the original 1986 game for free on the App Store and Google…",
-   "link": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
-   "pubDate": "2026-09-26T15:28:01.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-26-at-14.58.29.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse"
-    }
-   ]
-  },
-  {
-   "title": "New Werwulf Trailer and Tie-In Video Game Revealed",
-   "summary": "Focus Features has released the new official trailer for Robert Eggers’ Werwulf, alongside a surprise video game reveal for the medieval hor…",
-   "link": "https://www.ign.com/articles/werwulf-trailer-video-game-robert-eggers",
-   "pubDate": "2026-09-26T15:22:42.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://assets-prd.ignimgs.com/2026/06/29/werewulf-thumb-1782767493284.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 14,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/werwulf-trailer-video-game-robert-eggers"
-    }
-   ]
-  },
-  {
-   "title": "ワークマンの「呪術廻戦」限定商品に注目！冬の寒さを祓うスウェット＆コインケースなど",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/27/188313.html",
-   "pubDate": "2026-09-26T15:10:03.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/27/188313.html"
-    }
-   ]
-  },
-  {
-   "title": "「サクラ大戦」30周年！ 太正浪漫の風、乙女たちの歌声と蒸気の嵐、さくらたちが紡いだ帝国華撃団の絆と「ゲキテイ」の衝撃",
-   "summary": "1996年という年は、次世代機戦争が百花繚乱の極みに達していた激動の時代であった。プレイステーションとセガサターンがしのぎを削り、3Dグラフィックスという新たな表現技法に業界全体がめまいを覚えていたあの秋。セガサターンというハードウェアの潜在能力を極限まで引き出し、ゲームという媒…",
-   "link": "https://game.watch.impress.co.jp/docs/kikaku/2141372.html",
-   "pubDate": "2026-09-26T15:00:00.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/kikaku/2141372.html"
-    }
-   ]
-  },
-  {
-   "title": "John Goodman, Laura Bailey, and Ian Alexander to Star in HBO's The Last of Us Season 3",
-   "summary": "Emmy-winning actor John Goodman, prolific voice talent Laura Bailey, and returning star Ian Alexander have been cast in the third (and possi…",
-   "link": "https://www.ign.com/articles/john-goodman-laura-bailey-and-ian-alexander-to-star-in-hbos-the-last-of-us-season-3",
-   "pubDate": "2026-09-26T15:00:00.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/25/john-goodman-laura-bailey-ian-alexander-cast-last-of-us-season-3-1790379382320.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/john-goodman-laura-bailey-and-ian-alexander-to-star-in-hbos-the-last-of-us-season-3"
-    }
-   ]
-  },
-  {
-   "title": "Werwulf Director Robert Eggers Reveals New Details About His 'Hell-Like' Medieval Horror Film",
-   "summary": "Director Robert Eggers reveals eerie new details about Werwulf, his upcoming medieval horror film starring Aaron Taylor-Johnson, Willem Dafo…",
-   "link": "https://www.ign.com/articles/robert-eggers-werwulf-medieval-horror-details",
-   "pubDate": "2026-09-26T15:00:00.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/werwulf-poster-thumb-1790393002058.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/robert-eggers-werwulf-medieval-horror-details"
-    }
-   ]
-  },
-  {
-   "title": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
-   "summary": "\"We still love this game.\"",
-   "link": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
-   "pubDate": "2026-09-26T15:00:00.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/KsxVvVoLorXM3k2WcLzcba-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/"
-    }
-   ]
-  },
-  {
-   "title": "Minecraft LIVE September 2026 — Everything Announced",
-   "summary": "Minecraft LIVE wrapped up with a number of big announcements for the game. We've got everything you need to know right here.",
-   "link": "https://www.ign.com/articles/minecraft-live-september-2026-everything-announced",
-   "pubDate": "2026-09-26T14:59:57.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/26/minecraftlive-blogroll-1790444094396.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/minecraft-live-september-2026-everything-announced"
-    }
-   ]
-  },
-  {
-   "title": "メカに乗って戦うPvPvE脱出ゲーム『SYNDUALITY Echo of Ada』が2027年5月以降にオンラインサービスを終了。オフラインのPvEゲームへ移行し、一部機能を除いてプレイを継続できる",
-   "summary": "オフラインのPvEゲームへ移行し、所有者は一部機能を除いてプレイを継続できる。アップデートとイベントは2026年10月中に実施予定の内容が最後となる",
-   "link": "https://news.denfaminicogamer.jp/news/260926m",
-   "pubDate": "2026-09-26T14:59:19.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/fBoYP55S-1024x538.jpeg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "update",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "SYNDUALITY Echo of Ada"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/260926m"
-    }
-   ]
-  },
-  {
-   "title": "『シャニマス』ソロライブ“Master ShowPiece-”Day1リポート。ファッションショーを舞台に、アイドルたちが新ソロ曲を携えて輝きを放つ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iSGhOcW9OMTZScHFNREtSdVVsaHIwQWlyVW1ZWENHNXN1UzBNMmpNcHNiU1oweUtzWk5WS1FpYlZaMS1HeEszdXBKcmo3amRpbjNVVk5vTQ?oc=5",
-   "pubDate": "2026-09-26T14:29:00.000Z",
-   "firstSeen": "2026-09-26T15:48:22.442Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "シャニマス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iSGhOcW9OMTZScHFNREtSdVVsaHIwQWlyVW1ZWENHNXN1UzBNMmpNcHNiU1oweUtzWk5WS1FpYlZaMS1HeEszdXBKcmo3amRpbjNVVk5vTQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games",
-   "summary": "Age of Empires and Blizzard's RTS offer a playbook for how to keep the nostalgia fires burning.",
-   "link": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/",
-   "pubDate": "2026-09-26T14:17:56.000Z",
-   "firstSeen": "2026-09-26T14:48:23.683Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/SCNkfSVXbzaAAYK7Liot2Y-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/"
-    }
-   ]
-  },
-  {
-   "title": "『シャニマス』初の単独オーケストラコンサートが2027年3月22日にパシフィコ横浜 国立大ホールで開催決定【ソロライブMSP Day1最新情報まとめ】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbmZMYTh5eW9NS1ZsWG1GSzhEcndpOHh1cmUydjJQbVd1T0d0WjlDaGVwTUhrb3dUNHNuMlc3c0JONkJrTW9xU2h0ZU1ybE9LcEdNZ19adw?oc=5",
-   "pubDate": "2026-09-26T14:00:00.000Z",
-   "firstSeen": "2026-09-26T14:48:23.683Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "シャニマス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbmZMYTh5eW9NS1ZsWG1GSzhEcndpOHh1cmUydjJQbVd1T0d0WjlDaGVwTUhrb3dUNHNuMlc3c0JONkJrTW9xU2h0ZU1ybE9LcEdNZ19adw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked",
-   "summary": "\"I absolutely love Luigi's Mansion!\". We've all experienced a game-induced argument over the years, and for most of us here at Nintendo Life…",
-   "link": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
-   "pubDate": "2026-09-26T14:00:00.000Z",
-   "firstSeen": "2026-09-26T14:48:23.683Z",
-   "image": "https://images.nintendolife.com/5aa975fd27eeb/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked"
-    }
-   ]
-  },
-  {
-   "title": "バンナムのメカPvPvE脱出シューター『SYNDUALITY Echo of Ada』、来年サービス終了へ。“オフラインのPvE版”として生まれ変わる",
-   "summary": "バンダイナムコエンターテインメントは9月26日、『SYNDUALITY Echo of Ada』のオンラインサービスを2027年5月以降に終了し、オフライン版に移行すると告知した。",
-   "link": "https://automaton-media.com/articles/newsjp/20260926-470195/",
-   "pubDate": "2026-09-26T13:54:22.000Z",
-   "firstSeen": "2026-09-26T14:48:23.683Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2025/11/ps-plus-20251127-367231-header2.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "trouble"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "SYNDUALITY Echo of Ada"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20260926-470195/"
-    }
-   ]
-  },
-  {
-   "title": "『LITTLE PANTRY』のゲーム情報",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OTjJ4VndmY3lXdUpqMDZ0RWZfdXJxZ21acG8wTUVYMG51RWxrYnJUNnBvdTh2NlhtLUdXR2VYeHY5REdoQV93?oc=5",
-   "pubDate": "2026-09-26T13:48:27.000Z",
-   "firstSeen": "2026-09-27T04:48:23.854Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "LITTLE PANTRY"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OTjJ4VndmY3lXdUpqMDZ0RWZfdXJxZ21acG8wTUVYMG51RWxrYnJUNnBvdTh2NlhtLUdXR2VYeHY5REdoQV93?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-   "summary": "Microsoft CEO Satya Nadella has praised Xbox's ongoing \"streamlining\" under Xbox CEO Asha Sharma just days after another round of layoffs hi…",
-   "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-   "pubDate": "2026-09-26T13:21:21.000Z",
-   "firstSeen": "2026-09-26T13:35:08.493Z",
-   "image": "https://assetsio.gnwcdn.com/satya-nadella-xbox.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs"
-    },
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/"
-    },
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands"
     }
    ]
   }
