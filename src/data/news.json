@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T19:47:51.268Z",
+ "generatedAt": "2026-10-16T20:47:51.715Z",
  "count": 6000,
  "dedupe": {
   "exact": 822,
@@ -915,22 +915,6 @@
    "source": "PR TIMES",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-02",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": null,
-   "title": "Prime Video，映画「マインクラフト／ザ・ムービー」の見放題配信を開始。10月2日には映画「8番出口」も配信",
-   "link": "https://www.4gamer.net/games/126/G012627/20261001045/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "indie"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -5397,6 +5381,22 @@
   {
    "date": "2026-10-16",
    "precision": "day",
+   "verb": "demo",
+   "label": "体験版・テスト",
+   "work": "崩落の国",
+   "title": "新ブランド「CygamesEdge」の第1弾タイトル『崩落の国』本日10月16日から体験版の配信を開始！",
+   "link": "https://prtimes.jp/main/html/rd/p/000001317.000005593.html",
+   "source": "PR TIMES",
+   "sources": 2,
+   "categories": [
+    "demo"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-16",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "バイオハザード",
@@ -5515,25 +5515,6 @@
    "sources": 1,
    "categories": [
     "release"
-   ],
-   "platforms": [
-    "pc"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-16",
-   "precision": "day",
-   "verb": "demo",
-   "label": "体験版・テスト",
-   "work": "崩落の国",
-   "title": "Cygames新ブランドデビュー作『崩落の国』体験版が配信開始。緊張感とともにある“濃密高難度落下アクション”を一足お先に体験できる",
-   "link": "https://automaton-media.com/articles/newsjp/20261016-473934/",
-   "source": "AUTOMATON",
-   "sources": 1,
-   "categories": [
-    "release",
-    "demo"
    ],
    "platforms": [
     "pc"
@@ -13253,8 +13234,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 720,
-   "accepted": 575
+   "archived": 721,
+   "accepted": 576
   },
   {
    "id": "gnews-dengeki",
@@ -13275,8 +13256,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 397,
-   "accepted": 372
+   "archived": 396,
+   "accepted": 371
   },
   {
    "id": "gnews-switch2",
@@ -13308,8 +13289,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 328,
-   "accepted": 216
+   "archived": 329,
+   "accepted": 217
   },
   {
    "id": "prtimes",
@@ -13319,8 +13300,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 19863,
-   "accepted": 332
+   "archived": 19904,
+   "accepted": 333
   },
   {
    "id": "gematsu",
@@ -13341,8 +13322,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 986,
-   "accepted": 986
+   "archived": 989,
+   "accepted": 989
   },
   {
    "id": "eurogamer",
@@ -13363,8 +13344,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 244,
-   "accepted": 244
+   "archived": 245,
+   "accepted": 245
   },
   {
    "id": "nintendolife",
@@ -13385,11 +13366,208 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 506,
-   "accepted": 506
+   "archived": 508,
+   "accepted": 508
   }
  ],
  "items": [
+  {
+   "title": "All The Records GTA 6 Will Break, We Think",
+   "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Pre…",
+   "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+   "pubDate": "2026-10-16T20:27:22.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/"
+    }
+   ]
+  },
+  {
+   "title": "新ブランド「CygamesEdge」の第1弾タイトル『崩落の国』本日10月16日から体験版の配信を開始！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000001317.000005593.html",
+   "pubDate": "2026-10-16T20:10:02.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩落の国"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000001317.000005593.html"
+    }
+   ]
+  },
+  {
+   "title": "I haven't wanted to 100% a game in a long time, but…",
+   "summary": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
+   "link": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
+   "pubDate": "2026-10-16T20:07:29.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/uxbqKcfdStUrdjecNzfTwa-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/"
+    }
+   ]
+  },
+  {
+   "title": "Meet the Solos AirGo V2: Smart Glasses That Pack Powerful AI Into a Sleek, Modular Design",
+   "summary": "With a discreet camera, all-day battery life, and a comfortable fit, you’ll never want to take them off.",
+   "link": "https://www.ign.com/articles/solos-airgo-v2-smart-glasses",
+   "pubDate": "2026-10-16T19:50:00.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/15/untitled-design-21-1792105238888.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/solos-airgo-v2-smart-glasses"
+    }
+   ]
+  },
+  {
+   "title": "The ASUS Xbox ROG Ally X20 Handheld Gaming PC Is Officially Released and Orders Are Now Shipping Out",
+   "summary": "The most powerful Ryzen-based gaming handheld version 2.0.",
+   "link": "https://www.ign.com/articles/asus-xbox-rog-ally-x20-handheld-gaming-pc-is-now-shipping",
+   "pubDate": "2026-10-16T19:50:00.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/16/asusrogallyx20-1792177084460.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/asus-xbox-rog-ally-x20-handheld-gaming-pc-is-now-shipping"
+    }
+   ]
+  },
+  {
+   "title": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
+   "summary": "Bulkhead's effort to make life better for the Blues worked a little too well.",
+   "link": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
+   "pubDate": "2026-10-16T19:42:52.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/k5RibPxese5kZiSt4xZbiV-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "We f**ked up"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/"
+    }
+   ]
+  },
+  {
+   "title": "I Bought a Steam Machine – Here’s Why (and How It’s Going)",
+   "summary": "I bought a Steam Machine, despite the high price. Here's why I have no regrets.",
+   "link": "https://www.ign.com/articles/i-bought-a-steam-machine-heres-why-and-how-its-going",
+   "pubDate": "2026-10-16T19:37:36.000Z",
+   "firstSeen": "2026-10-16T20:47:36.119Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/16/steam-machine-blogroll-1792177637050.jpeg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/i-bought-a-steam-machine-heres-why-and-how-its-going"
+    }
+   ]
+  },
   {
    "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
    "summary": "World of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new version of Blizzar…",
@@ -18168,7 +18346,7 @@
    "firstSeen": "2026-10-16T11:47:37.356Z",
    "image": null,
    "source": "ファミ通.com",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -18187,9 +18365,9 @@
    "sources": [
     {
      "name": "ファミ通.com",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlOWF0bnNVN08xbk9GTWtHdWNVckRtVlpjU2dPYUVISFlSbGlBejZCN3ZuRWVyRy1HcFF6azFoVG5BU19abHlOUzMzbzI4XzBZUjgzcEo2dw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192496,196 +192674,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/01/188602.html"
-    }
-   ]
-  },
-  {
-   "title": "Micron CEO says it'll be tougher to get memory in the next couple of years than it is today, and keeps saying it over and over again",
-   "summary": "Alright, I get it already.",
-   "link": "https://www.pcgamer.com/hardware/memory/micron-ceo-says-itll-be-tougher-to-get-memory-in-the-next-couple-of-years-than-it-is-today-and-keeps-saying-it-over-and-over-again/",
-   "pubDate": "2026-10-01T10:13:59.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/E9yQ29D6X4Hx3pvQe4Fhs5-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/memory/micron-ceo-says-itll-be-tougher-to-get-memory-in-the-next-couple-of-years-than-it-is-today-and-keeps-saying-it-over-and-over-again/"
-    }
-   ]
-  },
-  {
-   "title": "I spent far too long assigning gaming mouse values based on their price-to-weight ratio, and the runner-up is the rodent on my desk right now",
-   "summary": "You know, I'm something of a rodent scientist myself.",
-   "link": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-far-too-long-assigning-gaming-mouse-values-based-on-their-price-to-weight-ratio-and-the-runner-up-is-the-rodent-on-my-desk-right-now/",
-   "pubDate": "2026-10-01T10:13:16.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/3Ct5QMSXdePLaepLmTBmjA-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-far-too-long-assigning-gaming-mouse-values-based-on-their-price-to-weight-ratio-and-the-runner-up-is-the-rodent-on-my-desk-right-now/"
-    }
-   ]
-  },
-  {
-   "title": "「サカつく2026」，フランス国籍の選手が登場する「プレミアムSP選手スカウト」を開催",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/915/G091522/20261001047/",
-   "pubDate": "2026-10-01T10:12:36.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/915/G091522/20261001047/"
-    }
-   ]
-  },
-  {
-   "title": "Prime Video，映画「マインクラフト／ザ・ムービー」の見放題配信を開始。10月2日には映画「8番出口」も配信",
-   "summary": "Amazonは本日（2026年10月1日），プライム会員向けサービス「PrimeVideo」にて映画「マインクラフト／ザ・ムービー」の見放題配信を開始した。本作は，「世界で最も売れたインディーゲーム」としてギネス世界記録にも認定された人気ゲーム「マインクラフト」を題材とした初の実…",
-   "link": "https://www.4gamer.net/games/126/G012627/20261001045/",
-   "pubDate": "2026-10-01T10:11:21.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/126/G012627/20261001045/"
-    }
-   ]
-  },
-  {
-   "title": "『モンスト』ウエハース最新弾が発売決定！ 全37種がラインナップ、「エル：破邪モード」は新規描きおろし",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/01/188601.html",
-   "pubDate": "2026-10-01T10:10:03.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "モンスト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/01/188601.html"
-    }
-   ]
-  },
-  {
-   "title": "「Outbound / アウトバウンド」，無料大型アップデート「Wildlife Update」を配信",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/962/G096248/20261001046/",
-   "pubDate": "2026-10-01T10:09:17.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/962/G096248/20261001046/"
-    }
-   ]
-  },
-  {
-   "title": "「プロセカ」，リズムゲーム楽曲「オブソミート」を追加",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/476/G047609/20261001044/",
-   "pubDate": "2026-10-01T10:05:30.000Z",
-   "firstSeen": "2026-10-01T10:47:47.397Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/476/G047609/20261001044/"
     }
    ]
   }
