@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-17T06:47:55.813Z",
+ "generatedAt": "2026-10-17T07:47:49.704Z",
  "count": 6000,
  "dedupe": {
   "exact": 830,
   "syndicated": 57,
-  "similar": 265,
-  "syndicatedTotal": 256,
+  "similar": 264,
+  "syndicatedTotal": 255,
   "syndicatedLeft": 21
  },
  "calendar": [
@@ -8402,22 +8402,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-10-29",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "ぽこ あ ポケモン",
-   "title": "『ぽこ あ ポケモン』『Pokémon LEGENDS Z-A』のDLC同梱パッケージが10月29日発売！ 特典付きで予約は10月1日から",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wRE9nNHU4azlfVklnYkY5STBOTm85ZGE4MUtJY3pvRV9XMGpidUh1MXhqN3pCN3lFTkl2cWp0Vkt4OHlXampTS29JR1lkVGxJQVBuZHBaeUpvT0FGVUFpOQ?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-10-30",
    "precision": "day",
    "verb": "launch",
@@ -8568,6 +8552,22 @@
     "update"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "クロミ、シナモロール、ポムポムプリンのSwitch 2向け”ぬいポーチ”が11月に発売！付属のショルダーストラップで持ち運びも可能",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TaFBwR2ZFX3JrYnp4VzU4UjBuUFhwVHNzMEZnNVNFWWxKSm9EWFUzeW5NREd5RDJSbzRDczNrRjlnNzJFbmdFX0xEbGkwUGVPNXZDdw?oc=5",
+   "source": "Gamer",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch2"
+   ],
    "spoiler": false
   },
   {
@@ -11399,6 +11399,22 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "グランツーリスモ",
+   "title": "『グランツーリスモ』30周年記念DualSenseが登場！ 10月22日予約開始、12月10日数量限定発売",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcFFCdFIxU3FjUkU5RjEwampvTlctVV9QbDVjLXQzQjV4NDNOZW9TbmFpM1VYVDdGYlVqc3czRTZpaEdybXpub2dOWnoxOVNzZFF5YzVWYS1TaFJ1alNWY2J4a21MbUtEbnVTRmZmeHg?oc=5",
+   "source": "ソニーショップ テックスタッフ",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-10",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": null,
    "title": "「DualSense ワイヤレスコントローラー “グランツーリスモ” リミテッドエディション」、シリーズ30周年記念の限定版PS5用コントローラー。12,480円(税込)、10月22日(木)予約開始、12月10日(木)数量限定発売。",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNjhDUUVzdDlrUzhPTnRISDNzbGNDOHF4MmNlMWk1VFNCWW42clh1Wkkzc2tyQ0c5SVdIc3k4aG42NTE4R2kzX1g5Q0psaXdUV3c?oc=5",
@@ -12928,8 +12944,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 489,
-   "accepted": 484
+   "archived": 490,
+   "accepted": 485
   },
   {
    "id": "denfaminico",
@@ -12939,8 +12955,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 979,
-   "accepted": 838
+   "archived": 980,
+   "accepted": 839
   },
   {
    "id": "gamewatch",
@@ -12961,8 +12977,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1041,
-   "accepted": 1030
+   "archived": 1044,
+   "accepted": 1033
   },
   {
    "id": "inside-games",
@@ -13038,8 +13054,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 393,
-   "accepted": 368
+   "archived": 391,
+   "accepted": 366
   },
   {
    "id": "gnews-switch2",
@@ -13060,8 +13076,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 477,
-   "accepted": 431
+   "archived": 475,
+   "accepted": 429
   },
   {
    "id": "gnews-update",
@@ -13071,8 +13087,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 332,
-   "accepted": 219
+   "archived": 330,
+   "accepted": 218
   },
   {
    "id": "prtimes",
@@ -13082,7 +13098,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 20164,
+   "archived": 20211,
    "accepted": 339
   },
   {
@@ -13115,8 +13131,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 286,
-   "accepted": 286
+   "archived": 287,
+   "accepted": 287
   },
   {
    "id": "gamespot",
@@ -13153,6 +13169,241 @@
   }
  ],
  "items": [
+  {
+   "title": "話題の100人対戦FPS『WARDOGS』、「青チーム専用ボーナス」施策をわずか1日で撤回。今度は青チームに人が増えすぎた",
+   "summary": "『WARDOGS』のシーズン2にて導入されていた青チームへの“ボーナス経験値&キャッシュ”について、撤廃が発表された。",
+   "link": "https://automaton-media.com/articles/newsjp/wardogs-20261017-474118/",
+   "pubDate": "2026-10-17T07:37:23.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/wardogs-20261017-474118-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "WARDOGS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/wardogs-20261017-474118/"
+    }
+   ]
+  },
+  {
+   "title": "最大100人参加FPS『WARDOGS』シーズン2で実施された“青チーム優遇”を中止―「間違っていました」として",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/17/173742.html",
+   "pubDate": "2026-10-17T07:32:28.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "WARDOGS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/17/173742.html"
+    }
+   ]
+  },
+  {
+   "title": "『日本事故物件監視協会4』に「ロシア村」登場―心霊スポットとして知られるテーマパーク跡が監視対象に",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/17/173741.html",
+   "pubDate": "2026-10-17T07:15:02.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "日本事故物件監視協会4"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/17/173741.html"
+    }
+   ]
+  },
+  {
+   "title": "AnalogueがSFC/MD互換機の新バージョン「Super Nt+」「Mega Sg+」発表！ いくつかの新機能を搭載",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/17/173740.html",
+   "pubDate": "2026-10-17T07:00:03.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/17/173740.html"
+    }
+   ]
+  },
+  {
+   "title": "『ゼルダの伝説』トライフォースを模した重量感のあるメタルチャームが10月にガチャで登場。『時のオカリナ』『ブレス オブ ザ ワイルド』などがラインアップ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iN0JmZUQxYXFFbnhkSW8zbWxhaElWX0l6SXhXTFRNN1RJbXdNRlc2ZUxuaThPbkZ0Z09KSXRXN21lNzJlSkx6SGJRcFp1UkFWM1I1cldNRQ?oc=5",
+   "pubDate": "2026-10-17T07:00:00.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": null,
+   "source": "ファミ通.com",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゼルダの伝説",
+    "時のオカリナ",
+    "ブレス オブ ザ ワイルド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通.com",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iN0JmZUQxYXFFbnhkSW8zbWxhaElWX0l6SXhXTFRNN1RJbXdNRlc2ZUxuaThPbkZ0Z09KSXRXN21lNzJlSkx6SGJRcFp1UkFWM1I1cldNRQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "What we've been playing - \"I simply didn't know if a first-person shooter could work as a Soulslike\"",
+   "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor plays a classic,…",
+   "link": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
+   "pubDate": "2026-10-17T07:00:00.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": "https://assetsio.gnwcdn.com/guns-of-eschaton-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion"
+    }
+   ]
+  },
+  {
+   "title": "クロミ、シナモロール、ポムポムプリンのSwitch 2向け”ぬいポーチ”が11月に発売！付属のショルダーストラップで持ち運びも可能",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TaFBwR2ZFX3JrYnp4VzU4UjBuUFhwVHNzMEZnNVNFWWxKSm9EWFUzeW5NREd5RDJSbzRDczNrRjlnNzJFbmdFX0xEbGkwUGVPNXZDdw?oc=5",
+   "pubDate": "2026-10-17T06:59:00.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": null,
+   "source": "Gamer",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TaFBwR2ZFX3JrYnp4VzU4UjBuUFhwVHNzMEZnNVNFWWxKSm9EWFUzeW5NREd5RDJSbzRDczNrRjlnNzJFbmdFX0xEbGkwUGVPNXZDdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "「7日間をループする列車」で、“存在しないはずの客室”を探すゲーム『クワイエット急行909号室』体験版が配信開始。列車内を探索し、7日目に起こる事故を防ぐ方法と誰も知らない「909号室」の秘密に迫る",
+   "summary": "「7日間をループする列車」で、“存在しないはずの客室”を探すゲーム『クワイエット急行909号室』体験版が配信開始。列車内を探索し、事故を防ぐ方法と誰も知らない「909号室」の秘密に迫る",
+   "link": "https://news.denfaminicogamer.jp/news/261017e",
+   "pubDate": "2026-10-17T06:53:48.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_9aebe0e3aa3b7831bb1a1598bfb5c3a22bfb0c6f.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "クワイエット急行909号室"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261017e"
+    }
+   ]
+  },
   {
    "title": "『GTA6』国内レーティングは過去作と同様に「CERO Z」に決定―日本版独自の表現変更については現時点で発表なし",
    "summary": "",
@@ -17404,7 +17655,7 @@
   },
   {
    "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
-   "summary": "You can smell it in the air can't you? The chill in your nostrils and the earthy scent as leaves fall and the sun departs for another year.…",
+   "summary": "You can smell it in the air can't you? The chill in your nostrils and the earthy whiff as leaves fall and the sun departs for another year.…",
    "link": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
    "pubDate": "2026-10-16T15:04:58.000Z",
    "firstSeen": "2026-10-16T15:47:37.721Z",
@@ -42422,7 +42673,7 @@
    "firstSeen": "2026-10-15T05:47:36.087Z",
    "image": null,
    "source": "ファミ通.com",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -42442,9 +42693,9 @@
    "sources": [
     {
      "name": "ファミ通.com",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UZWp2NmdlMzE3TEh4V2pQWnlLNEFYU28zNlB5amt0TEpfQ0R4WmhjYTB2d0x4TlVHcDZzV19FR0VjcmMyUGFHSXp6YkxMZWRCSWNad3liNA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -46904,6 +47155,37 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000164.000051750.html"
+    }
+   ]
+  },
+  {
+   "title": "『グランツーリスモ』30周年記念DualSenseが登場！ 10月22日予約開始、12月10日数量限定発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcFFCdFIxU3FjUkU5RjEwampvTlctVV9QbDVjLXQzQjV4NDNOZW9TbmFpM1VYVDdGYlVqc3czRTZpaEdybXpub2dOWnoxOVNzZFF5YzVWYS1TaFJ1alNWY2J4a21MbUtEbnVTRmZmeHg?oc=5",
+   "pubDate": "2026-10-15T01:29:46.000Z",
+   "firstSeen": "2026-10-17T07:47:33.274Z",
+   "image": null,
+   "source": "ソニーショップ テックスタッフ",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "グランツーリスモ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ソニーショップ テックスタッフ",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcFFCdFIxU3FjUkU5RjEwampvTlctVV9QbDVjLXQzQjV4NDNOZW9TbmFpM1VYVDdGYlVqc3czRTZpaEdybXpub2dOWnoxOVNzZFF5YzVWYS1TaFJ1alNWY2J4a21MbUtEbnVTRmZmeHg?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -192208,261 +192490,6 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response"
-    }
-   ]
-  },
-  {
-   "title": "『007 ファーストライト』無料DLCが配信開始。武装したアストンマーティンで爆走するヴァルハラプロトコル、ニューゲーム+、フォトモードなどが追加",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVWmlYVWRKbk8xd2FraGRfSVBuaTZQWEhrZ2xjZWZTcHY5dW1CLXItZ1ZKRkNpcHdaQ2d5enl5V3NMOXc3dnJmTU9tZFdLYnBsNC1wVGtpUQ?oc=5",
-   "pubDate": "2026-10-01T13:51:00.000Z",
-   "firstSeen": "2026-10-01T14:47:42.414Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "007 ファーストライト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVWmlYVWRKbk8xd2FraGRfSVBuaTZQWEhrZ2xjZWZTcHY5dW1CLXItZ1ZKRkNpcHdaQ2d5enl5V3NMOXc3dnJmTU9tZFdLYnBsNC1wVGtpUQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『ぽこ あ ポケモン』『Pokémon LEGENDS Z-A』のDLC同梱パッケージが10月29日発売！ 特典付きで予約は10月1日から",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wRE9nNHU4azlfVklnYkY5STBOTm85ZGE4MUtJY3pvRV9XMGpidUh1MXhqN3pCN3lFTkl2cWp0Vkt4OHlXampTS29JR1lkVGxJQVBuZHBaeUpvT0FGVUFpOQ?oc=5",
-   "pubDate": "2026-10-01T13:48:32.000Z",
-   "firstSeen": "2026-10-01T14:47:42.414Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ぽこ あ ポケモン",
-    "Pokémon LEGENDS Z-A"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wRE9nNHU4azlfVklnYkY5STBOTm85ZGE4MUtJY3pvRV9XMGpidUh1MXhqN3pCN3lFTkl2cWp0Vkt4OHlXampTS29JR1lkVGxJQVBuZHBaeUpvT0FGVUFpOQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "This arse cushion is the biggest upgrade I've made to my gaming setup in 2026, which says a lot about where we're at right now",
-   "summary": "In short, I've been sitting on it.",
-   "link": "https://www.pcgamer.com/hardware/this-arse-cushion-is-the-biggest-upgrade-ive-made-to-my-gaming-setup-in-2026-which-says-a-lot-about-where-were-at-right-now/",
-   "pubDate": "2026-10-01T13:44:04.000Z",
-   "firstSeen": "2026-10-01T14:47:42.414Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/FWpZWgKDhWYyLhJg2cSdDZ-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/this-arse-cushion-is-the-biggest-upgrade-ive-made-to-my-gaming-setup-in-2026-which-says-a-lot-about-where-were-at-right-now/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Lights Up Miami's Kaseya Center",
-   "summary": "GTA 6 has taken over Miami's Kaseya Center in the latest marketing stunt for Rockstar's behemoth open-world sequel.",
-   "link": "https://www.ign.com/articles/gta-6-kaseya-center",
-   "pubDate": "2026-10-01T13:42:15.000Z",
-   "firstSeen": "2026-10-01T13:47:49.430Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/01/4t2j8gj1p6ze1-1790862121075.jpeg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/gta-6-kaseya-center"
-    }
-   ]
-  },
-  {
-   "title": "「ベネフィット・ワン感謝祭2026」in富士急ハイランドに高さ2.0mの巨大ガチャ「モンスターカプセル」を提供",
-   "summary": "巨大ガチャ「モンスターカプセル」の企画・運営を行う株式会社グリーグローブ（本社：東京都文京区／代表取締役：上村 正治）は、2026年10月3日(土)、株式会社ベネフィット・ワン（本社：東京都新宿区/代表取締役...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000081.000141920.html",
-   "pubDate": "2026-10-01T13:40:41.000Z",
-   "firstSeen": "2026-10-01T13:47:49.430Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "esports",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000081.000141920.html"
-    }
-   ]
-  },
-  {
-   "title": "【参加者募集中】渋谷で初開催！eスポーツ×ごみ拾いで渋谷の街を楽しくキレイに！『eスポGOMI in 渋谷・AI VILLAGE』開催決定",
-   "summary": "株式会社Life Reversal Gaming.（所在地：東京都文京区、代表取締役：高木 光治）は、2026年11月28日（土）、AI VILLAGE（東京都渋谷区）で開催される「eスポGOMI in 渋谷・AI VILLAGE」の運営に、eスポGOMI開催...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000083.000077755.html",
-   "pubDate": "2026-10-01T13:40:02.000Z",
-   "firstSeen": "2026-10-05T13:48:02.522Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "eスポGOMI in 渋谷・AI VILLAGE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000083.000077755.html"
-    }
-   ]
-  },
-  {
-   "title": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun",
-   "summary": "Astarion probably shouldn't have a glock.",
-   "link": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
-   "pubDate": "2026-10-01T13:39:46.000Z",
-   "firstSeen": "2026-10-01T13:47:49.430Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/aZVw3odUHub2m3u9vpK9eH-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/"
-    }
-   ]
-  },
-  {
-   "title": "Nerial shuts down after 13 years",
-   "summary": "Reigns series and Card Shark developer Nerial will shut down after 13 years of operation, …",
-   "link": "https://www.gematsu.com/2026/10/nerial-shuts-down-after-13-years",
-   "pubDate": "2026-10-01T13:38:21.000Z",
-   "firstSeen": "2026-10-01T13:47:49.430Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Nerial-Shuts-Down_10-01-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/nerial-shuts-down-after-13-years"
-    }
-   ]
-  },
-  {
-   "title": "The Witcher 3 Remastered Is Already Being Patched For Being Too Bright",
-   "summary": "The Witcher 3: Wild Hunt Remastered launched for free earlier this week, and has since been subject to debate over whether its visual change…",
-   "link": "https://www.gamespot.com/articles/the-witcher-3-remastered-is-already-being-patched-for-being-too-bright/",
-   "pubDate": "2026-10-01T13:38:01.000Z",
-   "firstSeen": "2026-10-01T14:47:42.414Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/The-Witcher-3-Optimized-Path-Tracing.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/the-witcher-3-remastered-is-already-being-patched-for-being-too-bright/"
     }
    ]
   }
