@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-18T01:34:38.203Z",
+ "generatedAt": "2026-10-18T01:47:46.182Z",
  "count": 6000,
  "dedupe": {
-  "exact": 836,
+  "exact": 838,
   "syndicated": 59,
   "similar": 268,
-  "syndicatedTotal": 258,
+  "syndicatedTotal": 259,
   "syndicatedLeft": 21
  },
  "calendar": [
@@ -13044,8 +13044,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1246,
-   "accepted": 916
+   "archived": 1248,
+   "accepted": 917
   },
   {
    "id": "ps-blog",
@@ -13132,8 +13132,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 472,
-   "accepted": 426
+   "archived": 474,
+   "accepted": 428
   },
   {
    "id": "gnews-update",
@@ -13154,7 +13154,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 20309,
+   "archived": 20322,
    "accepted": 339
   },
   {
@@ -13226,6 +13226,36 @@
  ],
  "items": [
   {
+   "title": "スライム、竜王が“のび～る”！『ドラクエ』新フィギュアがユニークーモンスターの魅力を紹介する小さな冒険の書「ちょい全集」付き",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/18/189435.html",
+   "pubDate": "2026-10-18T01:40:02.000Z",
+   "firstSeen": "2026-10-18T01:47:36.191Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/18/189435.html"
+    }
+   ]
+  },
+  {
    "title": "人数無制限協力マルチ対応の新作ゾンビサバイバル『Never Be Alone』デモ版が10月20日から配信。要素てんこ盛りの注目作がもうすぐ遊べる【26年9月後半にHOTな「サバイバルゲー」はこれだ！】",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/18/173752.html",
@@ -13285,38 +13315,6 @@
    ]
   },
   {
-   "title": "今週発売の新作ゲーム『Call of Duty: Modern Warfare 4』『ファイナルファンタジー レゾナンス』『ステューピッド・ネバー・ダイズ』他",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/18/173751.html",
-   "pubDate": "2026-10-18T00:00:04.000Z",
-   "firstSeen": "2026-10-18T00:47:34.741Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Call of Duty: Modern Warfare 4",
-    "FF レゾナンス",
-    "ステューピッド・ネバー・ダイズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/18/173751.html"
-    }
-   ]
-  },
-  {
    "title": "キュアアルカナなど全て描き下ろし！「名探偵プリキュア！ クリアカードコレクションガム」予約受付中",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/10/18/189430.html",
@@ -13341,6 +13339,51 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/18/189430.html"
+    }
+   ]
+  },
+  {
+   "title": "今週発売の新作ゲーム『Call of Duty: Modern Warfare 4』『ファイナルファンタジー レゾナンス』『ステューピッド・ネバー・ダイズ』他",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/18/173751.html",
+   "pubDate": "2026-10-18T00:00:00.000Z",
+   "firstSeen": "2026-10-18T00:47:34.741Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Call of Duty: Modern Warfare 4",
+    "FF レゾナンス",
+    "ステューピッド・ネバー・ダイズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/18/173751.html"
+    },
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UbjE2Y3N3NWQ5ZXlQTV96Q0hrU0czbnY3ODd4cGFqdF9ockVRSlFUM2p4RzRfbE10ZHBNR3p4OGVBcWFVVF9EZHlodVZhc2JOaFRmYW5CUmtmMEVxRTcw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1I4R1Q4NWdZWmZ4YTFHa1JiSXZaR2pzREdmbzdYaGFxcEJpakZveEV4Q1JjQ1J6NFBhbjREWmhhLXF2SXN0R2NOWldLOEhRVDhiakNlV3VFSFlMOU45aFE4a1FkVlc3NDBxVW9CLUo0VUJ5eVhQR05yVGd6NW0xV3M2SlpUZjh5ZTQ5Vm5XRzFwX2NqMjFUY3RQVG0xQ1h5RlB6MGZhU2R1QzVRdTRud3Q4UWphM1U5c09UaERaaFZINnB6RHJkUWF2SFVOa3ZtbHfSAYIBQVVfeXFMUDhfSm51ZG1iTUVqTEhQdHNuMDBuckhhdnNpYmxiLVkxQVF6OXRQVTJyRDRHRzE5OG8xRnpBUEs0ZE1lb2Q1TmtjUWpac1h6RlRMaHVzTC16VHVZb0ExNWZZaDVjVTBESnFXVExTaVY1Sl9vemhyS19GQW9kUlFCcTlLZw?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
     }
    ]
   },
@@ -120746,7 +120789,7 @@
    ]
   },
   {
-   "title": "『SILENT HILL: Townfall』 ゲーム内アップデート実施のお知らせ (Patch 1.4.0)",
+   "title": "ゲーム内アップデート実施のお知らせ (Patch 1.4.0) | SILENT HILL 公式サイト",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTjJ6TEpBMmRWTXJuSVFBQU5yMUpvbjkxcjJQalQ1aklSbXlfRERKd1hBVTdFYkFLTW1IcmphaHhyVFppT2k5T1pHWFZMWDVSYnpfOGlwYlF2YlFnckhJS0gyNDBzcjNmWUdSdUZfZXlNUHdKbmZWdzNZRi1DQzRJMXc2dE0wcmM?oc=5",
    "pubDate": "2026-10-08T10:00:50.000Z",
@@ -120757,15 +120800,13 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 10,
+   "score": 6,
    "categories": [
     "update"
    ],
    "deal": null,
    "platforms": [],
-   "works": [
-    "SILENT HILL: Townfall"
-   ],
+   "works": [],
    "spoiler": false,
    "sources": [
     {
@@ -192577,34 +192618,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5"
-    }
-   ]
-  },
-  {
-   "title": "'These Jobs Are Not Easy': Ex-Star Wars Boss Kathleen Kennedy Admits 'Relief' After Leaving Lucasfilm, Following Turbulent 14-Year Tenure",
-   "summary": "Lucasfilm veteran Kathleen Kennedy has admitted she feels \"a bit of relief\" after stepping down from her role as the boss of Star Wars, foll…",
-   "link": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure",
-   "pubDate": "2026-10-01T16:43:47.000Z",
-   "firstSeen": "2026-10-01T16:47:42.286Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/01/gettyimages-2210325056-1790869590371.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "These Jobs Are Not Easy"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure"
     }
    ]
   }
