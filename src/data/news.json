@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-18T11:45:58.352Z",
+ "generatedAt": "2026-10-18T11:47:50.223Z",
  "count": 6000,
  "dedupe": {
-  "exact": 850,
+  "exact": 851,
   "syndicated": 59,
   "similar": 268,
-  "syndicatedTotal": 260,
+  "syndicatedTotal": 261,
   "syndicatedLeft": 21
  },
  "calendar": [
@@ -13158,8 +13158,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 402,
-   "accepted": 377
+   "archived": 403,
+   "accepted": 378
   },
   {
    "id": "gnews-switch2",
@@ -15390,6 +15390,13 @@
      "name": "au Webポータル",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93MXAwU2xRbnh1SEdoMkxBVW5jaW5HNmI1bHBaQVUzTkIzQUVkYndHY1Y3S1JjZWZMbm5Kc0xSMG9aYzFWTk1rSUtmUHpiWGtZa3h5YS10azN0dHlndDROcENkaGZNWUtIYUJkeHhn?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrM3JKQURoREx1UFRrU1h5cEo4aS1rTEFVZWNvbUJUNkVVN1J5ajJwSHhfckVOc1RwQkNEN0xySmVabWgwVER1MzVEdFFTX09VRTk3cmxYaU91T0RfWUE?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
     }
@@ -118551,7 +118558,7 @@
    "pubDate": "2026-10-08T16:05:00.000Z",
    "firstSeen": "2026-10-08T16:47:50.531Z",
    "image": null,
-   "source": "ファミ通",
+   "source": "ファミ通.com",
    "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
@@ -118571,7 +118578,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通",
+     "name": "ファミ通.com",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kZVljdWhJbmo0VmNqSDEwMkJaQTJES1JrUl9fNGQtcUJHWnhtNHM2aEZwejRVMjRvcGF4LTBqX3VSVktoczBjbDh0eXlWN21qUHp1WXZGYw?oc=5",
      "via": "Googleニュース「PS5 発売」"
