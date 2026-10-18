@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T09:47:48.854Z",
+ "generatedAt": "2026-10-18T10:52:16.387Z",
  "count": 6000,
  "dedupe": {
   "exact": 849,
@@ -7452,6 +7452,22 @@
   {
    "date": "2026-10-24",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "アベイル×「ウイニング競馬」コラボグッズが10月24日発売！キャップやトートバッグなど実用的でおしゃれなデザイン",
+   "link": "https://www.inside-games.jp/article/2026/10/18/189457.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-24",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -13043,8 +13059,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 992,
-   "accepted": 846
+   "archived": 993,
+   "accepted": 847
   },
   {
    "id": "gamewatch",
@@ -13065,8 +13081,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1066,
-   "accepted": 1054
+   "archived": 1068,
+   "accepted": 1056
   },
   {
    "id": "inside-games",
@@ -13076,8 +13092,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1269,
-   "accepted": 932
+   "archived": 1272,
+   "accepted": 935
   },
   {
    "id": "ps-blog",
@@ -13117,9 +13133,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 727,
    "accepted": 581
   },
@@ -13128,20 +13144,20 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 688,
-   "accepted": 344
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 687,
+   "accepted": 343
   },
   {
    "id": "gnews-newgame",
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 400,
    "accepted": 375
   },
@@ -13150,9 +13166,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 952,
    "accepted": 794
   },
@@ -13161,9 +13177,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 476,
    "accepted": 430
   },
@@ -13172,9 +13188,9 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 336,
    "accepted": 222
   },
@@ -13186,7 +13202,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 20385,
+   "archived": 20384,
    "accepted": 340
   },
   {
@@ -13219,8 +13235,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 285,
-   "accepted": 285
+   "archived": 284,
+   "accepted": 284
   },
   {
    "id": "gamespot",
@@ -13252,11 +13268,206 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 521,
-   "accepted": 521
+   "archived": 522,
+   "accepted": 522
   }
  ],
  "items": [
+  {
+   "title": "GB人気のさなか、サラリーマンのお供“電子手帳”で本格ミステリーADVが遊べた！ 「漢字表示」「タッチペン操作」「続きからの再開」にも対応した『山村美紗サスペンスシリーズ 京都 財テク殺人事件』【特集】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/18/173766.html",
+   "pubDate": "2026-10-18T10:30:03.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "山村美紗サスペンスシリーズ 京都 財テク殺人事件"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/18/173766.html"
+    }
+   ]
+  },
+  {
+   "title": "アベイルの「リラックマ」デザインアパレルが可愛い！刺しゅう使いプルパーカや総柄パジャマなど普段使いにぴったりなアイテム",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/18/189459.html",
+   "pubDate": "2026-10-18T10:15:02.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/18/189459.html"
+    }
+   ]
+  },
+  {
+   "title": "【最大4人協力】仲間と“鎖につながれたまま”戦うローグライクアクション『Chained Beasts』がSteamで「非常に好評」スタート。「鎖という制約を攻撃に利用できるのが面白い」「仲間との連携が上手くいくと最高」など高評価",
+   "summary": "「鎖という制約を攻撃に利用できるのが面白い」「仲間との連携が上手くいくと最高」など高評価。Steamでは35%オフのリリース記念セールが開催中",
+   "link": "https://news.denfaminicogamer.jp/news/261018g",
+   "pubDate": "2026-10-18T10:10:19.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_729a5240cffda195da621f27345a24bf634426be.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 19,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Chained Beasts"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261018g"
+    }
+   ]
+  },
+  {
+   "title": "ゲーム音楽、ちゃんと聴いてる？ 『どうぶつの森』『ドラッグオンドラグーン』『ゼビウス』『みにくいモジカの子』…ゲームを彩るサウンドトラックを語り尽くす！【座談会】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/18/173765.html",
+   "pubDate": "2026-10-18T10:00:03.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "どうぶつの森",
+    "ドラッグオンドラグーン",
+    "ゼビウス",
+    "みにくいモジカの子"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/18/173765.html"
+    }
+   ]
+  },
+  {
+   "title": "石神のぞみ仕様のホンダ「シビック」に、葉加瀬冬雪仕様のトヨタ「86」！カッコカワイイ「にじさんじ」痛車まとめ【第拾回 天下無双 東西最強痛車決戦フォトレポ】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/18/189458.html",
+   "pubDate": "2026-10-18T10:00:03.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/18/189458.html"
+    }
+   ]
+  },
+  {
+   "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+   "summary": "The administrator is currently seeking a buyer for the studio and its assets.",
+   "link": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+   "pubDate": "2026-10-18T09:50:29.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/c3XaG7583gHQj3hZfsQNXm-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/"
+    }
+   ]
+  },
+  {
+   "title": "アベイル×「ウイニング競馬」コラボグッズが10月24日発売！キャップやトートバッグなど実用的でおしゃれなデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/18/189457.html",
+   "pubDate": "2026-10-18T09:45:03.000Z",
+   "firstSeen": "2026-10-18T10:52:03.786Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": -6,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/18/189457.html"
+    }
+   ]
+  },
   {
    "title": "多彩なパーツで最強機体を作り上げろ！2つのモードでカスタマイズとシナジーの楽しさをたっぷり味わえるローグライクACT『RIG Riot』【ゲムスパロボゲーカタログ】",
    "summary": "",
@@ -31142,7 +31353,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 6,
+   "score": 10,
    "categories": [],
    "deal": null,
    "platforms": [],
@@ -192505,210 +192716,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/miami-vice-85-casts-walton-goggins-in-villain-role"
-    }
-   ]
-  },
-  {
-   "title": "ただの清掃員が戦うレトロ風スペースホラーFPS『RetroSpace』リリース。動植物クリーチャー徘徊する宇宙ステーションから脱出―イマーシブシム要素あり",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/02/173046.html",
-   "pubDate": "2026-10-01T22:00:04.000Z",
-   "firstSeen": "2026-10-01T22:48:24.193Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "RetroSpace"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/02/173046.html"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】チャイナドレスから伸びる美脚が必見の『ブルアカ』、ゲームのような美貌『鳴潮』など「TGS」を彩る美女レイヤー9選【写真38枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/02/188616.html",
-   "pubDate": "2026-10-01T22:00:04.000Z",
-   "firstSeen": "2026-10-01T22:48:24.193Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ブルアカ",
-    "鳴潮"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/02/188616.html"
-    }
-   ]
-  },
-  {
-   "title": "屋台や盆踊りで盛り上がった「うた☆プリ夏祭り」＆パフォーマンスと曲に浸る音楽イベント「うたの☆プリンスさまっ♪MUSIC PARTY powered by aninight」レポート",
-   "summary": "「うたの☆プリンスさまっ♪」のアイドルたちの魅力を満喫できる「うた☆プリ夏祭り」と「うたの☆プリンスさまっ♪MUSICPARTY」が，2026年9月19日，20日に東京・池袋で開催された。本稿では，屋台や盆踊り，音楽と映像によるクラブ演出で盛り上がった両イベントの模様をレポートす…",
-   "link": "https://www.4gamer.net/games/991/G999111/20260924064/",
-   "pubDate": "2026-10-01T22:00:00.000Z",
-   "firstSeen": "2026-10-01T22:48:24.193Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "trailer",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999111/20260924064/"
-    }
-   ]
-  },
-  {
-   "title": "ポケモン世界大会優勝のビエラ選手、「トレカキャンプ」「ゲームキャンプ」とスポンサー契約",
-   "summary": "ポケモンカード専門店「トレカキャンプ」、中古ゲーム専門店「ゲームキャンプ」を運営する株式会社centerwave（本社：愛知県名古屋市中区、代表取締役：齊藤航省）は、ポケモンプレイヤー・ビエラ選手とスポンサ...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000042.000042141.html",
-   "pubDate": "2026-10-01T21:40:02.000Z",
-   "firstSeen": "2026-10-01T21:47:46.102Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 9,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000042.000042141.html"
-    }
-   ]
-  },
-  {
-   "title": "本日18時 第１話配信開始！ショートアニメ「ちょこっとヤバシティ」メインキャスト解禁！",
-   "summary": "YouTubeで活動する日本の6人組ゲーム実況グループ「まじめにヤバシティ」。総再生回数は1億回を突破するなど大人気！そんな彼らのマスコットが大活躍するショートアニメ「ちょこっとヤバシティ」。本日10/1(木)18...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000007.000186018.html",
-   "pubDate": "2026-10-01T21:40:02.000Z",
-   "firstSeen": "2026-10-01T21:47:46.102Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000007.000186018.html"
-    }
-   ]
-  },
-  {
-   "title": "PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化",
-   "summary": "ソニー・インタラクティブエンタテインメントは10月2日、通常版PS5に向けた新技術「クイックスペクトルスーパーレゾリューション（QSSR）」を発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261002-471310/",
-   "pubDate": "2026-10-01T21:38:31.000Z",
-   "firstSeen": "2026-10-01T21:47:46.102Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261002-471310-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "ゴースト・オブ・ヨウテイ",
-    "マーベル ウルヴァリン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261002-471310/"
-    }
-   ]
-  },
-  {
-   "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
-   "summary": "And there's a tantalising, titan-sized teaser included, too",
-   "link": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
-   "pubDate": "2026-10-01T21:35:00.000Z",
-   "firstSeen": "2026-10-01T21:47:46.102Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/xRJw3oLPhAy8jEXVQygSXA-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "update",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/"
     }
    ]
   }
