@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T22:47:50.425Z",
+ "generatedAt": "2026-10-19T23:52:09.039Z",
  "count": 6000,
  "dedupe": {
   "exact": 887,
@@ -7389,6 +7389,22 @@
   {
    "date": "2026-10-24",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「勝利の女神：NIKKE」の4周年記念番組は10月24日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "link": "https://www.4gamer.net/games/421/G042182/20261019036/",
+   "source": "4Gamer.net（スマホ）",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-24",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -9060,6 +9076,25 @@
    "sources": 1,
    "categories": [],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-03",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "ゴジラ怪獣大乱闘",
+   "title": "『ゴジラ怪獣大乱闘』リマスター版、Steamストアページに国内からもアクセス可能に。日本語対応の体験版も配信中",
+   "link": "https://news.denfaminicogamer.jp/news/261020c",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "new",
+    "demo"
+   ],
+   "platforms": [
+    "pc"
+   ],
    "spoiler": false
   },
   {
@@ -11214,6 +11249,20 @@
   {
    "date": "2026-12-04",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Dumpster Gang",
+   "title": "協力対応アライグマ空き巣ゲーム『Dumpster Gang』日本語対応で12月4日配信へ。イタズラ・盗み・暴力、人間なめすぎ害獣マルチ",
+   "link": "https://automaton-media.com/articles/newsjp/20261020-474360/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -13018,8 +13067,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 217,
-   "accepted": 207
+   "archived": 218,
+   "accepted": 208
   },
   {
    "id": "automaton",
@@ -13029,8 +13078,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 517,
-   "accepted": 512
+   "archived": 519,
+   "accepted": 514
   },
   {
    "id": "denfaminico",
@@ -13040,8 +13089,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1036,
-   "accepted": 884
+   "archived": 1037,
+   "accepted": 885
   },
   {
    "id": "gamewatch",
@@ -13073,7 +13122,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1336,
+   "archived": 1339,
    "accepted": 985
   },
   {
@@ -13114,9 +13163,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 742,
    "accepted": 592
   },
@@ -13125,20 +13174,20 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 706,
-   "accepted": 354
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 705,
+   "accepted": 353
   },
   {
    "id": "gnews-newgame",
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 425,
    "accepted": 400
   },
@@ -13147,9 +13196,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 984,
    "accepted": 822
   },
@@ -13158,9 +13207,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 479,
    "accepted": 432
   },
@@ -13169,9 +13218,9 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 353,
    "accepted": 238
   },
@@ -13205,8 +13254,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1057,
-   "accepted": 1057
+   "archived": 1058,
+   "accepted": 1058
   },
   {
    "id": "eurogamer",
@@ -13249,11 +13298,158 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 543,
-   "accepted": 543
+   "archived": 544,
+   "accepted": 544
   }
  ],
  "items": [
+  {
+   "title": "水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気すぎる暴力略奪サーフィン",
+   "summary": "Double Stallionは10月20日、協力対応ハクスラアクションRPG『Surfpunk』の新体験版を配信した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261020-474368/",
+   "pubDate": "2026-10-19T23:42:05.000Z",
+   "firstSeen": "2026-10-19T23:51:51.842Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474368-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Surfpunk"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261020-474368/"
+    }
+   ]
+  },
+  {
+   "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
+   "summary": "ReVamp will get a limited Discord playtest.",
+   "link": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+   "pubDate": "2026-10-19T23:33:09.000Z",
+   "firstSeen": "2026-10-19T23:51:51.842Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/YEp5Fzsbkhez5s74zCMPj6-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/"
+    }
+   ]
+  },
+  {
+   "title": "『ゴジラ怪獣大乱闘』リマスター版、Steamストアページに国内からもアクセス可能に。日本語対応の体験版も配信中",
+   "summary": "6月の海外向け発表時には、国内からのアクセスが制限されていたが、現在は閲覧可能。「ゴジラ」など全12体の怪獣による対戦アクションゲーム。11月3日リリース",
+   "link": "https://news.denfaminicogamer.jp/news/261020c",
+   "pubDate": "2026-10-19T23:17:01.000Z",
+   "firstSeen": "2026-10-19T23:51:51.842Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_2e2f01ff02e09e42fbae953726d204c7df6078c0.1920x1080-1-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 30,
+   "categories": [
+    "new",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ゴジラ怪獣大乱闘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261020c"
+    }
+   ]
+  },
+  {
+   "title": "協力対応アライグマ空き巣ゲーム『Dumpster Gang』日本語対応で12月4日配信へ。イタズラ・盗み・暴力、人間なめすぎ害獣マルチ",
+   "summary": "Curve Gamesは10月19日、アライグマ泥棒サンドボックスゲーム『Dumpster Gang』を12月3日に配信すると発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261020-474360/",
+   "pubDate": "2026-10-19T23:13:57.000Z",
+   "firstSeen": "2026-10-19T23:51:51.842Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474360-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Dumpster Gang"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261020-474360/"
+    }
+   ]
+  },
+  {
+   "title": "「勝利の女神：NIKKE」の4周年記念番組は10月24日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "「勝利の女神：NIKKE」の4周年記念番組「約束の地へ、女神集結」が10月24日16：30から配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "link": "https://www.4gamer.net/games/421/G042182/20261019036/",
+   "pubDate": "2026-10-19T23:00:00.000Z",
+   "firstSeen": "2026-10-19T23:51:51.842Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/421/G042182/20261019036/"
+    }
+   ]
+  },
   {
    "title": "「PS5」デジタル・エディションの新カラー「ミッドナイト ブラック」が予約開始！同カラーのディスクドライブも同時展開",
    "summary": "",
@@ -13288,6 +13484,34 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xU2ktWE9tdFZReFZPLWdsMmVCNnZfaUtWQVQzU1JVWW9WdzJQNzN2ZmRaS3A5RzdlTFNCdjVTRFJhbWl2MWxyM1hnZlFfMUpUY3NCSTA1RWpCV25sd3psSWFxQWxfM1Y2OWFmdGhfOFpWYW0yZU02bU1vYU42cDA?oc=5",
      "via": "Googleニュース「PS5 発売」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
+   "summary": "You will soon be able to play as Austin Abrams in this fanmade, retro-style video game adapting Zach Cregger’s take on the Resident Evil uni…",
+   "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
+   "pubDate": "2026-10-19T22:18:08.000Z",
+   "firstSeen": "2026-10-19T23:51:51.842Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/01/resident-evil-090126-poster-thumb-1788295069881.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game"
     }
    ]
   },
@@ -192031,178 +192255,6 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/"
-    }
-   ]
-  },
-  {
-   "title": "スプラトゥーン レイダース、DLCなしなのに発売2カ月でも無限食堂への挑戦続々",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1yLUJIX2N6Q0kyU2ZweVNialFUSmtFakg2UXBNNmJOdWFVcXZmcEw0bGNUNndHVmhMVUQzbVd0Q2N2S1Bt?oc=5",
-   "pubDate": "2026-10-02T23:15:39.000Z",
-   "firstSeen": "2026-10-02T23:48:09.550Z",
-   "image": null,
-   "source": "shiritomo",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "shiritomo",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1yLUJIX2N6Q0kyU2ZweVNialFUSmtFakg2UXBNNmJOdWFVcXZmcEw0bGNUNndHVmhMVUQzbVd0Q2N2S1Bt?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "超大型MMORPG『AION2』Steamの同接数が「17万人」を突破、早期アクセス初日から大盛況。キャラクターカスタマイズの豊富さも特徴のファンタジー作品",
-   "summary": "200以上の項目から見た目を自由に編集可能で、美男美女、片目に傷の入った渋おじ、巨漢、子どもサイズの主人公も自在に作れる #AION2",
-   "link": "https://news.denfaminicogamer.jp/news/261003b",
-   "pubDate": "2026-10-02T23:01:59.000Z",
-   "firstSeen": "2026-10-02T23:48:09.550Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/bedf32a87bd8224b85a62b3937f5db2b-1024x640.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "AION2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261003b"
-    }
-   ]
-  },
-  {
-   "title": "しまむら・アベイルで「ピングー」のグッズが発売！ピンガやロビたちも描かれたバッグ、財布など豊富なラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/03/188698.html",
-   "pubDate": "2026-10-02T23:00:07.000Z",
-   "firstSeen": "2026-10-02T23:48:09.550Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/03/188698.html"
-    }
-   ]
-  },
-  {
-   "title": "【TGS2026】「DMM GAMES」美女コンパニオンの大胆シルエットに注目！抜群のスタイルで魅せるミニスカ×サイバー衣装が眩しい【写真28枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/03/188697.html",
-   "pubDate": "2026-10-02T23:00:03.000Z",
-   "firstSeen": "2026-10-02T23:48:09.550Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/03/188697.html"
-    }
-   ]
-  },
-  {
-   "title": "【ちいかわ】このあと10時からプラキット『ちいプラ』第1弾が予約開始。ちいかわ・ハチワレ・うさぎの3種【数量限定】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOW4tZXlMSU03SUd5UnJQNEpGOHUwVHZETzFaVmE3Z0tMMU9obWh3cElHMlJwSTBDNGhndUdEYVVxazlmNlY3UENsTFdEUzRFNnB2eUtUaW1jdw?oc=5",
-   "pubDate": "2026-10-02T23:00:00.000Z",
-   "firstSeen": "2026-10-03T05:47:54.360Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ちいプラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOW4tZXlMSU03SUd5UnJQNEpGOHUwVHZETzFaVmE3Z0tMMU9obWh3cElHMlJwSTBDNGhndUdEYVVxazlmNlY3UENsTFdEUzRFNnB2eUtUaW1jdw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
-   "summary": "I don't even know ball but I feel like I'm losing my mind.",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
-   "pubDate": "2026-10-02T22:49:09.000Z",
-   "firstSeen": "2026-10-02T23:48:09.550Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/x9WxffqAGXQjoMyQAKu8oL-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/"
     }
    ]
   }
