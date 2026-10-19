@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-19T14:47:56.407Z",
+ "generatedAt": "2026-10-19T15:47:53.331Z",
  "count": 6000,
  "dedupe": {
-  "exact": 880,
+  "exact": 883,
   "syndicated": 60,
   "similar": 274,
-  "syndicatedTotal": 267,
+  "syndicatedTotal": 269,
   "syndicatedLeft": 21
  },
  "calendar": [
@@ -6183,6 +6183,20 @@
   {
    "date": "2026-10-20",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「サイバーパンク：エッジランナーズ2」10月20日配信！ 【秋アニメ2026】新キャラで描かれるナイトシティの物語",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149397.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-20",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -6500,24 +6514,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-10-20",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "サイバーパンク2077",
-   "title": "【8778円→2633円】『サイバーパンク2077』がSteamで70％オフのセール中。犯罪が横行する巨大都市「ナイトシティ」で成り上がるオープンワールドRPGが過去最安タイの価格で買えちゃう",
-   "link": "https://news.denfaminicogamer.jp/news/2610022z",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "sale"
-   ],
-   "platforms": [
-    "pc"
-   ],
-   "spoiler": false
-  },
-  {
    "date": "2026-10-21",
    "precision": "day",
    "verb": "launch",
@@ -6537,6 +6533,22 @@
     "ps5",
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-21",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Sword of Ordin",
+   "title": "個人ゲーム開発者のartcode、姫を救うために地下99階の迷宮に挑む3DアクションRPG『Sword of Ordin』を26年10月21日に発売",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE90clpya2NvMVNPYnhKc0RxeWhLRVhvSjRZYTdUOTIwRWN1cG5WRG1WRU9SYWladlBEWFd0YXRpRkloc3ZY?oc=5",
+   "source": "gamebiz【ゲームビズ】",
+   "sources": 1,
+   "categories": [
+    "review"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -8961,20 +8973,6 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "Owlboy",
-   "title": "“非常に好評”アクションADV『Owlboy』特別アプデ11月1日配信！10周年を記念してゲームプレイを大きく改善",
-   "link": "http://www.gamespark.jp/article/2026/10/02/173098.html",
-   "source": "Game*Spark",
-   "sources": 2,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-01",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
    "work": "ぼっち・ざ・ろっく",
    "title": "『ぼっち・ざ・ろっく』結束バンドのワンマンライブがYouTubeで11/1に無料配信決定。下北沢SHELTERの35周年を記念",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzZFd3S01jRHh2QTNCQmNXcFo0Smw4eTBTOXpuMVF2d0N0ZnVsNi1VWjdFZFhmZmpGTzNrTm91bVpfUUJtVTZqYVN1bDk4NWRjdDVTNUVwTF9FZw?oc=5",
@@ -9698,20 +9696,6 @@
    "categories": [
     "release"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-10",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "魔法使いの夜 下",
-   "title": "小説『魔法使いの夜 下』の書影が公開。2人の魔女と1人の少年の束の間の安息を破り、“橙色の魔術師”が現れる",
-   "link": "https://news.denfaminicogamer.jp/news/2610023a",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -13055,8 +13039,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1032,
-   "accepted": 880
+   "archived": 1035,
+   "accepted": 883
   },
   {
    "id": "gamewatch",
@@ -13066,8 +13050,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 442,
-   "accepted": 402
+   "archived": 448,
+   "accepted": 408
   },
   {
    "id": "gamespark",
@@ -13077,8 +13061,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1114,
-   "accepted": 1101
+   "archived": 1116,
+   "accepted": 1102
   },
   {
    "id": "inside-games",
@@ -13088,8 +13072,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1328,
-   "accepted": 980
+   "archived": 1329,
+   "accepted": 981
   },
   {
    "id": "ps-blog",
@@ -13143,8 +13127,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 699,
-   "accepted": 351
+   "archived": 700,
+   "accepted": 352
   },
   {
    "id": "gnews-newgame",
@@ -13154,8 +13138,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 421,
-   "accepted": 396
+   "archived": 424,
+   "accepted": 399
   },
   {
    "id": "gnews-switch2",
@@ -13165,8 +13149,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 981,
-   "accepted": 819
+   "archived": 982,
+   "accepted": 820
   },
   {
    "id": "gnews-ps5",
@@ -13187,8 +13171,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 349,
-   "accepted": 234
+   "archived": 350,
+   "accepted": 235
   },
   {
    "id": "prtimes",
@@ -13198,8 +13182,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 21254,
-   "accepted": 356
+   "archived": 21296,
+   "accepted": 357
   },
   {
    "id": "gematsu",
@@ -13209,8 +13193,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 301,
-   "accepted": 301
+   "archived": 303,
+   "accepted": 303
   },
   {
    "id": "ign",
@@ -13231,8 +13215,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 288,
-   "accepted": 288
+   "archived": 289,
+   "accepted": 289
   },
   {
    "id": "gamespot",
@@ -13242,8 +13226,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 249,
-   "accepted": 249
+   "archived": 251,
+   "accepted": 251
   },
   {
    "id": "nintendolife",
@@ -13253,8 +13237,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 276,
-   "accepted": 276
+   "archived": 277,
+   "accepted": 277
   },
   {
    "id": "pcgamer",
@@ -13264,11 +13248,547 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 536,
-   "accepted": 536
+   "archived": 538,
+   "accepted": 538
   }
  ],
  "items": [
+  {
+   "title": "超リアルな車体ぺちゃんこ物理演算の車シム『BeamNG.drive』PS5版リリース",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/20/173814.html",
+   "pubDate": "2026-10-19T15:30:03.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "BeamNG.drive"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/20/173814.html"
+    }
+   ]
+  },
+  {
+   "title": "Review: Trails In The Sky 2nd Chapter - Nintendo Switch 2 Edition (Switch 2) - Another Triumphant RPG Experience From The Trails Remake Saga",
+   "summary": "Not Trailing Behind. Trails in the Sky 1st Chapter released last year to near-universal acclaim from critics and fans. It was a lovingly cra…",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/trails-in-the-sky-2nd-chapter-nintendo-switch-2-edition",
+   "pubDate": "2026-10-19T15:30:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://images.nintendolife.com/f2ad61c662be8/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 20,
+   "categories": [
+    "new",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/trails-in-the-sky-2nd-chapter-nintendo-switch-2-edition"
+    }
+   ]
+  },
+  {
+   "title": "Open-World Crime Game Samson Did Better On Console But Not Enough To Save Its Developer From Shutting Down",
+   "summary": "Liquid Swords, the Swedish developer behind the crime game Samson, is closing up shop. Founder Christofer Sundberg confirmed this after bank…",
+   "link": "https://www.gamespot.com/articles/open-world-crime-game-samson-did-better-on-console-but-not-enough-to-save-its-developer-from-shutting-down/",
+   "pubDate": "2026-10-19T15:12:36.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/samsonnew.png?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/open-world-crime-game-samson-did-better-on-console-but-not-enough-to-save-its-developer-from-shutting-down/"
+    }
+   ]
+  },
+  {
+   "title": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
+   "summary": "The Japan Actors Union has issued new rules, guidelines, and restrictions related to AI-generated voice use. This includes an outright ban o…",
+   "link": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+   "pubDate": "2026-10-19T15:12:17.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai"
+    }
+   ]
+  },
+  {
+   "title": "ファミマで「スヌーピー」コラボが開催！レジ袋風エコバッグなどのグッズや、限定フードも盛りだくさん",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/20/189516.html",
+   "pubDate": "2026-10-19T15:10:03.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/20/189516.html"
+    }
+   ]
+  },
+  {
+   "title": "Faraway launches November 5 for PS5, Xbox Series, Switch 2, Switch, and PC",
+   "summary": "Faraway, a randomly-generated, minimalistic, arcade puzzle game about a shooting star that designs constellations to …",
+   "link": "https://www.gematsu.com/2026/10/faraway-launches-november-5-for-ps5-xbox-series-switch-2-switch-and-pc",
+   "pubDate": "2026-10-19T15:07:05.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Faraway-Date_10-19-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 26,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch",
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/faraway-launches-november-5-for-ps5-xbox-series-switch-2-switch-and-pc"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】Dell、4K/165Hz対応OLEDゲーミングモニター「Alienware AW3226Q」31.5インチモデルが登場！",
+   "summary": "AmazonにてDellの有機ELゲーミングモニター「Alienware AW3226Q」が特別価格で販売されている。期間は11月2日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149367.html",
+   "pubDate": "2026-10-19T15:05:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149367.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】GEEKOMのゲーミングミニPC「A9 Max」がお買い得！ Ryzen AI 9 HX 470/Radeon 890M搭載モデル",
+   "summary": "AmazonにてGEEKOMのゲーミングミニPCが特別価格で販売されている。期間は11月2日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149357.html",
+   "pubDate": "2026-10-19T15:05:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149357.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】MSIのゲーミングノートPC「Cyborg 15」シリーズがお買い得！Core 7/RTX 5060搭載モデル、Core i7/RTX 5050搭載モデルがラインナップ",
+   "summary": "AmazonにてMSI ゲーミングノートPC「Cyborg 15」シリーズが特別価格で販売されている。期間は11月2日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149350.html",
+   "pubDate": "2026-10-19T15:05:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149350.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】FOSSiBOTのSIMフリースマートフォン「F116 Pro 5G」、「F113」がお買い得！",
+   "summary": "AmazonにてFOSSiBOTのSIMフリースマートフォンが特別価格で販売されている。期間は11月2日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149344.html",
+   "pubDate": "2026-10-19T15:05:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149344.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】Xiaomiのスマートフォン「Xiaomi 17T」SIMフリー国際版がお買い得！",
+   "summary": "AmazonにてXiaomiのスマートフォン「Xiaomi 17T 国際版」が特別価格で販売されている。期間は10月25日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149320.html",
+   "pubDate": "2026-10-19T15:05:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149320.html"
+    }
+   ]
+  },
+  {
+   "title": "GameSir Nova Lite 2 review",
+   "summary": "The best deal in controllers at $30 or less right now.",
+   "link": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
+   "pubDate": "2026-10-19T15:01:40.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/HsSYMfw8bZ9BireWNsUhRR-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/"
+    }
+   ]
+  },
+  {
+   "title": "視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TlowbGdyV21xZjQ4bU1OREhxYm5IOVNacnBKMGVIeXVXSHhISHlGaXd3ZHRaZVRyNUJkX1d5OFkwcHcwTnJxOEVDcE53QWdHV25aRFl3cWE1TU91cFVVWXJYWURsSWZVQ3c?oc=5",
+   "pubDate": "2026-10-19T15:01:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "ASCII.jp",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TlowbGdyV21xZjQ4bU1OREhxYm5IOVNacnBKMGVIeXVXSHhISHlGaXd3ZHRaZVRyNUJkX1d5OFkwcHcwTnJxOEVDcE53QWdHV25aRFl3cWE1TU91cFVVWXJYWURsSWZVQ3c?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Two entire pallets of RTX 5090s have 'gone missing' from a Brazilian airport—$495,000 worth of unobtanium graphics cards now presumably at large",
+   "summary": "Own up, which one of you was it?",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/",
+   "pubDate": "2026-10-19T15:00:43.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/rXBYmgL4yDHbnu2Wm4Q7sL-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『サイバーパンク：エッジランナーズ2』が本日10月20日16時よりNetflixにて独占配信！伝説的サイバーパンク「ウィーク（CV.利​根健​太​朗）」ら4人の新キャラを中心とした群像劇が展開",
+   "summary": "伝説的サイバーパンク「ウィーク（CV.利​根健​太​朗）」や復讐を誓うノーマッド「D（CV.内山昂輝）」ら4人の新キャラを中心とした群像劇が展開",
+   "link": "https://news.denfaminicogamer.jp/news/261020z",
+   "pubDate": "2026-10-19T15:00:02.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HMIOYceaAAAeEkY-1-819x1024.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "サイバーパンク:エッジランナーズ2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261020z"
+    }
+   ]
+  },
+  {
+   "title": "「サイバーパンク：エッジランナーズ2」10月20日配信！ 【秋アニメ2026】新キャラで描かれるナイトシティの物語",
+   "summary": "アニメ「サイバーパンク：エッジランナーズ2」が、Netﬂixにて10月20日より独占配信される。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149397.html",
+   "pubDate": "2026-10-19T15:00:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149397.html"
+    }
+   ]
+  },
+  {
+   "title": "「Suicaのペンギン」ひざかけブランケットのリニューアル版が欲しすぎる。ICカードをイメージした柄や真っ黒なフェイス柄などが登場、10月20日12時より予約受付を開始",
+   "summary": "JR東海「TOICAのひよこ」やJR北海道「Kitaca」デザインのブランケットとあわせて、10月20日12時より予約受付を開始",
+   "link": "https://news.denfaminicogamer.jp/news/2610192q",
+   "pubDate": "2026-10-19T14:58:36.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/1006163912_6ac4a5a0d6b83-1024x768.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610192q"
+    }
+   ]
+  },
+  {
+   "title": "Directive 8020: A Dark Pictures Game online multiplayer mode update now available",
+   "summary": "Supermassive Games has released a free update for science-fiction survival horror adventure game Directive 8020: …",
+   "link": "https://www.gematsu.com/2026/10/directive-8020-a-dark-pictures-game-online-multiplayer-mode-update-now-available",
+   "pubDate": "2026-10-19T14:54:09.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Directive-8020-A-Dark-Pictures-Game_2026_10-19-26_002.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/directive-8020-a-dark-pictures-game-online-multiplayer-mode-update-now-available"
+    }
+   ]
+  },
+  {
+   "title": "『ペルソナ5 ザ・ロイヤル』「主人公」や「明智吾郎」の“まちぼうけ”フィギュアが登場。ちょこんと座る「心の怪盗団」たちが欲しすぎる",
+   "summary": "第1弾では「モルガナ」「竜司」「杏」「祐介」が、第2弾では「真」「双葉」「春」「芳澤」がラインナップ。10月20日13時より予約受付開始",
+   "link": "https://news.denfaminicogamer.jp/news/2610192p",
+   "pubDate": "2026-10-19T14:50:31.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/PhotoshopExtension_Image_1-18.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ペルソナ5 ザ・ロイヤル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610192p"
+    }
+   ]
+  },
   {
    "title": "“なでなで”や“高い高い”もできる！ケモノ娘が愛おしい、サバイバル子育てシム『Family Time』無料デモ版公開",
    "summary": "",
@@ -13296,6 +13816,32 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/19/173812.html"
+    }
+   ]
+  },
+  {
+   "title": "Battlefield 6 Dev Owns Up To Mistakes With Strange-Looking Cosmetics, But Stays Silent On Possible AI Use",
+   "summary": "Battlefield Studios has released a statement regarding Battlefield 6 after players came together to point out oddities and irregularities wi…",
+   "link": "https://www.gamespot.com/articles/battlefield-6-dev-owns-up-to-mistakes-with-strange-looking-cosmetics-but-stays-silent-on-possible-ai-use/",
+   "pubDate": "2026-10-19T14:29:16.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/BF6.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/battlefield-6-dev-owns-up-to-mistakes-with-strange-looking-cosmetics-but-stays-silent-on-possible-ai-use/"
     }
    ]
   },
@@ -13352,6 +13898,39 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/uk-charts-castlevania-belmonts-curse-whips-up-a-fine-debut-but-its-not-king-of-the-castle"
+    }
+   ]
+  },
+  {
+   "title": "Alterhead、ハードコアボスラッシュアクション『PigPonyPocalypse』をSteamにて配信開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1LSlFmNzZ6eWJyZkljRHc4dTN1amtKdHRIajhEdGhpNTgxLUVnZ0NNTUNqR2xEdDJRb2JBV1NqRTVqX3Z6?oc=5",
+   "pubDate": "2026-10-19T14:06:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "PigPonyPocalypse"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1LSlFmNzZ6eWJyZkljRHc4dTN1amtKdHRIajhEdGhpNTgxLUVnZ0NNTUNqR2xEdDJRb2JBV1NqRTVqX3Z6?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -13530,6 +14109,37 @@
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9COFBvY1JKQ2lWTGFRMC1JdHNHNlotZ1dubkpYbWl5VnRNV2hVXzVMUmQ5VnNuQU9pX1dpYXhJWE5Xc2RNX1Y5Q04xOA?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "個人ゲーム開発者のartcode、姫を救うために地下99階の迷宮に挑む3DアクションRPG『Sword of Ordin』を26年10月21日に発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE90clpya2NvMVNPYnhKc0RxeWhLRVhvSjRZYTdUOTIwRWN1cG5WRG1WRU9SYWladlBEWFd0YXRpRkloc3ZY?oc=5",
+   "pubDate": "2026-10-19T13:47:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Sword of Ordin"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE90clpya2NvMVNPYnhKc0RxeWhLRVhvSjRZYTdUOTIwRWN1cG5WRG1WRU9SYWladlBEWFd0YXRpRkloc3ZY?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -18920,6 +19530,33 @@
    ]
   },
   {
+   "title": "【ホロドリ】トワ・カエラ・ぼたん・ビジューが水着姿で新登場。新曲4曲も順次実装【hololive Dreams】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yc0RDMEhnajRRcF85b0NnUXVTamFCcWlla21YMDNIOVBnWThaeFU3S2pVbGtLdHdBSlRVRnAxQy1NY2p4MjhyRVVRemdJcTJJX1VfRjJUWWRBUQ?oc=5",
+   "pubDate": "2026-10-19T05:23:00.000Z",
+   "firstSeen": "2026-10-19T15:47:36.303Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yc0RDMEhnajRRcF85b0NnUXVTamFCcWlla21YMDNIOVBnWThaeFU3S2pVbGtLdHdBSlRVRnAxQy1NY2p4MjhyRVVRemdJcTJJX1VfRjJUWWRBUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "AI推進中のUnreal Engine開発元ボス、「ゲームの新たな黄金時代が訪れる」と豪語して論争に。“作ったら赤字”を覆すAI活用ゲーム開発への、期待と不安",
    "summary": "Epic GamesのCEOを務めるTim Sweeney氏は10月18日、AIの活用によって、「ゲームの新たな黄金時代」が訪れるとの考えを示した。",
    "link": "https://automaton-media.com/articles/newsjp/20261019-474269/",
@@ -20335,14 +20972,14 @@
   {
    "title": "無料ミニゲームサイト「ラテゲー」が全23種類に拡充！新作タイトルの追加や既存ゲームの大型アップデートを実施",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10UGQ0RFJRR1J3cmlGb1BpeVhiM2lQcjBMVGt1RXpoTGFIRVZYbmVWVHZtU3paWFlQWnlvamZHRXlGMTFRQWdpWXNxTWNodHRObnQ3Z0I3OUVVb1I5aWJQbkVGNW1HbVJhQkE?oc=5",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000189734.html",
    "pubDate": "2026-10-19T03:03:11.000Z",
    "firstSeen": "2026-10-19T03:47:36.828Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-update",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 12,
    "categories": [
@@ -20356,15 +20993,28 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10UGQ0RFJRR1J3cmlGb1BpeVhiM2lQcjBMVGt1RXpoTGFIRVZYbmVWVHZtU3paWFlQWnlvamZHRXlGMTFRQWdpWXNxTWNodHRObnQ3Z0I3OUVVb1I5aWJQbkVGNW1HbVJhQkE?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000004.000189734.html"
     },
     {
      "name": "MANTANWEB",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HQ2RJU01CUy1OZzYyNDh5SWtFTXNsQ1hIR0gyNGtQZlJ3YWZRM2dKMUFVMmFKbmttQ2YxYW9xblVtdm91WENzMFlWRnQ4UTAzc3JKLUhYQXYwQnlLYk5zUkExZnBYZE9HNWpnTkZJNEZiSHJTdnc?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EMnU0Qk0wYnFYMkNwUlVSU3hESWRJS1hZOEhHVHpBejE4NmRtUFFoREUwb2dJQmpta2xZczlGM1hCcTE5SE5ubTJhdHo2MDVPT0ZvNW44eDN2THQyWVVWb21lN3RQZ1dOWmVTYU9rY1BZSEFoZ2o0TQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52N2VKMGdqQmdXY1ZXWTNDUUhMcC1UNnhJZUE1RnoyM0lxemFjdjFVcHZDR25aci1WU1dCNG9nRHF3Z2VpZUpwb3J2cm10SzNaZHFFVGtxSWYxa2lzMlJuTkhBRWlsZXZ5N2VYb2NWVjhYUQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
     }
    ]
   },
@@ -63330,7 +63980,7 @@
    "pubDate": "2026-10-14T22:30:00.000Z",
    "firstSeen": "2026-10-15T00:47:34.459Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -63345,7 +63995,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CWVc5YzNTemhHSUE5UjZ6LS1hX1RfQ05zOHhXWEdRQVZEc2xsYi0tR3EzbWd6Tk1KSFNVa1dBU2FTQTEyeVdYZ2VhUW5LMDh2UnF0a25tWQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -191498,685 +192148,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/03/188689.html"
-    }
-   ]
-  },
-  {
-   "title": "Pokémon TCG Reportedly Launching First-Ever Valentine’s Day Set in 2027",
-   "summary": "Pokémon TCG is reportedly launching its first-ever Valentine's Day box set on January 27, 2027, featuring mini packs and packaging that fold…",
-   "link": "https://www.ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027",
-   "pubDate": "2026-10-02T15:08:39.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/pokemon-valentine-set-tcg-rumor-1790952987076.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027"
-    }
-   ]
-  },
-  {
-   "title": "Blizzard Adds Beloved 'Kyle's Gone Missing' Quest to World of Warcraft: Forever",
-   "summary": "For as much as World of Warcraft Forever has been making an effort to preserve the vanilla WoW experience, there are just some things in the…",
-   "link": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever",
-   "pubDate": "2026-10-02T15:07:56.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/image-1-1790951982452.webp",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever"
-    }
-   ]
-  },
-  {
-   "title": "リリース延期中のラーメン店経営シム『Japanese Ramen Simulator』まだSteam審査の結果待ち。お詫びにCBT4開催へ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/03/173100.html",
-   "pubDate": "2026-10-02T15:00:55.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Japanese Ramen Simulator"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/03/173100.html"
-    }
-   ]
-  },
-  {
-   "title": "バンダイナムコタイトルのTGS2026先行販売グッズの受注販売がアソビストアでスタート。「ACE COMBAT 8」や「テイルズ オブ」シリーズ30周年記念グッズをゲットするチャンス",
-   "summary": "バンダイナムコエンターテインメントは現在，東京ゲームショウ2026で先行販売した新作グッズについて，アソビストアで受注販売を受け付けている。期間は10月26日23：59まで。",
-   "link": "https://www.4gamer.net/games/969/G096901/20261002053/",
-   "pubDate": "2026-10-02T15:00:00.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new",
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/969/G096901/20261002053/"
-    }
-   ]
-  },
-  {
-   "title": "「ニーア オートマタ」60%オフで2,112円！ もうすぐ終了のセール情報まとめ【10月3日更新】ニンテンドーeショップでは「オーバークック 王国のフルコース」が70%オフ",
-   "summary": "東京都で過去最長の連続降水記録が更新されるなど、天気の悪い日が続く今日この頃。家に引きこもってゲームしたい人のために、各プラットフォームで開催されている注目セールの情報を紹介していきたい。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2144908.html",
-   "pubDate": "2026-10-02T15:00:00.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "nintendo"
-    ],
-    "off": 70,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2144908.html"
-    }
-   ]
-  },
-  {
-   "title": "Blair Witch Creators Reveal the Movie’s ‘Spiritual Connection’ to Their New Film and Tease the Franchise’s Upcoming Reboot",
-   "summary": "In an exclusive interview, the original Blair Witch Project creators discuss their modern found-footage horror, The Influencer Project, and…",
-   "link": "https://www.ign.com/articles/influencer-project-blair-witch-creators-interview",
-   "pubDate": "2026-10-02T15:00:00.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/influencer-project-1790902927406.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "review",
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/influencer-project-blair-witch-creators-interview"
-    }
-   ]
-  },
-  {
-   "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place",
-   "summary": "Into the belly of the beast. The countdown continues! My weekly adventures through Ocarina of Time's dungeons have brought me to the last of…",
-   "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place",
-   "pubDate": "2026-10-02T15:00:00.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://images.nintendolife.com/f9122ebac2a11/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place"
-    }
-   ]
-  },
-  {
-   "title": "無料海戦ゲーム「ネイビーミッション」が18年ぶりのアップデートで現代のPC環境に対応！ (全16枚)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZmVSUmRGVWpvdGRUeF9rV3YzVVF4SmVHRjgwZ3I1VER2ZUNJek9rY25SbkFic1A5RDY2UTNnSWd0bGh1SU1vXzhaS2pNazBTV3VjVVlDdGQxX0FuZXMw?oc=5",
-   "pubDate": "2026-10-02T14:58:45.000Z",
-   "firstSeen": "2026-10-02T21:48:12.423Z",
-   "image": null,
-   "source": "Gamer",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ネイビーミッション"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gamer",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZmVSUmRGVWpvdGRUeF9rV3YzVVF4SmVHRjgwZ3I1VER2ZUNJek9rY25SbkFic1A5RDY2UTNnSWd0bGh1SU1vXzhaS2pNazBTV3VjVVlDdGQxX0FuZXMw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "Steam版『ゆめみるサクラの卒業式』の発売日が2026年10月22日(木)に決定！終わらない卒業式を繰り返す短編のホラーノベルゲーム。",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWnFfa1ZyZS1BRDh3Zk5NTTRYNHMxNnNtYThsbFg3cWdHVmpyMHUtZjVHcVAxZG04U3ZSQ2k3UWhvWGgycXJ1WGlDWTM5cFJjU2xOcl9IS0t4dFk?oc=5",
-   "pubDate": "2026-10-02T14:56:55.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ゆめみるサクラの卒業式"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWnFfa1ZyZS1BRDh3Zk5NTTRYNHMxNnNtYThsbFg3cWdHVmpyMHUtZjVHcVAxZG04U3ZSQ2k3UWhvWGgycXJ1WGlDWTM5cFJjU2xOcl9IS0t4dFk?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "【8778円→2633円】『サイバーパンク2077』がSteamで70％オフのセール中。犯罪が横行する巨大都市「ナイトシティ」で成り上がるオープンワールドRPGが過去最安タイの価格で買えちゃう",
-   "summary": "犯罪が横行する巨大都市「ナイトシティ」で成り上がる人気オープンワールドRPG。アニメ『サイバーパンク: エッジランナーズ2』は10月20日よりNetflixにて独占配信",
-   "link": "https://news.denfaminicogamer.jp/news/2610022z",
-   "pubDate": "2026-10-02T14:52:11.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_4bda6f67580d94832ed2d5814e41ebe018ba1d9e.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "steam"
-    ],
-    "off": 70,
-    "free": false
-   },
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "サイバーパンク2077"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610022z"
-    }
-   ]
-  },
-  {
-   "title": "I'm going to teach you to love hidden object games",
-   "summary": "Or at least to respect them. I'd settle for that. And if you feel like embarking on a journey of discovery, I can help with that, too.",
-   "link": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/",
-   "pubDate": "2026-10-02T14:48:25.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/E599zWgYyWoA6XCJFSzDGe-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/"
-    }
-   ]
-  },
-  {
-   "title": "System Shock 2 Remaster Is Free to Keep on the Epic Games Store Right Now",
-   "summary": "System Shock 2: 25th Anniversary Remaster is currently free to claim on the Epic Games Store until October 8, 2026.",
-   "link": "https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now",
-   "pubDate": "2026-10-02T14:47:58.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2025/02/14/ss2-1739543581123.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now"
-    }
-   ]
-  },
-  {
-   "title": "Amazon Slashes Over $30 off the White Xbox Elite Series 2 Core Controller Ahead of Prime Big Deal Days",
-   "summary": "Amazon has discounted the white Xbox Elite Series 2 Core from $149.99 to $111.74 ahead of its upcoming Prime Big Deal Days sale, saving you…",
-   "link": "https://www.ign.com/articles/amazon-slashes-over-30-off-the-white-xbox-elite-series-2-core-controller-ahead-of-prime-big-deal-days",
-   "pubDate": "2026-10-02T14:37:17.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/xbox-elite-series-2-core-controller-deal-1790944403858.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/amazon-slashes-over-30-off-the-white-xbox-elite-series-2-core-controller-ahead-of-prime-big-deal-days"
-    }
-   ]
-  },
-  {
-   "title": "The WoW: Forever beta's nerf to dungeon XP isn't nearly as bad as it seems",
-   "summary": "The danger of skimming patch notes.",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-forever-betas-nerf-to-dungeon-xp-isnt-nearly-as-bad-as-it-seems/",
-   "pubDate": "2026-10-02T14:30:42.000Z",
-   "firstSeen": "2026-10-02T14:52:38.291Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/MEcbxoCTbRdnZsEr2yLnkd-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-forever-betas-nerf-to-dungeon-xp-isnt-nearly-as-bad-as-it-seems/"
-    }
-   ]
-  },
-  {
-   "title": "【Kindleで半額】『こち亀』『テニプリ』『るろうに剣心』などジャンプの名作マンガがクーポンで50％オフ。10/4まで【集英社 秋マン】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03cDBZUmJBaTNpa1BLQnJnamJiemdnS1RjNXFpRXplcGxGWURMbjdUVElQc1FTYjB6Ykg3NktMSjZxVmJfM1ZXdHVmc2VBMVpTZWw4RXF0SQ?oc=5",
-   "pubDate": "2026-10-02T14:30:00.000Z",
-   "firstSeen": "2026-10-02T17:48:13.121Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "こち亀",
-    "テニプリ",
-    "るろうに剣心"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03cDBZUmJBaTNpa1BLQnJnamJiemdnS1RjNXFpRXplcGxGWURMbjdUVElQc1FTYjB6Ykg3NktMSjZxVmJfM1ZXdHVmc2VBMVpTZWw4RXF0SQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "屈強な兵士でも射撃に秀でた警官でもない―異なる身体条件を補い合い知恵と協力で挑む4人協力型ホラー『ZONE L.O.S.T.』デモ版配信",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/02/173099.html",
-   "pubDate": "2026-10-02T14:26:24.000Z",
-   "firstSeen": "2026-10-02T14:52:38.291Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ZONE L.O.S.T."
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/02/173099.html"
-    }
-   ]
-  },
-  {
-   "title": "Sony’s Revised PS5 Slim Could Be Getting Cheaper To Make, But Not To Buy",
-   "summary": "It looks like Sony has quietly revised the PS5 console once again, with new internal changes across the (mother)board. It's not clear when t…",
-   "link": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/",
-   "pubDate": "2026-10-02T14:17:50.000Z",
-   "firstSeen": "2026-10-02T14:52:38.291Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/06/PS5-Body.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/"
-    }
-   ]
-  },
-  {
-   "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
-   "summary": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
-   "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
-   "pubDate": "2026-10-02T14:11:47.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": -6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform"
-    }
-   ]
-  },
-  {
-   "title": "“非常に好評”アクションADV『Owlboy』特別アプデ11月1日配信！10周年を記念してゲームプレイを大きく改善",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/02/173098.html",
-   "pubDate": "2026-10-02T14:10:42.000Z",
-   "firstSeen": "2026-10-02T14:52:38.291Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Owlboy"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/02/173098.html"
-    },
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBRjRHUkk2WmtoVVV4MDF1YWN4SE95N0FSMnZWdkpKSHFQRFE2OWVzTXZyTWhZT05NWGZzQkJEQkFvd2s0SndIYU4wOEhTY3dHYXFPbm9NbUtKc0hJbjVyRm9rVEJHVkhFMm5TT2Jn?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Batman, Lord of the Rings, and Harry Potter Feature in First Trailer for Skydance, the Newly Named Parent Company for a Merged Warner Bros. and Paramount",
-   "summary": "Once merged, Harry Potter, Lord of the Rings and Game of Thrones company Warner Bros. will exist alongside Paramount as a sub-brand of Skyda…",
-   "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount",
-   "pubDate": "2026-10-02T14:09:45.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/skydance-00-01-50-1790948908202.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount"
-    }
-   ]
-  },
-  {
-   "title": "STRANGER THAN HEAVEN ‘1943 Minami, Osaka In-Depth Look’ gameplay",
-   "summary": "Publisher SEGA and developer RGG Studio have released a new gameplay video for 50-year action …",
-   "link": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay",
-   "pubDate": "2026-10-02T14:07:12.000Z",
-   "firstSeen": "2026-10-02T14:52:38.291Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/STRANGER-HEAVEN_10-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/stranger-than-heaven-1943-minami-osaka-in-depth-look-gameplay"
-    }
-   ]
-  },
-  {
-   "title": "8 Big October Games We've Already Played if You Want to Know What We Think of Them So Far",
-   "summary": "October is here, which means the Fall is in full swing, which means some of the biggest games of the year drop this month. We've already pla…",
-   "link": "https://www.ign.com/articles/8-big-october-games-weve-already-played-if-you-want-to-know-what-we-think-of-them-so-far",
-   "pubDate": "2026-10-02T14:03:00.000Z",
-   "firstSeen": "2026-10-02T15:48:17.646Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/01/pbz-1790892289703.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/8-big-october-games-weve-already-played-if-you-want-to-know-what-we-think-of-them-so-far"
-    }
-   ]
-  },
-  {
-   "title": "小説『魔法使いの夜 下』の書影が公開。2人の魔女と1人の少年の束の間の安息を破り、“橙色の魔術師”が現れる",
-   "summary": "奈須きのこ氏がTYPE-MOONのノベルゲームを自らの手で小説化、イラストはこやまひろかず氏。11月10日に星海社FICTIONSより発売",
-   "link": "https://news.denfaminicogamer.jp/news/2610023a",
-   "pubDate": "2026-10-02T14:00:04.000Z",
-   "firstSeen": "2026-10-02T14:52:38.291Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HTjOGQeagAAdShq-720x1024.jpeg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "魔法使いの夜 下"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610023a"
     }
    ]
   }
