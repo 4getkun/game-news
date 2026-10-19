@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-19T19:47:46.170Z",
+ "generatedAt": "2026-10-19T20:47:43.390Z",
  "count": 6000,
  "dedupe": {
-  "exact": 886,
+  "exact": 887,
   "syndicated": 60,
   "similar": 274,
   "syndicatedTotal": 269,
@@ -7178,6 +7178,23 @@
   {
    "date": "2026-10-23",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "ファイナルファンタジー レゾナンス",
+   "title": "ドット進化系最新作『FFレゾナンス』全国350書店コラボが10/23から開催。限定しおり配布やサイン会も【FFRS】",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MTkJvZ1RBLU5xMzlBd3RKdjFkT0hCVktua2dNWGxjaUZCQ3BHRFdPTUZpUF9fRmZEN1B3aHpISHltckc2bVZYUlZyUzNOMFM1NXZyLTliTzV5QQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-23",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "地球防衛軍5",
@@ -13092,8 +13109,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 703,
-   "accepted": 352
+   "archived": 704,
+   "accepted": 353
   },
   {
    "id": "gnews-newgame",
@@ -13136,8 +13153,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 351,
-   "accepted": 236
+   "archived": 352,
+   "accepted": 237
   },
   {
    "id": "prtimes",
@@ -13147,7 +13164,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 21316,
+   "archived": 21318,
    "accepted": 358
   },
   {
@@ -13169,8 +13186,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1046,
-   "accepted": 1046
+   "archived": 1048,
+   "accepted": 1048
   },
   {
    "id": "eurogamer",
@@ -13180,8 +13197,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 292,
-   "accepted": 292
+   "archived": 293,
+   "accepted": 293
   },
   {
    "id": "gamespot",
@@ -13213,11 +13230,122 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 540,
-   "accepted": 540
+   "archived": 541,
+   "accepted": 541
   }
  ],
  "items": [
+  {
+   "title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+   "summary": "Business strategy manager Brandon Stirrup said he was \"happy to take the hit\" for his stance on AI, then left social media.",
+   "link": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+   "pubDate": "2026-10-19T20:44:12.000Z",
+   "firstSeen": "2026-10-19T20:47:33.607Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/nnXTHjAJbZ7bw4xzhZJCw-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/"
+    }
+   ]
+  },
+  {
+   "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+   "summary": "Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its…",
+   "link": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+   "pubDate": "2026-10-19T19:54:06.000Z",
+   "firstSeen": "2026-10-19T20:47:33.607Z",
+   "image": "https://assetsio.gnwcdn.com/Revamp-Dracula.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "demo",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats"
+    }
+   ]
+  },
+  {
+   "title": "Japanese Tekken Players are Likening Tekken 6’s Rollback Netcode Mod to Serious Crimes and the Fighting Game Community is Split",
+   "summary": "Two weeks ago, a Tekken player created a mod that allowed users to play the game online with rollback netcode, sparking a community-wide deb…",
+   "link": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split",
+   "pubDate": "2026-10-19T19:45:30.000Z",
+   "firstSeen": "2026-10-19T20:47:33.607Z",
+   "image": "https://assets1.ignimgs.com/2009/06/22/tekken-6-20090622114521975-2901750.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split"
+    }
+   ]
+  },
+  {
+   "title": "Save $110 for Your First Year With McAfee+ Scam Detector, Including a VPN, Antivirus and Online Protection in the Age of AI",
+   "summary": "McAfee+ has multiple ways of protecting you that go far beyond what is possible on a web browser.",
+   "link": "https://www.ign.com/articles/mcafee-plus-advanced-online-protection-plan-deal-october-2026",
+   "pubDate": "2026-10-19T19:31:23.000Z",
+   "firstSeen": "2026-10-19T20:47:33.607Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/19/mcafee-protection-blogroll-1-1792437215944.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/mcafee-plus-advanced-online-protection-plan-deal-october-2026"
+    }
+   ]
+  },
   {
    "title": "WoW: Forever Is Soaring, But Midnight Is Struggling",
    "summary": "World of Warcraft: Forever is riding high thanks to its popular beta and upcoming launch, but retail WoW's Midnight expansion feels like it'…",
@@ -18934,39 +19062,6 @@
    ]
   },
   {
-   "title": "宇宙を駆ける3D空間×音楽リズムゲーム『Estella』、「Steam Nextフェス」出展＆体験版の大型アップデートが決定！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000615.000053064.html",
-   "pubDate": "2026-10-19T08:00:02.000Z",
-   "firstSeen": "2026-10-19T08:47:37.914Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 30,
-   "categories": [
-    "update",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Estella"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000615.000053064.html"
-    }
-   ]
-  },
-  {
    "title": "八角形レーンを駆ける3Dリズムゲーム「Estella」，体験版の大型アップデートを実施。TGS 2026で先行公開された楽曲を含む新曲3曲を追加",
    "summary": "松竹ゲームズは本日，PC向け3Dリズムゲーム「Estella」の体験版の大型アップデートを実施した。ビジュアルやUIをブラッシュアップし，TGS2026で先行公開された楽曲を含む新曲3曲を追加した。あわせて，主人公エリナのキャラクターボイスやテーマ曲，最大32人対応のマルチプレイ…",
    "link": "https://www.4gamer.net/games/903/G090387/20261019015/",
@@ -19026,6 +19121,45 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oV0RUdlNjZTlQTGpYd3U4TTZKN1lXQklqZVZUMDVKWjh2UlctLWtmamdlR0lUbDY4Ri1KbzdtVXhKV2pxMlh2NVRIaDRzbXdPa1c3RktnUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "宇宙を駆ける3D空間×音楽リズムゲーム『Estella』、「Steam Nextフェス」出展＆体験版の大型アップデートが決定！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000615.000053064.html",
+   "pubDate": "2026-10-19T08:00:00.000Z",
+   "firstSeen": "2026-10-19T08:47:37.914Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 30,
+   "categories": [
+    "update",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Estella"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000615.000053064.html"
+    },
+    {
+     "name": "イザ！",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kUW8tMG4wbUhId3dSa3k5LUM4eXI4YUEzblJzcFJZbnNia18yVlpJcTlHREdGbjg4dFVxY2JKSVRYbTNja3FSR2o2dHFJZGsyXzhxMmhwcDJMaWFGdEpDMWxSX0JYUXBnMzJFZWZFSUpVVUlzY3JpR3Z3?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -19436,6 +19570,38 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2149328.html"
+    }
+   ]
+  },
+  {
+   "title": "ドット進化系最新作『FFレゾナンス』全国350書店コラボが10/23から開催。限定しおり配布やサイン会も【FFRS】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MTkJvZ1RBLU5xMzlBd3RKdjFkT0hCVktua2dNWGxjaUZCQ3BHRFdPTUZpUF9fRmZEN1B3aHpISHltckc2bVZYUlZyUzNOMFM1NXZyLTliTzV5QQ?oc=5",
+   "pubDate": "2026-10-19T07:18:00.000Z",
+   "firstSeen": "2026-10-19T20:47:33.607Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ファイナルファンタジー レゾナンス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MTkJvZ1RBLU5xMzlBd3RKdjFkT0hCVktua2dNWGxjaUZCQ3BHRFdPTUZpUF9fRmZEN1B3aHpISHltckc2bVZYUlZyUzNOMFM1NXZyLTliTzV5QQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -35002,7 +35168,7 @@
    "pubDate": "2026-10-16T12:07:00.000Z",
    "firstSeen": "2026-10-16T13:47:43.824Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -35020,7 +35186,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVlBTcUV2Y0JaU2t3a1FMNUp6M2hobzFfN3N2RWhtYmtWTFd6WVhubk9lZUQwSDlxX0hJbHFyaGtlQ0plSnE1RkhteHg1d2VwQks0UHpZaw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -191989,140 +192155,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000013.000079208.html"
-    }
-   ]
-  },
-  {
-   "title": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit",
-   "summary": "This is what a man looks like after fulfilling a lifelong dream.",
-   "link": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
-   "pubDate": "2026-10-02T19:44:33.000Z",
-   "firstSeen": "2026-10-02T20:48:12.935Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/AxdMGitp3ib777sE8y8B7P-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
-   "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scen…",
-   "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
-   "pubDate": "2026-10-02T19:41:02.000Z",
-   "firstSeen": "2026-10-02T20:48:12.935Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_13.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/"
-    }
-   ]
-  },
-  {
-   "title": "Upcoming LEGO Sets: Release Dates for 2026 and Beyond",
-   "summary": "A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.",
-   "link": "https://www.ign.com/articles/upcoming-lego-set-release-dates",
-   "pubDate": "2026-10-02T19:30:00.000Z",
-   "firstSeen": "2026-10-02T19:48:12.521Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/01/lego-star-destroyer-1790863458263.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/upcoming-lego-set-release-dates"
-    }
-   ]
-  },
-  {
-   "title": "Verity Review",
-   "summary": "Verity review: A veritable mess starring Anne Hathaway, Dakota Johnson, and Josh Hartnett.",
-   "link": "https://www.ign.com/articles/verity-review",
-   "pubDate": "2026-10-02T19:14:47.000Z",
-   "firstSeen": "2026-10-02T19:48:12.521Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/02/1280verity-v-15884-r-rgb-copy-1790967154785.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/verity-review"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-   "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and…",
-   "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-   "pubDate": "2026-10-02T19:08:59.000Z",
-   "firstSeen": "2026-10-02T19:48:12.521Z",
-   "image": "https://assetsio.gnwcdn.com/GTA-6-Lucia_bnyTxLW.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use"
     }
    ]
   }
