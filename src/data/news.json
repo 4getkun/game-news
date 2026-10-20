@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-20T22:47:42.906Z",
+ "generatedAt": "2026-10-20T23:47:59.413Z",
  "count": 6000,
  "dedupe": {
   "exact": 935,
   "syndicated": 65,
-  "similar": 289,
-  "syndicatedTotal": 287,
-  "syndicatedLeft": 25
+  "similar": 291,
+  "syndicatedTotal": 288,
+  "syndicatedLeft": 26
  },
  "calendar": [
   {
@@ -7716,6 +7716,23 @@
   {
    "date": "2026-10-28",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "カルドセプトビギンズ、Steam版10月28日発売――新マップ3種とUI改修はSwitchにも無料配信",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sNVdyQ1Mtd2lvaGI0andxTGVPX2pKZkdqWGJzcmhuaVRIUDhWQUw4WkVoY2lWMElRY21JN1pseHQyemp1?oc=5",
+   "source": "shiritomo",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch",
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-28",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Probably Stolen",
@@ -10346,6 +10363,24 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "「PS5」デジタル・エディションの新カラー「ミッドナイト ブラック」が11月19日発売！同カラーのディスクドライブも同日登場",
+   "link": "http://www.gamespark.jp/article/2026/10/13/173531.html",
+   "source": "Game*Spark",
+   "sources": 6,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "ps5"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-19",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "トロイメライの月あかり",
    "title": "『トロイメライの月あかり』Switch／Switch 2版が予約開始！ 11月19日発売、予約セールで20％オフ",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DZTNLemQ2QXp5VmJ6SGFYRnVhTnNCcE5TYWtvVFNtODFocnd3Q1ZtbkFGcjZmWXZJaERNeFFxYUlHbnZYRm0wbUxGUUhWaHhpakxJdFd1ZTlaRUEwTnJzSQ?oc=5",
@@ -10358,24 +10393,6 @@
    "platforms": [
     "switch2",
     "switch"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-19",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「PS5」デジタル・エディションの新カラー「ミッドナイト ブラック」が11月19日発売！同カラーのディスクドライブも同日登場",
-   "link": "http://www.gamespark.jp/article/2026/10/13/173531.html",
-   "source": "Game*Spark",
-   "sources": 5,
-   "categories": [
-    "release"
-   ],
-   "platforms": [
-    "ps5"
    ],
    "spoiler": false
   },
@@ -11274,7 +11291,7 @@
    "title": "カプコン、12月4日に発売予定のSwitch 2向け『モンスターハンターワイルズ』の序盤体験版を配信開始 ローカル通信でのマルチプレイにも対応",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FZnYxSTJ2OG8ybnNoSERCYVRDVnRzQU5GR3ZTMnZreTA3MjRwSDJNRjBXTDBIalNRTDlZZXFTRmFkMFU0?oc=5",
    "source": "gamebiz【ゲームビズ】",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "release",
     "demo"
@@ -13132,8 +13149,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1172,
-   "accepted": 1157
+   "archived": 1174,
+   "accepted": 1159
   },
   {
    "id": "inside-games",
@@ -13187,8 +13204,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 752,
-   "accepted": 600
+   "archived": 753,
+   "accepted": 601
   },
   {
    "id": "gnews-dengeki",
@@ -13209,8 +13226,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 433,
-   "accepted": 407
+   "archived": 434,
+   "accepted": 408
   },
   {
    "id": "gnews-switch2",
@@ -13219,9 +13236,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 98,
-   "archived": 1040,
-   "accepted": 876
+   "fetched": 99,
+   "archived": 1041,
+   "accepted": 877
   },
   {
    "id": "gnews-ps5",
@@ -13231,8 +13248,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 508,
-   "accepted": 457
+   "archived": 509,
+   "accepted": 458
   },
   {
    "id": "gnews-update",
@@ -13242,8 +13259,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 377,
-   "accepted": 262
+   "archived": 378,
+   "accepted": 263
   },
   {
    "id": "prtimes",
@@ -13253,7 +13270,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 22469,
+   "archived": 22473,
    "accepted": 380
   },
   {
@@ -13275,8 +13292,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1120,
-   "accepted": 1120
+   "archived": 1124,
+   "accepted": 1124
   },
   {
    "id": "eurogamer",
@@ -13324,6 +13341,210 @@
   }
  ],
  "items": [
+  {
+   "title": "【Game Pass】『FF7 リメイク インターグレード』登場！ほか新作2本含む総計8本―2026年11月初頭までのラインナップ公開",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/21/173872.html",
+   "pubDate": "2026-10-20T23:30:02.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [
+    "FF7 リメイク インターグレード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/21/173872.html"
+    }
+   ]
+  },
+  {
+   "title": "カルドセプトビギンズ、Steam版10月28日発売――新マップ3種とUI改修はSwitchにも無料配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sNVdyQ1Mtd2lvaGI0andxTGVPX2pKZkdqWGJzcmhuaVRIUDhWQUw4WkVoY2lWMElRY21JN1pseHQyemp1?oc=5",
+   "pubDate": "2026-10-20T23:13:43.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": null,
+   "source": "shiritomo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "shiritomo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sNVdyQ1Mtd2lvaGI0andxTGVPX2pKZkdqWGJzcmhuaVRIUDhWQUw4WkVoY2lWMElRY21JN1pseHQyemp1?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover",
+   "summary": "",
+   "link": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
+   "pubDate": "2026-10-20T23:01:00.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/20/narnia-books-1792535453710.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026"
+    }
+   ]
+  },
+  {
+   "title": "シリーズ累計プレイヤー数2,500万人超！2人協力プレイ専用パズルADV最新作『We Were Here Tomorrow』発売―異なる状況で力を合わせ時間・重力・空間の試練に挑もう",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/21/173871.html",
+   "pubDate": "2026-10-20T23:00:02.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "We Were Here Tomorrow"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/21/173871.html"
+    }
+   ]
+  },
+  {
+   "title": "Epic Games、Disneyとの新作ゲームを延期 Claudeなどを使う「AIファースト」の開発を指示か",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpQWZVeDl3ZThxWkdHSHZZV3BJUEFVYlMzRzJuVXB2bUdENk1OdGJGMmY2TkNIVlFmSURISkRNQTFtQmpRSFAyd09YQ1ZhM2s3Y29EQXd3S3c4X3Vza0c2T1M0WVM1bUtXUEQ3cmpMMUZXdw?oc=5",
+   "pubDate": "2026-10-20T22:56:42.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": null,
+   "source": "Ledge.ai",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Ledge.ai",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpQWZVeDl3ZThxWkdHSHZZV3BJUEFVYlMzRzJuVXB2bUdENk1OdGJGMmY2TkNIVlFmSURISkRNQTFtQmpRSFAyd09YQ1ZhM2s3Y29EQXd3S3c4X3Vza0c2T1M0WVM1bUtXUEQ3cmpMMUZXdw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+   "summary": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new liv…",
+   "link": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+   "pubDate": "2026-10-20T22:48:37.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami"
+    }
+   ]
+  },
+  {
+   "title": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+   "summary": "Finnish Counter-Strike 2 pro Aleksi “Aleksib” Virolainen is facing a possible four-month suspended prison sentence over alleged “aggravated…",
+   "link": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
+   "pubDate": "2026-10-20T22:45:55.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/20/cs2-pro-aleksib-charged-aggravated-tax-fraud-1792536150894.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud"
+    }
+   ]
+  },
   {
    "title": "「日本人は海賊版に厳しい？」 海外掲示板でゲームの海賊版をめぐり議論。日本と海外での意識の違い",
    "summary": "ユーザーの反応に違いを感じた投稿者の問いかけがきっかけ。クリエイターへの敬意や海賊版への抵抗感など、さまざまな角度から意見が集まる",
@@ -13470,6 +13691,34 @@
      "name": "Googleニュース「Nintendo Switch 2」",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZFJFdWstb19kZWdDbVJqMk9HSGZFTUNaNV9XeHI0VVJFa3U4bTJNSnlhZ3FORWs2eDBXMnpGeXhoLWdORmV1QUZxNFk0cmZHN2F5b2FSZDlnOTBFMVFFZkY2NkhnMDZiOHNPNl93VHYxUG8?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
+   "summary": "The Samsung P9 MicroSD Express card will triple your total Switch 2 storage.",
+   "link": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
+   "pubDate": "2026-10-20T22:05:00.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/20/samsungp9-1792532942646.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026"
     }
    ]
   },
@@ -21413,6 +21662,38 @@
    ]
   },
   {
+   "title": "PS5デジタル・エディションの新色「ミッドナイト ブラック」予約開始（AV Watch）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0waC14bUJiZzl1bTdyN1d5dElXM3p0VVMyWk5kWTRCZ0NNX3hNeFNSVWlreXl0VUpNdEVHbXY1N2FiV29tazcwa0xGV2ZXbmlDNFBqTEJjRmJWY1NKc21uZFQyVHFkZXFRNzRqRWJYSEl4N2dncFR0TmNSR0lfRDg?oc=5",
+   "pubDate": "2026-10-20T08:00:00.000Z",
+   "firstSeen": "2026-10-20T23:47:41.166Z",
+   "image": null,
+   "source": "AV Watch（Yahoo!ニュース）",
+   "sourceId": "gnews-ps5",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AV Watch（Yahoo!ニュース）",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0waC14bUJiZzl1bTdyN1d5dElXM3p0VVMyWk5kWTRCZ0NNX3hNeFNSVWlreXl0VUpNdEVHbXY1N2FiV29tazcwa0xGV2ZXbmlDNFBqTEJjRmJWY1NKc21uZFQyVHFkZXFRNzRqRWJYSEl4N2dncFR0TmNSR0lfRDg?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "ねずみになって北欧風の森を冒険。「Hela：ちいさなねずみと魔法の森」，PC向け体験版を配信開始。ローカル協力にも対応",
    "summary": "松竹ゲームズは本日，オープンワールドADV「Hela：ちいさなねずみと魔法の森」のPC向け体験版の配信を開始した。体験版には，製品版とは異なる専用マップと独自のストーリーを収録。魔法のカエルさんリュックを使った移動やパズル，画面分割でのローカル協力プレイを楽しめる。",
    "link": "https://www.4gamer.net/games/845/G084502/20261020029/",
@@ -27108,7 +27389,7 @@
    "firstSeen": "2026-10-20T02:47:37.431Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -27132,9 +27413,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jc21PcThXVzdKWXFpaEhZNFYzNElXSlZ6RU92NlBWQmxpWVJOQUQ5cjhnWGNFa093YmxXcVFtVUE3cFhBQmRuNFNCUWpYYmFPVW13ZnRwRQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -27230,6 +27511,12 @@
      "name": "gamebiz【ゲームビズ】",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FZnYxSTJ2OG8ybnNoSERCYVRDVnRzQU5GR3ZTMnZreTA3MjRwSDJNRjBXTDBIalNRTDlZZXFTRmFkMFU0?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "https://gamerszone.jp/",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxUGNKNktXSnp0RUl2VUhVbHdDZXhqOFFyUlU1X1RHc1ZidVNfdXB3UW9NOXc1MWlTZ2VVQ0RKcjY4VnB0eThz?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -38126,7 +38413,7 @@
    "firstSeen": "2026-10-19T06:47:36.809Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -38143,9 +38430,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aMXN4WHUwZFNKd1FBaU50SGNLeXdsblNJWG8zaUo2NVBna3FXTXdFN1E4VzlNTGkwNVF1N05lNnhONllhNG1YOUppNkFjSXUxNmtnc0NaMA?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -45247,7 +45534,7 @@
   },
   {
    "title": "Surprise! Aspyr Is Remastering A Shrek Game",
-   "summary": ". Aspyr Media, the team behind the recent Lord of the Rings and Middle-earth ports for Nintendo platforms, has apparently got a remaster of…",
+   "summary": "Update: Shrek 2 Remastered officially announced. : Aspyr Media, the team behind the recent Lord of the Rings and Middle-earth ports for Nint…",
    "link": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
    "pubDate": "2026-10-17T06:00:00.000Z",
    "firstSeen": "2026-10-17T06:47:39.112Z",
@@ -45259,7 +45546,8 @@
    "lang": "en",
    "score": 4,
    "categories": [
-    "new"
+    "new",
+    "update"
    ],
    "deal": null,
    "platforms": [],
@@ -108680,6 +108968,12 @@
      "via": "Googleニュース「PS5 発売」"
     },
     {
+     "name": "PHILE WEB",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NNUtselR6ZklfaDU5di1NVnczVkpTMWlISXZUbmktWjV4MzVzZ0Y1MVBCLUM3MVphRVJxM2VYNnM1b2txbW8za1lxS2RJa2NJX1AtZEJjQ2JUSHV2ZldqZlNyLUl3Zw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    },
+    {
      "name": "Yahoo!ニュース",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QdzFxMEhqbDZvaHRNSjhvZmdEZDU1VXhtMmdRVl9mQldyZEMzNDdqNUVzY0k4TzN5bXM3LWhQbXdkRmZ4N2wxQ0U0ZlZBeDk5S1hMTDBQWWpwUWlhY3RRUnJhRFNFY2dnUTZBM3R1S01BVjJ3a3pYZ3ZlT0hacWc?oc=5",
@@ -151089,7 +151383,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 18,
+   "score": 22,
    "categories": [
     "new",
     "sale"
@@ -151103,7 +151397,7 @@
     "switch2"
    ],
    "works": [
-    "FFVII リメイク インターグレード"
+    "FF7 リメイク インターグレード"
    ],
    "spoiler": false,
    "sources": [
@@ -192115,295 +192409,6 @@
      "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUW1VMkF1QmV5RG8xYnhteVNJUzdmVWpYR2JqOEtfWWJnZ2M1ZEpEVnRJR0ZNMllmS0phZFpfeFhMWmhuQUFQSVFQc1Y2UXJpVTlIQmp0X205QQ?oc=5",
      "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "“4年ぶりに再始動”するモンスター育成MMORPG『イカロスオンライン』を初めて遊ぶとどう見える？自由で豪快で尖ってる、懐かしいだけじゃない天地を駆ける冒険",
-   "summary": "再サービスが開始される『Icarus Online（イカロスオンライン）』をCBTで初プレイし、懐かしさだけではない魅力を味わった。",
-   "link": "https://automaton-media.com/articles/reportjp/20261005-471886/",
-   "pubDate": "2026-10-05T10:08:09.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261005-471886-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "イカロスオンライン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/reportjp/20261005-471886/"
-    }
-   ]
-  },
-  {
-   "title": "FF14と第四境界がまさかのコラボ！ ARG『エッダの鞄』発表",
-   "summary": "『人の財布』や『かがみの特殊少年更生施設』を手掛けるクリエイター・第四境界は、オンラインゲーム『ファイナルファンタジーXIV』（以下、FFXIV）とのコラボレーションARG『エッダの鞄』を発表した。",
-   "link": "https://news.denfaminicogamer.jp/news/2610052t",
-   "pubDate": "2026-10-05T10:03:16.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/5bd907fac56d078d3f2aebe96708745f-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エッダの鞄"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610052t"
-    }
-   ]
-  },
-  {
-   "title": "見渡す限りのモンスターに全部乗れる。鳴り物入りで登場する超大作MMORPG『AION2』は、筆者にとっては収集欲を満たしまくる巨大な“ペット図鑑”だった",
-   "summary": "見渡す限りのモンスターが、全部乗れる。超大作MMORPG『AION2』は、筆者にとっては収集欲を満たしまくる“ペット図鑑”だった",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/2610052p",
-   "pubDate": "2026-10-05T10:00:32.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/aion2_lst_25-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "AION2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/2610052p"
-    }
-   ]
-  },
-  {
-   "title": "“ざぁこ”の中には優しさがある―煽られて頑張る新感覚Joy-Conふりふりリズムゲーム『がんばれ！チアリズム』インタビュー",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/05/173180.html",
-   "pubDate": "2026-10-05T10:00:03.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "がんばれ!チアリズム"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/05/173180.html"
-    }
-   ]
-  },
-  {
-   "title": "しまむらの『刀剣乱舞』グッズがアツい！三池コンビのTシャツ、大般若長光と小竜景光の収納雑貨や寝具類も",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/05/188799.html",
-   "pubDate": "2026-10-05T10:00:03.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "刀剣乱舞"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/05/188799.html"
-    }
-   ]
-  },
-  {
-   "title": "［プレイレポ］前作の約36倍の広さを誇る「AION2」。快適なプレイフィールとハイクオリティのグラフィックスが魅力の王道MMORPGだ",
-   "summary": "NCは，10月5日にグローバルサービスを開始するPC向け新作MMORPG「AION2」のLaunchScaleTestを，9月17日と19日に実施した。いくつかの制限が設けられた短い時間のテストではあるが，その内容を十分に体験できたので，プレイフィールをお届けしよう。",
-   "link": "https://www.4gamer.net/games/440/G044032/20260921043/",
-   "pubDate": "2026-10-05T10:00:00.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/440/G044032/20260921043/"
-    }
-   ]
-  },
-  {
-   "title": "まだ間に合う！ 限定Switch 2本体を含む「ゼルダの伝説」40周年アニバーサリーエディションが予約受付中",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kU2xHVjdlbUtqNlRNbzhER1NFbDZsUnJQSXNwUkVpQlpoMkFIMHZvTnpSUVBOZWc3T1Z6d0xIRWlrMWpUdzg2b1JlTzVLS2hTaGFsQXV6bzhpS0ZEU2c?oc=5",
-   "pubDate": "2026-10-05T10:00:00.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": null,
-   "source": "週刊アスキー",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release",
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "週刊アスキー",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kU2xHVjdlbUtqNlRNbzhER1NFbDZsUnJQSXNwUkVpQlpoMkFIMHZvTnpSUVBOZWc3T1Z6d0xIRWlrMWpUdzg2b1JlTzVLS2hTaGFsQXV6bzhpS0ZEU2c?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14aVg4bGhQSGNQbTNWMVhvTWt5ZzZua1JneTRfYlZZYnZaaFhiTDhPR0tMbXNEeHotMlcxUno4TnJSSFAtaXN4XzF4RF9KZy1NVlVTNw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBab2Z1MjY0NWVnLS1uQ1gyLXZldDh0dHFnOFdSc0M0eE9Ec2dmSk5MZ04wMVRJYkYtQVZ3Umhkand6YllvbjJuajdESGlPY183X01CdnNWQVBPbzl6TUFHTlJB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RUWUta1l4bG1lZ281R0JaRjByWjVpYzJfOTdUa2lmajhsSVhiTTgxOFMwcTI0bnJTOGJ4cDR3cEdqVmVqOVR0ZUJWRU1LM1FPYWVoUF93T1MxSldmRU9XdzZJOG1HTnM5WGxmTG9xdmx2NHc?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Review: The Witcher III: Wild Hunt - Remastered (Switch 2) - A Huge Upgrade For An All-Time Great",
-   "summary": "Rivi-awesome. Getting The Witcher 3: Wild Hunt to run on the original Nintendo Switch was an achievement in itself. Some obvious concessions…",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witcher-iii-wild-hunt-remastered",
-   "pubDate": "2026-10-05T10:00:00.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": "https://images.nintendolife.com/fe1dc8c8112ff/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witcher-iii-wild-hunt-remastered"
-    }
-   ]
-  },
-  {
-   "title": "「セ・リーグ4球団」のグッズがしまむらオンラインで販売！ユニフォーム型のダイカットブランケットが素敵",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/05/188798.html",
-   "pubDate": "2026-10-05T09:55:02.000Z",
-   "firstSeen": "2026-10-05T10:47:57.972Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "esports",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/05/188798.html"
     }
    ]
   }
