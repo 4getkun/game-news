@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-21T19:48:18.004Z",
+ "generatedAt": "2026-10-21T20:48:18.818Z",
  "count": 6000,
  "dedupe": {
-  "exact": 984,
+  "exact": 985,
   "syndicated": 74,
   "similar": 300,
-  "syndicatedTotal": 311,
-  "syndicatedLeft": 26
+  "syndicatedTotal": 312,
+  "syndicatedLeft": 25
  },
  "calendar": [
   {
@@ -6066,6 +6066,22 @@
   {
    "date": "2026-10-22",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "エースドライバー・ビクトリーラップ",
+   "title": "『エースドライバー・ビクトリーラップ』が「アケアカ」＆「アケアカ2」にて10月22日に配信決定！",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MMXJOLTJpME9sZDQtTlduVE1RUnFRbUxxZktkb2xfYlFnMHduQ2lZZFdZTk9LZlBULVRVQjhnS1dBSWk0aFRvVzI0TWlWZXZjd0VJOGpEVkRsMUNYS0E?oc=5",
+   "source": "週刊アスキー",
+   "sources": 6,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-22",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "Beyond the Dark:ナイトウォッチ",
@@ -6096,22 +6112,6 @@
     "switch2",
     "ps5"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-22",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "エースドライバー・ビクトリーラップ",
-   "title": "『エースドライバー・ビクトリーラップ』が「アケアカ」＆「アケアカ2」にて10月22日に配信決定！",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4NkRxOHVRblRnYmh2Z3JCdjdOVXl0VzEwUXRLYWItS21ZVV9BanplVDZURWd6VkZFNWpNM0hFN2tWVEE4YmRfLW1CV2NuakFfSFA4VF9hVkZxWjlnQmlURm9YMU11RXdVZVJWMTNRU2NxV0NoZkl2a28xQQ?oc=5",
-   "source": "ニコニコニュース",
-   "sources": 5,
-   "categories": [
-    "release"
-   ],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -11156,24 +11156,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-03",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "The Ascent",
-   "title": "『The Ascent』アルティメットエディションがSwitch 2向けに登場！ 予約受付が開始、12月3日発売",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNVlUNk1RNFdLSmFTbTV1TkVQWjNlR0tOWmFVNWJCeVd6a2dQYlQtTnBIU1dhTmt3eXk4bHoyb2lOYTgwSUFsYlVLRlhrTUx0dF90OXNZT01NN2RfTEpFQg?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [
-    "release"
-   ],
-   "platforms": [
-    "switch2"
-   ],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-04",
    "precision": "day",
    "verb": "release",
@@ -12105,23 +12087,6 @@
    "source": "4Gamer.net（スマホ）",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-01-10",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "アークナイツ:エンドフィールド",
-   "title": "『アークナイツ：エンドフィールド』1周年イベントが2027年1月10日・11日に幕張メッセで開催決定！ラウンドワンやZONeエナジーとのコラボも発表",
-   "link": "https://news.denfaminicogamer.jp/news/2610063d",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "event",
-    "collab"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -13295,8 +13260,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 778,
-   "accepted": 622
+   "archived": 777,
+   "accepted": 621
   },
   {
    "id": "gnews-dengeki",
@@ -13306,8 +13271,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 733,
-   "accepted": 365
+   "archived": 732,
+   "accepted": 364
   },
   {
    "id": "gnews-newgame",
@@ -13317,8 +13282,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 449,
-   "accepted": 423
+   "archived": 451,
+   "accepted": 425
   },
   {
    "id": "gnews-switch2",
@@ -13328,8 +13293,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1095,
-   "accepted": 927
+   "archived": 1097,
+   "accepted": 929
   },
   {
    "id": "gnews-ps5",
@@ -13349,7 +13314,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 65,
    "archived": 404,
    "accepted": 281
   },
@@ -13361,7 +13326,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 23587,
+   "archived": 23603,
    "accepted": 404
   },
   {
@@ -13383,8 +13348,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1165,
-   "accepted": 1165
+   "archived": 1169,
+   "accepted": 1169
   },
   {
    "id": "eurogamer",
@@ -13427,11 +13392,93 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 583,
-   "accepted": 583
+   "archived": 585,
+   "accepted": 585
   }
  ],
  "items": [
+  {
+   "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+   "summary": "(Don't worry, you don't need to be a sim geek to dig it.)",
+   "link": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
+   "pubDate": "2026-10-21T20:06:33.000Z",
+   "firstSeen": "2026-10-21T20:47:59.945Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/b6AjivCDopGFgjMiSjx5e7-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/"
+    }
+   ]
+  },
+  {
+   "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
+   "summary": "Get a taste of what it's like to compete with hundreds of other players to finish a quest.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
+   "pubDate": "2026-10-21T19:58:36.000Z",
+   "firstSeen": "2026-10-21T20:47:59.945Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/F2Vr74L9EDyrQyczqYRoie-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/"
+    }
+   ]
+  },
+  {
+   "title": "You Can Save $11 Off GTA 6 Preorders, Today Only",
+   "summary": "Follow three simple steps, and you can save $11 off Grand Theft Auto 6, today only.",
+   "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only",
+   "pubDate": "2026-10-21T19:40:49.000Z",
+   "firstSeen": "2026-10-21T20:47:59.945Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only"
+    }
+   ]
+  },
   {
    "title": "法人向け社宅手配BPO Tech Housing、事前登録受付を開始",
    "summary": "",
@@ -13458,6 +13505,64 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000003.000183806.html"
+    }
+   ]
+  },
+  {
+   "title": "Clair Obscur: Expedition 33 on PS5 Drops to New All-Time Low Price at Amazon With a Coupon",
+   "summary": "Amazon has knocked Clair Obscur: Expedition 33 on PS5 down to a new all-time low price, but it's only available through a coupon. After clip…",
+   "link": "https://www.ign.com/articles/clair-obscur-expedition-33-on-ps5-drops-to-new-all-time-low-price-at-amazon-with-a-coupon",
+   "pubDate": "2026-10-21T19:40:00.000Z",
+   "firstSeen": "2026-10-21T20:47:59.945Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/21/clair-obscur-deal-1792584521836.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/clair-obscur-expedition-33-on-ps5-drops-to-new-all-time-low-price-at-amazon-with-a-coupon"
+    }
+   ]
+  },
+  {
+   "title": "Sauron Wears the One Ring and Battles the Balrog in New Rings of Power Season 3 Trailer",
+   "summary": "Prime Video has released a new trailer for the upcoming third season of The Lord of the Rings: The Rings of Power that revealed more of the…",
+   "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer",
+   "pubDate": "2026-10-21T19:25:00.000Z",
+   "firstSeen": "2026-10-21T20:47:59.945Z",
+   "image": null,
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "new",
+    "update",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer"
     }
    ]
   },
@@ -13516,6 +13621,34 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/"
+    }
+   ]
+  },
+  {
+   "title": "The Acer Nitro RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
+   "summary": "The equipped Radeon RX 9060 XT GPU is the preferred 16GB variant.",
+   "link": "https://www.ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
+   "pubDate": "2026-10-21T19:05:00.000Z",
+   "firstSeen": "2026-10-21T20:47:59.945Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/21/acernitro85-1792607882452.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026"
     }
    ]
   },
@@ -13607,7 +13740,7 @@
    ]
   },
   {
-   "title": "The Internet Reacts to the Cancelation of Mass Effect 5 and the Death of BioWare",
+   "title": "The Internet Reacts to the Cancellation of Mass Effect 5 and the Death of BioWare",
    "summary": "The Internet Reacts to the Cancelation of Mass Effect 5 and the Death of BioWare.",
    "link": "https://www.ign.com/articles/the-internet-reacts-to-the-cancelation-of-mass-effect-5-and-the-death-of-bioware",
    "pubDate": "2026-10-21T18:56:20.000Z",
@@ -13634,7 +13767,7 @@
   },
   {
    "title": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
-   "summary": "The changes predicted when Saudi Arabia bought Electronic Arts are coming true.",
+   "summary": "The changes predicted when Saudi Arabia's PIF bought Electronic Arts are coming true.",
    "link": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
    "pubDate": "2026-10-21T18:41:11.000Z",
    "firstSeen": "2026-10-21T18:47:54.435Z",
@@ -13694,7 +13827,7 @@
    "firstSeen": "2026-10-21T18:47:54.435Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -13711,9 +13844,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR21LM3dhdFpZNm5jR3MxcGJnd0pOemFXX05hdmpfdnJQRlVYNHpJaVhKMmw2TUdMUThZdExMb3NuVWhpYm5mOW4zekU3TEJFM2VXdmJmVQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -14418,7 +14551,7 @@
    ]
   },
   {
-   "title": "Nearly $1 million worth of PSA-graded Pokémon and other TCG have been stolen right outside PSA's headquarters",
+   "title": "Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA's headquarters",
    "summary": "Refunds will be issued to affected parties.",
    "link": "https://www.pcgamer.com/gaming-industry/nearly-usd1-million-worth-of-psa-graded-pokemon-and-other-tcg-have-been-stolen-right-outside-psas-headquarters/",
    "pubDate": "2026-10-21T16:41:42.000Z",
@@ -20838,38 +20971,6 @@
    ]
   },
   {
-   "title": "『エースドライバー・ビクトリーラップ』が「アケアカ」＆「アケアカ2」にて10月22日に配信決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4NkRxOHVRblRnYmh2Z3JCdjdOVXl0VzEwUXRLYWItS21ZVV9BanplVDZURWd6VkZFNWpNM0hFN2tWVEE4YmRfLW1CV2NuakFfSFA4VF9hVkZxWjlnQmlURm9YMU11RXdVZVJWMTNRU2NxV0NoZkl2a28xQQ?oc=5",
-   "pubDate": "2026-10-21T08:12:03.000Z",
-   "firstSeen": "2026-10-21T08:47:35.698Z",
-   "image": null,
-   "source": "ニコニコニュース",
-   "sourceId": "gnews-switch2",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エースドライバー・ビクトリーラップ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4NkRxOHVRblRnYmh2Z3JCdjdOVXl0VzEwUXRLYWItS21ZVV9BanplVDZURWd6VkZFNWpNM0hFN2tWVEE4YmRfLW1CV2NuakFfSFA4VF9hVkZxWjlnQmlURm9YMU11RXdVZVJWMTNRU2NxV0NoZkl2a28xQQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "「ドラゴンボール超 ビルス」×「マルちゃん正麺」コラボキャンペーンが11月2日より開催！絵柄が変化する「超ラーメン丼」などが当たる",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/10/21/189597.html",
@@ -20931,6 +21032,44 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2610212n"
+    }
+   ]
+  },
+  {
+   "title": "『エースドライバー・ビクトリーラップ』が「アケアカ」＆「アケアカ2」にて10月22日に配信決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MMXJOLTJpME9sZDQtTlduVE1RUnFRbUxxZktkb2xfYlFnMHduQ2lZZFdZTk9LZlBULVRVQjhnS1dBSWk0aFRvVzI0TWlWZXZjd0VJOGpEVkRsMUNYS0E?oc=5",
+   "pubDate": "2026-10-21T08:09:37.000Z",
+   "firstSeen": "2026-10-21T08:47:35.698Z",
+   "image": null,
+   "source": "週刊アスキー",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "エースドライバー・ビクトリーラップ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "週刊アスキー",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MMXJOLTJpME9sZDQtTlduVE1RUnFRbUxxZktkb2xfYlFnMHduQ2lZZFdZTk9LZlBULVRVQjhnS1dBSWk0aFRvVzI0TWlWZXZjd0VJOGpEVkRsMUNYS0E?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4NkRxOHVRblRnYmh2Z3JCdjdOVXl0VzEwUXRLYWItS21ZVV9BanplVDZURWd6VkZFNWpNM0hFN2tWVEE4YmRfLW1CV2NuakFfSFA4VF9hVkZxWjlnQmlURm9YMU11RXdVZVJWMTNRU2NxV0NoZkl2a28xQQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -62960,6 +63099,38 @@
      "name": "Gematsu",
      "sourceId": "gematsu",
      "link": "https://www.gematsu.com/2026/10/toxic-crusaders-gameplay-trailer"
+    }
+   ]
+  },
+  {
+   "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $15",
+   "summary": "Powered by over 200 high‑brightness RGB LEDs.",
+   "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
+   "pubDate": "2026-10-16T16:40:00.000Z",
+   "firstSeen": "2026-10-16T17:47:37.715Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/14/moyaca-1792009399853.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 50,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026"
     }
    ]
   },
@@ -192428,223 +192599,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/rpg/exclusive-warhammer-40-000-dark-heresy-will-let-you-be-a-crooked-cop-pinning-crimes-on-the-innocent-or-follow-in-good-boy-gregor-eisenhorns-footsteps/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch Sports Resort Appears to Solve All of Switch Sports’ Shortcomings | IGN Preview",
-   "summary": "I’m stunned at how excited I am for Nintendo Switch Sports Resort. I plan to 100% this game, which is not something I would have said two we…",
-   "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-shortcomings-ign-preview",
-   "pubDate": "2026-10-06T13:00:00.000Z",
-   "firstSeen": "2026-10-06T14:48:03.798Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/06/ns2-nintendoswitchsportsresort-scrn-14-1791266095527.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-shortcomings-ign-preview"
-    }
-   ]
-  },
-  {
-   "title": "Prime Day Deal Knocks 25% Off MTG Marvel Draft Night Box With Free Collector Booster",
-   "summary": "Amazon’s Prime Day deal drops the Magic: The Gathering Marvel Draft Night Box to $89.99, letting you snag a rare $40 Collector Booster for e…",
-   "link": "https://www.ign.com/articles/mtg-marvel-draft-night-box-prime-day-deal",
-   "pubDate": "2026-10-06T13:00:00.000Z",
-   "firstSeen": "2026-10-06T14:48:03.798Z",
-   "image": "https://assets-prd.ignimgs.com/2026/06/02/draft-night-header-1780387582600.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 25,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/mtg-marvel-draft-night-box-prime-day-deal"
-    }
-   ]
-  },
-  {
-   "title": "【NGSヘッドラインまとめ】レベル上限125解放＆新装備“アミュレット”実装！ 11月にはクリエイターコラボ第3弾も",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GSi1aSTNGZEFjVU1aV2hJMU51YWp4ZHZqYm5sbDFVZEFKVmRCWk1IWnJzMWt5Zzd1VWY2OTdHOGxPZ3ZkakNqZDd2SVBQMlZ3eVZscVVHYXdiZw?oc=5",
-   "pubDate": "2026-10-06T13:00:00.000Z",
-   "firstSeen": "2026-10-06T18:47:56.999Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GSi1aSTNGZEFjVU1aV2hJMU51YWp4ZHZqYm5sbDFVZEFKVmRCWk1IWnJzMWt5Zzd1VWY2OTdHOGxPZ3ZkakNqZDd2SVBQMlZ3eVZscVVHYXdiZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "『アークナイツ：エンドフィールド』1周年イベントが2027年1月10日・11日に幕張メッセで開催決定！ラウンドワンやZONeエナジーとのコラボも発表",
-   "summary": "ラウンドワンとのコラボが11月10日よりスタート。ZONeエナジーとのイオングループ限定コラボ商品も、10月27日より順次発売",
-   "link": "https://news.denfaminicogamer.jp/news/2610063d",
-   "pubDate": "2026-10-06T12:51:37.000Z",
-   "firstSeen": "2026-10-06T13:48:02.155Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HT8qhkFaEAIG3BO-1024x576.jpeg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アークナイツ:エンドフィールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610063d"
-    }
-   ]
-  },
-  {
-   "title": "『CoD: MW4』朝鮮半島モチーフの戦場“ハジン”、プレイヤーの拠点となる前哨基地など、脱出シューター系モード“DMZ”の詳細が公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDRFpPMHdBUlJKaHU1TlJMZmc1cTZoY0R0cEx3bkFuZDBhYV90RGt2ek9IWExFRmdTZi1KMVdOQjdWTTRXbS1Vc3MzaFhpdXNLVVpUQm9JZw?oc=5",
-   "pubDate": "2026-10-06T12:50:00.000Z",
-   "firstSeen": "2026-10-06T14:48:03.798Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "CoD: MW4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDRFpPMHdBUlJKaHU1TlJMZmc1cTZoY0R0cEx3bkFuZDBhYV90RGt2ek9IWExFRmdTZi1KMVdOQjdWTTRXbS1Vc3MzaFhpdXNLVVpUQm9JZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『エンドフィールド』今後実装のオペレーターがチラ見せ！「ケーちゃん」がやって来るーこれからの物語では「ロドス」も登場",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/06/188862.html",
-   "pubDate": "2026-10-06T12:47:58.000Z",
-   "firstSeen": "2026-10-06T13:48:02.155Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エンドフィールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/06/188862.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/06/173255.html"
-    }
-   ]
-  },
-  {
-   "title": "『The Ascent』アルティメットエディションがSwitch 2向けに登場！ 予約受付が開始、12月3日発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNVlUNk1RNFdLSmFTbTV1TkVQWjNlR0tOWmFVNWJCeVd6a2dQYlQtTnBIU1dhTmt3eXk4bHoyb2lOYTgwSUFsYlVLRlhrTUx0dF90OXNZT01NN2RfTEpFQg?oc=5",
-   "pubDate": "2026-10-06T12:47:10.000Z",
-   "firstSeen": "2026-10-06T13:48:02.155Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "The Ascent"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNVlUNk1RNFdLSmFTbTV1TkVQWjNlR0tOWmFVNWJCeVd6a2dQYlQtTnBIU1dhTmt3eXk4bHoyb2lOYTgwSUFsYlVLRlhrTUx0dF90OXNZT01NN2RfTEpFQg?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   }
