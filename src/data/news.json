@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-21T12:47:54.675Z",
+ "generatedAt": "2026-10-21T13:48:07.084Z",
  "count": 6000,
  "dedupe": {
-  "exact": 973,
-  "syndicated": 72,
+  "exact": 976,
+  "syndicated": 73,
   "similar": 299,
-  "syndicatedTotal": 304,
+  "syndicatedTotal": 307,
   "syndicatedLeft": 26
  },
  "calendar": [
@@ -2929,22 +2929,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-10-14",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "引退する「500系新幹線」の“座席生地”を使ったグッズが10月14日に発売。座椅子やクッションなど全10種が登場",
-   "link": "https://news.denfaminicogamer.jp/news/2610062o",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-10-15",
    "precision": "day",
    "verb": "release",
@@ -5246,7 +5230,7 @@
    "title": "Switch 2版『モンスターハンターワイルズ』序盤体験版が10月20日配信開始！ ローカル通信で最大4人マルチに対応",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9adUxSbnk3dnRWM1UzVnZmYXNGeGFmdXJkR21iWGcxRW5KSVpZRTJ3R3V3QmV4ay16dnYtbTRNekxRdzEtM3dWczlpa2FTVnpKblJfODVCbEVaN2tDLVJTMw?oc=5",
    "source": "AppBank",
-   "sources": 13,
+   "sources": 14,
    "categories": [
     "release",
     "demo"
@@ -5261,7 +5245,7 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "サイバーパンク:エッジランナーズ2",
+   "work": "サイバーパンク: エッジランナーズ2",
    "title": "アニメ『サイバーパンク: エッジランナーズ 2』に小島秀夫監督が出演。有名ブレインダンス監督のヒデヨシ・オオシマ役として",
    "link": "https://news.denfaminicogamer.jp/news/2610192j",
    "source": "電ファミニコゲーマー",
@@ -8955,20 +8939,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-02",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "ディズニー、シュタイフプロデュースの「ダッフィー」を11月2日発売シリアルナンバー付き、限定3,000個で99,000円",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146073.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-03",
    "precision": "day",
    "verb": "launch",
@@ -9257,6 +9227,23 @@
    "source": "Game*Spark",
    "sources": 1,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "GAME GRAPHICS JAM",
+   "title": "インディーゲームの\"グラフィック\"に特化したオンラインイベント『GAME GRAPHICS JAM』が11/7開催決定",
+   "link": "https://prtimes.jp/main/html/rd/p/000000294.000073594.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "event",
+    "indie"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -13118,6 +13105,20 @@
    "spoiler": false
   },
   {
+   "date": "2027-05",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "ドラクエ",
+   "title": "『ドラクエ』カジノ風プレイコイン付きビスケットが2027年5月発売。スライム、竜王、キラーマシンなどデザイン15種。40周年レアはホロ＆金色箔押し仕様",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVFRud0E0UXZIT0N0bnZyZllNZUhHRFVzMk5DV3RSNTRqbG01bDZBdnNfVWRxZjZkWTNOajBaSmRFdUhmQUI1QV9hYVE0Qmc4bUN0bWROaw?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2027-05-21",
    "precision": "day",
    "verb": "event",
@@ -13207,8 +13208,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1136,
-   "accepted": 974
+   "archived": 1138,
+   "accepted": 976
   },
   {
    "id": "gamewatch",
@@ -13226,9 +13227,9 @@
    "name": "Game*Spark",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 50,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1211,
    "accepted": 1196
   },
@@ -13237,9 +13238,9 @@
    "name": "インサイド",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 50,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1427,
    "accepted": 1049
   },
@@ -13284,8 +13285,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 770,
-   "accepted": 614
+   "archived": 771,
+   "accepted": 616
   },
   {
    "id": "gnews-dengeki",
@@ -13295,8 +13296,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 726,
-   "accepted": 362
+   "archived": 727,
+   "accepted": 363
   },
   {
    "id": "gnews-newgame",
@@ -13317,8 +13318,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1084,
-   "accepted": 917
+   "archived": 1088,
+   "accepted": 921
   },
   {
    "id": "gnews-ps5",
@@ -13339,8 +13340,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 400,
-   "accepted": 277
+   "archived": 401,
+   "accepted": 278
   },
   {
    "id": "prtimes",
@@ -13350,8 +13351,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 23401,
-   "accepted": 400
+   "archived": 23429,
+   "accepted": 401
   },
   {
    "id": "gematsu",
@@ -13361,8 +13362,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 336,
-   "accepted": 336
+   "archived": 338,
+   "accepted": 338
   },
   {
    "id": "ign",
@@ -13372,8 +13373,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1132,
-   "accepted": 1132
+   "archived": 1134,
+   "accepted": 1134
   },
   {
    "id": "eurogamer",
@@ -13383,8 +13384,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 301,
-   "accepted": 301
+   "archived": 300,
+   "accepted": 300
   },
   {
    "id": "gamespot",
@@ -13394,8 +13395,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 274,
-   "accepted": 274
+   "archived": 276,
+   "accepted": 276
   },
   {
    "id": "nintendolife",
@@ -13405,8 +13406,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 303,
-   "accepted": 303
+   "archived": 304,
+   "accepted": 304
   },
   {
    "id": "pcgamer",
@@ -13421,6 +13422,294 @@
   }
  ],
  "items": [
+  {
+   "title": "イラストレーターlack氏とKeychronとのコラボレーションキーボードの製品開発プロジェクトが始動。ユーザー参加型アンケートを実施中",
+   "summary": "10月21日、株式会社コペックジャパンは、Keychronとイラストレーターlack氏とのコラボレーションキーボードの製品開発プロジェクトが始動したことを発表した。 同製品は、デザイン性と優れた機能性を高次元で兼ね備えたキーボードを実現すべく、現在製品開発を進めている段階だ。また…",
+   "link": "https://news.denfaminicogamer.jp/news/2610213g",
+   "pubDate": "2026-10-21T13:42:10.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-31-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new",
+    "collab",
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610213g"
+    }
+   ]
+  },
+  {
+   "title": "インディーゲームの\"グラフィック\"に特化したオンラインイベント『GAME GRAPHICS JAM』が11/7開催決定",
+   "summary": "株式会社ボーンデジタル（本社：東京都千代田区、代表取締役：新 和也、URL： GRAPHICS JAM』をオ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000294.000073594.html",
+   "pubDate": "2026-10-21T13:40:02.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GAME GRAPHICS JAM"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000294.000073594.html"
+    }
+   ]
+  },
+  {
+   "title": "Guide: 65 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Screaming Deals' Sale (North America)",
+   "summary": "Every game we scored 9/10 or higher, plus a personal pick. Nintendo is welcoming the spooky season the only way it knows how: with a big old…",
+   "link": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america",
+   "pubDate": "2026-10-21T13:30:00.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://images.nintendolife.com/859160d554fe2/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『サイバーパンク: エッジランナーズ2』のサントラが各音楽サービスにて配信開始。ED曲「Watson」や「You Can’t Run From Me」を含む全8曲を収録",
+   "summary": "今堀恒雄氏が手がける「Original Series Score」も配信され、「Out of Bounds」「Leaving the City」などが各種音楽サービスで聴ける",
+   "link": "https://news.denfaminicogamer.jp/news/2610213h",
+   "pubDate": "2026-10-21T13:29:46.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HVJgVjeaEAA4Xlj-819x1024.jpeg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "サイバーパンク: エッジランナーズ2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610213h"
+    }
+   ]
+  },
+  {
+   "title": "『ドラクエ』カジノ風プレイコイン付きビスケットが2027年5月発売。スライム、竜王、キラーマシンなどデザイン15種。40周年レアはホロ＆金色箔押し仕様",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVFRud0E0UXZIT0N0bnZyZllNZUhHRFVzMk5DV3RSNTRqbG01bDZBdnNfVWRxZjZkWTNOajBaSmRFdUhmQUI1QV9hYVE0Qmc4bUN0bWROaw?oc=5",
+   "pubDate": "2026-10-21T13:29:00.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVFRud0E0UXZIT0N0bnZyZllNZUhHRFVzMk5DV3RSNTRqbG01bDZBdnNfVWRxZjZkWTNOajBaSmRFdUhmQUI1QV9hYVE0Qmc4bUN0bWROaw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "COD: Modern Warfare 4 DMZ players are spawning in the middle of a road and being flattened before they can do anything",
+   "summary": "Infinity Ward opened up early access to Call of Duty: Modern Warfare 4's DMZ extraction mode overnight, meaning anyone who has pre-ordered a…",
+   "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover",
+   "pubDate": "2026-10-21T13:21:37.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover"
+    }
+   ]
+  },
+  {
+   "title": "Pratfall coming to PS5, Xbox Series, and Switch 2",
+   "summary": "Publisher Daedalic Entertainment and developer Quad Head will release cooperative cave digging and falling game …",
+   "link": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2",
+   "pubDate": "2026-10-21T13:05:27.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": null,
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 26,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Game Pass Heading For A Massive Shakeup, Report Says",
+   "summary": "Xbox CEO Asha Sharma is reportedly plotting a \"major overhaul\" of the Xbox Game Pass service, beyond some of the big changes she's made alre…",
+   "link": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/",
+   "pubDate": "2026-10-21T13:04:31.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-4.png?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/"
+    }
+   ]
+  },
+  {
+   "title": "Samsung Galaxy Tab S12 Ultra Australia Launch: Everything You Need to Know, Specs and Local Pricing",
+   "summary": "",
+   "link": "https://www.ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au",
+   "pubDate": "2026-10-21T13:00:00.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/21/samsung-ign-article-1-1792580711557.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au"
+    }
+   ]
+  },
+  {
+   "title": "Prospective Buyers Reportedly Value Xbox As High As $150 Billion",
+   "summary": "Everything has a selling price, and in Xbox's case, Microsoft's gaming division could be worth at least $100 billion. That's according to a…",
+   "link": "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/",
+   "pubDate": "2026-10-21T12:56:23.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Xbox-Game-Studios.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/"
+    }
+   ]
+  },
   {
    "title": "Strange Scaffold's Super Slick Revenge Shooter Is Out Now On Switch 2",
    "summary": "Beast your eyes. Strange Scaffold — the developer behind Teenage Mutant Ninja Turtles: Tactical Takedown, El Paso, Elsewhere, Space Warlord…",
@@ -13474,6 +13763,34 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/dawn-of-war-4-blood-ravens-space-marine-origins-questions"
+    }
+   ]
+  },
+  {
+   "title": "CD Projekt's Cyberpunk 2077 Loremaster Confirms Year Edgerunners 2 Is Set, Sparking Fan Speculation About Canon Endings",
+   "summary": "CD Projekt Red loremaster Patrick Mills has revealed the exact year Cyberpunk: Edgerunners 2 takes place, amid speculation from fans about w…",
+   "link": "https://www.ign.com/articles/edgerunners-season-2-officially-set-after-cyberpunk-2077",
+   "pubDate": "2026-10-21T12:21:38.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/19/cyberpunk-edgerunners-talia-thumb-1792444102039.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/edgerunners-season-2-officially-set-after-cyberpunk-2077"
     }
    ]
   },
@@ -16370,6 +16687,66 @@
    ]
   },
   {
+   "title": "『薬屋のひとりごと（サンデーGX）』最新刊23巻が予約開始。特装版は豪華仕様のポストカードブック付き【猫猫の後宮謎解き手帳】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQXN6Nzl0YVhOVy10ZXBlZkVieVFFRmcwZTkwb0w2b1kxcFZnSjBEcFhPclJUM3IzZEQ3dEJmeWczZUhNd2ZVUVBwVGNGb2dJV0Rkc25uYnhEUQ?oc=5",
+   "pubDate": "2026-10-21T09:13:00.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "薬屋のひとりごと(サンデーGX)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQXN6Nzl0YVhOVy10ZXBlZkVieVFFRmcwZTkwb0w2b1kxcFZnSjBEcFhPclJUM3IzZEQ3dEJmeWczZUhNd2ZVUVBwVGNGb2dJV0Rkc25uYnhEUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
+   "title": "【ゲームネタGP】配信まであと1週間！ マヂカルラブリーや松山洋氏と見届ける、優勝賞金100万円をかけたゲームネタの祭典",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oQ0laUHZsMm5pcmhrYVVjTW15MEMwcXA5MWV4UjJIcTd2MEs4Wlo5SHlpV1A0b2Y2Y0dKSVlkVkhqb21XT1F4UEFoMTZsVmRDWDQtVE9QZw?oc=5",
+   "pubDate": "2026-10-21T09:10:00.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oQ0laUHZsMm5pcmhrYVVjTW15MEMwcXA5MWV4UjJIcTd2MEs4Wlo5SHlpV1A0b2Y2Y0dKSVlkVkhqb21XT1F4UEFoMTZsVmRDWDQtVE9QZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "『FFレゾナンス』明日発売、海外PS5版85点・電撃9点――「SFC時代のRPGの面白さと『FF』っぽさが凝縮」",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ZOEx3M0NmeXltR2VWU3RmdzZhUm4zU1BjWkJJcWtmdTVDSXA5ZWNrTkNnNmt2X2hnYWtjajV2cFRDZFpp?oc=5",
@@ -17079,6 +17456,37 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2150081.html"
+    }
+   ]
+  },
+  {
+   "title": "Arcade Archives Ace Driver Victory Lap launches October 22",
+   "summary": "Arcade Archives 2 Ace Driver Victory Lap will launch for PlayStation 5, Xbox Series, and …",
+   "link": "https://www.gematsu.com/2026/10/arcade-archives-ace-driver-victory-lap-launches-october-22",
+   "pubDate": "2026-10-21T08:15:35.000Z",
+   "firstSeen": "2026-10-21T13:47:55.613Z",
+   "image": null,
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 7,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/arcade-archives-ace-driver-victory-lap-launches-october-22"
     }
    ]
   },
@@ -19566,6 +19974,20 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxalBNVHljWW4xeXgwbjU3R1BYUmdpYmNaUHZEUWo0RDJDQWlLUnRMOGZXNW4tcWVUd2Q3Uk1IM21oaDU5MU1rUzJpdTJ4bDZGd1pxdw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1icXNpUXJyRVNtZFV5M1hPd2xSckNHSEdSMlFnMXVYTmVUMGxrTXU4a2Z3UVAzcHpYbEZYRHQ2T3pwZmduUl80dEpsX2tpYUNESDI2SWl3RmZCMXl0U2o1dVBB?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qdk02Mm5fQlRtRUx1TXBwRlpVb1JhVWpVQ1RGTE1hQng3NXlrenFyajBYX1dYYlh0UGh3VkpQaGNMQlVqYS1BT3ZRT3ZDZko5UmdCVGREV0kxZjQwdUxKZEFZWjNiRUhaclhINGt0UTNlVEp2QjhUS1ZOaw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -23191,6 +23613,12 @@
      "name": "AppBank",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9adUxSbnk3dnRWM1UzVnZmYXNGeGFmdXJkR21iWGcxRW5KSVpZRTJ3R3V3QmV4ay16dnYtbTRNekxRdzEtM3dWczlpa2FTVnpKblJfODVCbEVaN2tDLVJTMw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Real Sound｜リアルサウンド",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OWC1xcEZfWkpyWllPODNVSEZtMjdmS0RkZkhQYUxRazB3UkNJeF9mMk5xOV9GeFpPT2VrMUhYbm1FSWpFNUFSRlQtaGM4ZlV5WEtuTWFkZm84QUxVNHdUc9IBZkFVX3lxTE5XMTRzakVaQ2VORjlVSkNjZExBMGk5RVhlVE53aFl0UjYxaWV1UmhpZkQzUXhHdWxHV09IblA2blhjT0I5bWNDSTUwVU1GaUxMQ0tZUGtzWDM3cnliY0hzTnF4Q1R0Zw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
@@ -36358,7 +36786,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -36530,7 +36958,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -38166,7 +38594,7 @@
    "platforms": [],
    "works": [
     "パルプ・フィクション",
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -40909,7 +41337,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -44368,7 +44796,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -46167,7 +46595,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -46225,7 +46653,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2",
+    "サイバーパンク: エッジランナーズ2",
     "2077"
    ],
    "spoiler": true,
@@ -51231,7 +51659,7 @@
    "platforms": [],
    "works": [
     "ぬるめた",
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -90426,7 +90854,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク:エッジランナーズ2"
+    "サイバーパンク: エッジランナーズ2"
    ],
    "spoiler": false,
    "sources": [
@@ -192252,418 +192680,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/06/188848.html"
-    }
-   ]
-  },
-  {
-   "title": "人気イラストレーター・藤真拓哉氏がキャラデザ・原画を担当する新作アドベンチャーゲーム『ディスディスディスカッション』体験版を本日10月6日より配信",
-   "summary": "舞台作品『ナイゲン』『いざ、生徒総会』などを原作とする学園群像劇。ハチャメチャな議論が巻き起こる青春が開幕",
-   "link": "https://news.denfaminicogamer.jp/news/2610062e",
-   "pubDate": "2026-10-06T08:00:37.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_2b7f2663f040cb3ad5f9fd8b24e017412f4071cb.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ディスディスディスカッション"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610062e"
-    }
-   ]
-  },
-  {
-   "title": "「ダンガンロンパ」超高校級の？？？「霧切響子」フィギュアが再販！台座はモノクマをはじめとする劇中様々な要素満載",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/06/188847.html",
-   "pubDate": "2026-10-06T08:00:03.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/06/188847.html"
-    }
-   ]
-  },
-  {
-   "title": "屁理屈と本音がぶつかる学園群像劇ADV「ディスディスディスカッション」，体験版をSteamで本日配信。物語序盤の一部をプレイできる",
-   "summary": "ブシロードとフロントウイングラボは本日，学園群像劇ADV「ディスディスディスカッション」の体験版をSteamで配信した。舞台作品「ナイゲン」などを原作に，立場の異なる生徒たちが理屈と屁理屈をぶつけ合う青春模様を描く。体験版では物語序盤の一部をプレイできる。",
-   "link": "https://www.4gamer.net/games/047/G104774/20261005043/",
-   "pubDate": "2026-10-06T08:00:00.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/047/G104774/20261005043/"
-    }
-   ]
-  },
-  {
-   "title": "『Call of Duty®: Modern Warfare® 4』の脱出シューターモード“DMZ”の詳細をお届け！",
-   "summary": "『Call of Duty®: Modern Warfare® 4』の発売日10月23日（金）から遊べる脱出シューターモード“DMZ”。作戦の拠点となる前線作戦基地や、3つの出撃オプションをお届け。DMZ XPを獲得するためのヒントもチェック！",
-   "link": "https://blog.ja.playstation.com/2026/10/06/20261006-codmw4-pre-launch-update-o/",
-   "pubDate": "2026-10-06T08:00:00.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": "https://blog.ja.playstation.com/tachyon/sites/7/2026/10/a238832d6e96c0858bf985760520d16ecd81ad22.png",
-   "source": "PlayStation.Blog",
-   "sourceId": "ps-blog",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Call of Duty: Modern Warfare 4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PlayStation.Blog",
-     "sourceId": "ps-blog",
-     "link": "https://blog.ja.playstation.com/2026/10/06/20261006-codmw4-pre-launch-update-o/"
-    }
-   ]
-  },
-  {
-   "title": "『キングダム ハーツ コレクション [I～III]』おすすめのプレイ順は？初代『KH』プレイレポも掲載",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQkVFZFdKM1pNWVpteUFHaF96b3NBSkFKWU9fdU1iUy0ySkdCaUJrSWZzZlRpMjRuRGlpVl96Q2NYU3k5WGU5RnY1VFhtNjIzaVR4S1IySXN1dw?oc=5",
-   "pubDate": "2026-10-06T08:00:00.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "キングダム ハーツ コレクション [I~III]",
-    "KH"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQkVFZFdKM1pNWVpteUFHaF96b3NBSkFKWU9fdU1iUy0ySkdCaUJrSWZzZlRpMjRuRGlpVl96Q2NYU3k5WGU5RnY1VFhtNjIzaVR4S1IySXN1dw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "豪華すぎる面々が集結…！桜井政博氏がゲーム開発者の「アベンジャーズ的な集い」を報告して話題に",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/06/188846.html",
-   "pubDate": "2026-10-06T07:50:02.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/06/188846.html"
-    }
-   ]
-  },
-  {
-   "title": "『デッドアカウント』のローグライトRPGは開発者いわく「毎日の周回は短く、攻略は奥深く」。「電能」が導き出した、原作要素とリプレイ性の華麗なる融合",
-   "summary": "『デッドアカウント～二つの蒼い炎～』のプロジェクトディレクターを務めるキム・ビョンギ氏へのインタビューを実施。先行体験テストにおけるユーザーの反応や、原作とローグライト要素における結びつきなどを訊いた。",
-   "link": "https://automaton-media.com/articles/interviewsjp/dead-account-20261006-471913/",
-   "pubDate": "2026-10-06T07:47:07.000Z",
-   "firstSeen": "2026-10-06T07:47:54.689Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/image-7.jpeg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "デッドアカウント"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/interviewsjp/dead-account-20261006-471913/"
-    }
-   ]
-  },
-  {
-   "title": "広告によく出てくる“計算ゲート”が，本気の数学になって帰ってきた。自機の性能を数式でビルドする弾幕シューティング「MAaaaaTH!」をプレイ［OIGS 2026］",
-   "summary": "OIGS2026に，GentleGimmickGamesの弾幕シューティング「MAaaaaTH!」が出展された。スマートフォン向け広告でおなじみの“計算ゲート”を，対数やルートまで飛び出す本気の数学にしてしまった作品だ。自機の性能をすべて数式で組み立てる，ひとクセある弾幕シューテ…",
-   "link": "https://www.4gamer.net/games/013/G101328/20261006016/",
-   "pubDate": "2026-10-06T07:45:16.000Z",
-   "firstSeen": "2026-10-06T07:47:54.689Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/013/G101328/20261006016/"
-    }
-   ]
-  },
-  {
-   "title": "HD-2D風RPG『火の言伝』デモ版Steam配信開始！製作者の癖が詰まった、2組主人公が交差するレベルなし戦略コマンドバトルを味わえる",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/06/173222.html",
-   "pubDate": "2026-10-06T07:45:02.000Z",
-   "firstSeen": "2026-10-06T07:47:54.689Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "火の言伝"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/06/173222.html"
-    }
-   ]
-  },
-  {
-   "title": "劇場版「まどか☆マギカ〈ワルプルギスの廻天〉」 新しい魔法少女衣装の「暁美ほむら」「巴マミ」ノンスケールフィギュアが予約開始！",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/06/188845.html",
-   "pubDate": "2026-10-06T07:45:02.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release",
-    "media",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "まどか☆マギカ〈ワルプルギスの廻天〉"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/06/188845.html"
-    }
-   ]
-  },
-  {
-   "title": "引退する「500系新幹線」の“座席生地”を使ったグッズが10月14日に発売。座椅子やクッションなど全10種が登場",
-   "summary": "張り替え用に保管されていた「新品未使用」の生地を活用し、座席の風合いや質感を日常でも楽しめる。通販サイトやJR西日本の駅ナカ店舗などで販売",
-   "link": "https://news.denfaminicogamer.jp/news/2610062o",
-   "pubDate": "2026-10-06T07:42:00.000Z",
-   "firstSeen": "2026-10-06T07:47:54.689Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-8-1024x552.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610062o"
-    }
-   ]
-  },
-  {
-   "title": "ディズニー、シュタイフプロデュースの「ダッフィー」を11月2日発売シリアルナンバー付き、限定3,000個で99,000円",
-   "summary": "東京ディズニーシーは、開園25周年を記念したシュタイフ プロデュースのダッフィーのぬいぐるみを11月2日に発売する。価格は99,000円。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146073.html",
-   "pubDate": "2026-10-06T07:41:10.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146073.html"
-    }
-   ]
-  },
-  {
-   "title": "App Storeへ申請するアプリやゲーム、iPhone Duo用スクリーンショットが必要に。2027年4月以降申請のアプリが対象",
-   "summary": "公式開発ツールやプレビューツールでは、iPhone Duoの折り方や向きに応じたアプリの挙動を視覚的に確認できるようになる",
-   "link": "https://news.denfaminicogamer.jp/news/2610062l",
-   "pubDate": "2026-10-06T07:40:55.000Z",
-   "firstSeen": "2026-10-06T07:47:54.689Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/imgi_13_hero__dbnzxlb3ia2q_large.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "mobile",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610062l"
-    }
-   ]
-  },
-  {
-   "title": "The Marvel Legends Daredevil: Born Again Mask Is on Sale Just In Time for Halloween",
-   "summary": "",
-   "link": "https://www.ign.com/articles/marvel-legends-daredevil-born-again-mask-and-clubs-sale-prime-big-deal-days-2026",
-   "pubDate": "2026-10-06T07:40:00.000Z",
-   "firstSeen": "2026-10-06T08:48:03.025Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/06/marvel-legends-mask-1791264423263.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/marvel-legends-daredevil-born-again-mask-and-clubs-sale-prime-big-deal-days-2026"
     }
    ]
   }
