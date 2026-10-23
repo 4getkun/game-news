@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T20:48:13.145Z",
+ "generatedAt": "2026-10-23T21:52:23.886Z",
  "count": 6000,
  "dedupe": {
   "exact": 1093,
@@ -10328,6 +10328,23 @@
    "spoiler": false
   },
   {
+   "date": "2026-11-25",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Dead by Daylight",
+   "title": "『Dead by Daylight』DLC「チャッキー」11月25日配信終了へ。近日中にラストチャンスセールを実施予定",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174024.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "update",
+    "sale"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2026-11-26",
    "precision": "day",
    "verb": "launch",
@@ -12942,8 +12959,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1325,
-   "accepted": 1310
+   "archived": 1327,
+   "accepted": 1312
   },
   {
    "id": "inside-games",
@@ -12953,8 +12970,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1541,
-   "accepted": 1133
+   "archived": 1543,
+   "accepted": 1135
   },
   {
    "id": "ps-blog",
@@ -12994,9 +13011,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 822,
    "accepted": 659
   },
@@ -13005,10 +13022,10 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 765,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 764,
    "accepted": 391
   },
   {
@@ -13016,9 +13033,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 487,
    "accepted": 459
   },
@@ -13027,9 +13044,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1221,
    "accepted": 1033
   },
@@ -13038,9 +13055,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 633,
    "accepted": 577
   },
@@ -13049,9 +13066,9 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 429,
    "accepted": 306
   },
@@ -13063,7 +13080,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25744,
+   "archived": 25746,
    "accepted": 445
   },
   {
@@ -13085,8 +13102,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1274,
-   "accepted": 1274
+   "archived": 1276,
+   "accepted": 1276
   },
   {
    "id": "eurogamer",
@@ -13107,8 +13124,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 309,
-   "accepted": 309
+   "archived": 308,
+   "accepted": 308
   },
   {
    "id": "nintendolife",
@@ -13129,11 +13146,210 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 638,
-   "accepted": 638
+   "archived": 637,
+   "accepted": 637
   }
  ],
  "items": [
+  {
+   "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+   "summary": "Too easy, too hard, or just right?",
+   "link": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+   "pubDate": "2026-10-23T21:43:44.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/m9jozBeHDcZQTCMZLJkNLd-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/"
+    }
+   ]
+  },
+  {
+   "title": "水底をさらって金を集めるシミュレーションゲーム『Gold Dredge Simulator』発表！オンボロ船を復活させて砂金集めを始めよう",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174025.html",
+   "pubDate": "2026-10-23T21:30:03.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Gold Dredge Simulator"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/24/174025.html"
+    }
+   ]
+  },
+  {
+   "title": "おっきな刺繍のハンギョドンが可愛すぎ！アベイルで「ハンギョドン」グッズが発売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189730.html",
+   "pubDate": "2026-10-23T21:30:03.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189730.html"
+    }
+   ]
+  },
+  {
+   "title": "『Dead by Daylight』DLC「チャッキー」11月25日配信終了へ。近日中にラストチャンスセールを実施予定",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174024.html",
+   "pubDate": "2026-10-23T21:00:03.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "update",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "Dead by Daylight"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/24/174024.html"
+    }
+   ]
+  },
+  {
+   "title": "“夢の杖”を手に宙へと舞い上がる！アニメ「カードキャプターさくら クリアカード編」より、「木之本桜」がフィギュア化",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189729.html",
+   "pubDate": "2026-10-23T21:00:03.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189729.html"
+    }
+   ]
+  },
+  {
+   "title": "Amazon Has a Genuine Forged Damascus Steel Pocket Knife for Less Than $27 Ahead of Black Friday",
+   "summary": "",
+   "link": "https://www.ign.com/articles/damascus-steel-pocket-knife-deal-october-2026",
+   "pubDate": "2026-10-23T20:30:00.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/23/cvlifepocketknife-1792786901984.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/damascus-steel-pocket-knife-deal-october-2026"
+    }
+   ]
+  },
+  {
+   "title": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
+   "summary": "Valve has released a list of the 20 most-played Steam Next Fest demos so far, with the event running through this weekend and concluding thr…",
+   "link": "https://www.ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles",
+   "pubDate": "2026-10-23T20:20:41.000Z",
+   "firstSeen": "2026-10-23T21:52:03.487Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/23/aac-1792785830454.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles"
+    }
+   ]
+  },
   {
    "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
    "summary": "Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina…",
@@ -192185,209 +192401,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/hardware/gaming-laptops/microsoft-seems-very-excited-about-its-new-magnetic-usb-type-c-charger-for-the-surface-laptop-ultra-but-it-dont-impress-me-much/"
-    }
-   ]
-  },
-  {
-   "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-   "summary": "GTA 6 will let you listen to radio stations while not in a car, by wearing headphones and earbuds connected to smartphones. GTA 6 also intro…",
-   "link": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-   "pubDate": "2026-10-08T15:07:42.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】ポータブルブルーレイプレーヤーがお買い得！ ブルーレイやDVDを外でも見られる",
-   "summary": "Amazonにて、FaCLOSSのポータブルブルーレイプレーヤー3点が特別価格で販売されている。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146874.html",
-   "pubDate": "2026-10-08T15:05:00.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146874.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】BenQ「MOBIUZ」のゲーミングモニターがお買い得！4K・ミニLED採用モデルも",
-   "summary": "AmazonにてBenQ製ゲーミングモニターのセールが行なわれている。期間は10月19日23時59分まで。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146872.html",
-   "pubDate": "2026-10-08T15:05:00.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146872.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】レグザのゲーミングモニター（27/23.8インチ）がお買い得価格で登場",
-   "summary": "REGZA（レグザ）のゲーミングモニターがAmazonにてセール価格で販売されている。期間は10月21日23時59分まで。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146870.html",
-   "pubDate": "2026-10-08T15:05:00.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146870.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】ASUS・ROGのゲーミングキーボードなどがセールで登場",
-   "summary": "Amazonにて、ROGのゲーミングデバイスが特別価格で販売されている。期間は10月22日23時59分まで。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146819.html",
-   "pubDate": "2026-10-08T15:05:00.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146819.html"
-    }
-   ]
-  },
-  {
-   "title": "【3,350円→0円】一人称と二人称視点によるホラーADV『Out of Sight』＆中世街づくりパズル『TerraScape』Epic Gamesストアにて10月15日まで無料配布",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173370.html",
-   "pubDate": "2026-10-08T15:03:32.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "epic"
-    ],
-    "off": null,
-    "free": true
-   },
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Out of Sight",
-    "TerraScape"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173370.html"
-    }
-   ]
-  },
-  {
-   "title": "『GTA6』は徒歩でもラジオが聴ける。ヘッドホンやイヤホンをスマホに接続し、シリーズ史上最大のラインナップを楽しめる",
-   "summary": "バイスシティでおなじみの「Flash FM」など6局の情報が公開され、公式サイトで試聴も可能に。ポッドキャストもシリーズ初導入",
-   "link": "https://news.denfaminicogamer.jp/news/2610083e",
-   "pubDate": "2026-10-08T15:01:30.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/365fb2f8af9e4263284a4dc2c6671e36a2480ba4-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "GTA6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610083e"
     }
    ]
   }
