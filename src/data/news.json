@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-23T17:30:02.141Z",
+ "generatedAt": "2026-10-23T17:48:44.324Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1092,
+  "exact": 1093,
   "syndicated": 87,
   "similar": 331,
-  "syndicatedTotal": 348,
+  "syndicatedTotal": 349,
   "syndicatedLeft": 32
  },
  "calendar": [
@@ -12977,9 +12977,9 @@
    "name": "Game*Spark",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 50,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 1325,
    "accepted": 1310
   },
@@ -13035,8 +13035,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 823,
-   "accepted": 660
+   "archived": 824,
+   "accepted": 661
   },
   {
    "id": "gnews-dengeki",
@@ -13068,8 +13068,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1222,
-   "accepted": 1034
+   "archived": 1221,
+   "accepted": 1033
   },
   {
    "id": "gnews-ps5",
@@ -13090,8 +13090,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 426,
-   "accepted": 304
+   "archived": 427,
+   "accepted": 305
   },
   {
    "id": "prtimes",
@@ -13172,6 +13172,32 @@
   }
  ],
  "items": [
+  {
+   "title": "The Next Mass Effect Sounded Like John Wick In Space",
+   "summary": "After news broke that EA would be shutting down BioWare, more details on the studio's in-development Mass Effect have begun to trickle out.…",
+   "link": "https://www.gamespot.com/articles/the-next-mass-effect-sounded-like-john-wick-in-space/",
+   "pubDate": "2026-10-23T17:31:41.000Z",
+   "firstSeen": "2026-10-23T17:48:31.201Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Mass-Wick.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/the-next-mass-effect-sounded-like-john-wick-in-space/"
+    }
+   ]
+  },
   {
    "title": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
    "summary": "After EA's sudden shutdown of developer BioWare, upcoming crossover items themed around Mass Effect appear to have been removed from Battlef…",
@@ -13770,6 +13796,13 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/24/174021.html"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KX1dELXJwYWRGUXBkNG5pWFZWbC1xcTl5SW9naG12LXhMSTAtODA1anpCVG51N0NSc0k1U29TRk82Yy1vYm01R0ZLd1lBMHNhNk9sd2k2elhXMDZyTXlqZ2sxNXF1NjFVQTR5WHpn?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
     }
    ]
   },
@@ -25122,7 +25155,7 @@
    "firstSeen": "2026-10-23T01:47:37.569Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -25139,9 +25172,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzbEFBc1dTODA1elFJTVlqR0wydXhsSVhUbzg4V05sWThXZHdVUkNFNUotWWZrbUstaEZxRTVFLXpXZWNlNmlJUkVBU0tvX1haY0EzNmxTSQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192394,34 +192427,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/sim/im-intrigued-by-this-political-sim-that-puts-you-smack-dab-in-germany-at-the-end-of-world-war-1/"
-    }
-   ]
-  },
-  {
-   "title": "Two Point Museum x Little Kitty, Big City collaboration update now available",
-   "summary": "Publisher SEGA and developer Two Point Studios have released a free update for Two Point …",
-   "link": "https://www.gematsu.com/2026/10/two-point-museum-x-little-kitty-big-city-collaboration-update-now-available",
-   "pubDate": "2026-10-08T14:23:55.000Z",
-   "firstSeen": "2026-10-08T14:47:51.432Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Two-Point-Museum-LKBC_10-08-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/two-point-museum-x-little-kitty-big-city-collaboration-update-now-available"
     }
    ]
   }
