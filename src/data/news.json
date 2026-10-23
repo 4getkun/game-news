@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-23T21:52:23.886Z",
+ "generatedAt": "2026-10-23T22:47:55.017Z",
  "count": 6000,
  "dedupe": {
   "exact": 1093,
   "syndicated": 87,
-  "similar": 331,
+  "similar": 330,
   "syndicatedTotal": 349,
   "syndicatedLeft": 32
  },
@@ -12937,8 +12937,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1262,
-   "accepted": 1085
+   "archived": 1263,
+   "accepted": 1086
   },
   {
    "id": "gamewatch",
@@ -12959,8 +12959,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1327,
-   "accepted": 1312
+   "archived": 1329,
+   "accepted": 1314
   },
   {
    "id": "inside-games",
@@ -12970,8 +12970,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1543,
-   "accepted": 1135
+   "archived": 1546,
+   "accepted": 1137
   },
   {
    "id": "ps-blog",
@@ -13011,31 +13011,31 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 822,
-   "accepted": 659
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 820,
+   "accepted": 657
   },
   {
    "id": "gnews-dengeki",
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 764,
-   "accepted": 391
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 765,
+   "accepted": 392
   },
   {
    "id": "gnews-newgame",
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
    "archived": 487,
    "accepted": 459
   },
@@ -13044,33 +13044,33 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 1221,
-   "accepted": 1033
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 1219,
+   "accepted": 1031
   },
   {
    "id": "gnews-ps5",
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 633,
-   "accepted": 577
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 635,
+   "accepted": 579
   },
   {
    "id": "gnews-update",
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 429,
-   "accepted": 306
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 430,
+   "accepted": 307
   },
   {
    "id": "prtimes",
@@ -13102,8 +13102,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1276,
-   "accepted": 1276
+   "archived": 1277,
+   "accepted": 1277
   },
   {
    "id": "eurogamer",
@@ -13151,6 +13151,214 @@
   }
  ],
  "items": [
+  {
+   "title": "アベイル限定「ハローキティ」誕生日お祝いグッズが発売！日焼けアニマルアートなどさまざま、「サンリオキャラクターズ」新作アイテムも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189732.html",
+   "pubDate": "2026-10-23T22:30:03.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189732.html"
+    }
+   ]
+  },
+  {
+   "title": "癒し系サバイバルシム『Under Canopies』早期アクセス開始！戦闘も危険もない大自然でのんびり暮らす",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174027.html",
+   "pubDate": "2026-10-23T22:30:02.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Under Canopies"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/24/174027.html"
+    }
+   ]
+  },
+  {
+   "title": "ミッキーのスタジャンがカワイイ！アベイルで「ディズニー」グッズが発売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189731.html",
+   "pubDate": "2026-10-23T22:15:03.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189731.html"
+    }
+   ]
+  },
+  {
+   "title": "PC版『メトロ2033 リダックス』『メトロ ラストライト リダックス』に最新世代対応アップデート配信！ コンソール版は来週配信",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174026.html",
+   "pubDate": "2026-10-23T22:00:03.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "メトロ2033 リダックス",
+    "メトロ ラストライト リダックス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/24/174026.html"
+    }
+   ]
+  },
+  {
+   "title": "『ロマサガ2 リベンジオブザセブン』が発売された日。七英雄との長き戦いを描くRPGのフルリメイク作は世代を超えた復讐劇。自身の分身となるキャラクターの思わぬ登場に歓喜した【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wczNZRS1NQWI0OTJOYVBXVC1EUzZzTTk5dlVReXhGenZZTVJYZ0hrTlVzVk9qTU9SdWlscnEzUVM5OURSa0VIQjA1RC1FcFhFVzR2SFUzMA?oc=5",
+   "pubDate": "2026-10-23T22:00:00.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロマサガ2 リベンジオブザセブン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wczNZRS1NQWI0OTJOYVBXVC1EUzZzTTk5dlVReXhGenZZTVJYZ0hrTlVzVk9qTU9SdWlscnEzUVM5OURSa0VIQjA1RC1FcFhFVzR2SFUzMA?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
+   "summary": "The more I hear about what BioWare had cooking, the more pissed off I am that we're never going to get it.",
+   "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+   "pubDate": "2026-10-23T21:58:50.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/Crt9MrXnRKTkx7PBjmUocT-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/"
+    }
+   ]
+  },
+  {
+   "title": "稼いだ“金”で装備を買う傭兵サバイバルFPS『グレーゾーン・ウォーフェア』に「密輸」をテーマにした大型アップデートが配信開始。専用の拠点で医療物資の製造や薬物の生産、特殊装備をクラフト可能に",
+   "summary": "専用の拠点で医療物資の製造や薬物の生産、特殊装備をクラフト可能に。廃墟と化した軍事研究施設、電波観測所といった大型ロケーションも追加",
+   "link": "https://news.denfaminicogamer.jp/news/261024c",
+   "pubDate": "2026-10-23T21:52:47.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-41-1024x587.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "グレーゾーン・ウォーフェア"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261024c"
+    }
+   ]
+  },
   {
    "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
    "summary": "Too easy, too hard, or just right?",
@@ -13230,6 +13438,32 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/24/189730.html"
+    }
+   ]
+  },
+  {
+   "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
+   "summary": "Mass Effect fans are calling for a boycott of all EA products and services in protest of the company closing down BioWare and canceling the…",
+   "link": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
+   "pubDate": "2026-10-23T21:03:56.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": "https://assets-prd.ignimgs.com/2025/11/07/mass-effect-legendary-edition-liara-1762534445971.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures"
     }
    ]
   },
@@ -16453,6 +16687,39 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2610233d"
+    }
+   ]
+  },
+  {
+   "title": "『ペルソナ』30周年記念の主人公缶バッジシリーズが大量ランクイン！ 『NIKKE』グッズ付きファミ通も大注目のTOP10【先週の人気商品ランキングTOP10／エビテン】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVFVOcGRrREg2OGxLT09saGo3M0Y1Q2VscGJSZ3BhODFnTVBNbFlSRDlmUk1qMmNWYkk2dmRIQlFkUi1pb3VUblVlekJnSnUyTzdxemswVGJYdw?oc=5",
+   "pubDate": "2026-10-23T12:25:00.000Z",
+   "firstSeen": "2026-10-23T22:47:34.234Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "collab",
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ペルソナ",
+    "NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVFVOcGRrREg2OGxLT09saGo3M0Y1Q2VscGJSZ3BhODFnTVBNbFlSRDlmUk1qMmNWYkk2dmRIQlFkUi1pb3VUblVlekJnSnUyTzdxemswVGJYdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -20555,7 +20822,7 @@
    "firstSeen": "2026-10-23T11:47:37.234Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -20572,9 +20839,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lTFI0dzk3eHdqNDI1Zk9RME4ycGJlb25nc3VXakM3SlI4MVdsanljQkVBN1RJcFhCMi1PUENyUksxTXA2WDVHYldEaGNhTVVCTm1XQlNUcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -30858,7 +31125,7 @@
    "firstSeen": "2026-10-22T13:47:37.069Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30876,9 +31143,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aNjJxbU1UYXJYZHUxZkNxOHdHcWdxTDdHUVdSUkhIM3FTakV5aFZoN0dJZWRKcnc4SlJyemZsN2dya0M2cGJJMGlyblVUVS1ndUxQd3dZUQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -35410,7 +35677,7 @@
    "firstSeen": "2026-10-22T08:47:32.910Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -35425,9 +35692,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RS2VnSFJSTFIyMFpMVWg2YmNac0dOd1kzM2hEaXktamlZWjkwZVMxNXRPOThMZWVpMkZOMUp6THc5NVFrdk1sVTZiZG9hYW53WnZULWFKaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -54962,7 +55229,7 @@
    "firstSeen": "2026-10-21T04:47:37.208Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -54982,9 +55249,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDUC1vUmhKeG5Lcmhkd3ZNbWhLNFg5VVFpRFBRQlNNN1owNTdjRzhZdkdwc0ZMNmU4RkFZOVhUd0VpZ1NwRjBYbkZnclFfdjZWOW14WFJhQQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192142,265 +192409,6 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1"
-    }
-   ]
-  },
-  {
-   "title": "Best Buy Wants To Travel Back To 1998 With Zelda: Ocarina Of Time Midnight Launch",
-   "summary": "Back almost three decades ago, digital storefronts didn't exist for home consoles. So when The Legend of Zelda: Ocarina of Time originally l…",
-   "link": "https://www.gamespot.com/articles/best-buy-wants-to-travel-back-to-1998-with-zelda-ocarina-of-time-midnight-launch/",
-   "pubDate": "2026-10-08T15:45:07.000Z",
-   "firstSeen": "2026-10-08T16:47:50.531Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/0b9ca24526fc399ba297a38fe4ef67307acb15b597520858e7db19b86488810c.jpeg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/best-buy-wants-to-travel-back-to-1998-with-zelda-ocarina-of-time-midnight-launch/"
-    }
-   ]
-  },
-  {
-   "title": "Girls und Panzer: All-Star Tank Carnival announced for Switch 2",
-   "summary": "D3 Publisher has announced Girls und Panzer: All-Star Tank Carnival, a new tank battle action …",
-   "link": "https://www.gematsu.com/2026/10/girls-und-panzer-all-star-tank-carnival-announced-for-switch-2",
-   "pubDate": "2026-10-08T15:42:22.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Girls-und-Panzer-Switch-2-Ann_10-08-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/girls-und-panzer-all-star-tank-carnival-announced-for-switch-2"
-    }
-   ]
-  },
-  {
-   "title": "『ドラゴンズドグマ 2：ダークアリズン』＆。『CoD: MW4』対応！NVIDIA最新ドライバー「617.42」配信",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173371.html",
-   "pubDate": "2026-10-08T15:30:03.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラゴンズドグマ 2:ダークアリズン",
-    "CoD: MW4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173371.html"
-    }
-   ]
-  },
-  {
-   "title": "【The Triple-i Initiative 10月】発表まとめ。『マシナリウム2』『エスケーピスト3』などの新作や『デイヴ・ザ・ダイバー』×『サブノーティカ2』コラボなどが発表",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FLVBCc0h4VUNnMUVTTlB4VVRlYUpKN0tTZHZEUWs1ZUo5VHc0LTBQOG1HYll0Tk8yUl9CbEtpOU5XZEl5eUlXbGtlV3BVUXg3VkpTT21xcw?oc=5",
-   "pubDate": "2026-10-08T15:30:00.000Z",
-   "firstSeen": "2026-10-08T22:30:21.040Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マシナリウム2",
-    "エスケーピスト3",
-    "デイヴ・ザ・ダイバー",
-    "サブノーティカ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FLVBCc0h4VUNnMUVTTlB4VVRlYUpKN0tTZHZEUWs1ZUo5VHc0LTBQOG1HYll0Tk8yUl9CbEtpOU5XZEl5eUlXbGtlV3BVUXg3VkpTT21xcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month",
-   "summary": "Riot Games has released a final gameplay trailer for 2XKO, its short-lived fighting game set to be sunsetted later this year. The game is go…",
-   "link": "https://www.eurogamer.net/2xko-sett-announcement-final-update",
-   "pubDate": "2026-10-08T15:25:05.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": "https://assetsio.gnwcdn.com/2xko-sett-chair.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/2xko-sett-announcement-final-update"
-    }
-   ]
-  },
-  {
-   "title": "How to complete Boarding the Frigate in Arc Raiders",
-   "summary": "Find a way onto the flying Arc Frigate.",
-   "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-boarding-the-frigate-walkthrough/",
-   "pubDate": "2026-10-08T15:24:27.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/XuaoN8EiMAdWCkK3m4dyPb-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-boarding-the-frigate-walkthrough/"
-    }
-   ]
-  },
-  {
-   "title": "「atmos」×「PERSONA Memoria」がコラボ！『ペルソナ』歴代主人公勢ぞろいの限定Tシャツが発売",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/188975.html",
-   "pubDate": "2026-10-08T15:20:03.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ペルソナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188975.html"
-    }
-   ]
-  },
-  {
-   "title": "Tekken 8’s Reina Teased as the Next Guest Character for Fatal Fury: City of the Wolves",
-   "summary": "Reina, who made her debut in Tekken 8, is coming to Fatal Fury: City of the Wolves. The announcement comes from a short teaser trailer from…",
-   "link": "https://www.ign.com/articles/tekken-8-reina-teased-fatal-fury-city-of-the-wolves",
-   "pubDate": "2026-10-08T15:18:31.000Z",
-   "firstSeen": "2026-10-08T16:47:50.531Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/08/reina-1791472008230.webp",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 1,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/tekken-8-reina-teased-fatal-fury-city-of-the-wolves"
-    }
-   ]
-  },
-  {
-   "title": "Microsoft seems very excited about its new magnetic USB Type-C charger for the Surface Laptop Ultra, but it don't impress me much",
-   "summary": "Not sure I'm feeling a connection, to be honest.",
-   "link": "https://www.pcgamer.com/hardware/gaming-laptops/microsoft-seems-very-excited-about-its-new-magnetic-usb-type-c-charger-for-the-surface-laptop-ultra-but-it-dont-impress-me-much/",
-   "pubDate": "2026-10-08T15:13:03.000Z",
-   "firstSeen": "2026-10-08T15:47:49.745Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/AruChMtFzwomeDv2Azoo4G-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/gaming-laptops/microsoft-seems-very-excited-about-its-new-magnetic-usb-type-c-charger-for-the-surface-laptop-ultra-but-it-dont-impress-me-much/"
     }
    ]
   }
