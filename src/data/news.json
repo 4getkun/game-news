@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-24T13:47:56.951Z",
+ "generatedAt": "2026-10-24T14:47:55.317Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1092,
+  "exact": 1093,
   "syndicated": 86,
   "similar": 311,
-  "syndicatedTotal": 350,
-  "syndicatedLeft": 32
+  "syndicatedTotal": 351,
+  "syndicatedLeft": 33
  },
  "calendar": [
   {
@@ -6508,6 +6508,22 @@
   {
    "date": "2026-10-26",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "【ウマ娘】新ウマ娘“ウインマリリン”が発表、新育成シナリオは10/26から開幕！ 最大80連のガチャ無料キャンペーンが開催",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5MGZHdzZUYnBkYmh3ZnR4MVR5T1JWa2RrckdjYUZkTHkwbENKUUhhVDBPS19NUFFOQnRqQy1wVmJVaW9FaHBiaVlrdXhaT2ZoeEoxOFJwaVNadw?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [
+    "mobile"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-26",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "MIMESIS",
@@ -6597,6 +6613,22 @@
    "source": "電撃オンライン",
    "sources": 1,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-27",
+   "precision": "day",
+   "verb": "update",
+   "label": "アップデート",
+   "work": null,
+   "title": "2XKOのロスターが完結:SettとSamiraが10月27日、最後の大型アップデートで登場",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yNUdtSlZFcDBMRVRGTklCNUZFei13eDZFVmhsMjhzS0VIWVVERWdKQW5kZkRiNE1weTNQdkhrYmV5RGM4UjRlY3Y0ZXJsdmpGcHV3bmpUNEUzbExMUkxhNm01cGgxaFlVWWg0?oc=5",
+   "source": "Gamereactor",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -11850,25 +11882,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-01-26",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "PS5「Forza Horizon 6」、満を持して2027年1月26日発売1つ目の有料拡張コンテンツも全プラットフォーム向けに同時リリース",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146966.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "platforms": [
-    "ps5"
-   ],
-   "spoiler": false
-  },
-  {
    "date": "2027-01-27",
    "precision": "day",
    "verb": "release",
@@ -12688,8 +12701,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 223,
-   "accepted": 212
+   "archived": 222,
+   "accepted": 211
   },
   {
    "id": "automaton",
@@ -12699,8 +12712,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 567,
-   "accepted": 562
+   "archived": 566,
+   "accepted": 561
   },
   {
    "id": "denfaminico",
@@ -12732,8 +12745,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1325,
-   "accepted": 1310
+   "archived": 1322,
+   "accepted": 1307
   },
   {
    "id": "inside-games",
@@ -12743,8 +12756,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1553,
-   "accepted": 1143
+   "archived": 1557,
+   "accepted": 1147
   },
   {
    "id": "ps-blog",
@@ -12798,8 +12811,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 754,
-   "accepted": 386
+   "archived": 756,
+   "accepted": 387
   },
   {
    "id": "gnews-newgame",
@@ -12809,8 +12822,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 477,
-   "accepted": 451
+   "archived": 476,
+   "accepted": 450
   },
   {
    "id": "gnews-switch2",
@@ -12820,8 +12833,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1190,
-   "accepted": 1006
+   "archived": 1191,
+   "accepted": 1007
   },
   {
    "id": "gnews-ps5",
@@ -12831,8 +12844,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 608,
-   "accepted": 556
+   "archived": 607,
+   "accepted": 555
   },
   {
    "id": "gnews-update",
@@ -12842,8 +12855,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 429,
-   "accepted": 311
+   "archived": 430,
+   "accepted": 312
   },
   {
    "id": "prtimes",
@@ -12864,8 +12877,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 360,
-   "accepted": 360
+   "archived": 356,
+   "accepted": 356
   },
   {
    "id": "ign",
@@ -12886,8 +12899,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 293,
-   "accepted": 293
+   "archived": 294,
+   "accepted": 294
   },
   {
    "id": "gamespot",
@@ -12908,8 +12921,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 318,
-   "accepted": 318
+   "archived": 317,
+   "accepted": 317
   },
   {
    "id": "pcgamer",
@@ -12924,6 +12937,234 @@
   }
  ],
  "items": [
+  {
+   "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
+   "summary": "Refund offered for players who \"still feel betrayed\" over AI use in Future? No Thanks!",
+   "link": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
+   "pubDate": "2026-10-24T14:30:20.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/J2SZTYU49FSR6FCXmQ3dv9-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "I drank from the chalice of blood"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/"
+    }
+   ]
+  },
+  {
+   "title": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+   "summary": "A content creator who claims to have served on a BioWare community council has shared alleged details about the cancelled next Mass Effect g…",
+   "link": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+   "pubDate": "2026-10-24T14:26:27.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims"
+    }
+   ]
+  },
+  {
+   "title": "『ウマ娘』新キャラは“明治時代の馬”が元ネタ！？新たなNPC「吾妻」や、育成シナリオ「駿大祭編」のゲームシステムが公開",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189767.html",
+   "pubDate": "2026-10-24T14:15:03.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウマ娘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189767.html"
+    }
+   ]
+  },
+  {
+   "title": "“バナナ”になってただ静かに過ごすゲーム『バナナライフシム』がSteamで配信開始。その場でまったりするバナナ（？）を忠実に再現し、森の美しさを眺められる",
+   "summary": "その場でまったりするバナナ（？）を忠実に再現し、森の美しさを眺められる。「バナナだけじゃない」何かもあるらしい",
+   "link": "https://news.denfaminicogamer.jp/news/261024v",
+   "pubDate": "2026-10-24T14:11:30.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_cd065bb3fbd05ac249849b790aa1e508807a46c7.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "バナナライフシム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261024v"
+    }
+   ]
+  },
+  {
+   "title": "定価は約6万円 小4男子「Switch 2が欲しい」 ⇒ その結果…〝素敵な方法〟で無事ゲット 賞賛の声が続々「エライ！」「こういう経験って本当大事」（西日本新聞me）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SMnNkQ1Z4dUEzcmxsVTFlVEo0UHV3YmpZNlNIeEhPWG5sLTJzUHJoeE1LMHlCY0g5ZlFnQ1piTmsyR1R4ajBHOGRuMDRwT0JYN3R5OFRsWE5XOE9rUm5Objg3ZTB1VmlUVG9jN2oyRS1JWEZla1JjeHg0THlFdXc?oc=5",
+   "pubDate": "2026-10-24T14:00:23.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": null,
+   "source": "西日本新聞me（Yahoo!ニュース）",
+   "sourceId": "gnews-switch2",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "西日本新聞me（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SMnNkQ1Z4dUEzcmxsVTFlVEo0UHV3YmpZNlNIeEhPWG5sLTJzUHJoeE1LMHlCY0g5ZlFnQ1piTmsyR1R4ajBHOGRuMDRwT0JYN3R5OFRsWE5XOE9rUm5Objg3ZTB1VmlUVG9jN2oyRS1JWEZla1JjeHg0THlFdXc?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』ベロータはいいよね、SSR化されて……いまだ昇格していないSRニケは誰？ そして、別バージョン・新コスに恵まれない“不遇”な初期SSRニケも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189766.html",
+   "pubDate": "2026-10-24T14:00:03.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189766.html"
+    }
+   ]
+  },
+  {
+   "title": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
+   "summary": "\"The [Mass Effect] and [Dragon Age] games were a literal inspiration.\"",
+   "link": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
+   "pubDate": "2026-10-24T14:00:00.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/w7WrWeEQuJfAzUrJLKWHhd-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/"
+    }
+   ]
+  },
+  {
+   "title": "SpiralAI、「AIライザ」開発から生まれた「SpiralLLM」提供開始―専門AIを束ねる“AIゲームマスター”で世界観とゲーム性を両立",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189765.html",
+   "pubDate": "2026-10-24T13:45:03.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189765.html"
+    }
+   ]
+  },
   {
    "title": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January",
    "summary": "Prime Video's Fallout reality competition, Fallout Shelter: The Experiment, will premiere on 13th January 2027. Read more",
@@ -13121,6 +13362,35 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/24/189761.html"
+    }
+   ]
+  },
+  {
+   "title": "【ウマ娘】新ウマ娘“ウインマリリン”が発表、新育成シナリオは10/26から開幕！ 最大80連のガチャ無料キャンペーンが開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5MGZHdzZUYnBkYmh3ZnR4MVR5T1JWa2RrckdjYUZkTHkwbENKUUhhVDBPS19NUFFOQnRqQy1wVmJVaW9FaHBiaVlrdXhaT2ZoeEoxOFJwaVNadw?oc=5",
+   "pubDate": "2026-10-24T12:29:00.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5MGZHdzZUYnBkYmh3ZnR4MVR5T1JWa2RrckdjYUZkTHkwbENKUUhhVDBPS19NUFFOQnRqQy1wVmJVaW9FaHBiaVlrdXhaT2ZoeEoxOFJwaVNadw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -14214,6 +14484,35 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/261024p"
+    }
+   ]
+  },
+  {
+   "title": "2XKOのロスターが完結:SettとSamiraが10月27日、最後の大型アップデートで登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yNUdtSlZFcDBMRVRGTklCNUZFei13eDZFVmhsMjhzS0VIWVVERWdKQW5kZkRiNE1weTNQdkhrYmV5RGM4UjRlY3Y0ZXJsdmpGcHV3bmpUNEUzbExMUkxhNm01cGgxaFlVWWg0?oc=5",
+   "pubDate": "2026-10-24T08:17:13.000Z",
+   "firstSeen": "2026-10-24T14:47:34.376Z",
+   "image": null,
+   "source": "Gamereactor",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gamereactor",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yNUdtSlZFcDBMRVRGTklCNUZFei13eDZFVmhsMjhzS0VIWVVERWdKQW5kZkRiNE1weTNQdkhrYmV5RGM4UjRlY3Y0ZXJsdmpGcHV3bmpUNEUzbExMUkxhNm01cGgxaFlVWWg0?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -24065,6 +24364,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/23/173996.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189768.html"
     }
    ]
   },
@@ -30673,7 +30977,7 @@
    "firstSeen": "2026-10-23T02:47:38.573Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30689,9 +30993,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnd2Z6ZVpuWGMwa2E1WDhZZ2x6SzJ3RkVnZDl1U3dTLTc0QjdRSktaU09MYUhCZVBLTFp5amZTejlWOVpuYTZGYTNVWmF0OTFKazh5dk5xUQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -191757,308 +192061,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUGw2TE02M1l3NnJRaGk1ZUJtaFpndVlncHIzSlFaazJZblcxLVJNRFp1eUZLTnFENXdPeDliR2EtdTJfbGs3bUNkdnlDemQtSHNxMHU4T3l3Zy12U3ZuNFhQMXVhLTlDQ3ZKb1d3QkFTLWJCX3ZtVVlhVGRfRnc?oc=5",
      "via": "Googleニュース「PS5 発売」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "PS5「Forza Horizon 6」、満を持して2027年1月26日発売1つ目の有料拡張コンテンツも全プラットフォーム向けに同時リリース",
-   "summary": "日本マイクロソフトは、オープンワールドレースゲーム「Forza Horizon 6」のプレイステーション5版を2027年1月27日に発売する。プレミアムエディション以上のエディション購入者は5日前の1月21日よりプレイできる早期アクセスも実施する。価格はスタンダードエディションで…",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146966.html",
-   "pubDate": "2026-10-08T21:42:50.000Z",
-   "firstSeen": "2026-10-08T22:30:21.040Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146966.html"
-    }
-   ]
-  },
-  {
-   "title": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
-   "summary": "Not emulation or a remake, a native PC port of Kojima's horror classic has arrived.",
-   "link": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
-   "pubDate": "2026-10-08T21:32:33.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/4ZsunMSgqPrkP68xRdAM9i-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/"
-    }
-   ]
-  },
-  {
-   "title": "『GTA6』の雰囲気を先取り！登場する6つのラジオ局プレビュー公開",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173396.html",
-   "pubDate": "2026-10-08T21:30:03.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "GTA6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173396.html"
-    }
-   ]
-  },
-  {
-   "title": "“朽ちたマスターソード”デザインがクール！『ゼルダの伝説 ティアキン』スイッチ2対応コントローラーとケースが発売",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/188982.html",
-   "pubDate": "2026-10-08T21:30:03.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "ゼルダの伝説 ティアキン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188982.html"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZGJRZHdGNWZfLVpFcWtfQUg0Q09ibVhzLUJ6M08xVUZ6VWQwWkQ0M2VaS2dsV1Jkc3NfenJPcWRjVnhJMFFET3dzODB3RldmbXhHVVNJazFxWFhVR3Fn?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース）",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdVNCc2dNMHdPSlhJV1dKLVA0SDBKNUhpTUdYaWpVNnpIM3pDMWF2SENpTHVvVW1HZ3lrckI3eHZ4RXNaMEdSU1BnbUIzRVo2RVlNZ0RRRU9jckVmUm93cVFJQWE3VEd3aDdDMW5nNkRhMks0SXY0WGhvUUJxNG8?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Deadpool and She-Hulk Are Coming to X-Men '97 Season 3",
-   "summary": "We've already known that X-Men '97 Season 3 was happening, but at New York Comic Con 2026, Marvel showed the first teaser for the new season…",
-   "link": "https://www.ign.com/articles/deadpool-and-she-hulk-are-coming-to-x-men-97-season-3",
-   "pubDate": "2026-10-08T21:22:35.000Z",
-   "firstSeen": "2026-10-08T22:30:21.040Z",
-   "image": "https://assets-prd.ignimgs.com/2026/07/08/apocalypse31-1783524482835.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/deadpool-and-she-hulk-are-coming-to-x-men-97-season-3"
-    }
-   ]
-  },
-  {
-   "title": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
-   "summary": "Dungeons will receive a small XP buff soon, but are being kept in balance with quests.",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
-   "pubDate": "2026-10-08T21:09:23.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/CUe2zNNaTWjwgF3ed6i3H7-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/"
-    }
-   ]
-  },
-  {
-   "title": "90年代フィリピンの子供の遊びを体験できる5人Co-opサバイバルPvPゲーム『Maiba Taya』早期アクセス開始！",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173395.html",
-   "pubDate": "2026-10-08T21:00:03.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Maiba Taya"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173395.html"
-    }
-   ]
-  },
-  {
-   "title": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
-   "summary": "Plus the recommended level for taking a trip to snowy Norgan.",
-   "link": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-   "pubDate": "2026-10-08T21:00:00.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/T6mANokteBmJjFJBADnnj6-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/"
-    }
-   ]
-  },
-  {
-   "title": "Resident Evil Requiem Was Originally Planned as an Online Game, Producer Says",
-   "summary": "Resident Evil Requiem producer Masachika Kawata revealed that the game was originally planned to be an online title before they scrapped the…",
-   "link": "https://www.ign.com/articles/resident-evil-requiem-was-originally-planned-as-an-online-game-producer-says",
-   "pubDate": "2026-10-08T20:59:54.000Z",
-   "firstSeen": "2026-10-08T22:30:21.040Z",
-   "image": "https://assets-prd.ignimgs.com/2026/03/03/puzzle-site-1772543174828.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/resident-evil-requiem-was-originally-planned-as-an-online-game-producer-says"
-    }
-   ]
-  },
-  {
-   "title": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
-   "summary": "The suspension of Microsoft's access to green card applications represents just another wildly incoherent day in the Trump administration.",
-   "link": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
-   "pubDate": "2026-10-08T20:55:01.000Z",
-   "firstSeen": "2026-10-08T21:47:48.702Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/wWbiqtYqeZGSJPT5bgfBtA-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/"
     }
    ]
   }
