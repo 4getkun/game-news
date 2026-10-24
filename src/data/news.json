@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-24T10:47:56.117Z",
+ "generatedAt": "2026-10-24T11:47:49.923Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1093,
+  "exact": 1092,
   "syndicated": 86,
   "similar": 312,
   "syndicatedTotal": 350,
@@ -5953,6 +5953,20 @@
   {
    "date": "2026-10-24",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "勝利の女神:NIKKE",
+   "title": "『勝利の女神：NIKKE』4周年記念10/24生放送まとめ（第1部）。豪華ゲストによるトーク＆ステージ＆朗読劇で指揮官大興奮！",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUZWNqMDJGeEhTNFAwMGRtNjZGMHY2T3dDUEhBQ3ZsRDQ1N1FTaEVvNlp1cVNYZmsxaEl4T1M0RkFLOUYzb1FlQ0hkaGtsY0JCV3hkWWdrX2hrUQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 2,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-24",
+   "precision": "day",
    "verb": "update",
    "label": "アップデート",
    "work": "マーベル・ライバルズ",
@@ -6092,24 +6106,6 @@
     "collab"
    ],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-24",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "勝利の女神:NIKKE",
-   "title": "『勝利の女神:NIKKE』の4周年を記念した生放送が10月24日に放送。アルカナ役の村上奈津実さん、モリー役の紡木吏佐さん、リバーレリオ役の喜多村英梨さんの生朗読劇など",
-   "link": "https://news.denfaminicogamer.jp/news/261023w",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "collab"
-   ],
-   "platforms": [
-    "mobile"
-   ],
    "spoiler": false
   },
   {
@@ -6758,25 +6754,6 @@
    ],
    "platforms": [
     "switch",
-    "pc"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-28",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "サルファー",
-   "title": "Steam早期アクセスで50万本以上売れたローグライクFPS『サルファー』10月28日正式リリース！コンソール版も同日発売",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173394.html",
-   "source": "Game*Spark",
-   "sources": 3,
-   "categories": [
-    "release",
-    "business"
-   ],
-   "platforms": [
     "pc"
    ],
    "spoiler": false
@@ -7812,6 +7789,22 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-31",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "しまむら・アベイルで「名探偵コナン」グッズが10月31日発売！コナン＆怪盗キッドが中心のアパレル、バッグ類など豊富なデザイン",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189755.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -9272,20 +9265,6 @@
     "release",
     "trailer"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-12",
-   "precision": "day",
-   "verb": "update",
-   "label": "アップデート",
-   "work": "Chained Together",
-   "title": "鎖で繋がれたまま地獄を登る協力ゲーム『Chained Together』に「会社」風の新マップが11月12日に無料追加",
-   "link": "https://news.denfaminicogamer.jp/news/261009e",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -12618,8 +12597,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 971,
-   "accepted": 946
+   "archived": 961,
+   "accepted": 936
   },
   {
    "id": "4gamer-sp",
@@ -12629,8 +12608,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 224,
-   "accepted": 213
+   "archived": 225,
+   "accepted": 214
   },
   {
    "id": "automaton",
@@ -12640,8 +12619,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 570,
-   "accepted": 565
+   "archived": 568,
+   "accepted": 563
   },
   {
    "id": "denfaminico",
@@ -12652,7 +12631,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1266,
-   "accepted": 1089
+   "accepted": 1090
   },
   {
    "id": "gamewatch",
@@ -12662,8 +12641,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 540,
-   "accepted": 499
+   "archived": 543,
+   "accepted": 502
   },
   {
    "id": "gamespark",
@@ -12684,8 +12663,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1543,
-   "accepted": 1133
+   "archived": 1548,
+   "accepted": 1138
   },
   {
    "id": "ps-blog",
@@ -12728,8 +12707,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 800,
-   "accepted": 640
+   "archived": 799,
+   "accepted": 639
   },
   {
    "id": "gnews-dengeki",
@@ -12750,8 +12729,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 477,
-   "accepted": 451
+   "archived": 478,
+   "accepted": 452
   },
   {
    "id": "gnews-switch2",
@@ -12761,8 +12740,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1195,
-   "accepted": 1011
+   "archived": 1191,
+   "accepted": 1007
   },
   {
    "id": "gnews-ps5",
@@ -12772,8 +12751,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 617,
-   "accepted": 564
+   "archived": 613,
+   "accepted": 561
   },
   {
    "id": "gnews-update",
@@ -12838,8 +12817,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 308,
-   "accepted": 308
+   "archived": 307,
+   "accepted": 307
   },
   {
    "id": "nintendolife",
@@ -12849,8 +12828,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 321,
-   "accepted": 321
+   "archived": 319,
+   "accepted": 319
   },
   {
    "id": "pcgamer",
@@ -12860,11 +12839,427 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 630,
-   "accepted": 630
+   "archived": 629,
+   "accepted": 629
   }
  ],
  "items": [
+  {
+   "title": "『ウマ娘』トレセン学園関係者「吾妻」発表！ 声優は三石琴乃さん",
+   "summary": "『ウマ娘』トレセン学園関係者「吾妻」発表！ 声優は三石琴乃さん",
+   "link": "https://news.denfaminicogamer.jp/news/261024t",
+   "pubDate": "2026-10-24T11:44:40.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/WS007809.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウマ娘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261024t"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』よし、マリアンと結婚だ！ 純白ウェディングの「ラスト・アフェクション」が「マリアン：クイーン」の新コスで登場",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189758.html",
+   "pubDate": "2026-10-24T11:35:27.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189758.html"
+    }
+   ]
+  },
+  {
+   "title": "【Worlds 2026】369選手のピックプールが話題にーVALORANTエージェントでZeusに挑む",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189757.html",
+   "pubDate": "2026-10-24T11:25:02.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189757.html"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』「マリアン：クイーン」実装決定！ モダニア表記ではない名称、露出度は少ないのにセクシー過ぎる装い、所属はカウンターズ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189756.html",
+   "pubDate": "2026-10-24T11:17:45.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189756.html"
+    }
+   ]
+  },
+  {
+   "title": "「NIKKE」、新ニケ「マリアン：クイーン」（CV：花澤香菜）発表カウンターズに復帰！ 専用背景付きで登場",
+   "summary": "Level Infiniteは、Android/iOS/PC用背中で魅せるガンガールRPG「勝利の女神：NIKKE」の新ニケ「マリアン：クイーン」（CV：花澤香菜）を発表した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2150953.html",
+   "pubDate": "2026-10-24T11:15:47.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2150953.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむら・アベイルで「名探偵コナン」グッズが10月31日発売！コナン＆怪盗キッドが中心のアパレル、バッグ類など豊富なデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189755.html",
+   "pubDate": "2026-10-24T11:15:02.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189755.html"
+    }
+   ]
+  },
+  {
+   "title": "「NIKKE」新ニケ「マリアン：クイーン」（CV：花澤香菜）発表。周期的に多数の敵を攻撃する火力型",
+   "summary": "「勝利の女神：NIKKE」の新ニケ「マリアン：クイーン」（CV：花澤香菜）が発表された。10月29日のアップデート後，特殊募集に登場する。これは本日（2026年10月24日）の4周年記念イベント「約束の地へ、女神集結」で明らかになった。",
+   "link": "https://www.4gamer.net/games/456/G045622/20261024007/",
+   "pubDate": "2026-10-24T11:14:19.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/456/G045622/20261024007/"
+    }
+   ]
+  },
+  {
+   "title": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet",
+   "summary": "\"We asked everyone: work on something that they loved about Galaxies, and showcase that to the world.\"",
+   "link": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
+   "pubDate": "2026-10-24T11:09:10.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/wb9nztwWNtFMQcHyyfZxog-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』4周年の配布ニケは「ラプンツェル：サンクチュアリ」！「支援型ニケとして、絶大な力を発揮します」とのコメントも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189754.html",
+   "pubDate": "2026-10-24T11:04:57.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189754.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】ベール越しのミステリアスな瞳に魅入られる…！『崩スタ』ブラックスワンが妖艶な魅力で美スタイルを披露【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189753.html",
+   "pubDate": "2026-10-24T11:00:02.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩スタ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189753.html"
+    }
+   ]
+  },
+  {
+   "title": "「NIKKE」新ニケ「ラプンツェル：サンクチュアリ」（CV：三森すずこ）の実装決定。味方を回復し，攻撃能力を強化する支援型",
+   "summary": "「勝利の女神：NIKKE」の新ニケ「ラプンツェル：サンクチュアリ」（CV：三森すずこ）が発表された。10月29日のアップデート後に登場する。これは本日（2026年10月24日）の4周年記念イベント「約束の地へ、女神集結」で明らかになった。",
+   "link": "https://www.4gamer.net/games/456/G045622/20261024006/",
+   "pubDate": "2026-10-24T10:58:47.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update",
+    "event",
+    "mobile",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": true
+   },
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/456/G045622/20261024006/"
+    },
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2150952.html"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』「紅蓮：神殺」実装決定！ 重装甲形態に加え、“スタイリッシュな軽装姿”もお披露目",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/24/189752.html",
+   "pubDate": "2026-10-24T10:54:09.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/24/189752.html"
+    }
+   ]
+  },
+  {
+   "title": "「NIKKE」新ニケ「紅蓮：神殺」（CV：上田麗奈）発表。貫通攻撃に特化した火力型",
+   "summary": "「勝利の女神：NIKKE」の新ニケ「紅蓮：神殺」（CV：上田麗奈）が発表された。11月5日より特殊募集に登場する。これは本日（2026年10月24日）の4周年記念イベント「約束の地へ、女神集結」で明らかになった。",
+   "link": "https://www.4gamer.net/games/456/G045622/20261024005/",
+   "pubDate": "2026-10-24T10:51:36.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "event",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/456/G045622/20261024005/"
+    },
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2150951.html"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』新SSRニケ「紅蓮：神殺」「マリアン：クイーン」など3人が発表。「ラプンツェル：サンクチュアリ」はログインボーナスで入手可能",
+   "summary": "貫通攻撃に特化した火力型ニケ。重装備に身を包んだその姿には、頼もしさがある。なお、鎧はパージされる模様。着込んでいるのは最初だけらしい。安心です。",
+   "link": "https://news.denfaminicogamer.jp/news/261024r",
+   "pubDate": "2026-10-24T10:47:17.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/00-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261024r"
+    }
+   ]
+  },
   {
    "title": "『フォールアウト』実際にかぶれる「T-60」パワーアーマーのヘルメットレプリカが予約受付中。LEDライトとボイスチェンジャーを搭載",
    "summary": "B.O.S.の主力装備を“実物大”で再現。頭囲約61cmまで対応し、内側の固定用ストラップやレンジファインダーのリリースボタンも備える",
@@ -13334,6 +13729,35 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaS0JzMHNwU1JIRUY4d2ViZ3VPMDRQN0ZkWFFHRElmVnlLWjA0Nk1PZEZFYXlUNE9iZkJWNFlfQndQWmZIWnR2cXUwVUxKRmFMd0VkOHVtZw?oc=5",
      "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』4周年記念10/24生放送まとめ（第1部）。豪華ゲストによるトーク＆ステージ＆朗読劇で指揮官大興奮！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUZWNqMDJGeEhTNFAwMGRtNjZGMHY2T3dDUEhBQ3ZsRDQ1N1FTaEVvNlp1cVNYZmsxaEl4T1M0RkFLOUYzb1FlQ0hkaGtsY0JCV3hkWWdrX2hrUQ?oc=5",
+   "pubDate": "2026-10-24T07:46:00.000Z",
+   "firstSeen": "2026-10-24T11:47:33.664Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUZWNqMDJGeEhTNFAwMGRtNjZGMHY2T3dDUEhBQ3ZsRDQ1N1FTaEVvNlp1cVNYZmsxaEl4T1M0RkFLOUYzb1FlQ0hkaGtsY0JCV3hkWWdrX2hrUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -14785,6 +15209,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/24/189740.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/24/174046.html"
     }
    ]
   },
@@ -191528,445 +191957,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026"
-    }
-   ]
-  },
-  {
-   "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
-   "summary": "Paramount Pictures is developing a live-action Cyberpunk 2077 film.",
-   "link": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
-   "pubDate": "2026-10-08T18:11:35.000Z",
-   "firstSeen": "2026-10-08T19:47:47.881Z",
-   "image": "https://assets-prd.ignimgs.com/2022/09/12/cp2077-1560124248134-1653396345233-1662993661649.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount"
-    }
-   ]
-  },
-  {
-   "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
-   "summary": "Concept art for a canceled Green Lanterns show has been shared online by a co-creator of the CW’s Arrow series, showing what the Emerald Kni…",
-   "link": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
-   "pubDate": "2026-10-08T18:10:10.000Z",
-   "firstSeen": "2026-10-08T19:47:47.881Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/08/canceled-lanterns-show-concept-art-1791481919537.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns"
-    }
-   ]
-  },
-  {
-   "title": "Today’s Top Deals: MTG Card Sets, Zelda Switch Pro Controller, and a $20 Glorious Gaming Mouse",
-   "summary": "Even with Prime Big Deal Days behind us, the savings continue today on Pokémon TCG, LEGO, and more.",
-   "link": "https://www.ign.com/articles/best-deals-for-october-8-2026",
-   "pubDate": "2026-10-08T18:10:00.000Z",
-   "firstSeen": "2026-10-08T19:47:47.881Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/08/untitled-design-21-1791477190471.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-october-8-2026"
-    }
-   ]
-  },
-  {
-   "title": "Joe Manganiello Reveals Being Cast as Deathstroke in Ben Affleck's Batman Movie Motivated Him to Overcome Near-Fatal Health Crisis",
-   "summary": "Actor Joe Manganiello has shared a hellish story about how being cast as Deathstroke in Ben Affleck's scrapped Batman movie motivated to ove…",
-   "link": "https://www.ign.com/articles/joe-manganiello-reveals-being-cast-as-deathstroke-in-ben-afflecks-batman-movie-motivated-him-to-overcome-near-fatal-health-crisis",
-   "pubDate": "2026-10-08T18:09:28.000Z",
-   "firstSeen": "2026-10-08T19:47:47.881Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/08/deathstroke-1791482268912.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/joe-manganiello-reveals-being-cast-as-deathstroke-in-ben-afflecks-batman-movie-motivated-him-to-overcome-near-fatal-health-crisis"
-    }
-   ]
-  },
-  {
-   "title": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
-   "summary": "Machinarium 2 is finally happening.",
-   "link": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-   "pubDate": "2026-10-08T17:56:59.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/"
-    }
-   ]
-  },
-  {
-   "title": "Steam早期アクセスで50万本以上売れたローグライクFPS『サルファー』10月28日正式リリース！コンソール版も同日発売",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173394.html",
-   "pubDate": "2026-10-08T17:54:19.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 32,
-   "categories": [
-    "release",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "サルファー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173394.html"
-    }
-   ]
-  },
-  {
-   "title": "【最大4人協力】刑務所からの脱獄を企てるゲームシリーズ最新作『The Escapists 3』発表、2027年に発売予定。看守のスケジュールを分析してアイテムを集め、自分だけの脱獄ルートを編み出そう",
-   "summary": "シリーズ最新作では“3D世界”の刑務所で生活することに。看守たちのスケジュールを分析し、クラフトや取引で必要なアイテムを集め、自分だけの脱獄ルートを編み出そう",
-   "link": "https://news.denfaminicogamer.jp/news/261009h",
-   "pubDate": "2026-10-08T17:50:52.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_b566dcb033631b03a1d26713cf30bffa28aa76e0.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "The Escapists 3"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261009h"
-    }
-   ]
-  },
-  {
-   "title": "鎖で繋がれたまま地獄を登る協力ゲーム『Chained Together』に「会社」風の新マップが11月12日に無料追加",
-   "summary": "宙に浮かぶ高層ビル群をよじ登り、出世の階段をのぼるように新たな地獄からの脱出を目指す。“出社回帰”という地獄が始まる",
-   "link": "https://news.denfaminicogamer.jp/news/261009e",
-   "pubDate": "2026-10-08T17:48:06.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Chained-Together-Screenshot-5-1024x553.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Chained Together"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261009e"
-    }
-   ]
-  },
-  {
-   "title": "The Judge Dredd/Biker Mice From Mars Crossover Spawns an Epic Action Figure - NYCC 2026",
-   "summary": "",
-   "link": "https://www.ign.com/articles/judge-dredd-biker-mice-from-mars-crossover-throttle-action-figure",
-   "pubDate": "2026-10-08T17:45:00.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/07/mixcollage-07-oct-2026-03-38-pm-6438-1791401913698.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/judge-dredd-biker-mice-from-mars-crossover-throttle-action-figure"
-    }
-   ]
-  },
-  {
-   "title": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
-   "summary": "For those who come after. We've been patiently hoping that Clair Obscur: Expedition 33 would make its way to Switch 2 ever since it consumed…",
-   "link": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
-   "pubDate": "2026-10-08T17:45:00.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": "https://images.nintendolife.com/cfc985ba24d31/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update"
-    }
-   ]
-  },
-  {
-   "title": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos—in Dave the Diver's crossover DLC",
-   "summary": "I will kill them. I will cook them. I will serve them. Thanks, Dave.",
-   "link": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
-   "pubDate": "2026-10-08T17:40:53.000Z",
-   "firstSeen": "2026-10-08T17:47:46.434Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/C4Q3ytn7o4ZG4AprVKUVdc-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
-   "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy st…",
-   "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
-   "pubDate": "2026-10-08T17:37:17.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/09/alligator.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/"
-    }
-   ]
-  },
-  {
-   "title": "『サルファー』の1.0正式版＆ゲーム機版が2026年10月28日に配信決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KYjU5U3NfWUJsV0xqbWpLa3N0NWlvYlYzcVZoaTdWb0o0UVpiQ1VZbUlnS1Q5dkVWeTM0cWhJRXQzRklBYV9zT3E5OFFHOVkxMUMzMGxjbmtUOU80d3NFazZQVzlHUnd0UlI5X0Y0LVB0WmZtTVVwVg?oc=5",
-   "pubDate": "2026-10-08T17:36:27.000Z",
-   "firstSeen": "2026-10-08T18:47:55.723Z",
-   "image": null,
-   "source": "Nintendo Switch 情報ブログ",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サルファー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Switch 情報ブログ",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KYjU5U3NfWUJsV0xqbWpLa3N0NWlvYlYzcVZoaTdWb0o0UVpiQ1VZbUlnS1Q5dkVWeTM0cWhJRXQzRklBYV9zT3E5OFFHOVkxMUMzMGxjbmtUOU80d3NFazZQVzlHUnd0UlI5X0Y0LVB0WmZtTVVwVg?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "高評価FPS『サルファー』が10月28日に正式リリース。カートゥーン調のデフォルメグラフィックで、ゴブリンの臓物を銃でブチまける爽快アクション。家庭用ゲーム機でも同日に発売【The Triple-i Initiative 10月】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Uy1kZmdHLUtRSnRKbG5NRDM3aUZMeXh3WGx6M0xEMlo4LVpoSDAwNmFnYWNhZm9KM2lLR29nQlNwT2NSNXZIRHZQbG5HbFpKWTdTOGhGZw?oc=5",
-   "pubDate": "2026-10-08T17:18:00.000Z",
-   "firstSeen": "2026-10-08T17:47:46.434Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サルファー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Uy1kZmdHLUtRSnRKbG5NRDM3aUZMeXh3WGx6M0xEMlo4LVpoSDAwNmFnYWNhZm9KM2lLR29nQlNwT2NSNXZIRHZQbG5HbFpKWTdTOGhGZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "大ヒット海賊サバイバル『ウィンドローズ』初の大型アプデ発表。「船」システム大幅進化、“もうひとつの拠点”にして、住んだりデコったり自由自在に",
-   "summary": "ポケットペアパブリッシングは海賊サバイバルクラフトゲーム『Windrose / ウィンドローズ』初の大型アップデート「Ashlands」を発表し、今冬に配信すると告知した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261009-472609/",
-   "pubDate": "2026-10-08T17:12:35.000Z",
-   "firstSeen": "2026-10-08T17:47:46.434Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472609-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウィンドローズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261009-472609/"
     }
    ]
   }
