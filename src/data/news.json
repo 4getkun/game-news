@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-24T03:47:53.426Z",
+ "generatedAt": "2026-10-24T04:47:57.440Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1091,
+  "exact": 1089,
   "syndicated": 87,
-  "similar": 325,
+  "similar": 320,
   "syndicatedTotal": 348,
   "syndicatedLeft": 32
  },
@@ -5475,6 +5475,27 @@
   {
    "date": "2026-10-23",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "PEAK",
+   "title": "『PEAK』のPS5、Xbox Series X|S、Nintendo Switch 2版が本日発売、全プラットフォーム間のマルチプレイに対応。Steam版で追加された要素をすべて収録",
+   "link": "https://news.denfaminicogamer.jp/news/261023g",
+   "source": "電ファミニコゲーマー",
+   "sources": 2,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "switch2",
+    "ps5",
+    "xbox",
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-23",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "ONE PIECE 海のごちそうレストラン",
@@ -5649,27 +5670,6 @@
    "categories": [],
    "platforms": [
     "switch2"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-23",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "PEAK",
-   "title": "『PEAK』のPS5、Xbox Series X|S、Nintendo Switch 2版が本日発売、全プラットフォーム間のマルチプレイに対応。Steam版で追加された要素をすべて収録",
-   "link": "https://news.denfaminicogamer.jp/news/261023g",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "release"
-   ],
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox",
-    "pc"
    ],
    "spoiler": false
   },
@@ -5994,6 +5994,20 @@
    "platforms": [
     "switch2"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-24",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」10月24日22時より放送！",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174032.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -12587,8 +12601,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 997,
-   "accepted": 972
+   "archived": 992,
+   "accepted": 967
   },
   {
    "id": "4gamer-sp",
@@ -12609,8 +12623,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 578,
-   "accepted": 573
+   "archived": 576,
+   "accepted": 571
   },
   {
    "id": "denfaminico",
@@ -12620,8 +12634,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1271,
-   "accepted": 1094
+   "archived": 1273,
+   "accepted": 1095
   },
   {
    "id": "gamewatch",
@@ -12631,8 +12645,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 549,
-   "accepted": 507
+   "archived": 548,
+   "accepted": 506
   },
   {
    "id": "gamespark",
@@ -12642,8 +12656,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1333,
-   "accepted": 1318
+   "archived": 1334,
+   "accepted": 1319
   },
   {
    "id": "inside-games",
@@ -12653,8 +12667,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1561,
-   "accepted": 1147
+   "archived": 1559,
+   "accepted": 1145
   },
   {
    "id": "ps-blog",
@@ -12686,8 +12700,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 117,
-   "accepted": 80
+   "archived": 113,
+   "accepted": 77
   },
   {
    "id": "gnews-famitsu",
@@ -12697,8 +12711,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 814,
-   "accepted": 652
+   "archived": 812,
+   "accepted": 650
   },
   {
    "id": "gnews-dengeki",
@@ -12708,8 +12722,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 767,
-   "accepted": 393
+   "archived": 765,
+   "accepted": 392
   },
   {
    "id": "gnews-newgame",
@@ -12719,8 +12733,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 485,
-   "accepted": 458
+   "archived": 484,
+   "accepted": 457
   },
   {
    "id": "gnews-switch2",
@@ -12730,8 +12744,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1212,
-   "accepted": 1024
+   "archived": 1208,
+   "accepted": 1021
   },
   {
    "id": "gnews-ps5",
@@ -12741,8 +12755,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 629,
-   "accepted": 573
+   "archived": 622,
+   "accepted": 568
   },
   {
    "id": "gnews-update",
@@ -12752,8 +12766,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 425,
-   "accepted": 306
+   "archived": 424,
+   "accepted": 305
   },
   {
    "id": "prtimes",
@@ -12763,7 +12777,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25946,
+   "archived": 25960,
    "accepted": 449
   },
   {
@@ -12829,11 +12843,97 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 636,
-   "accepted": 636
+   "archived": 635,
+   "accepted": 635
   }
  ],
  "items": [
+  {
+   "title": "『ゼンゼロ』「サンブリンガー（CV:大原さやか）」のプレイ映像がいきなり公開！ドラキナ、リンドヴェルヌ、エルダの三位一体で激しく戦う",
+   "summary": "バージョン3.4で参戦予定の新たな虚狩り、そして初の結使エージェント。『崩壊：スターレイル』コラボキャラ「ロビン」もしれっと登場",
+   "link": "https://news.denfaminicogamer.jp/news/261024l",
+   "pubDate": "2026-10-24T04:36:53.000Z",
+   "firstSeen": "2026-10-24T04:47:36.187Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Screenshot-2026-10-24-13-30-23-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update",
+    "trailer",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゼンゼロ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261024l"
+    }
+   ]
+  },
+  {
+   "title": "子どもの「18年間の成長」を芝刈りで見届けるゲーム『18 Summers』が話題に。少しずつ変わっていく庭の姿と、かけがえのない夏の思い出",
+   "summary": "FancyRancy氏が手がける『18 Summers』のトレイラーが公開され、海外を中心に注目を集めている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261024-475367/",
+   "pubDate": "2026-10-24T04:04:11.000Z",
+   "firstSeen": "2026-10-24T04:47:36.187Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475367-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "18 Summers"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261024-475367/"
+    }
+   ]
+  },
+  {
+   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」10月24日22時より放送！",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/24/174032.html",
+   "pubDate": "2026-10-24T04:00:04.000Z",
+   "firstSeen": "2026-10-24T04:47:36.187Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/24/174032.html"
+    }
+   ]
+  },
   {
    "title": "「Fallout」，装着可能なパワーアーマーのヘルメットとパワーフィストの実物大レプリカ発表",
    "summary": "ゲーマー向けグッズの製造，販売を行うDPIMerchandisingが「Fallout」シリーズの公式ライセンスを取得した「FalloutT-60WearableHelmetReplica」と「FalloutPowerFistReplica」を発表した。パワーアーマーのヘルメット…",
@@ -12915,6 +13015,35 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/kikakuthetower/261024i"
+    }
+   ]
+  },
+  {
+   "title": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path",
+   "summary": "Join the cult today. Cult of the Lamb has continued to receive all sorts of updates since it launched on the Switch, and now developer Massi…",
+   "link": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+   "pubDate": "2026-10-24T03:30:00.000Z",
+   "firstSeen": "2026-10-24T04:47:36.187Z",
+   "image": "https://images.nintendolife.com/105fa42933e8e/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path"
     }
    ]
   },
@@ -30908,6 +31037,38 @@
    ]
   },
   {
+   "title": "オンラインCo-op山登りゲーム「PEAK」のコンソール版が本日発売、リリーストレーラーも",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nTURWczRDRVdRdk92Y0UwM2sta0Q1MjJ2aG1RSkt3ZFhrSHNQR0R6RlRrOHJrX0pHWnZJc3N2bjl6WjBfTEtWbndCbw?oc=5",
+   "pubDate": "2026-10-22T15:20:57.000Z",
+   "firstSeen": "2026-10-24T04:47:36.187Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "PEAK"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nTURWczRDRVdRdk92Y0UwM2sta0Q1MjJ2aG1RSkt3ZFhrSHNQR0R6RlRrOHJrX0pHWnZJc3N2bjl6WjBfTEtWbndCbw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
    "title": "Why Street Fighter Movie Goes For “Gonzo” Vibes Instead of Gritty And Grounded",
    "summary": "Street Fighter movie director Kitao Sakurai has shared new insights into the recently released video game movie, including how he intentiona…",
    "link": "https://www.gamespot.com/articles/why-street-fighter-movie-goes-for-gonzo-vibes-instead-of-gritty-and-grounded/",
@@ -32521,12 +32682,6 @@
      "name": "Bloomberg.com",
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnQxZjlfcEdMRjRHc25hNm16Tkk5Sm02aDlZRU1pcURHb09yQl9jczhWTEdUZkpaT1NjOVY2RTFoNFE0MGZRT0ZjbVdEbGttMk94NDFuWTRlRHhUbVVYRTVDWmw3Qng5TWFzbjRvZmg4WEZ0WXVGREJvTTJSMU9RMmQ0VDY1WXRiaXdsWHZn?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    },
-    {
-     "name": "Bloomberg",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14cW56OGtTU3czUVBHWlhGOGNBRW43T0dEcjVWS0dTWi1obGhmalIyazRwaFQ1LV9ZS3lGQ0MwajFaQ09fcjVfVS1PVDB4N0lOYzVXdF9JNm5CNGR3YkcwNWN6WmVCWU9yQS1qcGJnM2dPeVkwZllv?oc=5",
      "via": "Googleニュース「PS5 発売」"
     }
    ]
@@ -191802,166 +191957,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQThOWEFmQVN4SHhvaXFwTGFmRGxnWEtpYlFLMDRTY21GZWgxOUlqZ0tGUFpZbnZzbmNtZE5teF90WGd3dHo5alo5YmsxbjZRUHZOdkN3Y1p0c2c2ZGNSaF9IaVE4OUxtVlBlWFIzT1dhUVdnVTNPcC05ZUFzYVE?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ただの農民」から成り上がる最大4人協力ARPG『Wyldheart』デモ版がSteam配信！選ばれし者じゃない無名の一行による冒険【Triple-i Initiative Showcase】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173389.html",
-   "pubDate": "2026-10-08T16:35:38.000Z",
-   "firstSeen": "2026-10-08T16:47:50.531Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "demo",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Wyldheart"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173389.html"
-    }
-   ]
-  },
-  {
-   "title": "Dark fantasy roguelike action game Little Prince Tyger announced for PC",
-   "summary": "Publisher Team17 and French developer Saltitude have announced Little Prince Tyger, a dark fantasy roguelike …",
-   "link": "https://www.gematsu.com/2026/10/dark-fantasy-roguelike-action-game-little-prince-tyger-announced-for-pc",
-   "pubDate": "2026-10-08T16:34:17.000Z",
-   "firstSeen": "2026-10-08T16:47:50.531Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Little-Prince-Tyger-Ann_10-08-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/dark-fantasy-roguelike-action-game-little-prince-tyger-announced-for-pc"
-    }
-   ]
-  },
-  {
-   "title": "血みどろ2Dアクションローグライク『Little Prince Tyger』発表！1,000以上の1画面ステージを進め―プレイテスト10月18日まで実施【Triple-i Initiative Showcase】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173388.html",
-   "pubDate": "2026-10-08T16:33:53.000Z",
-   "firstSeen": "2026-10-08T16:47:50.531Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Little Prince Tyger"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173388.html"
-    }
-   ]
-  },
-  {
-   "title": "巨大警官に見下ろされる脱出ゲーム『Militsioner』Steamで体験版が配信開始。奇妙な町からケーブルカーで脱出を目指す【The Triple-i Initiative 10月】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NV2h4NUluLXlDZnBQRmdSZ0FqZmtKblhPcXU3Mzh0MDNZaDlkM3o5bkk0bEVUS0tfaUdJUWV5cjBCNEtqbVhqUms5dGFfczR6dXJxWEVwSQ?oc=5",
-   "pubDate": "2026-10-08T16:33:00.000Z",
-   "firstSeen": "2026-10-08T17:47:46.434Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Militsioner"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NV2h4NUluLXlDZnBQRmdSZ0FqZmtKblhPcXU3Mzh0MDNZaDlkM3o5bkk0bEVUS0tfaUdJUWV5cjBCNEtqbVhqUms5dGFfczR6dXJxWEVwSQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "巨大警官に見下ろされる町から脱出せよ！カフカ的イマーシブシム『Militsioner』初のSteam体験版配信―ケーブルカーを目指す第1幕をプレイ可能【Triple-i Initiative Showcase】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173387.html",
-   "pubDate": "2026-10-08T16:32:52.000Z",
-   "firstSeen": "2026-10-08T16:47:50.531Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "demo",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Militsioner"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173387.html"
     }
    ]
   }
