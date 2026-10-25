@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-25T14:47:58.710Z",
+ "generatedAt": "2026-10-25T15:47:44.472Z",
  "count": 6000,
  "dedupe": {
   "exact": 1083,
   "syndicated": 84,
-  "similar": 297,
+  "similar": 298,
   "syndicatedTotal": 344,
   "syndicatedLeft": 32
  },
@@ -6292,6 +6292,22 @@
   {
    "date": "2026-10-26",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149224.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-26",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -9023,20 +9039,6 @@
     "new",
     "release"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-11",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「VOCALOID7」発表、11月11日発売へ。新たな「Megpoid」とともにお披露目、4年ぶり新ボカロ",
-   "link": "https://automaton-media.com/articles/newsjp/20261009-472735/",
-   "source": "AUTOMATON",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -12408,8 +12410,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 913,
-   "accepted": 888
+   "archived": 912,
+   "accepted": 887
   },
   {
    "id": "4gamer-sp",
@@ -12441,8 +12443,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1214,
-   "accepted": 1047
+   "archived": 1212,
+   "accepted": 1046
   },
   {
    "id": "gamewatch",
@@ -12452,8 +12454,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 544,
-   "accepted": 504
+   "archived": 541,
+   "accepted": 501
   },
   {
    "id": "gamespark",
@@ -12463,8 +12465,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1292,
-   "accepted": 1277
+   "archived": 1290,
+   "accepted": 1275
   },
   {
    "id": "inside-games",
@@ -12474,8 +12476,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1529,
-   "accepted": 1124
+   "archived": 1526,
+   "accepted": 1121
   },
   {
    "id": "ps-blog",
@@ -12518,8 +12520,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 751,
-   "accepted": 598
+   "archived": 752,
+   "accepted": 600
   },
   {
    "id": "gnews-dengeki",
@@ -12529,8 +12531,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 751,
-   "accepted": 383
+   "archived": 754,
+   "accepted": 384
   },
   {
    "id": "gnews-newgame",
@@ -12540,8 +12542,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 462,
-   "accepted": 438
+   "archived": 463,
+   "accepted": 439
   },
   {
    "id": "gnews-switch2",
@@ -12551,8 +12553,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1177,
-   "accepted": 1000
+   "archived": 1174,
+   "accepted": 999
   },
   {
    "id": "gnews-ps5",
@@ -12574,7 +12576,7 @@
    "error": null,
    "fetched": 100,
    "archived": 414,
-   "accepted": 304
+   "accepted": 305
   },
   {
    "id": "prtimes",
@@ -12584,7 +12586,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25497,
+   "archived": 25482,
    "accepted": 441
   },
   {
@@ -12606,8 +12608,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1258,
-   "accepted": 1258
+   "archived": 1254,
+   "accepted": 1254
   },
   {
    "id": "eurogamer",
@@ -12617,8 +12619,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 289,
-   "accepted": 289
+   "archived": 288,
+   "accepted": 288
   },
   {
    "id": "gamespot",
@@ -12628,8 +12630,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 295,
-   "accepted": 295
+   "archived": 294,
+   "accepted": 294
   },
   {
    "id": "nintendolife",
@@ -12639,8 +12641,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 309,
-   "accepted": 309
+   "archived": 307,
+   "accepted": 307
   },
   {
    "id": "pcgamer",
@@ -12655,6 +12657,149 @@
   }
  ],
  "items": [
+  {
+   "title": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+   "summary": "Sweeney's assessment of the games industry in the 2000s hits close to home today, but I still hold out hope that the future can be better.",
+   "link": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
+   "pubDate": "2026-10-25T15:26:00.000Z",
+   "firstSeen": "2026-10-25T15:47:32.079Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/Y8qHYK3jP7Wix7HUuMyuFL-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/"
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売表情豊かなちいかわたちの顔や全身をデザインした全20種のチョコが登場",
+   "summary": "バンダイは、「ちいかわ キャラパキ チョコレート（大袋）」を10月26日に全国量販店の菓子売場などにて発売する。価格は397円。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149224.html",
+   "pubDate": "2026-10-25T15:00:00.000Z",
+   "firstSeen": "2026-10-25T15:47:32.079Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149224.html"
+    }
+   ]
+  },
+  {
+   "title": "『テイルズ オブ ザ テンペスト』20周年。シリーズ初のニンテンドーDS用作品。種族間の対立を描く熱いストーリーが魅力【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6QWl1elYwbHNNaGhEeWhXN1BfTFZmZTR1RXhUZE91OGJmSGVmQ2I2akxNNHNDZlp1d2puem54ZkdpQVpTdkFIbDVoOUthNjlnUldUMUo2aw?oc=5",
+   "pubDate": "2026-10-25T15:00:00.000Z",
+   "firstSeen": "2026-10-25T15:47:32.079Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "テイルズ オブ ザ テンペスト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6QWl1elYwbHNNaGhEeWhXN1BfTFZmZTR1RXhUZE91OGJmSGVmQ2I2akxNNHNDZlp1d2puem54ZkdpQVpTdkFIbDVoOUthNjlnUldUMUo2aw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "『ピクミン』25周年。CMソング『愛のうた』が話題を呼んだゲームキューブの名作【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3MURZQmtmclo3aDEwMENrS3Rnd2pFbW5BU3pjeDRTZzlOeTh6TmVhYnpXbDlMSUhwS3VxNy0zaHM3bXk5OWtPejNQLThhYWZHUHBkNzFnbw?oc=5",
+   "pubDate": "2026-10-25T15:00:00.000Z",
+   "firstSeen": "2026-10-25T15:47:32.079Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ピクミン",
+    "愛のうた"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3MURZQmtmclo3aDEwMENrS3Rnd2pFbW5BU3pjeDRTZzlOeTh6TmVhYnpXbDlMSUhwS3VxNy0zaHM3bXk5OWtPejNQLThhYWZHUHBkNzFnbw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "「RTA in Japan Winter 2026」ゲームスケジュールが発表！12月25日15時の『ロックマンエグゼ4』からスタート、『スーパーマリオ64』目隠しRTAは12月29日に実施、最後を飾るのは『イースⅥ-ナピシュテムの匣-』",
+   "summary": "『東方地霊殿』Lunaticスコアアタックは28日、『スーパーマリオ64』目隠しRTAは29日に実施。最終日の12月31日にトリを飾るのは『イースⅥ-ナピシュテムの匣-』",
+   "link": "https://news.denfaminicogamer.jp/news/261025n",
+   "pubDate": "2026-10-25T14:46:55.000Z",
+   "firstSeen": "2026-10-25T15:47:32.079Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HPwzq_IXUAATbko-1-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロックマンエグゼ4",
+    "スーパーマリオ64",
+    "イースⅥ-ナピシュテムの匣-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261025n"
+    }
+   ]
+  },
   {
    "title": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging",
    "summary": "My vision is augmented.",
@@ -13930,6 +14075,37 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KOFo2N1pxT1ZnMlZaWjN5a1ZZeWhZdTlQQXJFZU54d0hrUGRRX3JiUDExdkVhSUpEWFhqLW5QWXY4TUlZQzdCUmpVVUltRUhRbUZzR0RiOA?oc=5",
      "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "『Wo Long 2』予約・店舗特典まとめ。B3タペストリーやアクリルスタンドのほか、DLCもラインナップ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VnpJVS0zYS1NMDBYdGxITmtQa2hyRzVCZmRsa2VLcFNkSzUzb3o3eU9meHJxb24xWk5mRkpPN0dxTzNGcG1FZzdIdHlFMm5Nd1NTWHBvdUNGQQ?oc=5",
+   "pubDate": "2026-10-25T07:30:00.000Z",
+   "firstSeen": "2026-10-25T15:47:32.079Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Wo Long 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VnpJVS0zYS1NMDBYdGxITmtQa2hyRzVCZmRsa2VLcFNkSzUzb3o3eU9meHJxb24xWk5mRkpPN0dxTzNGcG1FZzdIdHlFMm5Nd1NTWHBvdUNGQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -57779,7 +57955,7 @@
    "pubDate": "2026-10-21T10:00:00.000Z",
    "firstSeen": "2026-10-21T10:47:35.368Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -57794,7 +57970,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yWldySG5jc01TeF9ESmZ2a3VvdDRlYS1iOW9wc1paRC1yMGh4cVVSbWFWcG1PTlRKaDVuc0xOOE9XM1IweDllLU5Pejc3ZDFvVDZyMEF0VQ?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -64138,7 +64314,7 @@
    ]
   },
   {
-   "title": "絵の中に住む助手と仮面の所長？ 新作RPG『人間奇想計画』の異質な世界観とスピードバトル、そして謎めく物語",
+   "title": "『人間奇想計画』の世界観が独特すぎてヤバイ。股間にモザイクな石像、フシギと呼ばれる謎生物…何もかもが斬新な新作RPGが爆誕",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbXlMeWNIbzZqWHFHUVhJUTZsU2I3d2hsdEdiX3JlYjVBR2NRNGwzMjZVWlhiQmdzbkk5SmQtNy1wSnF3VkxheFVucXcwMzNGT19aMm94OGtkdw?oc=5",
    "pubDate": "2026-10-21T03:00:00.000Z",
@@ -191289,192 +191465,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000544.000014847.html"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『ガルパン』新作アプリゲーム『ガルすか』制作決定。自分だけのチームを編成して戦うディフェンスゲーム",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VlM2QXRVTm1LRlQwenVMeGJTRld5R1pCcFNvRjhacDRkZ3dDM2VSaE12MmdXeXhsX2lvbWVPVXh6VDVnWF9qV3FnZkkwd1ViUFZUOVNZRGVGUQ?oc=5",
-   "pubDate": "2026-10-09T03:41:00.000Z",
-   "firstSeen": "2026-10-10T09:48:26.473Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "ガルパン",
-    "ガルすか"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VlM2QXRVTm1LRlQwenVMeGJTRld5R1pCcFNvRjhacDRkZ3dDM2VSaE12MmdXeXhsX2lvbWVPVXh6VDVnWF9qV3FnZkkwd1ViUFZUOVNZRGVGUQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "“即品切れ”続きの「Steam Machine」および「Steam Frame」、10月13日10時にそろって再入荷へ。",
-   "summary": "KOMODOは10月9日、「Steam Frame」および「Steam Machine」の再入荷を発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261009-472743/",
-   "pubDate": "2026-10-09T03:37:03.000Z",
-   "firstSeen": "2026-10-09T03:47:45.012Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472743-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261009-472743/"
-    }
-   ]
-  },
-  {
-   "title": "H2 INTERACTIVE、2Dローグライク・アクションADV『Astral Ascent』Switch 2版を発売…『Clair Obscur: Expedition 33』とのコラボも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDaE10UGtIODhWOVAzTG9YbmJ3aV84dUY5RUMwVEJlbndZQjdTWURWNWxfeTFjVFdQblY2UG9tTG44N2JP?oc=5",
-   "pubDate": "2026-10-09T03:37:00.000Z",
-   "firstSeen": "2026-10-09T04:47:45.429Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "Astral Ascent",
-    "Clair Obscur: Expedition 33"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDaE10UGtIODhWOVAzTG9YbmJ3aV84dUY5RUMwVEJlbndZQjdTWURWNWxfeTFjVFdQblY2UG9tTG44N2JP?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "ホロライブの公式オンライン麻雀ゲーム『ホロじゃん』2026年配信！タレント総勢37名参加、推しと一緒にいつでも・どこでも白熱対局",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189007.html",
-   "pubDate": "2026-10-09T03:36:45.000Z",
-   "firstSeen": "2026-10-09T03:47:45.012Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ホロじゃん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189007.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173419.html"
-    }
-   ]
-  },
-  {
-   "title": "BeXide announces copy-and-paste hide-and-seek party game Cat and Paste! for PC",
-   "summary": "BeXide has announced Cat and Paste!, a copy-and-paste hide-and-seek party game for up to 16 …",
-   "link": "https://www.gematsu.com/2026/10/bexide-announces-copy-and-paste-hide-and-seek-party-game-cat-and-paste-for-pc",
-   "pubDate": "2026-10-09T03:31:02.000Z",
-   "firstSeen": "2026-10-09T03:47:45.012Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Cat-and-Paste-Announce_10-08-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/bexide-announces-copy-and-paste-hide-and-seek-party-game-cat-and-paste-for-pc"
-    }
-   ]
-  },
-  {
-   "title": "「VOCALOID7」発表、11月11日発売へ。新たな「Megpoid」とともにお披露目、4年ぶり新ボカロ",
-   "summary": "ヤマハ株式会社は10月9日、「VOCALOID7」を発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261009-472735/",
-   "pubDate": "2026-10-09T03:30:09.000Z",
-   "firstSeen": "2026-10-09T03:47:45.012Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472735-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261009-472735/"
     }
    ]
   }
