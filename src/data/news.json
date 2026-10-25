@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-25T01:47:49.696Z",
+ "generatedAt": "2026-10-25T02:47:55.527Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1091,
+  "exact": 1088,
   "syndicated": 84,
-  "similar": 307,
-  "syndicatedTotal": 346,
-  "syndicatedLeft": 31
+  "similar": 305,
+  "syndicatedTotal": 347,
+  "syndicatedLeft": 32
  },
  "calendar": [
   {
@@ -8134,7 +8134,7 @@
    "title": "HoYoverse「プチプラネット」リリース予告番組が11月1日に配信決定",
    "link": "https://game.watch.impress.co.jp/docs/news/2150665.html",
    "source": "GAME Watch",
-   "sources": 4,
+   "sources": 5,
    "categories": [
     "release"
    ],
@@ -11404,24 +11404,6 @@
   {
    "date": "2027-01",
    "precision": "month",
-   "verb": "launch",
-   "label": "配信",
-   "work": "シージ",
-   "title": "スマホ版『シージ』な『レインボーシックス モバイル』来年1月にサービス終了へ…日本配信から1年足らずで",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173405.html",
-   "source": "Game*Spark",
-   "sources": 2,
-   "categories": [
-    "trouble"
-   ],
-   "platforms": [
-    "mobile"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2027-01",
-   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": "カイジ",
@@ -11638,15 +11620,14 @@
   {
    "date": "2027-01-26",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
+   "verb": "launch",
+   "label": "配信",
    "work": "Forza Horizon 6",
-   "title": "『Forza Horizon 6』PS5版が2027年1月26日に発売決定！拡張第1弾も同時期に登場",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGhHbkJXajlGeFpUaGRtTTNVM25TTlAxQW5abFdkZ3RpZThpVl8tTlRnUV9tTGxZczUtbnF2MTFYU2g5NS1zd1ZrN25HX0h2TndGWVQwdWlLeVVLWDczUzZVbldEVXNSZkpGdzZKWEhqVnEyLUthd1lpMnRBZElMYnBYSkRrcTB0MGowcA?oc=5",
-   "source": "Gamereactor",
+   "title": "PS5版『Forza Horizon 6』2027年1月26日リリースへ。初の拡張パックも1月21日に配信―プレミアム版先行アクセスは、その日からスタート",
+   "link": "http://www.gamespark.jp/article/2026/10/09/173414.html",
+   "source": "Game*Spark",
    "sources": 3,
    "categories": [
-    "release",
     "update"
    ],
    "platforms": [
@@ -11657,14 +11638,15 @@
   {
    "date": "2027-01-26",
    "precision": "day",
-   "verb": "launch",
-   "label": "配信",
+   "verb": "release",
+   "label": "発売",
    "work": "Forza Horizon 6",
-   "title": "PS5版『Forza Horizon 6』2027年1月26日リリースへ。初の拡張パックも1月21日に配信―プレミアム版先行アクセスは、その日からスタート",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173414.html",
-   "source": "Game*Spark",
-   "sources": 3,
+   "title": "『Forza Horizon 6』PS5版が2027年1月26日に発売決定！拡張第1弾も同時期に登場",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGhHbkJXajlGeFpUaGRtTTNVM25TTlAxQW5abFdkZ3RpZThpVl8tTlRnUV9tTGxZczUtbnF2MTFYU2g5NS1zd1ZrN25HX0h2TndGWVQwdWlLeVVLWDczUzZVbldEVXNSZkpGdzZKWEhqVnEyLUthd1lpMnRBZElMYnBYSkRrcTB0MGowcA?oc=5",
+   "source": "Gamereactor",
+   "sources": 2,
    "categories": [
+    "release",
     "update"
    ],
    "platforms": [
@@ -12514,8 +12496,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 951,
-   "accepted": 926
+   "archived": 950,
+   "accepted": 925
   },
   {
    "id": "4gamer-sp",
@@ -12536,8 +12518,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 564,
-   "accepted": 559
+   "archived": 559,
+   "accepted": 554
   },
   {
    "id": "denfaminico",
@@ -12547,8 +12529,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1248,
-   "accepted": 1074
+   "archived": 1242,
+   "accepted": 1070
   },
   {
    "id": "gamewatch",
@@ -12558,8 +12540,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 546,
-   "accepted": 505
+   "archived": 545,
+   "accepted": 504
   },
   {
    "id": "gamespark",
@@ -12569,8 +12551,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1317,
-   "accepted": 1302
+   "archived": 1314,
+   "accepted": 1299
   },
   {
    "id": "inside-games",
@@ -12580,8 +12562,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1567,
-   "accepted": 1151
+   "archived": 1565,
+   "accepted": 1149
   },
   {
    "id": "ps-blog",
@@ -12624,8 +12606,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 783,
-   "accepted": 626
+   "archived": 780,
+   "accepted": 625
   },
   {
    "id": "gnews-dengeki",
@@ -12657,8 +12639,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1190,
-   "accepted": 1008
+   "archived": 1188,
+   "accepted": 1006
   },
   {
    "id": "gnews-ps5",
@@ -12668,8 +12650,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 603,
-   "accepted": 550
+   "archived": 602,
+   "accepted": 551
   },
   {
    "id": "gnews-update",
@@ -12679,8 +12661,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 427,
-   "accepted": 312
+   "archived": 423,
+   "accepted": 310
   },
   {
    "id": "prtimes",
@@ -12690,8 +12672,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26018,
-   "accepted": 449
+   "archived": 25905,
+   "accepted": 447
   },
   {
    "id": "gematsu",
@@ -12701,8 +12683,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 350,
-   "accepted": 350
+   "archived": 349,
+   "accepted": 349
   },
   {
    "id": "ign",
@@ -12712,8 +12694,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1273,
-   "accepted": 1273
+   "archived": 1274,
+   "accepted": 1274
   },
   {
    "id": "eurogamer",
@@ -12745,8 +12727,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 314,
-   "accepted": 314
+   "archived": 313,
+   "accepted": 313
   },
   {
    "id": "pcgamer",
@@ -12761,6 +12743,174 @@
   }
  ],
  "items": [
+  {
+   "title": "「将来的には日本語を含む複数の言語で公式ローカライズを実装したい」宇宙船組立STG『eXoSpace Combat Engineer』【開発者インタビュー】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/25/174055.html",
+   "pubDate": "2026-10-25T02:45:03.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "eXoSpace Combat Engineer"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/25/174055.html"
+    }
+   ]
+  },
+  {
+   "title": "「一人称視点とソウルライクが理想の組み合わせであることを証明した」海外レビューハイスコア『Valor Mortis』",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/25/174054.html",
+   "pubDate": "2026-10-25T02:30:14.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Valor Mortis"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/25/174054.html"
+    }
+   ]
+  },
+  {
+   "title": "ガシャポン「HG ウルトラマン 60周年記念弾」が発売！「初代ウルトラマン（Aタイプ）」や「エリ巻恐竜 ジラース」など全4種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/25/189792.html",
+   "pubDate": "2026-10-25T02:20:03.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/25/189792.html"
+    }
+   ]
+  },
+  {
+   "title": "新作ガンプラ「HG ガンダムヴァサーゴ」のパッケージ画像公開！メガソニック砲撃つ瞬間をデザイン、背後には「アシュタロン」も",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/25/189791.html",
+   "pubDate": "2026-10-25T02:10:03.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/25/189791.html"
+    }
+   ]
+  },
+  {
+   "title": "女性しかいない世界に唯一の男として転生して“マッサージ”で美少女を救う3DアクションADV『ブルーバイト』期待に胸膨らむヒロインを指先で治療【26年9月後半にHOTな「美少女ゲー」はこれだ！】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/25/174053.html",
+   "pubDate": "2026-10-25T02:00:03.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ブルーバイト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/25/174053.html"
+    }
+   ]
+  },
+  {
+   "title": "「バイオハザード」新映画の主人公ブライアンくんに教えてあげたい「美少女×ゾンビゲーム」の変態的だが長生きしそうなサバイバル術【“最強武器”は服？ それとも生首？】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/25/189790.html",
+   "pubDate": "2026-10-25T02:00:03.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/25/189790.html"
+    }
+   ]
+  },
   {
    "title": "ゲーム企業307社，従事者6343人。欧州有数のゲーム開発都市ワルシャワと，ポーランドのゲーム産業を支える公的支援の取り組みを現地で聞いた",
    "summary": "「ウィッチャー」や「Frostpunk」などのヒット作を生んだポーランド。その首都ワルシャワは，ゲーム産業従事者の数で欧州有数の開発拠点となっている。企業と人材を呼び込む都市政策，試作から海外展開までを支える公的制度とは。現地の2つの講演からその取り組みを紹介する。",
@@ -12784,6 +12934,34 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/991/G999104/20261024004/"
+    }
+   ]
+  },
+  {
+   "title": "New Avengers: Doomsday Trailer Pokes Fun at Multiple 'Captains America'",
+   "summary": "Marvel dropped a new trailer for Avengers: Doomsday that leans heavily on the dynamic between Thor and Steve Rogers, especially their shared…",
+   "link": "https://www.ign.com/articles/avengers-doomsday-trailer-multiple-captains-america",
+   "pubDate": "2026-10-25T01:20:56.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/25/avengers-doomsday-describes-the-return-of-steve-rogers-as-a-usvw-1792891164279.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/avengers-doomsday-trailer-multiple-captains-america"
     }
    ]
   },
@@ -21009,6 +21187,37 @@
    ]
   },
   {
+   "title": "『地球防衛軍6.2』公式生放送レポート。炎上・凍結・電撃の武器カスタマイズを実演。巨大キノコが林立する戦場も！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CeVduTHdLU0lPQzl0T3I2eUFYbi1hTjV5UmtSWGFXelI2UkVUVjQ2ZU1raERiTS0wdnZyUEdfMFZxVk0zSkF3Ym5nMzVQQkhPN0tCb0tXbkh6QQ?oc=5",
+   "pubDate": "2026-10-23T13:19:00.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "地球防衛軍6.2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CeVduTHdLU0lPQzl0T3I2eUFYbi1hTjV5UmtSWGFXelI2UkVUVjQ2ZU1raERiTS0wdnZyUEdfMFZxVk0zSkF3Ym5nMzVQQkhPN0tCb0tXbkh6QQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "『ONE PIECE 海のごちそうレストラン』がSwitch・Switch 2向けに10月22日発売！ Steam・スマホ版は10月23日",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRmttc2dhV05QUW41X3oyV1QyU1dMUENfaS1SVlJxdFRYOTlsTVJyRTVreE80MEN3anNyVncwMmh2eHZFLUFKdXBqZU5SM2xhMVVxbEFPOVprSDB5UmtYVg?oc=5",
@@ -26595,6 +26804,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/23/173993.html"
+    }
+   ]
+  },
+  {
+   "title": "『プチプラネット』のリリース予告番組が日本時間2026年11月1日(日)20時より配信決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BcnRJLUVxMjZtTzFEejNMTVEyZkdIb2hocnJhN092ZXhOcW5WQldkcU9LekYxS3hCZ1A5NEttVDU3SlphRV9aWFRaeEtGeGg0eVp1NFZMeFZPME0?oc=5",
+   "pubDate": "2026-10-23T06:29:38.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "プチプラネット"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BcnRJLUVxMjZtTzFEejNMTVEyZkdIb2hocnJhN092ZXhOcW5WQldkcU9LekYxS3hCZ1A5NEttVDU3SlphRV9aWFRaeEtGeGg0eVp1NFZMeFZPME0?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -61414,7 +61654,7 @@
    ]
   },
   {
-   "title": "絵の中に住む助手と仮面の所長？ 新作RPG『人間奇想計画』の異質な世界観とスピードバトル、そして謎めく物語",
+   "title": "『人間奇想計画』の世界観が独特すぎてヤバイ。股間にモザイクな石像、フシギと呼ばれる謎生物…何もかもが斬新な新作RPGが爆誕",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbXlMeWNIbzZqWHFHUVhJUTZsU2I3d2hsdEdiX3JlYjVBR2NRNGwzMjZVWlhiQmdzbkk5SmQtNy1wSnF3VkxheFVucXcwMzNGT19aMm94OGtkdw?oc=5",
    "pubDate": "2026-10-21T03:00:00.000Z",
@@ -155447,6 +155687,34 @@
    ]
   },
   {
+   "title": "任天堂幹部、ゲームのパッケージ版を廃止する予定はないと明言。「ファンが好んでいることは理解している」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0loaTZtNXowUnViTUhyVU41M1dmQ2hQSEwwbmtqRi1mQ2U1cGFKY2swdXJrbkFIQ1hGTzhOakJtVFFaUzQ3N0ZJMGpKTEtZa2ZXTmNlOXcwekNBSmlNLWhrdS02X2VKam5jeVVpOGd3d3pMQktURjlqdDlaNDUxeFh0RzdqWkZ5?oc=5",
+   "pubDate": "2026-10-13T07:00:00.000Z",
+   "firstSeen": "2026-10-25T02:47:34.613Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-newgame",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0loaTZtNXowUnViTUhyVU41M1dmQ2hQSEwwbmtqRi1mQ2U1cGFKY2swdXJrbkFIQ1hGTzhOakJtVFFaUzQ3N0ZJMGpKTEtZa2ZXTmNlOXcwekNBSmlNLWhrdS02X2VKam5jeVVpOGd3d3pMQktURjlqdDlaNDUxeFh0RzdqWkZ5?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "数字のヒントを頼りにマスを埋め，隠された動物のドット絵を完成させていく。お絵かきロジック「Pet Cross」，体験版配信中",
    "summary": "SanoGamesは，PC向け新作「PetCross」の体験版をSteamで配信している。本作は，数字をヒントにマスを埋め，動物のドット絵を完成させるお絵かきロジック系のパズルゲームだ。",
    "link": "https://www.4gamer.net/games/049/G104965/20261013022/",
@@ -191481,315 +191749,6 @@
      "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QQXB6NDg1NHZuci12cjZlMjlwUGZETEFfSEl6UmJtQ2RTcXF3dllieE02aExVSWxRVlhRQzBqZ1dqQk1rYktWNTRKRm1FT1JpMlZ2R1hyN25Kdw?oc=5",
      "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "「ガンダム」シャア専用ズゴックの“腕”がクッションになった！特徴的な爪まで再現、手を入れてアームクッションとしても使用可能",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/188989.html",
-   "pubDate": "2026-10-09T00:55:02.000Z",
-   "firstSeen": "2026-10-09T01:47:55.530Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188989.html"
-    }
-   ]
-  },
-  {
-   "title": "PS5/PC“20世紀で時が止まった”田舎町サイコホラー『叫魂JIAOHUN』発表。マッチ・ポケベル・4:3カメラ、ノスタルジー装備で怪異うごめく町の謎を解き明かす",
-   "summary": "12AM BLACKOUT（子時熄灯）は10月9日、『叫魂（きょうこん）JIAOHUN』を発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261009-472675/",
-   "pubDate": "2026-10-09T00:46:47.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472675-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "叫魂JIAOHUN"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261009-472675/"
-    }
-   ]
-  },
-  {
-   "title": "PS5版『Forza Horizon 6』2027年1月26日発売決定。拡張コンテンツ第1弾も全機種向けに配信へ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56M3FqYUZTcHhpSTF1a2Yza1ZobEdlMWpXN1A2el9ONkxkQjBXQThFRnVZNWVlWGJFTjE2bnhTUTRQSUZXZ3MyYmNobmlaSlRTeS1jMHM2RklpS0520gFiQVVfeXFMT1g4N2c0NDA2ZExTZkZSbjZEeEpWZGQ0SkRLYV9xQ25KVWdYQ2J6S285NkhkY0dpVVdlYVFFOTBaU3I3cWp4WWgydFVKTWtlZlh4Nmo5WlRXWkhDSFlzWkN4Ymc?oc=5",
-   "pubDate": "2026-10-09T00:46:27.000Z",
-   "firstSeen": "2026-10-09T06:47:49.758Z",
-   "image": null,
-   "source": "CoRRiENTE",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "Forza Horizon 6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CoRRiENTE",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56M3FqYUZTcHhpSTF1a2Yza1ZobEdlMWpXN1A2el9ONkxkQjBXQThFRnVZNWVlWGJFTjE2bnhTUTRQSUZXZ3MyYmNobmlaSlRTeS1jMHM2RklpS0520gFiQVVfeXFMT1g4N2c0NDA2ZExTZkZSbjZEeEpWZGQ0SkRLYV9xQ25KVWdYQ2J6S285NkhkY0dpVVdlYVFFOTBaU3I3cWp4WWgydFVKTWtlZlh4Nmo5WlRXWkhDSFlzWkN4Ymc?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "『エーペックスレジェンズ』に9月29日に導入されたチート対策「EA Javelin」が、最初の1週間で26万5550件のチートを阻止。1万2969のアカウントがBANに",
-   "summary": "BANしたアカウントは阻止件数より大幅に少ないが、チートの大部分は「ゲームに影響する前に止めている」とのこと",
-   "link": "https://news.denfaminicogamer.jp/news/261009n",
-   "pubDate": "2026-10-09T00:45:24.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f880e64654baad384f3afb9e4b0004e411770241.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "trouble"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エーペックスレジェンズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261009n"
-    }
-   ]
-  },
-  {
-   "title": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
-   "summary": "Good news, Witchers. Last week, CD Projekt Red released The Witcher 3 Remastered on multiple platforms, including the Switch 2. The develope…",
-   "link": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-   "pubDate": "2026-10-09T00:45:00.000Z",
-   "firstSeen": "2026-10-09T01:47:55.530Z",
-   "image": "https://images.nintendolife.com/b81eda45a5550/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness"
-    }
-   ]
-  },
-  {
-   "title": "スマホ版『シージ』な『レインボーシックス モバイル』来年1月にサービス終了へ…日本配信から1年足らずで",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173405.html",
-   "pubDate": "2026-10-09T00:41:41.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trouble"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "シージ",
-    "レインボーシックス モバイル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173405.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188994.html"
-    }
-   ]
-  },
-  {
-   "title": "新作サバクラ『ゴブリンアイランド』、最大8人マルチ対応のプレイテストを配信開始！ゲームイベント「The Triple-i Initiative October 2026」で新情報を公開",
-   "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）は、インディーゲームのパブリッシングタイトルとして展開する新作サバイバルクラフトゲーム『ゴブリンアイランド（Isle Goblin）』につい...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000148.000071410.html",
-   "pubDate": "2026-10-09T00:40:39.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "release",
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゴブリンアイランド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000148.000071410.html"
-    }
-   ]
-  },
-  {
-   "title": "『餓狼伝説 City of the Wolves』 × 『東京リベンジャーズ』 無敵の総長。最強の副総長。東京卍會最強コンビ、参戦。 マイキー＆ドラケン トレーラー公開",
-   "summary": "株式会社SNKは、好評発売中の対戦格闘ゲーム『餓狼伝説 City of the Wolves』（以下、『餓狼伝説 CotW』）において、アニメ『東京リベンジャーズ』とのコラボキャラクター「佐野万次郎（マイキー）」および「龍宮...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000913.000028651.html",
-   "pubDate": "2026-10-09T00:40:39.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "trailer",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "餓狼伝説 City of the Wolves",
-    "東京リベンジャーズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000913.000028651.html"
-    }
-   ]
-  },
-  {
-   "title": "『どうぶつの森』びっくらたまごがプレバンにて予約実施！「たぬきち」「しずえ」など台座付きマスコット全6種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/188988.html",
-   "pubDate": "2026-10-09T00:40:02.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "どうぶつの森"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188988.html"
-    }
-   ]
-  },
-  {
-   "title": "手描きロトスコープ採用のメトロイドヴァニア風サバイバルホラー『Silver Pines』リリース",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173404.html",
-   "pubDate": "2026-10-09T00:30:03.000Z",
-   "firstSeen": "2026-10-09T00:47:48.167Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Silver Pines"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173404.html"
     }
    ]
   }
