@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-25T23:36:01.450Z",
+ "generatedAt": "2026-10-25T23:47:53.158Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1084,
+  "exact": 1085,
   "syndicated": 84,
   "similar": 297,
   "syndicatedTotal": 345,
@@ -11862,24 +11862,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-03",
-   "precision": "month",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "日経Gaming、主催イベント「GLGa」を2027年3月に初開催",
-   "link": "https://prtimes.jp/main/html/rd/p/000000350.000041279.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "event",
-    "indie",
-    "business"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-03-02",
    "precision": "day",
    "verb": "release",
@@ -12323,8 +12305,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 913,
-   "accepted": 888
+   "archived": 914,
+   "accepted": 889
   },
   {
    "id": "4gamer-sp",
@@ -12433,8 +12415,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 750,
-   "accepted": 600
+   "archived": 751,
+   "accepted": 601
   },
   {
    "id": "gnews-dengeki",
@@ -12487,9 +12469,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 411,
-   "accepted": 303
+   "fetched": 73,
+   "archived": 412,
+   "accepted": 304
   },
   {
    "id": "prtimes",
@@ -12499,7 +12481,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25341,
+   "archived": 25342,
    "accepted": 439
   },
   {
@@ -12565,11 +12547,37 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 585,
-   "accepted": 585
+   "archived": 584,
+   "accepted": 584
   }
  ],
  "items": [
+  {
+   "title": "Access Accepted第876回：名門BioWareの終焉と，EAが描く「次の時代」",
+   "summary": "「マスエフェクト」や「ドラゴンエイジ」などの名作RPGを生み出してきたBioWareが，31年の歴史に幕を下ろした。ElectronicArtsは名門スタジオの閉鎖とともに新たな経営戦略を発表し，収益性の高い事業への投資集中を鮮明にしている。過去にも数々の開発スタジオを閉鎖してき…",
+   "link": "https://www.4gamer.net/games/036/G003691/20261023037/",
+   "pubDate": "2026-10-25T23:35:00.000Z",
+   "firstSeen": "2026-10-25T23:47:37.211Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/036/G003691/20261023037/"
+    }
+   ]
+  },
   {
    "title": "初代『トゥームレイダー』を再構築したゲーム『トゥームレイダー：レガシー・オブ・アトランティス』の最新映像が公開。シリーズ30周年記念映像で、ララの身体が金に変わる場面も",
    "summary": "シリーズ30周年記念映像で、ララの身体が金に変わる場面も。PS5、Xbox Series X|S、Switch 2、PC向けで2027年2月13日に発売予定",
@@ -12640,6 +12648,38 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01d2RmLWxPN3UtZVNOZ3JBYll0dEhlOVVqX0ZYb0tpbl91eW5HcF9fRkZvWFpMamV2c2hieElUTVI2T3hpZXFwTW1xR3NJRnZmeXZnTHZ0U3h5R1pMblh4akVjV0pzNHBEOXUtTnJyUXNGcEE?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Steamにて「パーソナルカレンダー」が正式リリース。自分好みの新作ゲームをカレンダーで表示",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPc1ZLOGpwT1ZOVmZEblYxNjk2YlhIUlkxWEdJSDdBQVN0WW9mdDlPc3JDS3FreUc0cnRuVlFCTk1lb2xRc29LeDBLdkpxN3IxWVZXb0NfakQ?oc=5",
+   "pubDate": "2026-10-25T23:18:00.000Z",
+   "firstSeen": "2026-10-25T23:47:37.211Z",
+   "image": null,
+   "source": "電ファミニコゲーマー",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPc1ZLOGpwT1ZOVmZEblYxNjk2YlhIUlkxWEdJSDdBQVN0WW9mdDlPc3JDS3FreUc0cnRuVlFCTk1lb2xRc29LeDBLdkpxN3IxWVZXb0NfakQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -31769,7 +31809,7 @@
    "firstSeen": "2026-10-23T07:47:40.821Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -31787,9 +31827,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lOWhDbkM1c3Z3SFo3MmdRb3BNWUkzcG0xbFB6Nm5MSDFMb0tZNmtKRzJUcHN4TGFUZFBJaGxmSFhiWHd2a3RDdmhnTmdZaF9RZk9Ub1ViUQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -191264,67 +191304,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/09/189012.html"
-    }
-   ]
-  },
-  {
-   "title": "『Japanese Ramen Simulator』早期アクセス版が本日（10/9）17時配信。担々麺や新食材のニラ、ひとりプレイ向けのバイト機能が実装",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzWjNfd2lrVWRxOXFKYmVqTExLeHlXaFJKalNEeDZLMUoyVC10VF9YTUY5cS05NENPbllSbkphcHdQa2NNaUJZRlJENVZma2Z4bnBKdDNvcw?oc=5",
-   "pubDate": "2026-10-09T05:00:00.000Z",
-   "firstSeen": "2026-10-09T06:47:49.758Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Japanese Ramen Simulator"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzWjNfd2lrVWRxOXFKYmVqTExLeHlXaFJKalNEeDZLMUoyVC10VF9YTUY5cS05NENPbllSbkphcHdQa2NNaUJZRlJENVZma2Z4bnBKdDNvcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "日経Gaming、主催イベント「GLGa」を2027年3月に初開催",
-   "summary": "株式会社日経BP（本社：東京都港区、社長CEO：井口 哲也）が運営するビジネス視点のゲームメディア「日経Gaming」は、ゲーム業界のBtoB企業およびインディーゲームクリエイターのビジネスマッチングを目的とし...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000350.000041279.html",
-   "pubDate": "2026-10-09T05:00:00.000Z",
-   "firstSeen": "2026-10-09T06:47:49.758Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event",
-    "indie",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000350.000041279.html"
     }
    ]
   }
