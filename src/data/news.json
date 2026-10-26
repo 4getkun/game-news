@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-25T23:47:53.158Z",
+ "generatedAt": "2026-10-26T00:47:53.089Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1085,
+  "exact": 1086,
   "syndicated": 84,
-  "similar": 297,
-  "syndicatedTotal": 345,
+  "similar": 298,
+  "syndicatedTotal": 346,
   "syndicatedLeft": 32
  },
  "calendar": [
@@ -5781,6 +5781,20 @@
   {
    "date": "2026-10-24",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "ファクトリ囲碁",
+   "title": "初心者でもわかりやすいスチームパンク囲碁『ファクトリ囲碁』が注目集める。周りを囲まれると大爆発、知的でスリリングな工場建設バトル",
+   "link": "https://automaton-media.com/articles/newsjp/20261026-475492/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-24",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -6123,22 +6137,6 @@
    "work": "ちいかわぽけっと",
    "title": "『ちいかわぽけっと』公式グッズ第4弾が10月24日発売！お弁当の具やお店屋さん衣装Tシャツ、トートバッグなど豊富なデザイン",
    "link": "https://www.inside-games.jp/article/2026/10/13/189179.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-24",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「2026年 サンリオキャラクター大賞当りくじ」が10月24日発売！「ポムポムプリン」をはじめ、上位メンバーのスペシャルなグッズがズラリ",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189012.html",
    "source": "インサイド",
    "sources": 1,
    "categories": [
@@ -7647,6 +7645,22 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-31",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "アイカツ",
+   "title": "しまむらで『アイカツ』スペシャルコラボが決定！キラッキラに輝くアイドルたちのグッズが10月31日発売",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189813.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -9976,7 +9990,7 @@
    "title": "『アズールレーン』開発元新作『アズールプロミリア』11月26日リリースへ。期待のモンスター育成美少女ファンタジーRPG、まもなく",
    "link": "https://automaton-media.com/articles/newsjp/20261023-475115/",
    "source": "AUTOMATON",
-   "sources": 3,
+   "sources": 4,
    "categories": [
     "new",
     "release"
@@ -10819,22 +10833,6 @@
    "categories": [
     "update",
     "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-08",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "あなたを殺したいほど愛している悪魔を酔い潰す。ロシアンルーレット飲みサバイバル「PUKEY GODDESS SHOT TRICK」，12月8日に発売決定",
-   "link": "https://www.4gamer.net/games/002/G100266/20261009012/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -12327,8 +12325,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 547,
-   "accepted": 542
+   "archived": 548,
+   "accepted": 543
   },
   {
    "id": "denfaminico",
@@ -12349,8 +12347,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 541,
-   "accepted": 501
+   "archived": 542,
+   "accepted": 502
   },
   {
    "id": "gamespark",
@@ -12371,8 +12369,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1520,
-   "accepted": 1118
+   "archived": 1519,
+   "accepted": 1116
   },
   {
    "id": "ps-blog",
@@ -12404,8 +12402,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 105,
-   "accepted": 70
+   "archived": 106,
+   "accepted": 71
   },
   {
    "id": "gnews-famitsu",
@@ -12415,8 +12413,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 751,
-   "accepted": 601
+   "archived": 752,
+   "accepted": 602
   },
   {
    "id": "gnews-dengeki",
@@ -12426,8 +12424,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 755,
-   "accepted": 385
+   "archived": 757,
+   "accepted": 386
   },
   {
    "id": "gnews-newgame",
@@ -12469,7 +12467,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 73,
+   "fetched": 100,
    "archived": 412,
    "accepted": 304
   },
@@ -12481,8 +12479,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25342,
-   "accepted": 439
+   "archived": 25395,
+   "accepted": 440
   },
   {
    "id": "gematsu",
@@ -12503,8 +12501,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1233,
-   "accepted": 1233
+   "archived": 1232,
+   "accepted": 1232
   },
   {
    "id": "eurogamer",
@@ -12514,8 +12512,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 287,
-   "accepted": 287
+   "archived": 288,
+   "accepted": 288
   },
   {
    "id": "gamespot",
@@ -12547,11 +12545,242 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 584,
-   "accepted": 584
+   "archived": 583,
+   "accepted": 583
   }
  ],
  "items": [
+  {
+   "title": "しまむらで『アイカツ』スペシャルコラボが決定！キラッキラに輝くアイドルたちのグッズが10月31日発売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189813.html",
+   "pubDate": "2026-10-26T00:30:03.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アイカツ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189813.html"
+    }
+   ]
+  },
+  {
+   "title": "初心者でもわかりやすいスチームパンク囲碁『ファクトリ囲碁』が注目集める。周りを囲まれると大爆発、知的でスリリングな工場建設バトル",
+   "summary": "ひらじ氏は10月24日、『ファクトリ囲碁』をリリースした。itch.ioにて公開されており、ブラウザから無料でプレイすることができる。",
+   "link": "https://automaton-media.com/articles/newsjp/20261026-475492/",
+   "pubDate": "2026-10-26T00:29:48.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261026-475492-header-6.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ファクトリ囲碁"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261026-475492/"
+    }
+   ]
+  },
+  {
+   "title": "暗黒武侠ACT大作『Phantom Blade Zero』メタスコア88点！「学校で教えられるべきゲームデザイン」とパリィなど駆使する戦闘システムが高評価",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/26/174069.html",
+   "pubDate": "2026-10-26T00:28:47.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Phantom Blade Zero"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/26/174069.html"
+    }
+   ]
+  },
+  {
+   "title": "ランダムトレカ制作の「オシコレ」、2周年記念の大型アップデートを11月1日に実施",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000006.000156226.html",
+   "pubDate": "2026-10-26T00:15:17.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000006.000156226.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】ASUSのゲーミングノートPC「ASUS Gaming V16」限定モデルがお買い得",
+   "summary": "Amazonにて、ASUSのゲーミングノートPC「ASUS Gaming V16」Amazon限定モデル（V3607VH-C5165R5050W）が特別価格で販売されている。セール価格は参考価格から21%オフの189,800円。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2150992.html",
+   "pubDate": "2026-10-26T00:13:21.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2150992.html"
+    }
+   ]
+  },
+  {
+   "title": "『Phantom Blade Zero』を20時間プレイした感想！戦闘は気になる点もあるが、あまりにも魅力的な世界に取りつかれてしまった",
+   "summary": "当分、この世界から離れられそうにない 『Phantom Blade Zero』を20時間ほどプレイして、ひとつ確信していることがある。それは、私がこのゲームにすっかり取りつかれてしまったことだ。プレイしていないときも、このゲームのことを考えてしまう。次はどこを探索しようか。あの場…",
+   "link": "https://jp.ign.com/phantom-blade-zero/84478/phantom-blade-zero20",
+   "pubDate": "2026-10-26T00:00:09.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": "https://sm.ign.com/ign_jp/screenshot/default/pbz20thumb_da1d.png",
+   "source": "IGN Japan",
+   "sourceId": "ign-jp",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Phantom Blade Zero"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN Japan",
+     "sourceId": "ign-jp",
+     "link": "https://jp.ign.com/phantom-blade-zero/84478/phantom-blade-zero20"
+    }
+   ]
+  },
+  {
+   "title": "Game*Sparkレビュー：『Phantom Blade Zero』こんなカンフーゲームを待っていた！物語には「漢字の壁」も、戦闘には底知れぬ魅力。アクションゲーム史に名を刻む傑作",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/26/174068.html",
+   "pubDate": "2026-10-26T00:00:03.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Phantom Blade Zero"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/26/174068.html"
+    }
+   ]
+  },
+  {
+   "title": "Phantom Blade Zero review",
+   "summary": "I wasn't around to witness the golden age of Martial Arts cinema, but there are moments in Phantom Blade Zero that make me feel as though I'…",
+   "link": "https://www.eurogamer.net/phantom-blade-zero-review-1",
+   "pubDate": "2026-10-26T00:00:00.000Z",
+   "firstSeen": "2026-10-26T00:47:38.402Z",
+   "image": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-review-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/phantom-blade-zero-review-1"
+    },
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/phantom-blade-zero-review"
+    }
+   ]
+  },
   {
    "title": "Access Accepted第876回：名門BioWareの終焉と，EAが描く「次の時代」",
    "summary": "「マスエフェクト」や「ドラゴンエイジ」などの名作RPGを生み出してきたBioWareが，31年の歴史に幕を下ろした。ElectronicArtsは名門スタジオの閉鎖とともに新たな経営戦略を発表し，収益性の高い事業への投資集中を鮮明にしている。過去にも数々の開発スタジオを閉鎖してき…",
@@ -15628,6 +15857,13 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41MWRZa2IxdjBlbUV3Tl9zLWZMeWd6OTRzWnBnekVhdUJab1ZJaUVmYTdZMlFjaHltNV9yTVZXV29fM2V3R2d1R2JB?oc=5",
      "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMjM0M1RQVHhKT2xVaGJiOFJDcnNuT3B3enhxakxmNm05NWhpSVdGb3p6U2RUOF9qMmpLWW1wQ0ZrbXJReVl1czJ5THZQaTMyWEtONnlYTk5ULUtSUzV2bWFEVlhhbE13bG5JVmxDWVh0STVQRGJMLWhMWQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
     }
    ]
   },
@@ -18492,7 +18728,7 @@
    "firstSeen": "2026-10-24T12:47:35.858Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -18507,9 +18743,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81bEN5OTlUMUJvT2xMd3kwa3hKek5uNzNXVjRNeXdDdkJ6SEdpeE5iZnBXMzRfemlpLTFfZnZ2a3l4LWE3T2tQNXZzMXE5cjhROC03Y0JoWQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -32761,6 +32997,12 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/23/189684.html"
+    },
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTmY2c3F6TWdEM3M1ZTBhQnJiUlFFSFpSTUNOc3hzOWhYN0pJNE4yY0JvdGNlZGxHeFRLMXcxWlBNelFUcHRPU3pLc3p1ektMUjd1My1FMVRzZw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -64483,7 +64725,7 @@
    "pubDate": "2026-10-21T03:25:00.000Z",
    "firstSeen": "2026-10-21T04:47:37.208Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
@@ -64499,7 +64741,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVjRUeEh2MU91ZUR3VzUwVGMzcUswS0ZfNEJwVS1IcG9iVjg0YzdjWGlERzFLY3BYS0hMUHRWMXFtTWNvd2Faak5FcVVBa2RpalVrWVI3Yw?oc=5",
      "via": "Googleニュース「ファミ通」"
@@ -184977,6 +185219,34 @@
    ]
   },
   {
+   "title": "EA Sports FC 27 review",
+   "summary": "The most touching of additions, in EA Sports FC 27, is a mode called The Grounds. This is an online social hub, where your custom avatar can…",
+   "link": "https://www.eurogamer.net/ea-sports-fc-27-review",
+   "pubDate": "2026-10-09T12:33:20.000Z",
+   "firstSeen": "2026-10-09T12:48:00.841Z",
+   "image": "https://assetsio.gnwcdn.com/FC-Sports-1.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/ea-sports-fc-27-review"
+    }
+   ]
+  },
+  {
    "title": "“圧倒的に好評”スタート！『The Witness』『Braid』開発者の10年ぶり新作『Order of the Sinking Star』1,000超パズルを手作りした狂気",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/09/173444.html",
@@ -191042,268 +191312,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/758/G075801/20261009016/"
-    }
-   ]
-  },
-  {
-   "title": "ストッキング越しに見える美太もも！『アズレン』より「高雄」がレースクイーン衣装で立体化、1/4のビッグスケール",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189014.html",
-   "pubDate": "2026-10-09T05:30:03.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アズレン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189014.html"
-    }
-   ]
-  },
-  {
-   "title": "『餓狼伝説 CotW』に『鉄拳8』麗奈が参戦か？謎のシルエット映る予告映像にファンが沸く―なんらかのコラボは確定",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173418.html",
-   "pubDate": "2026-10-09T05:30:02.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "trailer",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "餓狼伝説 CotW",
-    "鉄拳8"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173418.html"
-    }
-   ]
-  },
-  {
-   "title": "あなたを殺したいほど愛している悪魔を酔い潰す。ロシアンルーレット飲みサバイバル「PUKEY GODDESS SHOT TRICK」，12月8日に発売決定",
-   "summary": "アライアンス・アーツは本日，PC用ソフト「PUKEYGODDESSSHOTTRICK」の発売日を2026年12月8日と発表した。価格は666円（税込）。本作は，あなたを殺したいほど愛している悪魔を相手に，魂を吐くか吐かせるかの駆け引きを行うロシアンルーレット飲みサバイバルゲームだ…",
-   "link": "https://www.4gamer.net/games/002/G100266/20261009012/",
-   "pubDate": "2026-10-09T05:17:08.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/002/G100266/20261009012/"
-    }
-   ]
-  },
-  {
-   "title": "ゲームのための世界ではなく，“世界のための世界”を作っていい。エリック・シャイ氏×上田文人氏が語るゲームデザイン［The Tenth Mosaic］",
-   "summary": "「アウターワールド」が「ICO」の「手をつなぐ」という発想に与えた影響とは？ 非言語表現，技術的制約との付き合い方，世界を先に存在させるゲームデザインなど，エリック・シャイ氏と上田文人氏が創作の共通点を探った。",
-   "link": "https://www.4gamer.net/games/426/G042651/20261005004/",
-   "pubDate": "2026-10-09T05:13:20.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/426/G042651/20261005004/"
-    }
-   ]
-  },
-  {
-   "title": "チャットAI「Claude」への“不必要な虐待行為”が禁止に、利用ポリシーの改定が発表。繰り返し目的もなく残酷な言動を続ける極端なケースが対象で、正統な不満や反論、創作、研究などの理由がある場合は対象外",
-   "summary": "繰り返し目的もなく残酷な言動を続ける極端なケースが対象で、正当な不満や反論、創作、研究などの理由がある場合は対象外。新たな規定は11月12日より発効",
-   "link": "https://news.denfaminicogamer.jp/news/2610092k",
-   "pubDate": "2026-10-09T05:11:45.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Claude-logo-Slate-1024x639.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610092k"
-    }
-   ]
-  },
-  {
-   "title": "『The Witness』作者の10年ぶり新作『Order of the Sinking Star』、さっそくSteamで“97％高評価”。「1000問超のパズル」が物量で迫る、濃密すぎ大迷宮",
-   "summary": "Arc Gamesは10月9日、Theklaが手がける『Order of the Sinking Star』のPC（Steam）版を配信開始した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261009-472761/",
-   "pubDate": "2026-10-09T05:07:40.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472761-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "The Witness",
-    "Order of the Sinking Star"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261009-472761/"
-    }
-   ]
-  },
-  {
-   "title": "Aimingが後場急騰､新作ゲームの配信開始を買い材料視",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hTWU3YmFIcGwtWGtRX2ZiSWtyd3ktNC1BajFSM2d3Y3hnSGZEd3BhYUxIR3pIcFVaSzl2UW5QQ084em44X3ZZV05ja0c5UEhCaFE2LUNfMA?oc=5",
-   "pubDate": "2026-10-09T05:04:48.000Z",
-   "firstSeen": "2026-10-09T06:47:49.758Z",
-   "image": null,
-   "source": "四季報オンライン",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "四季報オンライン",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hTWU3YmFIcGwtWGtRX2ZiSWtyd3ktNC1BajFSM2d3Y3hnSGZEd3BhYUxIR3pIcFVaSzl2UW5QQ084em44X3ZZV05ja0c5UEhCaFE2LUNfMA?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "私立探偵が銃で戦いながら行方不明者を捜索するホラーゲーム『Silver Pines』が本日発売。寂れた町の暗い雰囲気が怖すぎる",
-   "summary": "メトロイドヴァニア風の探索を進めながら、悪夢のような恐怖に立ち向かい謎を解き明かしていく",
-   "link": "https://news.denfaminicogamer.jp/news/2610092a",
-   "pubDate": "2026-10-09T05:03:24.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_3ab713a4a26d907522067941ecff9376bd5e7401.1920x1080-1-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Silver Pines"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610092a"
-    }
-   ]
-  },
-  {
-   "title": "「2026年 サンリオキャラクター大賞当りくじ」が10月24日発売！「ポムポムプリン」をはじめ、上位メンバーのスペシャルなグッズがズラリ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189012.html",
-   "pubDate": "2026-10-09T05:00:03.000Z",
-   "firstSeen": "2026-10-09T05:47:52.680Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189012.html"
     }
    ]
   }
