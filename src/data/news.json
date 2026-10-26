@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-26T22:47:46.741Z",
+ "generatedAt": "2026-10-26T23:47:44.169Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1099,
+  "exact": 1097,
   "syndicated": 84,
   "similar": 300,
-  "syndicatedTotal": 346,
+  "syndicatedTotal": 344,
   "syndicatedLeft": 31
  },
  "calendar": [
@@ -7087,6 +7087,38 @@
   {
    "date": "2026-10-29",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「大戦略SSB2」，中国・北朝鮮による対馬占拠を描く新シナリオを10月29日配信。五稜郭を舞台にしたフリーマップも追加",
+   "link": "https://www.4gamer.net/games/946/G094686/20261026049/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "大戦略SSB2",
+   "title": "硬派戦略シム『大戦略SSB2』10月29日の無料アプデは日本の新マップ2連発。「対馬奪還」シナリオマップ、そして北海道の「五稜郭」で戦う新フリーマップ実装へ",
+   "link": "https://automaton-media.com/articles/newsjp/20261026-475710/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -8266,7 +8298,7 @@
    "title": "HoYoverse「プチプラネット」リリース予告番組が11月1日に配信決定",
    "link": "https://game.watch.impress.co.jp/docs/news/2150665.html",
    "source": "GAME Watch",
-   "sources": 5,
+   "sources": 6,
    "categories": [
     "release"
    ],
@@ -10485,22 +10517,6 @@
    "source": "AUTOMATON",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-29",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "eスポGOMI in 多摩永山中学校",
-   "title": "【eスポーツ×ごみ拾い】で楽しみながら環境について考えよう！『eスポGOMI in 多摩永山中学校』開催決定",
-   "link": "https://prtimes.jp/main/html/rd/p/000000088.000077755.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "esports"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -12783,8 +12799,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 956,
-   "accepted": 931
+   "archived": 957,
+   "accepted": 932
   },
   {
    "id": "4gamer-sp",
@@ -12794,8 +12810,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 222,
-   "accepted": 211
+   "archived": 223,
+   "accepted": 212
   },
   {
    "id": "automaton",
@@ -12805,8 +12821,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 560,
-   "accepted": 555
+   "archived": 561,
+   "accepted": 556
   },
   {
    "id": "denfaminico",
@@ -12816,8 +12832,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1236,
-   "accepted": 1071
+   "archived": 1237,
+   "accepted": 1072
   },
   {
    "id": "gamewatch",
@@ -12838,8 +12854,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1301,
-   "accepted": 1286
+   "archived": 1300,
+   "accepted": 1285
   },
   {
    "id": "inside-games",
@@ -12849,8 +12865,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1570,
-   "accepted": 1156
+   "archived": 1568,
+   "accepted": 1154
   },
   {
    "id": "ps-blog",
@@ -12904,7 +12920,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 763,
+   "archived": 765,
    "accepted": 388
   },
   {
@@ -12914,9 +12930,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 466,
-   "accepted": 441
+   "fetched": 75,
+   "archived": 465,
+   "accepted": 440
   },
   {
    "id": "gnews-switch2",
@@ -12926,8 +12942,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1186,
-   "accepted": 1014
+   "archived": 1185,
+   "accepted": 1012
   },
   {
    "id": "gnews-ps5",
@@ -12936,9 +12952,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 93,
-   "archived": 592,
-   "accepted": 539
+   "fetched": 100,
+   "archived": 593,
+   "accepted": 540
   },
   {
    "id": "gnews-update",
@@ -12947,7 +12963,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 58,
    "archived": 410,
    "accepted": 307
   },
@@ -12959,7 +12975,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26095,
+   "archived": 26098,
    "accepted": 446
   },
   {
@@ -12981,8 +12997,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1250,
-   "accepted": 1250
+   "archived": 1252,
+   "accepted": 1252
   },
   {
    "id": "eurogamer",
@@ -13003,8 +13019,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 297,
-   "accepted": 297
+   "archived": 299,
+   "accepted": 299
   },
   {
    "id": "nintendolife",
@@ -13025,11 +13041,242 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 598,
-   "accepted": 598
+   "archived": 599,
+   "accepted": 599
   }
  ],
  "items": [
+  {
+   "title": "【人気】最大16人で月をお掃除するゲーム『Moon Sweepers』Steam最大同接「5万人」を突破。歯ブラシ片手に清掃員たちが続々集結",
+   "summary": "最大16人マルチで月面の砂ぼこりをかき集め、稼いだ資金でお掃除道具や施設をアップグレード。疲れたときには地球を眺めてひと休み",
+   "link": "https://news.denfaminicogamer.jp/news/261027g",
+   "pubDate": "2026-10-26T23:36:02.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_6985c316ef6f0988ea33b17954c097268134e3d1.1920x1080-1-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Moon Sweepers"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261027g"
+    }
+   ]
+  },
+  {
+   "title": "Here’s Another Mass Effect 5 Leak To Break Your Heart",
+   "summary": "If last week's mysterious Mass Effect: Universe trailer leak wasn't painful enough for you in the wake of BioWare's sudden closure, we've go…",
+   "link": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/",
+   "pubDate": "2026-10-26T23:31:44.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5-protagonist-1.png?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 1,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/"
+    }
+   ]
+  },
+  {
+   "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
+   "summary": "Blizzard dropped a final balance pass for each playable race's unique abilities.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/",
+   "pubDate": "2026-10-26T23:00:36.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/FHqxQ8rib2Fhszy67pWmWY-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/"
+    }
+   ]
+  },
+  {
+   "title": "【最大4人PT】『ゼルダ』にインスパイアされたライトMMO仕様のARPG『Scramble Knights Online』早期アクセス開始",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174113.html",
+   "pubDate": "2026-10-26T23:00:03.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゼルダ",
+    "Scramble Knights Online"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/27/174113.html"
+    }
+   ]
+  },
+  {
+   "title": "「大戦略SSB2」，中国・北朝鮮による対馬占拠を描く新シナリオを10月29日配信。五稜郭を舞台にしたフリーマップも追加",
+   "summary": "システムソフト・ベータは，戦略シミュレーション「大戦略SSB2」の無料アップデートを2026年10月29日10：00に配信すると発表した。中国と北朝鮮が対馬北部を占拠し，日本が奪還を目指す新シナリオ「対馬海峡危機」と，函館の五稜郭を舞台にしたフリーマップ「五稜郭からの侵略者II」…",
+   "link": "https://www.4gamer.net/games/946/G094686/20261026049/",
+   "pubDate": "2026-10-26T23:00:00.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/946/G094686/20261026049/"
+    }
+   ]
+  },
+  {
+   "title": "HoYoverse初のスローライフゲーム「プチプラネット」，リリース予告番組を11月1日20：00から配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "HoYoverse初のスローライフゲーム「プチプラネット」のリリース予告番組が11月1日20：00から配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "link": "https://www.4gamer.net/games/421/G042182/20261026053/",
+   "pubDate": "2026-10-26T23:00:00.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "プチプラネット"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/421/G042182/20261026053/"
+    }
+   ]
+  },
+  {
+   "title": "硬派戦略シム『大戦略SSB2』10月29日の無料アプデは日本の新マップ2連発。「対馬奪還」シナリオマップ、そして北海道の「五稜郭」で戦う新フリーマップ実装へ",
+   "summary": "システムソフト・ベータは10月27日、戦略シム『大戦略SSB2』向けの無料アップデートを10月29日に配信することを発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261026-475710/",
+   "pubDate": "2026-10-26T23:00:00.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261026-475710-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "大戦略SSB2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261026-475710/"
+    }
+   ]
+  },
+  {
+   "title": "WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch",
+   "summary": "World of Warcraft: Forever's release is just around the corner, but developer Blizzard is making one final pass at the game's racial abiliti…",
+   "link": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
+   "pubDate": "2026-10-26T22:48:46.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Changes-One-Last-Time.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/"
+    }
+   ]
+  },
   {
    "title": "『サイバーパンク2077』Steam版の同時接続者数が急増して18万7215人を記録し、人気再燃。アニメ『エッジランナーズ2』と無料アプデの配信後に",
    "summary": "アニメ配信の10月20日に5万5678人、無料アプデ配信の22日に9万1417人と伸ばし、25日に18万7215人を記録した",
@@ -13062,6 +13309,32 @@
    ]
   },
   {
+   "title": "Want To Smell Like a Werfwulf? This Perfume Has You Covered",
+   "summary": "",
+   "link": "https://www.ign.com/articles/want-to-smell-like-a-werfwulf-this-perfume-has-you-covered",
+   "pubDate": "2026-10-26T22:32:17.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/26/werwulf-poster-thumb-1790393002058.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/want-to-smell-like-a-werfwulf-this-perfume-has-you-covered"
+    }
+   ]
+  },
+  {
    "title": "『Big Walk』『ぽこ あ ポケモン』『Forza Horizon 6』がゲーム・オブ・ザ・イヤー候補に。「Golden Joystick Awards 2026」の最優秀賞ノミネートが発表",
    "summary": "「Golden Joystick Awards 2026」の最優秀賞ノミネートが発表。英国の表彰イベントで12本の作品が選出、10月30日までユーザー投票を受付中。なお、11月19日発売の『GTA6』は選考対象外",
    "link": "https://news.denfaminicogamer.jp/news/261027f",
@@ -13090,6 +13363,39 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/261027f"
+    }
+   ]
+  },
+  {
+   "title": "Save 20% off the Gamesir G7 Pro Wireless Gaming Controller in the Rarely Discounted Silver Color",
+   "summary": "The best PC gaming controller under $100.",
+   "link": "https://www.ign.com/articles/gamesir-g7-pro-wireless-pc-gaming-controller-deal-october-2026",
+   "pubDate": "2026-10-26T22:20:00.000Z",
+   "firstSeen": "2026-10-26T23:47:32.047Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/gamesirg7prosilver-1793052828002.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 20,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gamesir-g7-pro-wireless-pc-gaming-controller-deal-october-2026"
     }
    ]
   },
@@ -13577,7 +13883,7 @@
    "firstSeen": "2026-10-26T21:47:35.478Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -13594,9 +13900,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQTjZGS29UMmx1bFJjRko2Qm90RldHVHp5VnJVQUZHZnljQ2NOLVlVWktMZmlWalBMMkZDT3dnaDVxWXR1TlhDOENVR0RuR3RvRTMwTGdvZw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -14178,7 +14484,7 @@
   },
   {
    "title": "T-Mobile Is Offering a $1,000 Off Discount on the Apple iPhone Duo Foldable Smartphone",
-   "summary": "No trade-in required.",
+   "summary": "Apple's biggest iPhone update in years.",
    "link": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-deal-explained",
    "pubDate": "2026-10-26T18:50:00.000Z",
    "firstSeen": "2026-10-26T19:47:40.592Z",
@@ -14190,6 +14496,7 @@
    "lang": "en",
    "score": 0,
    "categories": [
+    "update",
     "mobile"
    ],
    "deal": null,
@@ -14512,7 +14819,7 @@
    ]
   },
   {
-   "title": "Microsoft is offering buyouts to over 25% of its workforce",
+   "title": "Over 25% of Microsoft's workforce is reportedly eligible to apply for a 'voluntary exit offer'",
    "summary": "An employee buyout offer is reportedly being extended to roughly 60,000 Microsoft employees in the US, UK, India, and Canada.",
    "link": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
    "pubDate": "2026-10-26T17:49:25.000Z",
@@ -16244,7 +16551,7 @@
    "firstSeen": "2026-10-26T13:47:36.783Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16262,9 +16569,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfMjNjdjVHc3J1WkNVUnk3eEo0TDBtaExmRkpIbGJGTHlLY0x0LTFHbUgxdzFsTlVxczZ4QzBXWWR1UHh4V29OYl93S2U3SGs3Q0U5dDZKVQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -35046,7 +35353,7 @@
    ]
   },
   {
-   "title": "This Comfortable Big and Tall Gaming Chair Drops to $129.99 With Free Delivery Ahead of Black Friday",
+   "title": "This Comfortable Big and Tall Gaming Chair Drops to $129.99 Ahead of Black Friday",
    "summary": "An inviting gaming chair without the high dollar price tag",
    "link": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-october-2026",
    "pubDate": "2026-10-23T16:20:00.000Z",
@@ -36213,6 +36520,12 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/23/174015.html"
+    },
+    {
+     "name": "GameBusiness.jp",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56MlFYajY5TEg1RGhES0RuLW5WNVFCVXZMWnlJNVNINF9zdEdaNGxMT1VLUVlpSFhrcXNtZG5uLXFRczVlV2h3enNHUE5oS1dpajMtTGhFN0ZLNjZvUm11UWVSdU5Za0J2?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -191377,321 +191690,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/10/173466.html"
-    }
-   ]
-  },
-  {
-   "title": "【P5R】『ペルソナ5 ザ・ロイヤル』とbeautiful peopleコラボの上下逆で着られるブルゾンって何なんだ。意味不明レベルの構造設計技術",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82d1M2T0RxX0EtWlh1VnliRk9IekhSNDVfdDdsbDRHWUZVeVF4Q3BaWFo2N0s1RjRCU2NpSU5NcTU3OTVZd19JUE5XSzZXYzZ1MWZ4ejhrTQ?oc=5",
-   "pubDate": "2026-10-10T04:47:00.000Z",
-   "firstSeen": "2026-10-10T05:48:30.008Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ペルソナ5 ザ・ロイヤル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82d1M2T0RxX0EtWlh1VnliRk9IekhSNDVfdDdsbDRHWUZVeVF4Q3BaWFo2N0s1RjRCU2NpSU5NcTU3OTVZd19JUE5XSzZXYzZ1MWZ4ejhrTQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "【エヴァンゲリオン】30周年展で京阪コラボが10/18始動！特別装飾列車や限定硬券乗車券が登場",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dU9RVjlXXzlwQVVHOWdtYzVTSVhTeFBzSFNtSFpsNE1xQzEySERIRHhBZHM0ZjFsdzNwb1dhWWJSSFJfaGpHRldaUElweEE2UlFwc05wa2tadw?oc=5",
-   "pubDate": "2026-10-10T04:33:00.000Z",
-   "firstSeen": "2026-10-10T10:47:36.199Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dU9RVjlXXzlwQVVHOWdtYzVTSVhTeFBzSFNtSFpsNE1xQzEySERIRHhBZHM0ZjFsdzNwb1dhWWJSSFJfaGpHRldaUElweEE2UlFwc05wa2tadw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "ホラーゲーム『Amanda the Adventurer』映画化が発表。映画『Fnaf』や『ミーガン』などのスタジオBlumhouseが制作",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RdFA5SWFQbVMwaEpfNHJfLUtCMXlpSG1iaFl3bkM0eGdhQkF3enB0TFR2Sm9tMFNIOU5sa09RT3R0bTZSS2N1NlluT01LbWJyTTlOX1pROA?oc=5",
-   "pubDate": "2026-10-10T04:20:00.000Z",
-   "firstSeen": "2026-10-10T05:48:30.008Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Amanda the Adventurer",
-    "FNaF",
-    "ミーガン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RdFA5SWFQbVMwaEpfNHJfLUtCMXlpSG1iaFl3bkM0eGdhQkF3enB0TFR2Sm9tMFNIOU5sa09RT3R0bTZSS2N1NlluT01LbWJyTTlOX1pROA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "「覗怪（しかい）」のプロローグムービー公開。科学アドベンチャーシリーズのスタッフによる完全新作オカルトサスペンス",
-   "summary": "MAGES.は，2026年冬のリリースを予定している新作アドベンチャーゲーム「覗怪（しかい）」のプロローグムービーを公開した。「STEINS;GATE」など，「論理と科学」で世界の謎を描いてきた科学アドベンチャーシリーズのスタッフが，科学では解き明かせない「怪異」に迫る異色作だ。",
-   "link": "https://www.4gamer.net/games/036/G103670/20261010009/",
-   "pubDate": "2026-10-10T04:15:17.000Z",
-   "firstSeen": "2026-10-10T04:48:30.341Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [
-    "覗怪(しかい)"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/036/G103670/20261010009/"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000263.000046985.html"
-    }
-   ]
-  },
-  {
-   "title": "【eスポーツ×ごみ拾い】で楽しみながら環境について考えよう！『eスポGOMI in 多摩永山中学校』開催決定",
-   "summary": "株式会社Life Reversal Gaming.（所在地：東京都文京区、代表取締役：高木 光治）は、2026年11月29日（日）に多摩永山中学校にて開催される「eスポGOMI in 多摩永山中学校」の運営に、eスポGOMI開催委員会（一般...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000088.000077755.html",
-   "pubDate": "2026-10-10T04:15:17.000Z",
-   "firstSeen": "2026-10-10T04:48:30.341Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "eスポGOMI in 多摩永山中学校"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000088.000077755.html"
-    }
-   ]
-  },
-  {
-   "title": "Switch2の試遊台から模造刀の店まで。物販ブースが目立つBGS会場フォトレポート［BGS2026］",
-   "summary": "2026年10月9日から12日まで開催されているゲームイベント「BrasilGameShow2026」では，メーカーの試遊ブースと並んで，フィギュアや模造刀，中古のレトロゲームを売る店がひしめき，アーケード機と体感型シミュレータの区画も広がる。初日の会場を写真で紹介しよう。",
-   "link": "https://www.4gamer.net/games/991/G999110/20261010008/",
-   "pubDate": "2026-10-10T04:10:54.000Z",
-   "firstSeen": "2026-10-10T04:48:30.341Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "demo",
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999110/20261010008/"
-    }
-   ]
-  },
-  {
-   "title": "DMM GAMESでも事前登録受付中！新作ブラウザゲーム『カオス★スマッシュ』",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000231.000087703.html",
-   "pubDate": "2026-10-10T04:00:02.000Z",
-   "firstSeen": "2026-10-10T05:48:30.008Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "release",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "カオス★スマッシュ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000231.000087703.html"
-    }
-   ]
-  },
-  {
-   "title": "『ソニックレーシング クロスワールド』に「綾波」「アスカ」「ゴジラ」「ベヨネッタ」「アイギス」参戦でさらにカオス極まる。先行体験でわかった新要素",
-   "summary": "『ソニックレーシング クロスワールド』に「綾波」「アスカ」「ゴジラ」「ベヨネッタ」「アイギス」参戦。体験してきた。",
-   "link": "https://automaton-media.com/articles/reportjp/sr-20261010-472915/",
-   "pubDate": "2026-10-10T03:47:43.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/sr-20261010-472915-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ソニックレーシング クロスワールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/reportjp/sr-20261010-472915/"
-    }
-   ]
-  },
-  {
-   "title": "『ソニック』新作短編アニメ11月12日に公開決定！『Memories and Beyond ～記憶の未来(さき)へ～』の予告映像が公開。ソニックやシャドウたちがメタルソニックに立ち向かう。日本語吹き替え版も準備中とのこと",
-   "summary": "エッグマン、テイルス、ナックルズ、エミー、ルージュも登場し、ソニック一行がメタルソニックと激しくバトルする。日本語吹き替え版も準備中とのこと",
-   "link": "https://news.denfaminicogamer.jp/news/261010i",
-   "pubDate": "2026-10-10T03:38:18.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/yt_sJG3HkcC64w_maxresdefault-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ソニック",
-    "Memories and Beyond ~記憶の未来(さき)へ~"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261010i"
-    }
-   ]
-  },
-  {
-   "title": "“身体から植物が生える少女“の生存探索会話ゲーム『彗星ブルーム』発表。「初対面なのになぜか懐かしい人たち」と交流しつつ、“終わり”の近づく日々を生きる",
-   "summary": "MITOH氏は10月10日、『彗星ブルーム』のSteamストアページを公開した。本作は宇宙と植物をテーマにしたストーリーアドベンチャーゲームだ。",
-   "link": "https://automaton-media.com/articles/newsjp/20261010-472906/",
-   "pubDate": "2026-10-10T03:31:19.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472906-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "彗星ブルーム"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261010-472906/"
     }
    ]
   }
