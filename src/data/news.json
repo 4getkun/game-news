@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-26T09:47:59.177Z",
+ "generatedAt": "2026-10-26T10:47:59.324Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1093,
+  "exact": 1091,
   "syndicated": 84,
   "similar": 301,
-  "syndicatedTotal": 348,
+  "syndicatedTotal": 346,
   "syndicatedLeft": 32
  },
  "calendar": [
@@ -3885,25 +3885,6 @@
    "sources": 1,
    "categories": [],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-21",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": null,
-   "title": "「ゼンレスゾーンゼロ」，Ver.3.3を10月21日に配信決定。同時にSteam版もリリース予定。「崩壊：スターレイル」とのコラボ情報も明らかに",
-   "link": "https://www.4gamer.net/games/630/G063081/20261009057/",
-   "source": "4Gamer.net（スマホ）",
-   "sources": 1,
-   "categories": [
-    "release",
-    "collab"
-   ],
-   "platforms": [
-    "pc"
-   ],
    "spoiler": false
   },
   {
@@ -8270,13 +8251,13 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": null,
-   "title": "ポチャッコとバッドばつ丸が仲間入り！ドン・キホーテで「サンリオキャラクターズ」マイクロファイバーシリーズ新作が11月2日発売",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189856.html",
+   "work": "ポケモン",
+   "title": "『ポケモン』30周年を記念した「ピルクル400」限定パッケージ全22種が11月2日より順次発売―カントー地方の51匹とビーダルが登場、特製グッズが当たるキャンペーンも",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189870.html",
    "source": "インサイド",
-   "sources": 1,
+   "sources": 2,
    "categories": [
-    "new"
+    "collab"
    ],
    "platforms": [],
    "spoiler": false
@@ -8286,12 +8267,14 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "ポケモン",
-   "title": "『ポケモン』デザインのピルクルが11月2日より順次発売。特製デザインのブランケットや保冷バッグ、デザインシールが当たるキャンペーンも開催",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BTnh2RzN4MlF3Y1MxTzM4R1VZNjZTV3lpUC1kMVlvQ21rYi10RnF4SU1kMVVwdVFILUx3bHo2cjVEcFd3cGt2bWp6Z2IwMlhQMzhVY1FQUQ?oc=5",
-   "source": "ファミ通",
+   "work": null,
+   "title": "ポチャッコとバッドばつ丸が仲間入り！ドン・キホーテで「サンリオキャラクターズ」マイクロファイバーシリーズ新作が11月2日発売",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189856.html",
+   "source": "インサイド",
    "sources": 1,
-   "categories": [],
+   "categories": [
+    "new"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -11647,6 +11630,22 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": null,
+   "title": "「Fallout Shelter」を題材にしたリアリティーショー番組「Fallout Shelter: The Experiment」，2027年1月13日から配信決定",
+   "link": "https://www.4gamer.net/games/345/G034579/20261026045/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01-13",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "Fallout",
    "title": "『Fallout』題材のリアリティショー「Fallout Shelter: The Experiment」2027年1月13日より配信",
    "link": "http://www.gamespark.jp/article/2026/10/24/174023.html",
@@ -12169,6 +12168,23 @@
    "precision": "month",
    "verb": "launch",
    "label": "配信",
+   "work": "ZERO Sievert 2",
+   "title": "PvE見下ろし脱出シューター続編『ZERO Sievert 2』2027年3月早期アクセス開始！最大4人協力プレイに対応",
+   "link": "http://www.gamespark.jp/article/2026/10/26/174097.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-03",
+   "precision": "month",
+   "verb": "launch",
+   "label": "配信",
    "work": null,
    "title": "「ZERO Sievert 2」，早期アクセス版を2027年3月にリリース決定。10月中にクローズドαテストを実施予定",
    "link": "https://www.4gamer.net/games/004/G100421/20261026023/",
@@ -12675,8 +12691,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 940,
-   "accepted": 915
+   "archived": 948,
+   "accepted": 923
   },
   {
    "id": "4gamer-sp",
@@ -12686,8 +12702,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 218,
-   "accepted": 207
+   "archived": 219,
+   "accepted": 208
   },
   {
    "id": "automaton",
@@ -12708,8 +12724,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1232,
-   "accepted": 1070
+   "archived": 1233,
+   "accepted": 1072
   },
   {
    "id": "gamewatch",
@@ -12719,8 +12735,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 557,
-   "accepted": 516
+   "archived": 559,
+   "accepted": 518
   },
   {
    "id": "gamespark",
@@ -12741,8 +12757,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1553,
-   "accepted": 1144
+   "archived": 1564,
+   "accepted": 1151
   },
   {
    "id": "ps-blog",
@@ -12786,7 +12802,7 @@
    "error": null,
    "fetched": 100,
    "archived": 766,
-   "accepted": 613
+   "accepted": 614
   },
   {
    "id": "gnews-dengeki",
@@ -12796,7 +12812,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 755,
+   "archived": 754,
    "accepted": 384
   },
   {
@@ -12807,8 +12823,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 464,
-   "accepted": 440
+   "archived": 462,
+   "accepted": 437
   },
   {
    "id": "gnews-switch2",
@@ -12818,8 +12834,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1183,
-   "accepted": 1008
+   "archived": 1185,
+   "accepted": 1010
   },
   {
    "id": "gnews-ps5",
@@ -12828,9 +12844,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 590,
-   "accepted": 537
+   "fetched": 80,
+   "archived": 588,
+   "accepted": 535
   },
   {
    "id": "gnews-update",
@@ -12851,8 +12867,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25829,
-   "accepted": 443
+   "archived": 25849,
+   "accepted": 444
   },
   {
    "id": "gematsu",
@@ -12884,8 +12900,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 287,
-   "accepted": 287
+   "archived": 288,
+   "accepted": 288
   },
   {
    "id": "gamespot",
@@ -12906,8 +12922,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 303,
-   "accepted": 303
+   "archived": 304,
+   "accepted": 304
   },
   {
    "id": "pcgamer",
@@ -12917,11 +12933,776 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 583,
-   "accepted": 583
+   "archived": 582,
+   "accepted": 582
   }
  ],
  "items": [
+  {
+   "title": "PvE見下ろし脱出シューター続編『ZERO Sievert 2』2027年3月早期アクセス開始！最大4人協力プレイに対応",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/26/174097.html",
+   "pubDate": "2026-10-26T10:45:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ZERO Sievert 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/26/174097.html"
+    }
+   ]
+  },
+  {
+   "title": "60秒のタイムループに巻き込まれた男が密室からの脱出を目指すホラーゲーム「60病」，Steamでリリース",
+   "summary": "マトリックスは本日（2026年10月26日），PC向け新作タイトル「60病」をSteamでリリースした。価格は680円（税込）。本作は，わずか60秒のタイムループに巻き込まれた男が，密室からの脱出を目指すホラーゲームだ。",
+   "link": "https://www.4gamer.net/games/006/G100681/20261026048/",
+   "pubDate": "2026-10-26T10:43:55.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "60病"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/006/G100681/20261026048/"
+    }
+   ]
+  },
+  {
+   "title": "カラフルな電脳世界が問う，AIたちの“ココロ”とは？ ビジュアルプログラミングがモチーフのパズルアクション「Re:Connect」",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/053/G105308/20261026044/",
+   "pubDate": "2026-10-26T10:41:51.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Re:Connect"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/053/G105308/20261026044/"
+    }
+   ]
+  },
+  {
+   "title": "プレイステーションネットワークの「ファミリー」に“無許可のメンバーが勝手に追加される”現象が発生中か。多数のユーザーが被害を報告",
+   "summary": "通常、ファミリー管理者アカウントからも登録されたファミリーメンバー（子ども）を削除することはできない。ソニーグループは産経新聞の取材に「調査中」と回答",
+   "link": "https://news.denfaminicogamer.jp/news/2610262n",
+   "pubDate": "2026-10-26T10:38:20.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HI4TjCKbcAE4hvu-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610262n"
+    }
+   ]
+  },
+  {
+   "title": "3つのモードで故郷に食糧を送り出す。「FANTASTIC JUNCTION」でユルくてハマるサバイバル生活！",
+   "summary": "インディーゲーム展示会「DREAMSCAPE#5」に，STUDIOえんが「FANTASTICJUNCTION」を出展していた。本作は“星を旅するchill-popサバイバル”。主人公は故郷のために過酷な惑星探査に挑むのだが，なんだかビジュアルがユルい……！",
+   "link": "https://www.4gamer.net/games/053/G105309/20261026047/",
+   "pubDate": "2026-10-26T10:33:38.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/053/G105309/20261026047/"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』4周年生放送も“謎の光”に遮られた!? 配信では見られなかった“無修正版”と比較してみたら、やはり「修正もやむなし」【フォトレポ】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189873.html",
+   "pubDate": "2026-10-26T10:30:07.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189873.html"
+    }
+   ]
+  },
+  {
+   "title": "99年初出の縦スクロール型STG『イディナローク』が最新OSに対応。新シナリオなどの+α要素を加えた「レストア版」に進化",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/26/174096.html",
+   "pubDate": "2026-10-26T10:30:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "イディナローク"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/26/174096.html"
+    }
+   ]
+  },
+  {
+   "title": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Starting Block",
+   "summary": "Modern Thumb Warfare. We made it to the final week of October, and the new releases show no sign of slowing down. Nintendo Switch Sports Res…",
+   "link": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-starting-block",
+   "pubDate": "2026-10-26T10:30:00.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": "https://images.nintendolife.com/74fa1439838df/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-starting-block"
+    }
+   ]
+  },
+  {
+   "title": "「Fallout Shelter」を題材にしたリアリティーショー番組「Fallout Shelter: The Experiment」，2027年1月13日から配信決定",
+   "summary": "Amazonは2026年10月24日，プライム会員向けのサービス「PrimeVideo」にて，「FalloutShelter」を題材にしたリアリティーショー番組「FalloutShelter:TheExperiment」を，2027年1月13日から配信すると発表した。",
+   "link": "https://www.4gamer.net/games/345/G034579/20261026045/",
+   "pubDate": "2026-10-26T10:26:35.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/345/G034579/20261026045/"
+    }
+   ]
+  },
+  {
+   "title": "ユニークなパズルアクション「表面迷宮 くるまぶ」。立体の上に貼り付けられた2Dの迷宮を，あちらの面からこちらの面へと多脚メカで走破する",
+   "summary": "インディーゲームイベント「DREAMSCAPE#5」に出展されたパズルアクション「SurfaceLabyrinthKURUMABU（表面迷宮くるまぶ）」のインプレッションをお届け。サイコロのような立体の表面に作られた迷宮を，クモのような多脚メカで突破していく。",
+   "link": "https://www.4gamer.net/games/053/G105307/20261026043/",
+   "pubDate": "2026-10-26T10:24:32.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "event",
+    "indie",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "表面迷宮 くるまぶ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/053/G105307/20261026043/"
+    }
+   ]
+  },
+  {
+   "title": "『ポケモン』30周年を記念した「ピルクル400」限定パッケージ全22種が11月2日より順次発売―カントー地方の51匹とビーダルが登場、特製グッズが当たるキャンペーンも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189870.html",
+   "pubDate": "2026-10-26T10:20:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189870.html"
+    }
+   ]
+  },
+  {
+   "title": "約5cmのガンプラで戦うミニチュアゲーム『ガンダムアッセンブル』がいよいよ発売！シャア専用ザク、ウイングゼロEWなど様々なMSが新たな大地に立つ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189869.html",
+   "pubDate": "2026-10-26T10:15:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ガンダムアッセンブル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189869.html"
+    }
+   ]
+  },
+  {
+   "title": "第1弾はいろはス！ゲーミングチェアやガラスマウスパッドなど新グッズシリーズ「holoLounge」受注開始ホロライブの新作ゲーミンググッズ",
+   "summary": "カバーは、新たなグッズシリーズ「holoLounge」を発表し、vol.1として「ラプラス・ダークネス」、「風真いろは」の受注を開始した。受注期間は11月16日18時まで。発送は4月下旬までを予定している。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2151290.html",
+   "pubDate": "2026-10-26T10:12:10.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "holoLounge"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2151290.html"
+    }
+   ]
+  },
+  {
+   "title": "【餓狼伝説CotW】Nintendo Switch 2版が発売——「Standard Edition」は2,970円、「Starter Edition」は3,960円 - https://esports-world.jp/",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Vdlh1ckltZTBHV0oySUUxdy1fZnlRV1JHMzBRTUhjakVjN181NFMwanJVVHVQX3VXLVowZnZ6YXhLaVBVVlctSDJlcw?oc=5",
+   "pubDate": "2026-10-26T10:07:30.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "Googleニュース「Nintendo Switch 2」",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「Nintendo Switch 2」",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Vdlh1ckltZTBHV0oySUUxdy1fZnlRV1JHMzBRTUhjakVjN181NFMwanJVVHVQX3VXLVowZnZ6YXhLaVBVVlctSDJlcw?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "『ロマサガ3』リメイク、「詩人（CV.寺畠陸）」「タチアナ（CV.白砂沙帆）」ら一部仲間キャラのビジュアルと担当声優が公開！シリーズ初登場の陣形「三牙陣」「ランペイジホーン」も発表",
+   "summary": "「ノーラ（CV.大地葉）」「ミューズ（CV.折原くるみ）」「シャール（CV.木島隆一）」もお披露目。3Dグラフィックでより鮮明かつ表情豊かに描かれる",
+   "link": "https://news.denfaminicogamer.jp/news/261026z",
+   "pubDate": "2026-10-26T10:00:54.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/RS3R_20261026_PUB_01-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロマサガ3"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261026z"
+    }
+   ]
+  },
+  {
+   "title": "フルリメイクで描かれるタチアナ、ミューズらに注目！『ロマサガ3 デスティニーユナイテッド』キャラやゲームシステムの続報公開",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189868.html",
+   "pubDate": "2026-10-26T10:00:07.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロマサガ3 デスティニーユナイテッド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189868.html"
+    }
+   ]
+  },
+  {
+   "title": "画面も情報もバラバラ、頼れるのは相棒との会話だけ！2人協力専用ホラー『Beyond the Dark: ナイトウォッチ』は絶叫と混乱が止まらない【プレイレポ＆インタビュー】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/26/174095.html",
+   "pubDate": "2026-10-26T10:00:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Beyond the Dark:ナイトウォッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/26/174095.html"
+    }
+   ]
+  },
+  {
+   "title": "全て最安値を更新！PS5/PS4『モンハンライズ』478円、『クライスタ』288円、『トゥームレイダー』3部作が528円など、いずれも3桁台でお買い得【eショップ・PS Storeのお薦めセール】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189867.html",
+   "pubDate": "2026-10-26T10:00:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "ps",
+     "nintendo"
+    ],
+    "off": null,
+    "free": false
+   },
+   "platforms": [
+    "ps5",
+    "ps4"
+   ],
+   "works": [
+    "モンスターハンターライズ",
+    "クライスタ",
+    "トゥームレイダー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189867.html"
+    }
+   ]
+  },
+  {
+   "title": "「ロマンシング サガ3 デスティニーユナイテッド」，登場キャラクター，ゲームシステム，バトルにフォーカスした最新情報が一挙公開に",
+   "summary": "スクウェア・エニックスは本日（2026年10月26日），RPG「ロマンシングサガ3デスティニーユナイテッド」について，「キャラクター」「ゲームシステム」「バトル」にフォーカスした情報を公開した。",
+   "link": "https://www.4gamer.net/games/041/G104129/20261026028/",
+   "pubDate": "2026-10-26T10:00:00.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/041/G104129/20261026028/"
+    }
+   ]
+  },
+  {
+   "title": "「ロマンシング サガ3 デスティニーユナイテッド」の新キャラクターやシステムなど最新情報が公開",
+   "summary": "スクウェア・エニックスは、2027年2月16日に発売予定のプレイステーション 5/Nintendo Switch 2/Nintendo Switch/Xbox Series X|S/PC（Xbox One PC/Steam）用RPG「ロマンシング サガ3 デスティニーユナイテッド…",
+   "link": "https://game.watch.impress.co.jp/docs/news/2151278.html",
+   "pubDate": "2026-10-26T10:00:00.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 28,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch",
+    "ps5",
+    "xbox",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2151278.html"
+    }
+   ]
+  },
+  {
+   "title": "『ロマサガ3』リメイクの新情報判明。新たな陣形含むバトルシステム、キャラクター詳細、おなじみの“せんせい探し”などが公開【ロマンシング サガ3 デスティニーユナイテッド】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qQUlRU3RGTF9yT21ST3lvOFItQXh0ZXBwdTRCX2JJcW02RU1MN2V2UW1qek5DUl9idi11ZWhqSUo3NlVYSVhIQWZ0cmluNTlHdFpXMGZuZw?oc=5",
+   "pubDate": "2026-10-26T10:00:00.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロマサガ3"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qQUlRU3RGTF9yT21ST3lvOFItQXh0ZXBwdTRCX2JJcW02RU1MN2V2UW1qek5DUl9idi11ZWhqSUo3NlVYSVhIQWZ0cmluNTlHdFpXMGZuZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "Call of Duty: Modern Warfare 4 players are calling for a PvE-only version of its DMZ mode - just like every extraction shooter before it",
+   "summary": "Call of Duty: Modern Warfare 4 is officially out for all players, and its extraction shooter mode DMZ is looking to be particularly popular.…",
+   "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition",
+   "pubDate": "2026-10-26T09:56:30.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-helicopter-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition"
+    }
+   ]
+  },
+  {
+   "title": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+   "summary": "In the wake of EA's tragic shuttering of BioWare last week, a leader of one of Canada's New Democratic Party has spoken out about the perils…",
+   "link": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
+   "pubDate": "2026-10-26T09:53:04.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition-husks.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support"
+    }
+   ]
+  },
+  {
+   "title": "「プロセカ」，リズムゲーム楽曲「ディスコティックブルー」を追加",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/476/G047609/20261026042/",
+   "pubDate": "2026-10-26T09:50:38.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/476/G047609/20261026042/"
+    }
+   ]
+  },
+  {
+   "title": "PlayStationアカウントに無許可で第三者が子供アカウントを作れてしまう問題が発生中",
+   "summary": "PS5/4でのゲームプレイやPlayStationNetworkの利用に欠かせない「PlayStationアカウント」で，承認していない「子供アカウント」を何者かに作成されたという報告が，「X」上で相次いでいる。ログイン認証を回避して，第三者が子供アカウントを作れてしまうようだ。",
+   "link": "https://www.4gamer.net/games/990/G999027/20261026038/",
+   "pubDate": "2026-10-26T09:48:44.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/990/G999027/20261026038/"
+    }
+   ]
+  },
+  {
+   "title": "「ソニック × シャドウ ジェネレーションズ」，全世界販売本数が300万本を突破",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/771/G077171/20261026041/",
+   "pubDate": "2026-10-26T09:47:13.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/771/G077171/20261026041/"
+    }
+   ]
+  },
   {
    "title": "約646万本が予約済み『GTA6』予約本数の伸びがすさまじい。現時点で大ヒットを記録した2022年版『CoD: MW2』の約2.5倍との分析",
    "summary": "",
@@ -12950,6 +13731,34 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/26/174094.html"
+    }
+   ]
+  },
+  {
+   "title": "GUで「ちいかわ」コラボグッズが11月2日より先行予約！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189865.html",
+   "pubDate": "2026-10-26T09:45:03.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189865.html"
     }
    ]
   },
@@ -13176,38 +13985,6 @@
    ]
   },
   {
-   "title": "「トルネコの大冒険 ちょっとステキなリマスター」、Switch/Switch2版にもアップデート適用！モンスター行動の調整など",
-   "summary": "スクウェア・エニックスは、Nintendo Switch/Nintendo Switch 2版「トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター」において、アップデートを配信した。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2151274.html",
-   "pubDate": "2026-10-26T09:21:40.000Z",
-   "firstSeen": "2026-10-26T09:47:38.721Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "new",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2151274.html"
-    }
-   ]
-  },
-  {
    "title": "自分が描いた魚をアクアリウムで泳がせるゲーム「Drawquarium」，11月13日に発売",
    "summary": "パブリッシャのrokaplayとドイツ・ベルリンを拠点とする個人ゲーム開発者Kaleb氏（byKaleb）は本日（2026年10月26日），PCゲーム「Drawquarium」を11月13日に発売すると発表した。本作は，自分で描いた魚や植物で水槽を作り上げるサンドボックス型シミュ…",
    "link": "https://www.4gamer.net/games/971/G097162/20261026034/",
@@ -13240,6 +14017,45 @@
    ]
   },
   {
+   "title": "「トルネコの大冒険 ちょっとステキなリマスター」、Switch/Switch2版にもアップデート適用！モンスター行動の調整など",
+   "summary": "スクウェア・エニックスは、Nintendo Switch/Nintendo Switch 2版「トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター」において、アップデートを配信した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2151274.html",
+   "pubDate": "2026-10-26T09:21:00.000Z",
+   "firstSeen": "2026-10-26T09:47:38.721Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "new",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2151274.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9neUR6amRKNmtkN1drQTNoUjcxV0ZHd3dEcnl3UTBJTlpCRlpKc043ZVNnVWd4WWRXbXFlQXMxZWZJbWVCRF94VGlqSnFRNTYyUUE5VG1iZ1ZsY2F3WnU4OE9VVFhsbl9FV3lCbmdCZ21taHcyU3ZyM2ZYMlJWT3c?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "PSNアカウントに乗っ取り被害か―見知らぬ子供アカウントが勝手に追加されていたとの報告相次ぐ",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/26/174092.html",
@@ -13262,6 +14078,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/26/174092.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189875.html"
     }
    ]
   },
@@ -14745,6 +15566,38 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2151226.html"
+    }
+   ]
+  },
+  {
+   "title": "『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』「ディスコティックブルー」をリズムゲーム楽曲として追加！",
+   "summary": "株式会社セガ（本社：東京都品川区、代表取締役 社長執行役員COO：内海州史）と株式会社Colorful Palette（本社：東京都目黒区、代表取締役社長：近藤裕一郎）は、iOS/Android向けリズム&アドベンチャー『プ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000007784.000005397.html",
+   "pubDate": "2026-10-26T07:15:22.000Z",
+   "firstSeen": "2026-10-26T10:47:38.291Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "プロジェクトセカイ カラフルステージ! feat. 初音ミク"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000007784.000005397.html"
     }
    ]
   },
@@ -52820,7 +53673,7 @@
    "firstSeen": "2026-10-22T07:48:11.255Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -52838,9 +53691,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90YUplTi05aDBjc08zZDJIQzNOb19fZzRaMnpiOUlXamtjMXoyQ1NPNFQ1YUlfX09WUTRwSGF1ZzEyWHpodEoxcVJBTUhaZGVsT1huN01DSQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -83532,7 +84385,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 6,
+   "score": 10,
    "categories": [
     "demo"
    ],
@@ -190769,842 +191622,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan"
-    }
-   ]
-  },
-  {
-   "title": "『まのさば』Acaciaの新作『魔法少女ノ因習村』、「猫溝ノラ」のCVは内田彩さんが担当と発表。お面をつけ「にゃあ」と話す、道化のように明るいが本音を見せない少女",
-   "summary": "常にお面をつけた道化のように明るい少女。語尾は「にゃあ」。本音を見せず、拳銃から花の実を放つ魔法を持つ。内田さんは『ラブライブ！』の南ことり役などで知られる",
-   "link": "https://news.denfaminicogamer.jp/news/2610093r",
-   "pubDate": "2026-10-09T13:52:04.000Z",
-   "firstSeen": "2026-10-09T14:48:07.640Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUL-_eoaoAAPtaj-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "まのさば",
-    "魔法少女ノ因習村"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610093r"
-    }
-   ]
-  },
-  {
-   "title": "プラスチック製BB弾の弾道を再現！サバゲーFPS『Airsoft Online』オープンベータ実施中",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173448.html",
-   "pubDate": "2026-10-09T13:45:02.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Airsoft Online"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173448.html"
-    }
-   ]
-  },
-  {
-   "title": "「ポケモン」アパレルがドン・キホーテ/アピタにて発売！ピカチュウたちになりきれるBIG着ぐるみパーカーと、普段着になるプルパーカー各種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189053.html",
-   "pubDate": "2026-10-09T13:45:02.000Z",
-   "firstSeen": "2026-10-09T14:48:07.640Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189053.html"
-    }
-   ]
-  },
-  {
-   "title": "『プリズン・オブ・ハスク』の発売日は2027年1月27日！Steamで新たなデモ版が配信中",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KTTR3U28xMzUxZkgwZ20xN1RiUk1fb2V4TVRDSnk5UFlSM3ZEM3BzNmZ6VVFvdHQ0Y1ZfX215T0dZaDEtRkpEd2Faa1hxM3plTTctbnFKX0piNG8?oc=5",
-   "pubDate": "2026-10-09T13:40:43.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "プリズン・オブ・ハスク"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KTTR3U28xMzUxZkgwZ20xN1RiUk1fb2V4TVRDSnk5UFlSM3ZEM3BzNmZ6VVFvdHQ0Y1ZfX215T0dZaDEtRkpEd2Faa1hxM3plTTctbnFKX0piNG8?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "Militsioner Preview: Flirting with a Colossal Policeman to Beat the Allegations",
-   "summary": "I've never played a game quite like Militsioner before. It's unnerving, moving around a town when you're always being watched by a giant who…",
-   "link": "https://www.ign.com/articles/militsioner-preview-flirting-with-a-colossal-policeman-to-beat-the-allegations",
-   "pubDate": "2026-10-09T13:31:00.000Z",
-   "firstSeen": "2026-10-09T14:48:07.640Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/08/militsioner-1791500814749.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/militsioner-preview-flirting-with-a-colossal-policeman-to-beat-the-allegations"
-    }
-   ]
-  },
-  {
-   "title": "しまむら「セ・リーグ5球団」グッズが受注締切間近！「いらすとや」コラボ絵柄のトレーナーをラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189052.html",
-   "pubDate": "2026-10-09T13:30:03.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "esports",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189052.html"
-    }
-   ]
-  },
-  {
-   "title": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
-   "summary": "British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Cl…",
-   "link": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
-   "pubDate": "2026-10-09T13:27:34.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": "https://assetsio.gnwcdn.com/Charlie-Cox-as-Matt-Murdoch-overlaid-across-an-image-from-Clair-Obscur-Expedition-33.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil"
-    }
-   ]
-  },
-  {
-   "title": "『ゼンゼロ』Ver.3.3で「フィオニー」「セヴェリアン」が実装…2人には新コスチュームも！スク水×セーラー服風な姿が眩しい",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189051.html",
-   "pubDate": "2026-10-09T13:25:04.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゼンゼロ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189051.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173451.html"
-    }
-   ]
-  },
-  {
-   "title": "『ちいかわ』シーサーの《お酒の資格》編いよいよクライマックス!? くりまんじゅうの助言に読者も思わず涙",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZENhUUpqOHpYREVHLW0yeDdNTWxCR2JsU1NfYkw5c1VHVy02WkhkRW1ZUmtLUlA4c2dBRnB0OFFtTW5FZVpuSEx0bmJVQVhOOHZ0X3ozMjh3Zw?oc=5",
-   "pubDate": "2026-10-09T13:23:00.000Z",
-   "firstSeen": "2026-10-11T13:47:41.270Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ちいかわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZENhUUpqOHpYREVHLW0yeDdNTWxCR2JsU1NfYkw5c1VHVy02WkhkRW1ZUmtLUlA4c2dBRnB0OFFtTW5FZVpuSEx0bmJVQVhOOHZ0X3ozMjh3Zw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
-   "summary": "Ace Combat 8 has become the fastest-selling game in the aerial combat series, soaring to 1 million sales since its release roughly a week ag…",
-   "link": "https://www.eurogamer.net/ace-combat-8-sales",
-   "pubDate": "2026-10-09T13:22:03.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": "https://assetsio.gnwcdn.com/ace-combat-8_mcMTaoQ.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/ace-combat-8-sales"
-    }
-   ]
-  },
-  {
-   "title": "「ゼンレスゾーンゼロ」，Ver.3.3を10月21日に配信決定。同時にSteam版もリリース予定。「崩壊：スターレイル」とのコラボ情報も明らかに",
-   "summary": "HoYoverseは本日（2026年10月9日），アクションRPG「ゼンレスゾーンゼロ」の予告番組を公開し，Ver.3.3「もう一度，空へと飛び立って」を10月21日に配信すると発表した。今回は，S級エージェント「フィオニー」と「セヴェリアン」が登場し，新たなメカ戦闘コンテンツも…",
-   "link": "https://www.4gamer.net/games/630/G063081/20261009057/",
-   "pubDate": "2026-10-09T13:19:14.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/630/G063081/20261009057/"
-    }
-   ]
-  },
-  {
-   "title": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6",
-   "summary": "Rockstar Games recently announced GTA 6's in-game radio stations, and one of them is co-hosted by 11-time Grammy-nominated Lana Del Rey. The…",
-   "link": "https://www.gamespot.com/articles/video-games-singer-cant-wait-to-play-new-video-game-gta-6/",
-   "pubDate": "2026-10-09T13:15:08.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-8.56.45-AM.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/video-games-singer-cant-wait-to-play-new-video-game-gta-6/"
-    }
-   ]
-  },
-  {
-   "title": "アベイルで「ズートピア」「トイ・ストーリー」グッズが発売！ウッディやニックたちが集合したメンズスタジャン全5種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189050.html",
-   "pubDate": "2026-10-09T13:15:03.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189050.html"
-    }
-   ]
-  },
-  {
-   "title": "大型アプデで日本語にも対応！リズムとともに変化するステージを進む、“圧倒的に好評”な弾幕リズムアクションが正式リリース―採れたて！本日のSteam注目ゲーム12選【2026年10月9日】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173446.html",
-   "pubDate": "2026-10-09T13:00:03.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173446.html"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ybTFvZlQtU0hRNkZOTXpiQmRjTVlMbkxQUk5wdk4zMVA2VEpqRU40Nk5qd2ZmVlhoSEVYVVdGblNFRVdJMmlyTUJtZFo4YnFkbkZ0UXllMlNqRWtySUpvaXZIZw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    },
-    {
-     "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lNWduSVFQdGFOTTlQUy10VWduam1xQU1PRm9lT0g5QlI1bzVBLVRzWW9sSFVpOFU1X3lrRHpCUHMyNFRXbmlLaVBOaDlyMV83MXpGNEJqcVVuZklIdE9rLXJhbjVZZnFoQkJDRDRlT3BCemlvS3NncUxua240RkE?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "思わず抱きしめたくなっちゃう！アベイルで「お文具といっしょ」グッズが発売",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189049.html",
-   "pubDate": "2026-10-09T13:00:03.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189049.html"
-    }
-   ]
-  },
-  {
-   "title": "『ポケモンレジェンズZA＋M次元ラッシュ』購入特典まとめ。AmazonはメガライチュウX/Yのウッドコースター、楽天は2連オーロラキーホルダー",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sSERjRnc2eEV3eXB4eUpEaU4tQWtCWnlvRzRWSWZXR2lieGJUYkpnUDBoMmJMOHJHdTU4WENCSmpXdVYwYlRLaF9LTGtZREx6ckdGNVQycw?oc=5",
-   "pubDate": "2026-10-09T13:00:00.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモンレジェンズZA+M次元ラッシュ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sSERjRnc2eEV3eXB4eUpEaU4tQWtCWnlvRzRWSWZXR2lieGJUYkpnUDBoMmJMOHJHdTU4WENCSmpXdVYwYlRLaF9LTGtZREx6ckdGNVQycw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Switch 2 で本格釣り体験！「ぼくと釣り日記」100種以上の魚と駆け引きして大物を釣れ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkYno2TUV3QkNUUnlSUG54b3lHQkUtQkVtZE8zN3pacm1HdDFtVld4VUlOMktHZGRHVjhhNklQalZCZmRFU0NIMWIzMjNCeFhrY1BUWA?oc=5",
-   "pubDate": "2026-10-09T13:00:00.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": null,
-   "source": "ASCII.jp",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkYno2TUV3QkNUUnlSUG54b3lHQkUtQkVtZE8zN3pacm1HdDFtVld4VUlOMktHZGRHVjhhNklQalZCZmRFU0NIMWIzMjNCeFhrY1BUWA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "First Look: Andy Weir Teases New Sci-Fi Audio Project Exoplanet",
-   "summary": "Get an exclusive first look at Exoplanet, a time-bending Audible Original sci-fi thriller produced by Andy Weir and starring Anthony Mackie.",
-   "link": "https://www.ign.com/articles/exoplanet-andy-weir-audible-original-first-look",
-   "pubDate": "2026-10-09T13:00:00.000Z",
-   "firstSeen": "2026-10-09T14:48:07.640Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/exoplanet-blogroll-1791511809595.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/exoplanet-andy-weir-audible-original-first-look"
-    }
-   ]
-  },
-  {
-   "title": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’ launches October 21",
-   "summary": "The version 3.3 update for Zenless Zone Zero, dubbed “Journey to the Sky,” will launch …",
-   "link": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
-   "pubDate": "2026-10-09T12:55:35.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Zenless-Zone-Zero_2026_10-09-26_021.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21"
-    }
-   ]
-  },
-  {
-   "title": "『Stupid Never Dies(ステューピッド・ネバー・ダイズ)』90秒で魅力がわかる最新映像が公開！最弱ゾンビが這い上がる“爆速成長”アクションRPG",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMVJMVXVMcFAyNXI3M3dsZXBMdDV1a2JCNkhfaDk3UXl3TzZ3R3I1S25OQ1R2OG5FNFFyVE5lbVhtV0FhMHJmVElELXR4dUQwUmcwUV9wbVhEZGM?oc=5",
-   "pubDate": "2026-10-09T12:51:00.000Z",
-   "firstSeen": "2026-10-13T04:47:50.130Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Stupid Never Dies(ステューピッド・ネバー・ダイズ)"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMVJMVXVMcFAyNXI3M3dsZXBMdDV1a2JCNkhfaDk3UXl3TzZ3R3I1S25OQ1R2OG5FNFFyVE5lbVhtV0FhMHJmVElELXR4dUQwUmcwUV9wbVhEZGM?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "1人の老人がミニバンで思い出の地を旅するナラティブADV「Forever Ago」，配信開始",
-   "summary": "AnnapurnaInteractiveは2026年10月8日，ThirdShiftが開発した新作タイトル「ForeverAgo」をリリースした。本作は，悲劇的な運命の転機を迎えたという1人の老人「アルフレッド」が，恋人「オードリー」との思い出の地を巡る旅に出るロードトリップアド…",
-   "link": "https://www.4gamer.net/games/993/G099381/20261009054/",
-   "pubDate": "2026-10-09T12:45:45.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/993/G099381/20261009054/"
-    }
-   ]
-  },
-  {
-   "title": "【週末無料】兵站輸送や支援要請といった要素で撃ち合いだけじゃない戦場体験！WW2大規模FPS『Squad 44』10月14日午前2時までのフリーウィークエンド実施",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173445.html",
-   "pubDate": "2026-10-09T12:45:02.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Squad 44"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173445.html"
-    }
-   ]
-  },
-  {
-   "title": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide",
-   "summary": "A spin to the left, a flip to the right.",
-   "link": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
-   "pubDate": "2026-10-09T12:42:55.000Z",
-   "firstSeen": "2026-10-09T13:48:12.580Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/vatF98HNX7CqZUDf3ri36m-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/"
-    }
-   ]
-  },
-  {
-   "title": "『刀剣乱舞ONLINE』の刀剣男士をイメージしたコラボリングが予約開始。三日月宗近、燭台切光忠、加州清光、後家兼光の4振りが、アクセサリーブランド「THE KISS」のシルバーリングに",
-   "summary": "アクセサリーブランド「THE KISS」とのコラボで、中央にはイメージカラーのストーン、内側には桜の刻印。各1万7600円で10月31日まで予約受付",
-   "link": "https://news.denfaminicogamer.jp/news/2610093o",
-   "pubDate": "2026-10-09T12:42:22.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-32.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "刀剣乱舞ONLINE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610093o"
-    }
-   ]
-  },
-  {
-   "title": "徒歩で十分な街を，車が必須の街に作り変えろ！ 住民を車依存にする“風刺的”経営シム「Car Park Capital」，アーリーアクセスを開始",
-   "summary": "MicroProseSoftwareは本日（2026年10月9日），HilkojjInteractiveが開発する新作PC用ソフト「CarParkCapital」のアーリーアクセスをSteamで開始した。住宅を駐車場に変え，宣伝で住民を車依存へ誘導して利益を上げる経営シムだ。",
-   "link": "https://www.4gamer.net/games/049/G104922/20261009055/",
-   "pubDate": "2026-10-09T12:37:50.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/049/G104922/20261009055/"
-    }
-   ]
-  },
-  {
-   "title": "EA Sports FC 27 review",
-   "summary": "The most touching of additions, in EA Sports FC 27, is a mode called The Grounds. This is an online social hub, where your custom avatar can…",
-   "link": "https://www.eurogamer.net/ea-sports-fc-27-review",
-   "pubDate": "2026-10-09T12:33:20.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": "https://assetsio.gnwcdn.com/FC-Sports-1.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/ea-sports-fc-27-review"
-    }
-   ]
-  },
-  {
-   "title": "“圧倒的に好評”スタート！『The Witness』『Braid』開発者の10年ぶり新作『Order of the Sinking Star』1,000超パズルを手作りした狂気",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/09/173444.html",
-   "pubDate": "2026-10-09T12:30:03.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "The Witness",
-    "Braid",
-    "Order of the Sinking Star"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/09/173444.html"
-    }
-   ]
-  },
-  {
-   "title": "『ポケモン』30周年記念グッズが3COINSで発売！『赤・緑』151匹がズラリと揃ったデザインなど全62アイテム",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/189048.html",
-   "pubDate": "2026-10-09T12:30:03.000Z",
-   "firstSeen": "2026-10-09T12:48:00.841Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン",
-    "赤・緑"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/189048.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/10/173464.html"
     }
    ]
   }
