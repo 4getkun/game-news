@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-26T14:47:58.146Z",
+ "generatedAt": "2026-10-26T15:30:40.733Z",
  "count": 6000,
  "dedupe": {
   "exact": 1097,
   "syndicated": 84,
-  "similar": 301,
+  "similar": 302,
   "syndicatedTotal": 346,
   "syndicatedLeft": 32
  },
@@ -6262,6 +6262,24 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "「チェンソーマン」×「クロックス」コラボが本日発売！デンジやポチタをフィーチャーした全4モデルが登場限定ジビッツチャームも同時発売",
+   "link": "https://game.watch.impress.co.jp/docs/news/2150748.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [
+    "release",
+    "media",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-27",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "原神",
    "title": "『原神』オンラインくじ第4弾が10月27日17時発売！ファデュイ執行官11人のフィギュアをはじめ、既存人気グッズがお得に当たる",
    "link": "https://www.inside-games.jp/article/2026/10/26/189879.html",
@@ -8851,6 +8869,22 @@
    "verb": "release",
    "label": "発売",
    "work": null,
+   "title": "新型「iPad mini」発表、11月6日発売へ。11万9800円から。iPad史上もっとも軽い",
+   "link": "https://automaton-media.com/articles/newsjp/20261027-475730/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "hardware"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
    "title": "Apple、新型「iPad mini」11月6日発売！最新「A20 Pro」とOLEDディスプレイで大進化なんと防塵・耐水性能も備える。価格は119,800円〜",
    "link": "https://game.watch.impress.co.jp/docs/news/2151315.html",
    "source": "GAME Watch",
@@ -10767,39 +10801,6 @@
    "platforms": [
     "switch2"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12",
-   "precision": "month",
-   "verb": "update",
-   "label": "アップデート",
-   "work": "餓狼伝説 City of the Wolves",
-   "title": "『餓狼伝説 City of the Wolves』に『鉄拳8』より「麗奈」が参戦、12月追加へ。シーズン3を締めくくるのは、“電光石火”のアグレッシブ少女",
-   "link": "https://automaton-media.com/articles/newsjp/20261010-472877/",
-   "source": "AUTOMATON",
-   "sources": 1,
-   "categories": [
-    "update",
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12",
-   "precision": "month",
-   "verb": "update",
-   "label": "アップデート",
-   "work": null,
-   "title": "「餓狼伝説 City of the Wolves」に鉄拳8から「麗奈」が参戦！ シーズン3の締めくくりとして12月に実装予定",
-   "link": "https://www.4gamer.net/games/649/G064915/20261010003/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -12804,8 +12805,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 560,
-   "accepted": 555
+   "archived": 561,
+   "accepted": 556
   },
   {
    "id": "denfaminico",
@@ -12816,7 +12817,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1234,
-   "accepted": 1072
+   "accepted": 1071
   },
   {
    "id": "gamewatch",
@@ -12826,8 +12827,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 559,
-   "accepted": 518
+   "archived": 563,
+   "accepted": 523
   },
   {
    "id": "gamespark",
@@ -12837,8 +12838,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1299,
-   "accepted": 1284
+   "archived": 1300,
+   "accepted": 1285
   },
   {
    "id": "inside-games",
@@ -12892,8 +12893,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 768,
-   "accepted": 616
+   "archived": 767,
+   "accepted": 615
   },
   {
    "id": "gnews-dengeki",
@@ -12914,8 +12915,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 461,
-   "accepted": 436
+   "archived": 460,
+   "accepted": 435
   },
   {
    "id": "gnews-switch2",
@@ -12936,8 +12937,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 594,
-   "accepted": 540
+   "archived": 595,
+   "accepted": 541
   },
   {
    "id": "gnews-update",
@@ -12946,7 +12947,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 59,
+   "fetched": 100,
    "archived": 408,
    "accepted": 305
   },
@@ -12958,8 +12959,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26024,
-   "accepted": 445
+   "archived": 26051,
+   "accepted": 446
   },
   {
    "id": "gematsu",
@@ -12969,8 +12970,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 345,
-   "accepted": 345
+   "archived": 346,
+   "accepted": 346
   },
   {
    "id": "ign",
@@ -12980,8 +12981,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1234,
-   "accepted": 1234
+   "archived": 1232,
+   "accepted": 1232
   },
   {
    "id": "eurogamer",
@@ -12991,8 +12992,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 290,
-   "accepted": 290
+   "archived": 292,
+   "accepted": 292
   },
   {
    "id": "gamespot",
@@ -13002,8 +13003,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 296,
-   "accepted": 296
+   "archived": 297,
+   "accepted": 297
   },
   {
    "id": "nintendolife",
@@ -13013,8 +13014,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 304,
-   "accepted": 304
+   "archived": 305,
+   "accepted": 305
   },
   {
    "id": "pcgamer",
@@ -13024,11 +13025,578 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 583,
-   "accepted": 583
+   "archived": 586,
+   "accepted": 586
   }
  ],
  "items": [
+  {
+   "title": "The 13 scariest, spookiest video games you should play this Halloween",
+   "summary": "The nights are drawing in, which can only mean one thing: more bed. But also the impending frights and sights of All Hallow's Eve. Yes, the…",
+   "link": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween",
+   "pubDate": "2026-10-26T15:29:45.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://assetsio.gnwcdn.com/spooky-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween"
+    }
+   ]
+  },
+  {
+   "title": "'I no longer think we’re going to be able to patch all bugs' says AI Pandora's box opener Sam Altman: 'We're going to have to completely switch the defense model'",
+   "summary": "Cool, I'll get right on it.",
+   "link": "https://www.pcgamer.com/software/ai/i-no-longer-think-were-going-to-be-able-to-patch-all-bugs-says-ai-pandoras-box-opener-sam-altman-were-going-to-have-to-completely-switch-the-defense-model/",
+   "pubDate": "2026-10-26T15:24:27.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/vz5qBaqfd6NbMao4igEKVN-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "I no longer think we’re going to be able to patch all bugs"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/i-no-longer-think-were-going-to-be-able-to-patch-all-bugs-says-ai-pandoras-box-opener-sam-altman-were-going-to-have-to-completely-switch-the-defense-model/"
+    }
+   ]
+  },
+  {
+   "title": "Call of Duty's director explains that his film will be all about the 'consequence of war' and not just a shoot-'em-up",
+   "summary": "The film seeks to explore Modern Warfare's \"nuanced storylines\".",
+   "link": "https://www.pcgamer.com/movies-tv/call-of-dutys-director-explains-that-his-film-will-be-all-about-the-consequence-of-war-and-not-just-a-shoot-em-up/",
+   "pubDate": "2026-10-26T15:12:54.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/diU34JdSV5g2woXjLLsQDP-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/movies-tv/call-of-dutys-director-explains-that-his-film-will-be-all-about-the-consequence-of-war-and-not-just-a-shoot-em-up/"
+    }
+   ]
+  },
+  {
+   "title": "『S.T.A.L.K.E.R. 2』A-Life NPCの表示範囲調整＆新ファストトラベル実装の Update 2.1配信",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174107.html",
+   "pubDate": "2026-10-26T15:12:30.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "S.T.A.L.K.E.R. 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/27/174107.html"
+    }
+   ]
+  },
+  {
+   "title": "Control loreheads shouldn't put too much stock into what The Board says in Control Resonant - the devs say it's \"basically gibberish\"",
+   "summary": "One of Control and Control Resonant's most memorable stylistic choices is how The Board - an alien entity whose true nature is a mystery, an…",
+   "link": "https://www.eurogamer.net/control-resonant-the-board-dialogue-crafted-gibberish",
+   "pubDate": "2026-10-26T15:10:30.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://assetsio.gnwcdn.com/control-the-board-grab-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/control-resonant-the-board-dialogue-crafted-gibberish"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】SanDisk Extreme microSDカード（256GB）がセール価格に",
+   "summary": "Amazonにて、SanDisk Extreme microSDカード（256GB）が特別価格で販売されている。期間は10月29日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2151192.html",
+   "pubDate": "2026-10-26T15:05:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2151192.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】75V型「75E70R」Amazon限定モデルなどハイセンスの液晶TVがお買い得",
+   "summary": "Amazonにて、ハイセンスの液晶テレビが特別価格で販売されている。期間は11月2日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2151177.html",
+   "pubDate": "2026-10-26T15:05:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2151177.html"
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】LGの31.5インチゲーミングモニター「32GX870A-B」がお買い得。「FFXIV」推奨モデル",
+   "summary": "Amazonにて、LGの31.5インチゲーミングモニター「32GX870A-B」が特別価格で販売されている。期間は11月9日23時59分まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2151159.html",
+   "pubDate": "2026-10-26T15:05:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2151159.html"
+    }
+   ]
+  },
+  {
+   "title": "新型「iPad mini」発表、11月6日発売へ。11万9800円から。iPad史上もっとも軽い",
+   "summary": "Appleは10月26日、新型iPad miniを発表し、11月6日に発売すると告知した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261027-475730/",
+   "pubDate": "2026-10-26T15:01:23.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261027-475730-header-scaled.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261027-475730/"
+    }
+   ]
+  },
+  {
+   "title": "3種の“限定色違い”をゲット！「ハロウィン2026 パート1」重要ポイントまとめ【ポケモンGO 秋田局】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/27/189884.html",
+   "pubDate": "2026-10-26T15:00:03.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/27/189884.html"
+    }
+   ]
+  },
+  {
+   "title": "「チェンソーマン」×「クロックス」コラボが本日発売！デンジやポチタをフィーチャーした全4モデルが登場限定ジビッツチャームも同時発売",
+   "summary": "フットウェアブランドのクロックスは、TVアニメ「チェンソーマン」との初コラボレーションコレクションを10月27日に発売する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2150748.html",
+   "pubDate": "2026-10-26T15:00:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "release",
+    "media",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2150748.html"
+    }
+   ]
+  },
+  {
+   "title": "「ファイナルファンタジー零式」15周年！ 命の輝きと絶望の記憶人生で最も涙した至高のRPGと、エースらが駆け抜けた0組の果てしなき真実",
+   "summary": "読者の皆さんの、人生で最も泣いたゲームは何だろうか。筆者は迷いなくこの2本を挙げる。「ファイナルファンタジー零式」と「クライシスコア ファイナルファンタジーVII」だ。",
+   "link": "https://game.watch.impress.co.jp/docs/kikaku/2150059.html",
+   "pubDate": "2026-10-26T15:00:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/kikaku/2150059.html"
+    }
+   ]
+  },
+  {
+   "title": "ミスドと「ポケモン」コラボの先行予約が本日10月27日スタート！「ポン・デ・アローラディグダ」など新商品が登場。西日本は10月29日に受付開始",
+   "summary": "ダスキンが運営するミスタードーナツは、ポケモンとコラボレーションした「みんなで集合！ 冬のポケモンキャンペーン」で発売する「ミスド ポケモン ドーナツ」、「あつまれ！グッズコレクション」の先行予約受付を本日10月27日より開始する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149782.html",
+   "pubDate": "2026-10-26T15:00:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2149782.html"
+    }
+   ]
+  },
+  {
+   "title": "Heroes Never Die, a Survivor-Plus-Tactics Strategy Game, Announced for PC",
+   "summary": "If you've ever wondered what a fusion of Vampire Survivors and Heroes of Might and Magic would look like, then Heroes Never Die might be the…",
+   "link": "https://www.ign.com/articles/heroes-never-die-a-survivor-plus-tactics-strategy-game-announced-for-pc",
+   "pubDate": "2026-10-26T15:00:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/23/heroesneverdie-blogroll-1792783736787.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/heroes-never-die-a-survivor-plus-tactics-strategy-game-announced-for-pc"
+    }
+   ]
+  },
+  {
+   "title": "Mini Review: Minecraft (Switch 2) - A Satisfying Upgrade Overall, But Where's Mouse Mode?",
+   "summary": "Another day, another Minecraft port. Minecraft has received around 20 different ports and versions since 2011. It was only a matter of time…",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft",
+   "pubDate": "2026-10-26T15:00:00.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://images.nintendolife.com/88124efca385e/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft"
+    }
+   ]
+  },
+  {
+   "title": "Romancing SaGa 3: Destinies United details traveling companions, systems, and battle mechanics",
+   "summary": "Square Enix has released new information and screenshots for Romancing SaGa 3: Destinies United introducing …",
+   "link": "https://www.gematsu.com/2026/10/romancing-saga-3-destinies-united-details-traveling-companions-systems-and-battle-mechanics",
+   "pubDate": "2026-10-26T14:59:07.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Romancing-SaGa-3-Destinies-United_2026_10-26-26_053.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/romancing-saga-3-destinies-united-details-traveling-companions-systems-and-battle-mechanics"
+    }
+   ]
+  },
+  {
+   "title": "Cyberpunk 2077 Hits Its Biggest Steam Player Peak Since Phantom Liberty, And You Can Guess Why",
+   "summary": "Almost six years after launch, Cyberpunk 2077 still has a healthy player base, especially with a new anime spin-off driving people to the Ni…",
+   "link": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/",
+   "pubDate": "2026-10-26T14:57:15.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Edgerunners.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/"
+    }
+   ]
+  },
+  {
+   "title": "Steam is broken: It's still up but some users can't log in",
+   "summary": "A persistent \"loading user data\" screen may be connected to problems with purchasing and installing games.",
+   "link": "https://www.pcgamer.com/games/steam-is-broken-its-still-up-but-some-users-cant-log-in/",
+   "pubDate": "2026-10-26T14:57:12.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/ocyiDF76QwDQKRvvKB2hRQ-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/steam-is-broken-its-still-up-but-some-users-cant-log-in/"
+    }
+   ]
+  },
+  {
+   "title": "I have jumped in WoW: Forever's beta 7738 times, roughly 135 jumps an hour, and if you'd like to find out if you beat me there's a stat tracker",
+   "summary": "Me jump that kind of orc.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/i-have-jumped-in-wow-forevers-beta-7738-times-roughly-135-jumps-an-hour-and-if-youd-like-to-find-out-if-you-beat-me-theres-a-stat-tracker/",
+   "pubDate": "2026-10-26T14:52:49.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/QpeMyYwaXhg3wvorTLpnnN-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/i-have-jumped-in-wow-forevers-beta-7738-times-roughly-135-jumps-an-hour-and-if-youd-like-to-find-out-if-you-beat-me-theres-a-stat-tracker/"
+    }
+   ]
+  },
+  {
+   "title": "As beloved Dishonored studio faces closure, Xbox agrees union request to extend negotiations deadline in hope of saving 217 jobs",
+   "summary": "Xbox has extended Arkane Lyon's consultation period by around a month, as the search for a new owner continues. If one isn't found, the stud…",
+   "link": "https://www.eurogamer.net/arkane-lyon-consultation-period-extended-december",
+   "pubDate": "2026-10-26T14:47:30.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://assetsio.gnwcdn.com/marvels-blade-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/arkane-lyon-consultation-period-extended-december"
+    }
+   ]
+  },
   {
    "title": "I've never felt worse for doing well in a videogame than in this intensely '90s citybuilder",
    "summary": "Sorry to everyone I evicted. Maybe take a drive to make yourselves feel better.",
@@ -13052,6 +13620,32 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/sim/ive-never-felt-worse-for-doing-well-in-a-videogame-than-in-this-intensely-90s-citybuilder/"
+    }
+   ]
+  },
+  {
+   "title": "Horror Games Are Getting Big Discounts in the Lead-Up to Halloween",
+   "summary": "Save on Resident Evil, Silent Hill, and many more horror games in this sale at Amazon and Best Buy.",
+   "link": "https://www.ign.com/articles/horror-game-sales-ahead-of-halloween-2026",
+   "pubDate": "2026-10-26T14:35:28.000Z",
+   "firstSeen": "2026-10-26T15:30:24.933Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/untitled-design-1793023307414.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/horror-game-sales-ahead-of-halloween-2026"
     }
    ]
   },
@@ -17330,7 +17924,7 @@
    "firstSeen": "2026-10-26T08:47:39.116Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17347,9 +17941,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfbnoxYmJJak5tUHd0d3ZPVFl1RDhqQWk3VFlUN3l1TTJXUFhlcUl6U2oxSnhnNFhFUmprMUQ5ZGR5RXZTOG96T3NNUkZhb2NYVGltQ01MVQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -55664,7 +56258,7 @@
    "firstSeen": "2026-10-22T07:48:11.255Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -55682,9 +56276,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90YUplTi05aDBjc08zZDJIQzNOb19fZzRaMnpiOUlXamtjMXoyQ1NPNFQ1YUlfX09WUTRwSGF1ZzEyWHpodEoxcVJBTUhaZGVsT1huN01DSQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -191155,591 +191749,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/bill-murray-is-a-ghostbuster-once-againin-a-car-ad"
-    }
-   ]
-  },
-  {
-   "title": "Lucasfilm Games Producer Responds After Galactic Racer Character Biddy Blas Goes Viral",
-   "summary": "If you’ve been on gaming Twitter recently, you’ve probably seen a clip from Star Wars: Galactic Racer making the rounds on your timeline — s…",
-   "link": "https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral",
-   "pubDate": "2026-10-09T20:00:58.000Z",
-   "firstSeen": "2026-10-09T21:48:33.719Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/biddy-blas-scrib-doon-1791575939855.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral"
-    }
-   ]
-  },
-  {
-   "title": "1周年を迎えた「ソニックレーシング クロスワールド」はシーズン2へ。「ゴジラ」「エヴァ」コラボコースや新モードを先行体験",
-   "summary": "セガは発売中のレースゲーム「ソニックレーシングクロスワールド」について，11月4日に最新DLC「シーズンパス2」の配信を予定している。第1弾「ゴジラパック」，第2弾「エヴァンゲリオンパック」をひと足早く遊んできた。",
-   "link": "https://www.4gamer.net/games/882/G088208/20261006034/",
-   "pubDate": "2026-10-09T20:00:00.000Z",
-   "firstSeen": "2026-10-09T20:48:27.043Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/882/G088208/20261006034/"
-    }
-   ]
-  },
-  {
-   "title": "Is Marvel's Zodiac Actually an Agents of SHIELD Revival?",
-   "summary": "The Marvel Cinematic Universe is expanding once again, because Marvel Studios has announced at New York Comic Con a new “spy thriller” calle…",
-   "link": "https://www.ign.com/articles/is-marvel-zodiac-series-actually-an-agents-of-shield-revival",
-   "pubDate": "2026-10-09T19:46:58.000Z",
-   "firstSeen": "2026-10-09T20:48:27.043Z",
-   "image": "https://assets1.ignimgs.com/2018/03/09/agentsofshield-3-1280-1520606463713.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/is-marvel-zodiac-series-actually-an-agents-of-shield-revival"
-    }
-   ]
-  },
-  {
-   "title": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
-   "summary": "The Cursed Apple is ready for Humpty Dumpty and the Loch Ness Monster's Precocious Preteen Child.",
-   "link": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
-   "pubDate": "2026-10-09T19:41:12.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/mASQpZYrbEUNuiCoJuNnAX-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/"
-    }
-   ]
-  },
-  {
-   "title": "Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral",
-   "summary": "Full Circle, the developer of Skate, published a statement addressing community mods following the viral launch of a fan-made modding platfo…",
-   "link": "https://www.ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral",
-   "pubDate": "2026-10-09T19:31:29.000Z",
-   "firstSeen": "2026-10-09T20:48:27.043Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/skate-developer-addresses-reskate-1791574192606.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral"
-    }
-   ]
-  },
-  {
-   "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
-   "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well. Ac…",
-   "link": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
-   "pubDate": "2026-10-09T19:17:24.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DMZ.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/"
-    }
-   ]
-  },
-  {
-   "title": "Blade Runner 2099: What Happens When the Replicants Are Running the World?",
-   "summary": "In an exclusive interview with IGN, Blade Runner 2099 showrunner Silka Luisa says the new series will be an \"undercover police story\" that’s…",
-   "link": "https://www.ign.com/articles/blade-runner-2099-what-happens-when-the-replicants-are-running-the-world",
-   "pubDate": "2026-10-09T19:00:00.000Z",
-   "firstSeen": "2026-10-09T20:48:27.043Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/bladerunner2099-blogroll-1791569903014.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/blade-runner-2099-what-happens-when-the-replicants-are-running-the-world"
-    }
-   ]
-  },
-  {
-   "title": "Pretty Little Liars Star Keegan Allen Says He Was Robbed at Gunpoint in Bloody Video",
-   "summary": "Keegan Allen, best known for his role as Toby Cavanaugh in Pretty Little Liars, uploaded a shocking video to Instagram on the night of Octob…",
-   "link": "https://www.ign.com/articles/pretty-little-liars-star-keegan-allen-says-he-was-robbed-at-gunpoint-in-bloody-video",
-   "pubDate": "2026-10-09T18:51:39.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/keegan-allen-robbed-beaten-1791571764131.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/pretty-little-liars-star-keegan-allen-says-he-was-robbed-at-gunpoint-in-bloody-video"
-    }
-   ]
-  },
-  {
-   "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-   "summary": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI da…",
-   "link": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-   "pubDate": "2026-10-09T18:51:26.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://assetsio.gnwcdn.com/PS5-ram.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 18,
-   "categories": [
-    "hardware",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market"
-    }
-   ]
-  },
-  {
-   "title": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
-   "summary": "Microsoft's latest console exclusive, Gears of War: E-Day, launched this week, and now we've gotten the first glimpse at how the game is per…",
-   "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
-   "pubDate": "2026-10-09T18:41:40.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/"
-    }
-   ]
-  },
-  {
-   "title": "Leisure Suit Larry is about to take his final bow",
-   "summary": "The Wet Dreams games have been marked down dramatically ahead of their final removal from sale.",
-   "link": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
-   "pubDate": "2026-10-09T18:20:12.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/Rbv3DNDF77zRkvNUsX3X5n-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/"
-    }
-   ]
-  },
-  {
-   "title": "Comic Book Icon Grant Morrison to Pen New James Bond Series for IDW Publishing",
-   "summary": "In what may well be the biggest comic book news out of NYCC, Grant Morrison has been tapped to write a new James Bond series for IDW Publish…",
-   "link": "https://www.ign.com/articles/comic-book-icon-grant-morrison-to-pen-new-james-bond-series-for-idw-publishing",
-   "pubDate": "2026-10-09T18:16:38.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/james-bond-grant-morrison-blogroll-1791569715281.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/comic-book-icon-grant-morrison-to-pen-new-james-bond-series-for-idw-publishing"
-    }
-   ]
-  },
-  {
-   "title": "Save $926 Off the Lenovo Legion Pro 5 Gaming Laptop With OLED Display and GeForce 5070 Ti Graphics",
-   "summary": "Rare Legion laptop deal for 2026.",
-   "link": "https://www.ign.com/articles/lenovo-legion-pro-rtx-5070-ti-gaming-laptop-deal-october-2026",
-   "pubDate": "2026-10-09T18:10:00.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/lenovolegionpro7-1791565439620.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/lenovo-legion-pro-rtx-5070-ti-gaming-laptop-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "Today’s Top Deals: LEGO One Piece, Pokémon TCG Prismatic Evolutions, and PS5, Xbox, eShop Gift Cards",
-   "summary": "Don’t miss other Pokémon TCG restocks and more discounts heading into the weekend.",
-   "link": "https://www.ign.com/articles/best-deals-for-october-9-2026",
-   "pubDate": "2026-10-09T18:10:00.000Z",
-   "firstSeen": "2026-10-09T19:48:26.366Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/untitled-design-21-1791566432298.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-october-9-2026"
-    }
-   ]
-  },
-  {
-   "title": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
-   "summary": "Gears of War: E-Day's sales are reportedly lighter than you might expect from one of Xbox's flagship names, but pure sales numbers don't pai…",
-   "link": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-   "pubDate": "2026-10-09T18:03:42.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(3).jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players"
-    }
-   ]
-  },
-  {
-   "title": "『餓狼伝説 City of the Wolves』に『鉄拳8』より「麗奈」が参戦、12月追加へ。シーズン3を締めくくるのは、“電光石火”のアグレッシブ少女",
-   "summary": "『餓狼伝説 City of the Wolves』のシーズン3新規参戦キャラクターとして、『鉄拳8』より「麗奈」がコラボ参戦すると発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261010-472877/",
-   "pubDate": "2026-10-09T18:02:53.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472877-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 9,
-   "categories": [
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "餓狼伝説 City of the Wolves",
-    "鉄拳8"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261010-472877/"
-    }
-   ]
-  },
-  {
-   "title": "The TSA-Approved AsperX 20,000mAh 165W Power Bank Drops to $39.99 After a $50 Off Coupon",
-   "summary": "Features a unibody aluminum alloy shell and a retractable USB-C cable.",
-   "link": "https://www.ign.com/articles/asperx-20000mah-165w-power-bank-deal-october-2026",
-   "pubDate": "2026-10-09T17:30:00.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/asperx-1791562665728.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/asperx-20000mah-165w-power-bank-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "Fatal Fury: City Of The Wolves Announces Tekken Collab",
-   "summary": "Reina gets ready for the next battle. SNK has already expanded the roster in Fatal Fury: City of the Wolves with characters like Ken and Chu…",
-   "link": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
-   "pubDate": "2026-10-09T17:16:40.000Z",
-   "firstSeen": "2026-10-09T17:48:05.504Z",
-   "image": "https://images.nintendolife.com/31016a7435005/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "new",
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab"
-    },
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/fatal-fury-city-of-the-wolves-dlc-character-reina-from-tekken-announced"
-    }
-   ]
-  },
-  {
-   "title": "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
-   "summary": "Call of Duty: Modern Warfare 4 has added DMZ to its list of early access experiences available for pre-order players ahead of its launch lat…",
-   "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access",
-   "pubDate": "2026-10-09T17:11:53.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access"
-    }
-   ]
-  },
-  {
-   "title": "New Avatar Show in Development as Seven Havens Renewed for Seasons 3 and 4",
-   "summary": "A brand-new show in the Avatar: The Last Airbender universe is in the works, focusing on an Avatar from the water tribe named Kuruk.",
-   "link": "https://www.ign.com/articles/new-avatar-show-in-development-as-seven-havens-renewed-for-seasons-3-and-4",
-   "pubDate": "2026-10-09T17:10:32.000Z",
-   "firstSeen": "2026-10-09T18:47:47.879Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/new-avatar-show-in-development-1791565731790.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/new-avatar-show-in-development-as-seven-havens-renewed-for-seasons-3-and-4"
-    }
-   ]
-  },
-  {
-   "title": "「餓狼伝説 City of the Wolves」に鉄拳8から「麗奈」が参戦！ シーズン3の締めくくりとして12月に実装予定",
-   "summary": "SNKは本日（2026年10月10日），現在フランスのニースで開催されている「EVOFrance2026」にて，「餓狼伝説CityoftheWolves」の新DLCキャラクターとして，「鉄拳8」から参戦する「麗奈」を発表した。",
-   "link": "https://www.4gamer.net/games/649/G064915/20261010003/",
-   "pubDate": "2026-10-09T17:06:27.000Z",
-   "firstSeen": "2026-10-09T17:48:05.504Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/649/G064915/20261010003/"
     }
    ]
   }
