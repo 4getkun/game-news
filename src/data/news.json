@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T21:47:56.735Z",
+ "generatedAt": "2026-10-26T22:47:46.741Z",
  "count": 6000,
  "dedupe": {
   "exact": 1099,
@@ -2780,22 +2780,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-10-17",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "マリオカート ワールド",
-   "title": "『マリオカート ワールド』任天堂公式オンラインイベント「オンラインチャレンジ サバイバルの秋」が10月17日13時より開催",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Y2hMNFA3SW41eXpHWEJQNENBVlpabTBBLW9WekJ6bUpOWkUyemVZcWQ1ZlBVYmtKUUY4NHlET2ZZTWRLdFF6QTJrRXVISWJoNTNORTBXVjZBdw?oc=5",
-   "source": "Nintendo DREAM WEB",
-   "sources": 1,
-   "categories": [
-    "event"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-10-19",
    "precision": "day",
    "verb": "launch",
@@ -3022,6 +3006,22 @@
    "sources": 5,
    "categories": [],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-20",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "サイバーパンク2077",
+   "title": "『サイバーパンク2077』Steam版の同時接続者数が急増して18万7215人を記録し、人気再燃。アニメ『エッジランナーズ2』と無料アプデの配信後に",
+   "link": "https://news.denfaminicogamer.jp/news/261027e",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "pc"
+   ],
    "spoiler": false
   },
   {
@@ -9879,6 +9879,22 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "Big Walk",
+   "title": "『Big Walk』『ぽこ あ ポケモン』『Forza Horizon 6』がゲーム・オブ・ザ・イヤー候補に。「Golden Joystick Awards 2026」の最優秀賞ノミネートが発表",
+   "link": "https://news.denfaminicogamer.jp/news/261027f",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-19",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "マブラヴ ガールズガーデン Mellow Days",
    "title": "『マブラヴ ガールズガーデン Mellow Days』11月19日に発売決定。『マブガル』桃園めると時間をすごす作業用アドベンチャー",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KbEc4YndNcHB0RnQtYTZRMlRMcHJLbHFyQUMyejFxTUM4ODVKQTVDTmdfdWtZcHJwOHhQM2dQVjBnR2dCazN1UG14NUlQa1pFV3owS1V6TQ?oc=5",
@@ -12767,8 +12783,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 954,
-   "accepted": 929
+   "archived": 956,
+   "accepted": 931
   },
   {
    "id": "4gamer-sp",
@@ -12800,8 +12816,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1232,
-   "accepted": 1068
+   "archived": 1236,
+   "accepted": 1071
   },
   {
    "id": "gamewatch",
@@ -12822,8 +12838,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1303,
-   "accepted": 1288
+   "archived": 1301,
+   "accepted": 1286
   },
   {
    "id": "inside-games",
@@ -12833,8 +12849,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1571,
-   "accepted": 1157
+   "archived": 1570,
+   "accepted": 1156
   },
   {
    "id": "ps-blog",
@@ -12888,8 +12904,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 764,
-   "accepted": 389
+   "archived": 763,
+   "accepted": 388
   },
   {
    "id": "gnews-newgame",
@@ -12899,8 +12915,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 465,
-   "accepted": 440
+   "archived": 466,
+   "accepted": 441
   },
   {
    "id": "gnews-switch2",
@@ -12920,7 +12936,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 93,
    "archived": 592,
    "accepted": 539
   },
@@ -12932,8 +12948,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 409,
-   "accepted": 306
+   "archived": 410,
+   "accepted": 307
   },
   {
    "id": "prtimes",
@@ -12943,7 +12959,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26094,
+   "archived": 26095,
    "accepted": 446
   },
   {
@@ -12965,8 +12981,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1245,
-   "accepted": 1245
+   "archived": 1250,
+   "accepted": 1250
   },
   {
    "id": "eurogamer",
@@ -12998,8 +13014,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 311,
-   "accepted": 311
+   "archived": 310,
+   "accepted": 310
   },
   {
    "id": "pcgamer",
@@ -13009,11 +13025,494 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 597,
-   "accepted": 597
+   "archived": 598,
+   "accepted": 598
   }
  ],
  "items": [
+  {
+   "title": "『サイバーパンク2077』Steam版の同時接続者数が急増して18万7215人を記録し、人気再燃。アニメ『エッジランナーズ2』と無料アプデの配信後に",
+   "summary": "アニメ配信の10月20日に5万5678人、無料アプデ配信の22日に9万1417人と伸ばし、25日に18万7215人を記録した",
+   "link": "https://news.denfaminicogamer.jp/news/261027e",
+   "pubDate": "2026-10-26T22:37:24.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/939ce273d90a9a097817ffd52f82d224-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "サイバーパンク2077",
+    "エッジランナーズ2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261027e"
+    }
+   ]
+  },
+  {
+   "title": "『Big Walk』『ぽこ あ ポケモン』『Forza Horizon 6』がゲーム・オブ・ザ・イヤー候補に。「Golden Joystick Awards 2026」の最優秀賞ノミネートが発表",
+   "summary": "「Golden Joystick Awards 2026」の最優秀賞ノミネートが発表。英国の表彰イベントで12本の作品が選出、10月30日までユーザー投票を受付中。なお、11月19日発売の『GTA6』は選考対象外",
+   "link": "https://news.denfaminicogamer.jp/news/261027f",
+   "pubDate": "2026-10-26T22:27:38.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Snapshot_110-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Big Walk",
+    "ぽこ あ ポケモン",
+    "Forza Horizon 6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261027f"
+    }
+   ]
+  },
+  {
+   "title": "人気SF小説『三体』がゲームに！『三体 審判前夜』Steamストアページが公開、“古筝作戦”前夜を描く公式ライセンス作品",
+   "summary": "元特殊部隊員となり救出任務のため巨大船へ潜入。正体を隠しながら手がかりを集め、ピンチを切り抜けていく。選択により登場人物の運命や結末は大きく変化",
+   "link": "https://news.denfaminicogamer.jp/news/261027d",
+   "pubDate": "2026-10-26T22:11:08.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_cb937042999ea52ff6d5939c5b00a7b4eb6b09ba.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "三体",
+    "三体 審判前夜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261027d"
+    }
+   ]
+  },
+  {
+   "title": "【最大4人協力】カンニングで期末試験を切り抜ける学校生活シム『Finals Week』ウィッシュリスト10万件突破！答案覗き見、カンニングペーパー、携帯電話...先生にバレずに答えを伝え合おう",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174112.html",
+   "pubDate": "2026-10-26T22:00:03.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Finals Week"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/27/174112.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】『鳴潮』『崩スタ』まるでCGみたいな美麗キャラ再現に注目！台湾「CCF」異次元ボディで魅せる美女レイヤー8選【写真26枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/27/189887.html",
+   "pubDate": "2026-10-26T22:00:03.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鳴潮",
+    "崩スタ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/27/189887.html"
+    }
+   ]
+  },
+  {
+   "title": "TGS 2026 コンパニオン＆コスプレイヤー写真集（ZIPファイルなし）をお届け。10年に1度の豊潤なみずみずしさに恵まれた258枚！",
+   "summary": "東京ゲームショウ2026を彩ってくれた，コンパニオンさんやコスプレイヤーさんの写真集をお届けします。10年に1度の豊潤なみずみずしさに恵まれた258枚を一挙掲載。かつての恒例の「ZIPでくれ」はなしです。時代とかPHP？ のせいにしてね！",
+   "link": "https://www.4gamer.net/games/991/G999110/20261026020/",
+   "pubDate": "2026-10-26T22:00:00.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/991/G999110/20261026020/"
+    }
+   ]
+  },
+  {
+   "title": "まさかの「復路」があるリズムアクション!? 「DYU/TAN」で気づかされた，自らの足跡を振り返り，共鳴する楽しさ",
+   "summary": "インディーゲーム展示イベント「DREAMSCAPE#5」で試遊した「DYU/TAN」は，オートランのジャンプアクションとリズムゲームを融合させた作品だ。本作の特徴は，ステージを進む「往路」だけでなく，来た道を戻る「復路」が存在すること。過去の自分が残した痕跡と「共鳴」する，独特の…",
+   "link": "https://www.4gamer.net/games/999/G999901/20261027002/",
+   "pubDate": "2026-10-26T22:00:00.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "demo",
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/999/G999901/20261027002/"
+    }
+   ]
+  },
+  {
+   "title": "今度のプリキュアは、プリキュアじゃない!? 新スピンオフ『デュアルシャドウ～Precure Villain Heroines～』が2027年放送",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONmw2YzNaS0duZTRmQ1pubnNvYU1EOVA5RU8xRE41dmhPQno0X3FvTzYtMGI0eVRLZmtZM1Z2eUQ2aElCNF80eUVDZ2JzUm9TaWw1R2MxUQ?oc=5",
+   "pubDate": "2026-10-26T22:00:00.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "デュアルシャドウ~Precure Villain Heroines~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONmw2YzNaS0duZTRmQ1pubnNvYU1EOVA5RU8xRE41dmhPQno0X3FvTzYtMGI0eVRLZmtZM1Z2eUQ2aElCNF80eUVDZ2JzUm9TaWw1R2MxUQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "『ワンダと巨像』が発売された日。「最後の一撃は、せつない」のフレーズが有名な不朽の名作。知恵を絞って挑む巨像とのバトルが熱かった【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EajBESkI0T25RY2FfT1BFUm82dlhLcU9ZUzNEb0FJcGp0WkJ6RGlaeDhncWx5NGIxQXNocW1BNE82R0hmMHpWdEF5aS00dzJfQUpMb3pETQ?oc=5",
+   "pubDate": "2026-10-26T22:00:00.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ワンダと巨像"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EajBESkI0T25RY2FfT1BFUm82dlhLcU9ZUzNEb0FJcGp0WkJ6RGlaeDhncWx5NGIxQXNocW1BNE82R0hmMHpWdEF5aS00dzJfQUpMb3pETQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "Join IGN and Toyota at Our Gaming Booth at Los Angeles Comic-Con",
+   "summary": "",
+   "link": "https://www.ign.com/articles/join-ign-and-toyota-at-our-gaming-booth-at-los-angeles-comic-con",
+   "pubDate": "2026-10-26T22:00:00.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/lacc-toyota-title-card-3840x2160-1793045966587.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/join-ign-and-toyota-at-our-gaming-booth-at-los-angeles-comic-con"
+    }
+   ]
+  },
+  {
+   "title": "One day before launch, ARPG Emberville gets delayed until 2027",
+   "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
+   "link": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
+   "pubDate": "2026-10-26T21:57:24.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/pTzbm5TpEs7f42EdUJydh8-1920-80.webp",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/"
+    }
+   ]
+  },
+  {
+   "title": "Toastie Might Be the Weirdest iPhone Duo Game So Far",
+   "summary": "",
+   "link": "https://www.ign.com/articles/toastie-might-be-the-weirdest-iphone-duo-game-so-far",
+   "pubDate": "2026-10-26T21:55:55.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/04-served-1793049897438.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/toastie-might-be-the-weirdest-iphone-duo-game-so-far"
+    }
+   ]
+  },
+  {
+   "title": "Hunger Games Director Hopes You Aren't Too Distracted With GTA 6 to See Sunrise on the Reaping",
+   "summary": "Francis Lawrence, director of Netflix’s BioShock movie, opened up to IGN about his favorite video games of all time, and we have to admit th…",
+   "link": "https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
+   "pubDate": "2026-10-26T21:53:31.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping"
+    }
+   ]
+  },
+  {
+   "title": "A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order",
+   "summary": "Playable Archive is free, and it's very good.",
+   "link": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/",
+   "pubDate": "2026-10-26T21:47:58.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/L7EVq6mjUPmcV4suhmwmkA-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/"
+    }
+   ]
+  },
+  {
+   "title": "Red Rising Director Francis Lawrence Says YA Series' Movie Adaptation Is a 'Priority' at Paramount Following Shelved Netflix Show",
+   "summary": "We got the chance to chat with Francis Lawrence, director of the forthcoming Red Rising movie, who let us in on some exciting updates about…",
+   "link": "https://www.ign.com/articles/red-rising-director-francis-lawrence-says-ya-series-movie-adaptation-is-a-priority-at-paramount-following-shelved-netflix-show",
+   "pubDate": "2026-10-26T21:45:31.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/francis-lawrence-red-rising-interview-1793048349634.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/red-rising-director-francis-lawrence-says-ya-series-movie-adaptation-is-a-priority-at-paramount-following-shelved-netflix-show"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
+   "summary": "GTA 6's release has led to as much as a 17% increase in time-off requests, according to a new report.",
+   "link": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
+   "pubDate": "2026-10-26T21:42:48.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date"
+    }
+   ]
+  },
+  {
+   "title": "Composer Austin Wintory Shares 22 Minutes of Music Created for BioWare's Canceled Mass Effect 5",
+   "summary": "Composer Austin Wintory was once in talks to make music for Mass Effect 5, and now that EA has shuttered BioWare and canceled the game, he's…",
+   "link": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+   "pubDate": "2026-10-26T21:36:07.000Z",
+   "firstSeen": "2026-10-26T22:47:34.503Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/mass-effect-composer-1793050179326.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5"
+    }
+   ]
+  },
   {
    "title": "The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'",
    "summary": "It's a hard one to beat.",
@@ -14013,7 +14512,7 @@
    ]
   },
   {
-   "title": "Microsoft is looking to cut more than 25% of its workforce",
+   "title": "Microsoft is offering buyouts to over 25% of its workforce",
    "summary": "An employee buyout offer is reportedly being extended to roughly 60,000 Microsoft employees in the US, UK, India, and Canada.",
    "link": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
    "pubDate": "2026-10-26T17:49:25.000Z",
@@ -18635,7 +19134,7 @@
    "firstSeen": "2026-10-26T09:47:38.721Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -18652,9 +19151,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fbDBCbEdUaU5MWmVhTVdoZ3pac2tXSUNqTWhKWTl6OFdtbmtuT1diRWg2VHhGZFBZRjBITzJybnZlcmdPSUNQRU9reUNDT0lmRGtaZHVwUQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -191193,514 +191692,6 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261010-472906/"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】銀髪ツインテールのミニスカ×ゲーミングガールが弾ける笑顔！「MSI」ステージを盛り上げた美女レイヤー【TGS2026】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/10/189072.html",
-   "pubDate": "2026-10-10T03:30:03.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/10/189072.html"
-    }
-   ]
-  },
-  {
-   "title": "『ストリートファイター／ザ・ムービー』春麗役カリーナ・リャンはキャスティングから3ヵ月で撮影に臨んだ。伝説的ゲームキャラを演じる期待と重圧を語る【インタビュー】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rd2ZXLW9idWM5R0lDbHJLSWd5eTA2NF9ETlQ4c0Rqb2thUFlfNGFPWEtDYjFHQ1UzV0ktRk12QzdKbDU0bmRiRk5zZlRSQUstejNlQlFIWQ?oc=5",
-   "pubDate": "2026-10-10T03:30:00.000Z",
-   "firstSeen": "2026-10-10T04:48:30.341Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ストリートファイター/ザ・ムービー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rd2ZXLW9idWM5R0lDbHJLSWd5eTA2NF9ETlQ4c0Rqb2thUFlfNGFPWEtDYjFHQ1UzV0ktRk12QzdKbDU0bmRiRk5zZlRSQUstejNlQlFIWQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『エースコンバット8』100万本突破を記念してシリーズの楽曲を演奏するバンドライブを開催へ。12月下旬に「LIVE MUSIC FEST.2026」の映像をプレミア公開される予定",
-   "summary": "2月下旬に「LIVE MUSIC FEST.2026」の映像がプレミア公開される予定。詳細は後日、告知される予定。公式Xは「オーオーオーオー♪」とコメントし、ユーザーも共鳴",
-   "link": "https://news.denfaminicogamer.jp/news/261010h",
-   "pubDate": "2026-10-10T03:10:43.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f1e64474ab9acbd661e8fb3bbf5c906a402225aa.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trailer",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エースコンバット8"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261010h"
-    }
-   ]
-  },
-  {
-   "title": "なぜ「でもフリューだしな…」と言われるのか？ 意欲的な作品を生み続けてきたフリューと、期待を集める『アノマリス』の今",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/10/189071.html",
-   "pubDate": "2026-10-10T03:10:03.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アノマリス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/10/189071.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/10/173468.html"
-    }
-   ]
-  },
-  {
-   "title": "「Brasil Game Show 2026」開幕。オープニングイベントでセガが「クレイジータクシー：ワールドツアー」新マップ「ブラジル」を発表［BGS2026］",
-   "summary": "2026年10月9日，ブラジル・サンパウロで「BrasilGameShow2026」が開幕した。初日の開場前には，出展各社が新作や新製品を紹介する「BGSConference」が行われ，セガは「クレイジータクシー：ワールドツアー」のストーリーモードに「ブラジル」が登場することを，…",
-   "link": "https://www.4gamer.net/games/991/G999110/20261010006/",
-   "pubDate": "2026-10-10T03:02:19.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/991/G999110/20261010006/"
-    },
-    {
-     "name": "4Gamer.net",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qdDRUS1VFRURCb3dJUTFCbjQ0WWJHbDNBTU9lQ2dsb1pKR1FpckVTWVBISXpMMGRiRVRsM196Q1Z1ampIa2FENFM0QjF0akNNSzhYZHhqcW9aTnFmTXNScTlZNA?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」10月10日22時より放送！",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/10/173463.html",
-   "pubDate": "2026-10-10T03:00:03.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/10/173463.html"
-    }
-   ]
-  },
-  {
-   "title": "『ウマ娘』「エヴァ」などが関ヶ原に集結！愛がたっぷり詰まった愛車を取材【第拾回 天下無双 東西最強痛車決戦フォトレポ】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/10/189070.html",
-   "pubDate": "2026-10-10T03:00:03.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/10/189070.html"
-    }
-   ]
-  },
-  {
-   "title": "たった3つのダイスが数千万のパワーに化ける。「DiceVaders」は，ボドゲ的なエンジンビルドをデジタルで極めた“ダイスローグライク”［プレイレポ］",
-   "summary": "Pengonautsが手掛ける「DiceVaders」は，「StarVaders」と世界観を共有するローグライクダイスゲームだ。3つのダイスを振り，効果を連鎖させて高スコアを目指す。ボードゲーム的なエンジン構築の面白さをデジタルで味わえる本作の魅力を紹介しよう。",
-   "link": "https://www.4gamer.net/games/985/G098513/20261009024/",
-   "pubDate": "2026-10-10T03:00:00.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 9,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/985/G098513/20261009024/"
-    }
-   ]
-  },
-  {
-   "title": "ミャクミャク初のテーマソングの公式ダンス＆ミュージックビデオが公開",
-   "summary": "2025大阪・関西万博マスターライセンスオフィスは、ミャクミャクのテーマソング「ミャクダンス- みんな一緒に踊ろう Yeahhh! -」を10月10日に公開した。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2147055.html",
-   "pubDate": "2026-10-10T03:00:00.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2147055.html"
-    }
-   ]
-  },
-  {
-   "title": "『モンスターハンターアウトランダーズ』キャンペーンを実施。Amazonギフトカードそれぞれ5,000円ぶんを10名様に抽選でプレゼント",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0ZHNXMXBHLWpOWHZnT0dsTEFlYzVmaEZVck8xaWFidFhTZEF0d1VvUVd6VmFjdl9IM1VodDJLVTNpeHRBem12QndPQWdJS3o0OHM2NklYaw?oc=5",
-   "pubDate": "2026-10-10T03:00:00.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "モンスターハンターアウトランダーズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0ZHNXMXBHLWpOWHZnT0dsTEFlYzVmaEZVck8xaWFidFhTZEF0d1VvUVd6VmFjdl9IM1VodDJLVTNpeHRBem12QndPQWdJS3o0OHM2NklYaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『STEINS;GATE 0』の安本了氏がシナリオを手がけるオカルトADVゲーム『覗怪（しかい）』のプロローグムービーが公開。謎の怪談“赤い屋根の家”をはじめ、さまざまな怪奇現象をチラ見せ",
-   "summary": "謎の怪談“赤い屋根の家”をはじめ、さまざまな怪奇現象をチラ見せ。音楽は『STEINS;GATE』シリーズの阿保剛氏が手がける。今冬にSwitchとPS5に向けて発売予定",
-   "link": "https://news.denfaminicogamer.jp/news/261010g",
-   "pubDate": "2026-10-10T02:49:30.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-34-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch",
-    "ps5"
-   ],
-   "works": [
-    "STEINS;GATE 0",
-    "覗怪(しかい)"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261010g"
-    }
-   ]
-  },
-  {
-   "title": "【ソニックレーシング クロスワールド】『FF7リメイク』や『ペルソナ』シリーズとのコラボDLCパックがシーズン2で登場決定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdVQ4WDh6SG9rSFlnZndrU19BNTRLX0gwWXFRVHRZNDBWaEdRQTNERUZKQXhualZMYUo4cnp2bDc2RGhBblZMd2hqMkNNY25XTVVpT3lKZw?oc=5",
-   "pubDate": "2026-10-10T02:48:00.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "new",
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF7リメイク",
-    "ペルソナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdVQ4WDh6SG9rSFlnZndrU19BNTRLX0gwWXFRVHRZNDBWaEdRQTNERUZKQXhualZMYUo4cnp2bDc2RGhBblZMd2hqMkNNY25XTVVpT3lKZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいど！さまざまなオプションが付属、購入特典にはセリフプレートも",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/10/189069.html",
-   "pubDate": "2026-10-10T02:45:02.000Z",
-   "firstSeen": "2026-10-10T03:48:26.283Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/10/189069.html"
-    }
-   ]
-  },
-  {
-   "title": "『餓狼伝説 City of the Wolves』 に 『鉄拳』 より “瞬撃の紫電” 「麗奈」参戦！コラボレーションアナウンスメントトレーラーを公開",
-   "summary": "株式会社SNKは、好評発売中の対戦格闘ゲーム『餓狼伝説 City of the Wolves』（以下、『餓狼伝説 CotW』）において、バンダイナムコエンターテインメントの人気対戦格闘ゲーム『鉄拳』シリーズとのコラボレーショ...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000914.000028651.html",
-   "pubDate": "2026-10-10T02:40:32.000Z",
-   "firstSeen": "2026-10-10T02:48:34.963Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 15,
-   "categories": [
-    "trailer",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "餓狼伝説 City of the Wolves",
-    "鉄拳"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000914.000028651.html"
-    }
-   ]
-  },
-  {
-   "title": "凸凹道をひた走る、トラブルだらけの物理演算×トラック配達シミュレーター『トラックフル』、Steam / Google Playにて販売開始！",
-   "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）のパブリッシングレーベル「ポケットペアパブリッシング」は、ポーランドを拠点とする開発会社「MythicOwl」が手掛ける物理演算×トラック...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000151.000071410.html",
-   "pubDate": "2026-10-10T02:40:32.000Z",
-   "firstSeen": "2026-10-10T02:48:34.963Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc",
-    "mobile"
-   ],
-   "works": [
-    "トラックフル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000151.000071410.html"
-    }
-   ]
-  },
-  {
-   "title": "PvPvE脱出アクションRPG『Vaultbreakers』無料デモ版が配信開始。最大3人協力プレイ対応・モンスターはびこる広大地域探索が、一足お先に遊べる",
-   "summary": "BetaDwarfは10月9日、『Vaultbreakers』の無料デモ版の配信を開始した。本作は見下ろし視点で繰り広げられるエクストラクション（脱出）型のアクションRPGだ。",
-   "link": "https://automaton-media.com/articles/newsjp/vaultbreakers-20261010-472900/",
-   "pubDate": "2026-10-10T02:36:51.000Z",
-   "firstSeen": "2026-10-10T02:48:34.963Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/vaultbreakers-20261010-472900-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Vaultbreakers"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/vaultbreakers-20261010-472900/"
-    }
-   ]
-  },
-  {
-   "title": "『マリオカート ワールド』任天堂公式オンラインイベント「オンラインチャレンジ サバイバルの秋」が10月17日13時より開催",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Y2hMNFA3SW41eXpHWEJQNENBVlpabTBBLW9WekJ6bUpOWkUyemVZcWQ1ZlBVYmtKUUY4NHlET2ZZTWRLdFF6QTJrRXVISWJoNTNORTBXVjZBdw?oc=5",
-   "pubDate": "2026-10-10T02:28:08.000Z",
-   "firstSeen": "2026-10-10T02:48:34.963Z",
-   "image": null,
-   "source": "Nintendo DREAM WEB",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マリオカート ワールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo DREAM WEB",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Y2hMNFA3SW41eXpHWEJQNENBVlpabTBBLW9WekJ6bUpOWkUyemVZcWQ1ZlBVYmtKUUY4NHlET2ZZTWRLdFF6QTJrRXVISWJoNTNORTBXVjZBdw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   }
