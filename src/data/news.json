@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-27T15:47:58.094Z",
+ "generatedAt": "2026-10-27T16:47:58.970Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1120,
+  "exact": 1123,
   "syndicated": 85,
   "similar": 310,
-  "syndicatedTotal": 351,
+  "syndicatedTotal": 354,
   "syndicatedLeft": 25
  },
  "calendar": [
@@ -6185,6 +6185,22 @@
   {
    "date": "2026-10-27",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "アサクリ4",
+   "title": "『アサクリ4』リメイク版、最終大型アプデを10月27日配信へ―最大5回まで対応の「ニューゲーム+」やオリジナル版テイクダウン演出、高難易度「ナイトメア」など追加",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174117.html",
+   "source": "Game*Spark",
+   "sources": 3,
+   "categories": [
+    "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-27",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "原神",
@@ -6194,22 +6210,6 @@
    "sources": 2,
    "categories": [
     "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-27",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "アサクリ4",
-   "title": "『アサクリ4』リメイク版、最終大型アプデを10月27日配信へ―最大5回まで対応の「ニューゲーム+」やオリジナル版テイクダウン演出、高難易度「ナイトメア」など追加",
-   "link": "http://www.gamespark.jp/article/2026/10/27/174117.html",
-   "source": "Game*Spark",
-   "sources": 2,
-   "categories": [
-    "new"
    ],
    "platforms": [],
    "spoiler": false
@@ -7381,24 +7381,6 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "No Man's Sky",
-   "title": "『No Man's Sky』iOS版が10月29日にリリース。10年ぶんのアプデ内容を完全収録、iPhoneやiPadで楽しめる。序盤は無料でプレイ可能",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCUFZ3bmxVYUh6dGwwVFZ1TnBYQkRVRWc1ZVNCSUJ4SWxqNFZUbWNibUNMSEEyc1BRNy1Dc0RzOC1jY2Z2NmFWQlJNNFl5RUk5eVhXWU83VQ?oc=5",
-   "source": "ファミ通",
-   "sources": 2,
-   "categories": [
-    "mobile"
-   ],
-   "platforms": [
-    "mobile"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-29",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
    "work": null,
    "title": "Desktop Mate 森カリオペ DLC 10月29日リリース決定！",
    "link": "https://prtimes.jp/main/html/rd/p/000000113.000045461.html",
@@ -7913,6 +7895,24 @@
    "platforms": [
     "switch2",
     "switch"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "No Man's Sky",
+   "title": "『No Man's Sky』iOS版が10月29日にリリース。10年ぶんのアプデ内容を完全収録、iPhoneやiPadで楽しめる。序盤は無料でプレイ可能",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCUFZ3bmxVYUh6dGwwVFZ1TnBYQkRVRWc1ZVNCSUJ4SWxqNFZUbWNibUNMSEEyc1BRNy1Dc0RzOC1jY2Z2NmFWQlJNNFl5RUk5eVhXWU83VQ?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "mobile"
+   ],
+   "platforms": [
+    "mobile"
    ],
    "spoiler": false
   },
@@ -13529,8 +13529,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1324,
-   "accepted": 1310
+   "archived": 1325,
+   "accepted": 1311
   },
   {
    "id": "inside-games",
@@ -13584,7 +13584,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 784,
+   "archived": 783,
    "accepted": 628
   },
   {
@@ -13595,8 +13595,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 773,
-   "accepted": 391
+   "archived": 770,
+   "accepted": 390
   },
   {
    "id": "gnews-newgame",
@@ -13605,7 +13605,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 77,
+   "fetched": 100,
    "archived": 472,
    "accepted": 447
   },
@@ -13617,8 +13617,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1224,
-   "accepted": 1046
+   "archived": 1228,
+   "accepted": 1049
   },
   {
    "id": "gnews-ps5",
@@ -13627,7 +13627,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 84,
+   "fetched": 86,
    "archived": 604,
    "accepted": 550
   },
@@ -13638,9 +13638,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 59,
-   "archived": 423,
-   "accepted": 320
+   "fetched": 62,
+   "archived": 425,
+   "accepted": 321
   },
   {
    "id": "prtimes",
@@ -13650,7 +13650,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27055,
+   "archived": 27086,
    "accepted": 453
   },
   {
@@ -13672,8 +13672,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1265,
-   "accepted": 1265
+   "archived": 1270,
+   "accepted": 1270
   },
   {
    "id": "eurogamer",
@@ -13694,8 +13694,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 309,
-   "accepted": 309
+   "archived": 310,
+   "accepted": 310
   },
   {
    "id": "nintendolife",
@@ -13705,8 +13705,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 314,
-   "accepted": 314
+   "archived": 315,
+   "accepted": 315
   },
   {
    "id": "pcgamer",
@@ -13721,6 +13721,255 @@
   }
  ],
  "items": [
+  {
+   "title": "Nvidia and AMD invest billions into Meta as companies egg each other on to bet even more on AI",
+   "summary": "What's $3 billion to a trillion-dollar company?",
+   "link": "https://www.pcgamer.com/software/ai/nvidia-and-amd-invest-billions-into-meta-as-companies-egg-each-other-on-to-bet-even-more-on-ai/",
+   "pubDate": "2026-10-27T16:34:31.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/2W3UP8hvAdpRFHhXqoLnk6-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/nvidia-and-amd-invest-billions-into-meta-as-companies-egg-each-other-on-to-bet-even-more-on-ai/"
+    }
+   ]
+  },
+  {
+   "title": "Vote for the scariest game of all time: Round 1",
+   "summary": "Help whittle down a 16-game bracket to crown 'the scariest game on PC.'",
+   "link": "https://www.pcgamer.com/games/horror/vote-for-the-scariest-game-of-all-time-round-1/",
+   "pubDate": "2026-10-27T16:28:58.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/6jW75fauPxxgd9yjidAwgk-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/horror/vote-for-the-scariest-game-of-all-time-round-1/"
+    }
+   ]
+  },
+  {
+   "title": "Dungeons & Dragons: World of Warcraft's class designer 'crammed as much' of the MMO into it so that even veteran tabletop players can experience something new",
+   "summary": "The upcoming book introduces dozens of new subclasses, spells, and more to D&D's ruleset.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcrafts-class-designer-crammed-as-much-of-the-mmo-into-it-so-that-even-veteran-tabletop-players-can-experience-something-new/",
+   "pubDate": "2026-10-27T16:12:10.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/hQ2Esvyo3BVKEBz5YHs9oA-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcrafts-class-designer-crammed-as-much-of-the-mmo-into-it-so-that-even-veteran-tabletop-players-can-experience-something-new/"
+    }
+   ]
+  },
+  {
+   "title": "【最大8人】人狼系ミステリー『4 Penny Coffins』リリース。1888年のロンドンで仲間に潜む殺人鬼を追え",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/28/174159.html",
+   "pubDate": "2026-10-27T16:00:03.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "4 Penny Coffins"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/28/174159.html"
+    }
+   ]
+  },
+  {
+   "title": "Matthew Lillard Calls His Superman 2 Character 'A Very James Gunn Moment'",
+   "summary": "Superman 2: Man of Tomorrow brings Daredevil: Born Again actor Matthew Lillard into the wider James Gunn DCU, but comic fans might not recog…",
+   "link": "https://www.ign.com/articles/matthew-lillard-superman-2-character-james-gunn-moment",
+   "pubDate": "2026-10-27T16:00:03.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://assets-prd.ignimgs.com/2024/12/19/supes-blogroll-1734590561747.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/matthew-lillard-superman-2-character-james-gunn-moment"
+    }
+   ]
+  },
+  {
+   "title": "Blue N.O.V.A. Introduces its Own (Literal) Halo to the PvE Shooter Genre | IGN Preview",
+   "summary": "Built around a potentially brilliant mechanic that feels tailor-made for a PvE shooter, Blue N.O.V.A. has a ton of potential. But I left my…",
+   "link": "https://www.ign.com/articles/blue-nova-introduces-its-own-literal-halo-to-the-pve-shooter-genre-ign-preview",
+   "pubDate": "2026-10-27T16:00:00.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/003-1793055985025.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/blue-nova-introduces-its-own-literal-halo-to-the-pve-shooter-genre-ign-preview"
+    }
+   ]
+  },
+  {
+   "title": "Dragonproof Is a Perfect Fusion of Gargoyles and Buffy the Vampire Slayer",
+   "summary": "Check out an exclusive preview of Dragonproof, a new fantasy graphic novel perfect for fans of Gargoyles, Buffy, and Fourth Wing.",
+   "link": "https://www.ign.com/articles/dragonproof-is-a-perfect-fusion-of-gargoyles-and-buffy-the-vampire-slayer",
+   "pubDate": "2026-10-27T16:00:00.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/mixcollage-26-oct-2026-12-31-pm-442-1793032318017.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/dragonproof-is-a-perfect-fusion-of-gargoyles-and-buffy-the-vampire-slayer"
+    }
+   ]
+  },
+  {
+   "title": "Poll: What Review Score Would You Give Nintendo Switch Sports Resort?",
+   "summary": "He shoots, he scores. Nintendo Switch Sports Resort is here. With 12 different sports, a surprising amount of single-player content and vast…",
+   "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-nintendo-switch-sports-resort",
+   "pubDate": "2026-10-27T16:00:00.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://images.nintendolife.com/f1ce227b938df/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-nintendo-switch-sports-resort"
+    }
+   ]
+  },
+  {
+   "title": "Check Out 46 Seconds Of New Final Fantasy 7 Revelation Gameplay (And A Pink Chocobo)",
+   "summary": "Final Fantasy 7 Revelation aims to be the biggest chapter in the remake trilogy, not only in the number of regions players can explore, but…",
+   "link": "https://www.gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo/",
+   "pubDate": "2026-10-27T15:48:44.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/FF7-Chocobo.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "new",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo/"
+    }
+   ]
+  },
   {
    "title": "『放置少女』×アニメ『生徒会にも穴はある！』コラボ本日開幕！MR副将「照井有栖」が無料で仲間に！EX副将「陸奥こまろ」「古都吹寿子」も登場！さらに限定アバターや豪華報酬を手に入れよう！",
    "summary": "C4 Connect株式会社（本社：東京都渋谷区）は、美少女育成放置系RPG『放置少女～百花繚乱の萌姫たち～』（以下『放置少女』）において、現在放送中アニメ『生徒会にも穴はある！』とのコラボイベントを本日10月27...",
@@ -13808,6 +14057,34 @@
    ]
   },
   {
+   "title": "Wandering Cat's Cage Is a Dystopian Manga Worth Reading",
+   "summary": "We've got an exclusive preview of Wandering Cat's Cage, a haunting new dystopian manga from Fantagraphics and MSX: Mangasplaining Extra.",
+   "link": "https://www.ign.com/articles/wandering-cats-cage-is-a-dystopian-manga-worth-reading",
+   "pubDate": "2026-10-27T15:30:00.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/mixcollage-26-oct-2026-02-24-pm-6888-1793039079745.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/wandering-cats-cage-is-a-dystopian-manga-worth-reading"
+    }
+   ]
+  },
+  {
    "title": "Apple「iMac」M6搭載の新モデルが11月6日より発売。10コアCPU・GPUモデルが24万9800円から、12コアCPU・GPUモデルが28万9800円からに",
    "summary": "予約は10月29日2時10分から開始。ブルーやピンクなど全7色の薄型ボディで、家族の日常使いからクリエイターまで幅広い用途に",
    "link": "https://news.denfaminicogamer.jp/news/2610273e",
@@ -13832,6 +14109,34 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2610273e"
+    }
+   ]
+  },
+  {
+   "title": "Walmart Announces First Wave of 2026 Black Friday Deals, Starting November 12",
+   "summary": "Walmart has officially announced its 2026 Black Friday sale dates, starting November 12 with early access for Walmart+ members. Here is what…",
+   "link": "https://www.ign.com/articles/walmart-announces-first-wave-of-2026-black-friday-deals-starting-november-12",
+   "pubDate": "2026-10-27T15:22:46.000Z",
+   "firstSeen": "2026-10-27T16:47:37.230Z",
+   "image": "https://assets-prd.ignimgs.com/2025/12/02/walmart-1719258390658-1764710674446.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/walmart-announces-first-wave-of-2026-black-friday-deals-starting-november-12"
     }
    ]
   },
@@ -15321,6 +15626,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1UG1VcU44Ri1LS0ZnY2pZdnRTRVRfZjdqRUFUYjVlN3A4WTFlZGlKYUhKOEV0QVlMV3A0c2luaWppbUVaYkZVZl9kQkJVb0xCSnRxOQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1NjJWZTcza3lmV3BVZE1MazgxSXhPc0p5TG5RWUtwZ0ItdmpLajJrbUJXTTMyWWdfenFMblA4RnRnSm5YX1lpbmd4NC1SMmVzc0paU3FfMnNYVkVySHF6c2t3?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -16640,7 +16952,7 @@
    "firstSeen": "2026-10-27T10:47:36.885Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16657,9 +16969,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BeElvcUk0VmlYOEt2VVlvVDg3dVZ6NFY1VFhMa3ZwNy1PdmZxeS1rNzdObFBRRm1XUXpOTlpIeE5wcVZhUzdtalJMNEw4VFpiQ0dwdDZXZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -16727,7 +17039,7 @@
    "firstSeen": "2026-10-27T11:47:33.970Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16746,9 +17058,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mQmZZUkIzbi1RcEEtd0xQTzl3QWtHc2RCTjJMdWttZlJibDRyN3ZDYnRZcFI4Q2ttTk1aVE9xWklkZ1JrNWxaSXMyMUlhX2dvb2wzbnd6WQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -17085,6 +17397,13 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OeXZRVlZrX2Y1RlBYLWJlYXQ3bTk0MmdpYU1tRVNjU0JQV2pQN0otcEZ4SjJzSGlHQVVHZi1jYm1DOWdBYXRBdFJtTHVxWWlPa2o3ZVFKSGVFcnpqQUVGYmZuZ0VJc2M?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOMEtXNGZOQnlFcW5Lak1icGs1RXlpUHFUTHRBMFhmRUVsb1l1eENDdzFnN2VYYWRVTVc2aVQ2bmdyX2lxSGUxZlpZY3BQWlBxNHRTY0hodWQzbTFoT24xZVRtSkptSVlkbm5uYmRn?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
     }
    ]
   },
@@ -22531,6 +22850,13 @@
      "name": "au Webポータル",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HakNtcW1aOW1kdUhiSURVUjZDMGRicjNFMU10b3plMkJDaWZ1bWh0MTBreElhLThmcGtDOGVZZ1UwakxmZHBPYS1YN2tPT3RNMUxrQlZTazBEdnFkUHpfR0lmeHUweHRoS1JyQ2Z3?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    },
+    {
+     "name": "Game Spark（Yahoo!ニュース）",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UENSZzNWX1g1QmJ5Q0lZVjl0R250dmx4LUhyUkhfYUwxemJtaDVGdExwNU1GTzRfSEczcGdHNXVNbnd6Ym1ha3Z3VnFJMFN4MExIMnNjcmxxQzlCaDAtQzNYbHZqRmhWQk45Tmk1d3Z6VGZfeXMwR2ZvRlRTSzQ?oc=5",
      "via": "Googleニュース「ゲーム アップデート」",
      "syndicated": true
     }
@@ -29931,7 +30257,7 @@
    "firstSeen": "2026-10-26T11:47:34.777Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -29948,9 +30274,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqY1g5X1VnU1FkRUd4SUxLZnVxOW56VmgzZUxycUZ2V0Y5eVlqOTkxQlpVdzBKQ1duX090aW0yU0xaR3lIUHZlclRmUGhnZV91OHNEN0RaLTVaZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -192258,321 +192584,6 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live"
-    }
-   ]
-  },
-  {
-   "title": "I Tested Over a Dozen Gaming Earbuds, These Are the Best Ones",
-   "summary": "Start gaming without a bulky headset and get yourself a pair of earbuds that sound just as good.",
-   "link": "https://www.ign.com/articles/best-gaming-earbuds",
-   "pubDate": "2026-10-12T14:22:36.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": "https://assets-prd.ignimgs.com/2025/12/04/earbuds-1764877925211.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-gaming-earbuds"
-    }
-   ]
-  },
-  {
-   "title": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
-   "summary": "Arc Raiders has clearly managed to entice back lapsed players with its latest update, Frozen Trail, which upgrades the game to version 2.0.…",
-   "link": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
-   "pubDate": "2026-10-12T14:20:08.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": "https://assetsio.gnwcdn.com/arc-raiders-spider.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers"
-    }
-   ]
-  },
-  {
-   "title": "No Man’s Sky coming to iOS on October 28",
-   "summary": "Hello Games will release No Man’s Sky for iOS on October 28, the company announced. …",
-   "link": "https://www.gematsu.com/2026/10/no-mans-sky-coming-to-ios-on-october-28",
-   "pubDate": "2026-10-12T14:16:38.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/No-Mans-Sky-iOS_10-12-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/no-mans-sky-coming-to-ios-on-october-28"
-    }
-   ]
-  },
-  {
-   "title": "Riftbound: Radiance Rarest Cards - Riot Games Music Crossovers Dominate the Set",
-   "summary": "Riftbound's fifth set, Radiance, features rare showcase cards inspired by Riot Games Music acts: Heartsteel, True Damage, and K/DA. Check ou…",
-   "link": "https://www.ign.com/articles/riftbound-radiance-rarest-cards-riot-games-music-crossovers-dominate-the-set",
-   "pubDate": "2026-10-12T14:12:46.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/rarest-radiance-cards-1791813528221.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/riftbound-radiance-rarest-cards-riot-games-music-crossovers-dominate-the-set"
-    }
-   ]
-  },
-  {
-   "title": "『No Man's Sky』iOS版が10月29日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙【UPDATE】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/12/173523.html",
-   "pubDate": "2026-10-12T14:00:03.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "update",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "No Man's Sky"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/12/173523.html"
-    }
-   ]
-  },
-  {
-   "title": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
-   "summary": "\"I don't think critics had a fair chance to explore.\"",
-   "link": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-   "pubDate": "2026-10-12T13:49:54.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/pMe8QA6Ka5XWcYLKMKUca7-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/"
-    }
-   ]
-  },
-  {
-   "title": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
-   "summary": "Sora loser. We are back with another look at the UK charts, and it was quite the week for new releases. While EA Sports FC 27 has stood firm…",
-   "link": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
-   "pubDate": "2026-10-12T13:45:00.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": "https://images.nintendolife.com/cdee899c5782f/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium"
-    }
-   ]
-  },
-  {
-   "title": "Bless You Again demo now available",
-   "summary": "A demo for anime-style 3D roguelite action game Bless You Again is now available for …",
-   "link": "https://www.gematsu.com/2026/10/bless-you-again-demo-now-available",
-   "pubDate": "2026-10-12T13:34:41.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Bless-You-Again-Demo_10-12-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "demo",
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/bless-you-again-demo-now-available"
-    }
-   ]
-  },
-  {
-   "title": "Baki’s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator",
-   "summary": "Bandai Namco has dropped a new trailer for Tekken 8, and while this one is mostly focused on everyone's favorite Kangaroo, Roger, it also in…",
-   "link": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/",
-   "pubDate": "2026-10-12T13:27:28.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Hanma-1.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 1,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/"
-    }
-   ]
-  },
-  {
-   "title": "Hunter’s Moon voice cast announced",
-   "summary": "Twin Swans has announced the voice cast for first-person historical narrative folk-horror game Hunter’s Moon. …",
-   "link": "https://www.gematsu.com/2026/10/hunters-moon-voice-cast-announced",
-   "pubDate": "2026-10-12T13:24:47.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Hunters-Moon-Cast_10-12-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/hunters-moon-voice-cast-announced"
-    }
-   ]
-  },
-  {
-   "title": "『ACE COMBAT 8: WINGS OF THEVE』売上本数100万本を突破！「エースコンバット」シリーズで最速",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GV1VSR1Y2c1IwLWxSa0JUWll1czdMNDFaVGNtR193UnA5V2RoNl9JS05nLVpPSkMwb09pZjA1R3hjOFNnSEw0Qzl0dE9DZmhGSHdrc0RTNTg5d2M?oc=5",
-   "pubDate": "2026-10-12T13:20:59.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ACE COMBAT 8: WINGS OF THEVE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GV1VSR1Y2c1IwLWxSa0JUWll1czdMNDFaVGNtR193UnA5V2RoNl9JS05nLVpPSkMwb09pZjA1R3hjOFNnSEw0Qzl0dE9DZmhGSHdrc0RTNTg5d2M?oc=5",
-     "via": "Googleニュース「PS5 発売」"
     }
    ]
   }
