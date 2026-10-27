@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-27T13:47:59.041Z",
+ "generatedAt": "2026-10-27T14:47:58.238Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1118,
+  "exact": 1119,
   "syndicated": 85,
-  "similar": 307,
+  "similar": 309,
   "syndicatedTotal": 351,
   "syndicatedLeft": 25
  },
@@ -6217,6 +6217,22 @@
   {
    "date": "2026-10-27",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「Remothered: 赤き修道女の遺産」本日発売。失踪した娘を捜す母親が悪夢に挑む，サバイバルホラー三部作の完結編",
+   "link": "https://www.4gamer.net/games/990/G099022/20261027038/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-27",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -6699,6 +6715,23 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": null,
+   "title": "任天堂によるインディーゲーム紹介番組「Indie World 2026.10.28」が10月28日23時より配信決定！配信時間は約25分",
+   "link": "https://news.denfaminicogamer.jp/news/2610273g",
+   "source": "電ファミニコゲーマー",
+   "sources": 2,
+   "categories": [
+    "indie",
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-28",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "AVA RE:BIRTH",
    "title": "注目のFPS『AVA RE:BIRTH』10月28日に正式サービス開始へ。『AVA』終わるその日に生まれ変わり、もう来週",
    "link": "https://automaton-media.com/articles/newsjp/20261023-475200/",
@@ -6727,6 +6760,41 @@
     "pc",
     "mobile"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-28",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "スイッチ2とスイッチで遊べるインディーゲームを紹介する「Indie World」10月28日23時配信。配信時間は約25分",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174155.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "indie"
+   ],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-28",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "任天堂“Indie World（インディーワールド）”10月28日（水）23時より配信決定。放送時間は約25分",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMmZ2cFZZSlNGalQxX3oyZHBsdTlyYTN5NlVjdEF3T1ZIeVVBUVNQVU9ydVRQcjVmSndlSGFGWDMyWjhTQzRhV1pSR3RVcm43V1NqdTlacw?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "release",
+    "indie"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -7880,6 +7948,22 @@
     "update"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-30",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "WAZATO - そのミス、ワザと?",
+   "title": "『WAZATO - そのミス、ワザと？』10月30日（金）Steamで発売。発売を記念して、Steamキー4本セットが抽選で5組に当たるXキャンペーンを開始",
+   "link": "https://prtimes.jp/main/html/rd/p/000000075.000082360.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "pc"
+   ],
    "spoiler": false
   },
   {
@@ -13323,8 +13407,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1000,
-   "accepted": 975
+   "archived": 1001,
+   "accepted": 976
   },
   {
    "id": "4gamer-sp",
@@ -13345,8 +13429,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 573,
-   "accepted": 568
+   "archived": 574,
+   "accepted": 569
   },
   {
    "id": "denfaminico",
@@ -13356,8 +13440,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1271,
-   "accepted": 1102
+   "archived": 1273,
+   "accepted": 1104
   },
   {
    "id": "gamewatch",
@@ -13378,8 +13462,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1319,
-   "accepted": 1305
+   "archived": 1322,
+   "accepted": 1308
   },
   {
    "id": "inside-games",
@@ -13389,8 +13473,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1599,
-   "accepted": 1179
+   "archived": 1596,
+   "accepted": 1177
   },
   {
    "id": "ps-blog",
@@ -13433,8 +13517,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 787,
-   "accepted": 631
+   "archived": 783,
+   "accepted": 627
   },
   {
    "id": "gnews-dengeki",
@@ -13444,8 +13528,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 771,
-   "accepted": 390
+   "archived": 772,
+   "accepted": 391
   },
   {
    "id": "gnews-newgame",
@@ -13454,9 +13538,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 77,
-   "archived": 472,
-   "accepted": 447
+   "fetched": 78,
+   "archived": 473,
+   "accepted": 448
   },
   {
    "id": "gnews-switch2",
@@ -13466,8 +13550,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1220,
-   "accepted": 1043
+   "archived": 1224,
+   "accepted": 1045
   },
   {
    "id": "gnews-ps5",
@@ -13476,9 +13560,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 83,
-   "archived": 602,
-   "accepted": 549
+   "fetched": 85,
+   "archived": 604,
+   "accepted": 550
   },
   {
    "id": "gnews-update",
@@ -13487,9 +13571,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 421,
-   "accepted": 319
+   "fetched": 61,
+   "archived": 423,
+   "accepted": 320
   },
   {
    "id": "prtimes",
@@ -13499,8 +13583,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26940,
-   "accepted": 451
+   "archived": 27004,
+   "accepted": 452
   },
   {
    "id": "gematsu",
@@ -13521,8 +13605,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1262,
-   "accepted": 1262
+   "archived": 1265,
+   "accepted": 1265
   },
   {
    "id": "eurogamer",
@@ -13543,8 +13627,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 304,
-   "accepted": 304
+   "archived": 309,
+   "accepted": 309
   },
   {
    "id": "nintendolife",
@@ -13554,8 +13638,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 313,
-   "accepted": 313
+   "archived": 314,
+   "accepted": 314
   },
   {
    "id": "pcgamer",
@@ -13565,11 +13649,650 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 600,
-   "accepted": 600
+   "archived": 604,
+   "accepted": 604
   }
  ],
  "items": [
+  {
+   "title": "『ウルティマ』インスパイアの2DオープンワールドRPG『Code of The Savage』ウィッシュリスト3万件を達成―日本語対応デモ版も配信中",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174156.html",
+   "pubDate": "2026-10-27T14:32:38.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウルティマ",
+    "Code of The Savage"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/27/174156.html"
+    }
+   ]
+  },
+  {
+   "title": "Steam Next Fest Was Flooded With Slop. These 50 Demos Cut Through The Noise",
+   "summary": "The October Edition of Steam Next Fest was, unsurprisingly, a complete mess. What was once a fun week-long festival of early game demos has…",
+   "link": "https://www.gamespot.com/articles/steam-next-fest-was-flooded-with-slop-these-50-demos-cut-through-the-noise/",
+   "pubDate": "2026-10-27T14:29:19.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Godzilla-Monster-melee.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/steam-next-fest-was-flooded-with-slop-these-50-demos-cut-through-the-noise/"
+    }
+   ]
+  },
+  {
+   "title": "Nvidia may not have discontinued the RTX 5090, but one AIB partner says it can't get hold of the parts required to make the card",
+   "summary": "And RTX 5090s weren't cheap before.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-may-not-have-discontinued-the-rtx-5090-but-one-aib-partner-says-it-cant-get-hold-of-the-parts-required-to-make-the-card/",
+   "pubDate": "2026-10-27T14:22:56.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/rhWu44sDqYPTAiiJjUGKsE-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-may-not-have-discontinued-the-rtx-5090-but-one-aib-partner-says-it-cant-get-hold-of-the-parts-required-to-make-the-card/"
+    }
+   ]
+  },
+  {
+   "title": "Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation",
+   "summary": "Playing music too loud on the subway? Believe it or not, straight to jail.",
+   "link": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/",
+   "pubDate": "2026-10-27T14:20:39.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/2GY2sz99h3shDLqw9fUm4F-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Workers Are Eligible For Buyouts As Part Of Huge Shakeup At Microsoft",
+   "summary": "Microsoft has announced a new program called the Voluntary Exit Offer that it's extending to thousands of workers at the company, including…",
+   "link": "https://www.gamespot.com/articles/xbox-workers-are-eligible-for-buyouts-as-part-of-huge-shakeup-at-microsoft/",
+   "pubDate": "2026-10-27T14:20:36.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-9.00.08-AM-4.png?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/xbox-workers-are-eligible-for-buyouts-as-part-of-huge-shakeup-at-microsoft/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch向けのインディーゲームに焦点を当てる「Indie World 2026.10.28」がアナウンス、放送は明日深夜",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00djRWbWg2ZHpqM3JpTlFMdUt5SndnRGRjUThZeGVaU0FKUDFpS0JDbDY4czMybW44bnJjU1BtSzBDTUNJWVQ3Zl84dw?oc=5",
+   "pubDate": "2026-10-27T14:16:20.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00djRWbWg2ZHpqM3JpTlFMdUt5SndnRGRjUThZeGVaU0FKUDFpS0JDbDY4czMybW44bnJjU1BtSzBDTUNJWVQ3Zl84dw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『WAZATO - そのミス、ワザと？』10月30日（金）Steamで発売。発売を記念して、Steamキー4本セットが抽選で5組に当たるXキャンペーンを開始",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000075.000082360.html",
+   "pubDate": "2026-10-27T14:15:19.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "WAZATO - そのミス、ワザと?"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000075.000082360.html"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
+   "summary": "It's been a bumper year for Nintendo, with the likes of and Pokémon Pokopia kicking off 2026 in a very strong way for the company, and more…",
+   "link": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
+   "pubDate": "2026-10-27T14:06:39.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://assetsio.gnwcdn.com/Nintendo-Indie-World-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28"
+    }
+   ]
+  },
+  {
+   "title": "スイッチ2とスイッチで遊べるインディーゲームを紹介する「Indie World」10月28日23時配信。配信時間は約25分",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174155.html",
+   "pubDate": "2026-10-27T14:04:24.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/27/174155.html"
+    }
+   ]
+  },
+  {
+   "title": "You just can't win—despite Ghost of Yōtei selling millions of copies, 24 people are reportedly being let go from Sucker Punch",
+   "summary": "Are the \"challenges in the market\" in the room with us right now?",
+   "link": "https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/",
+   "pubDate": "2026-10-27T14:01:58.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/MZWAB9uWVcZhdATrWtyH9Z-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/"
+    }
+   ]
+  },
+  {
+   "title": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only",
+   "summary": "Today only, you can get a $100 PlayStation Store gift card for just $85 – and then use it to buy the Ultimate Edition of Grand Theft Auto 6…",
+   "link": "https://www.ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only",
+   "pubDate": "2026-10-27T14:00:19.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/27/untitled-design-5-1793107559234.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 11,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only"
+    }
+   ]
+  },
+  {
+   "title": "「ガンダムベース」の会員サービスでメールアドレスなど34万6247件が漏えい。メール配信の委託先・ユミルリンクに不正アクセス",
+   "summary": "パスワードやクレジットカード情報は対象外で、発表時点で二次被害も確認されていない。サービスは利用可能で、不審なメールに注意を呼びかけ",
+   "link": "https://news.denfaminicogamer.jp/news/2610273f",
+   "pubDate": "2026-10-27T14:00:15.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HVosu_xbQAAojxN.jpeg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610273f"
+    }
+   ]
+  },
+  {
+   "title": "「Remothered: 赤き修道女の遺産」本日発売。失踪した娘を捜す母親が悪夢に挑む，サバイバルホラー三部作の完結編",
+   "summary": "StormindGamesは本日，サバイバルホラー「Remothered:赤き修道女の遺産」を発売した。「Remothered」シリーズ三部作の完結編となる作品で，失踪した娘を捜す主人公スーザンが，執拗に追跡してくる敵から逃れながら，赤き修道女の起源と秘密を解き明かしていく。",
+   "link": "https://www.4gamer.net/games/990/G099022/20261027038/",
+   "pubDate": "2026-10-27T14:00:00.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/990/G099022/20261027038/"
+    }
+   ]
+  },
+  {
+   "title": "Ratata, A 4-Player Physics-Chaos Co-op Game Where You Play as Anthropomorphic Animals, Announced",
+   "summary": "Introducing Ratata, a chaotic four-player co-op physics game where you and three friends play as a gang of animals who owe money to a mafia…",
+   "link": "https://www.ign.com/articles/ratata-a-4-player-physics-chaos-co-op-game-where-you-play-as-anthropomorphic-animals-announced",
+   "pubDate": "2026-10-27T14:00:00.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/ratata-trailer-blogroll-1793050421415.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/ratata-a-4-player-physics-chaos-co-op-game-where-you-play-as-anthropomorphic-animals-announced"
+    }
+   ]
+  },
+  {
+   "title": "The Lord of the Rings: The Rings of Power Shakes Things Up for Season 3 With a Time Jump and ‘The Orc with an Arc’",
+   "summary": "IGN visited the set of The Lord of the Rings: The Rings of Power in England back in August 2025 where we got the scoop on what's in store fo…",
+   "link": "https://www.ign.com/articles/rings-of-power-season-3-time-jump-orc-arc",
+   "pubDate": "2026-10-27T14:00:00.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/26/rings-of-power-set-visit-exclusive2-blogroll-1793053163992.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/rings-of-power-season-3-time-jump-orc-arc"
+    }
+   ]
+  },
+  {
+   "title": "任天堂“Indie World（インディーワールド）”10月28日（水）23時より配信決定。放送時間は約25分",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMmZ2cFZZSlNGalQxX3oyZHBsdTlyYTN5NlVjdEF3T1ZIeVVBUVNQVU9ydVRQcjVmSndlSGFGWDMyWjhTQzRhV1pSR3RVcm43V1NqdTlacw?oc=5",
+   "pubDate": "2026-10-27T13:56:00.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMmZ2cFZZSlNGalQxX3oyZHBsdTlyYTN5NlVjdEF3T1ZIeVVBUVNQVU9ydVRQcjVmSndlSGFGWDMyWjhTQzRhV1pSR3RVcm43V1NqdTlacw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Call of Duty passes $40 billion in lifetime revenue, making it one of the most-lucrative videogame franchise ever",
+   "summary": "Never underestimate the unbridled love for yelling hoorah before gunning down the same generic bad guy every year.",
+   "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
+   "pubDate": "2026-10-27T13:55:38.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/6ULxropgura5CQ3q2UkRG4-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Announces Indie World Showcase For October 28",
+   "summary": "Nintendo has announced a new Indie World Showcase for October 28 at 7 AM PT / 10 AM ET. The broadcast will run about 15 minutes and, like pr…",
+   "link": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
+   "pubDate": "2026-10-27T13:54:50.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4660714-indie-world.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/"
+    },
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/nintendo-indie-world-showcase-announced-for-tomorrow-28th-october-2026"
+    }
+   ]
+  },
+  {
+   "title": "地獄の郵便室で奮闘するホラーお仕事シム『The Mailroom』Steamで発売―短いながらも楽しいとして“非常に好評”スタート",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/27/174154.html",
+   "pubDate": "2026-10-27T13:54:09.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "The Mailroom"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/27/174154.html"
+    }
+   ]
+  },
+  {
+   "title": "任天堂によるインディーゲーム紹介番組「Indie World 2026.10.28」が10月28日23時より配信決定！配信時間は約25分",
+   "summary": "任天堂によるインディーゲーム紹介番組「Indie World 2026.10.28」が10月28日23時より配信決定！配信時間は約25分",
+   "link": "https://news.denfaminicogamer.jp/news/2610273g",
+   "pubDate": "2026-10-27T13:52:33.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ogp-2-1024x538.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "indie",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610273g"
+    },
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261027-475970/"
+    }
+   ]
+  },
+  {
+   "title": "The Wolf Among Us Remastered Doesn’t Change Much, And That’s A Good Thing",
+   "summary": "The Wolf Among Us 2 is finally landing in 2027, and if you want to catch up on what many consider one of Telltale Games' best exports, you c…",
+   "link": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/",
+   "pubDate": "2026-10-27T13:40:00.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/The-Wolf-Among-Us-Remastered.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/"
+    }
+   ]
+  },
+  {
+   "title": "BioShock Movie Is Still Happening, But Director Says It’s A “Tough Nut To Crack”",
+   "summary": "A BioShock movie at Netflix remains in development, its director has confirmed, but that doesn't necessarily mean it'll ever be made. Franci…",
+   "link": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/",
+   "pubDate": "2026-10-27T13:38:57.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/bioshock_801b1b.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/"
+    }
+   ]
+  },
   {
    "title": "Peter Molyneux speaks candidly about AI: 'We, as the industry, are pretending we're not using AI, but the reality is, it's almost impossible to code now without using AI'",
    "summary": "The father of the god game weighs in on AI use in the gaming industry",
@@ -13593,6 +14316,35 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/"
+    }
+   ]
+  },
+  {
+   "title": "[Cyberpunk 2077] サイバーパンク2077 アップデート 2.500.200 (v2.5) パッチノート",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQ3RfYlV6eUEtZWo0VTY1bmFjWnc0ZHZydVBRYVpiZUJodW1Mak5SaFlzZVdCSGYtNGZkTU8wZGJBQXQ1SkZHZXg2YnQxWVozOFJkN2JhRWVJZy00elM2dWI3WGJuZDlxZzV1RV8td25VS3lLNEQ5MTVaS3M4RzBVZWxsSEYxMjlCQ3N3clVzLXVmeEgwMVNCdUxTRUUzb2pheFdNWHNoTmt5V0lxVloyRUFZR2ZQUHloS1pWNkhreWh6NGVRcS1VOFV0Um1ZVTJ5LUlFUWNXVlZDU1dEcE1DRHQyVzROUzRIM19ZdkRXMG1aTkc3dGFUYTg1YW5qT043YTlxVzNaS0FaUzhzdjZNX0szTUFTeVpZNXZma2RSVGV0ZVduaF93dW03SnhsVmJBMHl3bFVEa3I4UQ?oc=5",
+   "pubDate": "2026-10-27T13:15:18.000Z",
+   "firstSeen": "2026-10-27T14:47:37.298Z",
+   "image": null,
+   "source": "UpdateCrazy",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "UpdateCrazy",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQ3RfYlV6eUEtZWo0VTY1bmFjWnc0ZHZydVBRYVpiZUJodW1Mak5SaFlzZVdCSGYtNGZkTU8wZGJBQXQ1SkZHZXg2YnQxWVozOFJkN2JhRWVJZy00elM2dWI3WGJuZDlxZzV1RV8td25VS3lLNEQ5MTVaS3M4RzBVZWxsSEYxMjlCQ3N3clVzLXVmeEgwMVNCdUxTRUUzb2pheFdNWHNoTmt5V0lxVloyRUFZR2ZQUHloS1pWNkhreWh6NGVRcS1VOFV0Um1ZVTJ5LUlFUWNXVlZDU1dEcE1DRHQyVzROUzRIM19ZdkRXMG1aTkc3dGFUYTg1YW5qT043YTlxVzNaS0FaUzhzdjZNX0szTUFTeVpZNXZma2RSVGV0ZVduaF93dW03SnhsVmJBMHl3bFVEa3I4UQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -15500,7 +16252,7 @@
    "firstSeen": "2026-10-27T10:47:36.885Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15517,9 +16269,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BeElvcUk0VmlYOEt2VVlvVDg3dVZ6NFY1VFhMa3ZwNy1PdmZxeS1rNzdObFBRRm1XUXpOTlpIeE5wcVZhUzdtalJMNEw4VFpiQ0dwdDZXZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -28760,7 +29512,7 @@
    "firstSeen": "2026-10-26T11:47:34.777Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -28777,9 +29529,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqY1g5X1VnU1FkRUd4SUxLZnVxOW56VmgzZUxycUZ2V0Y5eVlqOTkxQlpVdzBKQ1duX090aW0yU0xaR3lIUHZlclRmUGhnZV91OHNEN0RaLTVaZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -37654,7 +38406,7 @@
    "firstSeen": "2026-10-25T09:47:40.355Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -37671,9 +38423,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KOFo2N1pxT1ZnMlZaWjN5a1ZZeWhZdTlQQXJFZU54d0hrUGRRX3JiUDExdkVhSUpEWFhqLW5QWXY4TUlZQzdCUmpVVUltRUhRbUZzR0RiOA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -191747,644 +192499,6 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6でPS5 Pro争奪戦激化 供給逼迫は2027年まで続く可能性",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY29odzUxb3dnQzB0eWhqUzl1amtqa1dHZjRpNVBhVHhVeFhjN2psZjA3OHBoZkptY2ZoNmhPSG9MYy1iU2cyLXF6alpSZVBEYTJ4cXl2M1BGeENXVk81WHVqZ3lYLTdKS3cwcVdmTDk5VlFWZXR6eHpjWExISjVnM29zQjZQc2s5TG1IclM3U05BNFB1dU54WUJYQ3I5QlNBUHFiQ3o3eVZfZw?oc=5",
-   "pubDate": "2026-10-12T11:30:00.000Z",
-   "firstSeen": "2026-10-12T12:47:34.616Z",
-   "image": null,
-   "source": "디지털투데이",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "디지털투데이",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY29odzUxb3dnQzB0eWhqUzl1amtqa1dHZjRpNVBhVHhVeFhjN2psZjA3OHBoZkptY2ZoNmhPSG9MYy1iU2cyLXF6alpSZVBEYTJ4cXl2M1BGeENXVk81WHVqZ3lYLTdKS3cwcVdmTDk5VlFWZXR6eHpjWExISjVnM29zQjZQc2s5TG1IclM3U05BNFB1dU54WUJYQ3I5QlNBUHFiQ3o3eVZfZw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
-   "summary": "I bet someone is already mocking up cat ears for this thing.",
-   "link": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-   "pubDate": "2026-10-12T11:17:32.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/NRD5M7RSJgRqmReM223ctn-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/"
-    }
-   ]
-  },
-  {
-   "title": "Pokémon TCG: 30th Celebration Boosters Are Back in Stock, but Where’s the Best Price Right Now?",
-   "summary": "Amazon has recently restocked its allocation of Pokémon TCG's 30th Celebration boosters, but prices have skyrocketed to all-new highs.",
-   "link": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-boosters-are-back-in-stock-at-online-retailers",
-   "pubDate": "2026-10-12T11:16:41.000Z",
-   "firstSeen": "2026-10-12T12:47:34.616Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/16/untitled-1-1789559789375.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-boosters-are-back-in-stock-at-online-retailers"
-    }
-   ]
-  },
-  {
-   "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
-   "summary": "Haunted Chocolatier, the second game from Stardew Valley creator, Eric Barone, has been in development for more than five years, having been…",
-   "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
-   "pubDate": "2026-10-12T11:09:52.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Haunted-Chocolatier.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/"
-    }
-   ]
-  },
-  {
-   "title": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature",
-   "summary": "Glup would be proud.",
-   "link": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
-   "pubDate": "2026-10-12T11:03:33.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/dh6TAMjUaWdDijWxXyscPS-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/"
-    }
-   ]
-  },
-  {
-   "title": "Haunted Chocolatier 'More of an Action RPG' Compared to Stardew Valley, ConcernedApe Says",
-   "summary": "Eric Barone, aka ConcernedApe, has discussed the difference between his all-conquering indie game Stardew Valley and his hotly anticipated f…",
-   "link": "https://www.ign.com/articles/haunted-chocolatier-more-of-an-action-rpg-compared-to-stardew-valley-concernedape-says",
-   "pubDate": "2026-10-12T11:02:53.000Z",
-   "firstSeen": "2026-10-12T12:47:34.616Z",
-   "image": "https://assets-prd.ignimgs.com/2026/02/02/stardewvalley-feature-hauntedchocolatier-blogroll-1770062121132.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/haunted-chocolatier-more-of-an-action-rpg-compared-to-stardew-valley-concernedape-says"
-    }
-   ]
-  },
-  {
-   "title": "【漫画じゃんげま】542.「ペイバック！」の巻",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/12/173522.html",
-   "pubDate": "2026-10-12T11:00:03.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/12/173522.html"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】スラリと伸びる美脚とスカートのシルエットが本物！「まどマギ」鹿目まどかの美女レイヤーはあどけない表情も可愛い【写真9枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/12/189144.html",
-   "pubDate": "2026-10-12T11:00:03.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/12/189144.html"
-    }
-   ]
-  },
-  {
-   "title": "「ゲーム基板はひとつの楽器」慶野由利子氏と、「MIDIコンをゲームにする」市川幹人氏――異色の二人が作る『Dropping Drops』インタビュー",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/12/173521.html",
-   "pubDate": "2026-10-12T10:55:02.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Dropping Drops"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/12/173521.html"
-    }
-   ]
-  },
-  {
-   "title": "「バケツ1杯の水」から干からびた海を満たしていくゲーム『Fill the Sea』が面白そう。果てしなく遠い目標、海が満ちた先に待つものとは",
-   "summary": "お手伝いを仲間にしたり、水道施設を建設したりして自動化していく。少しずつ水が増えていく様子をただ眺めるのも楽しみ方の1つ",
-   "link": "https://news.denfaminicogamer.jp/news/261012r",
-   "pubDate": "2026-10-12T10:52:41.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_569b999b559f16494e4ae85d17ad527e99c16e7f.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Fill the Sea"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261012r"
-    }
-   ]
-  },
-  {
-   "title": "ゾンビサバイバル『Project Zomboid』をVR化するMod「PZVR」が登場！没入感たっぷりでゾンビの群れから逃げ回る体験が楽しめる",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/12/173520.html",
-   "pubDate": "2026-10-12T10:40:03.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "vr"
-   ],
-   "works": [
-    "Project Zomboid"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/12/173520.html"
-    }
-   ]
-  },
-  {
-   "title": "Why Paying \"Market Price\" for Rare Pokémon Card Sets Somehow Became The New Normal",
-   "summary": "Pokémon TCG market prices often exceed MSRP, but they can help collectors avoid scalpers' worst prices, so here's why fans still rely on the…",
-   "link": "https://www.ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal",
-   "pubDate": "2026-10-12T10:36:19.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://assets-prd.ignimgs.com/2026/08/17/most-expensive-pokemon-cards-of-2026-2-1786972372948.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal"
-    }
-   ]
-  },
-  {
-   "title": "For the second time this year, Steam has set a major new concurrent user record",
-   "summary": "There's clearly no stopping Steam's continued growth. Valve's PC digital store and social platform set a new user concurrent record on Sunda…",
-   "link": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
-   "pubDate": "2026-10-12T10:35:07.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": "https://assetsio.gnwcdn.com/steam-games.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "The Best Books You Can Read In October 2026",
-   "summary": "From sci-fi to romance and thrillers, here are the best books you'll find on store shelves in October 2026",
-   "link": "https://www.ign.com/articles/the-best-books-you-can-read-in-october-2026",
-   "pubDate": "2026-10-12T10:31:24.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/october-books-2-1791801075108.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-best-books-you-can-read-in-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "Why Games Workshop's Falling Share Price Is All of a Sudden in the News",
-   "summary": "Warhammer 40,000 maker Games Workshop has found itself in the news for its falling share price, which has left some wondering what’s going o…",
-   "link": "https://www.ign.com/articles/why-games-workshops-falling-share-price-is-all-of-a-sudden-in-the-news",
-   "pubDate": "2026-10-12T10:30:19.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/gw-1791800697378.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/why-games-workshops-falling-share-price-is-all-of-a-sudden-in-the-news"
-    }
-   ]
-  },
-  {
-   "title": "『007 ファースト・ライト』と『HITMAN』から考える、「007」をゲームにするということ【コラム】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/12/173519.html",
-   "pubDate": "2026-10-12T10:30:03.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "007 ファースト・ライト",
-    "HITMAN"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/12/173519.html"
-    }
-   ]
-  },
-  {
-   "title": "『機動戦艦ナデシコ』劇場版『The prince of darkness』が2027年に再上映決定。放送30周年を記念し、全国の劇場で期間限定上映",
-   "summary": "テレビシリーズから数年後を描いた、1998年公開の衝撃の劇場版。テレビシリーズ全話を予習・復習できる“無料”配信は、YouTubeにて10月14日まで",
-   "link": "https://news.denfaminicogamer.jp/news/261012q",
-   "pubDate": "2026-10-12T10:22:19.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/PhotoshopExtension_Image-2026-10-12T184925.863-829x1024.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "機動戦艦ナデシコ",
-    "The prince of darkness"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261012q"
-    }
-   ]
-  },
-  {
-   "title": "「Nintendo Switch 2 選べるソフトセット」が登場！ 『マリオカート ワールド』など3本から1本を選択可能",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clZsWFRCcUljdjBRT1hEYVA1OU02Q3RoZjFYdEV2MDdWbTlTWmFQbEVEeU5neTNZaEJNLTFEeGdiTFpsdTM3dHpLTExoOG5nM1VVcGpPbkdkSHpya1dUUw?oc=5",
-   "pubDate": "2026-10-12T10:20:39.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "マリオカート ワールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2clZsWFRCcUljdjBRT1hEYVA1OU02Q3RoZjFYdEV2MDdWbTlTWmFQbEVEeU5neTNZaEJNLTFEeGdiTFpsdTM3dHpLTExoOG5nM1VVcGpPbkdkSHpya1dUUw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "How to turn off your backpack light in Arc Raiders",
-   "summary": "Use the new feature to get real sneaky.",
-   "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
-   "pubDate": "2026-10-12T10:17:58.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/z5nyShFe4XeKBiAHwiX8rh-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/"
-    }
-   ]
-  },
-  {
-   "title": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag",
-   "summary": "That's a lot of Rings. Earlier this year, SEGA revealed a life-size Sonic statue that contained the hedgehog's \"DNA\" (yes, really), housed i…",
-   "link": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
-   "pubDate": "2026-10-12T10:15:00.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": "https://images.nintendolife.com/50f9d2cd9aba7/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag"
-    }
-   ]
-  },
-  {
-   "title": "『スタークルーザー』はいかにして生まれたのか？ 3DポリゴンからAIまで―日本のゲーム黎明期を駆け抜けたクリエイター・吉村ことり氏が語る創作の原点 【ゲームのおいたち・ゲームのあゆみ】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/12/173518.html",
-   "pubDate": "2026-10-12T10:00:03.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "スタークルーザー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/12/173518.html"
-    }
-   ]
-  },
-  {
-   "title": "『ポケモンチャンピオンズ』天候無効化が強いジジーロンで環境に対抗！ 本日19時からダブルバトルを生放送【ファミ通 いのこり部】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwRU1LUEJ1QUZHWTNxQ2EtNE80cktfMGxmU2NJOFBCa21XcFFxR1RETTBEMzU3YWpfTXBhQXk1eUl5S21vX3VLWWY0MF9sVE5IbWI0LVNoMA?oc=5",
-   "pubDate": "2026-10-12T09:50:00.000Z",
-   "firstSeen": "2026-10-12T10:47:49.698Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモンチャンピオンズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwRU1LUEJ1QUZHWTNxQ2EtNE80cktfMGxmU2NJOFBCa21XcFFxR1RETTBEMzU3YWpfTXBhQXk1eUl5S21vX3VLWWY0MF9sVE5IbWI0LVNoMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
-   "summary": "Will de Renzy-Martin, the actor who plays lead character Coen in the English language version of The Blood of Dawnwalker, has reminded us of…",
-   "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-   "pubDate": "2026-10-12T09:41:30.000Z",
-   "firstSeen": "2026-10-12T09:47:43.476Z",
-   "image": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover"
     }
    ]
   }
