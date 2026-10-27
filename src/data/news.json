@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-27T14:47:58.238Z",
+ "generatedAt": "2026-10-27T15:47:58.094Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1119,
+  "exact": 1120,
   "syndicated": 85,
-  "similar": 309,
+  "similar": 310,
   "syndicatedTotal": 351,
   "syndicatedLeft": 25
  },
@@ -6724,7 +6724,10 @@
     "indie",
     "release"
    ],
-   "platforms": [],
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
    "spoiler": false
   },
   {
@@ -6760,6 +6763,23 @@
     "pc",
     "mobile"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-28",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "放置少女",
+   "title": "『放置少女』×アニメ『生徒会にも穴はある！』コラボ本日開幕！MR副将「照井有栖」が無料で仲間に！EX副将「陸奥こまろ」「古都吹寿子」も登場！さらに限定アバターや豪華報酬を手に入れよう！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000173.000047782.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -9435,6 +9455,22 @@
    "verb": "release",
    "label": "発売",
    "work": null,
+   "title": "Apple「iMac」M6搭載の新モデルが11月6日より発売。10コアCPU・GPUモデルが24万9800円から、12コアCPU・GPUモデルが28万9800円からに",
+   "link": "https://news.denfaminicogamer.jp/news/2610273e",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "hardware"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
    "title": "【Apple】M6を搭載した新型「iMac」発表！11月6日発売、価格は249,800円〜",
    "link": "https://game.watch.impress.co.jp/docs/news/2151689.html",
    "source": "GAME Watch",
@@ -10222,6 +10258,23 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "風燕伝:Where Winds Meet",
+   "title": "『風燕伝：Where Winds Meet』1周年記念アップデートが11月14日（土）に配信！",
+   "link": "https://blog.ja.playstation.com/2026/10/28/20261028-wwm-post-launch-update-o/",
+   "source": "PlayStation.Blog",
+   "sources": 1,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-14",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "Sloppy Forgeries",
    "title": "名画の模写で完成度を競い合う対戦型お絵かきゲーム「Sloppy Forgeries」，11月14日リリース",
    "link": "https://www.4gamer.net/games/052/G105296/20261026021/",
@@ -10551,6 +10604,20 @@
    "platforms": [
     "ps5"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-19",
+   "precision": "day",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "ShipShaper",
+   "title": "造船ツールがオンライン対戦ゲームに進化！『ShipShaper』11月19日対戦機能実装へ―事前のプレイテスト参加者も募集",
+   "link": "http://www.gamespark.jp/article/2026/10/28/174158.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -13418,8 +13485,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 228,
-   "accepted": 217
+   "archived": 227,
+   "accepted": 216
   },
   {
    "id": "automaton",
@@ -13451,8 +13518,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 583,
-   "accepted": 542
+   "archived": 582,
+   "accepted": 540
   },
   {
    "id": "gamespark",
@@ -13462,8 +13529,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1322,
-   "accepted": 1308
+   "archived": 1324,
+   "accepted": 1310
   },
   {
    "id": "inside-games",
@@ -13473,8 +13540,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1596,
-   "accepted": 1177
+   "archived": 1594,
+   "accepted": 1175
   },
   {
    "id": "ps-blog",
@@ -13484,8 +13551,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 29,
-   "accepted": 29
+   "archived": 30,
+   "accepted": 30
   },
   {
    "id": "xbox-wire",
@@ -13517,8 +13584,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 783,
-   "accepted": 627
+   "archived": 784,
+   "accepted": 628
   },
   {
    "id": "gnews-dengeki",
@@ -13528,7 +13595,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 772,
+   "archived": 773,
    "accepted": 391
   },
   {
@@ -13538,9 +13605,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 78,
-   "archived": 473,
-   "accepted": 448
+   "fetched": 77,
+   "archived": 472,
+   "accepted": 447
   },
   {
    "id": "gnews-switch2",
@@ -13551,7 +13618,7 @@
    "error": null,
    "fetched": 100,
    "archived": 1224,
-   "accepted": 1045
+   "accepted": 1046
   },
   {
    "id": "gnews-ps5",
@@ -13560,7 +13627,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 85,
+   "fetched": 84,
    "archived": 604,
    "accepted": 550
   },
@@ -13571,7 +13638,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 61,
+   "fetched": 59,
    "archived": 423,
    "accepted": 320
   },
@@ -13583,8 +13650,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27004,
-   "accepted": 452
+   "archived": 27055,
+   "accepted": 453
   },
   {
    "id": "gematsu",
@@ -13616,8 +13683,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 297,
-   "accepted": 297
+   "archived": 298,
+   "accepted": 298
   },
   {
    "id": "gamespot",
@@ -13649,11 +13716,329 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 604,
-   "accepted": 604
+   "archived": 605,
+   "accepted": 605
   }
  ],
  "items": [
+  {
+   "title": "『放置少女』×アニメ『生徒会にも穴はある！』コラボ本日開幕！MR副将「照井有栖」が無料で仲間に！EX副将「陸奥こまろ」「古都吹寿子」も登場！さらに限定アバターや豪華報酬を手に入れよう！",
+   "summary": "C4 Connect株式会社（本社：東京都渋谷区）は、美少女育成放置系RPG『放置少女～百花繚乱の萌姫たち～』（以下『放置少女』）において、現在放送中アニメ『生徒会にも穴はある！』とのコラボイベントを本日10月27...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000173.000047782.html",
+   "pubDate": "2026-10-27T15:40:02.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "放置少女",
+    "生徒会にも穴はある!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000173.000047782.html"
+    }
+   ]
+  },
+  {
+   "title": "Revisiting Ecstatica - the pioneering survival horror that used its fancy ellipsoid graphics tech to fill its world with dongs",
+   "summary": "There's a well-known phenomena in video games development known as time-to-penis. It's a somewhat tongue-in-cheek measurement of the time pl…",
+   "link": "https://www.eurogamer.net/ecstatica-now-playing",
+   "pubDate": "2026-10-27T15:36:35.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://assetsio.gnwcdn.com/ecstatica-5.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/ecstatica-now-playing"
+    }
+   ]
+  },
+  {
+   "title": "造船ツールがオンライン対戦ゲームに進化！『ShipShaper』11月19日対戦機能実装へ―事前のプレイテスト参加者も募集",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/28/174158.html",
+   "pubDate": "2026-10-27T15:32:11.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ShipShaper"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/28/174158.html"
+    }
+   ]
+  },
+  {
+   "title": "Apple「iMac」M6搭載の新モデルが11月6日より発売。10コアCPU・GPUモデルが24万9800円から、12コアCPU・GPUモデルが28万9800円からに",
+   "summary": "予約は10月29日2時10分から開始。ブルーやピンクなど全7色の薄型ボディで、家族の日常使いからクリエイターまで幅広い用途に",
+   "link": "https://news.denfaminicogamer.jp/news/2610273e",
+   "pubDate": "2026-10-27T15:25:40.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/PhotoshopExtension_Image_1-29-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610273e"
+    }
+   ]
+  },
+  {
+   "title": "Square Enix vets say devs of the future will need to 'master the use of AI', but the human touch will still be vital",
+   "summary": "\"Humans need to be involved in the initial step of turning zero into one.\"",
+   "link": "https://www.pcgamer.com/gaming-industry/game-development/square-enix-vets-say-devs-of-the-future-will-need-to-master-the-use-of-ai-but-the-human-touch-will-still-be-vital/",
+   "pubDate": "2026-10-27T15:15:52.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/pFbTMiMoXfrNnBPuXux7KL-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/game-development/square-enix-vets-say-devs-of-the-future-will-need-to-master-the-use-of-ai-but-the-human-touch-will-still-be-vital/"
+    }
+   ]
+  },
+  {
+   "title": "日本で初週トップの売上に！『ファイナルファンタジー レゾナンス』Steam週間ランキング、買い切りゲーム内で快挙",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/28/174157.html",
+   "pubDate": "2026-10-27T15:14:30.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "business",
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ファイナルファンタジー レゾナンス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/28/174157.html"
+    }
+   ]
+  },
+  {
+   "title": "Roblox users have made a playable version of Counter-Strike and full, working PlayStation games that you can play right now",
+   "summary": "Multiple remakes of beloved games including Counter Strike, The Simpsons: Hit and Run, and Super Hot, are available to play on Roblox right…",
+   "link": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
+   "pubDate": "2026-10-27T15:01:29.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://assetsio.gnwcdn.com/roblox-logo.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run"
+    }
+   ]
+  },
+  {
+   "title": "10月28日23時より、Nintendo Switch 2 とNintendo Switchで遊べるインディーゲームを紹介する「Indie World 2026.10.28」が配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zR2NweXBJMUs5OXU3Vk5sbzE5YTMwZVFZR2RyYjFnUm1qZVVrc0ZLb28zOE1zaGlBOWdKRGg0aXIwRzVtcVo1VFllc2ZJM2VZVGc?oc=5",
+   "pubDate": "2026-10-27T15:00:19.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": null,
+   "source": "Nintendo DREAM WEB",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 28,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo DREAM WEB",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zR2NweXBJMUs5OXU3Vk5sbzE5YTMwZVFZR2RyYjFnUm1qZVVrc0ZLb28zOE1zaGlBOWdKRGg0aXIwRzVtcVo1VFllc2ZJM2VZVGc?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『風燕伝：Where Winds Meet』1周年記念アップデートが11月14日（土）に配信！",
+   "summary": "『風燕伝：Where Winds Meet』1周年記念アップデートが11月14日（土）に配信！ 戦乱に揺れる新エリア“滹沱”で、仲間との絆と“侠”の精神を描く新たな物語が展開。新たなゲームモードや特別な報酬が手に入る記念イベントも登場！",
+   "link": "https://blog.ja.playstation.com/2026/10/28/20261028-wwm-post-launch-update-o/",
+   "pubDate": "2026-10-27T15:00:00.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://blog.ja.playstation.com/tachyon/sites/7/2026/10/496435b1924646cff8611b169a41a9f78f1fbca3.jpg",
+   "source": "PlayStation.Blog",
+   "sourceId": "ps-blog",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "風燕伝:Where Winds Meet"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PlayStation.Blog",
+     "sourceId": "ps-blog",
+     "link": "https://blog.ja.playstation.com/2026/10/28/20261028-wwm-post-launch-update-o/"
+    }
+   ]
+  },
+  {
+   "title": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat",
+   "summary": "Medium rare. Are you a fan of that genre? You know, the one that hasn’t quite settled on its name yet: mystery games… discovery games… infor…",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-seance-of-blake-manor",
+   "pubDate": "2026-10-27T15:00:00.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://images.nintendolife.com/9027c6ce5dd62/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-seance-of-blake-manor"
+    }
+   ]
+  },
+  {
+   "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29",
+   "summary": "I bet you can steal cars.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
+   "pubDate": "2026-10-27T15:00:00.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/5d8sAc26TSKWqxLRCibcD4-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/"
+    }
+   ]
+  },
   {
    "title": "『ウルティマ』インスパイアの2DオープンワールドRPG『Code of The Savage』ウィッシュリスト3万件を達成―日本語対応デモ版も配信中",
    "summary": "",
@@ -14113,7 +14498,7 @@
    ]
   },
   {
-   "title": "Call of Duty passes $40 billion in lifetime revenue, making it one of the most-lucrative videogame franchise ever",
+   "title": "Call of Duty passes $40 billion in lifetime revenue, making it one of the most lucrative videogame franchises ever",
    "summary": "Never underestimate the unbridled love for yelling hoorah before gunning down the same generic bad guy every year.",
    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
    "pubDate": "2026-10-27T13:55:38.000Z",
@@ -14207,7 +14592,7 @@
   },
   {
    "title": "任天堂によるインディーゲーム紹介番組「Indie World 2026.10.28」が10月28日23時より配信決定！配信時間は約25分",
-   "summary": "任天堂によるインディーゲーム紹介番組「Indie World 2026.10.28」が10月28日23時より配信決定！配信時間は約25分",
+   "summary": "Switch 2とSwitchで遊べるインディーゲームを紹介する。YouTubeの「Nintendo 公式チャンネル」では、配信ページも公開されている",
    "link": "https://news.denfaminicogamer.jp/news/2610273g",
    "pubDate": "2026-10-27T13:52:33.000Z",
    "firstSeen": "2026-10-27T14:47:37.298Z",
@@ -14217,13 +14602,16 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 18,
+   "score": 22,
    "categories": [
     "indie",
     "release"
    ],
    "deal": null,
-   "platforms": [],
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
    "works": [],
    "spoiler": false,
    "sources": [
@@ -16252,7 +16640,7 @@
    "firstSeen": "2026-10-27T10:47:36.885Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16269,9 +16657,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BeElvcUk0VmlYOEt2VVlvVDg3dVZ6NFY1VFhMa3ZwNy1PdmZxeS1rNzdObFBRRm1XUXpOTlpIeE5wcVZhUzdtalJMNEw4VFpiQ0dwdDZXZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -17516,6 +17904,37 @@
    ]
   },
   {
+   "title": "【メカザムライ】Plott×テレビ東京の新作ショートアニメが始動。『SHAMAN KING』武井宏之氏がメインキャラクター原案を担当",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoeGJnSDRJZklaT29LbG1uYXRuODBWSF9hZDN3MmlzVXU3ZzFuVi1Td0t6aVp6WDdaWkU0SE5pdU9yMEJjRHpiY3E1Um5EREFLalBnZXRDLU9MZw?oc=5",
+   "pubDate": "2026-10-27T09:00:00.000Z",
+   "firstSeen": "2026-10-27T15:47:36.661Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SHAMAN KING"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoeGJnSDRJZklaT29LbG1uYXRuODBWSF9hZDN3MmlzVXU3ZzFuVi1Td0t6aVp6WDdaWkU0SE5pdU9yMEJjRHpiY3E1Um5EREFLalBnZXRDLU9MZw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "『デスティニーチャイルド：アッセンブル』発表。『デスチャ』の世界観を受け継ぐ新作スマホ向け放置型RPG",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Mm8wRks3N2dyRkV4WHZLY2FkQ0tKTUhRbDFmeGZscHlWMGpTcjFTaGRud19uNUlqd3NOWFUyZDExT20ybTFLMDJxWGFtRTFuODh1d2hZTQ?oc=5",
@@ -17523,7 +17942,7 @@
    "firstSeen": "2026-10-27T09:47:41.356Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17544,9 +17963,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Mm8wRks3N2dyRkV4WHZLY2FkQ0tKTUhRbDFmeGZscHlWMGpTcjFTaGRud19uNUlqd3NOWFUyZDExT20ybTFLMDJxWGFtRTFuODh1d2hZTQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -23793,7 +24212,7 @@
    ]
   },
   {
-   "title": "DC Studios Boss Confirms Discussions With Alan Ritchson, But Haven't Found a Role for Him Yet",
+   "title": "DC Studios Boss Confirms Discussions With Alan Ritchson, but Haven't Found a Role for Him Yet",
    "summary": "DC Studios boss Peter Safran confirms they've had conversations with Alan Ritchson for a variety of roles, but are still looking to find the…",
    "link": "https://www.ign.com/articles/dc-studios-boss-confirms-discussions-with-alan-ritchson-but-havent-found-a-role-for-him-yet",
    "pubDate": "2026-10-26T23:19:31.000Z",
@@ -192154,351 +192573,6 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GV1VSR1Y2c1IwLWxSa0JUWll1czdMNDFaVGNtR193UnA5V2RoNl9JS05nLVpPSkMwb09pZjA1R3hjOFNnSEw0Qzl0dE9DZmhGSHdrc0RTNTg5d2M?oc=5",
      "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "『餓狼伝説 City of the Wolves』に『鉄拳8』より「麗奈」が参戦！Season 3の第6弾DLCキャラクター",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45aFJmUFotLURSSFNPZkJ1WlhVSnl1MWZjZlVJUVBoT29fSDd5UUhPbGk5YzV6Z1dCbEoxeml0cW1pa1o5OXBMNHUwanFjWHVWcUZxdEpYVDBKM1k?oc=5",
-   "pubDate": "2026-10-12T13:07:45.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "餓狼伝説 City of the Wolves",
-    "鉄拳8"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45aFJmUFotLURSSFNPZkJ1WlhVSnl1MWZjZlVJUVBoT29fSDd5UUhPbGk5YzV6Z1dCbEoxeml0cW1pa1o5OXBMNHUwanFjWHVWcUZxdEpYVDBKM1k?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction Release Date Confirmed",
-   "summary": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction has a release date: February 4, 2027.",
-   "link": "https://www.ign.com/articles/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-release-date-confirmed",
-   "pubDate": "2026-10-12T13:05:43.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/unnamed-5-1791812244961.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-release-date-confirmed"
-    },
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-launches-february-4-2027"
-    }
-   ]
-  },
-  {
-   "title": "Valor Mortis review",
-   "summary": "Valor Mortis plays a bit of a sneaky trick. For a while it keeps it straight. 'Yes', it seems to say; 'I'm definitely a Soulslike. Look at m…",
-   "link": "https://www.eurogamer.net/valor-mortis-review",
-   "pubDate": "2026-10-12T13:00:00.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://assetsio.gnwcdn.com/valor-mortis-header_J59Ly2I.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/valor-mortis-review"
-    },
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/valor-mortis-review"
-    }
-   ]
-  },
-  {
-   "title": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
-   "summary": "Here come the grannies! Following an impressive entry from Halfbrick with Bluey’s Quest for the Gold Pen, developer Gameloft is taking a cra…",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
-   "pubDate": "2026-10-12T13:00:00.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://images.nintendolife.com/60353d5b0f5af/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps"
-    }
-   ]
-  },
-  {
-   "title": "『Bless You Again』注目のアニメ調アクションRPG、無料体験版が配信開始。杖で殴って魔法でキメる独自の戦闘と、こだわりのグラフィックが楽しめる",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFVTS0NEd2p4Ymh0emJDY2x0ajcydHYxZ1pLU0FYVndtUzdkRngxdTFXNkhGUVJmY285QWNYOWZBdWh0UDMydXJKUjBoaWVFMTc5aERJcw?oc=5",
-   "pubDate": "2026-10-12T13:00:00.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Bless You Again"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFVTS0NEd2p4Ymh0emJDY2x0ajcydHYxZ1pLU0FYVndtUzdkRngxdTFXNkhGUVJmY285QWNYOWZBdWh0UDMydXJKUjBoaWVFMTc5aERJcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Anthony Bourdain’s Kitchen Confidential Gets Deluxe Folio Society Release",
-   "summary": "Anthony Bourdain's iconic memoir Kitchen Confidential is getting a new edition from The Folio Society, and it includes an exclusive portrait…",
-   "link": "https://www.ign.com/articles/anthony-bourdains-kitchen-confidential-gets-deluxe-folio-society-release",
-   "pubDate": "2026-10-12T13:00:00.000Z",
-   "firstSeen": "2026-10-12T14:47:36.042Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/11/mixcollage-11-oct-2026-09-36-am-1606-1791725836353.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/anthony-bourdains-kitchen-confidential-gets-deluxe-folio-society-release"
-    }
-   ]
-  },
-  {
-   "title": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
-   "summary": "For many Starfield players, the need to go through a loading screen each time you want to land on a planet - rather than seamlessly travel t…",
-   "link": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
-   "pubDate": "2026-10-12T12:56:58.000Z",
-   "firstSeen": "2026-10-12T13:47:39.420Z",
-   "image": "https://assetsio.gnwcdn.com/Starfield-Shattered-Space-screenshot1.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings"
-    }
-   ]
-  },
-  {
-   "title": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow",
-   "summary": "Times, they have a-changed.",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
-   "pubDate": "2026-10-12T12:40:20.000Z",
-   "firstSeen": "2026-10-12T12:47:34.616Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/8bEkBtsodF6QcpxXXztaDR-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/"
-    }
-   ]
-  },
-  {
-   "title": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes",
-   "summary": "\"I can just give instructions to the AI\". Dragon Quest creator Yuji Horii has released a brand new game, but with a twist: it's completely A…",
-   "link": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
-   "pubDate": "2026-10-12T12:00:00.000Z",
-   "firstSeen": "2026-10-12T12:47:34.616Z",
-   "image": "https://images.nintendolife.com/53a63f3a15917/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes"
-    }
-   ]
-  },
-  {
-   "title": "The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe",
-   "summary": "Star Citizen's single-player mode, Squadron 42, has made a reappearance with a new trailer showing off the mode's impressive cast and inters…",
-   "link": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/",
-   "pubDate": "2026-10-12T11:57:55.000Z",
-   "firstSeen": "2026-10-12T12:47:34.616Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Squadron-42.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "release",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/"
-    }
-   ]
-  },
-  {
-   "title": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
-   "summary": "When the call for external regulation is coming from inside AI's house, you know it's serious.",
-   "link": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
-   "pubDate": "2026-10-12T11:42:03.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/d5UvepN9xcPy68xoLQBH93-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Your washing machine is subject to more safety rules than AI"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/"
-    }
-   ]
-  },
-  {
-   "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
-   "summary": "Gears of War: E-Day's servers have been struggling because they've been suffering distributed denial-of-service (DDoS) attacks, apparently -…",
-   "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
-   "pubDate": "2026-10-12T11:38:55.000Z",
-   "firstSeen": "2026-10-12T11:47:39.130Z",
-   "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-marcus-crop.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
     }
    ]
   }
