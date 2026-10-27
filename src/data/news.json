@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-27T18:47:59.193Z",
+ "generatedAt": "2026-10-27T19:47:58.017Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1124,
+  "exact": 1125,
   "syndicated": 85,
   "similar": 313,
-  "syndicatedTotal": 354,
+  "syndicatedTotal": 355,
   "syndicatedLeft": 25
  },
  "calendar": [
@@ -7943,6 +7943,20 @@
   {
    "date": "2026-10-30",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "古今東西ダービー",
+   "title": "名付けた名前で馬の能力が決まる！ お題にあわせて最強馬を育てる競馬パーティーゲーム『古今東西ダービー』10/30配信",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMkpHNTNnWVdZUW54ZnFDZEkzbWszY0xiTTA4UXBlSVdSZ1ZwYWl2TzhwNUFWSUJ2alB4ajRQSWR0MnBFb0F3Rlp3YnV5cGlrbDJ4ZEpLeER0UQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 2,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-30",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ホワイトクロス ピュリファイ!",
@@ -8110,22 +8124,6 @@
    "sources": 1,
    "categories": [
     "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-30",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "古今東西ダービー",
-   "title": "『古今東西ダービー』お題に沿って付けた名前で馬の強さが決まる！ 競馬パーティーゲームが10月30日配信決定。最大8人のオンライン対戦も可能",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWU1PTlRQZHFaZm9zUjVnRHE0bUdhbEI5ZW9RaVFqLXJuRjBzVXlkRGl0VE80UzNhTHRPSEx2TnZ4TjdJbHJyd3FKdGt6TnVfeUdCSkhkcw?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [
-    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -11239,6 +11237,22 @@
   {
    "date": "2026-12",
    "precision": "month",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "着せ恋",
+   "title": "【NGSヘッドラインまとめ】刮目せよ！ 12月にルイノ・エルダーが実装決定！ 『着せ恋』コラボでは喜多川海夢のコスプレ衣装が登場",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rb21vNjhCZ2JveFhUN000WmhxS2x3N0hVbnZXYjd0WXFVblFrb3c3c1NSdnB1MkoxYVM4dU96MWlEMjM2YTRYVHBVSV83UlMwY2NtQk9Lbkg4QQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -13515,8 +13529,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1325,
-   "accepted": 1311
+   "archived": 1326,
+   "accepted": 1312
   },
   {
    "id": "inside-games",
@@ -13581,8 +13595,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 771,
-   "accepted": 391
+   "archived": 774,
+   "accepted": 394
   },
   {
    "id": "gnews-newgame",
@@ -13591,9 +13605,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 75,
-   "archived": 471,
-   "accepted": 446
+   "fetched": 100,
+   "archived": 474,
+   "accepted": 448
   },
   {
    "id": "gnews-switch2",
@@ -13624,7 +13638,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 63,
    "archived": 426,
    "accepted": 322
   },
@@ -13636,7 +13650,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27145,
+   "archived": 27173,
    "accepted": 454
   },
   {
@@ -13658,8 +13672,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1277,
-   "accepted": 1277
+   "archived": 1282,
+   "accepted": 1282
   },
   {
    "id": "eurogamer",
@@ -13680,8 +13694,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 312,
-   "accepted": 312
+   "archived": 314,
+   "accepted": 314
   },
   {
    "id": "nintendolife",
@@ -13702,11 +13716,215 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 606,
-   "accepted": 606
+   "archived": 605,
+   "accepted": 605
   }
  ],
  "items": [
+  {
+   "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
+   "summary": "A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play GTA 6. The promotion, which is li…",
+   "link": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
+   "pubDate": "2026-10-27T19:03:48.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice_City_05_669da2.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/"
+    }
+   ]
+  },
+  {
+   "title": "Official WoW: Forever AMV Will Get You Super Hyped",
+   "summary": "World of Warcraft: Forever is almost here, and in case players weren't already excited to return to classic Azeroth, a new animated music vi…",
+   "link": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/",
+   "pubDate": "2026-10-27T19:01:52.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-AMV.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/"
+    }
+   ]
+  },
+  {
+   "title": "『GTA6』PS5版ダウンロードサイズは210GB！空き容量を大幅に圧迫する超大作に",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/28/174160.html",
+   "pubDate": "2026-10-27T18:50:53.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/28/174160.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVEc5ZERjbExYUE8waG1UZ0JwZ0hGZEpYU1dBRTY4blNzdkMxQ29KY3kxNTFXd2lfamRtLTJzYms4OExmZlA5bVF1YTh4MnhIVHl5NWhSVUU5cmFOMzRTREw3UQ?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Lupin: Part 4 Review",
+   "summary": "After a three-year hiatus, Netflix’s French heist series Lupin returns for Part 4 with a soap opera bent, and it’s all the better for it.",
+   "link": "https://www.ign.com/articles/lupin-part-4-netflix-review",
+   "pubDate": "2026-10-27T18:42:22.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/27/lupin-part-4-thumb-1793125805252.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/lupin-part-4-netflix-review"
+    }
+   ]
+  },
+  {
+   "title": "'Physical Books, But Not Physical Games?' — PlayStation Book Announcement Prompts Confusion Over Sony's Physical Media Stance",
+   "summary": "Preorders have opened for PlayStation: The First 30 Years, a physical book honoring the gaming giant’s tenured history, but fans aren't exac…",
+   "link": "https://www.ign.com/articles/physical-books-but-not-physical-games-playstation-book-announcement-prompts-confusion-over-sonys-physical-media-stance",
+   "pubDate": "2026-10-27T18:30:51.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/27/playstationbook-1793123909530.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Physical Books, But Not Physical Games?"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/physical-books-but-not-physical-games-playstation-book-announcement-prompts-confusion-over-sonys-physical-media-stance"
+    }
+   ]
+  },
+  {
+   "title": "Save 28% Off the New SanDisk Portable SSD With Speeds of up to 1,000MB/s Ahead of Black Friday",
+   "summary": "A solid price for brand name, high-speed portable SSD storage in today's market.",
+   "link": "https://www.ign.com/articles/sandisk-portable-ssd-deal-october-2026",
+   "pubDate": "2026-10-27T18:30:00.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/27/sandiskportablessdnew-1793124475585.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/sandisk-portable-ssd-deal-october-2026"
+    }
+   ]
+  },
+  {
+   "title": "The Dune: Part Three Final Trailer Reveals Just How Different This Sequel Is",
+   "summary": "The final trailer for Dune: Part Three reveals just how different this sequel will be from the books, and it all centers around Zendaya's Ch…",
+   "link": "https://www.ign.com/articles/dune-part-three-final-trailer-sequel-differences-messiah",
+   "pubDate": "2026-10-27T18:28:41.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/27/dune-part-three-final-trailer-breakdown-blogroll-1793125581356.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "new",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/dune-part-three-final-trailer-sequel-differences-messiah"
+    }
+   ]
+  },
   {
    "title": "Call of Duty: Modern Warfare 4 review",
    "summary": "This is what it looks like when Call of Duty is in the pocket.",
@@ -13732,6 +13950,63 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/"
+    }
+   ]
+  },
+  {
+   "title": "World of Warcraft Forever Name Reservation Is Broken Ahead of Launch",
+   "summary": "The World of Warcraft Forever beta ended last week, and in the space in between that and the full launch on November 4, Blizzard is offering…",
+   "link": "https://www.ign.com/articles/world-of-warcraft-forever-name-reservation-is-broken-ahead-of-launch",
+   "pubDate": "2026-10-27T18:06:57.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/19/wow-forever-scenic-announce-skyborne-customization-062-1789806035954.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/world-of-warcraft-forever-name-reservation-is-broken-ahead-of-launch"
+    }
+   ]
+  },
+  {
+   "title": "BLEACH新作ゲーム、新人隊士10名が解禁で話題に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWRHRrY0MyZWpuUk1oS2hZQXY3dVFKNHdWelh0S21Sbmo3RjFCM01KNndDclpTTmhsMmhzVFpoUTZXbzdKb1E?oc=5",
+   "pubDate": "2026-10-27T18:06:54.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": null,
+   "source": "Koubo",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Koubo",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWRHRrY0MyZWpuUk1oS2hZQXY3dVFKNHdWelh0S21Sbmo3RjFCM01KNndDclpTTmhsMmhzVFpoUTZXbzdKb1E?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -13784,6 +14059,34 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/"
+    }
+   ]
+  },
+  {
+   "title": "Today’s Top Deals: MTG Play Booster Boxes, Pokémon TCG 30th Celebration, and LEGO Star Wars",
+   "summary": "Plus, check out more discounts on a GameSir G7 Pro Controller, Audible subscription, and plenty more",
+   "link": "https://www.ign.com/articles/best-deals-for-october-27-2026",
+   "pubDate": "2026-10-27T17:50:00.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/27/untitled-design-21-1793121689742.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/best-deals-for-october-27-2026"
     }
    ]
   },
@@ -15897,6 +16200,37 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FVk9mRmllVjNvVVB3bnRGMWVFVnc5TUdNa2RGemlHZGpueWF3bWNLY0JkY1RPX2tESXpjUWx3cXF4bXJhZXZOZQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "【NGSヘッドラインまとめ】刮目せよ！ 12月にルイノ・エルダーが実装決定！ 『着せ恋』コラボでは喜多川海夢のコスプレ衣装が登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rb21vNjhCZ2JveFhUN000WmhxS2x3N0hVbnZXYjd0WXFVblFrb3c3c1NSdnB1MkoxYVM4dU96MWlEMjM2YTRYVHBVSV83UlMwY2NtQk9Lbkg4QQ?oc=5",
+   "pubDate": "2026-10-27T12:39:00.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "着せ恋"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rb21vNjhCZ2JveFhUN000WmhxS2x3N0hVbnZXYjd0WXFVblFrb3c3c1NSdnB1MkoxYVM4dU96MWlEMjM2YTRYVHBVSV83UlMwY2NtQk9Lbkg4QQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -20112,6 +20446,37 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/27/189916.html"
+    }
+   ]
+  },
+  {
+   "title": "【中華三昧】発売45周年で『ラーメン大好き小泉さん』とコラボ開催。アレンジレシピ投票キャンペーンも開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Z1VUWW9yUVNLU0ZDYmgzODJUbEtCU0R4OG1NcG9wUmxMU0tyTHMzS2xNVlpnWi1ZWk5HU3VtTnd6VHU1WVdEMDJ5aUFzVW8ySklkNkhLSzlUUQ?oc=5",
+   "pubDate": "2026-10-27T06:44:00.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ラーメン大好き小泉さん"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Z1VUWW9yUVNLU0ZDYmgzODJUbEtCU0R4OG1NcG9wUmxMU0tyTHMzS2xNVlpnWi1ZWk5HU3VtTnd6VHU1WVdEMDJ5aUFzVW8ySklkNkhLSzlUUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -29997,6 +30362,35 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LU1U0NFJCZG4wWmF0NHJRbGFXZHA5ejVncm8waXVYZ1U3V0QwV1NuZ3BtQ1BBX3otM20zVW9jM2JTd3RJMEVJM1VsdE41WjIxQ1dtdHNDR3k1WTlNSlE?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "名付けた名前で馬の能力が決まる！ お題にあわせて最強馬を育てる競馬パーティーゲーム『古今東西ダービー』10/30配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMkpHNTNnWVdZUW54ZnFDZEkzbWszY0xiTTA4UXBlSVdSZ1ZwYWl2TzhwNUFWSUJ2alB4ajRQSWR0MnBFb0F3Rlp3YnV5cGlrbDJ4ZEpLeER0UQ?oc=5",
+   "pubDate": "2026-10-26T11:00:00.000Z",
+   "firstSeen": "2026-10-27T19:47:36.623Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "古今東西ダービー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMkpHNTNnWVdZUW54ZnFDZEkzbWszY0xiTTA4UXBlSVdSZ1ZwYWl2TzhwNUFWSUJ2alB4ajRQSWR0MnBFb0F3Rlp3YnV5cGlrbDJ4ZEpLeER0UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -192191,378 +192585,6 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2146601.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】VITUREのXRグラス「VITURE Luma Ultra」「VITURE Beast」「VITURE Luma」がセール対象に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にVITUREのXRグラスが追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146569.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146569.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】シリーズ初の冷却ファンを搭載したゲーミングスマートフォン「REDMAGIC 11 Air」がセール価格に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品に、REDMAGICのゲーミングスマートフォン「REDMAGIC 11 Air」が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146560.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": false
-   },
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146560.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】「Google Pixel 11」SIMフリーモデル（1GB日本専用データeSIM付き）がお買い得【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にGoogleのスマートフォン「Google Pixel 11」SIMフリーモデル（1GB日本専用データeSIM付き）が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146556.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146556.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】OPPOのスマホSIMフリーモデルがお買い得。折りたたみモデル「OPPO Find N6」などがセール価格に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にOPPO（オッポ）のスマートフォン（SIMフリーモデル）が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146552.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": false
-   },
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146552.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】「Fire TV」がお買い得。「Fire TV Cube」や「Fire TV Stick 4K Plus」などがセール価格に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にFire TVシリーズの製品が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146515.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146515.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】AIスマートグラス「Ray-Ban Meta（Gen 2）」シリーズがお買い得【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にAIスマートグラス「Ray-Ban Meta（Gen 2）」が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146490.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146490.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】オークリーのAIグラス「Meta Vanguard」がお買い得【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にオークリーのAIグラス「Meta Vanguard」が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146396.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146396.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】Appleのワイヤレスイヤホン「AirPods Pro 3」がお買い得【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にAppleのワイヤレスイヤホン「AirPods Pro 3」が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146381.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146381.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】Xiaomiのスマートウォッチ「Xiaomi Watch S4」がお買い得。コンパクトな41mmモデルも対象【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品に、Xiaomi（シャオミ）のスマートウォッチ「Xiaomi Watch S4」が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146362.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146362.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】HUAWEIのスマートウォッチが登場。「HUAWEI Band 11 Pro」などがセール価格に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にHUAWEIのスマートウォッチが追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146341.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146341.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】「AQUOS sense9」SIMフリーモデル（1GB日本専用eSIM付き）がセール価格に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にシャープのスマートフォン「AQUOS sense9」SIMフリーモデル（1GB日本専用eSIM付き）が追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146323.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": false
-   },
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146323.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】「REDMI Note 15 Pro 5G」SIMフリーモデルなどXiaomiのスマホがお買い得【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にXiaomi（シャオミ）のスマートフォンが追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146249.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146249.html"
-    }
-   ]
-  },
-  {
-   "title": "【Amazonセール】Xiaomiのタブレットがお買い得。「Redmi Pad 2」Wi-Fiモデルなどが対象に【プライム感謝祭2026】",
-   "summary": "Amazonにて開催されている「Amazon プライム感謝祭」先行セールの対象商品にXiaomi（シャオミ）のタブレットが追加された。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2146214.html",
-   "pubDate": "2026-10-12T15:05:00.000Z",
-   "firstSeen": "2026-10-12T15:47:37.804Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2146214.html"
     }
    ]
   }
