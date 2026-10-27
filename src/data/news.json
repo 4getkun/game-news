@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T05:40:19.857Z",
+ "generatedAt": "2026-10-27T05:47:44.350Z",
  "count": 6000,
  "dedupe": {
   "exact": 1109,
@@ -7184,6 +7184,24 @@
   {
    "date": "2026-10-29",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "Desktop Mate 森カリオペ DLC 10月29日リリース決定！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000113.000045461.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -10829,6 +10847,24 @@
   {
    "date": "2026-12",
    "precision": "month",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "ホロライブの魅力を学生がゲーム化！「holo Indie」とコラボし、3日間で企画から実装～最終調整まで行うイベントが12月開催",
+   "link": "https://www.inside-games.jp/article/2026/10/27/189913.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "event",
+    "indie",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -13116,8 +13152,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1580,
-   "accepted": 1166
+   "archived": 1581,
+   "accepted": 1167
   },
   {
    "id": "ps-blog",
@@ -13171,7 +13207,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 766,
+   "archived": 767,
    "accepted": 389
   },
   {
@@ -13181,8 +13217,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 74,
-   "archived": 472,
+   "fetched": 100,
+   "archived": 473,
    "accepted": 447
   },
   {
@@ -13226,8 +13262,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26489,
-   "accepted": 446
+   "archived": 26587,
+   "accepted": 449
   },
   {
    "id": "gematsu",
@@ -13297,6 +13333,66 @@
   }
  ],
  "items": [
+  {
+   "title": "Desktop Mate 森カリオペ DLC 10月29日リリース決定！",
+   "summary": "株式会社インフィニットループ(本社：北海道札幌市、代表取締役社長：小野真弘)は、Windows・Mac対応のデスクトップマスコットプラットフォーム「Desktop Mate」において、カバー株式会社が運営する「ホロライブ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000113.000045461.html",
+   "pubDate": "2026-10-27T05:41:02.000Z",
+   "firstSeen": "2026-10-27T05:47:31.683Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000113.000045461.html"
+    }
+   ]
+  },
+  {
+   "title": "ホロライブの魅力を学生がゲーム化！「holo Indie」とコラボし、3日間で企画から実装～最終調整まで行うイベントが12月開催",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/27/189913.html",
+   "pubDate": "2026-10-27T05:40:02.000Z",
+   "firstSeen": "2026-10-27T05:47:31.683Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "event",
+    "indie",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/27/189913.html"
+    }
+   ]
+  },
   {
    "title": "圧倒的に好評・娘育成シム『火山の娘』、Steam版向け“完全版アプデ”は10月30日配信へ。日本語フルボイス化に、新スチル・ストーリーなど盛りだくさん",
    "summary": "Gamirror Gamesは10月27日、Egg Hatcherが手がける『火山の娘』について、Steam版向け無料アップデートを10月30日に配信すると発表した。",
@@ -13575,7 +13671,7 @@
   },
   {
    "title": "『Pokémon UNITE（ポケモンユナイト）』が2027年3月23日をもってサービス終了を発表",
-   "summary": "『ポケモンユナイト』2027年3月23日をもってサービス終了を発表",
+   "summary": "有料ジェムの払い戻しやサービス終了後についてもアナウンス。すでに開催が発表されている競技大会「Pokémon UNITE Aeos Crown 2027 Tokyo」は予定通り実施",
    "link": "https://news.denfaminicogamer.jp/news/2610272f",
    "pubDate": "2026-10-27T05:07:38.000Z",
    "firstSeen": "2026-10-27T05:39:58.970Z",
@@ -13587,6 +13683,7 @@
    "lang": "ja",
    "score": 8,
    "categories": [
+    "esports",
     "trouble"
    ],
    "deal": null,
@@ -13604,7 +13701,7 @@
    ]
   },
   {
-   "title": "『ポケモンユナイト』2027年3月23日をもってサービス終了…単独の競技大会「Pokémon UNITE Aeos Crown 2027 Tokyo」は予定通り実施へ",
+   "title": "『ポケモンユナイト』2027年3月23日にサービス終了…ホロウェア閲覧や練習場を遊べる「ライブラリ機能」を準備中",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/10/27/189911.html",
    "pubDate": "2026-10-27T05:05:35.000Z",
@@ -13617,7 +13714,6 @@
    "lang": "ja",
    "score": 8,
    "categories": [
-    "esports",
     "trouble"
    ],
    "deal": null,
@@ -15370,6 +15466,65 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83TWt6WnBHclZfLTRQYUJCWjdPZ0YxUzdOb1JSYUdlLVRMNTB3U1hxLURjSkdoVTdnNzV2UGxUSzFGU09LMVljTU5nQjhJWUZ2OUlCeG9vVQ?oc=5",
      "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "クラスター、鹿児島県日置市のバーチャル空間「ネオ日置」の「祭空間」を大型アップデート",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000471.000017626.html",
+   "pubDate": "2026-10-27T03:00:00.000Z",
+   "firstSeen": "2026-10-27T05:47:31.683Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000471.000017626.html"
+    }
+   ]
+  },
+  {
+   "title": "『DRECOM CREATORS STUDIO』フルボイスで描かれる\"ちょっとヘン\"な物語×デッキ構築型ローグライク×3Dボードゲーム『ひとりあそび』のパブリッシングを発表",
+   "summary": "株式会社ドリコム（本社：東京都品川区、代表取締役社長：内藤裕紀）が展開する、ゲームクリエイターの支援および作品の発掘・育成を行い、世界へ届けることを使命とするインディーゲームスタジオ『DRECOM CREATO...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000638.000080650.html",
+   "pubDate": "2026-10-27T03:00:00.000Z",
+   "firstSeen": "2026-10-27T05:47:31.683Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "DRECOM CREATORS STUDIO",
+    "ひとりあそび"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000638.000080650.html"
     }
    ]
   },
@@ -191878,116 +192033,6 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBQcEZmY2wzM2FxMWxNdkNBcHA3LS1rTWk2cE9YXzdEc3pZcjB6T3ZMNlhxcHQxQ1A1YTlPZzF1bUdZOTZL?oc=5",
      "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "「『サイバーパンク2077』PS2デメイク」2026年10月4日～10月10日の秘宝はこれだ！【週刊トレハン】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/11/173487.html",
-   "pubDate": "2026-10-11T05:00:03.000Z",
-   "firstSeen": "2026-10-11T05:47:50.545Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サイバーパンク2077"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/11/173487.html"
-    }
-   ]
-  },
-  {
-   "title": "『東方紅魔郷』キャラ設定などを原作者のZUN氏が振り返る動画が公開中。当時の「おまけテキスト」を元に、24年も前の“オリジナル”に立ち返る貴重な内容",
-   "summary": "『紅魔郷』以前に敵キャラとして初登場していた魔理沙、具体的に何の妖怪なのか明かされていない紅美鈴、ルーミアのリボン（御札）などに触れている",
-   "link": "https://news.denfaminicogamer.jp/news/261011f",
-   "pubDate": "2026-10-11T04:58:11.000Z",
-   "firstSeen": "2026-10-11T05:47:50.545Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/maxresdefault-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "東方紅魔郷"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261011f"
-    }
-   ]
-  },
-  {
-   "title": "絡み合う愛と悲劇を通じて「自分自身のあり方」が問われる。人間の複雑さを抉る傑作ノベル『ファタモルガーナの館』を今こそ遊んでみよう",
-   "summary": "『ファタモルガーナの館』は2012年に発表された作品ながら、愛と悲劇を通じて「自分自身のあり方」という、現代でも通じるテーマを描いている。",
-   "link": "https://automaton-media.com/articles/special-column/20261011-472996/",
-   "pubDate": "2026-10-11T04:48:13.000Z",
-   "firstSeen": "2026-10-11T05:47:50.545Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261011-472996-image4.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ファタモルガーナの館"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/special-column/20261011-472996/"
-    }
-   ]
-  },
-  {
-   "title": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
-   "summary": "What a relief. Hugh and Diana's new sci-fi game Pragmata could have been \"a little bit more\" horror-focused, according to the game's lead pr…",
-   "link": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
-   "pubDate": "2026-10-11T04:15:00.000Z",
-   "firstSeen": "2026-10-11T04:47:50.442Z",
-   "image": "https://images.nintendolife.com/2d6af693d6334/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused"
     }
    ]
   }
