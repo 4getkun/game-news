@@ -1,0 +1,61 @@
+---
+// 記事1 articles(JavaScript が無くても読めるサーバー側の描画)。トップの最初の30 articlesとTitle pageで使う。
+// ブラウザ側で描き直すときの形は src/scripts/feed.ts の renderItem と同じにしておく。
+import type { NewsItem } from "../lib/news";
+import { categories, platforms, workSlugByName, dealStores, dealLabel } from "../lib/news";
+import { withBase } from "../lib/url";
+
+interface Props {
+  item: NewsItem;
+  /** 時刻の代わりに日付も出す(Title pageのように日をまたいで並べるとき) */
+  showDate?: boolean;
+  /** サムネイルを出すか。トップの最初の30 articlesでは出さない(他サイトの大きな画像で最初のDisplayが遅くなるため。
+   *  ブラウザ側で一覧を描き直すときに遅延読み込みで出る) */
+  showThumb?: boolean;
+}
+const { item: it, showDate = false, showThumb = true } = Astro.props;
+const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
+const platLabel = Object.fromEntries(platforms.map((p) => [p.id, p.label]));
+const fmt = new Intl.DateTimeFormat("en-GB", {
+  ...(showDate ? { month: "numeric", day: "numeric" } : {}),
+  hour: "2-digit",
+  minute: "2-digit",
+  timeZone: "Asia/Tokyo",
+});
+const time = it.pubDate ? fmt.format(new Date(it.pubDate)) : "";
+const storeLabel = Object.fromEntries(dealStores.map((st) => [st.id, st.label]));
+const dealWhere = it.deal ? it.deal.stores.filter((st) => st !== "other").map((st) => storeLabel[st]).join("・") : "";
+const others = it.sources.filter((s) => !s.syndicated).length - 1;
+---
+
+<article class="item">
+  <div class="item-grid cursor-row">
+    <time class="item-time" datetime={it.pubDate ?? undefined}>{time}</time>
+    <div>
+      <div class="item-meta">
+        {it.deal && <span class:list={["deal-badge", { "is-free": it.deal.free }]}>{dealLabel(it.deal)}{dealWhere && <small>{dealWhere}</small>}</span>}
+        <span class="src"><span class={`kind-mark kind-${it.kind}`}></span>{it.source}</span>
+        {others > 0 && <span class="more-src">+ {others} sources</span>}
+      </div>
+      <h3 class="item-title" lang={it.lang}><a href={it.link} target="_blank" rel="noopener noreferrer">{it.title}</a></h3>
+      {it.summary && <p class="item-summary" lang={it.lang}>{it.summary}</p>}
+    </div>
+    {showThumb && it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+    <div class="item-tags">
+      {it.works.slice(0, 3).map((w) =>
+        workSlugByName[w] ? (
+          <a class="tag tag-work" href={withBase(`/work/${workSlugByName[w]}/`)}>{w}</a>
+        ) : (
+          <span class="tag tag-work">{w}</span>
+        ),
+      )}
+      {((it.platforms ?? []).length > 0 || it.categories.length > 0) && (
+        <span class="item-cats">
+          {(it.platforms ?? []).map((p) => <span class="plat">{platLabel[p]}</span>)}
+          {it.categories.slice(0, 3).map((c) => <span class="tag tag-cat">#{catLabel[c]}</span>)}
+        </span>
+      )}
+    </div>
+  </div>
+</article>
+

@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+import { withBase } from "../lib/url";
+---
+
+<Base title="Page not found" noindex>
+  <section class="wrap prose">
+    <h1>This page does not exist</h1>
+    <p>The URL may have changed, or the page may have been removed.</p>
+    <p><a class="btn btn-solid" href={withBase("/")}>Read the latest news</a></p>
+  </section>
+</Base>
+

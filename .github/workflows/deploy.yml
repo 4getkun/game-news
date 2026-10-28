@@ -103,6 +103,10 @@ jobs:
         if: steps.guard.outputs.skip != 'true'
         run: npm run build
 
+      - name: Build additive English locale from the same current data
+        if: steps.guard.outputs.skip != 'true'
+        run: node scripts/build-english.mjs
+
       - name: Deploy to Cloudflare Pages
         if: steps.guard.outputs.skip != 'true' && env.CLOUDFLARE_API_TOKEN != ''
         # プロジェクト(game-news / game-news.pages.dev)は作成済み。

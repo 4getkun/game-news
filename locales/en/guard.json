@@ -1,0 +1,289 @@
+{
+  "sourcePin": "442218164c408eb0fdbafa1364b1b90e814378a3",
+  "sourceCodePaths": [
+    "src/components/FeedList.astro",
+    "src/components/NewsItem.astro",
+    "src/layouts/Base.astro",
+    "src/lib/news.ts",
+    "src/lib/rss.ts",
+    "src/lib/seo.ts",
+    "src/lib/url.ts",
+    "src/pages/404.astro",
+    "src/pages/about/index.astro",
+    "src/pages/calendar/index.astro",
+    "src/pages/data/news.json.ts",
+    "src/pages/feed.xml.ts",
+    "src/pages/feed/[category].xml.ts",
+    "src/pages/feed/deal/[store].xml.ts",
+    "src/pages/feed/platform/[platform].xml.ts",
+    "src/pages/index.astro",
+    "src/pages/share/[lv].astro",
+    "src/pages/sitemap.xml.ts",
+    "src/pages/work/[slug].astro",
+    "src/pages/work/index.astro",
+    "src/scripts/bouken.ts",
+    "src/scripts/feed.ts",
+    "src/scripts/message-window.ts",
+    "src/scripts/suggest.ts",
+    "src/styles/global.css"
+  ],
+  "guardFiles": [
+    {
+      "path": "astro.config.mjs",
+      "sha1": "7b04418b4ee3a90af9a7a3502f4c9482ad220b7d"
+    },
+    {
+      "path": "linebreak.config.mjs",
+      "sha1": "af260e49ca4b981c2f7f32c6b8c8bf1cdce87d22"
+    },
+    {
+      "path": "package-lock.json",
+      "sha1": "00bcd951782681c64bd163cd8f57d7ee0a191d07"
+    },
+    {
+      "path": "package.json",
+      "sha1": "98bc825de6968d5dce0c8e3b1eaf5a64862d8b10"
+    },
+    {
+      "path": "scripts/linebreak/README.md",
+      "sha1": "9fb4213f8f9fffa15c2e03920a052037b74ec409"
+    },
+    {
+      "path": "scripts/linebreak/cli.mjs",
+      "sha1": "3682a84fba1fbd37745e3f219617114858852095"
+    },
+    {
+      "path": "scripts/linebreak/core.mjs",
+      "sha1": "6019a5a55ea3b5ce668243862f454710c4abf565"
+    },
+    {
+      "path": "scripts/linebreak/linebreak.css",
+      "sha1": "8824279ae4ce53c651c974ce35f0f2bca153d308"
+    },
+    {
+      "path": "scripts/linebreak/linebreak.js",
+      "sha1": "90b35d6f63fd5036d26c03ed4c86f908d2a85523"
+    },
+    {
+      "path": "src/components/FeedList.astro",
+      "sha1": "e6ecdd2148d7155065ffca3d79dd0cde3489e6a9"
+    },
+    {
+      "path": "src/components/NewsItem.astro",
+      "sha1": "bb6db41bf824da5b1474c2411d51a5562bf14289"
+    },
+    {
+      "path": "src/layouts/Base.astro",
+      "sha1": "28ae8578848ff0fd79d221a21cf66de6453d1c29"
+    },
+    {
+      "path": "src/lib/news.ts",
+      "sha1": "28172446c537f33c8df61905480665e58d7a2919"
+    },
+    {
+      "path": "src/lib/rss.ts",
+      "sha1": "f8659d87552521aee943b974d64fa7d1e62cd1ca"
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha1": "b4ac8c5b238c78eceb910b249e1a753f2d604866"
+    },
+    {
+      "path": "src/lib/url.ts",
+      "sha1": "bb33a430d892cc1fb1ba5db13635b43dc9d38508"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha1": "3e6b9ee8ef61d87c70eaaece8c81625e5ae58e54"
+    },
+    {
+      "path": "src/pages/about/index.astro",
+      "sha1": "36c965999cb43541f7f0ba11cefb8a723cfa9dec"
+    },
+    {
+      "path": "src/pages/calendar/index.astro",
+      "sha1": "eb6959adef9367995df5843b6aaf875ea591c7b4"
+    },
+    {
+      "path": "src/pages/data/news.json.ts",
+      "sha1": "63cc0a43b7134ea4236a5d391d8fcea22340d065"
+    },
+    {
+      "path": "src/pages/feed.xml.ts",
+      "sha1": "2a5d1eb3c5a18b3c3c84e958a05389c8a5ea97f0"
+    },
+    {
+      "path": "src/pages/feed/[category].xml.ts",
+      "sha1": "a5e96593c876dd3ede7fc23e38021318138ee9d0"
+    },
+    {
+      "path": "src/pages/feed/deal/[store].xml.ts",
+      "sha1": "80dad6611b5a010d5e56a2723fce64e451bf3303"
+    },
+    {
+      "path": "src/pages/feed/platform/[platform].xml.ts",
+      "sha1": "b3159464345087389e19c3d2493c38dafdf264ab"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha1": "8f9f34eef231d5e5e271436b016323a4be6a7202"
+    },
+    {
+      "path": "src/pages/share/[lv].astro",
+      "sha1": "60ec988976bc0a9ddd38172d2872ef02c3ebfd57"
+    },
+    {
+      "path": "src/pages/sitemap.xml.ts",
+      "sha1": "0614a9823a43edffcbf360457e79497c40ae0746"
+    },
+    {
+      "path": "src/pages/work/[slug].astro",
+      "sha1": "196a5e4cf808877975bebe97eb8ea335a4bfaddd"
+    },
+    {
+      "path": "src/pages/work/index.astro",
+      "sha1": "cf472277b5f440bdf4bc6effbe9004db31e85d87"
+    },
+    {
+      "path": "src/scripts/bouken.ts",
+      "sha1": "29a275338b1dbf93544af59e206afd136daf674f"
+    },
+    {
+      "path": "src/scripts/feed.ts",
+      "sha1": "4ffc40577703de6b1290f0faa29c0584525f7a9d"
+    },
+    {
+      "path": "src/scripts/message-window.ts",
+      "sha1": "63ae28c4dae8c3d52c0c84a3373ced5f5abe8add"
+    },
+    {
+      "path": "src/scripts/suggest.ts",
+      "sha1": "7d34c3120cc82dd275446a60785c375fb4ebcd94"
+    },
+    {
+      "path": "src/styles/global.css",
+      "sha1": "0b90ace4835452fb4ef87b9454c072281e64e158"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha1": "8bf91d3bb997dfb0ea4a592b849545656f0fcebe"
+    }
+  ],
+  "installationFiles": [
+    {
+      "path": ".gitignore",
+      "sha256": "ed806df119bc94aff4c9d566d858ada3d8a58829a1b9bce9d8ce69e453765cf8"
+    }
+  ],
+  "overlayFiles": [
+    {
+      "path": "astro.config.mjs",
+      "sha256": "168be1fc2ac7e86281c7d77a4ef33abc9c81630ffd39ee1c0d0a8ca9501e98df"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "2edb385b22373eed8429a56fdcc02f119d257073d95f0e662d5fc72e212374cd"
+    },
+    {
+      "path": "public/og-image-en.png",
+      "sha256": "d3453b8047931eca5a27e98715a9ac6e21d0d61efbb2305ef219cde285bd0caf"
+    },
+    {
+      "path": "src/components/FeedList.astro",
+      "sha256": "2d759720128a20514b3e89e8355f69927819771d32905140f797d267feb01fe0"
+    },
+    {
+      "path": "src/components/NewsItem.astro",
+      "sha256": "078fea9af4f3cf93f998f6b54b1309cd9241601c94daf9116c180f15c9fba191"
+    },
+    {
+      "path": "src/layouts/Base.astro",
+      "sha256": "696ddf0c2e7bbf0e67acc832a3f3423e07d24af895a3bbe78c7467677b6e133f"
+    },
+    {
+      "path": "src/lib/news.ts",
+      "sha256": "2eb6482dac8658b1215706e4e2a407a856d5458ec35d872b2ae1675d08514b54"
+    },
+    {
+      "path": "src/lib/rss.ts",
+      "sha256": "0f59844e7e5fd878375e8a16215f3237b01df5626a0bd42bbc88355040bc2cda"
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha256": "b99950f5b37b7d5d9fa27a519b6b39afe462bad103cc44dcd028e5b0b927fb4c"
+    },
+    {
+      "path": "src/lib/url.ts",
+      "sha256": "c944ab2aaa3a7e8b02b2f6fc03053252cb0f8533a4ca0862c8112c74a39a9c08"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha256": "86f7f28f6d892c0bbed417800a7dd8bac0fef19dce1858abbfc19cad829f1cb2"
+    },
+    {
+      "path": "src/pages/about/index.astro",
+      "sha256": "62bffe50da1df0207ef49f6db7e90f48e03e736142e2b810f6084618b540c11d"
+    },
+    {
+      "path": "src/pages/calendar/index.astro",
+      "sha256": "88cbb730b1b149c762d7890ba7b0a5678ecbe77bd5b819cd15e4195c2f2e1d39"
+    },
+    {
+      "path": "src/pages/feed.xml.ts",
+      "sha256": "da1de660c57d36fdf88caecfb9e54aad5a121ea34c34fbc61e05135121eca2a4"
+    },
+    {
+      "path": "src/pages/feed/[category].xml.ts",
+      "sha256": "a2bdcc223b936ba0a6de2aa7589dfe94ac6eedefe8299e2b4914aff5e456727f"
+    },
+    {
+      "path": "src/pages/feed/deal/[store].xml.ts",
+      "sha256": "5aca3dfe53f54326db2f5654c51395099511660b1beb0a74699ab826abafc6a8"
+    },
+    {
+      "path": "src/pages/feed/platform/[platform].xml.ts",
+      "sha256": "1c58bdb3b157886bce5e863b32a71081bb794889eb3a86978bb2680303eeb5a5"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha256": "05215cebf9c8cc5b790fc71105bad85fb261857a1cdd9e1031c8865260c2b724"
+    },
+    {
+      "path": "src/pages/share/[lv].astro",
+      "sha256": "84b233bc9ecc068ecc19db63eab82bbf69ae5088cc37131bd41a20b0213f8435"
+    },
+    {
+      "path": "src/pages/sitemap.xml.ts",
+      "sha256": "9ff71f0bf8acd4e3d13555a7b6acad4ddf025a80f2b9d26f3b7cca0bcca72bec"
+    },
+    {
+      "path": "src/pages/work/[slug].astro",
+      "sha256": "8b08313598f0c8cdbd8acc2b109d9a837eed0de790207c699c759291013ad62f"
+    },
+    {
+      "path": "src/pages/work/index.astro",
+      "sha256": "ab34b8bcb71b56d5c6acb609e8ec46fff4d88ac3cbcf42437c84ceee8f6fb795"
+    },
+    {
+      "path": "src/scripts/bouken.ts",
+      "sha256": "f2adff5e49825c730cd79babfc14a97e590e9e796b2e57c472a4d802f4d5c5b4"
+    },
+    {
+      "path": "src/scripts/feed.ts",
+      "sha256": "252ad952712632f22d8c7dc0507f6f3525ea1446f8c91ccdd60330dcc0853bfb"
+    },
+    {
+      "path": "src/scripts/message-window.ts",
+      "sha256": "4e23db1ec22e111bdeedc7c71985dfc526aee06b05cca23ca11d2d02f0cfe735"
+    },
+    {
+      "path": "src/scripts/suggest.ts",
+      "sha256": "054c5ebdf646535085a402f51d7e4a2a72f84a6f46ecbf119dd1788da72bad8e"
+    },
+    {
+      "path": "src/styles/global.css",
+      "sha256": "fbd6e190fe611926bc2182355afdfc14a4ad347a288bb4719eb7468edccd61db"
+    }
+  ],
+  "dataPolicy": "Use current data from the same checkout after the existing update step. No new collection or committed English dataset."
+}

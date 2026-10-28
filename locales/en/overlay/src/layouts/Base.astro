@@ -1,0 +1,152 @@
+---
+import "../styles/global.css";
+// Japaneseの改行の仕上げ(文頭の文節の位置合わせ・狭い段落の左寄せ)。scripts/linebreak/README.md
+import linebreakJs from "../../scripts/linebreak/linebreak.js?raw";
+import { withBase } from "../lib/url";
+
+interface Props {
+  title?: string;
+  description?: string;
+  noindex?: boolean;
+  /** 構造化データ(JSON-LD)。ページごとのパンくずなど。サイト全体の WebSite はトップだけに付ける */
+  jsonLd?: unknown;
+}
+
+const SITE_NAME = "All Game News";
+const {
+  title,
+  description = "An hourly gaming RSS reader with 20+ sources. Filter by platform and topic. Japanese articles remain in Japanese.",
+  noindex = false,
+  jsonLd,
+} = Astro.props;
+// 見出し・メニュー用のドット書体 DotGothic16 は、よく使う文字だけに絞ったものを自前で配る(tools/make-font-subset.py)。
+// Google Fonts だと約120個に分かれたファイルが届くたびに配置をやり直し、最初のDisplayが遅くなっていた
+const FONT_URL = withBase("/fonts/dotgothic16-sub.woff2");
+const isHome = Astro.url.pathname === import.meta.env.BASE_URL;
+const siteUrl = new URL(withBase("/"), Astro.site).toString();
+const websiteLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE_NAME,
+  url: siteUrl,
+  inLanguage: "en",
+  description,
+  isPartOf: { "@type": "WebSite", name: "fourgetkun Workshop", url: "https://fourgetkun.com/" },
+};
+const pageTitle = title ? `${title}｜${SITE_NAME}` : `${SITE_NAME}｜Gaming news RSS reader`;
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const japanesePath = /\/404(?:\.html)?\/?$/.test(Astro.url.pathname) ? "/game-news/" : Astro.url.pathname.replace(/^\/game-news\/en(?=\/|$)/, "/game-news");
+const japaneseCanonical = new URL(japanesePath, Astro.site).toString();
+const ogImage = new URL(withBase("/og-image-en.png"), Astro.site).toString();
+// 公開トップの絶対URL。配信元(pages.dev)を直接開かれたときの転送先
+const publicBaseUrl = new URL(withBase("/"), Astro.site).toString();
+const path = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ""), "") || "/";
+const nav = [
+  { href: withBase("/"), label: "News", current: path === "/" },
+  { href: withBase("/calendar/"), label: "Schedule", current: path.startsWith("/calendar") },
+  { href: withBase("/work/"), label: "Titles", current: path.startsWith("/work") },
+  { href: withBase("/about/"), label: "About", current: path.startsWith("/about"), wide: true },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script is:inline define:vars={{ publicBaseUrl }}>
+      // 配信元の Cloudflare Pages(game-news.pages.dev やプレビュー用の *.game-news.pages.dev)を
+      // 直接開かれたら、同じページの公開URL(fourgetkun.com/game-news/...)へ送る。
+      // HTML は公開側の base 前提でリンクを組んでいるので、pages.dev 上では CSS 等が読めない。
+      if (/(^|\.)game-news\.pages\.dev$/.test(location.hostname)) {
+        location.replace(publicBaseUrl + location.pathname.replace(/^\/(?:game-news\/)?(?:en(?:\/|$))?/, "") + location.search + location.hash);
+      }
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="en" href={canonical} />
+    <link rel="alternate" hreflang="ja" href={japaneseCanonical} />
+    <!-- アイコン一式は tools/make-icons.py で作る(ドット絵なので 16px でもそのまま読める) -->
+    <link rel="icon" href={withBase("/favicon.ico")} sizes="48x48" />
+    <link rel="icon" type="image/svg+xml" href={withBase("/favicon.svg")} />
+    <link rel="apple-touch-icon" href={withBase("/apple-touch-icon.png")} />
+    <link rel="manifest" href={withBase("/manifest.webmanifest")} />
+    <link rel="alternate" type="application/rss+xml" title="All Game News (all articles)" href={withBase("/feed.xml")} />
+    <meta name="theme-color" content="#13206e" />
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:alt" content="Game News — News, releases and guides. English interface. Lavender and navy retro dialogue-panel design with an unbranded game controller." />
+    <meta property="og:image:width" content="1730" />
+    <meta property="og:image:height" content="909" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content="Game News — News, releases and guides. English interface. Lavender and navy retro dialogue-panel design with an unbranded game controller." />
+    <link rel="preload" as="font" type="font/woff2" href={FONT_URL} crossorigin />
+    <style set:html={`@font-face{font-family:"DotGothic16 Sub";src:url("${FONT_URL}") format("woff2");font-display:swap}`} />
+    {isHome && <script type="application/ld+json" set:html={JSON.stringify(websiteLd)} />}
+    {jsonLd !== undefined && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <script is:inline>
+      // テーマの初期化(ちらつき防止のため head 内で実行)。保存が無ければOS設定に従う
+      try {
+        const t = localStorage.getItem("game-news:en:theme");
+        if (t === "dark" || t === "light") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <a href="#main" class="sr-only">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a href={withBase("/")} class="logo" aria-label={SITE_NAME}>
+          <img class="logo-mark" src={withBase("/favicon.svg")} alt="" width="30" height="30" />
+          <span>Game News<span class="logo-text-long"> — All</span></span>
+        </a>
+        <nav class="site-nav" aria-label="Site navigation">
+          {nav.map((n) => (
+            <a class={`cursor-row${n.wide ? " nav-wide" : ""}`} href={n.href} aria-current={n.current ? "page" : undefined}>{n.label}</a>
+          ))}
+        </nav>
+        <!-- 記事の検索。トップ以外のページからは、トップへKeywordsを付けて移る(?q=)。
+             トップでは一覧の検索欄と同じものとして、打った文字ですぐ絞り込む(src/scripts/feed.ts) -->
+        <form class="header-search" role="search" action={withBase("/")} method="get">
+          <label for="hq" class="sr-only">Search articles</label>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="hq" name="q" type="search" placeholder="Search titles or companies" autocomplete="off" enterkeyhint="search" />
+        </form>
+        <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle light/dark theme">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
+        </button>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Only headlines, summaries and links are shown. Read full articles at their original sources. Japanese articles remain in Japanese. <a href={japanesePath} lang="ja" hreflang="ja">日本語</a></p>
+        <p>
+          <a href={withBase("/about/")}>Sources and filtering</a>
+          ・ Related site <a href="https://fourgetkun.com/anime-news/">All Anime News</a>
+        </p>
+      </div>
+    </footer>
+    <script is:inline>
+      document.getElementById("theme-toggle")?.addEventListener("click", () => {
+        const root = document.documentElement;
+        const isDark =
+          root.dataset.theme === "dark" ||
+          (!root.dataset.theme && matchMedia("(prefers-color-scheme: dark)").matches);
+        root.dataset.theme = isDark ? "light" : "dark";
+        try { localStorage.setItem("game-news:en:theme", root.dataset.theme); } catch {}
+      });
+    </script>
+    <script is:inline set:html={linebreakJs} />
+  </body>
+</html>
+

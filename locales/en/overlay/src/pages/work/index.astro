@@ -1,0 +1,36 @@
+---
+// Title index。記事の多い順。検索はブラウザ側で絞り込むだけの小さな仕組み
+import Base from "../../layouts/Base.astro";
+import { workPages } from "../../lib/news";
+import { withBase } from "../../lib/url";
+import { breadcrumb } from "../../lib/seo";
+---
+
+<Base jsonLd={breadcrumb([{ name: "Title index", path: "/work/" }])} title="Title index" description={`Browse ${workPages.length} game titles and their news coverage. Article text remains in its original language.`}>
+  <section class="wrap work-index">
+    <h1 class="work-title">Title index</h1>
+    <p class="work-meta">{workPages.length} titles mentioned in at least 2 articles over the past 30 days, most articles first</p>
+    <label class="search work-search">
+      <span class="sr-only">Filter by title</span>
+      <input id="work-q" type="search" placeholder="Filter by title" autocomplete="off" />
+    </label>
+    <ul class="work-list win" id="work-list">
+      {workPages.map((w) => (
+        <li data-name={w.name.normalize("NFKC").toLowerCase()}>
+          <a class="cursor-row" href={withBase(`/work/${w.slug}/`)}>{w.name}</a>
+          <span class="count">{w.items.length} articles</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Base>
+
+<script is:inline>
+  const q = document.getElementById("work-q");
+  const rows = document.querySelectorAll("#work-list li");
+  q?.addEventListener("input", () => {
+    const v = q.value.normalize("NFKC").toLowerCase().trim();
+    rows.forEach((li) => (li.hidden = v !== "" && !li.dataset.name.includes(v)));
+  });
+</script>
+

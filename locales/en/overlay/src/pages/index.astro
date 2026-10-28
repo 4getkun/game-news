@@ -1,0 +1,326 @@
+---
+import Base from "../layouts/Base.astro";
+import NewsItem from "../components/NewsItem.astro";
+import {
+  jaNews,
+  generatedAt,
+  feeds,
+  categories,
+  topicCategories,
+  sensitiveCategories,
+  platforms,
+  platformCounts,
+  recentCount,
+  kindLabels,
+  trendingWorks,
+  workSlugByName,
+  dealStores,
+  currentDeals,
+} from "../lib/news";
+import { withBase, withSharedData } from "../lib/url";
+
+// ヒーローはビルド時に描くので、閲覧側の「Hide unwanted topics」が効かない。
+// 事 articles・トラブルのTopicsは最初から載せない(一覧では設定どおりにDisplay・非Display)
+const sensitiveIds = new Set(sensitiveCategories.map((c) => c.id));
+const showcase = jaNews.filter((it) => !it.categories.some((c) => sensitiveIds.has(c)));
+const latest = showcase[0];
+const works = trendingWorks(72, 12);
+const recent = recentCount(24);
+const platStats = platformCounts(24);
+const platMax = Math.max(1, ...platStats.map((p) => p.count));
+// JavaScript が動かない環境でもLatest分だけは読めるように、先頭だけサーバー側で描く
+const initialItems = jaNews.slice(0, 30);
+// ツールバーの「Sale」ボタンに出す、この1週間 sales and giveawaysの articles数(読み込み後はブラウザ側で数え直す)
+const deals = currentDeals(7);
+
+const config = {
+  dataUrl: withSharedData("/data/news.json"),
+  generatedAt,
+  categories: categories.map(({ id, label, emoji, sensitive }) => ({ id, label, emoji, sensitive: !!sensitive })),
+  platforms,
+  stores: dealStores,
+  feeds: feeds.map(({ id, name, kind, lang }) => ({ id, name, kind, lang })),
+  kindLabels,
+  workSlugs: workSlugByName,
+  baseUrl: withBase("/"),
+};
+
+
+// メッセージウィンドウの1文字ずつDisplay。文字ごとに span を作り、Displayの遅れを --i で渡す
+const chars = (text: string) => Array.from(text);
+const line1 = `${recent} gaming news articles have arrived!`;
+const line2 = latest ? `▶ ${latest.title}` : "";
+// 1文字の間隔(ms)。src/styles/global.css の .typer と src/scripts/message-window.ts の INTRO_MS と同じ
+const TYPE_MS = 28;
+const line2Delay = chars(line1).length * TYPE_MS + 350;
+// ▼(またはウィンドウ)を押すと次 newsへ送る。送る順番の見出し(見たくないTopicsは除く)
+const heroQueue = showcase.slice(0, 12).map((it) => ({ t: it.title, l: it.link }));
+// PC で出す「More news」(次の4 articles)
+const LOG_SIZE = 4;
+const heroLog = heroQueue.slice(1, 1 + LOG_SIZE);
+---
+
+<Base>
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="wrap">
+      <h1 id="hero-title" class="hero-title"><a class="hero-home" href={withBase("/")}>Gaming news.<br />Read it all.</a></h1>
+      <p class="hero-lede">
+        RSS from {feeds.length} sources, collected hourly with related and republished coverage grouped together.<br />
+        Filter by platform and topic, follow your favorite titles, and blur spoilers. Japanese headlines and summaries are not translated.
+      </p>
+      <div class="hero-grid">
+        <div class="win msg">
+          <span class="win-title">Updates</span>
+          <div class="msg-body">
+          <p class="msg-line">
+            <span class="sr-only">{line1}</span>
+            <span class="typer" aria-hidden="true">{chars(line1).map((c, i) => <span style={`--i:${i}`}>{c}</span>)}</span>
+          </p>
+          <button type="button" class="msg-sound" id="msg-sound" aria-pressed="true" aria-label="Sound effects">♪</button>
+          {latest && (
+            <p class="msg-line" id="msg-headline">
+              <a href={latest.link} target="_blank" rel="noopener noreferrer" id="msg-link">
+                <span class="sr-only" id="msg-sr">Latest story: {latest.title}</span>
+                <span class="typer" id="msg-typed" aria-hidden="true" style={`--d:${line2Delay}ms`}>
+                  {chars(line2).map((c, i) => <span style={`--i:${i}`}>{c}</span>)}
+                </span>
+              </a>
+            </p>
+          )}
+          <ol class="msg-log" id="msg-log" aria-label="More news">
+            {heroLog.map((it) => (
+              <li><a href={it.l} target="_blank" rel="noopener noreferrer">{it.t}</a></li>
+            ))}
+          </ol>
+          </div>
+          <div class="msg-foot">
+            <span class="msg-count" id="msg-count" aria-live="polite">1/{heroQueue.length}</span>
+            <button type="button" class="msg-next" id="msg-next" aria-label="Show next story">▼</button>
+          </div>
+          <script type="application/json" id="hero-queue" set:html={JSON.stringify(heroQueue)} />
+        </div>
+        <nav class="win status" aria-label="Stories by platform in the past 24 hours">
+          <span class="win-title">Status (24 hours)</span>
+          {platStats.map((p) => (
+            <a class="status-row" href={`${withBase("/")}?plat=${p.id}#feed`} data-plat-link={p.id}>
+              <span>{p.label}</span>
+              <span class="status-bar" aria-hidden="true"><i style={`--w:${Math.round((p.count / platMax) * 100)}%`}></i></span>
+              <span class="status-num">{p.count}</span>
+            </a>
+          ))}
+          <p class="status-foot">{feeds.length} sources / {jaNews.length} Japanese articles</p>
+        </nav>
+      </div>
+      {works.length > 0 && (
+        <nav class="win works-win" aria-label="Trending titles in the past 3 days">
+          <span class="win-title">Trending titles</span>
+          <ul class="works-list">
+            {works.map((w) => (
+              <li>
+                <a class="cursor-row" href={`${withBase("/")}?work=${encodeURIComponent(w.name)}#feed`} data-work-link={w.name}>{w.name}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
+    </div>
+  </section>
+
+  <div class="toolbar" id="feed">
+    <div class="wrap">
+      <div class="search">
+        <label for="q" class="search-label">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <span class="sr-only">Filter by keyword</span>
+        </label>
+        <input id="q" type="search" placeholder="Filter titles or companies (-word to exclude)" autocomplete="off" enterkeyhint="search" />
+        <ul id="q-suggest" class="suggest" role="listbox" aria-label="Suggestions" hidden></ul>
+      </div>
+      <div class="segmented" role="group" aria-label="Time range" id="period">
+        <button type="button" data-value="all" aria-pressed="true">All</button>
+        <button type="button" data-value="24h" aria-pressed="false">24 hours</button>
+        <button type="button" data-value="3d" aria-pressed="false">3 days</button>
+        <button type="button" data-value="7d" aria-pressed="false">7 days</button>
+      </div>
+      <div class="segmented" role="group" aria-label="Sort order" id="sort">
+        <button type="button" data-value="new" aria-pressed="true">Newest first</button>
+        <button type="button" data-value="hot" aria-pressed="false">Most covered</button>
+      </div>
+      <button type="button" class="btn deal-toggle" id="deal-toggle" data-deal-toggle="" aria-pressed="false">
+        <span aria-hidden="true">🏷️</span> Sale <span class="deal-count">{deals.length}</span>
+      </button>
+      <button type="button" class="btn new-only" id="new-only" aria-pressed="false" hidden>
+        New since last visit: <span class="new-count">0</span> articles
+      </button>
+      <button type="button" class="btn filter-open" id="filter-open" aria-controls="panel" aria-expanded="false">
+        Filters<span id="filter-badge"></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="wrap layout">
+    <aside class="panel win" id="panel" aria-label="Filters">
+      <div class="panel-head">
+        <h2>Filters</h2>
+        <button type="button" class="icon-btn" id="filter-close" aria-label="Close filters">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </div>
+
+      <section class="panel-shop">
+        <h2>Stores (sales) <button type="button" data-clear="deal">Clear</button></h2>
+        <div class="menu" id="store-menu">
+          {dealStores.map((st) => (
+            <button type="button" class="menu-item cursor-row" data-store={st.id} aria-pressed="false">
+              <span>{st.label}</span><span class="count"></span>
+            </button>
+          ))}
+        </div>
+        <p class="hint">Filter sales and giveaways by store. Based on headlines; excludes manga rewards and hardware discounts.</p>
+      </section>
+
+      <section>
+        <h2>Platforms <button type="button" data-clear="plats">Clear all</button></h2>
+        <div class="menu" id="plat-menu">
+          {platforms.map((p) => (
+            <button type="button" class="menu-item cursor-row" data-plat={p.id} aria-pressed="false">
+              <span>{p.label}</span><span class="count"></span>
+            </button>
+          ))}
+        </div>
+        <p class="hint">Select multiple platforms to show articles matching any of them.</p>
+      </section>
+
+      <section>
+        <h2>Topics <button type="button" data-clear="cats">Clear all</button></h2>
+        <div class="menu" id="cat-chips">
+          {topicCategories.map((c) => (
+            <button type="button" class="menu-item cursor-row" data-cat={c.id} aria-pressed="false">
+              <span>{c.label}</span><span class="count"></span>
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <h2>Followed titles</h2>
+        <div class="chips" id="follow-list"></div>
+        <label class="toggle">
+          <span>Show followed titles only</span>
+          <input type="checkbox" id="only-follow" />
+        </label>
+        <p class="hint">Tap a title marked ◆ and choose Follow to add it here.</p>
+      </section>
+
+      <section>
+        <h2>Hide unwanted topics</h2>
+        {sensitiveCategories.map((c) => (
+          <label class="toggle">
+            <span>{c.label}<small>{c.hint}</small></span>
+            <input type="checkbox" data-hide-topic={c.id} />
+          </label>
+        ))}
+        <p class="hint">Based on headlines, not words inside game titles.</p>
+      </section>
+
+      <section>
+        <h2>Display</h2>
+        <label class="toggle">
+          <span>Blur spoilers<small>Headlines mentioning endings or final bosses</small></span>
+          <input type="checkbox" id="spoiler-blur" checked />
+        </label>
+        <label class="toggle">
+          <span>Hide read articles</span>
+          <input type="checkbox" id="hide-read" />
+        </label>
+        <label class="toggle">
+          <span>Only stories covered by multiple sources</span>
+          <input type="checkbox" id="multi-only" />
+        </label>
+      </section>
+
+      <section class="fold-section">
+        <details class="fold" data-fold="mute">
+          <summary class="fold-head"><h2>Muted keywords</h2><span class="fold-note" id="mute-note"></span></summary>
+          <form class="word-form" id="mute-form">
+            <input id="mute-input" type="text" placeholder="Example: ガチャ (gacha)" aria-label="Muted keywords" />
+            <button type="submit">Add</button>
+          </form>
+          <div class="chips word-list" id="mute-list"></div>
+          <p class="hint">Hide articles containing these words in headlines, summaries or titles. Settings are saved only on this device.</p>
+        </details>
+      </section>
+
+      <section class="fold-section">
+        <details class="fold" data-fold="lang">
+          <summary class="fold-head"><h2>Article language</h2><span class="fold-note" id="lang-note"></span></summary>
+          <div class="segmented" role="group" aria-label="Article language" id="lang">
+            <button type="button" data-value="ja" aria-pressed="true">Japanese</button>
+            <button type="button" data-value="all" aria-pressed="false">All</button>
+            <button type="button" data-value="en" aria-pressed="false">English</button>
+          </div>
+        </details>
+      </section>
+
+      <section class="fold-section">
+        <details class="fold" data-fold="sources">
+          <summary class="fold-head"><h2>Sources</h2><span class="fold-note" id="sources-note"></span></summary>
+          <p class="fold-actions"><button type="button" data-clear="sources">Show all</button></p>
+          <ul class="source-list" id="source-list">
+            {feeds.map((f) => (
+              <li>
+                <label>
+                  <input type="checkbox" data-source={f.id} checked />
+                  <span class={`kind-mark kind-${f.kind}`} title={kindLabels[f.kind]}></span>
+                  {f.name}
+                  <span class="count"></span>
+                </label>
+              </li>
+            ))}
+          </ul>
+          <p class="hint">
+            Colors indicate source types.
+            {Object.entries(kindLabels).map(([k, label]) => (
+              <span style="white-space:nowrap; margin-right:8px;"><span class={`kind-mark kind-${k}`} style="margin-right:4px;"></span>{label}</span>
+            ))}
+          </p>
+        </details>
+      </section>
+    </aside>
+
+    <div class="feed-col">
+      <div class="active-filters" id="active-filters"></div>
+      <div id="work-banner"></div>
+      <div id="bouken" hidden></div>
+      <div id="feed-list">
+        <div class="day">
+          <div class="day-head">
+            <h2>Latest</h2>
+            <!--  articles数は一覧の最初の日付の見出しの右端に置く(一覧を描き直すたびに feed.ts が付け直す) -->
+            <p class="feed-count" aria-live="polite"><span id="hidden-note"></span><span><strong id="result-count">{jaNews.length}</strong>  articles</span></p>
+          </div>
+          {initialItems.map((it) => <NewsItem item={it} showThumb={false} />)}
+        </div>
+      </div>
+      <div class="feed-more"><button type="button" class="btn" id="more" hidden>Show more</button></div>
+    </div>
+  </div>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <script type="application/json" id="app-config" set:html={JSON.stringify(config)} />
+</Base>
+
+<script>
+  import { startMessageWindow } from "../scripts/message-window";
+  startMessageWindow();
+</script>
+
+<script>
+  import { startFeed } from "../scripts/feed";
+  // Filters用のデータ(数百KB)の読み込みと一覧の描き直しは、最初のDisplayが終わってから行う。
+  // それまではサーバー側で描いたLatest30 articlesが見えている
+  const run = () => void startFeed();
+  if ("requestIdleCallback" in window) requestIdleCallback(run, { timeout: 1500 });
+  else setTimeout(run, 200);
+</script>
+

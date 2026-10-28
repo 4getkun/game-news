@@ -1,0 +1,85 @@
+---
+import Base from "../../layouts/Base.astro";
+import FeedList from "../../components/FeedList.astro";
+import { feedStatus, feeds, categories, topicCategories, platforms, thresholds, kindLabels, generatedAt, formatDateTime, allNews, dedupeStats, calendar, workPages, dealStores } from "../../lib/news";
+import { withBase } from "../../lib/url";
+import { breadcrumb } from "../../lib/seo";
+import type { FeedKind } from "../../lib/news";
+
+const kinds = Object.keys(kindLabels) as FeedKind[];
+const statusById = new Map(feedStatus.map((f) => [f.id, f]));
+const merged = allNews.filter((it) => it.sources.length > 1).length;
+---
+<Base jsonLd={breadcrumb([{ name: "Sources and filtering", path: "/about/" }])} title="Sources and filtering" description="How gaming news is collected, classified and filtered.">
+<article class="wrap prose">
+<h1>Sources and filtering</h1>
+<p>This reader collects gaming RSS feeds and removes unrelated articles. Only headlines, short summaries and links are shown; read full articles at their original sources. Japanese headlines, summaries and game titles remain in Japanese.</p>
+<p>Last updated: {formatDateTime(generatedAt)} (Japan time). {allNews.length} articles are listed; {merged} combine coverage from multiple sources.</p>
+<h2>Two stages of filtering</h2>
+<p>Collection filters decide whether an article concerns gaming. Browser filters let you choose what you want to read.</p>
+<h3>Collection filters (hourly, server-side)</h3>
+<ol class="pipeline">
+<li><div><b>Gaming relevance</b> Weighted terms such as new games, Switch 2, DLC and Steam are scored against thresholds for each source type. Headline terms count twice as much as summary terms. Non-gaming uses of game, such as baseball results, reduce the score. Recognized game titles add points.</div></li>
+<li><div><b>Categories</b> Articles may receive multiple tags from {categories.length} categories, including announcements, releases, updates and sales.</div></li>
+<li><div><b>Sales and giveaways</b> Headlines identify discounts and free games, including the store when available. Manga reward offers and hardware or accessory discounts are excluded.</div></li>
+<li><div><b>Unrelated stories</b> Anime, manga, film and merchandise stories without gaming terms are excluded, but adaptations, merchandise and concerts based on games remain eligible.</div></li>
+<li><div><b>Platforms</b> Articles are tagged for Switch 2, Switch, PS5, PS4, Xbox, PC, mobile and VR. Switch 2 alone does not also imply Switch.</div></li>
+<li><div><b>Titles and spoilers</b> Game names are extracted from Japanese headline quotation marks and normalized. Headlines mentioning endings or final bosses receive spoiler flags and may be blurred.</div></li>
+<li><div><b>Republished coverage</b> Portal republications are grouped with the original when headlines match or are similar within 72 hours. If the original cannot be found, the republished article remains with the original source and portal identified.</div></li>
+<li><div><b>Related coverage</b> Similar headlines published within 12 hours are grouped. Game names are removed before comparison so different announcements are not merged merely because they concern the same game. Each article must also resemble the first article to avoid chains of unrelated matches.</div></li>
+</ol>
+{dedupeStats && <p>Latest grouping: {dedupeStats.exact} exact matches, {dedupeStats.syndicated} republications and {dedupeStats.similar} similar headlines.</p>}
+<table><thead><tr><th>Source type</th><th>Threshold</th></tr></thead><tbody>{kinds.map(k => <tr><td>{kindLabels[k]}</td><td>{k === "specialist" ? "None (exclusions still apply)" : thresholds[k]}</td></tr>)}</tbody></table>
+<p>Specialist sources have no relevance threshold; aggregators use a relaxed threshold, general sources a stricter one, and press releases the strictest. Rules are in <code>src/data/filters.json</code>; sources are in <code>src/data/feeds.json</code>. Raw RSS is retained for 30 days and reprocessed on the next update when rules change.</p>
+<h3>Display filters (in your browser)</h3>
+<ul>
+<li><b>Keywords:</b> Space-separated words must all match. Use <code>-word</code> to exclude a word. Press <code>/</code> to focus search.</li>
+<li><b>Article language:</b> Japanese articles are shown initially. Choose All or English to include English articles; this does not translate Japanese articles.</li>
+<li><b>Platforms, topics, dates, order and titles:</b> Filters are included in the URL for sharing. Select a platform in the status panel to filter to it.</li>
+<li><b>Follow:</b> Select a title marked ◆ and choose Follow. Its articles receive a gold mark, and you can show followed titles only.</li>
+<li><b>Mute:</b> Hide articles containing your saved words.</li>
+<li><b>Unwanted topics:</b> Hide incidents such as threats, arrests, lawsuits, misconduct, outages or service closures. Matching uses headlines, ignoring quoted titles. Such topics are excluded from the opening updates panel.</li>
+<li><b>Read status:</b> Opened articles fade and can be hidden.</li>
+<li><b>Most covered:</b> Sort by independently reporting sources; republications do not count.</li>
+</ul>
+<p>Follow, mute, read-status and last-visit settings are stored only in your browser.</p>
+<h2>New stories, schedules and title pages</h2>
+<p>NEW marks articles collected since your previous visit. The mark survives reloads within the same visit. Use New since last visit to show only these articles.</p>
+<p><a href={withBase("/calendar/")}>The schedule</a> lists {calendar.length} release, launch, update, demo and event dates extracted from headlines. Missing years are inferred from the article date. Sale deadlines, trailer releases, past events, cancellations and postponements are excluded. Check original articles for confirmed dates.</p>
+<p><a href={withBase("/work/")}>Title pages</a> group news and schedules for {workPages.length} games mentioned at least twice in the past 30 days.</p>
+<h2>Read via RSS</h2>
+<p>Each feed contains the newest 50 Japanese articles. Feedly and Inoreader buttons open subscription pages; for other readers, copy and paste the feed URL.</p>
+    <FeedList
+      feeds={[
+          { label: "All articles", path: withBase("/feed.xml") },
+          { label: "Sales and giveaways (all stores)", path: withBase("/feed/deal/all.xml") },
+          ...dealStores.filter((st) => st.id !== "other").map((st) => ({ label: `${st.label} sales and giveaways`, path: withBase(`/feed/deal/${st.id}.xml`) })),
+          ...platforms.map((p) => ({ label: p.label, path: withBase(`/feed/platform/${p.id}.xml`) })),
+          ...topicCategories.map((c) => ({ label: c.label, path: withBase(`/feed/${c.id}.xml`) })),
+        ]}
+    />
+
+    <h2>Sources collected</h2>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr><th>Sources</th><th>Type</th><th class="num">Fetched this run</th><th class="num">Past 30 days</th><th class="num">Accepted</th></tr>
+        </thead>
+        <tbody>
+          {feeds.map((f) => {
+            const s = statusById.get(f.id);
+            return (
+              <tr>
+                <td>{f.name}{f.lang === "en" && " (English)"}</td>
+                <td><span class={`kind-mark kind-${f.kind}`} style="display:inline-block; margin-right:6px;"></span>{kindLabels[f.kind]}</td>
+                <td class="num">{s ? (s.ok ? s.fetched : <span class="status-ng">Fetch failed</span>) : "-"}</td>
+                <td class="num">{s?.archived ?? "-"}</td>
+                <td class="num">{s?.accepted ?? "-"}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+<p class="fine-print">Articles labeled PR or advertising by their sources, adult content, job listings, pachinko and pachislot stories are excluded.</p>
+</article></Base>
