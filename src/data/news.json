@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-28T00:46:23.279Z",
+ "generatedAt": "2026-10-28T00:47:55.750Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1125,
+  "exact": 1126,
   "syndicated": 85,
   "similar": 316,
   "syndicatedTotal": 356,
@@ -13402,8 +13402,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1594,
-   "accepted": 1175
+   "archived": 1595,
+   "accepted": 1176
   },
   {
    "id": "ps-blog",
@@ -13446,8 +13446,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 779,
-   "accepted": 624
+   "archived": 780,
+   "accepted": 625
   },
   {
    "id": "gnews-dengeki",
@@ -13467,9 +13467,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 475,
-   "accepted": 448
+   "fetched": 76,
+   "archived": 476,
+   "accepted": 449
   },
   {
    "id": "gnews-switch2",
@@ -13489,9 +13489,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 605,
-   "accepted": 550
+   "fetched": 89,
+   "archived": 604,
+   "accepted": 549
   },
   {
    "id": "gnews-update",
@@ -14000,6 +14000,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/28/174165.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/28/189946.html"
     }
    ]
   },
@@ -33813,6 +33818,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/26/174090.html"
+    }
+   ]
+  },
+  {
+   "title": "ソロでも、みんなとも！新作ブラウザゲーム『カオス★スマッシュ』遊べるモードを紹介",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16RTUwaWRIRmN3WGpnZ3RkV1BENVZiajhLc3hLdTZhT240ZXZRVFlyYjNxa3VoWTdKemRNMC00cUdKUEpzNnFjcDVMU1dXd0FiQXRKRnhkRVlSX0Y2enhzM1R6aWlGaFJZZnc?oc=5",
+   "pubDate": "2026-10-26T09:00:01.000Z",
+   "firstSeen": "2026-10-28T00:47:33.930Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カオス★スマッシュ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16RTUwaWRIRmN3WGpnZ3RkV1BENVZiajhLc3hLdTZhT240ZXZRVFlyYjNxa3VoWTdKemRNMC00cUdKUEpzNnFjcDVMU1dXd0FiQXRKRnhkRVlSX0Y2enhzM1R6aWlGaFJZZnc?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -79496,7 +79532,7 @@
    "firstSeen": "2026-10-21T22:47:59.034Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -79514,9 +79550,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSQ3FqeVFidVNFamlPMW5ja01PNnF3eUExQmVqZzlSdXpZVGNlempfQVY3VHlPQVJ1NkhkX1JRQjJWV1QtVk05Zk1FRTlEblJZSGZtSlBIdw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192524,32 +192560,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vM3JxNkhhblBEc0U5cnotWWl3VUVySkNfNVpJQjM1WnFna3kwN2NGc3F6MXZpQWN1WjFLaWdrOGdHTWNldDhsWQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "Breaking Bad Star RJ Mitte Dead at 34",
-   "summary": "RJ Mitte, the actor best known for playing Walter White Jr. in Breaking Bad, has died at 34.",
-   "link": "https://www.ign.com/articles/breaking-bad-star-rj-mitte-dead-at-34",
-   "pubDate": "2026-10-12T20:45:36.000Z",
-   "firstSeen": "2026-10-12T21:47:32.629Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/rj-mitte-1791837830023.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/breaking-bad-star-rj-mitte-dead-at-34"
     }
    ]
   }
