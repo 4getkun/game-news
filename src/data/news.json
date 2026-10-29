@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-29T10:27:18.612Z",
+ "generatedAt": "2026-10-29T10:47:53.540Z",
  "count": 6000,
  "dedupe": {
   "exact": 1173,
   "syndicated": 89,
   "similar": 342,
-  "syndicatedTotal": 370,
+  "syndicatedTotal": 371,
   "syndicatedLeft": 21
  },
  "calendar": [
@@ -848,37 +848,6 @@
    "categories": [
     "new",
     "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-15",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "グランツーリスモ7",
-   "title": "『グランツーリスモ７』大型アプデ「Spec IV」第1弾10月15日15時配信！新コース「スポーツランドSUGO」や新車種6台追加、30周年記念DualSenseも発売へ",
-   "link": "http://www.gamespark.jp/article/2026/10/15/173607.html",
-   "source": "Game*Spark",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-15",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "1999トコヨビル",
-   "title": "秘密を暴いて弱みを握る。君と本当の友達になるために ノスタルジック×ホラーADV『1999トコヨビル』 11月10日（火）発売決定／体験版を本日配信開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000009026.000001719.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "release",
-    "demo"
    ],
    "platforms": [],
    "spoiler": false
@@ -7676,6 +7645,22 @@
   {
    "date": "2026-10-31",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "アイカツ",
+   "title": "しまむらで『アイカツ』コラボが10月31日より開催！『アイカツ！アンコール』で使えるオリジナルデザインのカード付グッズを販売",
+   "link": "https://www.inside-games.jp/article/2026/10/29/190056.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-31",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -9870,23 +9855,6 @@
    "sources": 1,
    "categories": [
     "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-10",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "1999トコヨビル",
-   "title": "秘密を暴いて弱みを握る。君と本当の友達になるために ノスタルジック×ホラーADV『1999トコヨビル』 11月10日（火）発売決定／体験版を本日配信開始",
-   "link": "https://prtimes.jp/main/html/rd/p/000009026.000001719.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "release",
-    "demo"
    ],
    "platforms": [],
    "spoiler": false
@@ -13933,8 +13901,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1031,
-   "accepted": 1002
+   "archived": 1032,
+   "accepted": 1003
   },
   {
    "id": "4gamer-sp",
@@ -13944,8 +13912,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 233,
-   "accepted": 223
+   "archived": 232,
+   "accepted": 222
   },
   {
    "id": "automaton",
@@ -13966,8 +13934,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1290,
-   "accepted": 1134
+   "archived": 1287,
+   "accepted": 1132
   },
   {
    "id": "gamewatch",
@@ -13977,8 +13945,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 615,
-   "accepted": 574
+   "archived": 616,
+   "accepted": 575
   },
   {
    "id": "gamespark",
@@ -13999,8 +13967,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1576,
-   "accepted": 1165
+   "archived": 1578,
+   "accepted": 1167
   },
   {
    "id": "ps-blog",
@@ -14043,8 +14011,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 782,
-   "accepted": 627
+   "archived": 780,
+   "accepted": 625
   },
   {
    "id": "gnews-dengeki",
@@ -14064,9 +14032,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 471,
-   "accepted": 443
+   "fetched": 78,
+   "archived": 470,
+   "accepted": 442
   },
   {
    "id": "gnews-switch2",
@@ -14076,8 +14044,8 @@
    "ok": true,
    "error": null,
    "fetched": 99,
-   "archived": 1347,
-   "accepted": 1177
+   "archived": 1349,
+   "accepted": 1178
   },
   {
    "id": "gnews-ps5",
@@ -14097,9 +14065,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 75,
-   "archived": 428,
-   "accepted": 330
+   "fetched": 76,
+   "archived": 429,
+   "accepted": 331
   },
   {
    "id": "prtimes",
@@ -14109,7 +14077,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27192,
+   "archived": 27195,
    "accepted": 483
   },
   {
@@ -14142,8 +14110,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 303,
-   "accepted": 303
+   "archived": 301,
+   "accepted": 301
   },
   {
    "id": "gamespot",
@@ -14180,6 +14148,305 @@
   }
  ],
  "items": [
+  {
+   "title": "『Escape from Tarkov』アップデート配信でハロウィンイベント開催。ゲームエンジン更新は11月中旬に延期へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/29/174247.html",
+   "pubDate": "2026-10-29T10:45:03.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Escape from Tarkov"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/29/174247.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで『アイカツ』コラボが10月31日より開催！『アイカツ！アンコール』で使えるオリジナルデザインのカード付グッズを販売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/29/190056.html",
+   "pubDate": "2026-10-29T10:45:03.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アイカツ",
+    "アイカツ!アンコール"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/29/190056.html"
+    }
+   ]
+  },
+  {
+   "title": "自分だけのファンタジー世界を創りだし，神様視点で観察するサンドボックスゲーム「Fantasy World Manager」，早期アクセス版をリリース",
+   "summary": "LegendaryPixelsは本日（2026年10月29日），新作タイトル「FantasyWorldManager」の早期アクセス版をリリースした。本作は，ピクセルで描かれた広大なマップを舞台に，ファンタジー世界を創造・シミュレーションし，観察できるサンドボックスゲームだ。",
+   "link": "https://www.4gamer.net/games/899/G089908/20261029046/",
+   "pubDate": "2026-10-29T10:35:48.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 17,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Fantasy World Manager"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/899/G089908/20261029046/"
+    }
+   ]
+  },
+  {
+   "title": "高評価ゲーム『The Talos Principle 2』Steam版、苦渋の1700円がっつり値上げ。開発費高騰に抗えず。世知辛い",
+   "summary": "Croteamは10月29日、パズルゲーム『The Talos Principle 2』のPC（Steam）版にて価格改定を実施した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261029-476489/",
+   "pubDate": "2026-10-29T10:33:36.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476489-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "The Talos Principle 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261029-476489/"
+    }
+   ]
+  },
+  {
+   "title": "『ぼくと釣り日記』欧米版『AYAKASHI Fishing Folktails』が北米・欧州で2027年発売予定！ Switch 2／Switch対応",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dHB0NXZ5bmlJMDJSRVFoY0VMMEtCa0xNRVBkRkZBb21pT3hVbHJTLVRQejhlVDdGSWs5UExtaGgtT3JlZFlfaTFINnAtWVFTTThTTTBfeXBYUG5heVExUA?oc=5",
+   "pubDate": "2026-10-29T10:33:02.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [
+    "ぼくと釣り日記",
+    "AYAKASHI Fishing Folktails"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dHB0NXZ5bmlJMDJSRVFoY0VMMEtCa0xNRVBkRkZBb21pT3hVbHJTLVRQejhlVDdGSWs5UExtaGgtT3JlZFlfaTFINnAtWVFTTThTTTBfeXBYUG5heVExUA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『Fallout 2』のエンジンで新たな物語描くトータルコンバージョンMod「Fallout: Prague Spring」開発中",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/29/174246.html",
+   "pubDate": "2026-10-29T10:30:03.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Fallout 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/29/174246.html"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』4周年は“エモい”のに“人の心がない”!? 歓喜と悲鳴の交響曲を奏でる指揮官たち",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/29/190055.html",
+   "pubDate": "2026-10-29T10:30:03.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/29/190055.html"
+    }
+   ]
+  },
+  {
+   "title": "For the second time this year, Galax says it's not closing down: Palit-owned graphics card brand 'continues to operate as usual'",
+   "summary": "Reports of the brand's death have been greatly exaggerated.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/",
+   "pubDate": "2026-10-29T10:29:32.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/NGaF45ZBzit4cYz93MhAMg-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/"
+    }
+   ]
+  },
+  {
+   "title": "【ポケモン】「ポケパーク カントー」で新イベント「ピカチュウウィーク」開催決定2027年2月5日から2週間。いつもより多くのピカチュウが登場",
+   "summary": "ポケパーク カントーは、2027年2月5日よりスペシャルイベント「ピカチュウウィーク」を開催する。期間は2027年2月17日まで。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2152417.html",
+   "pubDate": "2026-10-29T10:26:37.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2152417.html"
+    }
+   ]
+  },
+  {
+   "title": "一番くじ「ストリートファイター」は、「負け顔マグネット」がユニーク！ リュウやケン、春麗たちのボコボコ顔を飾れる",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/29/190054.html",
+   "pubDate": "2026-10-29T10:25:02.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/29/190054.html"
+    }
+   ]
+  },
   {
    "title": "にじさんじ「さんばか」が可憐なお嬢様コーデをまとう新グッズ「SANBAKA Palais de Rose」が10月30日発売",
    "summary": "2026年10月29日，ANYCOLORは，にじさんじ所属ライバーのアンジュ・カトリーナ，リゼ・ヘルエスタ，戌亥とこによるユニット「さんばか」の新グッズ「SANBAKAPalaisdeRose」全10種類を，にじさんじオフィシャルストアで10月30日18時に発売すると発表した。",
@@ -14237,6 +14504,39 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FT1J4ak1wb0h6MjlObmtkVUlqc00zUGd6T2hPVHRjRWZ1YTJjazJRTm0zcHNyX1ZFdEpwVmswTkxHcHRFeEZQT2hWZ1NNaG9ScWZvdHpiOVBLdGxfWEcxMQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『七つの大罪 ～光と闇の交戦～』×『ペルソナ5ザ・ロイヤル』コラボアップデート実施！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vOG4xUVRZLTdZTnRjZkVGcEZXQUdiR2QzdklCbEgwSC1ScGpJLVlCWU9VVGp6LXgwcTlnOXA2V3pUVHF3RDNndXNvOHJTVFhXbjBQSkVFT0NUZw?oc=5",
+   "pubDate": "2026-10-29T10:17:12.000Z",
+   "firstSeen": "2026-10-29T10:47:37.031Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "七つの大罪 ~光と闇の交戦~",
+    "ペルソナ5 ザ・ロイヤル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vOG4xUVRZLTdZTnRjZkVGcEZXQUdiR2QzdklCbEgwSC1ScGpJLVlCWU9VVGp6LXgwcTlnOXA2V3pUVHF3RDNndXNvOHJTVFhXbjBQSkVFT0NUZw?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -18572,6 +18872,13 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aNWZVNXlxcjVHR2prZ1FlVGRZSHNZdVBuVXBtay03TlY0aGU5d2g3Ri1TMVY0UWhmeEt6M3AzbzN4ZnlJTy1zTHBkQXR2SEhtWTdPbTZsUl9hajA?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94NXNaMnBIMWdNU3dWXzRyOGdQdHZIU0N3dHN6TC13OGFQQW9QT3BYbVczcnVSM3ZKejFkVmlkOU9EeXFKYVdwNVg1d1V5WE5xVjRiX0c4YlNFYjE1Q1J5anNLU3RaQjhCQ1psTVlR?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -193116,332 +193423,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/15/173608.html"
-    }
-   ]
-  },
-  {
-   "title": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels",
-   "summary": "You don't need to milk your cash cows.",
-   "link": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
-   "pubDate": "2026-10-14T15:28:49.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/ercGzGYVkTfjehgYt5ZRPT-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/"
-    }
-   ]
-  },
-  {
-   "title": "元フロム「地罰」開発者による新作3Dアクション『OVERSEEKER』発表。前作の賛否両論を経て、「世界一面白いアクションRPGを作る」挑戦は続く",
-   "summary": "開発者のHytacka氏は、「世界一面白いアクションRPG」の制作を人生のメインクエストとして掲げていることもあり、注目を集めていた人物だ。",
-   "link": "https://automaton-media.com/articles/newsjp/ovr-20261015-473484/",
-   "pubDate": "2026-10-14T15:28:39.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/ovr-20261015-473484-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "OVERSEEKER"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/ovr-20261015-473484/"
-    }
-   ]
-  },
-  {
-   "title": "『グランツーリスモ７』大型アプデ「Spec IV」第1弾10月15日15時配信！新コース「スポーツランドSUGO」や新車種6台追加、30周年記念DualSenseも発売へ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/15/173607.html",
-   "pubDate": "2026-10-14T15:21:48.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "グランツーリスモ7"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/15/173607.html"
-    }
-   ]
-  },
-  {
-   "title": "Ocarina of Time Remake Will Support All Existing Zelda Amiibo With In-Game Item Bonuses",
-   "summary": "The new Ocarina of Time Remake overview trailer has confirmed support for all Zelda amiibo, old and new.",
-   "link": "https://www.ign.com/articles/ocarina-of-time-switch-2-remake-will-support-all-existing-zelda-amiibo-confirmed",
-   "pubDate": "2026-10-14T15:17:28.000Z",
-   "firstSeen": "2026-10-14T16:47:35.321Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/14/ocarinaamiibo-1791989851741.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 5,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/ocarina-of-time-switch-2-remake-will-support-all-existing-zelda-amiibo-confirmed"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『魔法騎士レイアース』ノンクレジットエンディング映像「星灯」が公開。歌はKawaguchi Yurinaさんが担当",
-   "summary": "エンディング曲を担当するのはKawaguchi Yurinaさん。光・海・風の3人や、エメロードなどさまざまなキャラクターが映し出される映像に",
-   "link": "https://news.denfaminicogamer.jp/news/261015g",
-   "pubDate": "2026-10-14T15:15:55.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/RayearthED_final_20260617-1549-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "trailer",
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "魔法騎士レイアース"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261015g"
-    }
-   ]
-  },
-  {
-   "title": "リメイク版『ゼルダの伝説 時のオカリナ』プレビュースクリーンショット",
-   "summary": "",
-   "link": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84411/the-legend-of-zelda-ocarina-of-time-preview-screenshots",
-   "pubDate": "2026-10-14T15:15:36.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": "https://sm.ign.com/ign_jp/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-preview-screenshots_4hbh.jpg",
-   "source": "IGN Japan",
-   "sourceId": "ign-jp",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゼルダの伝説 時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN Japan",
-     "sourceId": "ign-jp",
-     "link": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84411/the-legend-of-zelda-ocarina-of-time-preview-screenshots"
-    }
-   ]
-  },
-  {
-   "title": "『ゼルダの伝説 時のオカリナ』リメイクをプレイした感想！想像以上に原作と違った！",
-   "summary": "まるで舞台劇のように 『ゼルダの伝説 時のオカリナ』を約1時間プレイして、最も強く感じたのは以下の3点だ。 単なる忠実なリメイクではない。会話の追加、謎解きの刷新、細部まで作り込まれた新たなアートスタイルによって、ゲーム世界に奥行きを与えることを重視している。 ゲームの構造にもい…",
-   "link": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84410/",
-   "pubDate": "2026-10-14T15:15:36.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": "https://sm.ign.com/ign_jp/preview/t/the-legend/the-legend-of-zelda-ocarina-of-time-remake-is-surprisingly-m_qbgp.jpg",
-   "source": "IGN Japan",
-   "sourceId": "ign-jp",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゼルダの伝説 時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN Japan",
-     "sourceId": "ign-jp",
-     "link": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84410/"
-    }
-   ]
-  },
-  {
-   "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
-   "summary": "ArenaNet has announced a major shift in its live service Guild Wars 2 operation today, ditching separate payments for Living World seasonal…",
-   "link": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
-   "pubDate": "2026-10-14T15:14:15.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": "https://assetsio.gnwcdn.com/guild-wars-2-characters.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/guild-wars-2-living-world-expansions"
-    }
-   ]
-  },
-  {
-   "title": "「ちいかわベーカリー」2周年イベント開催！コロネになったちいかわたちのマスコットはじめ、アパレルや紅茶缶など限定アイテムが続々",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/15/189261.html",
-   "pubDate": "2026-10-14T15:10:03.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/15/189261.html"
-    }
-   ]
-  },
-  {
-   "title": "秘密を暴いて弱みを握る。君と本当の友達になるために ノスタルジック×ホラーADV『1999トコヨビル』 11月10日（火）発売決定／体験版を本日配信開始",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000009026.000001719.html",
-   "pubDate": "2026-10-14T15:10:02.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "1999トコヨビル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009026.000001719.html"
-    }
-   ]
-  },
-  {
-   "title": "マブラヴ最新作『マブラヴ ガールズガーデン』新章解放イベント【あなたの隣を歩けたら】後半開始！新SSR「コトハ」登場！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000006542.000032953.html",
-   "pubDate": "2026-10-14T15:10:02.000Z",
-   "firstSeen": "2026-10-14T15:47:36.853Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "new",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "マブラヴ ガールズガーデン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000006542.000032953.html"
     }
    ]
   }
