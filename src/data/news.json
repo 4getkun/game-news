@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T12:48:09.207Z",
+ "generatedAt": "2026-10-30T13:47:57.237Z",
  "count": 6000,
  "dedupe": {
   "exact": 1214,
@@ -2069,20 +2069,6 @@
   {
    "date": "2026-10-22",
    "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "サクラ大戦",
-   "title": "『サクラ大戦』を特集したテレビ番組が10月22日に放送。生みの親・広井王子氏や、真宮寺さくら役の横山智佐さんなどが『Ｘ年後の関係者たち』 にゲスト出演",
-   "link": "https://news.denfaminicogamer.jp/news/261016d",
-   "source": "電ファミニコゲーマー",
-   "sources": 2,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-22",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "PEAK",
@@ -2708,6 +2694,20 @@
    "title": "「監視役と囚われ役」激ムズ協力2人プレイホラー『Beyond the Dark: ナイトウォッチ』10月22日配信へ。100人挑戦して脱出者なし、命がけの“報連相”ゲーム",
    "link": "https://automaton-media.com/articles/newsjp/20261016-473760/",
    "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-22",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "サクラ大戦",
+   "title": "『サクラ大戦』を特集したテレビ番組が10月22日に放送。生みの親・広井王子氏や、真宮寺さくら役の横山智佐さんなどが『Ｘ年後の関係者たち』 にゲスト出演",
+   "link": "https://news.denfaminicogamer.jp/news/261016d",
+   "source": "電ファミニコゲーマー",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -7851,6 +7851,23 @@
   {
    "date": "2026-11-01",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "フォートナイト",
+   "title": "『フォートナイト』と『ワンピース』がコラボする新シーズンが11月1日より開催。「ゴムゴムの実」「メラメラの実」「三刀流」などが登場へ",
+   "link": "https://news.denfaminicogamer.jp/news/2610302x",
+   "source": "電ファミニコゲーマー",
+   "sources": 2,
+   "categories": [
+    "update",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-01",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -11207,7 +11224,7 @@
    "title": "新作ゲーム『ウィズジェネレーション』2026年12月1日（火）サービス開始決定！",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xcVgwSHJRc1ozTDlyOFRYY1V2OGJLSE5Tc190MFRJMXg3TWNmNk93SWwwRkNaWXRfTVdDUzVUX3A0SnFBa1Z3ZHc1NGlFMDBnVWdBNC1OcGFWLUpBSG9ZdFZIUnBVcXVrNXc?oc=5",
    "source": "PR TIMES",
-   "sources": 5,
+   "sources": 6,
    "categories": [
     "new",
     "release"
@@ -13620,8 +13637,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1041,
-   "accepted": 1012
+   "archived": 1042,
+   "accepted": 1013
   },
   {
    "id": "4gamer-sp",
@@ -13631,8 +13648,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 234,
-   "accepted": 225
+   "archived": 235,
+   "accepted": 226
   },
   {
    "id": "automaton",
@@ -13653,8 +13670,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1283,
-   "accepted": 1127
+   "archived": 1282,
+   "accepted": 1126
   },
   {
    "id": "gamewatch",
@@ -13675,8 +13692,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1344,
-   "accepted": 1327
+   "archived": 1342,
+   "accepted": 1325
   },
   {
    "id": "inside-games",
@@ -13686,8 +13703,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1588,
-   "accepted": 1168
+   "archived": 1590,
+   "accepted": 1170
   },
   {
    "id": "ps-blog",
@@ -13730,8 +13747,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 751,
-   "accepted": 603
+   "archived": 750,
+   "accepted": 604
   },
   {
    "id": "gnews-dengeki",
@@ -13741,7 +13758,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 741,
+   "archived": 740,
    "accepted": 388
   },
   {
@@ -13751,9 +13768,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 492,
-   "accepted": 461
+   "fetched": 92,
+   "archived": 493,
+   "accepted": 462
   },
   {
    "id": "gnews-switch2",
@@ -13763,8 +13780,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1365,
-   "accepted": 1193
+   "archived": 1363,
+   "accepted": 1190
   },
   {
    "id": "gnews-ps5",
@@ -13774,8 +13791,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 664,
-   "accepted": 602
+   "archived": 665,
+   "accepted": 603
   },
   {
    "id": "gnews-update",
@@ -13784,9 +13801,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 79,
-   "archived": 443,
-   "accepted": 351
+   "fetched": 81,
+   "archived": 442,
+   "accepted": 349
   },
   {
    "id": "prtimes",
@@ -13796,8 +13813,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27027,
-   "accepted": 489
+   "archived": 27028,
+   "accepted": 488
   },
   {
    "id": "gematsu",
@@ -13807,8 +13824,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 376,
-   "accepted": 376
+   "archived": 375,
+   "accepted": 375
   },
   {
    "id": "ign",
@@ -13818,8 +13835,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1297,
-   "accepted": 1297
+   "archived": 1298,
+   "accepted": 1298
   },
   {
    "id": "eurogamer",
@@ -13829,8 +13846,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 307,
-   "accepted": 307
+   "archived": 305,
+   "accepted": 305
   },
   {
    "id": "gamespot",
@@ -13840,8 +13857,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 325,
-   "accepted": 325
+   "archived": 323,
+   "accepted": 323
   },
   {
    "id": "nintendolife",
@@ -13851,8 +13868,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 322,
-   "accepted": 322
+   "archived": 320,
+   "accepted": 320
   },
   {
    "id": "pcgamer",
@@ -13862,11 +13879,310 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 616,
-   "accepted": 616
+   "archived": 615,
+   "accepted": 615
   }
  ],
  "items": [
+  {
+   "title": "広大な空を小型飛空艇で駆けるサバイバルADVが早期アクセス開始！最大4人のマルチプレイでは編隊飛行やキャンプも楽しめる―採れたて！本日のSteam注目ゲーム16選【2026年10月30日】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/30/174322.html",
+   "pubDate": "2026-10-30T13:30:02.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174322.html"
+    }
+   ]
+  },
+  {
+   "title": "Honkai: Star Rail version 4.7 update ‘Now, Lay Laughter to All Stars’ launches November 11",
+   "summary": "The version 4.7 update for Honkai: Star Rail, dubbed “Now, Lay Laughter to All Stars,” …",
+   "link": "https://www.gematsu.com/2026/10/honkai-star-rail-version-4-7-update-now-lay-laughter-to-all-stars-launches-november-11",
+   "pubDate": "2026-10-30T13:18:21.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Honkai-Star-Rail_2026_10-30-26_049.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/10/honkai-star-rail-version-4-7-update-now-lay-laughter-to-all-stars-launches-november-11"
+    }
+   ]
+  },
+  {
+   "title": "サイバーパンク経営アドベンチャー『Nivalis Nights』選択肢による不自然な進行等修正のアップデート配信！店舗関連の利便性も向上",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/30/174321.html",
+   "pubDate": "2026-10-30T13:15:03.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Nivalis Nights"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174321.html"
+    }
+   ]
+  },
+  {
+   "title": "アベイルで「mofusand」グッズが発売！猫じゃらしや爪とぎなどペットグッズ全10種類",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/30/190120.html",
+   "pubDate": "2026-10-30T13:15:03.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/30/190120.html"
+    }
+   ]
+  },
+  {
+   "title": "『フォートナイト』と『ワンピース』がコラボする新シーズンが11月1日より開催。「ゴムゴムの実」「メラメラの実」「三刀流」などが登場へ",
+   "summary": "さらに「初音ミク」「重音テト」、世界的ラッパーのエイサップ・ロッキー氏とリル・ウージー・ヴァート氏も参戦",
+   "link": "https://news.denfaminicogamer.jp/news/2610302x",
+   "pubDate": "2026-10-30T13:00:16.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Fortnite-Treasure-Hunters-Toei-Key-Art_JP-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "フォートナイト",
+    "ワンピース"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610302x"
+    }
+   ]
+  },
+  {
+   "title": "『フォートナイト』新シーズン「トレジャーハンターズ」11月1日開幕！アニメ「ONE PIECE」の能力やA$AP Rocky、初音ミク、重音テトが登場",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/30/174320.html",
+   "pubDate": "2026-10-30T13:00:02.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "フォートナイト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174320.html"
+    }
+   ]
+  },
+  {
+   "title": "「フォートナイト」，アニメ「ONE PIECE」などのキャラクターが登場するミニシーズン「トレジャーハンターズ」を11月1日にスタート",
+   "summary": "EpicGamesは本日（2026年10月30日），同社がサービス中の「フォートナイト」のチャプター7ミニシーズン1「トレジャーハンターズ」を11月1日にスタートすると発表した。今回のアップデートでは，アニメ「ONEPIECE」や，アメリカのラッパーとして知られるA$APRock…",
+   "link": "https://www.4gamer.net/games/144/G014484/20261030052/",
+   "pubDate": "2026-10-30T13:00:00.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 3,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/144/G014484/20261030052/"
+    }
+   ]
+  },
+  {
+   "title": "操縦や修理などやることは盛りだくさん。潜水艦でミッションに挑む協力型シミュレーション「S.O.N.A.R. - 潜水艦クルー、準備不足！」，配信開始",
+   "summary": "AbylightStudiosは2026年10月29日，新作タイトル「S.O.N.A.R.-潜水艦クルー、準備不足！」をリリースした。本作は，協力して潜水艦を操り，広大なマップでさまざまなミッションに挑んでいくマルチプレイシミュレーションゲームだ。",
+   "link": "https://www.4gamer.net/games/026/G102688/20261030053/",
+   "pubDate": "2026-10-30T12:58:09.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/026/G102688/20261030053/"
+    }
+   ]
+  },
+  {
+   "title": "『崩壊：スターレイル』Ver.4.7で「限定★5キャラクター」が無料配布！選べる3体、おまけに“新たな強化システム”も追加",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/30/190119.html",
+   "pubDate": "2026-10-30T12:55:16.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": true
+   },
+   "platforms": [],
+   "works": [
+    "崩壊:スターレイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/30/190119.html"
+    }
+   ]
+  },
+  {
+   "title": "『Forza Horizon 6』痛車BAN騒動、公式が「BAN基準」明かすも火に油。「とろんとした目はダメ」「処分はごく一部」など説明される一方、投稿がすぐ消える事態に",
+   "summary": "痛車デザインを手がけるユーザーのBANを巡る問題について公式声明が発表されるも、投稿はまもなく削除されたようだ。",
+   "link": "https://automaton-media.com/articles/newsjp/20261030-476830/",
+   "pubDate": "2026-10-30T12:54:59.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476830-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Forza Horizon 6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261030-476830/"
+    }
+   ]
+  },
   {
    "title": "「GPUもメモリも注文できない」GeForce RTX 5090、NVIDIAは生産終了を否定も供給難続く",
    "summary": "",
@@ -14045,6 +14361,32 @@
    ]
   },
   {
+   "title": "James Gunn Says Harley Quinn Will Join the DCU Eventually, and if Margot Robbie Wants to Play Here He'll 'Bend Over Backwards to Explain That in the World'",
+   "summary": "James Gunn has addressed the situation with Margot Robbie’s much-loved take on Harley Quinn, and whether she’s canon in the ongoing DC Unive…",
+   "link": "https://www.ign.com/articles/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-and-if-margot-robbie-wants-to-play-here-hell-bend-over-backwards-to-explain-that-in-the-world",
+   "pubDate": "2026-10-30T12:12:17.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/quinn-1793362322872.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-and-if-margot-robbie-wants-to-play-here-hell-bend-over-backwards-to-explain-that-in-the-world"
+    }
+   ]
+  },
+  {
    "title": "最大4人で協力し，全力のカンニングで試験を乗り切れ。マルチプレイACT「Finals Week」，配信開始",
    "summary": "PrettySoonは本日（2026年10月30日），DESTINYbitが開発した新作タイトル「FinalsWeek」をリリースした。本作は，期末試験が迫っているのに一切勉強してこなかったプレイヤーと仲間がどうにかしてカンニングを試みる，マルチプレイ対応のアクションゲームだ。",
    "link": "https://www.4gamer.net/games/050/G105097/20261030051/",
@@ -14154,18 +14496,18 @@
    ]
   },
   {
-   "title": "『崩壊：スターレイル』新★5キャラ「星神★アッハ（CV.戸松遥）」のプレイ映像が公開！",
+   "title": "『崩壊：スターレイル』新★5キャラ「星神★アッハ（CV.戸松遥）」のプレイ映像が公開！量子属性・愉悦の運命を歩むキャラクターとして“星神”がいよいよ参戦",
    "summary": "『崩壊：スターレイル』新★5キャラ「星神★アッハ（CV.戸松遥）」のプレイ映像が公開！",
    "link": "https://news.denfaminicogamer.jp/news/2610303j",
    "pubDate": "2026-10-30T12:00:10.000Z",
    "firstSeen": "2026-10-30T12:47:47.130Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/54f88d1fbf732808c14aeba0530ab276.png",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub5-34-1024x576.png",
    "source": "電ファミニコゲーマー",
    "sourceId": "denfaminico",
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 6,
+   "score": 12,
    "categories": [
     "trailer"
    ],
@@ -18437,6 +18779,12 @@
      "name": "ASCII.jp",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxcnFnWGZPZVZ2bVAtVC1uVjdsb3l5MFBGR0JFYkZxZGx3dHdIc0ZSblBxQXEzaDBnMkEyZ19rNGktWnNDWEtfblg3ZVl0ZnhmcjZZag?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "週刊アスキー",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PWWFlREw5elZBa2U1bmZCeVBKWjZGTzRGZFRNeWR6ZG9RQTVqclRoaGxUbVJNYTZMZE1wN2xtOFNjcmF5YTFvT3FNN2w2WlR5akNOYVAyaTQ2NEY5Y1E?oc=5",
      "via": "Googleニュース「新作ゲーム」"
     }
    ]
@@ -26812,7 +27160,7 @@
    "firstSeen": "2026-10-29T14:47:36.308Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -26830,9 +27178,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wMXZ5MzQtNXM3VFczbnBPQklHbmQxU2dvMGo2TXFJQmJ1WURXMUxYcHdLaWUyWFBBMmR0V2s1aXIwWlh1X0JZb19VdTB0ZU8yakc2bnhCYw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -33359,6 +33707,38 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyWFk3dG41UUhpZVYyT3pKMzBLTkpLUUFRODB4bl9XQTdDTGdxZlhmS1lZSWdWLXdTaXlETDN1MVpPSmlnUjY0OENMZ2lQYnVRajYxazcxOUY5QQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『GTA6』99980円の超豪華コレクターズBOX「Vice City Collection」10月30日12時より予約開始。フィギュアやキャップやショットグラスが付いたオトナ向けアイテム",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HV2JhZVhOT0lSWUV0VTBocklVTlNJU0NVdTJGYjN3eUpFRGNFeVBtcjBJZUcyMHY3MlVoTXI0MkMzTXRfemszRS1mQUo1VDJjRDZOTDB5aw?oc=5",
+   "pubDate": "2026-10-29T06:51:00.000Z",
+   "firstSeen": "2026-10-30T13:47:34.984Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HV2JhZVhOT0lSWUV0VTBocklVTlNJU0NVdTJGYjN3eUpFRGNFeVBtcjBJZUcyMHY3MlVoTXI0MkMzTXRfemszRS1mQUo1VDJjRDZOTDB5aw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -44326,7 +44706,7 @@
    "firstSeen": "2026-10-28T15:47:35.980Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -44346,9 +44726,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NV0laeVNHNTFJeDV5dGtYdEpaNTZSd0dYWmI5UXBaVzRBbTlQa1BpeElrY3dNZzJIMU5rQ2R2RkRYWDVnM3IzOTJyaWN1SmttUm5xd0FRMA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -192891,357 +193271,6 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start"
-    }
-   ]
-  },
-  {
-   "title": "『Neuron Activation』の発売日が2026年10月29日(木)に決定！直感的な操作でタスクをこなすアクションパズル！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQi03dXBvSW9kME1WR29hZEctaUk5X2xOYkJmQmdPck5jMmJiTDExMkV0RHVLajNBYWlLLTVMVlFuVk55UDZmNW9ySk1TVFBNNHozUHFEWkRJVE0?oc=5",
-   "pubDate": "2026-10-15T14:58:00.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Neuron Activation"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQi03dXBvSW9kME1WR29hZEctaUk5X2xOYkJmQmdPck5jMmJiTDExMkV0RHVLajNBYWlLLTVMVlFuVk55UDZmNW9ySk1TVFBNNHozUHFEWkRJVE0?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Helps Modern Warfare 4, Actually, Activision Says",
-   "summary": "Rockstar's GTA 6 is releasing this November, and some believe it will blot out the sun when it comes to the impact it will have on the great…",
-   "link": "https://www.gamespot.com/articles/gta-6-helps-modern-warfare-4-actually-activision-says/",
-   "pubDate": "2026-10-15T14:50:27.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/mw4-Large.jpeg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-helps-modern-warfare-4-actually-activision-says/"
-    }
-   ]
-  },
-  {
-   "title": "「アズールレーン」，2017年に開催されたニコニコ動画コラボが復刻。綾波の着せ替え「ニコニコ」や限定家具を入手可能",
-   "summary": "Yostarは本日（2026年10月15日），「アズールレーン」で2017年に開催したニコニコ動画コラボイベントを復刻開催した。10月22日のメンテナンスまで，限定任務などで綾波の着せ替え「ニコニコ」や限定家具を入手できる。アルジェリーの着せ替えが報酬となる期間限定イベントも始ま…",
-   "link": "https://www.4gamer.net/games/390/G039084/20261015058/",
-   "pubDate": "2026-10-15T14:49:04.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/390/G039084/20261015058/"
-    }
-   ]
-  },
-  {
-   "title": "Steam“圧倒的不評”スタートの『トータルウォー：ショーグン２ コンプリートエディション』原因調査のために一時販売停止へ―オリジナル版を再配信して改善に努める",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/15/173662.html",
-   "pubDate": "2026-10-15T14:39:55.000Z",
-   "firstSeen": "2026-10-15T14:47:39.966Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "トータルウォー:ショーグン2 コンプリートエディション"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/15/173662.html"
-    }
-   ]
-  },
-  {
-   "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
-   "summary": "Activision believes GTA 6 will benefit Call of Duty rather than hinder it, with the expectation that Modern Warfare 4 and Rockstar’s behemot…",
-   "link": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
-   "pubDate": "2026-10-15T14:39:50.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/15/cod-main-1792075154642.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year"
-    }
-   ]
-  },
-  {
-   "title": "Humankind 2 : Amplitude Studiosの新作戦略ゲーム、2027年にPC向けとして発表",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZDdmUUt1NkVjX3pFQTBKaGcxdzM3WGI2eDlFc1ZVM3czc2hfRkQ5YUNjWHl2WTZ4ai1pTm53a2xIWXN3NmRqVlBwN19KRFdHMkprN19raW5QN2R1NXhuZ0ttLTlEMWJBdF8zOWVZam9ZdHBLZ0R5NW1uZ25idk1WM1RHMnZKYUltOFB4MEVMdDhDZnhGSGl1M3N6alRqVmNqTmhtUlE1VE1kMnU4U2tMbHdTSllWSUNoTUlsX0t5RFlyVE9PNHpySThVNmsyUXNCVVI4VzhDeGIyeGYzQkU1Y1F3Ym41NDNKdDBKeF8wa3pTeFNLeVVTcTlZemw?oc=5",
-   "pubDate": "2026-10-15T14:39:32.000Z",
-   "firstSeen": "2026-10-19T00:47:36.542Z",
-   "image": null,
-   "source": "Sortir à Paris",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Sortir à Paris",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZDdmUUt1NkVjX3pFQTBKaGcxdzM3WGI2eDlFc1ZVM3czc2hfRkQ5YUNjWHl2WTZ4ai1pTm53a2xIWXN3NmRqVlBwN19KRFdHMkprN19raW5QN2R1NXhuZ0ttLTlEMWJBdF8zOWVZam9ZdHBLZ0R5NW1uZ25idk1WM1RHMnZKYUltOFB4MEVMdDhDZnhGSGl1M3N6alRqVmNqTmhtUlE1VE1kMnU4U2tMbHdTSllWSUNoTUlsX0t5RFlyVE9PNHpySThVNmsyUXNCVVI4VzhDeGIyeGYzQkU1Y1F3Ym41NDNKdDBKeF8wa3pTeFNLeVVTcTlZemw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "The First 3 Die Hard Movies Are Getting the 4K Steelbook Treatment",
-   "summary": "Die Hard, Die Hard 2, and Die Hard With a Vengeance are getting the 4K limited-edition steelbook treatment, out in December.",
-   "link": "https://www.ign.com/articles/the-first-3-die-hard-movies-are-getting-the-4k-steelbook-treatment",
-   "pubDate": "2026-10-15T14:36:27.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/15/untitled-design-1792081729051.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-first-3-die-hard-movies-are-getting-the-4k-steelbook-treatment"
-    }
-   ]
-  },
-  {
-   "title": "『ウィンドローズ』大型アップデート「Ashlands」の新情報を公開！船の装飾やカラーを自由にカスタマイズ",
-   "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）は、インディーゲームのパブリッシングタイトルとして展開する海賊サバイバルクラフトゲーム『Windrose / ウィンドローズ』について、大型...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000154.000071410.html",
-   "pubDate": "2026-10-15T14:34:15.000Z",
-   "firstSeen": "2026-10-15T20:47:37.393Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "update",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウィンドローズ",
-    "Ashlands"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000154.000071410.html"
-    },
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbDZHeHg1NHhYaXB5T0VicFRCeDluWHhrMnNsbERxWVcxZ21lRFJFMkVqNGRfa245cFRqRk9JUGc4dHN6VjRRcDQzWXpsd1Q0bnQyMXVvZw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    },
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzWXUzZ056OW05QW1QLURnTDJYMTJJTUhrd2tQdFRjNHNsRWZvdXJWVXdiR1VwODFDZWtiZjJsemVJbDBrSHl3aXEzd2oxMmJQSV96TGNjdUs3ZzliLURnTw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "Where to find the Takashiro region Treasure Hunt in Forza Horizon 6",
-   "summary": "Track this chest to a field of long grass.",
-   "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/",
-   "pubDate": "2026-10-15T14:33:44.000Z",
-   "firstSeen": "2026-10-15T14:47:39.966Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/HDu7yeGoTdWjD7osXXyToD-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/"
-    }
-   ]
-  },
-  {
-   "title": "Street Fighter Lands A Number One Debut, But Its Box Office Punch Is Weaker Than Expected",
-   "summary": "Street Fighter got off to an okay start on the weekend, punching its way to a $31 million opening at the US box office and a number one debu…",
-   "link": "https://www.gamespot.com/articles/street-fighter-movie-box-office-results/",
-   "pubDate": "2026-10-15T14:31:35.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/04/Street-Fighter.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/street-fighter-movie-box-office-results/"
-    }
-   ]
-  },
-  {
-   "title": "ソースネクストが約2,250万件の会員情報流出―クレジットカード情報は含まれず",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/15/173661.html",
-   "pubDate": "2026-10-15T14:30:03.000Z",
-   "firstSeen": "2026-10-15T14:47:39.966Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/15/173661.html"
-    }
-   ]
-  },
-  {
-   "title": "『サクラ大戦』特集回がテレビ番組『X年後の関係者たち』で放送決定。広井王子、横山智佐らが30年の舞台裏を語る。10月22日22時放送",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cDc1cnNhOHJaSDNrUFU3VVhnWURLb2pyb3BQSUlHdXBtYlhBUkVLcERxMm9XYUlsd25RcnJ5REZJQklZMEh5T2liTzVNb21nckYwdEdFQQ?oc=5",
-   "pubDate": "2026-10-15T14:25:00.000Z",
-   "firstSeen": "2026-10-15T15:47:47.699Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サクラ大戦",
-    "X年後の関係者たち"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94cDc1cnNhOHJaSDNrUFU3VVhnWURLb2pyb3BQSUlHdXBtYlhBUkVLcERxMm9XYUlsd25RcnJ5REZJQklZMEh5T2liTzVNb21nckYwdEdFQQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
     }
    ]
   }
