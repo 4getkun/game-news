@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-30T10:47:57.496Z",
+ "generatedAt": "2026-10-30T11:48:00.113Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1213,
+  "exact": 1214,
   "syndicated": 90,
   "similar": 360,
   "syndicatedTotal": 385,
@@ -8072,6 +8072,22 @@
   {
    "date": "2026-11-03",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "「ソニックレーシング クロスワールド」，シーズン2前夜祭の番組を11月3日に生配信",
+   "link": "https://www.4gamer.net/games/882/G088214/20261030044/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-03",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -8618,6 +8634,20 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-05",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "「龍が如く」，情報番組「龍スタTV無料案内所」の第6回を11月5日に生配信",
+   "link": "https://www.4gamer.net/games/798/G079868/20261030046/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -9713,6 +9743,24 @@
   {
    "date": "2026-11-13",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「Slay the Spire 2」，次回大型ベータパッチを11月13日に配信。シングルプレイとマルチプレイの両方に対応する実験的なゲームモードを実装",
+   "link": "https://www.4gamer.net/games/790/G079033/20261030047/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release",
+    "update",
+    "review"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "ダンガンロンパ",
@@ -10231,7 +10279,7 @@
    "title": "『GTA6』210GBは回線速度が遅いとDLには2日近くかかる！？事前プリロードは11月12日から可能で11月19日発売",
    "link": "http://www.gamespark.jp/article/2026/10/29/174216.html",
    "source": "Game*Spark",
-   "sources": 5,
+   "sources": 4,
    "categories": [],
    "platforms": [],
    "spoiler": false
@@ -13565,8 +13613,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 237,
-   "accepted": 228
+   "archived": 235,
+   "accepted": 226
   },
   {
    "id": "automaton",
@@ -13576,8 +13624,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 590,
-   "accepted": 582
+   "archived": 589,
+   "accepted": 581
   },
   {
    "id": "denfaminico",
@@ -13587,7 +13635,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1284,
+   "archived": 1282,
    "accepted": 1126
   },
   {
@@ -13609,8 +13657,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1339,
-   "accepted": 1322
+   "archived": 1342,
+   "accepted": 1325
   },
   {
    "id": "inside-games",
@@ -13620,8 +13668,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1586,
-   "accepted": 1166
+   "archived": 1587,
+   "accepted": 1167
   },
   {
    "id": "ps-blog",
@@ -13653,8 +13701,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 130,
-   "accepted": 85
+   "archived": 128,
+   "accepted": 83
   },
   {
    "id": "gnews-famitsu",
@@ -13664,8 +13712,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 757,
-   "accepted": 606
+   "archived": 754,
+   "accepted": 605
   },
   {
    "id": "gnews-dengeki",
@@ -13675,7 +13723,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 744,
+   "archived": 743,
    "accepted": 388
   },
   {
@@ -13685,9 +13733,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 490,
-   "accepted": 459
+   "fetched": 85,
+   "archived": 491,
+   "accepted": 460
   },
   {
    "id": "gnews-switch2",
@@ -13697,8 +13745,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1360,
-   "accepted": 1189
+   "archived": 1358,
+   "accepted": 1187
   },
   {
    "id": "gnews-ps5",
@@ -13708,8 +13756,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 663,
-   "accepted": 601
+   "archived": 664,
+   "accepted": 602
   },
   {
    "id": "gnews-update",
@@ -13718,9 +13766,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 81,
-   "archived": 444,
-   "accepted": 352
+   "fetched": 100,
+   "archived": 443,
+   "accepted": 351
   },
   {
    "id": "prtimes",
@@ -13730,8 +13778,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27055,
-   "accepted": 490
+   "archived": 27015,
+   "accepted": 489
   },
   {
    "id": "gematsu",
@@ -13741,8 +13789,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 378,
-   "accepted": 378
+   "archived": 377,
+   "accepted": 377
   },
   {
    "id": "ign",
@@ -13752,8 +13800,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1294,
-   "accepted": 1294
+   "archived": 1295,
+   "accepted": 1295
   },
   {
    "id": "eurogamer",
@@ -13785,8 +13833,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 325,
-   "accepted": 325
+   "archived": 323,
+   "accepted": 323
   },
   {
    "id": "pcgamer",
@@ -13801,6 +13849,462 @@
   }
  ],
  "items": [
+  {
+   "title": "『魔法少女ノ魔女裁判』“幻の朗読劇”のドラマCDが待望の音声配信スタート。三木谷奈々さん、樹冬華さん、石崎紗彩さんら豪華キャスト陣が再集結し熱演した絶望的な脱出劇",
+   "summary": "桜羽エマ役・三木谷奈々さん、宝生マーゴ役・樹冬華さん、遠野ハンナ役・石崎紗彩さんら豪華キャスト陣が再集結。「昼公演」と「夜公演」の双方のストーリーを楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/2610303m",
+   "pubDate": "2026-10-30T11:42:14.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-101-717x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "魔法少女ノ魔女裁判"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610303m"
+    }
+   ]
+  },
+  {
+   "title": "There are currently \"no other Assassin's Creed remakes actively in development\", says Ubisoft",
+   "summary": "Yesterday, Ubisoft issued a statement about the future of the Assassin's Creed series, and the publisher's comments included quite a big sur…",
+   "link": "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft",
+   "pubDate": "2026-10-30T11:35:06.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://assetsio.gnwcdn.com/ac-future-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「スヌーピー」グッズがオンライン販売！プルオーバーやトレーナー、ワンポイントが可愛いマフラーなど豊富なデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/30/190116.html",
+   "pubDate": "2026-10-30T11:30:03.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/30/190116.html"
+    }
+   ]
+  },
+  {
+   "title": "「クーロンズゲートSuzaku」，ダウンロード版を配信開始。カルト的名作「クーロンズ・ゲート」の世界を再構築した“お散歩ゲーム”",
+   "summary": "ジェットマンは，Switch向けアドベンチャーゲーム「クーロンズゲートSuzaku」のダウンロード版を2026年10月29日に発売した。1997年発売の「クーロンズ・ゲート」の世界を再構築した，陰界九龍城を散策できる作品だ。11月11日まで20％オフの4640円（税込）で購入でき…",
+   "link": "https://www.4gamer.net/games/911/G091134/20261030050/",
+   "pubDate": "2026-10-30T11:21:10.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/911/G091134/20261030050/"
+    }
+   ]
+  },
+  {
+   "title": "『テラリア』クロスプレイ対応はストア承認前のテスト段階と報告―順調に進めば来週には審査提出へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/30/174314.html",
+   "pubDate": "2026-10-30T11:15:03.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "テラリア"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174314.html"
+    }
+   ]
+  },
+  {
+   "title": "にじさんじ、権利侵害の対策チームが活動報告ーなりすましを“雇って”集客、CEOの名前を使った爆破予告など…刑事的な責任追及を含む対応を実施",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/30/190115.html",
+   "pubDate": "2026-10-30T11:15:03.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/30/190115.html"
+    }
+   ]
+  },
+  {
+   "title": "「Slay the Spire 2」，次回大型ベータパッチを11月13日に配信。シングルプレイとマルチプレイの両方に対応する実験的なゲームモードを実装",
+   "summary": "MegaCritGamesは本日，現在早期アクセス中の「SlaytheSpire2」について，次回大型ベータパッチを11月13日に配信すると発表した。シングルプレイとマルチプレイの両方に対応する実験的なゲームモードが登場するほか，開発者Q&Aでは「追加の層を計画中」であることも明…",
+   "link": "https://www.4gamer.net/games/790/G079033/20261030047/",
+   "pubDate": "2026-10-30T11:07:11.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 15,
+   "categories": [
+    "release",
+    "update",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/790/G079033/20261030047/"
+    }
+   ]
+  },
+  {
+   "title": "『涼宮ハルヒ』と「サンリオキャラクターズ」のコラボ商品が発売決定！ 制服姿のハローキティやシナモロールがかわいい、いとうのいぢ氏も「めちゃ嬉しい」と喜びの声",
+   "summary": "ハルヒにハローキティのリボン、キョンにはクロミの耳がついたデフォルメイラストも。いとうのいぢ氏も「めちゃ嬉しい」と喜びの声",
+   "link": "https://news.denfaminicogamer.jp/news/2610303h",
+   "pubDate": "2026-10-30T11:04:51.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HV2jT9Va8AAdPpG-1024x674.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "涼宮ハルヒ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610303h"
+    }
+   ]
+  },
+  {
+   "title": "Families Who Lost Loved Ones in Seoul Halloween Crowd Crush Call on Activision to Pull Real Footage From Call of Duty: Modern Warfare 4",
+   "summary": "Bereaved families have called on Activision to remove real footage of the 2022 Seoul Halloween crush disaster from Call of Duty: Modern Warf…",
+   "link": "https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
+   "pubDate": "2026-10-30T11:01:54.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1793357903664.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】細いウエストをクールな美貌×スタイリッシュな衣装で引き立てる！『鳴潮』ガルブレーナの美女レイヤーがかっこよすぎた【写真7枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/30/190114.html",
+   "pubDate": "2026-10-30T11:00:03.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鳴潮"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/30/190114.html"
+    }
+   ]
+  },
+  {
+   "title": "いよいよ発売間近！ Switch 2『ゼルダの伝説 時のオカリナ』が14％オフ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFaUF1LW8zOFQtTlRQT05ZY0JocVpGa1B6ODc3OVVxV0xFZU1aekJIeXpyTFZkNUVjT09jNHR6eU5VV0R0TTVwTnE0ZjB5WlhXMjV5Zg?oc=5",
+   "pubDate": "2026-10-30T11:00:00.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "ASCII.jp",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 14,
+    "free": false
+   },
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ゼルダの伝説 時のオカリナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFaUF1LW8zOFQtTlRQT05ZY0JocVpGa1B6ODc3OVVxV0xFZU1aekJIeXpyTFZkNUVjT09jNHR6eU5VV0R0TTVwTnE0ZjB5WlhXMjV5Zg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "「龍が如く」，情報番組「龍スタTV無料案内所」の第6回を11月5日に生配信",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/798/G079868/20261030046/",
+   "pubDate": "2026-10-30T10:57:37.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/798/G079868/20261030046/"
+    }
+   ]
+  },
+  {
+   "title": "「ソニックレーシング クロスワールド」，シーズン2前夜祭の番組を11月3日に生配信",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/882/G088214/20261030044/",
+   "pubDate": "2026-10-30T10:53:47.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/882/G088214/20261030044/"
+    }
+   ]
+  },
+  {
+   "title": "親友を改造して戦場へ送り出すゲーム『がんばれ相棒』Steamにてお披露目。人の心がない話題作が、ついに来年製品版に",
+   "summary": "株式会社佐野組は10月30日、『がんばれ相棒』のSteamストアページを公開した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261030-476809/",
+   "pubDate": "2026-10-30T10:52:40.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476809-header-8.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "がんばれ相棒"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261030-476809/"
+    }
+   ]
+  },
+  {
+   "title": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
+   "summary": "Bethesda's hugely anticipated and long-awaited fantasy role-playing game The Elder Scrolls 6 could be revealed \"as soon as next month\", a ne…",
+   "link": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
+   "pubDate": "2026-10-30T10:52:39.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://assetsio.gnwcdn.com/elder-scrolls-6-guide-possible-location-everything-we-know-5600-1529070927461.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november"
+    }
+   ]
+  },
+  {
+   "title": "Compromised laptop could be to blame for record $6.3 billion cryptocurrency heist: Binance rushes to freeze stolen assets as experts blame North Korean group",
+   "summary": "A DevOps engineer's compromised laptop may have been the first domino to fall in this record-breaking heist.",
+   "link": "https://www.pcgamer.com/software/security/compromised-laptop-could-be-to-blame-for-record-usd6-3-billion-cryptocurrency-heist-binance-rushes-to-freeze-stolen-assets-as-experts-blame-north-korean-group/",
+   "pubDate": "2026-10-30T10:52:32.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/eDGcGRApH6Ut5G9XMKVRHB-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/security/compromised-laptop-could-be-to-blame-for-record-usd6-3-billion-cryptocurrency-heist-binance-rushes-to-freeze-stolen-assets-as-experts-blame-north-korean-group/"
+    }
+   ]
+  },
   {
    "title": "Steamで「リモートコード実行」など6件の脆弱性をセキュリティ研究者が発見。Valveへ報告済み―「ゼロクリック」のコード実行などを実証した調査結果が公開",
    "summary": "",
@@ -14059,6 +14563,34 @@
    ]
   },
   {
+   "title": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
+   "summary": "Eiji Aonuma, producer of the Zelda series at Nintendo, has said some of the younger members of his team had never played the original Ocarin…",
+   "link": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
+   "pubDate": "2026-10-30T10:14:57.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/30/gettyimages-2301856430-1793355176145.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing"
+    }
+   ]
+  },
+  {
    "title": "「Steam同接わずか28人の無名ゲーム」が同接11万人超に大化け、ヒット中『Probably Stolen』の“地味だった”過去。名を変え、絵を変え大逆転",
    "summary": "tinyBuildが10月28日に配信開始した、質屋経営シミュレーションゲーム『Probably Stolen – Cyberpunk Shopkeeper Sim』が好評を博している。一方で本作の前身となるゲームの体験版は、鳴かず飛ばずだったという。",
    "link": "https://automaton-media.com/articles/newsjp/20261030-476790/",
@@ -14297,6 +14829,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/30/190109.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174315.html"
     }
    ]
   },
@@ -14848,6 +15385,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/30/190106.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174316.html"
     }
    ]
   },
@@ -15296,6 +15838,41 @@
    ]
   },
   {
+   "title": "【LINE GAME】「LINE おまかせレンジャー」、TVアニメ『進撃の巨人』とのコラボレーションイベントを開催",
+   "summary": "LINEヤフー株式会社は、当社が展開する放置系RPG「LINE おまかせレンジャー」（iPhone・Android対応／無料）において、2026年10月30日（金）よりTVアニメ『進撃の巨人』とのコラボレーションを開始します。 [画像...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000062.000179742.html",
+   "pubDate": "2026-10-30T08:41:11.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event",
+    "mobile",
+    "media",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "進撃の巨人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000062.000179742.html"
+    }
+   ]
+  },
+  {
    "title": "『カービィのエアライダー』ハロウィンイベントが不具合で中止に―プレイ中に画面が停止する問題を確認、後日再開催へ",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/30/174303.html",
@@ -15477,6 +16054,37 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2610303b"
+    }
+   ]
+  },
+  {
+   "title": "『ディズニー スパークリンク・スターズ』「ハロー、コンダクター！スパークライダーからのご挨拶」開催！リリース記念生配信も決定！事前登録者数90万人達成！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000280.000044804.html",
+   "pubDate": "2026-10-30T08:15:23.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ディズニー スパークリンク・スターズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000280.000044804.html"
     }
    ]
   },
@@ -16274,6 +16882,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/30/190098.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/30/174313.html"
     }
    ]
   },
@@ -18443,10 +19056,39 @@
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
-     "name": "www.gamecity.ne.jp",
+     "name": "コーエーテクモゲームス",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQd1VDVVFnMUFycklZd2VzS1lWVG9lQjAtSGk1OFoxR1VuczN5UFhFZktTeS1UeFFjWmdZQzBzZEN4NjJEOEM2UFhwRjd0ckx2dXJ6Vw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "【AC6】『アーマード・コア6』パイルバンカーがペンになって発売。クールに飾れるLED発光専用スタンド＆ベイラムのメモパッド付き",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10QUNhZ1JfV00wa2hZa09qVmxnRS1QdXRqNldQSXZZYlk3UWRnVTBveUZfR1pKSUhGTWJ2SndiWEZTNVRFWGx2cDlmc3R4M3VUVTlYaXUxMA?oc=5",
+   "pubDate": "2026-10-30T04:10:00.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アーマード・コア6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10QUNhZ1JfV00wa2hZa09qVmxnRS1QdXRqNldQSXZZYlk3UWRnVTBveUZfR1pKSUhGTWJ2SndiWEZTNVRFWGx2cDlmc3R4M3VUVTlYaXUxMA?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -20244,7 +20886,7 @@
    "link": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
    "pubDate": "2026-10-30T02:55:00.000Z",
    "firstSeen": "2026-10-30T03:47:34.645Z",
-   "image": "https://images.nintendolife.com/a42cda6ec8fa8/large.jpg",
+   "image": "https://images.nintendolife.com/7190fd3355c15/large.jpg",
    "source": "Nintendo Life",
    "sourceId": "nintendolife",
    "syndicated": false,
@@ -20354,6 +20996,39 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/30/174282.html"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『ごちうさ』初のスマホゲームがリリース決定【ご注文はうさぎですか？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjcWp2T3h0dlhBLWx3MzNYTXJKQUo2MWZYeTVBWTU4alJ0N08xZ2w4SU9mLXJnMXRQdWZRMy1OZ3h0NWhkZU1FeS1HNU9rS0s1by0yWWpKMThaQQ?oc=5",
+   "pubDate": "2026-10-30T02:42:00.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "ごちうさ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjcWp2T3h0dlhBLWx3MzNYTXJKQUo2MWZYeTVBWTU4alJ0N08xZ2w4SU9mLXJnMXRQdWZRMy1OZ3h0NWhkZU1FeS1HNU9rS0s1by0yWWpKMThaQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -21250,7 +21925,9 @@
    "kind": "specialist",
    "lang": "en",
    "score": 0,
-   "categories": [],
+   "categories": [
+    "new"
+   ],
    "deal": null,
    "platforms": [],
    "works": [],
@@ -21260,6 +21937,11 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away"
+    },
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania"
     }
    ]
   },
@@ -25486,7 +26168,7 @@
    "firstSeen": "2026-10-29T14:47:36.308Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -25504,9 +26186,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wMXZ5MzQtNXM3VFczbnBPQklHbmQxU2dvMGo2TXFJQmJ1WURXMUxYcHdLaWUyWFBBMmR0V2s1aXIwWlh1X0JZb19VdTB0ZU8yakc2bnhCYw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -35910,6 +36592,39 @@
    ]
   },
   {
+   "title": "『タイトーマイルストーン5』座談会。幻の3画面版『サーガイア』初移植にいたった経緯を聞く。10年越しの大会“俺たちのスペースインベーダーチャンピオンシップ”もゲーセンミカドで開催！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6R1JyQkFzQVV3eU1KYjIwaEphZDF3VUswZkhYQXQ4aHJJWUVCOGpvSTYzU1E3clI2MlFqd0tEM3BwdnFlQVY0OHZNb3ZEbEtoSEJVb2Zucw?oc=5",
+   "pubDate": "2026-10-29T03:00:00.000Z",
+   "firstSeen": "2026-10-30T11:47:38.059Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "タイトーマイルストーン5",
+    "サーガイア"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6R1JyQkFzQVV3eU1KYjIwaEphZDF3VUswZkhYQXQ4aHJJWUVCOGpvSTYzU1E3clI2MlFqd0tEM3BwdnFlQVY0OHZNb3ZEbEtoSEJVb2Zucw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "腕の長い泥棒が主人公の2Dステルスゲーム「腕が伸びちゃった！」，PC/コンシューマ向けに2027年3月11日発売",
    "summary": "JackboxGamesは本日，TootGamesが開発する「腕が伸びちゃった！」を，2027年3月11日に発売すると発表した。本作は，長く伸びる腕を持つ泥棒を主人公にしたコミカルな2Dステルスゲームだ。各ステージでは，腕がどこから伸びているのかを悟られないように獲物を手に入れる…",
    "link": "https://www.4gamer.net/games/894/G089481/20261029011/",
@@ -44471,7 +45186,7 @@
    "firstSeen": "2026-10-28T14:47:36.306Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -44491,9 +45206,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aRGd4QjhPZk40VE50RkYxUFZRdUpEbE50cmROQnA2N1hJLTNRcnNBRjNCNWhHTjM3N0p2dm9RU28zdk5WRlBqLWhCblVtLXBLT2ZGNENjTQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -45130,7 +45845,7 @@
    "firstSeen": "2026-10-28T14:47:36.306Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -45149,9 +45864,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CM2QwMWdaaS1kZVZFcW5RUnJka1lCUGJ1YmF5bGpIS09tZzdRc0NzMzFyZ1F6Uk5Nb0ZUZkRQVGZROWNrN205dW4ySEp2YWYyWWtxTEdvTQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192538,670 +193253,6 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/nintendos-london-comic-con-booth-features-playable-layton-metaphor-007-and-more"
-    }
-   ]
-  },
-  {
-   "title": "ロックスター・ゲームス、「GTA6」ローンチトレーラーを公開",
-   "summary": "ロックスター・ゲームスは、11月19日発売予定のクライムアクションゲーム「グランド・セフト・オート VI（GTA6）」のローンチトレーラーを公開した。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2148574.html",
-   "pubDate": "2026-10-15T13:29:53.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2148574.html"
-    }
-   ]
-  },
-  {
-   "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-   "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
-   "link": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-   "pubDate": "2026-10-15T13:24:51.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://assetsio.gnwcdn.com/gta-header_xwcN3Jm.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer"
-    }
-   ]
-  },
-  {
-   "title": "「CONTROL Resonant」の国内PS5/XBOX Series X|S向けパッケージ版が本日発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VeEFrR3VxM19FWFpTZUNSU3d6LTkyZ3lhcGlUb0F3ekFfQ1FEaUtHbURHcC1yQnIxUFFURW5hWkNPOVFEQS1ZU3VFYw?oc=5",
-   "pubDate": "2026-10-15T13:23:59.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "doope!",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "CONTROL Resonant"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "doope!",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VeEFrR3VxM19FWFpTZUNSU3d6LTkyZ3lhcGlUb0F3ekFfQ1FEaUtHbURHcC1yQnIxUFFURW5hWkNPOVFEQS1ZU3VFYw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    },
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hbVBkMlBoc253ay1LRXNnUF9Tek1lUzI0RWFPNzJoYVhkYlNzNlhVTVhueFJUWkkyV0NRaDl4YVRTenVmSlRxb216UnRtSXludGZhcDVLci15ejg?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "Epic Games「Steamより起動が速い」とアピールも、Steamは前日に高速化済み―検証ではむしろ遅かった？",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/15/173657.html",
-   "pubDate": "2026-10-15T13:18:23.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/15/173657.html"
-    }
-   ]
-  },
-  {
-   "title": "Grand Theft Auto VI launch trailer",
-   "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto VI, just over one …",
-   "link": "https://www.gematsu.com/2026/10/grand-theft-auto-vi-launch-trailer",
-   "pubDate": "2026-10-15T13:13:59.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/GTA6-Launch-PV_10-15-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/grand-theft-auto-vi-launch-trailer"
-    },
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/"
-    }
-   ]
-  },
-  {
-   "title": "『グランド・セフト・オートVI（GTA 6）』の“ローンチトレイラー”早くもぬるっとお披露目。発売はまだ1か月先だけど、安心できそう",
-   "summary": "Rockstar Gamesは10月15日、『グランド・セフト・オートVI（GTA 6）』のローンチトレイラーを公開した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261015-473745/",
-   "pubDate": "2026-10-15T13:13:34.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261015-473745-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "グランド・セフト・オートVI(GTA 6)"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261015-473745/"
-    }
-   ]
-  },
-  {
-   "title": "Epic said its game launcher was faster than Steam on the same day Steam got a speed boost—so I've put both to the test",
-   "summary": "There's only seconds in it, mind.",
-   "link": "https://www.pcgamer.com/hardware/epic-said-its-game-launcher-was-faster-than-steam-on-the-same-day-steam-got-a-speed-boost-so-ive-put-both-to-the-test/",
-   "pubDate": "2026-10-15T13:10:51.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/aRmuneCkQLMQZfYejmFp7o-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/epic-said-its-game-launcher-was-faster-than-steam-on-the-same-day-steam-got-a-speed-boost-so-ive-put-both-to-the-test/"
-    }
-   ]
-  },
-  {
-   "title": "Famitsu Sales: 10/5/26 – 10/11/26",
-   "summary": "Famitsu has published its estimated physical game software data for Japan for the week of …",
-   "link": "https://www.gematsu.com/2026/10/famitsu-sales-10-5-26-10-11-26",
-   "pubDate": "2026-10-15T13:10:25.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Famitsu-Sales_10-15-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/famitsu-sales-10-5-26-10-11-26"
-    }
-   ]
-  },
-  {
-   "title": "Put Down Your Pitchforks, GTA 6 Was Always Eligible For The Game Awards This Year",
-   "summary": "As we inch ever closer to the tidal wave that is Grand Theft Auto VI approaching over the horizon, some minds are turning to awards season a…",
-   "link": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/",
-   "pubDate": "2026-10-15T13:09:58.000Z",
-   "firstSeen": "2026-10-15T18:47:36.398Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Lucia_Caminos_10_262d89.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "update",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/"
-    }
-   ]
-  },
-  {
-   "title": "After Civ 7 stumbled, Humankind 2 looks like it's making smart choices to pick up the 4X torch",
-   "summary": "Very dialectical.",
-   "link": "https://www.pcgamer.com/games/strategy/after-civ-7-stumbled-humankind-2-looks-like-its-making-smart-choices-to-pick-up-the-4x-torch/",
-   "pubDate": "2026-10-15T13:09:36.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/RvHpWzB8ZkFUBFtHkD8Qdc-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/strategy/after-civ-7-stumbled-humankind-2-looks-like-its-making-smart-choices-to-pick-up-the-4x-torch/"
-    }
-   ]
-  },
-  {
-   "title": "『GTA6』ローンチトレーラーが公開！ 新曲「Flower in a Hurricane」が流れる、ジェイソンとルシアの逃避行",
-   "summary": "作中BGMを手がけるJusticeの新曲に、Tame Impala、SZA、King Gizzard & The Lizard Wizardが参加。トレーラーはなんとすべてPS5実機映像のキャプチャ。11月19日発売",
-   "link": "https://news.denfaminicogamer.jp/news/2610153m",
-   "pubDate": "2026-10-15T13:08:16.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Grand-Theft-Auto-VI-Launch-Trailer-00-00-27.13-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "GTA6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610153m"
-    }
-   ]
-  },
-  {
-   "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
-   "summary": "Rockstar Games has published the launch trailer for GTA 6, and it's pretty spectacular. The game has been in development for more than a dec…",
-   "link": "https://www.gamespot.com/articles/gta-6-launch-trailer-is-here/",
-   "pubDate": "2026-10-15T13:06:44.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-9.10.38-AM.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-launch-trailer-is-here/"
-    },
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more"
-    }
-   ]
-  },
-  {
-   "title": "El Paso, Elsewhere 2 demo now available for PC",
-   "summary": "A demo for El Paso, Elsewhere 2 is now available for PC via Steam as part …",
-   "link": "https://www.gematsu.com/2026/10/el-paso-elsewhere-2-demo-now-available-for-pc",
-   "pubDate": "2026-10-15T13:05:17.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/EPEW2-Demo_10-15-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/el-paso-elsewhere-2-demo-now-available-for-pc"
-    }
-   ]
-  },
-  {
-   "title": "South Park Season 29, Episode 3 Review & Recap: 'You Like That on Your Face'",
-   "summary": "Talk about cringe. South Park delivers one of the weakest episodes in recent memory with \"You Like That on Your Face.\"",
-   "link": "https://www.ign.com/articles/south-park-season-29-episode-3-review-recap-you-like-that-on-your-face",
-   "pubDate": "2026-10-15T13:03:47.000Z",
-   "firstSeen": "2026-10-15T14:47:39.966Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/14/south-park-2903-press-image-3-1791989851442.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/south-park-season-29-episode-3-review-recap-you-like-that-on-your-face"
-    }
-   ]
-  },
-  {
-   "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-   "summary": "UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it us…",
-   "link": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-   "pubDate": "2026-10-15T13:02:51.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6’s Push For Realism Includes A Context-Specific Sweating System, For Real",
-   "summary": "Part of the reason why Rockstar has taken so long with GTA 6 comes down to the process of crafting the fine details, and that includes a new…",
-   "link": "https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/",
-   "pubDate": "2026-10-15T13:01:30.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_09.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/"
-    }
-   ]
-  },
-  {
-   "title": "With The Mummy 4 in Full Swing, Oded Fehr Jokes The Mummy 3 Doesn't Exist — Although John Hannah Firmly Disagrees",
-   "summary": "With The Mummy 4 currently shooting ahead of its October 15, 2027 release date, Oded Fehr, who reprises his role Ardeth Bay, joked that ther…",
-   "link": "https://www.ign.com/articles/with-the-mummy-4-in-full-swing-oded-fehr-jokes-the-mummy-3-doesnt-exist-although-john-hannah-firmly-disagrees",
-   "pubDate": "2026-10-15T13:01:08.000Z",
-   "firstSeen": "2026-10-15T14:47:39.966Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/15/the-mummy-1792069063856.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/with-the-mummy-4-in-full-swing-oded-fehr-jokes-the-mummy-3-doesnt-exist-although-john-hannah-firmly-disagrees"
-    }
-   ]
-  },
-  {
-   "title": "最大6人で遊べるアライグマのCo-opアクションが“非常に好評”のスタート。ワゴンを押しつつゴミ漁り、時にはフレンドを射出―採れたて！本日のSteam注目ゲーム20選【2026年10月15日】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/15/173656.html",
-   "pubDate": "2026-10-15T13:00:04.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/15/173656.html"
-    }
-   ]
-  },
-  {
-   "title": "Hokko Spaces launches October 29 for Switch, PC",
-   "summary": "Diorama-style sandbox design game Hokko Spaces will launch for Switch and PC via Steam on …",
-   "link": "https://www.gematsu.com/2026/10/hokko-spaces-launches-october-29-for-switch-pc",
-   "pubDate": "2026-10-15T13:00:01.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Hokko-Spaces-Date_10-13-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch",
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/hokko-spaces-launches-october-29-for-switch-pc"
-    }
-   ]
-  },
-  {
-   "title": "「CONTROL Resonant」，PS5/XBOX Series X向けパッケージ版が本日発売。SteelBookエディションも登場",
-   "summary": "RemedyEntertainmentは本日，アクションアドベンチャーRPG「CONTROLResonant」のPS5/XBOXSeriesX向けパッケージ版を発売した。通常版に加え，SteelBookケースやファインアートプリント3枚，キーアートポスターを同梱するSteelBo…",
-   "link": "https://www.4gamer.net/games/668/G066882/20261015043/",
-   "pubDate": "2026-10-15T13:00:00.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "release",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "CONTROL Resonant"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/668/G066882/20261015043/"
-    },
-    {
-     "name": "Gamer",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTekdod2pOc282QUlaVWd4R0R2RDJkd3VfM3lWUUlsMmtPNnBSVklJbjlyWHVpMHMxS0Q0ckhFSFJJdTU3OFVmbXg2TEVkelpXai16Ug?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "【ソフト＆ハード週間販売数】『キングダム ハーツ コレクション I～III』が首位獲得。『ドラゴンズドグマ 2：ダークアリズン』、Switch2版『地球防衛軍5』もランクイン【10/5～10/11】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02VW1YSVVsdnJrQW9yMzZZWjFpc2Flck53Qk5ZbXF2S1FYQmhDNUJORWJ6RTZYdzFjN2FDQ1Ffa2taamRPdjgycTFSZG5MYzBnSUpIWXRjdw?oc=5",
-   "pubDate": "2026-10-15T13:00:00.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "キングダム ハーツ コレクション I~III",
-    "ドラゴンズドグマ 2:ダークアリズン",
-    "地球防衛軍5"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02VW1YSVVsdnJrQW9yMzZZWjFpc2Flck53Qk5ZbXF2S1FYQmhDNUJORWJ6RTZYdzFjN2FDQ1Ffa2taamRPdjgycTFSZG5MYzBnSUpIWXRjdw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『CONTROL Resonant』パッケージ版が本日（10/15）発売。『CONTROL』の続編、壊滅が迫る歪んだマンハッタンを探索",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wTTlQR2ZmamZGdjhrSFdQUVRtakQxa2dyU3plQkJUMTlUUWVSSDVwNHFsTVlmZUh6c3VuNFl5WXZySmh1QTZSeGFsUVVTRXpjbG5ralIwSQ?oc=5",
-   "pubDate": "2026-10-15T13:00:00.000Z",
-   "firstSeen": "2026-10-15T13:47:40.517Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "CONTROL Resonant",
-    "CONTROL"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wTTlQR2ZmamZGdjhrSFdQUVRtakQxa2dyU3plQkJUMTlUUWVSSDVwNHFsTVlmZUh6c3VuNFl5WXZySmh1QTZSeGFsUVVTRXpjbG5ralIwSQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
     }
    ]
   }
