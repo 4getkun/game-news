@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-31T10:47:57.947Z",
+ "generatedAt": "2026-10-31T11:47:58.160Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1202,
+  "exact": 1205,
   "syndicated": 90,
   "similar": 356,
-  "syndicatedTotal": 385,
+  "syndicatedTotal": 386,
   "syndicatedLeft": 23
  },
  "calendar": [
@@ -7041,13 +7041,13 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
-   "work": "ドラクエモンスターズ4",
-   "title": "「ギルティ炭酸NOPE」×「ドラクエモンスターズ４」コラボデザインラベルが登場モンスターたちの“ギルティ”な姿を描き下ろした全4種を展開",
-   "link": "https://game.watch.impress.co.jp/docs/news/2150904.html",
-   "source": "GAME Watch",
+   "work": null,
+   "title": "【読者の声】2026年11月発売の新作ゲームは何を買う？―注目タイトルまとめ！",
+   "link": "http://www.gamespark.jp/article/2026/10/31/174345.html",
+   "source": "Game*Spark",
    "sources": 3,
    "categories": [
-    "collab"
+    "new"
    ],
    "platforms": [],
    "spoiler": false
@@ -7057,13 +7057,13 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
-   "work": null,
-   "title": "【読者の声】2026年11月発売の新作ゲームは何を買う？―注目タイトルまとめ！",
-   "link": "http://www.gamespark.jp/article/2026/10/31/174345.html",
-   "source": "Game*Spark",
-   "sources": 2,
+   "work": "ドラクエモンスターズ4",
+   "title": "「ギルティ炭酸NOPE」×「ドラクエモンスターズ４」コラボデザインラベルが登場モンスターたちの“ギルティ”な姿を描き下ろした全4種を展開",
+   "link": "https://game.watch.impress.co.jp/docs/news/2150904.html",
+   "source": "GAME Watch",
+   "sources": 3,
    "categories": [
-    "new"
+    "collab"
    ],
    "platforms": [],
    "spoiler": false
@@ -9396,6 +9396,22 @@
   {
    "date": "2026-11-13",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "ダンガンロンパ",
+   "title": "『ダンガンロンパ』×ウェンディーズ・ファーストキッチン初コラボが11/13開幕！ 描き下ろしクリアファイル付きポテトや限定グッズ登場",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NDlMM0pSOF9ZT0FkTE5KYklyV3lRc29SSGFwczM0UWdpTDVTQ1IyREo1UG80UnZ2Z2d5TlZJVTRiWnhDZjYyVkhLRzJfWG44MVA1c1U5cjRRQQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 2,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ポケカ",
@@ -9437,22 +9453,6 @@
     "release",
     "update",
     "review"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-13",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "ダンガンロンパ",
-   "title": "『ダンガンロンパ』シリーズと「ウェンディーズ・ファーストキッチン」のコラボが発表！『1』『2』『V3』の“超高校級”たちがミニキャラ姿で大集合",
-   "link": "https://news.denfaminicogamer.jp/news/2610302r",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "collab"
    ],
    "platforms": [],
    "spoiler": false
@@ -13294,8 +13294,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1018,
-   "accepted": 991
+   "archived": 1014,
+   "accepted": 987
   },
   {
    "id": "4gamer-sp",
@@ -13305,8 +13305,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 230,
-   "accepted": 222
+   "archived": 229,
+   "accepted": 221
   },
   {
    "id": "automaton",
@@ -13316,8 +13316,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 577,
-   "accepted": 569
+   "archived": 576,
+   "accepted": 568
   },
   {
    "id": "denfaminico",
@@ -13327,8 +13327,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1249,
-   "accepted": 1098
+   "archived": 1248,
+   "accepted": 1097
   },
   {
    "id": "gamewatch",
@@ -13349,8 +13349,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1324,
-   "accepted": 1307
+   "archived": 1321,
+   "accepted": 1304
   },
   {
    "id": "inside-games",
@@ -13360,8 +13360,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1547,
-   "accepted": 1152
+   "archived": 1545,
+   "accepted": 1151
   },
   {
    "id": "ps-blog",
@@ -13404,7 +13404,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 737,
+   "archived": 736,
    "accepted": 587
   },
   {
@@ -13415,8 +13415,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 723,
-   "accepted": 370
+   "archived": 722,
+   "accepted": 368
   },
   {
    "id": "gnews-newgame",
@@ -13426,8 +13426,8 @@
    "ok": true,
    "error": null,
    "fetched": 95,
-   "archived": 487,
-   "accepted": 460
+   "archived": 489,
+   "accepted": 462
   },
   {
    "id": "gnews-switch2",
@@ -13458,7 +13458,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 89,
    "archived": 445,
    "accepted": 360
   },
@@ -13470,8 +13470,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26314,
-   "accepted": 487
+   "archived": 26275,
+   "accepted": 485
   },
   {
    "id": "gematsu",
@@ -13492,8 +13492,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1307,
-   "accepted": 1307
+   "archived": 1306,
+   "accepted": 1306
   },
   {
    "id": "eurogamer",
@@ -13536,11 +13536,78 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 612,
-   "accepted": 612
+   "archived": 609,
+   "accepted": 609
   }
  ],
  "items": [
+  {
+   "title": "Game*Sparkレビュー:『Nintendo Switch Sports Resort』―充実の一人プレイと、なぜか謙虚すぎる上質なオープンワールド",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/31/174348.html",
+   "pubDate": "2026-10-31T11:00:03.000Z",
+   "firstSeen": "2026-10-31T11:47:36.232Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "Nintendo Switch Sports Resort"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/31/174348.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XRDROR3NUaElldzlWem9XekZWeF9LWnNjRTlvWm9hSmFYekFKb1QwdWkwUXF1dmVES0xLY19WVnNMcHFYWGpTOUQyc3FUcDk5RHJodTBVVnBNcVdSSV8zRVJLVQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】ピチテカのミニスカ×ロングブーツで美脚が際立つ！台湾美女レイヤーの『アズレン』ウルリッヒが夜空を背に大旗を掲げる【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/31/190154.html",
+   "pubDate": "2026-10-31T11:00:03.000Z",
+   "firstSeen": "2026-10-31T11:47:36.232Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アズレン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/31/190154.html"
+    }
+   ]
+  },
   {
    "title": "Game*Sparkレビュー：『Valor Mortis』─「一人称視点」でソウルライクはどう変わる？剣と銃、超能力が交錯する異色の高難度ARPG",
    "summary": "",
@@ -13663,10 +13730,36 @@
    ]
   },
   {
+   "title": "「ラブライブ」痛車が根強い人気！こだわりのクルマが集結【第拾回 天下無双 東西最強痛車決戦フォトレポ】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/31/190153.html",
+   "pubDate": "2026-10-31T10:00:02.000Z",
+   "firstSeen": "2026-10-31T10:47:39.891Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/31/190153.html"
+    }
+   ]
+  },
+  {
    "title": "【読者の声】2026年11月発売の新作ゲームは何を買う？―注目タイトルまとめ！",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/31/174345.html",
-   "pubDate": "2026-10-31T10:00:03.000Z",
+   "pubDate": "2026-10-31T10:00:00.000Z",
    "firstSeen": "2026-10-31T10:47:39.891Z",
    "image": null,
    "source": "Game*Spark",
@@ -13694,32 +13787,13 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LN3NaMk1TSk9DQ0ZzYjltbmhvNktZVnF3T243a2lfTmZMbUxRMGo4cmpISERoOFR6UXIxTDVDaUhfQmotazI4T0pNWDdqeElXVXExOGNubFVYNER3MUR4VEVKUQ?oc=5",
      "via": "Googleニュース「PS5 発売」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ラブライブ」痛車が根強い人気！こだわりのクルマが集結【第拾回 天下無双 東西最強痛車決戦フォトレポ】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/31/190153.html",
-   "pubDate": "2026-10-31T10:00:02.000Z",
-   "firstSeen": "2026-10-31T10:47:39.891Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
+    },
     {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/31/190153.html"
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcm0xa1JBSVZiVm9QYlhBRG5xajhmSmJGTUVKNk4wU3Q5MlBCRjFtNWVLWmY2eWxEdGt6a1RCMzlraDA5bzNjSmFieEtKVnVLeEQxNWVjd0gxYXFCdV9PczRxc1F2eFlvZFQyQUc4SUJiS1MzX2ZLMTNxNVZLMXdKaUNTeDhhQjdVWlkyZUV2YVl6dUxxM2ZrM3BzLWlOak5KcHVKZS1RdDNQWlRUTEhuM0ZVLWRWQ0J5bWZDdU5SUUNQYjNHS0tZc25Na3NJaHFlckHSAYIBQVVfeXFMT2xnRVZEbmx1aU80X21kemt5Q3l3anozLTZCZk8zSEZHREYxQVFIeGJVbWZFdGduNXcwVjAySnV3a1VITEFpLURaUHJVNmRUZE1XQVpPTHp2elNoVDJBNTRadkdnWmJkZGw2VnF2UmRGVU1TV055a0wzS0lLRVRkYklkZw?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
     }
    ]
   },
@@ -25106,6 +25180,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/30/174313.html"
+    }
+   ]
+  },
+  {
+   "title": "『ダンガンロンパ』×ウェンディーズ・ファーストキッチン初コラボが11/13開幕！ 描き下ろしクリアファイル付きポテトや限定グッズ登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NDlMM0pSOF9ZT0FkTE5KYklyV3lRc29SSGFwczM0UWdpTDVTQ1IyREo1UG80UnZ2Z2d5TlZJVTRiWnhDZjYyVkhLRzJfWG44MVA1c1U5cjRRQQ?oc=5",
+   "pubDate": "2026-10-30T07:19:00.000Z",
+   "firstSeen": "2026-10-31T11:47:36.232Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ダンガンロンパ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NDlMM0pSOF9ZT0FkTE5KYklyV3lRc29SSGFwczM0UWdpTDVTQ1IyREo1UG80UnZ2Z2d5TlZJVTRiWnhDZjYyVkhLRzJfWG44MVA1c1U5cjRRQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -40349,6 +40454,35 @@
    ]
   },
   {
+   "title": "『ハッピープロパガンダ』共産主義国家の生配信を検閲する言論統制アドベンチャーが発売。新人キャスター“ハッピー・ルン”とともに過ごす5日間",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ya1AyWUFMZ0pXa1hPVnhIbkQ1U01Mdl9hbFV4b0tkalZqTGlJUk5UY2M1LUJmWURRazdibkc1MzJRcmRrTGRWa0hlVDRTTGhSYlBSQVRvWQ?oc=5",
+   "pubDate": "2026-10-29T08:00:00.000Z",
+   "firstSeen": "2026-10-31T11:47:36.232Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ハッピープロパガンダ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ya1AyWUFMZ0pXa1hPVnhIbkQ1U01Mdl9hbFV4b0tkalZqTGlJUk5UY2M1LUJmWURRazdibkc1MzJRcmRrTGRWa0hlVDRTTGhSYlBSQVRvWQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "【盛況】注目の“カンフーパンク”アクションゲーム『Phantom Blade Zero』Steam版の最大同接が「43万人」を記録。発売初日でレビュー数は2000件を超える",
    "summary": "主君殺しの濡れ衣を着せられ、心臓に深手を負った剣客が残り「66日の命」をかけて自身を陥れた陰謀に迫る",
    "link": "https://news.denfaminicogamer.jp/news/2610292l",
@@ -41441,34 +41575,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/29/174233.html"
-    }
-   ]
-  },
-  {
-   "title": "『アリス・ギア・アイギス』新ステラーキャラクター「新谷 芹菜【ジャスティス】（CV：白城 なお）」と「二階堂 司【エンペラー】（CV：大地 葉）」が登場！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000002069.000004473.html",
-   "pubDate": "2026-10-29T06:41:20.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アリス・ギア・アイギス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000002069.000004473.html"
     }
    ]
   },
@@ -192659,98 +192765,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/050/G105072/20261016010/"
-    }
-   ]
-  },
-  {
-   "title": "『インフェルノカフェ』人外メイドに自分を\"喰わせる\"ダークラブコメの無料体験版が配信。悪魔にゾンビにオオカミ娘、キュートな問題児たちと売上No.1を目指せ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hcDlkeXFxdDM3Q3ZGZmg4VGNsMmxrVWd0aGpxYmpqck4zRHFMQkFNb2ljY2NsR0s4NVBBUTVtbHFZaW9BT0o1RmVjZjY2eG1yTVYzWnAxaw?oc=5",
-   "pubDate": "2026-10-16T04:16:00.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "demo",
-    "collab",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "インフェルノカフェ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hcDlkeXFxdDM3Q3ZGZmg4VGNsMmxrVWd0aGpxYmpqck4zRHFMQkFNb2ljY2NsR0s4NVBBUTVtbHFZaW9BT0o1RmVjZjY2eG1yTVYzWnAxaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『ドラクエ』スライムやマドハンドを指先にセット！指人形のように遊べる「ミニパペットぬいぐるみ」第2弾が楽しい",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/16/189362.html",
-   "pubDate": "2026-10-16T04:15:02.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/16/189362.html"
-    }
-   ]
-  },
-  {
-   "title": "「ゲーム・オブ・ザ・イヤー」受賞のアドベンチャー『It Takes Two』がSwitch 2で登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sRUh0bnMtYXhIXzhPNGExWUNjQm1xWUduWkxpdTNIWVhhcHBobU1SMXlNRGh4Q1loakVGTkkxMzJGSnBJNmJOSjlNRElwbW1NLWh2LUVGMG9tUQ?oc=5",
-   "pubDate": "2026-10-16T04:14:35.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "It Takes Two"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sRUh0bnMtYXhIXzhPNGExWUNjQm1xWUduWkxpdTNIWVhhcHBobU1SMXlNRGh4Q1loakVGTkkxMzJGSnBJNmJOSjlNRElwbW1NLWh2LUVGMG9tUQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
     }
    ]
   }
