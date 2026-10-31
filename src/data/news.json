@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T07:32:30.527Z",
+ "generatedAt": "2026-10-31T07:47:48.483Z",
  "count": 6000,
  "dedupe": {
   "exact": 1203,
@@ -13306,8 +13306,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1259,
-   "accepted": 1107
+   "archived": 1258,
+   "accepted": 1106
   },
   {
    "id": "gamewatch",
@@ -13339,8 +13339,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1567,
-   "accepted": 1165
+   "archived": 1566,
+   "accepted": 1164
   },
   {
    "id": "ps-blog",
@@ -13383,8 +13383,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 739,
-   "accepted": 588
+   "archived": 740,
+   "accepted": 589
   },
   {
    "id": "gnews-dengeki",
@@ -13394,7 +13394,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 733,
+   "archived": 732,
    "accepted": 378
   },
   {
@@ -13406,7 +13406,7 @@
    "error": null,
    "fetched": 100,
    "archived": 491,
-   "accepted": 461
+   "accepted": 462
   },
   {
    "id": "gnews-switch2",
@@ -13416,8 +13416,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1347,
-   "accepted": 1177
+   "archived": 1346,
+   "accepted": 1176
   },
   {
    "id": "gnews-ps5",
@@ -13427,8 +13427,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 657,
-   "accepted": 594
+   "archived": 655,
+   "accepted": 592
   },
   {
    "id": "gnews-update",
@@ -13449,8 +13449,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26528,
-   "accepted": 491
+   "archived": 26484,
+   "accepted": 490
   },
   {
    "id": "gematsu",
@@ -13998,7 +13998,7 @@
    "firstSeen": "2026-10-31T05:47:48.847Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14017,9 +14017,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90TnJPVWozSXZYcXFxX3pxaVhqbzU4bjFGN1hIbGdTWWJfdVRJX3A4OWJPNkdYY0pEQ3I3WHV4X2tNRkVkOUVUM3RWbGhDSEtEVm13SzJSbw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
