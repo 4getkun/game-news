@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-31T07:47:48.483Z",
+ "generatedAt": "2026-10-31T08:47:56.346Z",
  "count": 6000,
  "dedupe": {
   "exact": 1203,
   "syndicated": 90,
-  "similar": 356,
+  "similar": 355,
   "syndicatedTotal": 383,
   "syndicatedLeft": 23
  },
@@ -3243,20 +3243,6 @@
    "platforms": [
     "pc"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-26",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "Abyss Ring",
-   "title": "『Abyss Ring』2026年10月26日（月）発売！倒したモンスターを料理して空腹を満たしながらダンジョンを探索！",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94clhlNnFiNUtYbDJQMlNyMEJWZTF4WDNSclVNSUhtLXRQU3h5VktpUWg2a1BjaDNaVWszWUtGQ2xZbGpZQUQ0ZUw5S19Hd3BtQ1JUdzUxRXdJM1k?oc=5",
-   "source": "GameWith",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -6679,6 +6665,25 @@
   {
    "date": "2026-10-31",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "HYPNOSYNC",
+   "title": "リズムゲーム『HYPNOSYNC』PCおよびアプリ版が2026年10月31日（土）配信開始！",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iek9KeS1oVXdyZ09WdWk0eE9zcGRWRGtPRlJrb0ZfekMxbThrT0RGQVUtMmNLUG9Bb2VYTVU3WmQxSE9KQkRDbk1ZS3VzLXpYbTRfT2RnMFUtRUk?oc=5",
+   "source": "GameWith",
+   "sources": 1,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "platforms": [
+    "mobile"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-31",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "OD",
@@ -7502,7 +7507,7 @@
    "title": "『ドラクエウォーク』×『FF14』コラボが11月2日より開催決定！「モーグリ」風の装備 や「バハムート・ラムダ」との戦闘シーンなど詳細が一部公開",
    "link": "https://news.denfaminicogamer.jp/news/261031k",
    "source": "電ファミニコゲーマー",
-   "sources": 2,
+   "sources": 3,
    "categories": [
     "trailer",
     "collab"
@@ -13273,8 +13278,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1029,
-   "accepted": 1002
+   "archived": 1026,
+   "accepted": 999
   },
   {
    "id": "4gamer-sp",
@@ -13306,8 +13311,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1258,
-   "accepted": 1106
+   "archived": 1256,
+   "accepted": 1103
   },
   {
    "id": "gamewatch",
@@ -13328,8 +13333,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1328,
-   "accepted": 1311
+   "archived": 1325,
+   "accepted": 1308
   },
   {
    "id": "inside-games",
@@ -13339,8 +13344,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1566,
-   "accepted": 1164
+   "archived": 1561,
+   "accepted": 1160
   },
   {
    "id": "ps-blog",
@@ -13350,8 +13355,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 31,
-   "accepted": 31
+   "archived": 30,
+   "accepted": 30
   },
   {
    "id": "xbox-wire",
@@ -13383,8 +13388,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 740,
-   "accepted": 589
+   "archived": 736,
+   "accepted": 586
   },
   {
    "id": "gnews-dengeki",
@@ -13394,8 +13399,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 732,
-   "accepted": 378
+   "archived": 730,
+   "accepted": 379
   },
   {
    "id": "gnews-newgame",
@@ -13405,7 +13410,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 491,
+   "archived": 489,
    "accepted": 462
   },
   {
@@ -13415,9 +13420,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 1346,
-   "accepted": 1176
+   "fetched": 98,
+   "archived": 1347,
+   "accepted": 1178
   },
   {
    "id": "gnews-ps5",
@@ -13427,8 +13432,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 655,
-   "accepted": 592
+   "archived": 653,
+   "accepted": 590
   },
   {
    "id": "gnews-update",
@@ -13437,9 +13442,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 444,
-   "accepted": 359
+   "fetched": 88,
+   "archived": 446,
+   "accepted": 360
   },
   {
    "id": "prtimes",
@@ -13449,7 +13454,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26484,
+   "archived": 26472,
    "accepted": 490
   },
   {
@@ -13471,8 +13476,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1306,
-   "accepted": 1306
+   "archived": 1307,
+   "accepted": 1307
   },
   {
    "id": "eurogamer",
@@ -13482,8 +13487,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 306,
-   "accepted": 306
+   "archived": 307,
+   "accepted": 307
   },
   {
    "id": "gamespot",
@@ -13520,6 +13525,169 @@
   }
  ],
  "items": [
+  {
+   "title": "Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/31/174341.html",
+   "pubDate": "2026-10-31T08:45:35.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/31/174341.html"
+    }
+   ]
+  },
+  {
+   "title": "BioWare閉鎖は「EAが『STAR WARS バトルフロント』の新作を優先したから」との関係者証言。「新作不振続き」もあってか、『Mass Effect』新作は幻に",
+   "summary": "BioWareの閉鎖の背景には、EAが『STAR WARS バトルフロント』シリーズの新作を優先した判断があったという。",
+   "link": "https://automaton-media.com/articles/newsjp/20261031-476916/",
+   "pubDate": "2026-10-31T08:32:27.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476916-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "STAR WARS バトルフロント",
+    "Mass Effect"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261031-476916/"
+    }
+   ]
+  },
+  {
+   "title": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\"",
+   "summary": "Happy Halloween! Are you scared? I am: I'm in a theatre play that opens next week and we're not ready yet. I'm also off to a ghost stories e…",
+   "link": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
+   "pubDate": "2026-10-31T08:00:00.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": "https://assetsio.gnwcdn.com/tenebris-somnia-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia"
+    }
+   ]
+  },
+  {
+   "title": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)",
+   "summary": "What are you most excited about? Zelda: Ocarina of Time returns next week, and if you're not already sold, Nintendo has now released a new v…",
+   "link": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
+   "pubDate": "2026-10-31T08:00:00.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": "https://images.nintendolife.com/6cb79a4d20b81/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2"
+    }
+   ]
+  },
+  {
+   "title": "『ぽこ あ ポケモン』で「イオンモール」を建築したユーザーが登場。素材もちゃんと集められる、実利&景観両立“まっさらな街店”",
+   "summary": "『ぽこ あ ポケモン』にて、イオンモールを建築したユーザーが登場したという。弊誌は作者のデネネ氏に話をうかがった。",
+   "link": "https://automaton-media.com/articles/newsjp/20261031-476929/",
+   "pubDate": "2026-10-31T07:52:34.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476929-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ぽこ あ ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261031-476929/"
+    }
+   ]
+  },
+  {
+   "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+   "summary": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+   "link": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
+   "pubDate": "2026-10-31T07:30:24.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/31/arkade-gaming-gun-motion-controls-for-any-pc-mac-shooter-mp4-00-00-01-35-still001-1793430116389.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game"
+    }
+   ]
+  },
   {
    "title": "【1,200円→0円】90年代ブラジル舞台の“非常に好評”サイコホラーADV『Asleep: Act 1』11月3日まで無料配布中",
    "summary": "",
@@ -13612,6 +13780,38 @@
      "name": "AppBank",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RcDVXWlpGVXRvZTdCN1FKMXpVWllKeG1Cak5rU1VjVFJ2X3U4OEhKTEdDMmpKelBla29naW80WGFsRHNZNm5wT1pBekJpbjhIV2ZpNEUwS2RsMDFWOW9UZg?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "Android向けPS2エミュレーター「ARMSX2」が大型アップデート ゲームごとの最適設定を自動調整",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLcXhNYW4teHNLbVVvOG53Mmx1MFpVSERFenkwLUdENzFsbmVJaXZDQjl4dUVJX0F5dzVONWUzb3EyaHRuSHhmUg?oc=5",
+   "pubDate": "2026-10-31T07:08:00.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": null,
+   "source": "スマホダイジェスト",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "update",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スマホダイジェスト",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLcXhNYW4teHNLbVVvOG53Mmx1MFpVSERFenkwLUdENzFsbmVJaXZDQjl4dUVJX0F5dzVONWUzb3EyaHRuSHhmUg?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
@@ -13963,6 +14163,38 @@
    ]
   },
   {
+   "title": "『ドラクエウォーク』×『FF14』コラボが11/2開催！ バハムート・ラムダ戦やF.A.T.E.を再現。あのマスコットの装備も",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiQ0h3WEZkM0pjNEVKeDB2SGZnV2E0Q1NLVVFTNFJlUmhPM043VlZDSmpqM3Q0alpvSWNoUnRnekNhanZiZks1WS05OVRKMXJQQXNBZzdvUExqUQ?oc=5",
+   "pubDate": "2026-10-31T05:49:00.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラクエウォーク",
+    "FF14"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiQ0h3WEZkM0pjNEVKeDB2SGZnV2E0Q1NLVVFTNFJlUmhPM043VlZDSmpqM3Q0alpvSWNoUnRnekNhanZiZks1WS05OVRKMXJQQXNBZzdvUExqUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "ファンメイドのゲームボーイカラー版『Half-Life』が11月リリース予定！ 実機でも動作可能",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/10/31/174336.html",
@@ -13998,7 +14230,7 @@
    "firstSeen": "2026-10-31T05:47:48.847Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14017,9 +14249,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90TnJPVWozSXZYcXFxX3pxaVhqbzU4bjFGN1hIbGdTWWJfdVRJX3A4OWJPNkdYY0pEQ3I3WHV4X2tNRkVkOUVUM3RWbGhDSEtEVm13SzJSbw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -15513,6 +15745,40 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWlhCSnZqUENOZjFyZlFTNTdqejM1cW1aeHNaN1V2WXFkOUw0UkRNa1MzeFAxLXdQZHJ5WVVON2tKbzBfVFQyYkZNRzNtcnFJRlZR?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "リズムゲーム『HYPNOSYNC』PCおよびアプリ版が2026年10月31日（土）配信開始！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iek9KeS1oVXdyZ09WdWk0eE9zcGRWRGtPRlJrb0ZfekMxbThrT0RGQVUtMmNLUG9Bb2VYTVU3WmQxSE9KQkRDbk1ZS3VzLXpYbTRfT2RnMFUtRUk?oc=5",
+   "pubDate": "2026-10-31T02:30:02.000Z",
+   "firstSeen": "2026-10-31T08:47:35.181Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "HYPNOSYNC"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iek9KeS1oVXdyZ09WdWk0eE9zcGRWRGtPRlJrb0ZfekMxbThrT0RGQVUtMmNLUG9Bb2VYTVU3WmQxSE9KQkRDbk1ZS3VzLXpYbTRfT2RnMFUtRUk?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -40908,7 +41174,7 @@
    "firstSeen": "2026-10-29T06:47:36.516Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -40925,9 +41191,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVmxVV3lsMVpTQmJ5NV83OFUxNlJTSl90aWtiNEYxNTJJMVd0TFpVbjdVcEVXbmpya2RTVjFocEZKNnZtOWd4MzJONGxROF9BcXFoc1pfbw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -86825,35 +87091,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/26/189845.html"
-    }
-   ]
-  },
-  {
-   "title": "『Abyss Ring』2026年10月26日（月）発売！倒したモンスターを料理して空腹を満たしながらダンジョンを探索！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94clhlNnFiNUtYbDJQMlNyMEJWZTF4WDNSclVNSUhtLXRQU3h5VktpUWg2a1BjaDNaVWszWUtGQ2xZbGpZQUQ0ZUw5S19Hd3BtQ1JUdzUxRXdJM1k?oc=5",
-   "pubDate": "2026-10-26T07:08:03.000Z",
-   "firstSeen": "2026-10-26T07:47:38.063Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Abyss Ring"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94clhlNnFiNUtYbDJQMlNyMEJWZTF4WDNSclVNSUhtLXRQU3h5VktpUWg2a1BjaDNaVWszWUtGQ2xZbGpZQUQ0ZUw5S19Hd3BtQ1JUdzUxRXdJM1k?oc=5",
-     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -192495,253 +192732,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/16/189361.html"
-    }
-   ]
-  },
-  {
-   "title": "過去に戻り、未来を変えるバトルに挑む『エターナルアニマ』は“大人になった自分たちが遊びたいJRPG”として始動！ キーワードは「継承」と「未来予測」【インタビュー】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/16/173684.html",
-   "pubDate": "2026-10-16T04:00:04.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エターナルアニマ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/16/173684.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/16/189360.html"
-    }
-   ]
-  },
-  {
-   "title": "コマンドの“結果”がすべて見える――そこに“考える手ごたえ”が生まれる。マーベラスの完全新作RPG「ETERNAL ANIMA」先行プレイ＆インタビュー",
-   "summary": "プロジェクト発表から約3年を経て，正式タイトルが明らかになったマーベラスの新作RPG「ETERNALANIMA」。伝統的なJRPGの魅力を受け継ぎながら，どのような新しさを取り入れたのか。先行プレイと開発陣へのインタビューを通してその特徴を探る。",
-   "link": "https://www.4gamer.net/games/041/G104173/20260928009/",
-   "pubDate": "2026-10-16T04:00:00.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ETERNAL ANIMA"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/041/G104173/20260928009/"
-    }
-   ]
-  },
-  {
-   "title": "「フォールアウト」グッズ多数展開！ 「Fallout mini Collection」がINFOLENS GEEK SHOP池袋パルコ店にて期間限定開催",
-   "summary": "インフォレンズは、RPG「Fallout」（フォールアウト）シリーズの「Fallout mini Collection」をINFOLENS GEEK SHOP池袋パルコ店にて10月22日から11月3日の期間限定で開催する。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2148732.html",
-   "pubDate": "2026-10-16T04:00:00.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2148732.html"
-    }
-   ]
-  },
-  {
-   "title": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG",
-   "summary": "Back to the future. Originally revealed in 2023 as a working title named Project Life is RPG, Marvelous didn't show too much of their new IP…",
-   "link": "https://www.nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg",
-   "pubDate": "2026-10-16T04:00:00.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": "https://images.nintendolife.com/efc77a76ac4c6/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg"
-    }
-   ]
-  },
-  {
-   "title": "『エターナルアニマ』物語では「過去改変」、バトルでは「未来改変」。『FF』シリーズや『クロノ・トリガー』に携わった樋口氏が挑む新たなRPGの形【インタビュー】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55RHU4czN5dC1QUU8tNkxpakhxNXY5Z29adllYb1M0V1Z3X052bF9hY1VOOEtyQ2g3RG9sbG5kS3FLWUtTeFRLMzBhLXZoSFR3WEt0azFWOA?oc=5",
-   "pubDate": "2026-10-16T04:00:00.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "ファミ通.com",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エターナルアニマ",
-    "FF",
-    "クロノ・トリガー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通.com",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55RHU4czN5dC1QUU8tNkxpakhxNXY5Z29adllYb1M0V1Z3X052bF9hY1VOOEtyQ2g3RG9sbG5kS3FLWUtTeFRLMzBhLXZoSFR3WEt0azFWOA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『エターナルアニマ』敵の行動が先にわかるのに歯応え十分。「未来予測バトル」が楽しすぎる。ぬくもりあるグラフィック、見下ろし型で懐かしくも新しいRPG【先行レビュー】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdGtMeXlCdjFMRlBzRmh4Tm1RM05QZDMyeGZBazdkZ2paaEQzWm9NTktJenpCNTE3a3dlTlVGcS1MSGx1amRwSkwxbXp2VjV1ODVsekhCQQ?oc=5",
-   "pubDate": "2026-10-16T04:00:00.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エターナルアニマ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdGtMeXlCdjFMRlBzRmh4Tm1RM05QZDMyeGZBazdkZ2paaEQzWm9NTktJenpCNTE3a3dlTlVGcS1MSGx1amRwSkwxbXp2VjV1ODVsekhCQQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『Fallout』ヌカ・コーラ ギフトセットやVault Boyのボブルヘッドなどが登場。池袋パルコで10月22日より特設コーナー開設",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wU0ZIaWhtaGxucTNvR25Qb0JDb0I1ZFdyeHhaZUJOMW1LbzJTdjVWUndGZldnWGFYdGVYOGZmVnNweVR6REExN3FsZVVKcWpCQnZ2NW5LNA?oc=5",
-   "pubDate": "2026-10-16T04:00:00.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Fallout"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wU0ZIaWhtaGxucTNvR25Qb0JDb0I1ZFdyeHhaZUJOMW1LbzJTdjVWUndGZldnWGFYdGVYOGZmVnNweVR6REExN3FsZVVKcWpCQnZ2NW5LNA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed",
-   "summary": "A bonus available in France. As we get closer to Zelda: Ocarina of Time's return, more retailers around the world are announcing midnight la…",
-   "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
-   "pubDate": "2026-10-16T03:55:00.000Z",
-   "firstSeen": "2026-10-16T04:47:36.613Z",
-   "image": "https://images.nintendolife.com/fa9beb913faba/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed"
     }
    ]
   }
