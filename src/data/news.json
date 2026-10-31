@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-31T13:47:55.432Z",
+ "generatedAt": "2026-10-31T14:47:58.063Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1205,
+  "exact": 1208,
   "syndicated": 90,
   "similar": 356,
-  "syndicatedTotal": 386,
+  "syndicatedTotal": 387,
   "syndicatedLeft": 23
  },
  "calendar": [
@@ -7520,6 +7520,25 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "ピクミン4",
+   "title": "セーブデータを引き継げるSwitch 2版「ピクミン4」の体験版が11月2日に配信開始",
+   "link": "https://www.4gamer.net/games/040/G104087/20261031013/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-02",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "CGWORLD Game Week",
    "title": "ゲームのビジュアルや制作の最前線を知るイベント『CGWORLD Game Week』11月2日（月）よりYouTubeにて配信！5日（木）は30名限定・プラチナゲームズ座談会を実施",
    "link": "https://prtimes.jp/main/html/rd/p/000000298.000073594.html",
@@ -10745,22 +10764,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
-   "link": "https://www.inside-games.jp/article/2026/10/16/189364.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-01",
    "precision": "day",
    "verb": "launch",
@@ -10803,7 +10806,7 @@
    "title": "クイズ力が派手なアクションに直結。「クイズアクションRPG ウィズジェネレーション」，12月1日にサービス開始決定。最新トレイラーも公開",
    "link": "https://www.4gamer.net/games/036/G103653/20261030026/",
    "source": "4Gamer.net（スマホ）",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "new",
     "release"
@@ -13295,8 +13298,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1245,
-   "accepted": 1094
+   "archived": 1243,
+   "accepted": 1093
   },
   {
    "id": "gamewatch",
@@ -13317,8 +13320,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1316,
-   "accepted": 1299
+   "archived": 1317,
+   "accepted": 1300
   },
   {
    "id": "inside-games",
@@ -13372,8 +13375,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 734,
-   "accepted": 586
+   "archived": 730,
+   "accepted": 583
   },
   {
    "id": "gnews-dengeki",
@@ -13393,7 +13396,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 94,
+   "fetched": 95,
    "archived": 492,
    "accepted": 464
   },
@@ -13404,9 +13407,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 1334,
-   "accepted": 1166
+   "fetched": 99,
+   "archived": 1339,
+   "accepted": 1170
   },
   {
    "id": "gnews-ps5",
@@ -13416,8 +13419,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 650,
-   "accepted": 589
+   "archived": 651,
+   "accepted": 590
   },
   {
    "id": "gnews-update",
@@ -13426,9 +13429,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 445,
-   "accepted": 359
+   "fetched": 88,
+   "archived": 444,
+   "accepted": 358
   },
   {
    "id": "prtimes",
@@ -13438,8 +13441,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26150,
-   "accepted": 483
+   "archived": 26102,
+   "accepted": 482
   },
   {
    "id": "gematsu",
@@ -13460,8 +13463,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1303,
-   "accepted": 1303
+   "archived": 1298,
+   "accepted": 1298
   },
   {
    "id": "eurogamer",
@@ -13482,8 +13485,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 314,
-   "accepted": 314
+   "archived": 312,
+   "accepted": 312
   },
   {
    "id": "nintendolife",
@@ -13493,8 +13496,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 319,
-   "accepted": 319
+   "archived": 320,
+   "accepted": 320
   },
   {
    "id": "pcgamer",
@@ -13504,11 +13507,290 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 603,
-   "accepted": 603
+   "archived": 600,
+   "accepted": 600
   }
  ],
  "items": [
+  {
+   "title": "セーブデータを引き継げるSwitch 2版「ピクミン4」の体験版が11月2日に配信開始",
+   "summary": "2026年10月31日，任天堂は，宮本茂氏が出演する動画「PikminDayDirect」を公開。同社が毎年11月1日を「ピクミンデー」と定めたことと，11月12日に発売予定の「ピクミン4NintendoSwitch2Edition+だれでもチャレンジ!ダンドリ検定」の体験版を，…",
+   "link": "https://www.4gamer.net/games/040/G104087/20261031013/",
+   "pubDate": "2026-10-31T14:39:38.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 21,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ピクミン4"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/040/G104087/20261031013/"
+    }
+   ]
+  },
+  {
+   "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+   "summary": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that…",
+   "link": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+   "pubDate": "2026-10-31T14:39:25.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-14.21.52.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date"
+    }
+   ]
+  },
+  {
+   "title": "11月1日は“ピクミンデー”に！「Pikmin Day Direct」公開。『ピクミン4 Nintendo Switch 2 Edition』体験版情報やショートムービーお披露目など",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/31/174350.html",
+   "pubDate": "2026-10-31T14:23:55.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "demo",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ピクミン4 Nintendo Switch 2 Edition"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/31/174350.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tdWREOXN0WXdWMHdYUGlTcFBaN0ZUR0FubHhYNktISGtVanVCNFU1ajMybDNyekF1ZDVlS0N5RFhTenE1QTVQNlEyTHBVS1JuVTROVF95U05iLXN4MUxhRm1fRQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "任天堂、11月1日を「ピクミンデー」に制定。Switch 2版『ピクミン4』や『ピクミンブルーム』の新要素を発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nOWxpY2sxdVd1dWUxektPbnF1eFJvZHY4T2dtQnpZU3JORXVoSGloTXh1TU4xR3JSb1liaENOZUZNbzh0UWZEbGo1OTFTMEV5WXk2aGVlRVNtd9IBX0FVX3lxTE1GbWgtZXo2b1ZFNGhfZUhzWTF2bVBIU2VKVzd4TkY4dUdKTE5iZlZDTDc1bnNOMXZRUFZTTThSZ3I0MVNuaC0wUUJ4MHR2TlJfV0h3Sm9WbFp1RHhBYVVv?oc=5",
+   "pubDate": "2026-10-31T14:19:11.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": null,
+   "source": "CoRRiENTE",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ピクミン4",
+    "ピクミンブルーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CoRRiENTE",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nOWxpY2sxdVd1dWUxektPbnF1eFJvZHY4T2dtQnpZU3JORXVoSGloTXh1TU4xR3JSb1liaENOZUZNbzh0UWZEbGo1OTFTMEV5WXk2aGVlRVNtd9IBX0FVX3lxTE1GbWgtZXo2b1ZFNGhfZUhzWTF2bVBIU2VKVzd4TkY4dUdKTE5iZlZDTDc1bnNOMXZRUFZTTThSZ3I0MVNuaC0wUUJ4MHR2TlJfV0h3Sm9WbFp1RHhBYVVv?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+   "summary": "Yes, Pikmin Day. Surprise! Nintendo had shadow dropped a Nintendo Direct presentation for Pikmin Day. Yes, that’s right, Pikmin day. As of t…",
+   "link": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
+   "pubDate": "2026-10-31T14:15:00.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": "https://images.nintendolife.com/8aca49f180cac/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct"
+    }
+   ]
+  },
+  {
+   "title": "Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'",
+   "summary": "You'd think someone else would've successfully taken gore to the next level.",
+   "link": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/",
+   "pubDate": "2026-10-31T14:11:55.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/HZNJzXs28GBi8Snt9ianX5-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/"
+    }
+   ]
+  },
+  {
+   "title": "『ピクミン』ショート動画シリーズが始動。1本目は11月1日に公開【Pikmin Day Direct】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KV2d0NWhtVWQ3WHUtdXRYZ1NnNkYtMjdpaElYblZ2Sjh4QVVfcTNrTzFHdS1iNGJoUzhLWElRX1ZlU0RjekhMS2JEWFk5TkQ5VEdRTklTTQ?oc=5",
+   "pubDate": "2026-10-31T14:09:00.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ピクミン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KV2d0NWhtVWQ3WHUtdXRYZ1NnNkYtMjdpaElYblZ2Sjh4QVVfcTNrTzFHdS1iNGJoUzhLWElRX1ZlU0RjekhMS2JEWFk5TkQ5VEdRTklTTQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『ピクミン』のオリジナル短編映像シリーズ『Hello! Pikmin』が「Nintendo Today!」などで公開へ",
+   "summary": "任天堂が『ピクミン』シリーズに関する情報をまとめた映像を公開",
+   "link": "https://news.denfaminicogamer.jp/news/261031u",
+   "pubDate": "2026-10-31T14:07:45.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HV9qcE5bAAAjxT6.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ピクミン",
+    "Hello! Pikmin"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261031u"
+    }
+   ]
+  },
+  {
+   "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
+   "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more",
+   "link": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
+   "pubDate": "2026-10-31T13:53:19.000Z",
+   "firstSeen": "2026-10-31T14:47:35.750Z",
+   "image": "https://assetsio.gnwcdn.com/Silent-Hill-Townfall-Door-Dial-Date-Puzzle---Header.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update"
+    }
+   ]
+  },
   {
    "title": "【2100円→840円】世界を救うため“姫を殺す”高評価ノベルゲーム『Slay the Princess』の60%オフセールがSteamで開催中。姫を殺すのか否か、目的はシンプルながら選択の一つひとつがエンディングに影響する",
    "summary": "姫を殺すのか否か、彼女の言葉をどう受け取るのか、そもそもナレーターは信用できるのか。目的はシンプルながら選択の一つひとつがエンディングに影響する",
@@ -25439,6 +25721,12 @@
      "name": "4Gamer.net（スマホ）",
      "sourceId": "4gamer-sp",
      "link": "https://www.4gamer.net/games/036/G103653/20261030026/"
+    },
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44N013a1ZMajhvSDQ4UFdWbmdCclR4NWU3WTd3c3FqTHBQSG4xWDEzUng1dE1YU1NwQUh0bldsWm5ZTl9aQXZmNDNtbWxsZHhlRS1QLXI5M1RLeW56ek85bVpiaw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -30180,7 +30468,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 20,
    "categories": [
     "event"
    ],
@@ -42076,7 +42364,7 @@
    "firstSeen": "2026-10-29T06:47:36.516Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -42093,9 +42381,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVmxVV3lsMVpTQmJ5NV83OFUxNlJTSl90aWtiNEYxNTJJMVd0TFpVbjdVcEVXbmpya2RTVjFocEZKNnZtOWd4MzJONGxROF9BcXFoc1pfbw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -192424,295 +192712,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxXzl0RG1zd3dkS003c0NxTzJCdlEwZmRLc2x0MjUtY2xYTDZsRENra3hUTWZpanNqQ0xibWhGRmVqU093dlVn?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "発掘した化石の骨を持ち帰り，博物館で恐竜の全身骨格を復元するシミュレータ「穴掘り恐竜博物館」，本日発売",
-   "summary": "YagniLabは本日，発掘シム「穴掘り恐竜博物館」をSteamでリリースした。価格は880円（税込）。10月23日まではリリース記念セールにより15％オフで購入できる。本作は，地面をひたすら掘り進んで化石を発掘し，持ち帰った骨から恐竜の全身骨格を復元していく作品だ。",
-   "link": "https://www.4gamer.net/games/046/G104636/20261016017/",
-   "pubDate": "2026-10-16T05:13:20.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/046/G104636/20261016017/"
-    }
-   ]
-  },
-  {
-   "title": "【ダックサバイバー】キノコ伝説運営の新作ヴァンサバ×TDゲームを初日全コンテンツ開放まで遊んでレビュー！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xWU5pUHMzeFJPNjRaV3BFeVNLOU9XMUxCUFBDTVJRZ0RrUlRMZGphU2JDVkdsdDRWNlpmNVB4cjA1QQ?oc=5",
-   "pubDate": "2026-10-16T05:12:39.000Z",
-   "firstSeen": "2026-10-16T06:47:39.716Z",
-   "image": null,
-   "source": "YouTube",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "YouTube",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xWU5pUHMzeFJPNjRaV3BFeVNLOU9XMUxCUFBDTVJRZ0RrUlRMZGphU2JDVkdsdDRWNlpmNVB4cjA1QQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『Pokémon LEGENDS Z-A』の舞台であるミアレシティでの優雅で楽しい暮らしを描いたグッズがポケモンセンターに登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00aEhzbHBGX3ZKcEgyVGZBNldKSDhROVhaOWNDRTBQT1d3aEVzQlhzTmlLbUt0b0hVcmtYNDRPVnNaSVpfel9LM2Z2Yi03YWNfN09sWXg1MVVpR1A3TlZLR3cxQndWcHM?oc=5",
-   "pubDate": "2026-10-16T05:10:32.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "ポケットモンスターオフィシャルサイト",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Pokémon LEGENDS Z-A"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ポケットモンスターオフィシャルサイト",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00aEhzbHBGX3ZKcEgyVGZBNldKSDhROVhaOWNDRTBQT1d3aEVzQlhzTmlLbUt0b0hVcmtYNDRPVnNaSVpfel9LM2Z2Yi03YWNfN09sWXg1MVVpR1A3TlZLR3cxQndWcHM?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『The Witness』開発者の新作『Order of the Sinking Star』、前作を余裕で超える初動売上本数を叩き出す。10年がかりの新たな“パズル地獄”も人気強烈",
-   "summary": "開発者のJonathan Blow氏は本作の好調な売れ行きを報告している。",
-   "link": "https://automaton-media.com/articles/newsjp/20261016-473889/",
-   "pubDate": "2026-10-16T05:10:21.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261016-473889-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "review",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "The Witness",
-    "Order of the Sinking Star"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261016-473889/"
-    }
-   ]
-  },
-  {
-   "title": "ポケモンセンターから『ぽこ あ ポケモン』『Pokémon LEGENDS Z-A』をはじめよう！｜ポケットモンスターオフィシャルサイト",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EWHZXcHNwN2g1YndLUXJVUU1JRWJZeGg4cmtnMlVGZmFtMHZKaktVRzl1WEJUU19GU1BFeDNnUFNLYkwtX2JDZV95Q0FXRjJjbUN2WVFsM0FmTEU5Ums5TFJzb3M?oc=5",
-   "pubDate": "2026-10-16T05:04:31.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "ポケットモンスターオフィシャルサイト",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ぽこ あ ポケモン",
-    "Pokémon LEGENDS Z-A"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ポケットモンスターオフィシャルサイト",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EWHZXcHNwN2g1YndLUXJVUU1JRWJZeGg4cmtnMlVGZmFtMHZKaktVRzl1WEJUU19GU1BFeDNnUFNLYkwtX2JDZV95Q0FXRjJjbUN2WVFsM0FmTEU5Ums5TFJzb3M?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "【週末無料】無人島サバイバル『Stranded Deep』を体験できるフリーウィークエンド開催中！協力にも対応し10月23日まで60％オフセールも",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/16/173685.html",
-   "pubDate": "2026-10-16T05:00:03.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 60,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "Stranded Deep"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/16/173685.html"
-    }
-   ]
-  },
-  {
-   "title": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/16/189364.html",
-   "pubDate": "2026-10-16T05:00:03.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/16/189364.html"
-    }
-   ]
-  },
-  {
-   "title": "「DLsite」、ユーザーの声を集める「ジャンル国民投票」を今年も開催！ 人気上位ジャンル作品を対象とした記念セールも",
-   "summary": "エイシスが運営する二次元コンテンツの総合ダウンロード販売サービス「DLsite」は、10月16日より「DLsiteジャンル国民投票2026」の投票受付を開始する。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2148756.html",
-   "pubDate": "2026-10-16T05:00:00.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2148756.html"
-    }
-   ]
-  },
-  {
-   "title": "LINE Games、PC新作ゲーム『Amazing Slot Survivor』のデモ版をSteamにて公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mZEMxSlNhU0lBQkNQWmdtWDJ0aVdJT29hQ1NHVm9KcFJ6TTl1NExCVEJBXzVMX3czcmFyYklLdHd0bWc0RHlhOQ?oc=5",
-   "pubDate": "2026-10-16T05:00:00.000Z",
-   "firstSeen": "2026-10-16T05:47:34.504Z",
-   "image": null,
-   "source": "AppMedia",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Amazing Slot Survivor"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppMedia",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mZEMxSlNhU0lBQkNQWmdtWDJ0aVdJT29hQ1NHVm9KcFJ6TTl1NExCVEJBXzVMX3czcmFyYklLdHd0bWc0RHlhOQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    },
-    {
-     "name": "ドリームニュース",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkbDFQWWExakFVa1d4ZVVfbVFMSUtJTlNmcndvWTRia2lwX1RDa1lQb2RiS0JITW85eENKa0FPdTdWMzRCdXRaUDFzQlIwTnYwNUI4?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1ZmJHUy1JQ2NOZDM3bXc5MllKa3VVX3I5UzlrRXhpbXdwakt1aGRUY1VnbGV1LW11cDRZOU9jbVhWUzNMbDN3TGt6Q3ZMYjZFRWUyMGt0ZW5sQWtaTmZCNWNpR1hOeHZh?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
     }
    ]
   }
