@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-01T16:47:57.739Z",
+ "generatedAt": "2026-11-01T17:47:57.157Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1197,
+  "exact": 1198,
   "syndicated": 90,
-  "similar": 348,
+  "similar": 349,
   "syndicatedTotal": 384,
   "syndicatedLeft": 22
  },
@@ -2435,22 +2435,6 @@
   {
    "date": "2026-10-24",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "ポケモン",
-   "title": "『ポケモン』グッズがしまむら・アベイルで10月24日発売！シルエットが可愛いキャップ、モクローの筒形ポーチなど豊富なデザイン",
-   "link": "https://www.inside-games.jp/article/2026/10/18/189450.html",
-   "source": "インサイド",
-   "sources": 2,
-   "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-24",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "ファクトリ囲碁",
@@ -2743,6 +2727,22 @@
    "work": null,
    "title": "アベイル×「ウイニング競馬」コラボグッズが10月24日発売！キャップやトートバッグなど実用的でおしゃれなデザイン",
    "link": "https://www.inside-games.jp/article/2026/10/18/189457.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-24",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ポケモン",
+   "title": "『ポケモン』グッズがしまむら・アベイルで10月24日発売！シルエットが可愛いキャップ、モクローの筒形ポーチなど豊富なデザイン",
+   "link": "https://www.inside-games.jp/article/2026/10/18/189450.html",
    "source": "インサイド",
    "sources": 1,
    "categories": [
@@ -13043,8 +13043,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 730,
-   "accepted": 371
+   "archived": 732,
+   "accepted": 373
   },
   {
    "id": "gnews-newgame",
@@ -13053,9 +13053,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 89,
-   "archived": 494,
-   "accepted": 465
+   "fetched": 100,
+   "archived": 495,
+   "accepted": 466
   },
   {
    "id": "gnews-switch2",
@@ -13086,7 +13086,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 80,
    "archived": 424,
    "accepted": 337
   },
@@ -13098,7 +13098,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24870,
+   "archived": 24861,
    "accepted": 454
   },
   {
@@ -13120,8 +13120,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1242,
-   "accepted": 1242
+   "archived": 1239,
+   "accepted": 1239
   },
   {
    "id": "eurogamer",
@@ -13142,8 +13142,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 295,
-   "accepted": 295
+   "archived": 293,
+   "accepted": 293
   },
   {
    "id": "nintendolife",
@@ -13153,8 +13153,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 313,
-   "accepted": 313
+   "archived": 314,
+   "accepted": 314
   },
   {
    "id": "pcgamer",
@@ -13164,11 +13164,122 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 584,
-   "accepted": 584
+   "archived": 586,
+   "accepted": 586
   }
  ],
  "items": [
+  {
+   "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+   "summary": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in…",
+   "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+   "pubDate": "2026-11-01T17:27:29.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry"
+    }
+   ]
+  },
+  {
+   "title": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
+   "summary": "The composer for Celeste and Minecraft guides us through the games on her PC.",
+   "link": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
+   "pubDate": "2026-11-01T17:00:00.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/YsSgua57s2iYxBemzqeS77-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/"
+    }
+   ]
+  },
+  {
+   "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
+   "summary": "Selaco: The Machines of War arrives later this month.",
+   "link": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+   "pubDate": "2026-11-01T16:46:26.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/WfcDGag9nWxtKu3VSB8pFV-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "An absolute behemoth"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/"
+    }
+   ]
+  },
+  {
+   "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
+   "summary": "But the studio says it is \"not going down without a fight\".",
+   "link": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
+   "pubDate": "2026-11-01T16:42:09.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/CKWPEHEse9cxfCAd3Kyw5Q-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/"
+    }
+   ]
+  },
   {
    "title": "Footage of a Persona 1 remake has seemingly leaked online",
    "summary": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online. Read more",
@@ -13222,6 +13333,32 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/"
+    }
+   ]
+  },
+  {
+   "title": "Robert Downey Jr. and Pedro Pascal Swap Places for Halloween With Mister Fantastic and Doctor Doom Costumes",
+   "summary": "Halloween had no shortage of viral costumes, but Robert Downey Jr. and Pedro Pascal might have taken the crown by swapping places as Mister…",
+   "link": "https://www.ign.com/articles/robert-downey-jr-and-pedro-pascal-swap-places-for-halloween-with-mister-fantastic-and-doctor-doom-costumes",
+   "pubDate": "2026-11-01T16:12:09.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/01/robert-downey-jr-and-pedro-pascal-halloween-1793549395319.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/robert-downey-jr-and-pedro-pascal-swap-places-for-halloween-with-mister-fantastic-and-doctor-doom-costumes"
     }
    ]
   },
@@ -14951,6 +15088,35 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/01/174359.html"
+    }
+   ]
+  },
+  {
+   "title": "『ロックマン：デュアル オーバーライド』4体目のボス・クックマン公開。ステージ情報も解禁",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN3cyTkhhbHExekMwS24zdEx3c3RpOVlrRENxUy05TlE5eE5iaVVodjNEQy1Mckg0OWp1QTNBd2pmdDVNMGJBdXQ4c29KRWtQLTFLcURJUW92UQ?oc=5",
+   "pubDate": "2026-11-01T07:06:00.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロックマン: デュアル オーバーライド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN3cyTkhhbHExekMwS24zdEx3c3RpOVlrRENxUy05TlE5eE5iaVVodjNEQy1Mckg0OWp1QTNBd2pmdDVNMGJBdXQ4c29KRWtQLTFLcURJUW92UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -63480,6 +63646,35 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jeEFvNWpjSnlPemhJeDh2Ry1acEZWU25EdU5zSmpTdkRoZ1F3ZWZfNVhfdUE1R1MwdlZqMlJBNXplY1B2eGo2WjR6MEJDaHJTTEpIeVhxc2V5aGYyTGpYNg?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『ドラゴンボール ゼノバース2』発売10周年！ 無料アプデ第23弾配信＆ラスト武道祭開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XajVGc0thOEs0RnFMbVliaWNzTHVJUXFPbW96M25teUFGYVNSZUlOaWtoZldmektxMklaR3dTYng2QXlTOXo3NXJaaTUyM1lyTXNubG91WGpydw?oc=5",
+   "pubDate": "2026-10-28T10:40:00.000Z",
+   "firstSeen": "2026-11-01T17:47:36.301Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラゴンボール ゼノバース2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XajVGc0thOEs0RnFMbVliaWNzTHVJUXFPbW96M25teUFGYVNSZUlOaWtoZldmektxMklaR3dTYng2QXlTOXo3NXJaaTUyM1lyTXNubG91WGpydw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -192054,204 +192249,6 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261016-474004/"
-    }
-   ]
-  },
-  {
-   "title": "観て熱くなるか、汗を流すか、血統にロマンを追うか！『パワプロ』や『Fit Boxing』などスポーツの秋に遊びたいおすすめゲーム5選【特集】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/16/189388.html",
-   "pubDate": "2026-10-16T11:30:03.000Z",
-   "firstSeen": "2026-10-16T11:47:37.356Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "パワプロ",
-    "Fit Boxing"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/16/189388.html"
-    }
-   ]
-  },
-  {
-   "title": "しまむら・アベイルで『ポケモン』グッズが10月24日発売！シルエットが可愛いキャップ、モクローの筒形ポーチなど豊富なデザイン",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/16/189387.html",
-   "pubDate": "2026-10-16T11:20:49.000Z",
-   "firstSeen": "2026-10-16T11:47:37.356Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/16/189387.html"
-    }
-   ]
-  },
-  {
-   "title": "堀井雄二氏、今話題の人生シムをプレイ。どこかの誰かの一生を体験する『80億分の1』―「けっこう長生きでした」",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/16/173708.html",
-   "pubDate": "2026-10-16T11:15:02.000Z",
-   "firstSeen": "2026-10-16T11:47:37.356Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "80億分の1"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/16/173708.html"
-    }
-   ]
-  },
-  {
-   "title": "The Live-Action Cyberpunk 2077 Movie Won't Retrace the Game's Steps, CD Projekt Confirms",
-   "summary": "CD Projekt Red has finally spoken up about the live-action Cyberpunk 2077 movie. The company said it doesn’t want to do a 1:1 adaptation of…",
-   "link": "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling",
-   "pubDate": "2026-10-16T11:13:56.000Z",
-   "firstSeen": "2026-10-16T12:47:35.876Z",
-   "image": "https://assets1.ignimgs.com/2019/10/10/2077-1570745477822.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling"
-    }
-   ]
-  },
-  {
-   "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
-   "summary": "CD Projekt Red has described its mysterious new game, which is currently known by its codename Hadar, as its \"biggest project to date\", reve…",
-   "link": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
-   "pubDate": "2026-10-16T11:09:05.000Z",
-   "firstSeen": "2026-10-16T11:47:37.356Z",
-   "image": "https://assetsio.gnwcdn.com/what-is-cdpr-hadar.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher"
-    }
-   ]
-  },
-  {
-   "title": "Switch2 / Switch本体の修理価格を11月16日に到着した修理品から改定。修理内容によっては9900円の値上げに",
-   "summary": "任天堂は，2026年11月16日に同社に到着した修理品から，NintendoSwitch2/NintendoSwitch本体の修理価格を改定すると発表した。このたびの改定は修理部品の価格高騰によるものであり，全体的に値上げする形となった。",
-   "link": "https://www.4gamer.net/games/999/G999903/20261016057/",
-   "pubDate": "2026-10-16T11:05:24.000Z",
-   "firstSeen": "2026-10-16T11:47:37.356Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 3,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/999/G999903/20261016057/"
-    }
-   ]
-  },
-  {
-   "title": "MTG's New Foundations Commander Decks Return to Online Retailers After Stock Shortages",
-   "summary": "Magic: The Gathering's new 2026 Foundations Commander decks have returned to major retailers after shortages online post-launch in early Oct…",
-   "link": "https://www.ign.com/articles/magic-the-gatherings-new-foundations-decks-back-in-stock",
-   "pubDate": "2026-10-16T11:03:56.000Z",
-   "firstSeen": "2026-10-16T12:47:35.876Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/16/foundations-new-commander-decks-ign-back-in-stock-1792148110129.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/magic-the-gatherings-new-foundations-decks-back-in-stock"
     }
    ]
   }
