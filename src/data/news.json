@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-01T19:48:04.633Z",
+ "generatedAt": "2026-11-01T20:47:54.547Z",
  "count": 6000,
  "dedupe": {
   "exact": 1199,
   "syndicated": 90,
-  "similar": 349,
-  "syndicatedTotal": 384,
+  "similar": 353,
+  "syndicatedTotal": 383,
   "syndicatedLeft": 22
  },
  "calendar": [
@@ -295,6 +295,23 @@
   {
    "date": "2026-10-19",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "SAROS",
+   "title": "『SAROS』の無料アップデート「SAROS: Zenith」が本日10月19日（月）配信開始！ 初めての方も熟練者も、遊び方がさらに広がる",
+   "link": "https://blog.ja.playstation.com/2026/10/16/20261019-saros-post-launch-update-o/",
+   "source": "PlayStation.Blog",
+   "sources": 3,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-19",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "星のカービィ",
@@ -303,22 +320,6 @@
    "source": "電ファミニコゲーマー",
    "sources": 2,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-19",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "SAROS",
-   "title": "『SAROS』無料アップデート「SAROS: Zenith」が10月19日配信！ ボスラッシュやニューゲーム＋が追加",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zZFNIbHlqbm91VXc3bm1CY0xIWVd4VjFJYTVTYzJhSk0xS05FOExkdEd3X2RhU21mdGRXSjlUMEFCRnlIR3hpS0hjNEo1Ui1wMkNyRHhPVEZoMU9LQ2JrcQ?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -464,11 +465,11 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "モンスターハンターワイルズ",
-   "title": "Switch 2版『モンスターハンターワイルズ』序盤体験版が10月20日配信開始！ ローカル通信で最大4人マルチに対応",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9adUxSbnk3dnRWM1UzVnZmYXNGeGFmdXJkR21iWGcxRW5KSVpZRTJ3R3V3QmV4ay16dnYtbTRNekxRdzEtM3dWczlpa2FTVnpKblJfODVCbEVaN2tDLVJTMw?oc=5",
-   "source": "AppBank",
-   "sources": 7,
+   "work": "モンハンワイルズ",
+   "title": "Switch2版「モンハンワイルズ」の序盤を遊べる体験版が本日配信開始。製品版へセーブデータ引き継ぎ可能",
+   "link": "https://game.watch.impress.co.jp/docs/news/2149534.html",
+   "source": "GAME Watch",
+   "sources": 10,
    "categories": [
     "release",
     "demo"
@@ -6803,6 +6804,22 @@
   {
    "date": "2026-11",
    "precision": "month",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "最終回収SQUAD",
+   "title": "高評価の巨大メカ少女FPS『最終回収SQUAD』11月に新モード追加のアップデートが配信予定！本編の前日譚&後日談ミッションも登場",
+   "link": "http://www.gamespark.jp/article/2026/10/16/173721.html",
+   "source": "Game*Spark",
+   "sources": 2,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": "ポケモン",
@@ -10851,6 +10868,25 @@
   {
    "date": "2026-12-04",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "モンハンワイルズ",
+   "title": "カプコン、12月4日に発売予定のSwitch 2向け『モンスターハンターワイルズ』の序盤体験版を配信開始 ローカル通信でのマルチプレイにも対応",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FZnYxSTJ2OG8ybnNoSERCYVRDVnRzQU5GR3ZTMnZreTA3MjRwSDJNRjBXTDBIalNRTDlZZXFTRmFkMFU0?oc=5",
+   "source": "gamebiz【ゲームビズ】",
+   "sources": 2,
+   "categories": [
+    "release",
+    "demo"
+   ],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -10951,25 +10987,6 @@
   {
    "date": "2026-12-04",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "モンスターハンターワイルズ",
-   "title": "カプコン、12月4日に発売予定のSwitch 2向け『モンスターハンターワイルズ』の序盤体験版を配信開始 ローカル通信でのマルチプレイにも対応",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FZnYxSTJ2OG8ybnNoSERCYVRDVnRzQU5GR3ZTMnZreTA3MjRwSDJNRjBXTDBIalNRTDlZZXFTRmFkMFU0?oc=5",
-   "source": "gamebiz【ゲームビズ】",
-   "sources": 1,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "platforms": [
-    "switch2"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-04",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Dumpster Gang",
@@ -11019,7 +11036,7 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "モンスターハンターワイルズ",
+   "work": "モンハンワイルズ",
    "title": "Switch 2版『モンハンワイルズ』が12月6日発売。事前予約なら14%OFF",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wRW5JTjVJZ2NhUU44WWZYdVF4Wl9BeXRMMDJVOWp1czRHOGc4cTdwOE1ndUtOclBBSVhZOXR0WlRCdXlrdHpwaW9HSjVieU9JUG5UTUVjVDdnSS1GcVdVRTl1d09fcDRNNHYzQnAwallIblpkM2Q1UA?oc=5",
    "source": "Gizmodo",
@@ -13009,7 +13026,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 733,
+   "archived": 734,
    "accepted": 374
   },
   {
@@ -13019,9 +13036,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 88,
-   "archived": 496,
-   "accepted": 467
+   "fetched": 100,
+   "archived": 498,
+   "accepted": 469
   },
   {
    "id": "gnews-switch2",
@@ -13031,8 +13048,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1327,
-   "accepted": 1162
+   "archived": 1328,
+   "accepted": 1163
   },
   {
    "id": "gnews-ps5",
@@ -13042,8 +13059,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 655,
-   "accepted": 596
+   "archived": 653,
+   "accepted": 594
   },
   {
    "id": "gnews-update",
@@ -13052,9 +13069,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 426,
-   "accepted": 338
+   "fetched": 81,
+   "archived": 424,
+   "accepted": 336
   },
   {
    "id": "prtimes",
@@ -13064,8 +13081,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24768,
-   "accepted": 453
+   "archived": 24728,
+   "accepted": 452
   },
   {
    "id": "gematsu",
@@ -13086,8 +13103,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1235,
-   "accepted": 1235
+   "archived": 1233,
+   "accepted": 1233
   },
   {
    "id": "eurogamer",
@@ -13890,6 +13907,35 @@
    ]
   },
   {
+   "title": "Nintendo Switch 2 Liteは7.1インチ画面を搭載か 価格は299ドルとの情報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40SzZ1azUtQjRhWk9OUFc1VGtIdUhrUU1iTEFMZnQ3d2dkd2tKN1laRW5XLUJVRjVDWnRENnI1WUl6QXF4Uk1GMg?oc=5",
+   "pubDate": "2026-11-01T13:09:00.000Z",
+   "firstSeen": "2026-11-01T20:47:35.821Z",
+   "image": null,
+   "source": "スマホダイジェスト",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スマホダイジェスト",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40SzZ1azUtQjRhWk9OUFc1VGtIdUhrUU1iTEFMZnQ3d2dkd2tKN1laRW5XLUJVRjVDWnRENnI1WUl6QXF4Uk1GMg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "犯人になって孤島にターゲットをおびき出すミステリーアドベンチャー『犯人はメイド』。殺す相手に送る招待状を自作したら地獄の怪文書が生まれた【東京ゲームダンジョン14】",
    "summary": "怪文書に釣られて個性強すぎな被害者予備軍が集結。 へんな人たちにつっこんでいるうちに自分も正気を失ってしまったプレイレポ",
    "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101p",
@@ -13998,6 +14044,12 @@
      "name": "にじめん",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJZUpXVkl4Z2ZERzRRTG1QeU04MlJEN191WmFraUQ4UUE0TTdpOTlXbU5jaEcxT3dSYl9sbUJBQk1jdjBCY1d1aGZKbG1PQUZUdjFkUThITQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xdjdQWHNadnJaQnBtMm5wZFFLTldDTjRwVUlHSkFkWHlweTdnNlphWDUzdlRVeW9FVS1vSnlSakRpU2NwaGdRQkhzV0lhNHlJS0h1WnoxWXdOd1hHQWlUcG5kQzZVMlMzN2ZTMnB2TQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
@@ -31748,7 +31800,7 @@
    "firstSeen": "2026-11-01T11:47:31.570Z",
    "image": null,
    "source": "コーエーテクモゲームス",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -31763,9 +31815,9 @@
    "sources": [
     {
      "name": "コーエーテクモゲームス",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92b2FJRDBibG9PU0ZRUWtvWmM0UzhUdzh5U1VDQkdiazFsanB0Mk5sXzVwSndqSDZDWXlNUnVMekR1YWFPbUNhbXJtX0Uzc2pKX0E?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -44759,7 +44811,7 @@
    ],
    "works": [
     "ドラゴンズドグマ 2:ダークアリズン",
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -52815,7 +52867,7 @@
    ],
    "works": [
     "ドラゴンズドグマ 2:ダークアリズン",
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -66148,7 +66200,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "モンスターハンターワイルズ",
+    "モンハンワイルズ",
     "Forza Horizon 6"
    ],
    "spoiler": false,
@@ -127490,7 +127542,7 @@
    ],
    "works": [
     "スーパーダンガンロンパ2×2",
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -137349,7 +137401,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -145260,7 +145312,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -153446,7 +153498,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -163348,37 +163400,6 @@
    ]
   },
   {
-   "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SczkyMXp2OXB5dWNxdFFSRjBzNk1ISUp5UEhUZUpKcTRDdjI2anJabmVWeUhNdTlQemhrLWg2cGVXTlFTenlzc1pVb1doRGJSdThOcXlSV0ZWa2FrY2lSN3FDNA?oc=5",
-   "pubDate": "2026-10-20T06:00:58.000Z",
-   "firstSeen": "2026-10-20T06:47:34.637Z",
-   "image": null,
-   "source": "CAPCOM",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "モンスターハンターワイルズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CAPCOM",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SczkyMXp2OXB5dWNxdFFSRjBzNk1ISUp5UEhUZUpKcTRDdjI2anJabmVWeUhNdTlQemhrLWg2cGVXTlFTenlzc1pVb1doRGJSdThOcXlSV0ZWa2FrY2lSN3FDNA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
    "title": "GUが「Honda」とコラボ！80～90年代モトクロスレーサーのユニフォームやCRシリーズをモチーフにしたコレクション",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/10/20/189555.html",
@@ -164427,40 +164448,6 @@
    ]
   },
   {
-   "title": "『モンスターハンターワイルズ』Switch 2の序盤体験版を配信開始！ローカル通信で最大4人、製品版への引き継ぎにも対応",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxUGNKNktXSnp0RUl2VUhVbHdDZXhqOFFyUlU1X1RHc1ZidVNfdXB3UW9NOXc1MWlTZ2VVQ0RKcjY4VnB0eThz?oc=5",
-   "pubDate": "2026-10-20T04:50:09.000Z",
-   "firstSeen": "2026-10-20T23:47:41.166Z",
-   "image": null,
-   "source": "https://gamerszone.jp/",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "モンスターハンターワイルズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "https://gamerszone.jp/",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxUGNKNktXSnp0RUl2VUhVbHdDZXhqOFFyUlU1X1RHc1ZidVNfdXB3UW9NOXc1MWlTZ2VVQ0RKcjY4VnB0eThz?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
    "title": "『MR. RECORDS』体験版がアップデート！ 自作の「遊べるレコード」を作れるレベルエディターを搭載",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RUG11UGFZSXNIYTd5R245YUtLR00yT0Zkem1xUGJjdkNkVTl3LUlHQjJWRmJHMWEtS3FGV0txcjdnWFZSdW0xU2NxYnJmMk5jcTFkRDBjaktjRllkZjdabw?oc=5",
@@ -164932,7 +164919,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -165368,7 +165355,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -166043,7 +166030,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -166051,46 +166038,6 @@
      "name": "電撃オンライン",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WkhhTTdRYTdHSG8zSkVjMTFTWDA2eUp3N0xGdVRCWjFHMUYtQm9yTm1lU3FCT0NzTWpidHdaNURZeE5pTC1FY3lPTXRObGhFNEU4cDVnTkpLZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『モンスターハンターワイルズ』Switch2向け体験版が配信開始！セーブデータは製品版へ引継ぎ可能！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82S09acVFzSEViS0k3LVNyQkZoZVp4N1BzVDRuQTRRdHVETDBWZEtuQ1hjSFZtYmtCU21vdzdBUXhyQ1RobkRzLVR2WlJTSW1mRUg3SUl4Z0NsNXc?oc=5",
-   "pubDate": "2026-10-20T03:18:32.000Z",
-   "firstSeen": "2026-10-20T05:47:37.215Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "モンスターハンターワイルズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82S09acVFzSEViS0k3LVNyQkZoZVp4N1BzVDRuQTRRdHVETDBWZEtuQ1hjSFZtYmtCU21vdzdBUXhyQ1RobkRzLVR2WlJTSW1mRUg3SUl4Z0NsNXc?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    },
-    {
-     "name": "Saiga NAK",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTUlYNW5UMHh4eUpFRmlwVkZBME1SQlFpWFoxY1BGRURVbE1uVWlYTmR0eXA0T0hhZXc3OXpaRzUzWmFfRmU1WUczZVhVR3RFbWpaRFlubWFDQVZBbDdNRk9QX0o3TzBVQ2o4NnVkaGNKODVabDBFaEJBdGvSAYIBQVVfeXFMTjAxRUJELWkwQ2FqQ2h6ZG8tTHlEVllzS2ZuazRHN2Vja0k4bFZ2SUhSQTFyTDFwUU94VFBhNzViaEFhU2FIeXRKcXowLVFCX2puVlg0QWh4WnpxOXFybGVwMGFMVmhKZ01TSzA3MXdpRjIxU0lwdXY2VVhhQzd0UzIwQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -167033,39 +166980,6 @@
    ]
   },
   {
-   "title": "Switch2版「モンスターハンターワイルズ」の序盤をプレイできる体験版が配信！ローカル通信に対応＆セーブデータは製品版に引き継ぎ可能",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zZHotU3BLbVB2ZXJVR3lrdmJYR2pqT3VDUl81Sm5qWE91MzlSUkpCZDN1NHRJdXp2U1Q3dGhwaFg0aTJSeFlLaVltaGoyenN6N2xKWg?oc=5",
-   "pubDate": "2026-10-20T02:16:00.000Z",
-   "firstSeen": "2026-10-20T02:47:37.431Z",
-   "image": null,
-   "source": "Gamer",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "モンスターハンターワイルズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gamer",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zZHotU3BLbVB2ZXJVR3lrdmJYR2pqT3VDUl81Sm5qWE91MzlSUkpCZDN1NHRJdXp2U1Q3dGhwaFg0aTJSeFlLaVltaGoyenN6N2xKWg?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
    "title": "「ミスド」×『ポケモン』2026年はアローラディグダ！ヤドンのドーナツが初登場、歴代のコラボポケモンが大集合したグッズを用意",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/10/20/189539.html",
@@ -167263,7 +167177,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -167349,7 +167263,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -167362,6 +167276,24 @@
      "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSF9WaGZRd1pFRllVcjZWOENCWWRmZEJBSmYtejFvQUhVMFR3UDkybWVaTVBXVktxdjJoWUc2UTk0RkNORzNCQ3ZQWHhuN0JpNWdXQjdYcHIxRzBkZ3htblhHLTRhWExhZUE5aFY4NHNhZWJnVGxxellWb05zNnJQMTdrOGlYdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zZHotU3BLbVB2ZXJVR3lrdmJYR2pqT3VDUl81Sm5qWE91MzlSUkpCZDN1NHRJdXp2U1Q3dGhwaFg0aTJSeFlLaVltaGoyenN6N2xKWg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82S09acVFzSEViS0k3LVNyQkZoZVp4N1BzVDRuQTRRdHVETDBWZEtuQ1hjSFZtYmtCU21vdzdBUXhyQ1RobkRzLVR2WlJTSW1mRUg3SUl4Z0NsNXc?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "Saiga NAK",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTUlYNW5UMHh4eUpFRmlwVkZBME1SQlFpWFoxY1BGRURVbE1uVWlYTmR0eXA0T0hhZXc3OXpaRzUzWmFfRmU1WUczZVhVR3RFbWpaRFlubWFDQVZBbDdNRk9QX0o3TzBVQ2o4NnVkaGNKODVabDBFaEJBdGvSAYIBQVVfeXFMTjAxRUJELWkwQ2FqQ2h6ZG8tTHlEVllzS2ZuazRHN2Vja0k4bFZ2SUhSQTFyTDFwUU94VFBhNzViaEFhU2FIeXRKcXowLVFCX2puVlg0QWh4WnpxOXFybGVwMGFMVmhKZ01TSzA3MXdpRjIxU0lwdXY2VVhhQzd0UzIwQQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
@@ -167451,7 +167383,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -167651,7 +167583,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -168203,7 +168135,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -168211,6 +168143,12 @@
      "name": "gamebiz【ゲームビズ】",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FZnYxSTJ2OG8ybnNoSERCYVRDVnRzQU5GR3ZTMnZreTA3MjRwSDJNRjBXTDBIalNRTDlZZXFTRmFkMFU0?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "https://gamerszone.jp/",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxUGNKNktXSnp0RUl2VUhVbHdDZXhqOFFyUlU1X1RHc1ZidVNfdXB3UW9NOXc1MWlTZ2VVQ0RKcjY4VnB0eThz?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -168485,13 +168423,13 @@
    ]
   },
   {
-   "title": "Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』が配信開始",
+   "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tbmdXU2F1eThZX2wxZWZvLVlla0wxUnJQZXFGYUNLTXJhX0hsOUtUWFZHS3FZQ1RuSXo3MWViUXFEZmMtRmZtRU00UEtRd3U0QlMyd1NTZ1Eydw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SczkyMXp2OXB5dWNxdFFSRjBzNk1ISUp5UEhUZUpKcTRDdjI2anJabmVWeUhNdTlQemhrLWg2cGVXTlFTenlzc1pVb1doRGJSdThOcXlSV0ZWa2FrY2lSN3FDNA?oc=5",
    "pubDate": "2026-10-20T00:03:12.000Z",
-   "firstSeen": "2026-10-20T09:47:37.000Z",
+   "firstSeen": "2026-10-20T06:47:34.637Z",
    "image": null,
-   "source": "電ファミニコゲーマー",
+   "source": "CAPCOM",
    "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
@@ -168507,11 +168445,17 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ 序盤体験版",
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ",
+    "モンスターハンターワイルズ 序盤体験版"
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "CAPCOM",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SczkyMXp2OXB5dWNxdFFSRjBzNk1ISUp5UEhUZUpKcTRDdjI2anJabmVWeUhNdTlQemhrLWg2cGVXTlFTenlzc1pVb1doRGJSdThOcXlSV0ZWa2FrY2lSN3FDNA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
     {
      "name": "電ファミニコゲーマー",
      "sourceId": "gnews-switch2",
@@ -185244,7 +185188,7 @@
     "switch2"
    ],
    "works": [
-    "モンスターハンターワイルズ"
+    "モンハンワイルズ"
    ],
    "spoiler": false,
    "sources": [
@@ -192186,6 +192130,108 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-hands-on-preview"
+    }
+   ]
+  },
+  {
+   "title": "高評価の巨大メカ少女FPS『最終回収SQUAD』11月に新モード追加のアップデートが配信予定！本編の前日譚&後日談ミッションも登場",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/16/173721.html",
+   "pubDate": "2026-10-16T12:00:00.000Z",
+   "firstSeen": "2026-10-16T14:47:40.557Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "最終回収SQUAD"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/16/173721.html"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Rd0prb1B2MHMxV3BXQlA2VnUxelp6UWNIcnBjUHp3clFyZ0tuZUhQd3VOajFsbkdUX3dudmxIbnJVSmdTa0ZyLUNqWEtwblJCTk85SnhKVldob1dlZDFiRFRIdUF5dmdkQk5MVk1R?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『SAROS』の無料アップデート「SAROS: Zenith」が本日10月19日（月）配信開始！ 初めての方も熟練者も、遊び方がさらに広がる",
+   "summary": "『SAROS』の無料アップデート「SAROS: Zenith」が本日10月19日（月）配信開始！ ボスラッシュモード“オーバーロード・ラッシュ”や、ニューゲーム＋“エクリプス・レイヤー”が登場。新たなモディファイアやアクセシビリティ機能も追加され、遊び方がさらに広がる！",
+   "link": "https://blog.ja.playstation.com/2026/10/16/20261019-saros-post-launch-update-o/",
+   "pubDate": "2026-10-16T12:00:00.000Z",
+   "firstSeen": "2026-10-19T12:47:39.184Z",
+   "image": "https://blog.ja.playstation.com/tachyon/sites/7/2026/10/bed9fe5718976de570ffcdb2b550ed58ceaee8c5-scaled.jpg?fit=1024%2C1024",
+   "source": "PlayStation.Blog",
+   "sourceId": "ps-blog",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SAROS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PlayStation.Blog",
+     "sourceId": "ps-blog",
+     "link": "https://blog.ja.playstation.com/2026/10/16/20261019-saros-post-launch-update-o/"
+    },
+    {
+     "name": "PlayStation.Blog 日本語",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXJ3a1FDQUJ4UUZyNHlvZUNCNlRVaXIyYzFaSXNqYjBlUkFxdm5lWUpuUlBpUlBYUTNhYkk0RjVKRE83d1IzRnRtNEVldERLRGJNZnpsZm1CdDd5NGQwMjVaSVUyMVp3YzB1cUJJRk1FWTRFTUZ3dUxpS3NIcU92Rk5kLWtzQQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "【無料】アニメ『カードキャプターさくら クリアカード編』YouTubeにて期間限定配信中。さくらのあつめたカードが突然“透明”に",
+   "summary": "中学生になったさくらは、友枝町で相次ぐ不思議な出来事に遭遇し、夢で出会った「鍵」に導かれていく。配信期間は11月16日まで",
+   "link": "https://news.denfaminicogamer.jp/news/2610162v",
+   "pubDate": "2026-10-16T11:59:03.000Z",
+   "firstSeen": "2026-10-16T12:47:35.876Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUuINtwagAALNMn-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カードキャプターさくら クリアカード編"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610162v"
     }
    ]
   }
