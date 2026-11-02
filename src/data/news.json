@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-02T03:48:06.340Z",
+ "generatedAt": "2026-11-02T04:47:58.280Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1207,
+  "exact": 1213,
   "syndicated": 92,
   "similar": 353,
   "syndicatedTotal": 391,
@@ -6762,6 +6762,25 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "11月発売のPS5®/PS4®注目ソフトはこれだ！【今月のおすすめ新作ガイド】",
+   "link": "https://blog.ja.playstation.com/2026/11/02/20261102-monthly-picks-s/",
+   "source": "PlayStation.Blog",
+   "sources": 2,
+   "categories": [
+    "new"
+   ],
+   "platforms": [
+    "ps5",
+    "ps4"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
    "work": "ドラクエ",
    "title": "『ドラクエ』×「ギルティ炭酸 NOPE」コラボ！ダラダラ過ごすモンスター描く全4種ラベルが11月下旬発売",
    "link": "https://www.inside-games.jp/article/2026/10/26/189840.html",
@@ -10271,6 +10290,22 @@
   {
    "date": "2026-12",
    "precision": "month",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「Warframe」，史上最大規模のアップデート「Warframe: Tau」を12月に無料配信。新たな星系「Tau」や新WARFRAME「Brysko」が登場",
+   "link": "https://www.4gamer.net/games/172/G017216/20261102011/",
+   "source": "4Gamer.net（スマホ）",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -13015,8 +13050,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 974,
-   "accepted": 948
+   "archived": 976,
+   "accepted": 950
   },
   {
    "id": "4gamer-sp",
@@ -13026,8 +13061,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 226,
-   "accepted": 218
+   "archived": 228,
+   "accepted": 220
   },
   {
    "id": "automaton",
@@ -13037,8 +13072,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 558,
-   "accepted": 551
+   "archived": 559,
+   "accepted": 552
   },
   {
    "id": "denfaminico",
@@ -13048,8 +13083,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1217,
-   "accepted": 1078
+   "archived": 1219,
+   "accepted": 1079
   },
   {
    "id": "gamewatch",
@@ -13060,7 +13095,7 @@
    "error": null,
    "fetched": 29,
    "archived": 623,
-   "accepted": 585
+   "accepted": 586
   },
   {
    "id": "gamespark",
@@ -13070,8 +13105,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1269,
-   "accepted": 1255
+   "archived": 1268,
+   "accepted": 1254
   },
   {
    "id": "inside-games",
@@ -13081,8 +13116,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1533,
-   "accepted": 1138
+   "archived": 1536,
+   "accepted": 1141
   },
   {
    "id": "ps-blog",
@@ -13092,8 +13127,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 29,
-   "accepted": 29
+   "archived": 30,
+   "accepted": 30
   },
   {
    "id": "xbox-wire",
@@ -13114,8 +13149,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 122,
-   "accepted": 81
+   "archived": 124,
+   "accepted": 83
   },
   {
    "id": "gnews-famitsu",
@@ -13125,8 +13160,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 704,
-   "accepted": 563
+   "archived": 702,
+   "accepted": 560
   },
   {
    "id": "gnews-dengeki",
@@ -13136,8 +13171,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 737,
-   "accepted": 376
+   "archived": 736,
+   "accepted": 375
   },
   {
    "id": "gnews-newgame",
@@ -13147,8 +13182,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 500,
-   "accepted": 471
+   "archived": 501,
+   "accepted": 472
   },
   {
    "id": "gnews-switch2",
@@ -13158,8 +13193,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1334,
-   "accepted": 1168
+   "archived": 1336,
+   "accepted": 1170
   },
   {
    "id": "gnews-ps5",
@@ -13169,8 +13204,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 658,
-   "accepted": 599
+   "archived": 663,
+   "accepted": 604
   },
   {
    "id": "gnews-update",
@@ -13179,9 +13214,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 427,
-   "accepted": 339
+   "fetched": 77,
+   "archived": 426,
+   "accepted": 338
   },
   {
    "id": "prtimes",
@@ -13191,7 +13226,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24890,
+   "archived": 24942,
    "accepted": 452
   },
   {
@@ -13213,8 +13248,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1232,
-   "accepted": 1232
+   "archived": 1233,
+   "accepted": 1233
   },
   {
    "id": "eurogamer",
@@ -13246,8 +13281,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 313,
-   "accepted": 313
+   "archived": 312,
+   "accepted": 312
   },
   {
    "id": "pcgamer",
@@ -13257,11 +13292,572 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 583,
-   "accepted": 583
+   "archived": 584,
+   "accepted": 584
   }
  ],
  "items": [
+  {
+   "title": "ダンジョン探索×パン屋経営アクションRPG『Aeruta（アルタ）』Nintendo Switch™ / PS5®用パッケージ版の発売日を12月24日(木)へ延期のお知らせとお詫び",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZ0VvNWRMNUJ2OTc4OERuc0RtQk5KWGptODZjdU96S0pnbzZkQ05taEdkMW14QkhDUHFlVHkzdnlSMDR1dDRNSWtpWGZwY2tHWUV4dVVuOUVNUFk1MzNfOXFNSnZueDRhNWc?oc=5",
+   "pubDate": "2026-11-02T04:34:27.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 30,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5"
+   ],
+   "works": [
+    "Aeruta(アルタ)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZ0VvNWRMNUJ2OTc4OERuc0RtQk5KWGptODZjdU96S0pnbzZkQ05taEdkMW14QkhDUHFlVHkzdnlSMDR1dDRNSWtpWGZwY2tHWUV4dVVuOUVNUFk1MzNfOXFNSnZueDRhNWc?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "「Warframe」，史上最大規模のアップデート「Warframe: Tau」を12月に無料配信。新たな星系「Tau」や新WARFRAME「Brysko」が登場",
+   "summary": "DigitalExtremesは2026年10月31日，「Warframe」のアップデート「Warframe:Tau」を12月に全プラットフォームに無料配信すると発表した。今回は新たな星系「Tau」や67体目となる新WARFRAME「Brysko」などが実装される。",
+   "link": "https://www.4gamer.net/games/172/G017216/20261102011/",
+   "pubDate": "2026-11-02T04:32:18.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/172/G017216/20261102011/"
+    }
+   ]
+  },
+  {
+   "title": "『時のオカリナ』リメイク版へのファンの反応に、青沼プロデューサーが「不安」を吐露",
+   "summary": "プレイするのが待ちきれない！ 任天堂で長年にわたり「ゼルダの伝説」シリーズのプロデューサーを務める青沼英二は、1998年の金字塔『ゼルダの伝説 時のオカリナ』の待望となるリメイク版の発売を控え、準備を進めている。これほど多くの年月を重ね、数々の「ゼルダ」作品を手がけてきた彼にとっ…",
+   "link": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84538/",
+   "pubDate": "2026-11-02T04:31:24.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://sm.ign.com/ign_jp/cover/t/the-legend/the-legend-of-zelda-ocarina-of-time_h2pq.jpg",
+   "source": "IGN Japan",
+   "sourceId": "ign-jp",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "時のオカリナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN Japan",
+     "sourceId": "ign-jp",
+     "link": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84538/"
+    }
+   ]
+  },
+  {
+   "title": "「楽天ブックス」、Nintendo Switch ソフト『Pokemon LEGENDS Z-A』と Nintendo Switch 2ソフト『ぽこ あ ポケモン』をテーマとしたキャンペーンを本日開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PZ3RkR3RTRC1BRGI3b1hhS1VSeWh4dEdFZmg2bmxnTWt0UzVKRENfZWdvbEdkQWczYV9sc2dNYkd4UlhaTVhSZGM2VWI1clRMdkpWMHdXLUg1LVJwV1pkWlNsbTZHN2F4T3c?oc=5",
+   "pubDate": "2026-11-02T04:31:21.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [
+    "Pokemon LEGENDS Z-A",
+    "ぽこ あ ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PZ3RkR3RTRC1BRGI3b1hhS1VSeWh4dEdFZmg2bmxnTWt0UzVKRENfZWdvbEdkQWczYV9sc2dNYkd4UlhaTVhSZGM2VWI1clRMdkpWMHdXLUg1LVJwV1pkWlNsbTZHN2F4T3c?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "最大8人プレイの“クトゥルフ神話”お絵描きゲーム『ミスカトニック大学美術部』のiOS版が配信開始。ネクロノミコンに記載された“神話生物”の描写から挿絵を描いて当て合う",
+   "summary": "「名状しがたいものが幾筋もはみ出してうごめいている」などの描写から“神話生物”の挿絵を描いて当て合おう。Steam、Androidとのクロスプレイにも対応",
+   "link": "https://news.denfaminicogamer.jp/news/261102n",
+   "pubDate": "2026-11-02T04:30:38.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/209ddf926d5480bc6026ea90de5cb76d-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc",
+    "mobile"
+   ],
+   "works": [
+    "ミスカトニック大学美術部"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261102n"
+    }
+   ]
+  },
+  {
+   "title": "「ロックマン：デュアル オーバーライド」，新ボス「クックマン」を公開。料理とカンフーを融合させた格闘スタイルが特徴",
+   "summary": "カプコンは，2027年春発売予定のアクションゲーム「ロックマン：デュアルオーバーライド」に登場する新たなボスキャラクター「クックマン」を公開した。料理とカンフーを組み合わせた独自のスタイルを持つロボットで，巨大な厨房を舞台にしたステージも紹介されている。",
+   "link": "https://www.4gamer.net/games/968/G096894/20261102012/",
+   "pubDate": "2026-11-02T04:27:19.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 11,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/968/G096894/20261102012/"
+    }
+   ]
+  },
+  {
+   "title": "5×7マスでスキルを組み合わせて戦うローグライクアクションゲーム『カートリッジサバイバーズ』試遊レポート。攻撃よりも“逃げるルート”を計算しながら立ち回る難しさがクセになる【東京ゲームダンジョン14】",
+   "summary": "左右から敵の波！狭いエリアと上下左右の移動制限で生き残るために脳がフル回転",
+   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261102q",
+   "pubDate": "2026-11-02T04:23:30.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/20261031_153350.mp4_snapshot_04.50.299-1024x593.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カートリッジサバイバーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261102q"
+    }
+   ]
+  },
+  {
+   "title": "「ストリートファイター／ザ・ムービー」、全米で大ヒット。週間興行収入ランキング1位獲得全世界週間興行収入は約6,354万ドル（約100億2,800万円）",
+   "summary": "カプコンは、10月16日に公開した映画「ストリートファイター／ザ・ムービー」が、全米の週間興行収入において約3,834万ドルを記録し、週間ランキング第1位を獲得したことを発表した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2153062.html",
+   "pubDate": "2026-11-02T04:20:50.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 3,
+   "categories": [
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2153062.html"
+    }
+   ]
+  },
+  {
+   "title": "怖がりの底辺ストリーマーに指示しまくるホラーゲーム「リスナーさん、あっちに行きましょうか？」，デモ版を配信中",
+   "summary": "個人ゲーム開発者のakarolls氏は，日本語対応のPCゲーム「リスナーさん、あっちに行きましょうか？」のデモ版をSteamで配信している。本作は，作中で流行しているゲーム「バックルームラン」で遊ぶ，底辺ストリーマー「SIA」の視聴者になるホラーゲームだ。",
+   "link": "https://www.4gamer.net/games/054/G105481/20261102010/",
+   "pubDate": "2026-11-02T04:16:07.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "リスナーさん、あっちに行きましょうか?"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/054/G105481/20261102010/"
+    }
+   ]
+  },
+  {
+   "title": "『ファイアーエムブレム 万紫千紅』レビュー、これは「ファイアーエムブレム」の満漢全席！",
+   "summary": "シリーズの可能性を過剰なまでに追求した、巨大でいびつな集大成 『ファイアーエムブレム 万紫千紅』は、これまでのシリーズが培ってきた要素をあますところなく取り入れた、いわば「ファイアーエムブレム」の満漢全席とでもいうべき集大成である。 手強いマップを攻略するシミュレーションRPGと…",
+   "link": "https://jp.ign.com/fire-emblem-fortunes-weave/84535/",
+   "pubDate": "2026-11-02T04:15:09.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://sm.ign.com/ign_jp/photo/default/screenshot-19824-1789531647050_vyu7.jpg",
+   "source": "IGN Japan",
+   "sourceId": "ign-jp",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ファイアーエムブレム 万紫千紅"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN Japan",
+     "sourceId": "ign-jp",
+     "link": "https://jp.ign.com/fire-emblem-fortunes-weave/84535/"
+    }
+   ]
+  },
+  {
+   "title": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer",
+   "summary": "The best thing about HeroQuest...",
+   "link": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/",
+   "pubDate": "2026-11-02T04:12:30.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/gLqAa4wPnkvgeuhZLy2Dyj-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/"
+    }
+   ]
+  },
+  {
+   "title": "「学園アイドルマスター ウエハース4」が発売！アイドル達の描き下ろしは「バニラクリーム」をイメージした新衣装",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/02/190235.html",
+   "pubDate": "2026-11-02T04:10:03.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/02/190235.html"
+    }
+   ]
+  },
+  {
+   "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
+   "summary": "VRChat社は10月29日、「AI生成」というラベルや、AI生成コンテンツを除外する検索フィルターを追加する予定はないことを明らかにした。この決定に対してユーザーからの反発が相次いでいる。",
+   "link": "https://automaton-media.com/articles/newsjp/20261102-477090/",
+   "pubDate": "2026-11-02T04:05:33.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477090-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "review",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "VRChat"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261102-477090/"
+    }
+   ]
+  },
+  {
+   "title": "11月発売のPS5®/PS4®注目ソフトはこれだ！【今月のおすすめ新作ガイド】",
+   "summary": "11月発売予定のPlayStation®5/PlayStation®4用ソフトウェアから、おすすめタイトルをピックアップ！ 注目ポイントをいまからチェックしておこう！ 【INDEX】俺だけレベルアップな件：ARISE O […]",
+   "link": "https://blog.ja.playstation.com/2026/11/02/20261102-monthly-picks-s/",
+   "pubDate": "2026-11-02T04:00:00.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://blog.ja.playstation.com/tachyon/sites/7/2026/11/1d954da74d9cbee466c3fe388228cea01f257718.jpg",
+   "source": "PlayStation.Blog",
+   "sourceId": "ps-blog",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 17,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "ps4"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PlayStation.Blog",
+     "sourceId": "ps-blog",
+     "link": "https://blog.ja.playstation.com/2026/11/02/20261102-monthly-picks-s/"
+    },
+    {
+     "name": "PlayStation.Blog 日本語",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lYWhSTkw1bVFLZVlaeXJFcDJCQ183eEgwRl9pcDZPeGNUTF9XMVlVajJzTFlLcTVsQngydVBVSjFDcmdMczhtY2VvQXI4dFh5MF91RUVIZjZxT05BX2ZFeVYwQ0JLbFBfcWFIckhVdUFyTlJZRUE4?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "“光”が大事なドット絵ホラー『Asleep: Act 1』がSteamで無料配布中。「非常に好評」な作品",
+   "summary": "CriticalLeapは10月31日、Black Hole Gamesが手がけるホラーゲーム『Asleep: Act 1』の無料配布を開始した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261102-477084/",
+   "pubDate": "2026-11-02T03:58:31.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477084-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": null,
+    "free": true
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Asleep: Act 1"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261102-477084/"
+    }
+   ]
+  },
+  {
+   "title": "名越スタジオが解散。昨年『GANG OF DRAGON』を発表するも、ネットイースからの資金提供が停止。開発継続が不安視される状況で",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aZ3E2Wk1jRU56SUgtWVJNMm85WjhTby1JdGRsMjhDTlR1ZTdSUTlUbnpSVWFGcEVLR25pRXpxUnBhSFpVTkV4MEpaUGxlSjVNdV9HaFpvZw?oc=5",
+   "pubDate": "2026-11-02T03:50:00.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GANG OF DRAGON"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aZ3E2Wk1jRU56SUgtWVJNMm85WjhTby1JdGRsMjhDTlR1ZTdSUTlUbnpSVWFGcEVLR25pRXpxUnBhSFpVTkV4MEpaUGxlSjVNdV9HaFpvZw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
+   "title": "「フォートナイト」に“麦わらの一味”が参戦！ 「ONE PIECE」をはじめ，さまざまなコラボキャラが登場するミニシーズンが開幕",
+   "summary": "EpicGamesは2026年11月1日，同社がサービス中のバトルロイヤルゲーム「フォートナイト」にて，「ONEPIECE」などのキャラクターが登場するミニシーズン「トレジャーハンターズ」を開始した。合わせて，「フォートナイト」のキャラが出演するアニメーション映像も公開されている…",
+   "link": "https://www.4gamer.net/games/144/G014484/20261102008/",
+   "pubDate": "2026-11-02T03:47:52.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "update",
+    "trailer",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/144/G014484/20261102008/"
+    }
+   ]
+  },
+  {
+   "title": "『Phantom Blade Zero』発売からわずか3日で累計販売本数400万本を突破！Steam最高同接数が約83万人に増加",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZEozTDRxWm02QWxNNE1SVWZsRTBiV2J6ZkJyOGxkUVRaNmNtR3l5OGluRXpadHk3NVBfMDVzQlJlelkxUmJudmJIQ0VhakpTNTVHNGJmWVRONTA?oc=5",
+   "pubDate": "2026-11-02T03:47:40.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Phantom Blade Zero"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZEozTDRxWm02QWxNNE1SVWZsRTBiV2J6ZkJyOGxkUVRaNmNtR3l5OGluRXpadHk3NVBfMDVzQlJlelkxUmJudmJIQ0VhakpTNTVHNGJmWVRONTA?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
   {
    "title": "【無料】もし流行作『80億分の1』で死んだあとに異世界転生できたら？非公式ファン作品『80億分の、2回目』公開中―古竜や看板猫、剣の刺さった岩にも転生",
    "summary": "",
@@ -13379,6 +13975,32 @@
    ]
   },
   {
+   "title": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series",
+   "summary": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series",
+   "link": "https://www.ign.com/articles/dave-bautista-reveals-hes-gained-20-pounds-of-muscle-to-play-kratos-in-the-god-of-war-series",
+   "pubDate": "2026-11-02T03:37:04.000Z",
+   "firstSeen": "2026-11-02T04:47:37.513Z",
+   "image": "https://assets-prd.ignimgs.com/2026/08/03/dave-bautista-1785790032895.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/dave-bautista-reveals-hes-gained-20-pounds-of-muscle-to-play-kratos-in-the-god-of-war-series"
+    }
+   ]
+  },
+  {
    "title": "父と娘，2人で世界旅行。地理探索SLG「パパさ、旅系インフルエンサーで食っていこうと思っているんだ。」，体験版をSteamで公開中",
    "summary": "HataGamesは2026年10月30日，PC用ソフト「パパさ、旅系インフルエンサーで食っていこうと思っているんだ。」の体験版をSteamで公開した。本作は，世界に実在する観光地や歴史的遺産を舞台にした，GeoGuessrライクな地理探索シミュレーションゲームだ。",
    "link": "https://www.4gamer.net/games/054/G105476/20261102003/",
@@ -13409,8 +14031,8 @@
    ]
   },
   {
-   "title": "『名越スタジオ』解散。本日11月2日発行の官報によって判明",
-   "summary": "『名越スタジオ』解散。本日11月2日発行の官報によって判明",
+   "title": "「名越スタジオ」が解散へ。「龍が如く」の生みの親・名越稔洋が立ち上げ、『GANG OF DRAGON』を開発",
+   "summary": "10月31日付の株主総会にて解散したことが報告。『龍が如く』を生んだ名越稔洋氏の開発スタジオで、『Gang of Dragon』の開発を進めていた",
    "link": "https://news.denfaminicogamer.jp/news/261102p",
    "pubDate": "2026-11-02T03:32:32.000Z",
    "firstSeen": "2026-11-02T03:47:45.412Z",
@@ -13425,7 +14047,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "名越スタジオ"
+    "GANG OF DRAGON"
    ],
    "spoiler": false,
    "sources": [
@@ -13693,6 +14315,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/02/190230.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/02/174382.html"
     }
    ]
   },
@@ -14083,6 +14710,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/02/174378.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/02/190234.html"
     }
    ]
   },
@@ -14261,6 +14893,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/02/174377.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/02/190237.html"
     }
    ]
   },
@@ -14533,9 +15170,9 @@
     },
     {
      "name": "4Gamer.net",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JOUEycjhDTm5yMlZZLUdpTmloenNCWEZGZi1xWjVNallaR3BiNFBzRk1yUk1Sck1IR0wwSXViR29fTmRidmh1OWFtQ3YtT2lidW5Hd2V1TEpBcm1nNUozdHdKNA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -15003,6 +15640,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/02/174375.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/02/190236.html"
     }
    ]
   },
@@ -34583,7 +35225,7 @@
    "firstSeen": "2026-11-01T11:47:31.570Z",
    "image": null,
    "source": "コーエーテクモゲームス",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -34598,9 +35240,9 @@
    "sources": [
     {
      "name": "コーエーテクモゲームス",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92b2FJRDBibG9PU0ZRUWtvWmM0UzhUdzh5U1VDQkdiazFsanB0Mk5sXzVwSndqSDZDWXlNUnVMekR1YWFPbUNhbXJtX0Uzc2pKX0E?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -38551,38 +39193,6 @@
      "name": "Xbox Wire",
      "sourceId": "xbox-wire",
      "link": "https://news.xbox.com/ja-jp/2026/10/30/fallout-collab-cafe-tower-records-omotesando/"
-    }
-   ]
-  },
-  {
-   "title": "『デス・ストランディング』新作アニメ“ISOLATIONS”のティザー映像公開。サムがカイラル通信で繋いだ直後の北米大陸を舞台に新たな物語を描く",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOSTN5SHRWWWZ4Q0cxU2NtTU1LSmpuQnJVYlJOTWhWQ0hlRlFnaVI1QVlCZnplWEtYS1gwRC1KQWk0QzVTbVFuU0Z1R3VSMXFOQVJUcmJLRQ?oc=5",
-   "pubDate": "2026-10-30T02:50:00.000Z",
-   "firstSeen": "2026-10-31T06:47:35.370Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "デス・ストランディング"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOSTN5SHRWWWZ4Q0cxU2NtTU1LSmpuQnJVYlJOTWhWQ0hlRlFnaVI1QVlCZnplWEtYS1gwRC1KQWk0QzVTbVFuU0Z1R3VSMXFOQVJUcmJLRQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -62342,7 +62952,7 @@
    "firstSeen": "2026-10-28T15:47:35.980Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -62361,9 +62971,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Y1R5OXNZa1Vmb1FabHotXzFSLTNjMFdrYUN1WW5NX1QzOVR0WlExZk5HMllKcTNWY2dfNkRGOHMtSUJDZTZKT2xmTl92R1hWM04zU2g4MA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
@@ -63788,7 +64398,7 @@
    "firstSeen": "2026-10-28T14:47:36.306Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -63808,9 +64418,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TSzNrWkpONjlhVXlpVmdxemt1RmE1MEJRcGFLSGZYR0NXTG5RSUphSEVQREJGZjZvTW9RamY5ckxUWkJ6WnFWNmkyc3dLNUhzaS1saUxlcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
@@ -191885,520 +192495,6 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZ2piUFhIbkNMR2tmSGNpakF0ZmxHLTI4N3VXSXpaMGtXOTV0ZVZkcTNMcDRUalNGekdqRGplX0w4dnVMVHdUZGxGY04xeFVIZXR6bjN1bw?oc=5",
      "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "MTG Darkhold Destiny Arcanum Bundle: What's Inside and Is It Worth The Price Tag?",
-   "summary": "MTG Marvel Darkhold Destiny Arcanum Bundle features exclusive alt-art promo cards and booster packs. Here is a breakdown of what is inside a…",
-   "link": "https://www.ign.com/articles/mtg-darkhold-destiny-arcanum-bundle-whats-inside",
-   "pubDate": "2026-10-16T18:00:00.000Z",
-   "firstSeen": "2026-10-16T19:47:35.018Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/16/magic-the-gathering-marvel-darkhold-destiny-arcanum-bundle-1792165923634.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/mtg-darkhold-destiny-arcanum-bundle-whats-inside"
-    }
-   ]
-  },
-  {
-   "title": "Today’s Top Deals: Pokémon TCG 30th Celebration, Cronos for Switch 2, Pokémon Character Guide Box Set",
-   "summary": "Plus, don’t miss preorders for the Xbox Nano Controller, iPhone Duo, and Zelda: Ocarina of Time",
-   "link": "https://www.ign.com/articles/best-deals-for-october-16-2026",
-   "pubDate": "2026-10-16T18:00:00.000Z",
-   "firstSeen": "2026-10-16T19:47:35.018Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/16/untitled-design-21-1792170865284.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-october-16-2026"
-    }
-   ]
-  },
-  {
-   "title": "Nvidia App Update Will Let AI Agents Tune Your Graphics Card, but Some Users are Warning to Turn It Off",
-   "summary": "It's no secret that Nvidia loves its AI, and fresh off of launching RTX Spark – the new chipset for Agentic laptops – the Nvidia app now has…",
-   "link": "https://www.ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
-   "pubDate": "2026-10-16T17:56:32.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2024/11/22/best-nvidia-black-friday-deals-laptops-uk-2024-1732273493347.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off"
-    }
-   ]
-  },
-  {
-   "title": "Save 35% Off the Logitech G Pro X2 Superstrike Wireless Gaming Mouse With Haptic Inductive Triggers",
-   "summary": "",
-   "link": "https://www.ign.com/articles/logitech-g-pro-x2-superstrike-gaming-mouse-deal-october-2026",
-   "pubDate": "2026-10-16T17:50:00.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/10/logitechsuperstrike-1789066659818.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 35,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/logitech-g-pro-x2-superstrike-gaming-mouse-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "PEAKがコンソールへ到着：発売日、協力プレイとクロスプレイ、知っておくべきポイント",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMmdFazVQREJvQ3JfMXlWbE1LWEYtNDhSX2dpYmFSRXo3RUE0WTRvdHNsQUt5YWVfVjI4cVppdnN6SkFkSDlQRy16OG45S0dKOUpRNXkzb0o4SVRkRDg5eUZOX0FTa0l0dWd2VVJJV0VKMUFxWm9PV1ZvVkl0Rm1kY1hxRDJNZW5yUGh1TU14RmxySXZSUUhSNUJRbjBsdzFYbWJ4RzdoM1R1MXc4ZTU5TEZVZXlyS25GekFUbXM3WWlnVjBTNHhmMUpIWWRsdGdtQWNncnU3OTEtNHgzREtaVTBxa1hCbWtxbjJORmZQNWdvX1pQOTVlVDRyVFJuRUVQVnpyNUtrYWRTOFVKeTJJ?oc=5",
-   "pubDate": "2026-10-16T17:31:31.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": null,
-   "source": "Sortir à Paris",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Sortir à Paris",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMmdFazVQREJvQ3JfMXlWbE1LWEYtNDhSX2dpYmFSRXo3RUE0WTRvdHNsQUt5YWVfVjI4cVppdnN6SkFkSDlQRy16OG45S0dKOUpRNXkzb0o4SVRkRDg5eUZOX0FTa0l0dWd2VVJJV0VKMUFxWm9PV1ZvVkl0Rm1kY1hxRDJNZW5yUGh1TU14RmxySXZSUUhSNUJRbjBsdzFYbWJ4RzdoM1R1MXc4ZTU5TEZVZXlyS25GekFUbXM3WWlnVjBTNHhmMUpIWWRsdGdtQWNncnU3OTEtNHgzREtaVTBxa1hCbWtxbjJORmZQNWdvX1pQOTVlVDRyVFJuRUVQVnpyNUtrYWRTOFVKeTJJ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "James McAvoy Reveals He Once Pitched a Young Picard Star Trek Show",
-   "summary": "James McAvoy revealed he pitched a Picard Star Trek show that would have seen him yet again star as a young Patrick Stewart.",
-   "link": "https://www.ign.com/articles/james-mcavoy-reveals-he-once-pitched-a-young-picard-star-trek-show",
-   "pubDate": "2026-10-16T17:26:31.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/16/james-mcavoy-and-patrick-stewart-1792170928733.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/james-mcavoy-reveals-he-once-pitched-a-young-picard-star-trek-show"
-    }
-   ]
-  },
-  {
-   "title": "Usual June adds Xbox Series version",
-   "summary": "Supernatural third-person action adventure game Usual June will launch for Xbox Series and PC via …",
-   "link": "https://www.gematsu.com/2026/10/usual-june-adds-xbox-series-version",
-   "pubDate": "2026-10-16T17:20:05.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Usual-June-Xbox_10-16-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/usual-june-adds-xbox-series-version"
-    }
-   ]
-  },
-  {
-   "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-   "summary": "Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions…",
-   "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-   "pubDate": "2026-10-16T17:11:28.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed"
-    }
-   ]
-  },
-  {
-   "title": "「CAPCOM AUTUMN SALE」開催中！ 『ストリートファイター6』やそのほか人気格闘ゲームが各デジタルストアでお得なセール中！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000006115.000013450.html",
-   "pubDate": "2026-10-16T17:10:02.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "ストリートファイター6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000006115.000013450.html"
-    }
-   ]
-  },
-  {
-   "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
-   "summary": "Same old story.",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-   "pubDate": "2026-10-16T17:06:21.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/diX8JrbQusyGiBcCAEMm7n-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/"
-    }
-   ]
-  },
-  {
-   "title": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'",
-   "summary": "Chutes too narrow? Nearly 13 years since Nintendo gamers last had the chance to answer the Call of Duty (2013's Ghosts on Wii U, RIP), Activ…",
-   "link": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
-   "pubDate": "2026-10-16T17:00:00.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://images.nintendolife.com/451e581278955/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game"
-    }
-   ]
-  },
-  {
-   "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
-   "summary": "A fractured, fun campaign that benefits from looking backward.",
-   "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-   "pubDate": "2026-10-16T17:00:00.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/ZwFQmSCjPDJErkVS8HYzwV-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/"
-    }
-   ]
-  },
-  {
-   "title": "Call of Duty: Modern Warfare 4 - Campaign Review",
-   "summary": "Modern Warfare 4 may not have quite enough to be considered amongst the very best Call of Duty campaigns, but if it’s to be the end of this…",
-   "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-review",
-   "pubDate": "2026-10-16T17:00:00.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/15/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792058059953.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-review"
-    }
-   ]
-  },
-  {
-   "title": "‘It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted’ – How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
-   "summary": "Hellraiser: Revival understands Clive Barker on a much deeper level than just gore and sex — it's a deeply authentic extension of the horror…",
-   "link": "https://www.ign.com/articles/it-was-an-unofficial-goal-of-the-team-to-be-banned-unrated-or-restricted-how-hellraiser-revival-expands-cenobite-lore-while-staying-true-to-clive-barker",
-   "pubDate": "2026-10-16T17:00:00.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/17/hr1-oo-1789670071470.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/it-was-an-unofficial-goal-of-the-team-to-be-banned-unrated-or-restricted-how-hellraiser-revival-expands-cenobite-lore-while-staying-true-to-clive-barker"
-    }
-   ]
-  },
-  {
-   "title": "Modern Warfare 4 on Switch 2 Is Not The Disaster You’d Imagine",
-   "summary": "Modern Warfare 4 is the first Call of Duty since 2013 to launch on a Nintendo console. We played the campaign on Switch 2 and were pleasantl…",
-   "link": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
-   "pubDate": "2026-10-16T17:00:00.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/15/mw4-switch-blog-1792059802695.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay"
-    }
-   ]
-  },
-  {
-   "title": "Grab the Nightmare on Elm Street 7-Film 4K Collection at a New Low From Amazon Ahead of Halloween",
-   "summary": "The seven-film 4K box set for A Nightmare on Elm Street has hit a new low price at Amazon of $58.99. That's a huge 41% discount off its orig…",
-   "link": "https://www.ign.com/articles/nightmare-on-elm-street-7-film-4k-collection-new-low-price",
-   "pubDate": "2026-10-16T16:58:09.000Z",
-   "firstSeen": "2026-10-16T18:47:39.147Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/16/nightmare-on-elm-street-4k-1792158207090.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nightmare-on-elm-street-7-film-4k-collection-new-low-price"
-    }
-   ]
-  },
-  {
-   "title": "Toxic Crusaders ‘Gameplay’ trailer",
-   "summary": "Retroware has released a new gameplay trailer for side-scrolling beat ’em up game Toxic Crusaders. …",
-   "link": "https://www.gematsu.com/2026/10/toxic-crusaders-gameplay-trailer",
-   "pubDate": "2026-10-16T16:55:46.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Toxic-Crusaders-Trailer_10-16-26.jpeg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/toxic-crusaders-gameplay-trailer"
-    }
-   ]
-  },
-  {
-   "title": "Save 50% Off a Rechargeable LED Light Up Mask and Still Get it Delivered by Halloween",
-   "summary": "Powered by over 200 high‑brightness RGB LEDs.",
-   "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
-   "pubDate": "2026-10-16T16:40:00.000Z",
-   "firstSeen": "2026-10-16T17:47:37.715Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/14/moyaca-1792009399853.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 50,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026"
     }
    ]
   }
