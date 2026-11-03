@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-03T23:43:38.576Z",
+ "generatedAt": "2026-11-03T23:48:00.100Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1240,
+  "exact": 1241,
   "syndicated": 91,
   "similar": 365,
-  "syndicatedTotal": 397,
-  "syndicatedLeft": 25
+  "syndicatedTotal": 398,
+  "syndicatedLeft": 26
  },
  "calendar": [
   {
@@ -13094,8 +13094,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 706,
-   "accepted": 568
+   "archived": 708,
+   "accepted": 570
   },
   {
    "id": "gnews-dengeki",
@@ -13115,9 +13115,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 513,
-   "accepted": 477
+   "fetched": 80,
+   "archived": 514,
+   "accepted": 478
   },
   {
    "id": "gnews-switch2",
@@ -13127,8 +13127,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1404,
-   "accepted": 1225
+   "archived": 1405,
+   "accepted": 1226
   },
   {
    "id": "gnews-ps5",
@@ -13148,9 +13148,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 65,
-   "archived": 428,
-   "accepted": 344
+   "fetched": 100,
+   "archived": 429,
+   "accepted": 345
   },
   {
    "id": "prtimes",
@@ -13160,7 +13160,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25731,
+   "archived": 25735,
    "accepted": 458
   },
   {
@@ -13231,6 +13231,38 @@
   }
  ],
  "items": [
+  {
+   "title": "Switch 2『ゼルダ』限定モデルの転売が空振りか 潤沢供給で普通に買える状況が話題に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TZW11dE9hN1FIMS12OFp6dEpPTGFYWkQ2bTRHWmpTZ2Z3VldDdDBsLWJvVWFmYjRIZ3NVMjZNREx2dkZVQ1hNeEZBZVRWOU5mNWJfZEc3SEt4Mkpiak9Ea3RFMmtIb1hRdkxGNjBaSk9WMGF2NFF0RFNNVQ?oc=5",
+   "pubDate": "2026-11-03T23:39:21.000Z",
+   "firstSeen": "2026-11-03T23:47:44.297Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-switch2",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ゼルダ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TZW11dE9hN1FIMS12OFp6dEpPTGFYWkQ2bTRHWmpTZ2Z3VldDdDBsLWJvVWFmYjRIZ3NVMjZNREx2dkZVQ1hNeEZBZVRWOU5mNWJfZEc3SEt4Mkpiak9Ea3RFMmtIb1hRdkxGNjBaSk9WMGF2NFF0RFNNVQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "『地球防衛軍5』Switch2版、発売1ヶ月で見えた移植の出来と11月12日からの追加ミッション",
    "summary": "",
@@ -17938,6 +17970,35 @@
    ]
   },
   {
+   "title": "Sonyが2027年にPS5向け独占タイトル約6本を投入か、Until Dawn 2やMarvel’s Venomなどが候補に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZbjZxRGk5NTBQN1FZdFRVM3MyejFodFdyOEt3TGF3RjR2bUNadjFrTnlZaG1mQVVma0dscTFfY05MZUV1WHI4Uw?oc=5",
+   "pubDate": "2026-11-03T08:05:00.000Z",
+   "firstSeen": "2026-11-03T23:47:44.297Z",
+   "image": null,
+   "source": "スマホダイジェスト",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スマホダイジェスト",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZbjZxRGk5NTBQN1FZdFRVM3MyejFodFdyOEt3TGF3RjR2bUNadjFrTnlZaG1mQVVma0dscTFfY05MZUV1WHI4Uw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
    "title": "Bass X Machina Episode 1 Review",
    "summary": "Review: Netflix's Bass X Machina revisits the legend of Deputy U.S. Marshal Bass Reeves, adding a steampunk twist to what is essentially an…",
    "link": "https://www.ign.com/articles/bass-x-machina-episode-1-review-netflix",
@@ -19548,6 +19609,37 @@
    ]
   },
   {
+   "title": "PNY、PS5とPC対応SSD「CS2341」を欧州で発売 読み出し最大7,100MB/sの新製品",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONVhGMkdfUE9LNWJETDdVbzlmaXZ5WWI4N1Vvam83anNxQ1ZRb21lZkRCZjhxOFdEa25tdjVTR2lkZi1EQ0RPU2NuTHZNd05Yc2VRLTBFdEhzRXZPQ3F1N20wWXB5dEhKZFFfUHB1YllnVXk3OXFsaEstLVlSSXBidXZFRUt0d2czRjdGMXNPelpzWUNJWWZfY3A3Vi1ReTBPSmtxVF8xaDVKYmRZbTVkbDVIQjU1WXc3Q1V0d2xUWFk1U19JU0dTYTdKYlo3aFZDd2NrVjNHWVA3d3BGX2xvLTdaSHV5ZEp3OVUtY3BpazlKOW1oMDdkbk1HT3kyM21iYzQtV1FydGJTRldYSFZFX2NMWU94WnAyYnNSU0owSmJnZmtjTUlpMUhta3VWQTFkRWVWRmlZTmtORVMzUzMtV2Viang?oc=5",
+   "pubDate": "2026-11-03T02:36:01.000Z",
+   "firstSeen": "2026-11-03T23:47:44.297Z",
+   "image": null,
+   "source": "Mix Vale",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Mix Vale",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONVhGMkdfUE9LNWJETDdVbzlmaXZ5WWI4N1Vvam83anNxQ1ZRb21lZkRCZjhxOFdEa25tdjVTR2lkZi1EQ0RPU2NuTHZNd05Yc2VRLTBFdEhzRXZPQ3F1N20wWXB5dEhKZFFfUHB1YllnVXk3OXFsaEstLVlSSXBidXZFRUt0d2czRjdGMXNPelpzWUNJWWZfY3A3Vi1ReTBPSmtxVF8xaDVKYmRZbTVkbDVIQjU1WXc3Q1V0d2xUWFk1U19JU0dTYTdKYlo3aFZDd2NrVjNHWVA3d3BGX2xvLTdaSHV5ZEp3OVUtY3BpazlKOW1oMDdkbk1HT3kyM21iYzQtV1FydGJTRldYSFZFX2NMWU94WnAyYnNSU0owSmJnZmtjTUlpMUhta3VWQTFkRWVWRmlZTmtORVMzUzMtV2Viang?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
    "title": "『Pokémon GO』の「おでかけキャッチャー」が進化！ プレイ中にも使えるアップデートを発表",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTTk4VWhrazIxb0dFOWVWMThsLWJZUmlxVzdfN2N3a1p2MjhTdkhLRm1nVjlBcEhGSGQyRHdnZGlPb2VNMk56S0t6MUFxVVpLM1FjOGdGcWhMMnVCUy0waA?oc=5",
@@ -20477,6 +20569,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/03/174425.html"
+    }
+   ]
+  },
+  {
+   "title": "ソニー、中古PS5を最大6.3万円で買い取り GTA 6発売を前に割安な本体を求めるユーザーを取り込みか",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12eGNkZlpqZmF3RmxESXB5ZU9Cbk8xWnZ5bTJUbmJEaUVFRmZGY3hmVlZHVExEMUJka2NIay1ST3oyRWR3Nk01RQ?oc=5",
+   "pubDate": "2026-11-02T23:26:08.000Z",
+   "firstSeen": "2026-11-03T23:47:44.297Z",
+   "image": null,
+   "source": "スマホダイジェスト",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スマホダイジェスト",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12eGNkZlpqZmF3RmxESXB5ZU9Cbk8xWnZ5bTJUbmJEaUVFRmZGY3hmVlZHVExEMUJka2NIay1ST3oyRWR3Nk01RQ?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -57630,6 +57753,12 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
+     "name": "電通ウェブサイト",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10YnN2TzVfMWtfM1NEVjhmQ1RmTlB4T3JYUE0yRlVPdjcyMTA4ekRvd1lJMnRjWXdUVU85Nkh1MFdMdlczM1MwSkdZVDNTNTdKbUVVS0c5X3lBLUNnREFUcnNMaUhBTUo4eFVZ?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
      "name": "2026年10月30日掲載（ライブドアニュース）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jYng1UVd4dHFfTl9fQlJvREltOWg3QmppM2FPa1hTd0RGX0gtLUdQVlRrWGhEN0FFNmp1Z3d6akxFZWZ0QVI5WERvTWh3T3JXbWhiQ3hScElNOURjdEpHc3h3?oc=5",
@@ -79165,7 +79294,7 @@
    "firstSeen": "2026-10-28T16:47:41.296Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -79183,9 +79312,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paHl1Wm1OLVZhQ2RPcVVqRU9yNlNPWUJpMnh3Y2FVWmV2cTBfSmM3TTl2amxQSGtjMTVFVEYyWXVJRDRUM2dpY1N6WTdRclFpMDhRdkFOZw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -90090,7 +90219,7 @@
    "firstSeen": "2026-10-28T05:47:37.368Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -90110,9 +90239,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NLUNHRUlKcHhCa2FqdV9DTjNLendnQXhLOThIY1d6LW1oeHpNeWlaNHFXRC1yd0FxV255RnlTT2dEbjc3SjU3cFgzaVFxeGx6MkZ5NXE3aw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192293,117 +192422,6 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes"
-    }
-   ]
-  },
-  {
-   "title": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
-   "summary": "Ken Kutaragi, the founder of PlayStation and architect of the first three PlayStation consoles, has said that people being upset about Sony'…",
-   "link": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
-   "pubDate": "2026-10-19T16:07:22.000Z",
-   "firstSeen": "2026-10-19T16:47:38.451Z",
-   "image": "https://assetsio.gnwcdn.com/ken-kutaragi-playstation_Jl1uSYR.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/ken-kutaragi-playstation-discs"
-    }
-   ]
-  },
-  {
-   "title": "“圧倒的に好評”デモ版のメトロイドヴァニア『Iron Bramble』ユーザー要望に応えたデモ版の最終アップデート配信―これからは製品版の開発に注力",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/20/173815.html",
-   "pubDate": "2026-10-19T16:00:03.000Z",
-   "firstSeen": "2026-10-19T16:47:38.451Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Iron Bramble"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/20/173815.html"
-    }
-   ]
-  },
-  {
-   "title": "Abbott & Costello Join Forces With Kolchak the Night Stalker in Horror Crossover Special",
-   "summary": "Comedy icons Abbott & Costello are returning to comics for the first time in half a century, and they're joining forces with none other than…",
-   "link": "https://www.ign.com/articles/abbott-costello-join-forces-with-kolchak-the-night-stalker-in-horror-crossover-special",
-   "pubDate": "2026-10-19T16:00:00.000Z",
-   "firstSeen": "2026-10-19T16:47:38.451Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/mixcollage-18-oct-2026-10-16-pm-3633-1792376189244.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/abbott-costello-join-forces-with-kolchak-the-night-stalker-in-horror-crossover-special"
-    }
-   ]
-  },
-  {
-   "title": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
-   "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
-   "link": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus",
-   "pubDate": "2026-10-19T15:57:20.000Z",
-   "firstSeen": "2026-10-19T16:47:38.451Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/saros-1792423436499.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus"
     }
    ]
   }
