@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T16:47:56.240Z",
+ "generatedAt": "2026-11-03T17:48:02.731Z",
  "count": 6000,
  "dedupe": {
   "exact": 1238,
@@ -2272,22 +2272,6 @@
   {
    "date": "2026-10-26",
    "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "サカつく2026",
-   "title": "『サカつく2026』公式番組「サカつくTV#12」が10月26日20時から生配信！ Ver.2.4アップデートの内容を中心に新情報を生配信",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01VUJFWmVGdEpQYkYxUUhWVURRaUIxSlRZblZrQU8xYzBFRnlXWTdUaWYzVnkzRTlQUXVER1pFNTV4TGRtTV9IcldnMjJsMTVMMVNYUVozcWMxMHpPa1JXVQ?oc=5",
-   "source": "AppBank",
-   "sources": 2,
-   "categories": [
-    "update"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-26",
-   "precision": "day",
    "verb": "update",
    "label": "アップデート",
    "work": "ミメシス",
@@ -2416,6 +2400,22 @@
    "sources": 1,
    "categories": [
     "esports"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-26",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "サカつく2026",
+   "title": "『サカつく2026』公式番組「サカつくTV#12」が10月26日20時から生配信！ Ver.2.4アップデートの内容を中心に新情報を生配信",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01VUJFWmVGdEpQYkYxUUhWVURRaUIxSlRZblZrQU8xYzBFRnlXWTdUaWYzVnkzRTlQUXVER1pFNTV4TGRtTV9IcldnMjJsMTVMMVNYUVozcWMxMHpPa1JXVQ?oc=5",
+   "source": "AppBank",
+   "sources": 1,
+   "categories": [
+    "update"
    ],
    "platforms": [],
    "spoiler": false
@@ -3085,25 +3085,6 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "HYPNOSYNC",
-   "title": "かわいい女の子たちをリズムに合わせて「催眠」する音楽ゲーム『HYPNOSYNC』10月28日にリリース決定。基本プレイ無料でSteam、iOS、Android向けに展開",
-   "link": "https://news.denfaminicogamer.jp/news/261020h",
-   "source": "電ファミニコゲーマー",
-   "sources": 2,
-   "categories": [
-    "mobile"
-   ],
-   "platforms": [
-    "pc",
-    "mobile"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-28",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
    "work": "キングダム 覇道",
    "title": "App Store／Google Play向けアプリゲーム「キングダム 覇道」のシーズン6が開始！シーズン6のテーマは「黒羊丘の戦い」！趙将「慶舎」に加え、秦将「雷土」など新武将が続々登場！",
    "link": "https://prtimes.jp/main/html/rd/p/000002384.000051316.html",
@@ -3653,6 +3634,25 @@
    ],
    "platforms": [
     "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-28",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "HYPNOSYNC",
+   "title": "かわいい女の子たちをリズムに合わせて「催眠」する音楽ゲーム『HYPNOSYNC』10月28日にリリース決定。基本プレイ無料でSteam、iOS、Android向けに展開",
+   "link": "https://news.denfaminicogamer.jp/news/261020h",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "mobile"
+   ],
+   "platforms": [
+    "pc",
+    "mobile"
    ],
    "spoiler": false
   },
@@ -13110,9 +13110,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
-   "archived": 507,
-   "accepted": 474
+   "fetched": 100,
+   "archived": 509,
+   "accepted": 475
   },
   {
    "id": "gnews-switch2",
@@ -13166,8 +13166,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 371,
-   "accepted": 371
+   "archived": 372,
+   "accepted": 372
   },
   {
    "id": "ign",
@@ -13177,8 +13177,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1297,
-   "accepted": 1297
+   "archived": 1303,
+   "accepted": 1303
   },
   {
    "id": "eurogamer",
@@ -13188,8 +13188,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 306,
-   "accepted": 306
+   "archived": 305,
+   "accepted": 305
   },
   {
    "id": "gamespot",
@@ -13221,11 +13221,262 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 585,
-   "accepted": 585
+   "archived": 586,
+   "accepted": 586
   }
  ],
  "items": [
+  {
+   "title": "PlayStation Officially Announces Its First 2026 Black Friday Sale",
+   "summary": "PlayStation has officially announced its upcoming Black Friday sale — but where are the console deals?",
+   "link": "https://www.ign.com/articles/playstation-2026-black-friday-sale-announcement",
+   "pubDate": "2026-11-03T17:07:14.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/psblackfrday26-1-1793723614396.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/playstation-2026-black-friday-sale-announcement"
+    }
+   ]
+  },
+  {
+   "title": "The Cat in the Hat (2026) Review",
+   "summary": "The Cat in the Hat (2026) review: The whimsical Dr. Seuss character gets a good but not great animated feature film showcase.",
+   "link": "https://www.ign.com/articles/the-cat-in-the-hat-2026-review",
+   "pubDate": "2026-11-03T17:00:00.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/01/thecatinthehatcatastrophetrailer-ign-blogroll-1790872655019.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "event",
+    "review",
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-cat-in-the-hat-2026-review"
+    }
+   ]
+  },
+  {
+   "title": "The Fast Life Collection Celebrates the Iconic Cars of The Fast and the Furious",
+   "summary": "We've got an exclusive first look at Jada Toys' Fast Life collection, which celebrates the iconic cars of The Fast and the Furious franchise…",
+   "link": "https://www.ign.com/articles/the-fast-life-collection-celebrates-the-iconic-cars-of-the-fast-and-the-furious",
+   "pubDate": "2026-11-03T17:00:00.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/02/mixcollage-02-nov-2026-03-53-pm-8691-1793652789910.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-fast-life-collection-celebrates-the-iconic-cars-of-the-fast-and-the-furious"
+    }
+   ]
+  },
+  {
+   "title": "Review: Zero Parades: Director's Cut (Switch 2) - ZA/UM Returns With Another Atmospheric, Cerebral Yet Overly Familiar RPG",
+   "summary": "For Dead Spies. How does a studio follow an era-defining masterpiece without the original creative forces behind said masterpiece? The answe…",
+   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/zero-parades-directors-cut",
+   "pubDate": "2026-11-03T17:00:00.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://images.nintendolife.com/b88bb9fdea311/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/zero-parades-directors-cut"
+    }
+   ]
+  },
+  {
+   "title": "World of Warcraft's D&D crossover is neat, but inconsistent—novel on one page, then shrugging and pointing to the PHB you already own on the next",
+   "summary": "What's old is new again.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-d-and-d-crossover-is-neat-but-inconsistent-novel-on-one-page-then-shrugging-and-pointing-to-the-phb-you-already-own-on-the-next/",
+   "pubDate": "2026-11-03T17:00:00.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/7ZQq7itFC8wZ44VDMJqTc3-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-d-and-d-crossover-is-neat-but-inconsistent-novel-on-one-page-then-shrugging-and-pointing-to-the-phb-you-already-own-on-the-next/"
+    }
+   ]
+  },
+  {
+   "title": "The Elder Scrolls VI: Sentinel Finally Got Its Name Today, but Bethesda Says It Will Be 'Some Time Before We’re Ready to Share More'",
+   "summary": "Bethesda finally revealed the name for The Elder Scrolls VI: Sentinel, more than eight years after teasing it at E3 2018, but we'll reported…",
+   "link": "https://www.ign.com/articles/the-elder-scrolls-vi-sentinel-finally-got-its-name-today-but-bethesda-says-it-will-be-some-time-before-were-ready-to-share-more",
+   "pubDate": "2026-11-03T16:59:18.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/celebrating-40-years-of-bethesda-game-studios-7-46-screenshot-1793718533009.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-elder-scrolls-vi-sentinel-finally-got-its-name-today-but-bethesda-says-it-will-be-some-time-before-were-ready-to-share-more"
+    }
+   ]
+  },
+  {
+   "title": "Hyperspace Neptunia: Unlimited coming west in 2027 for PS5, Switch 2, PS4, Switch, and PC",
+   "summary": "Idea Factory International will release Compile Heart-developed Hyperspace Neptunia: Unlimited for PlayStation 5, Switch 2, …",
+   "link": "https://www.gematsu.com/2026/11/hyperspace-neptunia-unlimited-coming-west-in-2027-for-ps5-switch-2-ps4-switch-and-pc",
+   "pubDate": "2026-11-03T16:56:42.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Neptunia-Unlimited-Ann-West_11-03-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 25,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch",
+    "ps5",
+    "ps4"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/hyperspace-neptunia-unlimited-coming-west-in-2027-for-ps5-switch-2-ps4-switch-and-pc"
+    }
+   ]
+  },
+  {
+   "title": "What Does Sentinel Mean? Are Giant Robots Involved? The Elder Scrolls 6: Sentinel Lore Explained",
+   "summary": "What does Sentinel mean? How is it connected to Skyrim? Are we getting giant robots? Here's a deep dive lore explainer on The Elder Scrolls…",
+   "link": "https://www.ign.com/articles/elder-scrolls-6-sentinel-lore-explained",
+   "pubDate": "2026-11-03T16:55:41.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/celebrating-40-years-of-bethesda-game-studios-7-46-screenshot-1793718533009.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/elder-scrolls-6-sentinel-lore-explained"
+    }
+   ]
+  },
+  {
+   "title": "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
+   "summary": "Behavior Interactive is currently under fire after one of its community staff allegedly went rogue and gifted controversial streamer TheBurn…",
+   "link": "https://www.ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account",
+   "pubDate": "2026-11-03T16:44:56.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/ss-141a099b39afb31b864e8eda9570c344ad0c70f5-1920x1080-1793724151578.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account"
+    }
+   ]
+  },
   {
    "title": "Stronghold 4 Early Access delayed to April 20, 2027",
    "summary": "Firefly Studios has delayed Real-time strategy / city builder sequel Stronghold 4 from its previously …",
@@ -13251,6 +13502,36 @@
      "name": "Gematsu",
      "sourceId": "gematsu",
      "link": "https://www.gematsu.com/2026/11/stronghold-4-early-access-delayed-to-april-20-2027"
+    }
+   ]
+  },
+  {
+   "title": "World of Warcraft Forever Launch Patch Notes Bring Controller Support and Massive Class Changes",
+   "summary": "World of Warcraft Forever is just a day away, and now that the beta has concluded Blizzard has released its patch notes for the release buil…",
+   "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes",
+   "pubDate": "2026-11-03T16:22:33.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update",
+    "demo",
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes"
     }
    ]
   },
@@ -31322,9 +31603,9 @@
     },
     {
      "name": "4Gamer.net",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JOUEycjhDTm5yMlZZLUdpTmloenNCWEZGZi1xWjVNallaR3BiNFBzRk1yUk1Sck1IR0wwSXViR29fTmRidmh1OWFtQ3YtT2lidW5Hd2V1TEpBcm1nNUozdHdKNA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「新作ゲーム」"
     },
     {
      "name": "shiritomo",
@@ -38832,6 +39113,35 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/261031u"
+    }
+   ]
+  },
+  {
+   "title": "Pikmin Day Direct | 任天堂",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vS1RUSGJpOGpLdk9oYUNwVFNMUWd6djZ3cDY1anlKVWJqMFlmS3hpNDdacmNrVkl4R2FmZDFxY1ZhczYxTi1FS2IxNy1YNV9Od3RxX0JnU1lXWmk1UFBRZmZ1Y0xZQ0t6a1BZ?oc=5",
+   "pubDate": "2026-10-31T14:05:26.000Z",
+   "firstSeen": "2026-11-03T17:47:41.366Z",
+   "image": null,
+   "source": "Nintendo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vS1RUSGJpOGpLdk9oYUNwVFNMUWd6djZ3cDY1anlKVWJqMFlmS3hpNDdacmNrVkl4R2FmZDFxY1ZhczYxTi1FS2IxNy1YNV9Od3RxX0JnU1lXWmk1UFBRZmZ1Y0xZQ0t6a1BZ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -192096,324 +192406,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45a0ZFZWdDc2ZRQmh2U2dUN0dFSUJ0RE92aXRZVDB1N3Fkb1dabDhCc1pzZUp3WmhHZ2FUZzVKeFdEeDdXaVVEdzB0MkMzbklCWkxsci1kRQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "Star Wars Zero Company review",
-   "summary": "It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company. The fate of its eponymous crew - short o…",
-   "link": "https://www.eurogamer.net/star-wars-zero-company-review",
-   "pubDate": "2026-10-19T13:05:47.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-review-4.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/star-wars-zero-company-review"
-    }
-   ]
-  },
-  {
-   "title": "Cleaner Company launches January 26, 2027",
-   "summary": "Deep space cooperative cleaning simulation game Cleaner Company will launch for PC via Steam and …",
-   "link": "https://www.gematsu.com/2026/10/cleaner-company-launches-january-26-2027",
-   "pubDate": "2026-10-19T13:03:58.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Cleaner-Company-Date_10-19-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/cleaner-company-launches-january-26-2027"
-    }
-   ]
-  },
-  {
-   "title": "『サカつく2026』公式番組が10月26日20時より生配信！「サカつくTV#12」-Ver.2.4アップデート放送",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtR1J1ZEszbzF4V2ptZ2JLeWJqc2JKRk15UEE5YWNmY0Y0cHhQelJ5Wnhwc29KUzFDdHpfVEJDSHZVcDZYMHhrRFV0akZieHU3bVFISGpDZkd0cnM?oc=5",
-   "pubDate": "2026-10-19T13:01:22.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サカつく2026"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtR1J1ZEszbzF4V2ptZ2JLeWJqc2JKRk15UEE5YWNmY0Y0cHhQelJ5Wnhwc29KUzFDdHpfVEJDSHZVcDZYMHhrRFV0akZieHU3bVFISGpDZkd0cnM?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "Dumpster Gang launches December 3",
-   "summary": "Dumpster Gang, a cooperative sandbox game with mischievous raccoons for up to four players. will …",
-   "link": "https://www.gematsu.com/2026/10/dumpster-gang-launches-december-3",
-   "pubDate": "2026-10-19T13:00:23.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Dumpster-Gang-Date_10-19-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/dumpster-gang-launches-december-3"
-    }
-   ]
-  },
-  {
-   "title": "After 16 Years, Chill Sci-Fi Game Faraway Has A Release Date",
-   "summary": "After more than a decade of development, developer Steph Thirion's chill sci-fi game has a release date of locked in. GameSpot can exclusive…",
-   "link": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/",
-   "pubDate": "2026-10-19T13:00:00.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Faraway.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/"
-    }
-   ]
-  },
-  {
-   "title": "\"A Very Weird Experience\" - Digital Foundry Breaks Down The Metaphor: ReFantazio Demo On Switch 2",
-   "summary": "What's going on? If you're looking forward to the release of Metaphor: ReFantazio on 12th November 2026, the good news is that you can try i…",
-   "link": "https://www.nintendolife.com/news/2026/10/a-very-weird-experience-digital-foundry-breaks-down-the-metaphor-refantazio-demo-on-switch-2",
-   "pubDate": "2026-10-19T13:00:00.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": "https://images.nintendolife.com/40f26631ddfb1/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/a-very-weird-experience-digital-foundry-breaks-down-the-metaphor-refantazio-demo-on-switch-2"
-    }
-   ]
-  },
-  {
-   "title": "“催眠”でお客を従業員に変えちゃう音楽ゲーム「HYPNOSYNC」，日本時間の10月28日にリリース決定",
-   "summary": "BASEDKICKは2026年10月18日，開発中の新作タイトル「HYPNOSYNC」を，日本時間の10月28日19：00にリリースすると発表した。本作は，プレイヤーが謎のゲームセンターのマネージャーとなり，上司の命令のもと，来客を催眠にかけ「従業員」に変えていく，リズム×催眠を…",
-   "link": "https://www.4gamer.net/games/958/G095874/20261019047/",
-   "pubDate": "2026-10-19T12:17:26.000Z",
-   "firstSeen": "2026-10-19T12:47:39.184Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "HYPNOSYNC"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/958/G095874/20261019047/"
-    }
-   ]
-  },
-  {
-   "title": "心理的な問題を抱えている転校生に学校を案内し，心の支えになる。ミニマムレトロビジュアルノベル「DISK-Y」，体験版をSteamで公開",
-   "summary": "ゲーム開発者のびぶ氏は本日，PC用ソフト「DISK-Y」の体験版をSteamで公開した。サウンドとビジュアルが特徴的な本作は，サイコロジカルホラー要素を含むミニマムレトロビジュアルノベルだ。",
-   "link": "https://www.4gamer.net/games/051/G105142/20261019048/",
-   "pubDate": "2026-10-19T12:15:06.000Z",
-   "firstSeen": "2026-10-19T12:47:39.184Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "demo",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/051/G105142/20261019048/"
-    }
-   ]
-  },
-  {
-   "title": "\"後追い\"が\"クローン\"におかんむり…！？干し草ゲームの模倣作品、別の模倣作にコード盗用主張―同じファイル名、同じエラーメッセージ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/19/173807.html",
-   "pubDate": "2026-10-19T12:15:02.000Z",
-   "firstSeen": "2026-10-19T12:47:39.184Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/19/173807.html"
-    }
-   ]
-  },
-  {
-   "title": "League of Legends Virtual K-Pop Group K/DA Reemerge After 6 Years of Silence With New Single and Music Video From the Makers of Arcane",
-   "summary": "After six years of silence, Riot Games' League of Legends-themed virtual K-pop girl group, K/DA, has returned with Firestarter, a comeback s…",
-   "link": "https://www.ign.com/articles/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-years-of-silence-with-new-single-and-music-video-from-the-makers-of-arcane",
-   "pubDate": "2026-10-19T12:14:38.000Z",
-   "firstSeen": "2026-10-19T13:47:36.660Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/kda-main-1792411869416.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-years-of-silence-with-new-single-and-music-video-from-the-makers-of-arcane"
-    }
-   ]
-  },
-  {
-   "title": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
-   "summary": "CD Projekt Red is currently rolling the promised Switch 2 patch for The Witcher 3: Wild Hunt - Remastered, addressing a number of issues in…",
-   "link": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
-   "pubDate": "2026-10-19T12:13:14.000Z",
-   "firstSeen": "2026-10-19T12:47:39.184Z",
-   "image": "https://assetsio.gnwcdn.com/geralt-posing-witcher-3.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness"
     }
    ]
   }
