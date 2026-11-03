@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T11:47:58.722Z",
+ "generatedAt": "2026-11-03T12:47:56.120Z",
  "count": 6000,
  "dedupe": {
   "exact": 1236,
@@ -304,20 +304,6 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "サイバーパンク: エッジランナーズ2",
-   "title": "アニメ『サイバーパンク: エッジランナーズ 2』に小島秀夫監督が出演。有名ブレインダンス監督のヒデヨシ・オオシマ役として",
-   "link": "https://news.denfaminicogamer.jp/news/2610192j",
-   "source": "電ファミニコゲーマー",
-   "sources": 4,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-20",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
    "work": "サイバーパンク2077",
    "title": "『サイバーパンク2077』Steam版の同時接続者数が急増して18万7215人を記録し、人気再燃。アニメ『エッジランナーズ2』と無料アプデの配信後に",
    "link": "https://news.denfaminicogamer.jp/news/261027e",
@@ -483,6 +469,23 @@
    "categories": [
     "release",
     "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-20",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "サイバーパンク: エッジランナーズ2",
+   "title": "『サイバーパンク: エッジランナーズ 2』レビュー",
+   "link": "https://jp.ign.com/cyberpunk-edgerunners-2/84437/2",
+   "source": "IGN Japan",
+   "sources": 1,
+   "categories": [
+    "release",
+    "review"
    ],
    "platforms": [],
    "spoiler": false
@@ -3751,20 +3754,6 @@
    "platforms": [
     "pc"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-28",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "【ゲームネタGP】ゲームを題材にしたお笑い賞レース、特別審査員はサイバーコネクトツー松山洋氏！ 10月28日19時から生配信",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HQ2JNMk1neVpIT0JjWU1PN0VVNUJDNUgzbEgyLUJ3SFlhc19fZGFXV0t5ckQ1TzBFc0VUTkFQdmFraDRhMVN1Q2xJT0JoUnhzVnAtZ0Juaw?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -7423,6 +7412,20 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-04",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Potato Please",
+   "title": "“大量のジャガイモ”の「皮」をむき続けるゲーム『Potato Please』が11月4日に発売。山積みにされたジャガイモが果てしなさ過ぎる",
+   "link": "https://news.denfaminicogamer.jp/news/2611032g",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -13140,8 +13143,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 232,
-   "accepted": 225
+   "archived": 233,
+   "accepted": 226
   },
   {
    "id": "automaton",
@@ -13162,8 +13165,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1250,
-   "accepted": 1105
+   "archived": 1253,
+   "accepted": 1107
   },
   {
    "id": "gamewatch",
@@ -13184,8 +13187,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1288,
-   "accepted": 1274
+   "archived": 1287,
+   "accepted": 1273
   },
   {
    "id": "inside-games",
@@ -13250,7 +13253,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 737,
+   "archived": 738,
    "accepted": 388
   },
   {
@@ -13261,8 +13264,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 506,
-   "accepted": 474
+   "archived": 507,
+   "accepted": 475
   },
   {
    "id": "gnews-switch2",
@@ -13272,8 +13275,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1393,
-   "accepted": 1216
+   "archived": 1395,
+   "accepted": 1218
   },
   {
    "id": "gnews-ps5",
@@ -13283,8 +13286,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 688,
-   "accepted": 629
+   "archived": 685,
+   "accepted": 626
   },
   {
    "id": "gnews-update",
@@ -13293,9 +13296,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 70,
+   "fetched": 100,
    "archived": 429,
-   "accepted": 344
+   "accepted": 345
   },
   {
    "id": "prtimes",
@@ -13305,7 +13308,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25749,
+   "archived": 25748,
    "accepted": 457
   },
   {
@@ -13327,8 +13330,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1285,
-   "accepted": 1285
+   "archived": 1287,
+   "accepted": 1287
   },
   {
    "id": "eurogamer",
@@ -13376,6 +13379,274 @@
   }
  ],
  "items": [
+  {
+   "title": "『ガルクラ』公式ゲーム『ガールズバンドクライ First Riff』本日11月3日より事前登録開始。“トゲナシトゲアリ”による主題歌を使用したPV第1弾がお披露目",
+   "summary": "オリジナルバンドも多数登場するガールズロックRPG。バンドごとに書き手が異なる物語と3Dライブで、路上からアリーナを目指す",
+   "link": "https://news.denfaminicogamer.jp/news/261103x",
+   "pubDate": "2026-11-03T12:30:26.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/261103_GBCFRKV-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release",
+    "trailer",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ガルクラ",
+    "ガールズバンドクライ First Riff"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261103x"
+    }
+   ]
+  },
+  {
+   "title": "『超かぐや姫！』無料オンラインライブのPV&ビジュアル解禁。かぐや&彩葉&ヤチヨの3人でイベントの最新情報を届ける「ツクヨミ感謝祭INFO」で発表、あの「ray」MVのアマテラス衣装を着用へ",
+   "summary": "ツクヨミ感謝祭の続報が発表。いろPが“踊る”かはわからないが、きっと全オタ公が魂をシャウトする。いつぞやのウェルカムアナウンスで見せたレア挨拶「いろっぴー！」も確認可能",
+   "link": "https://news.denfaminicogamer.jp/news/261103y",
+   "pubDate": "2026-11-03T12:30:19.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/88bed8fe3c09bbda893868364edde49c-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "超かぐや姫!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261103y"
+    }
+   ]
+  },
+  {
+   "title": "「ガールズバンドクライ First Riff」で事前登録の受付がスタート。描き下ろしのキービジュアルやPV第1弾も公開に",
+   "summary": "DONUTSは2026年11月3日，スマホアプリ「ガールズバンドクライFirstRiff」の事前登録受付を開始した。これに合わせてゲーム公式サイトがリニューアルオープンしたほか，手島nari氏による描き下ろしキービジュアルとプロモーションムービー第1弾も公開された。",
+   "link": "https://www.4gamer.net/games/834/G083422/20261102040/",
+   "pubDate": "2026-11-03T12:30:00.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release",
+    "trailer",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/834/G083422/20261102040/"
+    }
+   ]
+  },
+  {
+   "title": "Cosy Witch RPG 'Witchbrook' Will Support Crossplay Between Switch 1 & 2 At Launch",
+   "summary": "Switchbrook. It has been a good couple of weeks for Witchbrook news. After keeping an eye on Chucklefish's witch RPG for years, we finally g…",
+   "link": "https://www.nintendolife.com/news/2026/11/cosy-witch-rpg-witchbrook-will-support-crossplay-between-switch-1-and-2-at-launch",
+   "pubDate": "2026-11-03T12:15:00.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://images.nintendolife.com/5b16ab2a3aec9/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/cosy-witch-rpg-witchbrook-will-support-crossplay-between-switch-1-and-2-at-launch"
+    }
+   ]
+  },
+  {
+   "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+   "summary": "Indie game storefront itch.io has expanded its AI disclosure filters, allowing its users to better separate games made with the controversia…",
+   "link": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+   "pubDate": "2026-11-03T12:03:56.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/itchio-generative-ai-filters-slop"
+    }
+   ]
+  },
+  {
+   "title": "“大量のジャガイモ”の「皮」をむき続けるゲーム『Potato Please』が11月4日に発売。山積みにされたジャガイモが果てしなさ過ぎる",
+   "summary": "国家から軍隊の腹を満たす任務を託され、ひたすら皮むきへ。ピーラーのような道具や掃除機型の回収機を駆使し、作業を自動化していく",
+   "link": "https://news.denfaminicogamer.jp/news/2611032g",
+   "pubDate": "2026-11-03T11:52:13.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/PhotoshopExtension_Image_2-3-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Potato Please"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611032g"
+    }
+   ]
+  },
+  {
+   "title": "Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times",
+   "summary": "Region queueing's open for business.",
+   "link": "https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times/",
+   "pubDate": "2026-11-03T11:47:55.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/hKNsUztXzucJqhUUSdWfxj-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times/"
+    }
+   ]
+  },
+  {
+   "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
+   "summary": "Friendslop has been mogged hard by mogging. Friendslop is chopped, and mogging is sigma. It’s cooked, and mogging has been hard mewing in it…",
+   "link": "https://www.ign.com/articles/friendslop-added-to-collins-dictionary",
+   "pubDate": "2026-11-03T11:42:36.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/ss-84436aac3675c39a9e21a14a4a9a3a8a7d9dea26-1920x1080-1793706464744.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Friendslop"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/friendslop-added-to-collins-dictionary"
+    }
+   ]
+  },
+  {
+   "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
+   "summary": "David Sears, creative director of South of Midnight, said in a recent interview that he was always worried about the previous era of Xbox's…",
+   "link": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
+   "pubDate": "2026-11-03T11:36:08.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": "https://assets-prd.ignimgs.com/2024/11/11/southofmidnight-preview-blogroll-1731361912780.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game"
+    }
+   ]
+  },
   {
    "title": "Review: Wild Blue Skies (Switch) - An Unoriginal Alternative To Star Fox 64",
    "summary": "Can't let you do that, Blue Bombers! Wild Blue Skies is Star Fox 64-lite. Gameplay, identity, story: everything is pretty much a license-fre…",
@@ -13489,6 +13760,35 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2611032d"
+    }
+   ]
+  },
+  {
+   "title": "【AliExpress】「Nintendo Switch 2 国内正規版 / ポケモン・マリオセット」がセールで約5.1万円！1.6倍の7.9型大画面搭載",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fdUpIcWJ0U2pLVWZBSlEwdWlPVTNjSGVhblhvT0tDNXJvTjJjMjUzNExwa2RWOXBkOTlMZ3ZxRjIxaWNvLUpGclNkZ3hCUUpNZkh3OA?oc=5",
+   "pubDate": "2026-11-03T11:00:53.000Z",
+   "firstSeen": "2026-11-03T12:47:35.671Z",
+   "image": null,
+   "source": "デイリーガジェット",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "デイリーガジェット",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fdUpIcWJ0U2pLVWZBSlEwdWlPVTNjSGVhblhvT0tDNXJvTjJjMjUzNExwa2RWOXBkOTlMZ3ZxRjIxaWNvLUpGclNkZ3hCUUpNZkh3OA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -29025,9 +29325,9 @@
     },
     {
      "name": "4Gamer.net",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JOUEycjhDTm5yMlZZLUdpTmloenNCWEZGZi1xWjVNallaR3BiNFBzRk1yUk1Sck1IR0wwSXViR29fTmRidmh1OWFtQ3YtT2lidW5Hd2V1TEpBcm1nNUozdHdKNA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「新作ゲーム」"
     },
     {
      "name": "shiritomo",
@@ -75187,7 +75487,7 @@
    "firstSeen": "2026-10-28T16:47:41.296Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -75205,9 +75505,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paHl1Wm1OLVZhQ2RPcVVqRU9yNlNPWUJpMnh3Y2FVWmV2cTBfSmM3TTl2amxQSGtjMTVFVEYyWXVJRDRUM2dpY1N6WTdRclFpMDhRdkFOZw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -77159,7 +77459,7 @@
    "firstSeen": "2026-10-28T15:47:35.980Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -77178,9 +77478,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Y1R5OXNZa1Vmb1FabHotXzFSLTNjMFdrYUN1WW5NX1QzOVR0WlExZk5HMllKcTNWY2dfNkRGOHMtSUJDZTZKT2xmTl92R1hWM04zU2g4MA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
@@ -86112,7 +86412,7 @@
    "firstSeen": "2026-10-28T05:47:37.368Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -86132,9 +86432,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NLUNHRUlKcHhCa2FqdV9DTjNLendnQXhLOThIY1d6LW1oeHpNeWlaNHFXRC1yd0FxV255RnlTT2dEbjc3SjU3cFgzaVFxeGx6MkZ5NXE3aw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -86577,7 +86877,7 @@
    "firstSeen": "2026-10-28T05:47:37.368Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -86598,9 +86898,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4YkdZWXBXb1VHeGNIWTJvR0lpdU55aEN1aUhIR1BIazFyRExjaGRJWXZjY2o5QXNTM3NTU1dOQUlad2IwUThGOExTZVRRaWx0Qjgzdkx4SQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -192277,304 +192577,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95ckZDYkREY3hmWldlUEtmOTNhLWpDQm1weThSYVFld0t0VTJMcTQ5QUd0T0Qwcjl5eHAydk5HSjZFT3R2a3RhOXNsaWFKbUhFek4xUUYwNFB5T05paXJoZA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "Suicaのペンギン ひざかけブランケットのリニューアル版が発売。10月20日12時より予約スタートTOICAやKitacaのデザインもラインナップ",
-   "summary": "アサミズカンパニーは、各種ひざかけブランケットを発売する。10月20日12時に予約を開始予定で、11月下旬頃より12月中旬頃に発送予定。価格は各3,300円。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2149386.html",
-   "pubDate": "2026-10-19T09:20:53.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2149386.html"
-    }
-   ]
-  },
-  {
-   "title": "クローン少女たちが水没した施設を探索するゲーム『宇宙人ハルオ君』Steamストアページが公開。死んでも再生産されるが、徐々に遺伝子が劣化していく",
-   "summary": "プレイヤーは2人の体調管理をこなしつつ、物資を回収。施設には防衛システムや実験動物などが待ち構える",
-   "link": "https://news.denfaminicogamer.jp/news/2610192h",
-   "pubDate": "2026-10-19T09:15:44.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_c87891bbfefdfae5063adeb5eb953b0de35047ef.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 17,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "宇宙人ハルオ君"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610192h"
-    }
-   ]
-  },
-  {
-   "title": "シールコレクションRPG『ビックリマン・ワンダーコレクション』ワンコレ２.5周年キャンペーン！アンドロココ登場！無料100連キャンペーンを開催！メインクエスト聖魔大戦編27章「曼聖羅大決戦！」を公開！",
-   "summary": "株式会社マーベラス（代表取締役社長：照井 慎一／所在地：東京都品川区）は、シールコレクションRPG『ビックリマン・ワンダーコレクション』にて無料100連キャンペーン等を含む「ワンコレ２.5周年キャンペーン」...",
-   "link": "https://prtimes.jp/main/html/rd/p/000002346.000016719.html",
-   "pubDate": "2026-10-19T09:15:19.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ビックリマン・ワンダーコレクション"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000002346.000016719.html"
-    }
-   ]
-  },
-  {
-   "title": "LEOさんと山田涼介さんの初共演となる地上波TVCMを放映開始。『Xross Stars』に、LEOさんがリーダーカードとして初参戦！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000702.000044525.html",
-   "pubDate": "2026-10-19T09:15:19.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Xross Stars"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000702.000044525.html"
-    }
-   ]
-  },
-  {
-   "title": "「ゲームの新たな黄金時代が訪れる」EpicのCEOがAIの可能性に期待―制作への活用に反発も、難問を解く能力を評価",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/19/173795.html",
-   "pubDate": "2026-10-19T09:15:03.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/19/173795.html"
-    }
-   ]
-  },
-  {
-   "title": "『アナザーエデン ビギンズ』DLC第3弾が10月15日発売！ イーファ＆ウェネーフィカが仲間に",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNVJyb3E5ODZRZ0pQRnY5aWF1N2hfY0tYREl2aS1IM3JtTzB5OFJNUHJTQndGV00zS2pBMWlHTzJ5bDloaW1UcF9ZZWt3UlBseWFnZVRweUswU09BLUdYOQ?oc=5",
-   "pubDate": "2026-10-19T09:11:03.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アナザーエデン ビギンズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNVJyb3E5ODZRZ0pQRnY5aWF1N2hfY0tYREl2aS1IM3JtTzB5OFJNUHJTQndGV00zS2pBMWlHTzJ5bDloaW1UcF9ZZWt3UlBseWFnZVRweUswU09BLUdYOQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "【惑星破壊ニャンニャニャン】配信日と事前登録情報｜最新情報",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05Zzk1UXR0Z2hQaGhVaUNuUllUOXVheEM2TUhXQUlIQ0tfZXJ0aHJRTWl0bkNLMnNhNGFHWi1jUndEaDRUYzFaN2dwYmQ?oc=5",
-   "pubDate": "2026-10-19T09:10:13.000Z",
-   "firstSeen": "2026-10-21T01:47:41.276Z",
-   "image": null,
-   "source": "AppMedia",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppMedia",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05Zzk1UXR0Z2hQaGhVaUNuUllUOXVheEM2TUhXQUlIQ0tfZXJ0aHJRTWl0bkNLMnNhNGFHWi1jUndEaDRUYzFaN2dwYmQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『サイバーパンク: エッジランナーズ 2』に小島秀夫監督が出演。有名ブレインダンス監督のヒデヨシ・オオシマ役として",
-   "summary": "同キャラクターはゲーム『サイバーパンク2077』の紺碧プラザに登場していた。アニメ本編は明日10月20日よりNetflixにて独占配信",
-   "link": "https://news.denfaminicogamer.jp/news/2610192j",
-   "pubDate": "2026-10-19T09:10:03.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HU-MoiTaMAAi55l-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サイバーパンク: エッジランナーズ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610192j"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/19/173794.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/19/189514.html"
-    }
-   ]
-  },
-  {
-   "title": "【ゲームネタGP】ゲームを題材にしたお笑い賞レース、特別審査員はサイバーコネクトツー松山洋氏！ 10月28日19時から生配信",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HQ2JNMk1neVpIT0JjWU1PN0VVNUJDNUgzbEgyLUJ3SFlhc19fZGFXV0t5ckQ1TzBFc0VUTkFQdmFraDRhMVN1Q2xJT0JoUnhzVnAtZ0Juaw?oc=5",
-   "pubDate": "2026-10-19T09:10:00.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HQ2JNMk1neVpIT0JjWU1PN0VVNUJDNUgzbEgyLUJ3SFlhc19fZGFXV0t5ckQ1TzBFc0VUTkFQdmFraDRhMVN1Q2xJT0JoUnhzVnAtZ0Juaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "探索要素もザコ戦もなく，ボスとの戦闘に特化した高難度2Dシューティングアクション「メメメメ」，体験版配信中",
-   "summary": "個人ゲーム開発者のもどき氏は，現在開発中の高難度2Dシューティングアクション「メメメメ」の体験版をSteamで配信している。本作は探索要素やザコ戦がなく，ボスとの戦闘に特化したタイトルだ。",
-   "link": "https://www.4gamer.net/games/956/G095675/20261019030/",
-   "pubDate": "2026-10-19T09:01:38.000Z",
-   "firstSeen": "2026-10-19T09:47:34.311Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "new",
-    "demo",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "メメメメ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/956/G095675/20261019030/"
     }
    ]
   }
