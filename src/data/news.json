@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T01:47:55.572Z",
+ "generatedAt": "2026-11-03T02:47:56.481Z",
  "count": 6000,
  "dedupe": {
   "exact": 1237,
@@ -7458,6 +7458,24 @@
   {
    "date": "2026-11-04",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "ｃｏｌｙ、ディズニー新作ゲームの事前登録１００万人達成、１１月４日配信へ - https://kabu-ir.com/",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DU2RoWnBDSlRrS3JYaVF4akM3YUp0LXd1OUpkcjVScDdZcVFMQTRDUnZUWnlSS3UyNGtVU0pmU29QbUt2S2RjaVFBcTBWdVZvNk4xYQ?oc=5",
+   "source": "Googleニュース「新作ゲーム」",
+   "sources": 1,
+   "categories": [
+    "new",
+    "release",
+    "mobile"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-04",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "Outbreak: Dead City",
@@ -9089,6 +9107,20 @@
   {
    "date": "2026-11-13",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Windowed Realms",
+   "title": "デスクトップの隅で遊べる放置系RPG『Windowed Realms』11月13日に配信。画面の隅に透明ウィンドウを置くだけの“ながらプレイ”に最適！",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVV9ESktZanVsY0puNW53ZUExRDVjV09BUzBtZE9tekE2NUN6TVVpX3RmVVRvamUzZjF0c0NzSktwOXV5VUkxUC1FU2V5MjlTUVF3Qkh1cUdmQQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "崩壊:スターレイル",
@@ -10477,22 +10509,6 @@
    "sources": 1,
    "categories": [
     "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12",
-   "precision": "month",
-   "verb": "update",
-   "label": "アップデート",
-   "work": "RuneScape: Dragonwilds",
-   "title": "『RuneScape: Dragonwilds』2027年ロードマップ公開！ 12月に無料アップデート「Luminance」、10月16日からセールも",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wUEVxeHlzMWY3QlRpV2NCSm1mY3k1eXA5T3hqWXJnU3YyV1pFYk5xU2RqMWgtVFZ3THBCT0dqTTNpQVF5TzVBMGFYN3Vwc0JFWjdleW5ETlBMWlBmZGpXMw?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [
-    "update"
    ],
    "platforms": [],
    "spoiler": false
@@ -13039,8 +13055,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 562,
-   "accepted": 555
+   "archived": 561,
+   "accepted": 554
   },
   {
    "id": "denfaminico",
@@ -13072,8 +13088,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1293,
-   "accepted": 1278
+   "archived": 1291,
+   "accepted": 1276
   },
   {
    "id": "inside-games",
@@ -13083,8 +13099,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1584,
-   "accepted": 1176
+   "archived": 1583,
+   "accepted": 1175
   },
   {
    "id": "ps-blog",
@@ -13116,7 +13132,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 126,
+   "archived": 127,
    "accepted": 85
   },
   {
@@ -13127,7 +13143,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 712,
+   "archived": 710,
    "accepted": 569
   },
   {
@@ -13138,8 +13154,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 740,
-   "accepted": 385
+   "archived": 737,
+   "accepted": 384
   },
   {
    "id": "gnews-newgame",
@@ -13148,9 +13164,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 82,
-   "archived": 508,
-   "accepted": 477
+   "fetched": 100,
+   "archived": 510,
+   "accepted": 479
   },
   {
    "id": "gnews-switch2",
@@ -13171,8 +13187,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 680,
-   "accepted": 621
+   "archived": 679,
+   "accepted": 620
   },
   {
    "id": "gnews-update",
@@ -13182,8 +13198,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 430,
-   "accepted": 344
+   "archived": 431,
+   "accepted": 345
   },
   {
    "id": "prtimes",
@@ -13193,8 +13209,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25588,
-   "accepted": 457
+   "archived": 25610,
+   "accepted": 456
   },
   {
    "id": "gematsu",
@@ -13248,8 +13264,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 320,
-   "accepted": 320
+   "archived": 321,
+   "accepted": 321
   },
   {
    "id": "pcgamer",
@@ -13264,6 +13280,208 @@
   }
  ],
  "items": [
+  {
+   "title": "「PS5 デジタル・エディション ミッドナイト ブラック 日本語専用」CFI-2200B02S、ソニーストアで在庫復活。GTA VI発売日と同じ11月19日(木)お届け予定。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pUzVyZlRrTGZ1V3Z3Tk13NFIwUFQzbUkydVVXbDNrUmNFM3BOeGJBUW5ybHd4Rl9TdmVtNVg5OF9pREZxSGNTUThrdy01c0k?oc=5",
+   "pubDate": "2026-11-03T02:37:06.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "ソニーが基本的に好き。",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ソニーが基本的に好き。",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pUzVyZlRrTGZ1V3Z3Tk13NFIwUFQzbUkydVVXbDNrUmNFM3BOeGJBUW5ybHd4Rl9TdmVtNVg5OF9pREZxSGNTUThrdy01c0k?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『Pokémon GO』の「おでかけキャッチャー」が進化！ プレイ中にも使えるアップデートを発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTTk4VWhrazIxb0dFOWVWMThsLWJZUmlxVzdfN2N3a1p2MjhTdkhLRm1nVjlBcEhGSGQyRHdnZGlPb2VNMk56S0t6MUFxVVpLM1FjOGdGcWhMMnVCUy0waA?oc=5",
+   "pubDate": "2026-11-03T02:34:03.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Pokémon GO"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTTk4VWhrazIxb0dFOWVWMThsLWJZUmlxVzdfN2N3a1p2MjhTdkhLRm1nVjlBcEhGSGQyRHdnZGlPb2VNMk56S0t6MUFxVVpLM1FjOGdGcWhMMnVCUy0waA?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "まだ応募できる！「クィン・マンサ」40周年記念のROBOT魂が抽選販売、オリジナルのアレンジやマーキングも多数",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/03/190303.html",
+   "pubDate": "2026-11-03T02:30:02.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/03/190303.html"
+    }
+   ]
+  },
+  {
+   "title": "「コードギアス 反逆のルルーシュ」20周年記念オンラインくじがアツい！“タロットカード”テーマ衣装のルルーシュ、スザクにときめく",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/03/190302.html",
+   "pubDate": "2026-11-03T02:15:03.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/03/190302.html"
+    }
+   ]
+  },
+  {
+   "title": "ｃｏｌｙ、ディズニー新作ゲームの事前登録１００万人達成、１１月４日配信へ - https://kabu-ir.com/",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DU2RoWnBDSlRrS3JYaVF4akM3YUp0LXd1OUpkcjVScDdZcVFMQTRDUnZUWnlSS3UyNGtVU0pmU29QbUt2S2RjaVFBcTBWdVZvNk4xYQ?oc=5",
+   "pubDate": "2026-11-03T02:04:41.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "Googleニュース「新作ゲーム」",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new",
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「新作ゲーム」",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DU2RoWnBDSlRrS3JYaVF4akM3YUp0LXd1OUpkcjVScDdZcVFMQTRDUnZUWnlSS3UyNGtVU0pmU29QbUt2S2RjaVFBcTBWdVZvNk4xYQ?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "ウッウに食べられるピカチュウ！？ 『ポケモン』モンスターボールに入った食玩ミニフィギュアに、メガスターミーやラティアスなど全10種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/03/190301.html",
+   "pubDate": "2026-11-03T02:00:03.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/03/190301.html"
+    }
+   ]
+  },
+  {
+   "title": "Square Enix's 'Harvest Sale' Includes 80% Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
+   "summary": "Get ready for Revelation. The Final Fantasy VII Remake trilogy will wrap next year with the release of Revelation and if you're wanting to c…",
+   "link": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-80percent-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
+   "pubDate": "2026-11-03T01:45:00.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": "https://images.nintendolife.com/18cbd9df5eb05/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-80percent-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth"
+    }
+   ]
+  },
   {
    "title": "シャア専用ズゴックの“腕”がクッションに！？ 特徴的な爪まで再現、手を入れても遊べちゃう",
    "summary": "",
@@ -14452,7 +14670,7 @@
    "link": "https://news.denfaminicogamer.jp/kikakuthetower/261103k",
    "pubDate": "2026-11-02T22:00:43.000Z",
    "firstSeen": "2026-11-02T22:47:33.722Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/1793601988.jpg",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/1793669298-1-780x1024.jpg",
    "source": "電ファミニコゲーマー",
    "sourceId": "denfaminico",
    "syndicated": false,
@@ -21270,6 +21488,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/02/190259.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/03/174429.html"
     }
    ]
   },
@@ -22760,6 +22983,35 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOY1h6ZUhmeGJxN3FQM3BYUTc3aDhXaDRpLTRoQ0JUSGw3WFBpT1ZVYTdwOWJ1QUR6ZjV6RkdTSDRvTkJDdHVZbG0zc2JEVDlOZTNvRWJxNFpfdjYwUkIyNw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "デスクトップの隅で遊べる放置系RPG『Windowed Realms』11月13日に配信。画面の隅に透明ウィンドウを置くだけの“ながらプレイ”に最適！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVV9ESktZanVsY0puNW53ZUExRDVjV09BUzBtZE9tekE2NUN6TVVpX3RmVVRvamUzZjF0c0NzSktwOXV5VUkxUC1FU2V5MjlTUVF3Qkh1cUdmQQ?oc=5",
+   "pubDate": "2026-11-02T06:20:00.000Z",
+   "firstSeen": "2026-11-03T02:47:35.364Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Windowed Realms"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVV9ESktZanVsY0puNW53ZUExRDVjV09BUzBtZE9tekE2NUN6TVVpX3RmVVRvamUzZjF0c0NzSktwOXV5VUkxUC1FU2V5MjlTUVF3Qkh1cUdmQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -46203,7 +46455,7 @@
    "firstSeen": "2026-11-01T11:47:31.570Z",
    "image": null,
    "source": "コーエーテクモゲームス",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -46218,9 +46470,9 @@
    "sources": [
     {
      "name": "コーエーテクモゲームス",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92b2FJRDBibG9PU0ZRUWtvWmM0UzhUdzh5U1VDQkdiazFsanB0Mk5sXzVwSndqSDZDWXlNUnVMekR1YWFPbUNhbXJtX0Uzc2pKX0E?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -72095,7 +72347,7 @@
    "firstSeen": "2026-10-28T16:47:41.296Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -72113,9 +72365,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paHl1Wm1OLVZhQ2RPcVVqRU9yNlNPWUJpMnh3Y2FVWmV2cTBfSmM3TTl2amxQSGtjMTVFVEYyWXVJRDRUM2dpY1N6WTdRclFpMDhRdkFOZw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -192261,250 +192513,6 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2149245.html"
-    }
-   ]
-  },
-  {
-   "title": "『RuneScape: Dragonwilds』2027年ロードマップ公開！ 12月に無料アップデート「Luminance」、10月16日からセールも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wUEVxeHlzMWY3QlRpV2NCSm1mY3k1eXA5T3hqWXJnU3YyV1pFYk5xU2RqMWgtVFZ3THBCT0dqTTNpQVF5TzVBMGFYN3Vwc0JFWjdleW5ETlBMWlBmZGpXMw?oc=5",
-   "pubDate": "2026-10-19T04:45:10.000Z",
-   "firstSeen": "2026-10-19T04:47:39.878Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "RuneScape: Dragonwilds"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wUEVxeHlzMWY3QlRpV2NCSm1mY3k1eXA5T3hqWXJnU3YyV1pFYk5xU2RqMWgtVFZ3THBCT0dqTTNpQVF5TzVBMGFYN3Vwc0JFWjdleW5ETlBMWlBmZGpXMw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "マンガ『封神演義』の新作ゲーム『封神演義 逆命承天』が「ジャンプフェスタ2027」で初試遊出展。原作完結後の世界を舞台に、原作者描き下ろしの新主人公・桃辰を操作し脅威に立ち向かう",
-   "summary": "原作完結後の世界を舞台に、原作者描き下ろしの新主人公・桃辰を操作し脅威に立ち向かうオリジナルストーリーが展開。多数の原作キャラクターも登場",
-   "link": "https://news.denfaminicogamer.jp/news/261019t",
-   "pubDate": "2026-10-19T04:44:49.000Z",
-   "firstSeen": "2026-10-19T04:47:39.878Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_23bb3404f929829694ceae40a6ae6c3380edf021.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 17,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "封神演義",
-    "封神演義 逆命承天"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261019t"
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TZ2Q5b1ItX24wM1BxMlEtMEc5WnFOdnNGWjVBR2lwcjRZYWxpc1BxTWo2ZnFGa1N5VGMtc21XYnoxTFNzVHdHMDl6T2x6RVZtR2NWWFVnRkdXbjZ1SXRGMjBQTUNkYnhQWmJlbW5idjlXbk9XeGlLQUY5Yw?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『封神演義 逆命承天』が「ジャンプフェスタ2027」で初試遊出展",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pTk5OUkdaSU1LWG80QnVReUcwb3VDa2h0RFRWNTFEWVJIOXZCc2E4N3FNSnlPR183NVBQajZ2dHJiOEcxOFZTWFFpVm1tRUlIQ1hMRklHVnU?oc=5",
-   "pubDate": "2026-10-19T04:44:00.000Z",
-   "firstSeen": "2026-10-19T05:47:32.697Z",
-   "image": null,
-   "source": "電ファミニコゲーマー",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "封神演義 逆命承天"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pTk5OUkdaSU1LWG80QnVReUcwb3VDa2h0RFRWNTFEWVJIOXZCc2E4N3FNSnlPR183NVBQajZ2dHJiOEcxOFZTWFFpVm1tRUlIQ1hMRklHVnU?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『FF14』不正アクセスに関する注意喚起を発信。ID・パスワードの使い回しを避け、ワンタイムパスワードの導入を推奨",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PaGxiSXV2R24wbzNDVW1vWGpfT19OMERPNnRlcm03R2Y3VEp1OHBjajJ6emlhaVgxTkdWVkVQb0hyRi1qQldHRndpSTRuTjA5M09XcEVxMmw3dw?oc=5",
-   "pubDate": "2026-10-19T04:43:00.000Z",
-   "firstSeen": "2026-10-19T07:47:38.327Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF14"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PaGxiSXV2R24wbzNDVW1vWGpfT19OMERPNnRlcm03R2Y3VEp1OHBjajJ6emlhaVgxTkdWVkVQb0hyRi1qQldHRndpSTRuTjA5M09XcEVxMmw3dw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "【ゼルダの伝説】ホリ「エレクトリック 時のオカリナ」Amazonでも予約開始！音声認識対応の電子オカリナ",
-   "summary": "ホリは、Nintendo Switch 2用アクセサリー「エレクトリック 時のオカリナ」について、通販サイト「Amazon」での予約受付を開始した。11月5日発売予定で、価格は7,980円。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2149263.html",
-   "pubDate": "2026-10-19T04:42:31.000Z",
-   "firstSeen": "2026-10-19T05:47:32.697Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2149263.html"
-    }
-   ]
-  },
-  {
-   "title": "GALLERIAの「FFXIV」公式対戦大会記念モデルPCにロジクールGのキーボードやマウスが付属するセットモデルが発売に",
-   "summary": "2026年10月19日，サードウェーブは，ゲーミングPC「GALLERIA」から，FFXIV公式の対戦大会「クリスタルコンフリクトリージョンチャンピオンシップ2026Japan」の大会記念モデルPCと，ロジクール製周辺機器のセットモデルを，同日から11月30日までの期間限定で販売…",
-   "link": "https://www.4gamer.net/games/029/G002975/20261019011/",
-   "pubDate": "2026-10-19T04:40:45.000Z",
-   "firstSeen": "2026-10-19T04:47:39.878Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "hardware",
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/029/G002975/20261019011/"
-    }
-   ]
-  },
-  {
-   "title": "他社サービス流出情報用いた攻撃らしきものを確認―『FF14』スクウェア・エニックスが「不正アクセスとアカウント管理に関するご注意」を掲載",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/19/173780.html",
-   "pubDate": "2026-10-19T04:40:02.000Z",
-   "firstSeen": "2026-10-19T04:47:39.878Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF14",
-    "ドラクエX"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/19/173780.html"
-    }
-   ]
-  },
-  {
-   "title": "株式会社Yostarが中途採用を実施。ゲーム・エンタメを支える3Dデザイナーやマーケティング担当などを幅広く募集",
-   "summary": "株式会社Yostarは、中途採用人材を積極的に募集中だ。",
-   "link": "https://automaton-media.com/articles/newsjp/yostar-20261019-474237/",
-   "pubDate": "2026-10-19T04:35:02.000Z",
-   "firstSeen": "2026-10-19T04:47:39.878Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/yostar-20261019-474237-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/yostar-20261019-474237/"
     }
    ]
   }
