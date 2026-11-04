@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-04T17:47:48.227Z",
+ "generatedAt": "2026-11-04T18:47:56.346Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1267,
+  "exact": 1271,
   "syndicated": 92,
-  "similar": 373,
-  "syndicatedTotal": 402,
+  "similar": 375,
+  "syndicatedTotal": 404,
   "syndicatedLeft": 24
  },
  "calendar": [
@@ -7823,6 +7823,22 @@
   {
    "date": "2026-11-06",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "GOG.comが初となる「GOG Showcase」を日本時間11月6日3時に配信！新しいゲームや新機能を発表",
+   "link": "http://www.gamespark.jp/article/2026/11/05/174488.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -11319,6 +11335,23 @@
   {
    "date": "2026-12-09",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "【ぽこポケ】「ぽこ あ ポケモン」有料DLC第2弾「どきどきデコレーション」が12月9日配信決定！",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zUm5razl4YUUxeDViNkJISWdSVVRpN0dwb0ZPZ2MzdFpHV2F2WXdqcTlIRktyaUtnU19hVTNRYm1XaFZwVW5aZzkxUnRKQ0FTeTJSYWlRanVKM0M2NzFzdjZlZy0ydw?oc=5",
+   "source": "GAME Watch",
+   "sources": 2,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-09",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ぽこ あ ポケモン",
@@ -11350,23 +11383,6 @@
    "platforms": [
     "switch2"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-09",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": null,
-   "title": "【ぽこポケ】「ぽこ あ ポケモン」有料DLC第2弾「どきどきデコレーション」が12月9日配信決定！",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zUm5razl4YUUxeDViNkJISWdSVVRpN0dwb0ZPZ2MzdFpHV2F2WXdqcTlIRktyaUtnU19hVTNRYm1XaFZwVW5aZzkxUnRKQ0FTeTJSYWlRanVKM0M2NzFzdjZlZy0ydw?oc=5",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -13207,6 +13223,24 @@
    "spoiler": false
   },
   {
+   "date": "2027-05-20",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "ゴッド・オブ・ウォー ラウフェイ",
+   "title": "PS5『ゴッド・オブ・ウォー ラウフェイ』発売延期、来年5月20日にリリースへ。約3か月延ばして作りこむ",
+   "link": "https://automaton-media.com/articles/newsjp/20261105-477518/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "ps5"
+   ],
+   "spoiler": false
+  },
+  {
    "date": "2027-06-30",
    "precision": "day",
    "verb": "release",
@@ -13300,8 +13334,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 579,
-   "accepted": 572
+   "archived": 580,
+   "accepted": 573
   },
   {
    "id": "denfaminico",
@@ -13333,8 +13367,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1290,
-   "accepted": 1276
+   "archived": 1292,
+   "accepted": 1278
   },
   {
    "id": "inside-games",
@@ -13388,8 +13422,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 712,
-   "accepted": 575
+   "archived": 711,
+   "accepted": 574
   },
   {
    "id": "gnews-dengeki",
@@ -13409,9 +13443,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 89,
-   "archived": 518,
-   "accepted": 482
+   "fetched": 90,
+   "archived": 519,
+   "accepted": 483
   },
   {
    "id": "gnews-switch2",
@@ -13421,8 +13455,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1436,
-   "accepted": 1251
+   "archived": 1438,
+   "accepted": 1253
   },
   {
    "id": "gnews-ps5",
@@ -13432,8 +13466,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 689,
-   "accepted": 630
+   "archived": 691,
+   "accepted": 632
   },
   {
    "id": "gnews-update",
@@ -13442,7 +13476,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 71,
+   "fetched": 70,
    "archived": 445,
    "accepted": 358
   },
@@ -13454,7 +13488,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25937,
+   "archived": 25948,
    "accepted": 467
   },
   {
@@ -13465,8 +13499,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 371,
-   "accepted": 371
+   "archived": 372,
+   "accepted": 372
   },
   {
    "id": "ign",
@@ -13476,8 +13510,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1306,
-   "accepted": 1306
+   "archived": 1304,
+   "accepted": 1304
   },
   {
    "id": "eurogamer",
@@ -13498,8 +13532,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 321,
-   "accepted": 321
+   "archived": 319,
+   "accepted": 319
   },
   {
    "id": "nintendolife",
@@ -13509,8 +13543,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 333,
-   "accepted": 333
+   "archived": 334,
+   "accepted": 334
   },
   {
    "id": "pcgamer",
@@ -13520,11 +13554,185 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 591,
-   "accepted": 591
+   "archived": 593,
+   "accepted": 593
   }
  ],
  "items": [
+  {
+   "title": "PS5『ゴッド・オブ・ウォー ラウフェイ』発売延期、来年5月20日にリリースへ。約3か月延ばして作りこむ",
+   "summary": "Santa Monica Studioは11月5日、『ゴッド・オブ・ウォー ラウフェイ』の発売日を2027年5月20日に延期すると発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261105-477518/",
+   "pubDate": "2026-11-04T18:33:36.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477518-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "ゴッド・オブ・ウォー ラウフェイ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261105-477518/"
+    }
+   ]
+  },
+  {
+   "title": "『タルコフ』生みの親の新作ハードコアSFシューター『Fragmentary Order』14分におよぶ初ゲームプレイ映像が公開！有料クローズドテスト参加権「Prime Batch」も受付開始",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/05/174489.html",
+   "pubDate": "2026-11-04T18:00:48.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "タルコフ",
+    "Fragmentary Order"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/05/174489.html"
+    }
+   ]
+  },
+  {
+   "title": "Final Fantasy’s Yoshinori Kitase Teases What’s Next for Square Enix, Says Company Will Prioritize New Games Over Remakes",
+   "summary": "Final Fantasy producer Yoshinori Kitase reveals Square Enix will prioritize new games over remakes, discussing future film adaptations and w…",
+   "link": "https://www.ign.com/articles/square-enix-new-games-remakes-kitase-interview",
+   "pubDate": "2026-11-04T18:00:00.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/03/yoshinori-kitase-interview-blogroll-1793738480688.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/square-enix-new-games-remakes-kitase-interview"
+    }
+   ]
+  },
+  {
+   "title": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch",
+   "summary": "Absolutely everywhere in Japan right now. Japan is living in the future - quite literally. As I wander the neon-soaked streets of Akihabara…",
+   "link": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
+   "pubDate": "2026-11-04T18:00:00.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": "https://images.nintendolife.com/12f01d0d52cc1/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch"
+    }
+   ]
+  },
+  {
+   "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
+   "summary": "I missed this.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
+   "pubDate": "2026-11-04T18:00:00.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/zbjF32yTd7MrmU9rh8qEza-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/"
+    }
+   ]
+  },
+  {
+   "title": "GOG.comが初となる「GOG Showcase」を日本時間11月6日3時に配信！新しいゲームや新機能を発表",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/05/174488.html",
+   "pubDate": "2026-11-04T17:50:03.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/05/174488.html"
+    }
+   ]
+  },
   {
    "title": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
    "summary": "God of War Laufey has been delayed. Sony Santa Monica's PS5 exclusive is now dodging the crowded month of February and will instead come out…",
@@ -13580,6 +13788,32 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/05/174487.html"
+    }
+   ]
+  },
+  {
+   "title": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'",
+   "summary": "\"I want us to have a happy ending. I want us to go out on our terms.\"",
+   "link": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
+   "pubDate": "2026-11-04T17:28:16.000Z",
+   "firstSeen": "2026-11-04T18:47:37.459Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/LWJqcFFvfrZySZj5CgRwGL-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/"
     }
    ]
   },
@@ -13643,7 +13877,7 @@
    "title": "God Of War Laufey Delayed",
    "summary": "Santa Monica Studios has delayed God of War Laufey. The new God of War game for PS5 is no longer set for release in February 2027, and has s…",
    "link": "https://www.gamespot.com/articles/god-of-war-laufey-delayed/",
-   "pubDate": "2026-11-04T17:08:20.000Z",
+   "pubDate": "2026-11-04T17:05:55.000Z",
    "firstSeen": "2026-11-04T17:47:35.318Z",
    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/laufey.png?w=300",
    "source": "GameSpot",
@@ -13664,6 +13898,16 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/god-of-war-laufey-delayed/"
+    },
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027"
+    },
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/god-of-war-laufey-delayed-to-may-2027"
     }
    ]
   },
@@ -15288,7 +15532,7 @@
    "title": "【ぽこポケ】「ぽこ あ ポケモン」有料DLC第2弾「どきどきデコレーション」が12月9日配信決定！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zUm5razl4YUUxeDViNkJISWdSVVRpN0dwb0ZPZ2MzdFpHV2F2WXdqcTlIRktyaUtnU19hVTNRYm1XaFZwVW5aZzkxUnRKQ0FTeTJSYWlRanVKM0M2NzFzdjZlZy0ydw?oc=5",
-   "pubDate": "2026-11-04T14:16:55.000Z",
+   "pubDate": "2026-11-04T14:16:00.000Z",
    "firstSeen": "2026-11-04T14:47:34.762Z",
    "image": null,
    "source": "GAME Watch",
@@ -15311,6 +15555,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zUm5razl4YUUxeDViNkJISWdSVVRpN0dwb0ZPZ2MzdFpHV2F2WXdqcTlIRktyaUtnU19hVTNRYm1XaFZwVW5aZzkxUnRKQ0FTeTJSYWlRanVKM0M2NzFzdjZlZy0ydw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "GAME Watch（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWYlFCVHdoVjJSblh3OGJWWGZGWlpWTGI4Ny05bGNTbDFBWTFZdXU5NWZnNjRVZTVqSHVMU2lXbjNBSV91bzFReWt6OE9VbGJHV2VaaDhhY2Q2Z19lNHhZYWxGanU1RWdfQjk2cXpCWDlsRmxPd0R6cGdlQ3lYRGM?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -18900,6 +19151,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NUmluLXhJTTZwZFBoOXhsaGtxSDNQdVY1V2hFbXBJTkluTnhZWWlqcjRGS09XZUVOUm5pcjhoeHY1dkF5RVlkcU9CWlVUSVFRQXdXcg?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xRXNCRFBQaFJzMlpRX1pscUp4VHpjTzFJbnNPZkRwTFJrZUp3ZkhsNzl4a2lraUt5ankwV1JocjlxVzMyaFp0Z2Q4LUF5TmJSNHlYUmRZUklPQ3UwQlNTMF9B?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -30128,7 +30386,7 @@
    "firstSeen": "2026-11-04T08:47:37.231Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30143,9 +30401,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlYS1Mc1pEcmRaSlRfZXlmZmpqb3ZzV0YyOWx2dDlVNDhPTjJVbjBKUWRicERKMzQxSEREektaSzJSMU1OSmEwYlJkN015b0wwamw2eGVMOA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -192466,217 +192724,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/hardware/vr-hardware/im-not-sure-if-the-steam-frame-hits-any-corners-in-this-bouncing-screensaver-but-maybe-if-i-watch-long-enough-the-headset-will-come-down-in-price/"
-    }
-   ]
-  },
-  {
-   "title": "『パルワールド』新アップデート『Side by Side』2026年冬配信決定―人気投票2026はパル部門1位セクメト、キャラクター部門1位ゾーイ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/20/173860.html",
-   "pubDate": "2026-10-20T13:37:01.000Z",
-   "firstSeen": "2026-10-20T13:47:38.338Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "パルワールド",
-    "Side by Side"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/20/173860.html"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000156.000071410.html"
-    }
-   ]
-  },
-  {
-   "title": "Free $5 Reward Certificate for Signing Up for the New Best Buy Gamers Program",
-   "summary": "Signing up for Best Buy's new Gamers program gets you a free $5 reward certificate, but only while supplies last.",
-   "link": "https://www.ign.com/articles/free-5-gift-card-new-best-buy-gamers-program",
-   "pubDate": "2026-10-20T13:24:10.000Z",
-   "firstSeen": "2026-10-20T14:47:35.905Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/20/untitled-design-1-1792502337214.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/free-5-gift-card-new-best-buy-gamers-program"
-    }
-   ]
-  },
-  {
-   "title": "Palworld update ‘Side by Side’ launches this winter",
-   "summary": "Pocketpair will release the next major update for Palworld, dubbed “Side by Side,” this winter, …",
-   "link": "https://www.gematsu.com/2026/10/palworld-update-side-by-side-launches-this-winter",
-   "pubDate": "2026-10-20T13:23:41.000Z",
-   "firstSeen": "2026-10-20T13:47:38.338Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Palworld_10-20-26_003.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/palworld-update-side-by-side-launches-this-winter"
-    }
-   ]
-  },
-  {
-   "title": "『ポケポケ』新拡張パック「デュアルフュージョン」が10月29日10時より登場。メガミュウツーXexなどが新たな“デュアルタイプ”のカードに",
-   "summary": "★のカードが1枚確定するスペシャルパック「はじまりのパートナー」も発表。9つの地方の“最初のパートナー”たちを描いたカードを収録",
-   "link": "https://news.denfaminicogamer.jp/news/2610203e",
-   "pubDate": "2026-10-20T13:15:07.000Z",
-   "firstSeen": "2026-10-20T13:47:38.338Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/d1ced5366c36143ea910ba8e4ff918f9b4e70fe0-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケポケ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610203e"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/20/189575.html"
-    }
-   ]
-  },
-  {
-   "title": "Ys VIII: Lacrimosa of DANA coming to Switch 2 on February 25, 2027",
-   "summary": "Publisher NIS America and developer Falcom will release a Switch 2 version of action RPG …",
-   "link": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027",
-   "pubDate": "2026-10-20T13:14:26.000Z",
-   "firstSeen": "2026-10-20T13:47:38.338Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Ys-VIII-Switch-2_10-20-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027"
-    }
-   ]
-  },
-  {
-   "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
-   "summary": "Helldivers will be switching up its anti-cheat, as developer Arrowhead Game Studios has admitted that its Gameguard cheat policy \"wasn't as…",
-   "link": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-   "pubDate": "2026-10-20T13:13:19.000Z",
-   "firstSeen": "2026-10-20T13:47:38.338Z",
-   "image": "https://assetsio.gnwcdn.com/Helldivers-2-Exo-Experts-Warbond_ingame.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard"
-    }
-   ]
-  },
-  {
-   "title": "Review: Final Fantasy Resonance (Switch 2) - Plays Like A Lost Entry From Earlier In The Series",
-   "summary": "Good to have you back, old friend. Over the years, Final Fantasy has been nothing if not inventive, as its largely anthology-based approach…",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-resonance",
-   "pubDate": "2026-10-20T13:05:00.000Z",
-   "firstSeen": "2026-10-20T13:47:38.338Z",
-   "image": "https://images.nintendolife.com/e6a7165495f0a/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-resonance"
     }
    ]
   }
