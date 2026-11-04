@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-04T00:47:57.281Z",
+ "generatedAt": "2026-11-04T01:48:12.253Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1242,
+  "exact": 1238,
   "syndicated": 91,
-  "similar": 364,
-  "syndicatedTotal": 399,
+  "similar": 361,
+  "syndicatedTotal": 397,
   "syndicatedLeft": 26
  },
  "calendar": [
@@ -5827,6 +5827,20 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "あなたの星座はだれ？「サンリオキャラクターズ」が12星座に変身したガシャポン「星座スイングマスコット」が11月第4週より発売！",
+   "link": "https://www.inside-games.jp/article/2026/11/04/190323.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
    "work": "崩落の国",
    "title": "11月発売のPS5注目ソフト7本！ 『崩落の国』『クライムライト』『Football Manager 27 Console』などをPS Blogが紹介【11月4日から順次】",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQV9DM29vNWI1dXFzS1dCaVdLSE5yR2ZHU0NuLW81LVRjM1puWUY3Y2dxWkpZT2JqRUw2LVZkbWk2dDJGbDYyRU9BYnRzSW83UWRxSGhpQXFvZ3RTX2FyUQ?oc=5",
@@ -6988,6 +7002,22 @@
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-04",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "ソニックレーシング クロスワールド",
+   "title": "『ソニックレーシング クロスワールド』の「シーズン2」が開幕！ 新たなモードやキャラクター、ガジェットなどが登場",
+   "link": "https://blog.ja.playstation.com/2026/11/04/20261104-sonicracing-season2-interview-feature-o/",
+   "source": "PlayStation.Blog",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -12723,8 +12753,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 990,
-   "accepted": 963
+   "archived": 989,
+   "accepted": 962
   },
   {
    "id": "4gamer-sp",
@@ -12745,8 +12775,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 566,
-   "accepted": 559
+   "archived": 569,
+   "accepted": 562
   },
   {
    "id": "denfaminico",
@@ -12756,8 +12786,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1260,
-   "accepted": 1114
+   "archived": 1258,
+   "accepted": 1112
   },
   {
    "id": "gamewatch",
@@ -12775,11 +12805,11 @@
    "name": "Game*Spark",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 50,
-   "archived": 1289,
-   "accepted": 1275
+   "ok": false,
+   "error": "Status code 502",
+   "fetched": 0,
+   "archived": 1287,
+   "accepted": 1273
   },
   {
    "id": "inside-games",
@@ -12789,7 +12819,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1586,
+   "archived": 1587,
    "accepted": 1178
   },
   {
@@ -12800,8 +12830,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 31,
-   "accepted": 31
+   "archived": 32,
+   "accepted": 32
   },
   {
    "id": "xbox-wire",
@@ -12833,8 +12863,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 711,
-   "accepted": 572
+   "archived": 706,
+   "accepted": 567
   },
   {
    "id": "gnews-dengeki",
@@ -12844,7 +12874,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 741,
+   "archived": 740,
    "accepted": 391
   },
   {
@@ -12854,9 +12884,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 512,
-   "accepted": 476
+   "fetched": 83,
+   "archived": 514,
+   "accepted": 478
   },
   {
    "id": "gnews-switch2",
@@ -12867,7 +12897,7 @@
    "error": null,
    "fetched": 100,
    "archived": 1407,
-   "accepted": 1228
+   "accepted": 1229
   },
   {
    "id": "gnews-ps5",
@@ -12877,8 +12907,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 688,
-   "accepted": 630
+   "archived": 682,
+   "accepted": 624
   },
   {
    "id": "gnews-update",
@@ -12887,9 +12917,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 65,
-   "archived": 428,
-   "accepted": 345
+   "fetched": 100,
+   "archived": 429,
+   "accepted": 347
   },
   {
    "id": "prtimes",
@@ -12899,8 +12929,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25767,
-   "accepted": 459
+   "archived": 25749,
+   "accepted": 462
   },
   {
    "id": "gematsu",
@@ -12910,8 +12940,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 372,
-   "accepted": 372
+   "archived": 371,
+   "accepted": 371
   },
   {
    "id": "ign",
@@ -12954,8 +12984,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 325,
-   "accepted": 325
+   "archived": 326,
+   "accepted": 326
   },
   {
    "id": "pcgamer",
@@ -12970,6 +13000,567 @@
   }
  ],
  "items": [
+  {
+   "title": "『ファイナルファンタジーVII リメイク』『リバース』どっちも「986円」でセール中、ぶっちぎりの過去最安値に。最終作に備えるチャンス",
+   "summary": "スクウェア・エニックスは11月4日、『FINAL FANTASY VII REMAKE INTERGRADE』および『FINAL FANTASY VII REBIRTH』のセールを開始した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261104-477316/",
+   "pubDate": "2026-11-04T01:45:58.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477316-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new",
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "FF7リメイク",
+    "リバース"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261104-477316/"
+    }
+   ]
+  },
+  {
+   "title": "「サンリオキャラクターズ」新作めじるしアクセサリーは“バレリーナ衣装”に変身！オーロラ塗装が綺麗なハローキティ、クロミなど全6種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/04/190326.html",
+   "pubDate": "2026-11-04T01:45:03.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/04/190326.html"
+    }
+   ]
+  },
+  {
+   "title": "没入型（イマーシブ）教育DXスタートアップのゲシピ、NIKKEI THE PITCH GROWTH 2026-27 東日本大会に出場決定",
+   "summary": "eスポーツゲームを活用した没入型（イマーシブ）教育DXスタートアップのゲシピ株式会社（本社：東京都中央区、代表取締役：真鍋 拓也、以下「ゲシピ」）は、この度、日本経済新聞社が主催する「NIKKEI THE PITCH ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000130.000031716.html",
+   "pubDate": "2026-11-04T01:41:51.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000130.000031716.html"
+    }
+   ]
+  },
+  {
+   "title": "WONDER DIVE、子どものワクワクを育てる「リトルワンダープロジェクト」を始動",
+   "summary": "ゲーム実況に特化したクリエイター事務所「WONDER DIVE（ワンダーダイブ、所在地：東京都港区、代表：ドズル）」は、子どものワクワクを育てる「リトルワンダープロジェクト」を始動します。 第一弾として、教育...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000247.000078713.html",
+   "pubDate": "2026-11-04T01:41:51.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000247.000078713.html"
+    }
+   ]
+  },
+  {
+   "title": "AI製ゲーム激増のPCゲーム公開サイトitch.ioにて「AIフィルター」実装。AI使用の「ある/なし」以外に、“どこで使ったか”もフィルタリング",
+   "summary": "itch.ioは11月3日、ゲームの検索における、AIフィルタリング機能を実装した。AIの使用有無のほか、グラフィックやコード、ツール使用などの「用途」でもフィルタリングできるようになっている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261104-477307/",
+   "pubDate": "2026-11-04T01:29:37.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477307-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261104-477307/"
+    }
+   ]
+  },
+  {
+   "title": "「GTA6」のプリロードが11月10日に開始決定。容量は最大で驚異の212GB",
+   "summary": "ロックスター・ゲームスは、オープンワールドクライムアクション「グランド・セフト・オートVI（GTA6）」のプリロード（事前ダウンロード）を11月10日に開始する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2153345.html",
+   "pubDate": "2026-11-04T01:25:45.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2153345.html"
+    }
+   ]
+  },
+  {
+   "title": "ディズニーストア「アナ雪」2026クリスマスグッズを写真で紹介短編「家族の思い出」から人形やサー・ヨルゲンビョルゲンがグッズ化",
+   "summary": "ディズニーストアは、新コレクション「DISNEY FRONZEN CHRISTMAS 2026」を11月6日より販売する。本稿では、ディズニーフラッグシップ東京で実施された内覧会の様子をお送りする。",
+   "link": "https://game.watch.impress.co.jp/docs/preview/2153348.html",
+   "pubDate": "2026-11-04T01:24:53.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/preview/2153348.html"
+    }
+   ]
+  },
+  {
+   "title": "「たまごっち」30周年記念のめじるしアクセサリーが素敵！アニバーサリー仕様の「まめっち」「くちぱっち」など全8種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/04/190324.html",
+   "pubDate": "2026-11-04T01:15:03.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/04/190324.html"
+    }
+   ]
+  },
+  {
+   "title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Now Live - New Additions, Changes & Improvements",
+   "summary": "Including paid and free character updates. : It's another huge week in gaming, and Sonic Racing: CrossWorlds is joining in on the fun with i…",
+   "link": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-now-live-new-additions-changes-and-improvements",
+   "pubDate": "2026-11-04T01:15:00.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://images.nintendolife.com/18e28c0a27fab/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-now-live-new-additions-changes-and-improvements"
+    }
+   ]
+  },
+  {
+   "title": "Steamにて「新作ゲームの審査が遅い」と悲鳴続出するなか、“1発合格を増やす”新審査プロセス導入。「まず5分はプレイして」など初歩的チェックが義務化",
+   "summary": "Valveは11月4日、開発者向けにリリース前のゲームのレビュー（審査）プロセスを更新したことを発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261104-477286/",
+   "pubDate": "2026-11-04T01:13:23.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/07/steam-20260723-456203-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 23,
+   "categories": [
+    "new",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261104-477286/"
+    }
+   ]
+  },
+  {
+   "title": "ファンタジー動乱SLG『ブリガンダイン アビス』初の無料アプデ配信。厳しい評価のバランスと遊びやすさ、4回かけてがっつり改善へ",
+   "summary": "ハピネットは11月4日、ファンタジーウォーシミュレーションゲーム『ブリガンダイン アビス』の無料アップデート第1弾を配信した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261104-477288/",
+   "pubDate": "2026-11-04T01:07:21.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477288-002.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ブリガンダイン アビス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261104-477288/"
+    }
+   ]
+  },
+  {
+   "title": "ディズニーストア、2026クリスマスグッズを現地より写真で紹介レトロスタイルのラインナップ。ドナルドの光るセーター、ツリー型お菓子ケースなどが登場",
+   "summary": "ディズニーストアは、11月6日よりクリスマスコレクション「DISNEY CHRISTMAS 2026」を発売する。本稿では、ディズニーフラッグシップ東京で実施された内覧会の様子をお送りする。",
+   "link": "https://game.watch.impress.co.jp/docs/preview/2153340.html",
+   "pubDate": "2026-11-04T01:07:06.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/preview/2153340.html"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』4周年記念オフラインイベントを秋葉原で開催。巨大なキャラクターバルーンや迫力満点のフロア3Dアートが登場、会場のコスプレイヤーと一緒に「勝利の鐘」を鳴らすこともできる",
+   "summary": "会場のコスプレイヤーと一緒に「勝利の鐘」を鳴らせる特別アトラクションも。開催期間は11月7日と8日の2日間",
+   "link": "https://news.denfaminicogamer.jp/news/261104d",
+   "pubDate": "2026-11-04T01:00:26.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/9605c5e5ef71733cd24b1be4cfbfb52d-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261104d"
+    }
+   ]
+  },
+  {
+   "title": "『アナザーエデン』『ハーヴェステラ』プロデューサーが手がける新作『エバーブリンク』発表。毎ターン崩れる浮島で生き延び、敵拠点を落とす4Xローグライクデッキビルダー",
+   "summary": "ディレクターの高大輔氏は『Civilization IV』の愛好家で、テンポ重視で開発中。2027年に早期アクセス配信予定",
+   "link": "https://news.denfaminicogamer.jp/news/261104i",
+   "pubDate": "2026-11-04T01:00:05.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Everbrink_JP_04-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アナザーエデン",
+    "ハーヴェステラ",
+    "エバーブリンク"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261104i"
+    }
+   ]
+  },
+  {
+   "title": "あなたの星座はだれ？「サンリオキャラクターズ」が12星座に変身したガシャポン「星座スイングマスコット」が11月第4週より発売！",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/04/190323.html",
+   "pubDate": "2026-11-04T01:00:03.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/04/190323.html"
+    }
+   ]
+  },
+  {
+   "title": "『ブリガンダイン アビス』無料アップデート第1弾配信開始！今後の無料アップデートロードマップも公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SblhVbVZFQ2VJMGM2STZ0cFA5Y05ESmc3bjdoZGxtTzltb0o3ZFRqS1hkbGJhLWV6dEh1dUxXQVE3TktDZE0zR0NSQlVrWUk3TDNnSnRieW5GZTA?oc=5",
+   "pubDate": "2026-11-04T01:00:02.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ブリガンダイン アビス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SblhVbVZFQ2VJMGM2STZ0cFA5Y05ESmc3bjdoZGxtTzltb0o3ZFRqS1hkbGJhLWV6dEh1dUxXQVE3TktDZE0zR0NSQlVrWUk3TDNnSnRieW5GZTA?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "元スクエニ『ハーヴェステラ』開発者が放つ新作『エバーブリンク』発表。崩れ続ける空島で“前進あるのみ”ローグライクストラテジー",
+   "summary": "Impachiは11月4日、4Xローグライクデッキビルダー『Everbrink（エバーブリンク）』を発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261104-477277/",
+   "pubDate": "2026-11-04T01:00:01.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477277-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ハーヴェステラ",
+    "エバーブリンク"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261104-477277/"
+    }
+   ]
+  },
+  {
+   "title": "AIでメモ・予定・買い物などを管理するアプリ「Notist」が大型アップデート。使う人を理解して先回りするAI秘書に",
+   "summary": "GigaCraft合同会社 (本社: 東京都渋谷区) は、AIを使ってメモ・予定・ToDo・買い物リスト・レシピをまとめて管理できるアプリ「Notist (ノーティスト)」の大型アップデートを2026年11月4日に公開しました。これま...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000001.000192874.html",
+   "pubDate": "2026-11-04T01:00:00.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "Notist"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000001.000192874.html"
+    }
+   ]
+  },
+  {
+   "title": "『ソニックレーシング クロスワールド』の「シーズン2」が開幕！ 新たなモードやキャラクター、ガジェットなどが登場",
+   "summary": "『ソニックレーシング クロスワールド』の「シーズン2」が本日11月4日（水）開幕！ 新たなモードやキャラクター、ガジェットが登場。歴代セガハードをモチーフにしたマシンなど、 開発チームが「シーズン2」に込めたこだわりを語る。",
+   "link": "https://blog.ja.playstation.com/2026/11/04/20261104-sonicracing-season2-interview-feature-o/",
+   "pubDate": "2026-11-04T00:47:52.000Z",
+   "firstSeen": "2026-11-04T01:47:50.775Z",
+   "image": "https://blog.ja.playstation.com/tachyon/sites/7/2026/11/81c8979796d16629ae0c18c4fa5d3c6ea160633d.png?fit=1024%2C1024",
+   "source": "PlayStation.Blog",
+   "sourceId": "ps-blog",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ソニックレーシング クロスワールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PlayStation.Blog",
+     "sourceId": "ps-blog",
+     "link": "https://blog.ja.playstation.com/2026/11/04/20261104-sonicracing-season2-interview-feature-o/"
+    }
+   ]
+  },
   {
    "title": "ゲーム『ガールズバンドクライ First Riff』事前登録開始！手島nari氏の描き下ろしKV、トゲナシトゲアリ主題歌によるPV第1弾を解禁",
    "summary": "",
@@ -79533,7 +80124,7 @@
    "firstSeen": "2026-10-28T16:47:41.296Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -79551,9 +80142,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paHl1Wm1OLVZhQ2RPcVVqRU9yNlNPWUJpMnh3Y2FVWmV2cTBfSmM3TTl2amxQSGtjMTVFVEYyWXVJRDRUM2dpY1N6WTdRclFpMDhRdkFOZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -81505,7 +82096,7 @@
    "firstSeen": "2026-10-28T15:47:35.980Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -81524,9 +82115,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Y1R5OXNZa1Vmb1FabHotXzFSLTNjMFdrYUN1WW5NX1QzOVR0WlExZk5HMllKcTNWY2dfNkRGOHMtSUJDZTZKT2xmTl92R1hWM04zU2g4MA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
@@ -90458,7 +91049,7 @@
    "firstSeen": "2026-10-28T05:47:37.368Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -90478,9 +91069,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NLUNHRUlKcHhCa2FqdV9DTjNLendnQXhLOThIY1d6LW1oeHpNeWlaNHFXRC1yd0FxV255RnlTT2dEbjc3SjU3cFgzaVFxeGx6MkZ5NXE3aw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -90923,7 +91514,7 @@
    "firstSeen": "2026-10-28T05:47:37.368Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -90944,9 +91535,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4YkdZWXBXb1VHeGNIWTJvR0lpdU55aEN1aUhIR1BIazFyRExjaGRJWXZjY2o5QXNTM3NTU1dOQUlad2IwUThGOExTZVRRaWx0Qjgzdkx4SQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -191652,534 +192243,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls"
-    }
-   ]
-  },
-  {
-   "title": "【1話無料】アニメ「サイバーパンク: エッジランナーズ2」第1話がTwitchにて配信決定！アーカイブは無し、10月20日19時スタートの配信を見逃すな",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/20/173817.html",
-   "pubDate": "2026-10-19T21:00:03.000Z",
-   "firstSeen": "2026-10-19T21:47:37.590Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/20/173817.html"
-    }
-   ]
-  },
-  {
-   "title": "『ウマ娘』新作一番くじがオンライン販売！主役はステゴ一族、GWコラボのフィギュアやゴールドすぎる「金のゴルシ像」が登場",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/20/189517.html",
-   "pubDate": "2026-10-19T21:00:03.000Z",
-   "firstSeen": "2026-10-19T21:47:37.590Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 3,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/20/189517.html"
-    }
-   ]
-  },
-  {
-   "title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
-   "summary": "Business strategy manager Brandon Stirrup said he was \"happy to take the hit\" for his stance on AI, then left social media.",
-   "link": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
-   "pubDate": "2026-10-19T20:44:12.000Z",
-   "firstSeen": "2026-10-19T20:47:33.607Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/nnXTHjAJbZ7bw4xzhZJCw-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/"
-    }
-   ]
-  },
-  {
-   "title": "For Today Only, Save $580 Off the ASUS ROG Zephyrus G16 RTX 5090 Laptop at Best Buy",
-   "summary": "The ultimate mobile AI workstation and 2.5K gaming platform weighs only 4.3 pounds.",
-   "link": "https://www.ign.com/articles/asus-rog-zephyrus-g16-rtx-5090-laptop-october-2026",
-   "pubDate": "2026-10-19T20:15:00.000Z",
-   "firstSeen": "2026-10-19T21:47:37.590Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/asusrogzephyrusg16-1792440291059.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/asus-rog-zephyrus-g16-rtx-5090-laptop-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "Today’s Top Deals: Final Fantasy VII Rebirth, 512GB Switch 2 Memory Card, Sony Noise Canceling Earbuds",
-   "summary": "Plus, save on more Square Enix games, a LG OLED C6 TV, LEGO Succulents, and Audible.",
-   "link": "https://www.ign.com/articles/best-deals-for-october-19-2026",
-   "pubDate": "2026-10-19T20:10:00.000Z",
-   "firstSeen": "2026-10-19T21:47:37.590Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/untitled-design-21-1792429743454.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-october-19-2026"
-    }
-   ]
-  },
-  {
-   "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
-   "summary": "Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its…",
-   "link": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
-   "pubDate": "2026-10-19T19:54:06.000Z",
-   "firstSeen": "2026-10-19T20:47:33.607Z",
-   "image": "https://assetsio.gnwcdn.com/Revamp-Dracula.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "demo",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats"
-    }
-   ]
-  },
-  {
-   "title": "Japanese Tekken Players Are Likening Tekken 6’s Rollback Netcode Mod to Serious Crimes and the Fighting Game Community Is Split",
-   "summary": "Two weeks ago, a Tekken player created a mod that allowed users to play the game online with rollback netcode, sparking a community-wide deb…",
-   "link": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split",
-   "pubDate": "2026-10-19T19:45:30.000Z",
-   "firstSeen": "2026-10-19T20:47:33.607Z",
-   "image": "https://assets1.ignimgs.com/2009/06/22/tekken-6-20090622114521975-2901750.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split"
-    }
-   ]
-  },
-  {
-   "title": "Save $110 for Your First Year With McAfee+ Scam Detector, Including a VPN, Antivirus and Online Protection in the Age of AI",
-   "summary": "McAfee+ has multiple ways of protecting you that go far beyond what is possible on a web browser.",
-   "link": "https://www.ign.com/articles/mcafee-plus-advanced-online-protection-plan-deal-october-2026",
-   "pubDate": "2026-10-19T19:31:23.000Z",
-   "firstSeen": "2026-10-19T20:47:33.607Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/mcafee-protection-blogroll-1-1792437215944.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/mcafee-plus-advanced-online-protection-plan-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "WoW: Forever Is Soaring, But Midnight Is Struggling",
-   "summary": "World of Warcraft: Forever is riding high thanks to its popular beta and upcoming launch, but retail WoW's Midnight expansion feels like it'…",
-   "link": "https://www.gamespot.com/articles/wow-forever-is-soaring-but-midnight-is-struggling/",
-   "pubDate": "2026-10-19T19:21:39.000Z",
-   "firstSeen": "2026-10-19T19:47:35.672Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Midnight-patch-1215.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/wow-forever-is-soaring-but-midnight-is-struggling/"
-    }
-   ]
-  },
-  {
-   "title": "You Don’t Need An Expensive Console Or High-End PC To Play Call Of Duty: Modern Warfare 4",
-   "summary": "Call of Duty: Modern Warfare 4 releases this week, and with gaming consoles and capable PC rigs now more expensive than ever, you might be w…",
-   "link": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/",
-   "pubDate": "2026-10-19T19:11:06.000Z",
-   "firstSeen": "2026-10-19T19:47:35.672Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/COD1.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/"
-    }
-   ]
-  },
-  {
-   "title": "Save 20% Off the SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life",
-   "summary": "Rated one of the best gaming headsets for 4 years running.",
-   "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026",
-   "pubDate": "2026-10-19T18:45:00.000Z",
-   "firstSeen": "2026-10-19T19:47:35.672Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/steelseriesnova7prowirelessps5-1792433802405.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 20,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "PSA Responds After More Than $100,000 Worth of Graded Trading Cards Stolen from FedEx Truck",
-   "summary": "Hundreds of PSA-graded trading cards worth more than $100,000 were reportedly stolen from a FedEx truck over the weekend, leaving collectors…",
-   "link": "https://www.ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck",
-   "pubDate": "2026-10-19T18:44:55.000Z",
-   "firstSeen": "2026-10-19T19:47:35.672Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/hundreds-of-psa-graded-trading-cards-stolen-from-fedex-truck-1792435194146.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck"
-    }
-   ]
-  },
-  {
-   "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
-   "summary": "Final Fantasy 7 Revelation will let players access Hard Mode from the very beginning of the journey, unlike FF7 Remake and Rebirth, which ma…",
-   "link": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
-   "pubDate": "2026-10-19T18:27:17.000Z",
-   "firstSeen": "2026-10-19T18:47:36.557Z",
-   "image": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-sephiroth.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg"
-    }
-   ]
-  },
-  {
-   "title": "Hidisc、12ドルのUSB-C→HDMIケーブルを発表 Switch 2のドック不要化を実現",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXLUFLTGZ4dkQwTU4zOGlDZWJSa0p5ZjM1X0RVMUxpc0haU3FIdVdoUHhKWFI3RUhaUFo0UVNac1pWRVVzcV9ucTdmenJ5ZW1DYXFWaWdSTzlUTnlWSjh0NWNGZkZfd3k0Q0VVS3NIalRXR01V?oc=5",
-   "pubDate": "2026-10-19T18:20:00.000Z",
-   "firstSeen": "2026-10-20T00:42:44.543Z",
-   "image": null,
-   "source": "BigGo ファイナンス",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "BigGo ファイナンス",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXLUFLTGZ4dkQwTU4zOGlDZWJSa0p5ZjM1X0RVMUxpc0haU3FIdVdoUHhKWFI3RUhaUFo0UVNac1pWRVVzcV9ucTdmenJ5ZW1DYXFWaWdSTzlUTnlWSjh0NWNGZkZfd3k0Q0VVS3NIalRXR01V?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build",
-   "summary": "",
-   "link": "https://www.ign.com/articles/lego-and-netflix-team-up-for-37000-piece-kpop-demon-hunters-build",
-   "pubDate": "2026-10-19T18:08:16.000Z",
-   "firstSeen": "2026-10-19T19:47:35.672Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/derpy-1792431905841.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/lego-and-netflix-team-up-for-37000-piece-kpop-demon-hunters-build"
-    }
-   ]
-  },
-  {
-   "title": "Save 50% (Nearly $200 Off) the Daran 288Wh 600W LiFePO4 Power Station With Solar Panel Kit",
-   "summary": "Unlimited, renewable battery backup when the sun's out.",
-   "link": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-october-2026",
-   "pubDate": "2026-10-19T18:05:00.000Z",
-   "firstSeen": "2026-10-19T19:47:35.672Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/daranpowerstationsolarpanel-1792432490457.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?",
-   "summary": "Fairy Tales. In case you haven't noticed, another chance to play The Legend of Zelda: Ocarina of Time is on the horizon. The coming 5th Nove…",
-   "link": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
-   "pubDate": "2026-10-19T18:00:00.000Z",
-   "firstSeen": "2026-10-19T18:47:36.557Z",
-   "image": "https://images.nintendolife.com/17264a33a3720/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time"
-    }
-   ]
-  },
-  {
-   "title": "Hideo Kojima Loved Whalefall, but It Ruined Eating Squid for Him",
-   "summary": "The Metal Gear Solid creator and serious movie buff shared his thoughts on the film over the weekend, revealing a love for whales that has b…",
-   "link": "https://www.ign.com/articles/hideo-kojima-loved-whalefall-but-it-ruined-eating-squid-for-him",
-   "pubDate": "2026-10-19T17:55:57.000Z",
-   "firstSeen": "2026-10-19T18:47:36.557Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/05/hideo-kojima-cameo-1791239209795.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/hideo-kojima-loved-whalefall-but-it-ruined-eating-squid-for-him"
-    }
-   ]
-  },
-  {
-   "title": "This Adorable LEGO Arcade Machine Set Is on Sale (and Retiring Soon)",
-   "summary": "",
-   "link": "https://www.ign.com/articles/lego-arcade-machine-set-on-sale-and-retiring-soon",
-   "pubDate": "2026-10-19T17:49:06.000Z",
-   "firstSeen": "2026-10-19T18:47:36.557Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/19/lego-arcade-machine-blogroll-1792431558651.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/lego-arcade-machine-set-on-sale-and-retiring-soon"
     }
    ]
   }
