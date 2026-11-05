@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-05T15:47:58.396Z",
+ "generatedAt": "2026-11-05T16:47:52.328Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1282,
+  "exact": 1285,
   "syndicated": 88,
   "similar": 369,
   "syndicatedTotal": 406,
@@ -8294,23 +8294,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-07",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "GAME GRAPHICS JAM",
-   "title": "インディーゲームの\"グラフィック\"に特化したオンラインイベント『GAME GRAPHICS JAM』が11/7開催決定",
-   "link": "https://prtimes.jp/main/html/rd/p/000000294.000073594.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-08",
    "precision": "day",
    "verb": "event",
@@ -8694,6 +8677,27 @@
     "review"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-11",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "「Apex Legends」と「ゴジラ」コラボの詳細公開！マップ内でゴジラが“熱線”を放つ11月11日より開催予定",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154076.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "platforms": [
+    "switch2",
+    "ps5",
+    "xbox"
+   ],
    "spoiler": false
   },
   {
@@ -13256,20 +13260,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-05",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": "ドラクエ",
-   "title": "『ドラクエ』カジノ風プレイコイン付きビスケットが2027年5月発売。スライム、竜王、キラーマシンなどデザイン15種。40周年レアはホロ＆金色箔押し仕様",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVFRud0E0UXZIT0N0bnZyZllNZUhHRFVzMk5DV3RSNTRqbG01bDZBdnNfVWRxZjZkWTNOajBaSmRFdUhmQUI1QV9hYVE0Qmc4bUN0bWROaw?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-05-15",
    "precision": "day",
    "verb": "event",
@@ -13387,8 +13377,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 687,
-   "accepted": 652
+   "archived": 688,
+   "accepted": 653
   },
   {
    "id": "gamespark",
@@ -13453,8 +13443,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 723,
-   "accepted": 583
+   "archived": 726,
+   "accepted": 584
   },
   {
    "id": "gnews-dengeki",
@@ -13464,8 +13454,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 735,
-   "accepted": 398
+   "archived": 736,
+   "accepted": 399
   },
   {
    "id": "gnews-newgame",
@@ -13475,8 +13465,8 @@
    "ok": true,
    "error": null,
    "fetched": 80,
-   "archived": 525,
-   "accepted": 488
+   "archived": 526,
+   "accepted": 489
   },
   {
    "id": "gnews-switch2",
@@ -13486,8 +13476,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1457,
-   "accepted": 1279
+   "archived": 1459,
+   "accepted": 1281
   },
   {
    "id": "gnews-ps5",
@@ -13497,8 +13487,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 717,
-   "accepted": 656
+   "archived": 718,
+   "accepted": 657
   },
   {
    "id": "gnews-update",
@@ -13507,9 +13497,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 81,
-   "archived": 452,
-   "accepted": 360
+   "fetched": 80,
+   "archived": 451,
+   "accepted": 359
   },
   {
    "id": "prtimes",
@@ -13519,7 +13509,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26142,
+   "archived": 26168,
    "accepted": 469
   },
   {
@@ -13541,8 +13531,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1282,
-   "accepted": 1282
+   "archived": 1276,
+   "accepted": 1276
   },
   {
    "id": "eurogamer",
@@ -13574,8 +13564,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 338,
-   "accepted": 338
+   "archived": 340,
+   "accepted": 340
   },
   {
    "id": "pcgamer",
@@ -13585,11 +13575,276 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 597,
-   "accepted": 597
+   "archived": 598,
+   "accepted": 598
   }
  ],
  "items": [
+  {
+   "title": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time",
+   "summary": "Link will see you now. We are back with another look at the Japanese charts, courtesy of Famitsu, and it has been another big week for Ninte…",
+   "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time",
+   "pubDate": "2026-11-05T16:30:00.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://images.nintendolife.com/794969a20e4ec/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time"
+    }
+   ]
+  },
+  {
+   "title": "PC Gamer magazine's new issue is on sale now: Metro 2039",
+   "summary": "Plus, StarCraft, Diablo 5, Masters of Albion, Warhammer Blood Bowl, Valor Mortis, Endless Legend 2, Guns of Eschaton, Nighthawks, and much m…",
+   "link": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-metro-2039/",
+   "pubDate": "2026-11-05T16:28:57.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/6uR2ASAqLXhiXu4rvch8w9-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-metro-2039/"
+    }
+   ]
+  },
+  {
+   "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+   "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6, ahead of its release later this month. Read more",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+   "pubDate": "2026-11-05T16:18:40.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots"
+    }
+   ]
+  },
+  {
+   "title": "【2,580円→0円】海面町建設SLG『Flotsam 漂流ガラクタウン』本編＆放置系SLG『Idle Champions of the Forgotten Realms』アイテム―Epic Gamesストアにて11月12日まで無料配布",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/06/174542.html",
+   "pubDate": "2026-11-05T16:01:04.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "epic"
+    ],
+    "off": null,
+    "free": true
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Flotsam 漂流ガラクタウン",
+    "Idle Champions of the Forgotten Realms"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/06/174542.html"
+    }
+   ]
+  },
+  {
+   "title": "「Apex Legends」と「ゴジラ」コラボの詳細公開！マップ内でゴジラが“熱線”を放つ11月11日より開催予定",
+   "summary": "Electronic Artsは、プレイステーション 5/プレイステーション 4/Xbox Series X|S/Xbox One/Nintendo Switch 2/PC用バトルロイヤルゲーム「Apex Legends」において、怪獣映画「ゴジラ」シリーズとのコラボイベントを1…",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154076.html",
+   "pubDate": "2026-11-05T16:00:00.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2154076.html"
+    }
+   ]
+  },
+  {
+   "title": "Poll: Will You Be Using Zelda Notes With Ocarina Of Time?",
+   "summary": "Give us the gossip. With the Ocarina of Time Switch 2 remake, Nintendo is once again using its Zelda Notes feature via the Nintendo Switch a…",
+   "link": "https://www.nintendolife.com/features/poll-will-you-be-using-zelda-notes-with-ocarina-of-time",
+   "pubDate": "2026-11-05T16:00:00.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://images.nintendolife.com/30cceb417e635/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/features/poll-will-you-be-using-zelda-notes-with-ocarina-of-time"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6: Lots Of New Images Have Been Released",
+   "summary": "Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a \"launch gallery.\" The bra…",
+   "link": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/",
+   "pubDate": "2026-11-05T15:55:32.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/"
+    }
+   ]
+  },
+  {
+   "title": "GOG Announces Road Rash Touch Up and a Publishing Arm for 'New Games With a Classic Soul'",
+   "summary": "GOG is old enough to drink in the UK. To celebrate that milestone, the DRM-free storefront — which lets players do what they want to games o…",
+   "link": "https://www.ign.com/articles/gog-announces-road-rash-touch-up-new-publishing-arm",
+   "pubDate": "2026-11-05T15:47:54.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/05/road-rash-1793893660408.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gog-announces-road-rash-touch-up-new-publishing-arm"
+    }
+   ]
+  },
+  {
+   "title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
+   "summary": "As the fate of Arkane Lyon hangs in the balance, a union representing workers from the French studio offered strong words toward Arkane's pa…",
+   "link": "https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade/",
+   "pubDate": "2026-11-05T15:45:56.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvels-Blade-_-Announcement-Trailer-_-The-Game-Awards-2023-0-1-15.jpeg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade/"
+    }
+   ]
+  },
   {
    "title": "『GTA6』新スクリーンショット一挙公開！迫る発売を前にバイスシティの雰囲気を堪能",
    "summary": "",
@@ -13615,6 +13870,58 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/06/174541.html"
+    }
+   ]
+  },
+  {
+   "title": "Rockstar Games Releases 39 New GTA 6 Screenshots to Celebrate Two Weeks from Launch",
+   "summary": "Rockstar Games has released a few dozen new screenshots from GTA 6 to celebrate the game being two weeks away from launch.",
+   "link": "https://www.ign.com/articles/rockstar-games-releases-39-new-gta-6-screenshots-to-celebrate-two-weeks-from-launch",
+   "pubDate": "2026-11-05T15:34:31.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/rockstar-games-releases-39-new-gta-6-screenshots-to-celebrate-two-weeks-from-launch"
+    }
+   ]
+  },
+  {
+   "title": "45% of PC Gamer readers cleaned out their rig in the last six months and now I feel like a right grubchild for not remembering the last time I dusted mine",
+   "summary": "My, what a wholesome bunch you are.",
+   "link": "https://www.pcgamer.com/hardware/45-percent-of-pc-gamer-readers-cleaned-out-their-rig-in-the-last-six-months-and-now-i-feel-like-a-right-grubchild-for-not-remembering-the-last-time-i-dusted-mine/",
+   "pubDate": "2026-11-05T15:33:41.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/dYjhk7Px7Vfg5DJ9WppP2T-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/45-percent-of-pc-gamer-readers-cleaned-out-their-rig-in-the-last-six-months-and-now-i-feel-like-a-right-grubchild-for-not-remembering-the-last-time-i-dusted-mine/"
     }
    ]
   },
@@ -13671,6 +13978,32 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/06/174540.html"
+    }
+   ]
+  },
+  {
+   "title": "I’m Excited For Elder Scrolls 6: Sentinel To Be Nothing Like Skyrim",
+   "summary": "The Elder Scrolls is headed to the desert region of Hammerfell and I hope the world of Sentinel looks and feels nothing like Skyrim.",
+   "link": "https://www.ign.com/articles/im-excited-for-elder-scrolls-6-sentinel-to-be-nothing-like-skyrim",
+   "pubDate": "2026-11-05T15:30:00.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/05/tes6-sentinel-weird-blogroll-1793875467517.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/im-excited-for-elder-scrolls-6-sentinel-to-be-nothing-like-skyrim"
     }
    ]
   },
@@ -14244,6 +14577,37 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/"
+    }
+   ]
+  },
+  {
+   "title": "『スーパーリアル麻雀VR』に新展開!? スーパーリアル麻雀と言えばのなにかが11/6 12時発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRHl3UUN1SjdYbDQyLTEyNE54Ulo2YVVtTEVqOHdwN18tTzlQdXpwUFlsVXRBemFDSk95UFFOQTZqQmJrS2dUYUcwSWdDYVZsQ0Nad1psY21LZw?oc=5",
+   "pubDate": "2026-11-05T14:21:00.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "vr"
+   ],
+   "works": [
+    "スーパーリアル麻雀VR"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRHl3UUN1SjdYbDQyLTEyNE54Ulo2YVVtTEVqOHdwN18tTzlQdXpwUFlsVXRBemFDSk95UFFOQTZqQmJrS2dUYUcwSWdDYVZsQ0Nad1psY21LZw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -15668,6 +16032,40 @@
    ]
   },
   {
+   "title": "『ガルクラ』×『楽園追放』歴代JKビジュアルでまさかのコラボ。『雑踏、僕らの街』を使ったコラボPVも",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUnA0OXhyNTFQWVVUN0JYSjZZS09Sby15c0NsUm9kZmNJZjN1VDhPT0J5ZWtrbVE3MDBTaGFBOVRDUzc5MzNFSTVPZnFrOE9JbWNMM0Njd1dFUQ?oc=5",
+   "pubDate": "2026-11-05T11:33:00.000Z",
+   "firstSeen": "2026-11-05T16:47:37.369Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ガルクラ",
+    "楽園追放",
+    "雑踏、僕らの街"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUnA0OXhyNTFQWVVUN0JYSjZZS09Sby15c0NsUm9kZmNJZjN1VDhPT0J5ZWtrbVE3MDBTaGFBOVRDUzc5MzNFSTVPZnFrOE9JbWNMM0Njd1dFUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "「ソニックレーシング クロスワールド」，The k4senやオートバックスとのコラボステッカーが登場",
    "summary": "",
    "link": "https://www.4gamer.net/games/882/G088214/20261105056/",
@@ -16856,7 +17254,7 @@
    "firstSeen": "2026-11-05T11:47:34.205Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16878,9 +17276,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VMlBiTlhKRmJ1OXdBbWJ1cWFSa0NkRHg1Q3Q0cjZxWGVEWmp3MUhBWm1UMWNsVDhnajNBUXhTRTZRR3FpLV9pNFQ2SzIyQkJJVGhYWnc3bFNFZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -20673,7 +21071,7 @@
    "firstSeen": "2026-11-05T05:47:45.891Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -20692,9 +21090,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OSTRTNE1TZXNKVzctTmZvank0ZXlMRk9icmpWWUg1N2lfbU9jLV9rVVlYcFBqUU05SnRydWVwM2EwMXBITXJxb3NUd1dnRUZGSEgtZXZlWQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -22266,7 +22664,7 @@
    "firstSeen": "2026-11-05T04:47:37.015Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -22283,9 +22681,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sRFpWa0RUOUJmZERTY3FIXzdNZFRNRTMyemJ5QnR4RDk2SDlKSzFxVHpmTmRlVGQ2VHNHb0NqYV9oWkhENTZFX1VfbmNXUVUxb3ctNmtFczBTQQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -192400,412 +192798,6 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/"
-    }
-   ]
-  },
-  {
-   "title": "イラストレーターlack氏とKeychronとのコラボレーションキーボードの製品開発プロジェクトが始動。ユーザー参加型アンケートを実施中",
-   "summary": "10月21日、株式会社コペックジャパンは、Keychronとイラストレーターlack氏とのコラボレーションキーボードの製品開発プロジェクトが始動したことを発表した。 同製品は、デザイン性と優れた機能性を高次元で兼ね備えたキーボードを実現すべく、現在製品開発を進めている段階だ。また…",
-   "link": "https://news.denfaminicogamer.jp/news/2610213g",
-   "pubDate": "2026-10-21T13:42:10.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-31-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "new",
-    "collab",
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610213g"
-    }
-   ]
-  },
-  {
-   "title": "インディーゲームの\"グラフィック\"に特化したオンラインイベント『GAME GRAPHICS JAM』が11/7開催決定",
-   "summary": "株式会社ボーンデジタル（本社：東京都千代田区、代表取締役：新 和也、URL： GRAPHICS JAM』をオ...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000294.000073594.html",
-   "pubDate": "2026-10-21T13:40:02.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "GAME GRAPHICS JAM"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000294.000073594.html"
-    }
-   ]
-  },
-  {
-   "title": "After 15-Year Absence, EA Is Bringing Back The Fight Night Franchise",
-   "summary": "EA Sports has announced that its Fight Night series of boxing games is coming back. Fans have been waiting a very long time, considering the…",
-   "link": "https://www.gamespot.com/articles/after-15-year-absence-ea-is-bringing-back-the-fight-night-franchise/",
-   "pubDate": "2026-10-21T13:37:04.000Z",
-   "firstSeen": "2026-10-21T14:47:56.716Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/fightnight.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/after-15-year-absence-ea-is-bringing-back-the-fight-night-franchise/"
-    }
-   ]
-  },
-  {
-   "title": "Guide: 65 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Screaming Deals' Sale (North America)",
-   "summary": "Every game we scored 9/10 or higher, plus a personal pick. Nintendo is welcoming the spooky season the only way it knows how: with a big old…",
-   "link": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america",
-   "pubDate": "2026-10-21T13:30:00.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://images.nintendolife.com/859160d554fe2/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『サイバーパンク: エッジランナーズ2』のサントラが各音楽サービスにて配信開始。ED曲「Watson」や「You Can’t Run From Me」を含む全8曲を収録",
-   "summary": "今堀恒雄氏が手がける「Original Series Score」も配信され、「Out of Bounds」「Leaving the City」などが各種音楽サービスで聴ける",
-   "link": "https://news.denfaminicogamer.jp/news/2610213h",
-   "pubDate": "2026-10-21T13:29:46.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HVJgVjeaEAA4Xlj-819x1024.jpeg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サイバーパンク: エッジランナーズ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610213h"
-    }
-   ]
-  },
-  {
-   "title": "『ドラクエ』カジノ風プレイコイン付きビスケットが2027年5月発売。スライム、竜王、キラーマシンなどデザイン15種。40周年レアはホロ＆金色箔押し仕様",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVFRud0E0UXZIT0N0bnZyZllNZUhHRFVzMk5DV3RSNTRqbG01bDZBdnNfVWRxZjZkWTNOajBaSmRFdUhmQUI1QV9hYVE0Qmc4bUN0bWROaw?oc=5",
-   "pubDate": "2026-10-21T13:29:00.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVFRud0E0UXZIT0N0bnZyZllNZUhHRFVzMk5DV3RSNTRqbG01bDZBdnNfVWRxZjZkWTNOajBaSmRFdUhmQUI1QV9hYVE0Qmc4bUN0bWROaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "歩いた分だけ愛馬が強くなる育成ゲーム『ウマウォーク』配信開始。歩数や階段、睡眠などの生活習慣で育成し、毎週日曜21時のレースに挑戦！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02anQ1ZVJpR0ZWWlRzWUFTNFNIOWhQeTlHUWhfaVBWNjZuMUJCU1gwSUxlQzFsZ3k1MmlaNUpWMmlBMHhpNktqQjJxSVRtbGFPRDFFN0k0eU03Zw?oc=5",
-   "pubDate": "2026-10-21T13:27:00.000Z",
-   "firstSeen": "2026-10-22T00:47:58.485Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマウォーク"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02anQ1ZVJpR0ZWWlRzWUFTNFNIOWhQeTlHUWhfaVBWNjZuMUJCU1gwSUxlQzFsZ3k1MmlaNUpWMmlBMHhpNktqQjJxSVRtbGFPRDFFN0k0eU03Zw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "COD: Modern Warfare 4 DMZ players are spawning in the middle of a road and being flattened before they can do anything",
-   "summary": "Infinity Ward opened up early access to Call of Duty: Modern Warfare 4's DMZ extraction mode overnight, meaning anyone who has pre-ordered a…",
-   "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover",
-   "pubDate": "2026-10-21T13:21:37.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover"
-    }
-   ]
-  },
-  {
-   "title": "『ちいかわ』更新（10/21）。うさぎの●●毛がない…ちいかわたちも感情が読み取れず困惑!?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aLWUyOUw4anVHWE42MDBGMVpNckpNZ2hDN1dKbnk3NUtzYmhNSTBteElGR3V6MHlNR09kUnh0WXVkNkp0dU8xTUxMUEF1Mjd4NGxUd0xZSmpOUQ?oc=5",
-   "pubDate": "2026-10-21T13:11:00.000Z",
-   "firstSeen": "2026-10-22T01:47:55.766Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ちいかわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aLWUyOUw4anVHWE42MDBGMVpNckpNZ2hDN1dKbnk3NUtzYmhNSTBteElGR3V6MHlNR09kUnh0WXVkNkp0dU8xTUxMUEF1Mjd4NGxUd0xZSmpOUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Pratfall coming to PS5, Xbox Series, and Switch 2",
-   "summary": "Publisher Daedalic Entertainment and developer Quad Head will release cooperative cave digging and falling game …",
-   "link": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2",
-   "pubDate": "2026-10-21T13:05:27.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Pratfall-Consoles_10-21-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 26,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2"
-    }
-   ]
-  },
-  {
-   "title": "Xbox Game Pass Heading For A Massive Shakeup, Report Says",
-   "summary": "Xbox CEO Asha Sharma is reportedly plotting a \"major overhaul\" of the Xbox Game Pass service, beyond some of the big changes she's made alre…",
-   "link": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/",
-   "pubDate": "2026-10-21T13:04:31.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-4.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/"
-    }
-   ]
-  },
-  {
-   "title": "【お知らせ】Game*Spark緊急メンテナンスを行います",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/21/173911.html",
-   "pubDate": "2026-10-21T13:00:45.000Z",
-   "firstSeen": "2026-10-22T04:47:39.928Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/21/173911.html"
-    }
-   ]
-  },
-  {
-   "title": "『ボダラン』ライクな最大4人協力ハクスラシューターが正式リリース。武器を魔改造してキノコの大群を蹴散らせ―採れたて！本日のSteam注目ゲーム6選【2026年10月21日】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/21/173910.html",
-   "pubDate": "2026-10-21T13:00:02.000Z",
-   "firstSeen": "2026-10-22T04:47:39.928Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ボダラン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/21/173910.html"
-    }
-   ]
-  },
-  {
-   "title": "Samsung Galaxy Tab S12 Ultra Australia Launch: Everything You Need to Know, Specs and Local Pricing",
-   "summary": "",
-   "link": "https://www.ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au",
-   "pubDate": "2026-10-21T13:00:00.000Z",
-   "firstSeen": "2026-10-21T13:47:55.613Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/samsung-ign-article-1-1792580711557.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/samsung-galaxy-tab-s12-ultra-australia-launch-impressions-specs-local-pricing-au"
     }
    ]
   }
