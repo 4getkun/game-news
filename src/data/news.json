@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-05T00:33:18.833Z",
+ "generatedAt": "2026-11-05T00:47:55.351Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1272,
+  "exact": 1273,
   "syndicated": 92,
   "similar": 378,
-  "syndicatedTotal": 405,
+  "syndicatedTotal": 406,
   "syndicatedLeft": 26
  },
  "calendar": [
@@ -13249,8 +13249,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1292,
-   "accepted": 1278
+   "archived": 1290,
+   "accepted": 1276
   },
   {
    "id": "inside-games",
@@ -13260,8 +13260,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1565,
-   "accepted": 1159
+   "archived": 1564,
+   "accepted": 1158
   },
   {
    "id": "ps-blog",
@@ -13325,7 +13325,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 88,
+   "fetched": 86,
    "archived": 522,
    "accepted": 486
   },
@@ -13358,9 +13358,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 68,
-   "archived": 444,
-   "accepted": 358
+   "fetched": 69,
+   "archived": 445,
+   "accepted": 359
   },
   {
    "id": "prtimes",
@@ -13370,8 +13370,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26065,
-   "accepted": 469
+   "archived": 26089,
+   "accepted": 470
   },
   {
    "id": "gematsu",
@@ -13441,6 +13441,73 @@
   }
  ],
  "items": [
+  {
+   "title": "『PUBG: BATTLEGROUNDS』44.1アップデート配信！ 『IVE』コラボがPC版で11月4日から開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqWEczcVFSM1Q3aHJmQnZsNFM1aV9BNXpQYUhsMWJMbnFWOTRsRVNhSGpyRVhYTk5iVWdlWVBIeDBCa3JOUXFfNTVSTVJrVF9kbVVDNExva04yYmw4RFNFbA?oc=5",
+   "pubDate": "2026-11-05T00:43:08.000Z",
+   "firstSeen": "2026-11-05T00:47:33.283Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "PUBG: BATTLEGROUNDS",
+    "IVE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqWEczcVFSM1Q3aHJmQnZsNFM1aV9BNXpQYUhsMWJMbnFWOTRsRVNhSGpyRVhYTk5iVWdlWVBIeDBCa3JOUXFfNTVSTVJrVF9kbVVDNExva04yYmw4RFNFbA?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "資源がどんどん増える街づくりゲーム『クリッキーアイランド』Steamウィッシュリスト登録数20,000件突破！",
+   "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）のパブリッシングレーベル「ポケットペアパブリッシング」は、ポーランドのインディーゲームスタジオ「Karrot Games」が開発する街づくり×...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000163.000071410.html",
+   "pubDate": "2026-11-05T00:40:46.000Z",
+   "firstSeen": "2026-11-05T00:47:33.283Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "クリッキーアイランド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000163.000071410.html"
+    }
+   ]
+  },
   {
    "title": "『NIKKE』PCランチャーのセキュリティ確認を呼びかけ。9月27日15時41分以降にWindows版ランチャーを起動したユーザーが対象",
    "summary": "一部ファイルの改ざんにより、不正プログラムが実行された可能性。現在配布中のランチャーは対策・修正が完了済み。モバイル版には影響なし",
@@ -19244,6 +19311,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xNUZWYVJLUjhrck1IcHJPLVZuNzF6MzVmQWlfSlQ1TWoxUlBtNS00eTQxTDFJc2h3N1haemN4dUUwWVpFWGhHcVRWbG5zWE8tSFlTMw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5peTZfUmVrc2lsLTlHSUI3TnB3MFZ0WGZkNjZ1TXFWNmhaQVVISGR5ZXE0VDVGNnQ0MENhTTZlR1ptNUxkUkM3R0pIQlBxczh2czBGN1FOM1M5SGZTVUdURnBR?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -192605,67 +192679,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/"
-    }
-   ]
-  },
-  {
-   "title": "ID@Xbox Showcase October 2026: Everything Announced",
-   "summary": "From remasters/director's cuts of Shrek 2, The Wolf Among Us, and Zero Parades to games about shredding paper (Paper Shredder!), tongue-grap…",
-   "link": "https://www.ign.com/articles/idxbox-showcase-october-2026-everything-announced",
-   "pubDate": "2026-10-20T18:09:30.000Z",
-   "firstSeen": "2026-10-20T19:38:27.777Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/20/idxbox-1791841137111-1792519364947.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/idxbox-showcase-october-2026-everything-announced"
-    }
-   ]
-  },
-  {
-   "title": "Buckshot Roulette coming to PS5, PS4, and Switch",
-   "summary": "Publisher CRITICAL REFLEX and developer Mike Klubnika will release Buckshot Roulette for PlayStation 5, PlayStation …",
-   "link": "https://www.gematsu.com/2026/10/buckshot-roulette-coming-to-ps5-ps4-and-switch",
-   "pubDate": "2026-10-20T18:04:21.000Z",
-   "firstSeen": "2026-10-20T18:47:35.926Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Buckshot-Roulette-PS-Switch_10-20-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 17,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch",
-    "ps5",
-    "ps4"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/buckshot-roulette-coming-to-ps5-ps4-and-switch"
     }
    ]
   }
