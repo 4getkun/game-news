@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-06T01:47:44.847Z",
+ "generatedAt": "2026-11-06T02:47:57.317Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1291,
+  "exact": 1296,
   "syndicated": 89,
   "similar": 372,
-  "syndicatedTotal": 407,
-  "syndicatedLeft": 25
+  "syndicatedTotal": 409,
+  "syndicatedLeft": 26
  },
  "calendar": [
   {
@@ -6860,6 +6860,57 @@
   {
    "date": "2026-11-06",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "クラウン 603",
+   "title": "幻のクレーンゲーム「クラウン 603」出展！ タイトーブースで自由に触れる【AEPO2026】",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154239.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Stellar Blade コンプリートエディション",
+   "title": "人気アクションADVの完全版「Stellar Blade コンプリートエディション」，本日リリース。Switch2での体験は何が違う？［プレイレポ］",
+   "link": "https://www.4gamer.net/games/035/G103535/20261104053/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch2",
+    "ps5"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「Stellar Blade コンプリートエディション」本日発売。「ベヨネッタ」との新コラボ衣装4種類も収録",
+   "link": "https://www.4gamer.net/games/035/G103535/20261106004/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release",
+    "update",
+    "collab"
+   ],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -12661,7 +12712,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1011,
+   "archived": 1012,
    "accepted": 984
   },
   {
@@ -12705,8 +12756,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 686,
-   "accepted": 651
+   "archived": 687,
+   "accepted": 652
   },
   {
    "id": "gamespark",
@@ -12716,8 +12767,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1284,
-   "accepted": 1269
+   "archived": 1285,
+   "accepted": 1270
   },
   {
    "id": "inside-games",
@@ -12727,8 +12778,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1567,
-   "accepted": 1157
+   "archived": 1570,
+   "accepted": 1159
   },
   {
    "id": "ps-blog",
@@ -12760,7 +12811,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 131,
+   "archived": 130,
    "accepted": 94
   },
   {
@@ -12771,8 +12822,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 723,
-   "accepted": 582
+   "archived": 724,
+   "accepted": 583
   },
   {
    "id": "gnews-dengeki",
@@ -12782,8 +12833,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 742,
-   "accepted": 403
+   "archived": 741,
+   "accepted": 402
   },
   {
    "id": "gnews-newgame",
@@ -12792,9 +12843,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 96,
-   "archived": 542,
-   "accepted": 503
+   "fetched": 94,
+   "archived": 540,
+   "accepted": 501
   },
   {
    "id": "gnews-switch2",
@@ -12805,7 +12856,7 @@
    "error": null,
    "fetched": 100,
    "archived": 1467,
-   "accepted": 1290
+   "accepted": 1292
   },
   {
    "id": "gnews-ps5",
@@ -12815,8 +12866,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 725,
-   "accepted": 664
+   "archived": 727,
+   "accepted": 666
   },
   {
    "id": "gnews-update",
@@ -12825,9 +12876,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 80,
-   "archived": 455,
-   "accepted": 363
+   "fetched": 81,
+   "archived": 456,
+   "accepted": 364
   },
   {
    "id": "prtimes",
@@ -12837,8 +12888,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26263,
-   "accepted": 471
+   "archived": 26278,
+   "accepted": 473
   },
   {
    "id": "gematsu",
@@ -12859,8 +12910,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1269,
-   "accepted": 1269
+   "archived": 1270,
+   "accepted": 1270
   },
   {
    "id": "eurogamer",
@@ -12892,8 +12943,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 341,
-   "accepted": 341
+   "archived": 340,
+   "accepted": 340
   },
   {
    "id": "pcgamer",
@@ -12908,6 +12959,654 @@
   }
  ],
  "items": [
+  {
+   "title": "EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆円で買収協議中との報道",
+   "summary": "Silver LakeとPIFを含む投資家コンソーシアムが、Unity Softwareの買収に向けて協議をおこなっているという。",
+   "link": "https://automaton-media.com/articles/newsjp/20261106-477853/",
+   "pubDate": "2026-11-06T02:41:50.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477853-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261106-477853/"
+    }
+   ]
+  },
+  {
+   "title": "幻のクレーンゲーム「クラウン 603」出展！ タイトーブースで自由に触れる【AEPO2026】",
+   "summary": "タイトーは、11月6日と7日開催のアーケードゲームの祭典「アミューズメント エキスポ 2026」にて、クレーンゲーム「クラウン 603」を出展している。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154239.html",
+   "pubDate": "2026-11-06T02:33:25.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "クラウン 603"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2154239.html"
+    }
+   ]
+  },
+  {
+   "title": "『時オカ』パロで『トランプの伝説 メイク・アメリカ・グレート・アゲイン』！？ホワイトハウス、『ゼルダの伝説 時のオカリナ』に便乗した映像ポスト。なんと言われても懲りない",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/06/174556.html",
+   "pubDate": "2026-11-06T02:30:02.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "時オカ",
+    "トランプの伝説 メイク・アメリカ・グレート・アゲイン",
+    "ゼルダの伝説 時のオカリナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/06/174556.html"
+    }
+   ]
+  },
+  {
+   "title": "人気アクションADVの完全版「Stellar Blade コンプリートエディション」，本日リリース。Switch2での体験は何が違う？［プレイレポ］",
+   "summary": "SHIFTUPは本日（2026年11月6日），「StellarBladeコンプリートエディション」（PC/PS5/Switch2）をリリースする。PC/PS5向け人気アクションアドベンチャーの完全版となる本作は，新たにSwitch2にも対応。本稿では，Switch2版ならではのポ…",
+   "link": "https://www.4gamer.net/games/035/G103535/20261104053/",
+   "pubDate": "2026-11-06T02:30:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "ps5"
+   ],
+   "works": [
+    "Stellar Blade コンプリートエディション"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/035/G103535/20261104053/"
+    }
+   ]
+  },
+  {
+   "title": "XBOXのPCアプリ、新バージョンの起動速度「最大60％向上」とアピール。Steam、Epicに続き“起動速度競争”加速",
+   "summary": "Microsoftは11月5日、XBOX Insiders加入者向けにXBOX PCアプリの新バージョンの提供を開始した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261106-477847/",
+   "pubDate": "2026-11-06T02:27:46.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477847-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "update",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox",
+    "pc",
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261106-477847/"
+    }
+   ]
+  },
+  {
+   "title": "なんと「たまごっち」と「ストレンジャーシングス」のコラボ商品が発売！ 画面は上下反転し“裏側の世界”を表現",
+   "summary": "バンダイは、「Original Tamagotchi Stranger Things」を2027年2月27日に発売する。価格は3,300円。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154228.html",
+   "pubDate": "2026-11-06T02:23:21.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2154228.html"
+    }
+   ]
+  },
+  {
+   "title": "「007 First Light」の導入ミッションがプレイできる“無料スターターパック”がリリース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YMWswMm13aU5qWld2R1NZeVYwMVFpZktUZ2tUNjlSNC1RNkEzdHg3QlBiOWZoUDZXN1ZYZTNtdURjLTdYclR2RVhLcw?oc=5",
+   "pubDate": "2026-11-06T02:18:04.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YMWswMm13aU5qWld2R1NZeVYwMVFpZktUZ2tUNjlSNC1RNkEzdHg3QlBiOWZoUDZXN1ZYZTNtdURjLTdYclR2RVhLcw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『ポケモン』×「マンハッタンポーテージ」コラボにリザードンたち4匹が仲間入り！バック全12アイテムがラインナップ、オンライン販売は本日11月6日12時から",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/06/190439.html",
+   "pubDate": "2026-11-06T02:10:02.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190439.html"
+    }
+   ]
+  },
+  {
+   "title": "Steam版『ニーア オートマタ』アプデで必要容量“約366GB”になったと話題に―実際にインストールしてみると…。「原因は調査中」で回避方法もアナウンス",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/06/174555.html",
+   "pubDate": "2026-11-06T02:06:13.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "ニーア オートマタ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/06/174555.html"
+    }
+   ]
+  },
+  {
+   "title": "「Stellar Blade コンプリートエディション」本日発売。「ベヨネッタ」との新コラボ衣装4種類も収録",
+   "summary": "SHIFTUPは本日，アクションアドベンチャー「StellarBladeコンプリートエディション」をSwitch2向けに発売した。「NieR:Automata」「勝利の女神：NIKKE」のコラボDLCに加え，新たに「ベヨネッタ」をイメージした衣装4種類を収録。Joy-Con2のモ…",
+   "link": "https://www.4gamer.net/games/035/G103535/20261106004/",
+   "pubDate": "2026-11-06T02:04:35.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "release",
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/035/G103535/20261106004/"
+    }
+   ]
+  },
+  {
+   "title": "オーストラリアが舞台のトラックシミュレーター『Truck World: Australia』アーリーアクセスを開始。運転席から降りて給油したり、トレーラーを連結したりと、運転以外の作業もできる",
+   "summary": "11月5日、HypeTrain Digital LTDは、Truck World Studioが開発する『Truck World: Australia』のアーリーアクセスを開始した。 同作は、オーストラリアを舞台にしたトラックシミュレーターだ。今回アーリーアクセス版がプレイ可能と…",
+   "link": "https://news.denfaminicogamer.jp/news/261106j",
+   "pubDate": "2026-11-06T02:04:11.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/truck-world-australia-hshyz-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Truck World: Australia"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261106j"
+    }
+   ]
+  },
+  {
+   "title": "PC版「XBOX」アプリが最大60％高速化。XBOX Insider Program向けにアップデートを提供開始様々な改善を実施",
+   "summary": "Microsoftは11月6日、PC版「XBOX」アプリのアップデートをXBOX Insider Program参加者向けに配信した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154210.html",
+   "pubDate": "2026-11-06T02:03:27.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "update",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox",
+    "pc",
+    "mobile"
+   ],
+   "works": [
+    "XBOX"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2154210.html"
+    }
+   ]
+  },
+  {
+   "title": "「ガンダム SEED FREEDOM」“博多にわか”のお面がモチーフ！老舗織元「サヌイ織物」コラボ小銭入れに、キラ・ヤマトなど全4種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/06/190438.html",
+   "pubDate": "2026-11-06T02:00:03.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190438.html"
+    }
+   ]
+  },
+  {
+   "title": "【99円】『麻雀放浪記』『新ルパン三世』など双葉社から発刊の作品が「99円」で購入できるセール開催中！『うちのメイドがウザすぎる！』『奴隷区』『極道めし』など多数対象",
+   "summary": "『うちのメイドがウザすぎる！』や『奴隷区 僕と23人の奴隷』、『王様ゲーム』や『踏切時間』など多数対象",
+   "link": "https://news.denfaminicogamer.jp/news/261106l",
+   "pubDate": "2026-11-06T01:59:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/634eb775dc33f5ac4431bb31659056e9-1024x734.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "麻雀放浪記",
+    "新ルパン三世",
+    "うちのメイドがウザすぎる!",
+    "奴隷区",
+    "極道めし"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261106l"
+    }
+   ]
+  },
+  {
+   "title": "ウェスカー登場、バイオハザード: サバイバルユニット1周年アップデート実施",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mQV91ZUhRbkRNTnI3ei1tb1hpVEtKQmpJdHVlekJpR19abzBrU0t5SVZDMEhGMFFraFRqZ3JSWmNoOThGbFd0LUdhNVh6SFBKX1VwYThMTDNaZzdu?oc=5",
+   "pubDate": "2026-11-06T01:55:55.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "게임메카",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "게임메카",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mQV91ZUhRbkRNTnI3ei1tb1hpVEtKQmpJdHVlekJpR19abzBrU0t5SVZDMEhGMFFraFRqZ3JSWmNoOThGbFd0LUdhNVh6SFBKX1VwYThMTDNaZzdu?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "ベヨネッタコラボとともに、ステラブレイド Nintendo Switch 2版発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbFBRNXlJVFlWOHNHM3VXcFY0MFJNdkt3MTVCa0dXYVh1emVJaDQwZXFqTnA0dVJXaHR3UU05MW9ER1EyVFg1ZVFscmZVWktiWWdCSXBVXzhyaTky?oc=5",
+   "pubDate": "2026-11-06T01:53:17.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "게임메카",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "게임메카",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbFBRNXlJVFlWOHNHM3VXcFY0MFJNdkt3MTVCa0dXYVh1emVJaDQwZXFqTnA0dVJXaHR3UU05MW9ER1EyVFg1ZVFscmZVWktiWWdCSXBVXzhyaTky?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "任天堂、「スイッチ2」追加値上げを考えず 社長が決算会見で説明",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc3BqQ2QyT21VQXVhdkN1cHotdnNjSTBoQjh0MFJXQlpBNVBJZFRHWmtRNDhMbl9EQmQ1YjcxVzctYWNPOS1kZEh1eFlOZVBjc0E?oc=5",
+   "pubDate": "2026-11-06T01:52:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "CNET Japan",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "hardware",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CNET Japan",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc3BqQ2QyT21VQXVhdkN1cHotdnNjSTBoQjh0MFJXQlpBNVBJZFRHWmtRNDhMbl9EQmQ1YjcxVzctYWNPOS1kZEh1eFlOZVBjc0E?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmNFlKOFJmOW9RbkpPV0V5Qlk3VkR5UUF5bkttdnVUaFRfUUJPUVotX2hWVTAtcmVtaVVINUkzdi1VMy12LVVWY1lzc1lzRHZjWHo3MHlqTS1taEwyZVBBbHB3YVNyYk5KUnF4N3A1MkVzaWZwTEdkNmRLWnU2VWs?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『Wing Commander』『ロードラッシュ』などEAレトロ名作25個がPCに登場。FMVをマスターテープから復元したリマスター作品も―ユーザーModも取り入れ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/06/174554.html",
+   "pubDate": "2026-11-06T01:51:53.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Wing Commander",
+    "ロードラッシュ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/06/174554.html"
+    }
+   ]
+  },
+  {
+   "title": "ソニー、初代ウォークマン付属のヘッドフォンを現代向けに再設計！USB-Cステレオヘッドホン「MDR-3R」発売",
+   "summary": "ソニーは、USB-Cステレオヘッドホン「MDR-3R」を11月20日に発売する。価格はオープン。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154207.html",
+   "pubDate": "2026-11-06T01:50:55.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2154207.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「頭文字D」グッズがオンライン販売！ハチロクやRX-7のメンズTシャツ、刺繍スカジャン合計10種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/06/190437.html",
+   "pubDate": "2026-11-06T01:45:02.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190437.html"
+    }
+   ]
+  },
+  {
+   "title": "セガ、PS5／Switch 2向けヘンテコ病院経営SLG『ツーポイントホスピタル：ハートフルコレクション』のパッケージ版を発売開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE40MVhCWUhJVGY0WEJpWTlLTEdjRmlMX0xGcUhOQWFXSkM3T3ZxWjN5YkVCTXVzMlBobmV4cUFSblN1YnRp?oc=5",
+   "pubDate": "2026-11-06T01:42:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 26,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "ps5"
+   ],
+   "works": [
+    "ツーポイントホスピタル:ハートフルコレクション"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE40MVhCWUhJVGY0WEJpWTlLTEdjRmlMX0xGcUhOQWFXSkM3T3ZxWjN5YkVCTXVzMlBobmV4cUFSblN1YnRp?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
   {
    "title": "「デジモン ぼくらのウォーゲーム」 より「オメガモン 2023ver.」フィギュアが再販！グレイソードを天高く突き上げるダイナミックなポージングが圧巻",
    "summary": "",
@@ -13173,6 +13872,70 @@
    ]
   },
   {
+   "title": "「デジゲー博2026」へハピネットが出展決定！インディーゲームレーベル「Happinet Indie Collection」より未発売を含む全6タイトルの試遊・キャンペーンを展開",
+   "summary": "株式会社ハピネット（本社：東京都台東区、代表取締役社長：水谷 敏之、証券コード：7552）は、2026年11月8日（日）に開催される「デジゲー博2026」に出展します。 おもしろいインディーゲームを世界中からセ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000002943.000031422.html",
+   "pubDate": "2026-11-06T01:00:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "demo",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000002943.000031422.html"
+    }
+   ]
+  },
+  {
+   "title": "罪悪都市プリズン戦略RPG『無期迷途』11/3（火）より4周年イベント「絶響」開催中！新S級「荒蝕・エイレーネー」「レクイエム」＆新A級「ヘリックス」が登場！『三体』コラボ開催決定＆4周年企画も展開",
+   "summary": "AISNO Gamesがパブリッシングを行う基本プレイ無料のスマートフォン向けゲームアプリ、罪悪都市プリズン戦略RPG『無期迷途』において、2026年11月3日（火）より、4周年イベント「絶響」を開催しております。 新S...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000064.000106768.html",
+   "pubDate": "2026-11-06T01:00:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "event",
+    "mobile",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "無期迷途",
+    "三体"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000064.000106768.html"
+    }
+   ]
+  },
+  {
    "title": "マンガ家・川尻こだま氏による新作ゲーム『ゴブリン・ノーム・ホーン ダッシュ・ツー』発表！今度は2Dアクション“謎解き脱出”ゲームに",
    "summary": "小さなゴブリン・ネックビとなり、閉ざされた部屋からの脱出を目指す。「おじぎ（攻撃）」「あいさつ（パリィ）」アクションも続投",
    "link": "https://news.denfaminicogamer.jp/news/261106f",
@@ -13349,6 +14112,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/06/174551.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190442.html"
     }
    ]
   },
@@ -13578,6 +14346,40 @@
    ]
   },
   {
+   "title": "スーパーやおもちゃ屋がコースに。RCカーレース『リボルト』がSwitch/PS5で配信開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtNWktTEpWbFpKcGtnWmh3OXlEMFdKQl9UbktFRG9pcWRfWC1DY3RoRkt2VUJXV3g1aS1hTjVtcERPa3B2S2lCcmZvMlhCaG5aaVk0VmFMbWZHQQ?oc=5",
+   "pubDate": "2026-11-05T23:30:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5"
+   ],
+   "works": [
+    "リボルト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtNWktTEpWbFpKcGtnWmh3OXlEMFdKQl9UbktFRG9pcWRfWC1DY3RoRkt2VUJXV3g1aS1hTjVtcERPa3B2S2lCcmZvMlhCaG5aaVk0VmFMbWZHQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "Animated John Wick Prequel Film in the Works Starring Keanu Reeves",
    "summary": "Keanu Reeves is returning as John Wick in an animated film that aims to tell the assassin’s story before the tragic events of the first movi…",
    "link": "https://www.ign.com/articles/animated-john-wick-prequel-film-in-the-works-starring-keanu-reeves",
@@ -13754,9 +14556,9 @@
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTanFQd2xFWkxpZThkVnhMR3BralhiNzVIRXRUZ2Q2TmMwZHEwWFNha3JxY2UtN2djbkJLVVlLVzBYbUx6Z0J6ZVctWTBrSGxveDJBV3pKczlCay1CWlhjTlpmUUk1QTBBYkpndUlYQVU0anpYdS1GTm1qRUJJVE0?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
+     "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
     }
    ]
@@ -14178,7 +14980,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [],
    "deal": null,
    "platforms": [],
@@ -16139,7 +16941,7 @@
    "title": "『アサシン クリード ヴァルハラ』発売から約6年を経て「ニューゲーム＋」が追加。お気に入りの装具を引き継ぎ、再びイングランドへ",
    "summary": "プレイヤー数4000万人突破を記念した無料アップデート。PS5 Proでは進化版PSSRに対応し、クオリティモードでも60fpsでプレイできる",
    "link": "https://news.denfaminicogamer.jp/news/2611053a",
-   "pubDate": "2026-11-05T15:12:03.000Z",
+   "pubDate": "2026-11-05T15:12:00.000Z",
    "firstSeen": "2026-11-05T15:47:41.432Z",
    "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-30-1024x576.jpg",
    "source": "電ファミニコゲーマー",
@@ -17245,7 +18047,7 @@
    ]
   },
   {
-   "title": "Famitsu Sales: 10/26/26 – 11/1/26",
+   "title": "Famitsu Sales: 10/26/26 – 11/1/26 [Update]",
    "summary": "Famitsu has published its estimated physical game software data for Japan for the week of …",
    "link": "https://www.gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26",
    "pubDate": "2026-11-05T13:06:18.000Z",
@@ -17258,6 +18060,7 @@
    "lang": "en",
    "score": 2,
    "categories": [
+    "update",
     "business"
    ],
    "deal": null,
@@ -18416,6 +19219,12 @@
      "name": "ASCII.jp",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRFZPQWQtazZ4anpDRnN1MXRQcVUybGRNNHVJUjVWNmExOUx6OGpteGVTSEZETEJ5STY0TGpjMUlTVkNKMnlqeDBzQVBiUU82d1dwRw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "週刊アスキー",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NVU9MLUNXUnN0VG85cXVhZU5aam5NWVg0WkFJU3B0b2FhLVgyV0hZQzQ5TGl4YlNyMjg3MWZocTV4X3o2dThSdG4tdF9CTHozYmFQcVZ6YlZIdnVVQ0E?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -21798,6 +22607,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/05/174511.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190440.html"
     }
    ]
   },
@@ -25368,7 +26182,7 @@
    "firstSeen": "2026-11-05T03:47:42.875Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -25383,9 +26197,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MMmdZTkFUMDI5QjN5VnJjMGFKcl92LTZXVGdyWVB3OWNoQndWVHZ3bDM4UVVJcURYblRwdF85M05Lb3NYcnRJWTVSWXBveDBPdGloajdzaw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -27143,7 +27957,7 @@
    "firstSeen": "2026-11-05T02:47:36.916Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -27161,9 +27975,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZNkp3cVpqSDgxNUVnV3NzUTJXeTBoWm9TdmRYam4waTlncndOeHFMbDA3QU1aZV9LMFVCVjF5OWlnQUREMVg2c3dzWGxXSHY4Yy1Xekh3bw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -28631,6 +29445,36 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/november-games-2026/"
+    }
+   ]
+  },
+  {
+   "title": "ゲームの起動ソフトが改ざん、PCを遠隔操作される恐れ--人気ゲーム「NIKKE」運営が発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YVFyeHN3SnZUM2oyUE5FazRQSHI0T0N2S0FGQkNfNDFlbVZjWlBESTh0TDU3MUplYmF3T2hYcThFTnB4ZXBqZkJHYkx2LVZNZWtyWFpnRmJwSVcwdF80SWtFdUxOWlpmVHp4SGlzbHY2eTBFODI3T3duMlUzWms?oc=5",
+   "pubDate": "2026-11-04T23:30:00.000Z",
+   "firstSeen": "2026-11-06T02:47:35.575Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-update",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YVFyeHN3SnZUM2oyUE5FazRQSHI0T0N2S0FGQkNfNDFlbVZjWlBESTh0TDU3MUplYmF3T2hYcThFTnB4ZXBqZkJHYkx2LVZNZWtyWFpnRmJwSVcwdF80SWtFdUxOWlpmVHp4SGlzbHY2eTBFODI3T3duMlUzWms?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
     }
    ]
   },
@@ -60143,7 +60987,7 @@
    "firstSeen": "2026-11-02T06:47:33.742Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -60162,9 +61006,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYdDBsUTJQMUxrUHVFbUpodnhQenZEVVl2TEVpUGZjRW5jWTFGZXFabEl3UXJHdm92czlBM3ZSTnhyV3FZX1ZGSnhfWTc4RHpjQ2d4QzJQQQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -104892,7 +105736,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "クラウン603"
+    "クラウン 603"
    ],
    "spoiler": false,
    "sources": [
@@ -119010,7 +119854,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "クラウン603"
+    "クラウン 603"
    ],
    "spoiler": false,
    "sources": [
@@ -191475,699 +192319,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5paGdUYmJJeU9wcnNVV0Zjcy0wc3U1NmhpYXREOU9TVHJkTktlNWpuVk9aZ0p2amNBNXZtSnB1dklsaVNMTXlfVjlROUFONnNSSXBUaFF2aVJ1UG1KT3dqU3dCUDczXzFtT3BhWUpsSQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "Chris Pratt Reaffirms Star-Lord Will Return in the MCU and Plans Are Being Made Right Now",
-   "summary": "Chris Pratt has confirmed that Star-Lord's return to the MCU is actively being figured out.",
-   "link": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now",
-   "pubDate": "2026-10-21T22:43:17.000Z",
-   "firstSeen": "2026-10-21T23:48:01.142Z",
-   "image": "https://assets-prd.ignimgs.com/2023/04/04/chris-pratt-star-lord-dc-future-1680607923459.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now"
-    }
-   ]
-  },
-  {
-   "title": "BioWare Was the Greatest RPG Developer Ever",
-   "summary": "There are many great role-playing game developers, past and present. But none can touch what BioWare has done over 30-plus years.",
-   "link": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
-   "pubDate": "2026-10-21T22:38:17.000Z",
-   "firstSeen": "2026-10-21T23:48:01.142Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/masseffect-blogroll-1792622452670.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever"
-    }
-   ]
-  },
-  {
-   "title": "ネクソン，政府と組んで約263億円を投じて「下請けではなく，自立したユニコーン企業を育てる」",
-   "summary": "新興のゲーム開発会社に対する資本市場の冷え込みが続くなか，民間企業と韓国政府が総額2500億ウォン（約263億円）規模のファンドを組成した。初期の発掘から後続の成長まで資金を連続して供給し，韓国ゲーム産業の基礎体力を回復させるという構想だ。",
-   "link": "https://www.4gamer.net/games/991/G999101/20261021042/",
-   "pubDate": "2026-10-21T22:30:00.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999101/20261021042/"
-    }
-   ]
-  },
-  {
-   "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
-   "summary": "Three cheers for the slop intolerant.",
-   "link": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
-   "pubDate": "2026-10-21T22:26:41.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/"
-    }
-   ]
-  },
-  {
-   "title": "SonicFox Cancels Contract With Gaming Convention After Event Uses Likeness in AI-Generated Poster",
-   "summary": "Prolific fighting game player SonicFox has terminated their contract with a tournament in Norman, Oklahoma after organizers fed artwork of t…",
-   "link": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster",
-   "pubDate": "2026-10-21T22:19:55.000Z",
-   "firstSeen": "2026-10-21T23:48:01.142Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/sonicfox-terminates-contract-with-convention-over-ai-poster-1792621080202.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster"
-    }
-   ]
-  },
-  {
-   "title": "押し寄せる敵を片っ端から吹っ飛ばす爽快FPS『シリアスサム』シリーズ新作『The Third Encounter』発表！2002年に発売された『The Second Encounter』直後のストーリーが描かれる",
-   "summary": "2002年に発売された『The Second Encounter』直後のストーリーが描かれる続編で、「メンタル」軍との戦いはついに最終決戦に。オンラインでの協力プレイにも対応",
-   "link": "https://news.denfaminicogamer.jp/news/261022e",
-   "pubDate": "2026-10-21T22:18:14.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/videoframe_15394-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "シリアスサム",
-    "The Third Encounter",
-    "The Second Encounter"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261022e"
-    }
-   ]
-  },
-  {
-   "title": "Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closure",
-   "summary": "The Mass Effect video game franchise may have come to an end with the shocking demise of BioWare, but IGN can exclusively reveal that its fu…",
-   "link": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
-   "pubDate": "2026-10-21T22:06:29.000Z",
-   "firstSeen": "2026-10-21T23:48:01.142Z",
-   "image": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure"
-    }
-   ]
-  },
-  {
-   "title": "『エイリアン：ファイアーチーム エリート2』PS5パッケージ版が本日（10/22）発売。危険な『エイリアン』の世界を生き抜く協力型サバイバルシューティングゲーム",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSQ3FqeVFidVNFamlPMW5ja01PNnF3eUExQmVqZzlSdXpZVGNlempfQVY3VHlPQVJ1NkhkX1JRQjJWV1QtVk05Zk1FRTlEblJZSGZtSlBIdw?oc=5",
-   "pubDate": "2026-10-21T22:00:00.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "エイリアン:ファイアーチーム エリート2",
-    "エイリアン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSQ3FqeVFidVNFamlPMW5ja01PNnF3eUExQmVqZzlSdXpZVGNlempfQVY3VHlPQVJ1NkhkX1JRQjJWV1QtVk05Zk1FRTlEblJZSGZtSlBIdw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'",
-   "summary": "BioWare let CD Projekt use the Aurora Engine for its breakout RPG, and then helped them show it off at E3.",
-   "link": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
-   "pubDate": "2026-10-21T21:43:06.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/dDWXVeXZKJVY5ViFMpjQX-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/"
-    }
-   ]
-  },
-  {
-   "title": "Former BioWare Executive Producer Mark Darrah Says EA Might Be 'More Likely' to Sell IPs Like Mass Effect and Dragon Age After Studio’s Closure",
-   "summary": "Mark Darrah, who worked as an executive producer at BioWare from 1997 - 2021, shared his thoughts on the studio’s recent closure by EA and w…",
-   "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure",
-   "pubDate": "2026-10-21T21:40:02.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://assets-prd.ignimgs.com/2024/11/12/mass-effect-tv-characters-thumb-1731372317002.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure"
-    }
-   ]
-  },
-  {
-   "title": "Modern Warfare 4 players declare 'broken' on DMZ perk that lets you self-revive after full death",
-   "summary": "Some hate that you can't know an enemy's truly dead in DMZ.",
-   "link": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/",
-   "pubDate": "2026-10-21T21:36:47.000Z",
-   "firstSeen": "2026-10-21T21:47:58.948Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/VNjGhQEhtfgu6qq3TAsP8E-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/"
-    }
-   ]
-  },
-  {
-   "title": "Star Wars: The Old Republic Fans Pay Their Respects to BioWare",
-   "summary": "EA shut down BioWare earlier today, and fans of Star Wars: The Old Republic are paying their respects to the beloved developer.",
-   "link": "https://www.ign.com/articles/star-wars-the-old-republic-fans-pay-their-respects-to-bioware",
-   "pubDate": "2026-10-21T21:16:28.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://assets-prd.ignimgs.com/2026/05/15/ss-5c4a1d2c32449d7f59a91e7087d4b37db49148c3-1920x1080-1778841530825.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/star-wars-the-old-republic-fans-pay-their-respects-to-bioware"
-    }
-   ]
-  },
-  {
-   "title": "The Daran 288Wh 600W LiFePO4 Power Station Drops to $125 After a 50% Off Amazon Coupon",
-   "summary": "Keep your electronics charged up for days.",
-   "link": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-single-october-2026",
-   "pubDate": "2026-10-21T21:15:00.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/daranpowerstation2-1792611748200.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 50,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-single-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "David Fincher Cut 60 Pages From Quentin Tarantino’s Cliff Booth Script",
-   "summary": "Quentin Tarantino penned the screenplay for The Mis-Adventures of Cliff Booth, his follow-up to Once Upon a Time in Hollywood, but he handed…",
-   "link": "https://www.ign.com/articles/david-fincher-tarantino-cliff-booth-script",
-   "pubDate": "2026-10-21T21:08:41.000Z",
-   "firstSeen": "2026-10-21T22:47:59.034Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/cliff-booth-brad-pitt-1280a-1792616866266.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/david-fincher-tarantino-cliff-booth-script"
-    }
-   ]
-  },
-  {
-   "title": "VisionQuest Just Revealed a Connection to the First Captain America Movie... and Possibly Its Real Villain Too",
-   "summary": "Who is the Synthetic Man in VisionQuest? It turns out that J.I.M., aka the Human Torch, first showed up in Captain America: The First Avenge…",
-   "link": "https://www.ign.com/articles/visionquest-connection-first-captain-america-movie-human-torch-real-villain",
-   "pubDate": "2026-10-21T20:44:43.000Z",
-   "firstSeen": "2026-10-21T21:47:58.948Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/synthetic-man-thumb-1792615477570.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/visionquest-connection-first-captain-america-movie-human-torch-real-villain"
-    }
-   ]
-  },
-  {
-   "title": "EA Halts Development on Mobile Multiplayer Sims Game in Favor of Rumored Sims 4 Sequel",
-   "summary": "EA has paused development on a mobile multiplayer Sims game in favor of moving forward with a rumored Sims 4 sequel.",
-   "link": "https://www.ign.com/articles/ea-halts-development-on-mobile-multiplayer-sims-game-in-favor-of-rumored-sims-4-sequel",
-   "pubDate": "2026-10-21T20:25:35.000Z",
-   "firstSeen": "2026-10-21T21:47:58.948Z",
-   "image": "https://assets-prd.ignimgs.com/2024/07/26/sims4-rereview-blogroll-1722033705393.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/ea-halts-development-on-mobile-multiplayer-sims-game-in-favor-of-rumored-sims-4-sequel"
-    }
-   ]
-  },
-  {
-   "title": "Mass Effect 5 Was Supposed to Redeem the Series After Andromeda, and Now We'll Never Get That",
-   "summary": "I'm the sort of person that just replays my favorite games whenever there's a big gap between releases. And a decent amount of time, that's…",
-   "link": "https://www.ign.com/articles/mass-effect-5-was-supposed-to-redeem-the-series-after-andromeda-and-now-well-never-get-that",
-   "pubDate": "2026-10-21T20:23:01.000Z",
-   "firstSeen": "2026-10-21T21:47:58.948Z",
-   "image": "https://assets-prd.ignimgs.com/2025/11/06/mixcollage-06-nov-2025-12-25-pm-3562-1762449958836.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/mass-effect-5-was-supposed-to-redeem-the-series-after-andromeda-and-now-well-never-get-that"
-    }
-   ]
-  },
-  {
-   "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
-   "summary": "(Don't worry, you don't need to be a sim geek to dig it.)",
-   "link": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-   "pubDate": "2026-10-21T20:06:33.000Z",
-   "firstSeen": "2026-10-21T20:47:59.945Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/b6AjivCDopGFgjMiSjx5e7-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/"
-    }
-   ]
-  },
-  {
-   "title": "Poison Ivy Show in Early Development with Penguin Showrunner in Talks to Produce",
-   "summary": "Deadline has confirmed that DC Comics’ Poison Ivy is in the early stages of getting her own live-action TV show, and one of the minds that b…",
-   "link": "https://www.ign.com/articles/poison-ivy-show-in-early-development-with-penguin-showrunner-in-talks-to-produce",
-   "pubDate": "2026-10-21T20:04:11.000Z",
-   "firstSeen": "2026-10-21T21:47:58.948Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/pi-1792613969285.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/poison-ivy-show-in-early-development-with-penguin-showrunner-in-talks-to-produce"
-    }
-   ]
-  },
-  {
-   "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
-   "summary": "Get a taste of what it's like to compete with hundreds of other players to finish a quest.",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
-   "pubDate": "2026-10-21T19:58:36.000Z",
-   "firstSeen": "2026-10-21T20:47:59.945Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/F2Vr74L9EDyrQyczqYRoie-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/"
-    }
-   ]
-  },
-  {
-   "title": "You Can Save $11 Off GTA 6 Preorders, Today Only",
-   "summary": "Follow three simple steps, and you can save $11 off Grand Theft Auto 6, today only.",
-   "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only",
-   "pubDate": "2026-10-21T19:40:49.000Z",
-   "firstSeen": "2026-10-21T20:47:59.945Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only"
-    }
-   ]
-  },
-  {
-   "title": "法人向け社宅手配BPO Tech Housing、事前登録受付を開始",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000003.000183806.html",
-   "pubDate": "2026-10-21T19:40:02.000Z",
-   "firstSeen": "2026-10-21T19:47:59.072Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000003.000183806.html"
-    }
-   ]
-  },
-  {
-   "title": "Clair Obscur: Expedition 33 on PS5 Drops to New All-Time Low Price at Amazon With a Coupon",
-   "summary": "Amazon has knocked Clair Obscur: Expedition 33 on PS5 down to a new all-time low price, but it's only available through a coupon. After clip…",
-   "link": "https://www.ign.com/articles/clair-obscur-expedition-33-on-ps5-drops-to-new-all-time-low-price-at-amazon-with-a-coupon",
-   "pubDate": "2026-10-21T19:40:00.000Z",
-   "firstSeen": "2026-10-21T20:47:59.945Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/21/clair-obscur-deal-1792584521836.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/clair-obscur-expedition-33-on-ps5-drops-to-new-all-time-low-price-at-amazon-with-a-coupon"
-    }
-   ]
-  },
-  {
-   "title": "Sauron Wears the One Ring and Battles the Balrog in New Rings of Power Season 3 Trailer",
-   "summary": "Prime Video has released a new trailer for the upcoming third season of The Lord of the Rings: The Rings of Power that revealed more of the…",
-   "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer",
-   "pubDate": "2026-10-21T19:25:00.000Z",
-   "firstSeen": "2026-10-21T20:47:59.945Z",
-   "image": null,
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new",
-    "update",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer"
-    }
-   ]
-  },
-  {
-   "title": "Star Wars Battlefront 3 Reportedly In Development By EA’s Top Shooter Studios",
-   "summary": "Included in the shocking news of EA's restructuring, which includes layoffs and the closure of BioWare, is a mention from the publisher that…",
-   "link": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/",
-   "pubDate": "2026-10-21T19:16:31.000Z",
-   "firstSeen": "2026-10-21T19:47:59.072Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/STAR_WARS_BATTLEFRONT_2-screenshot-5-16x9-1.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/"
     }
    ]
   }
