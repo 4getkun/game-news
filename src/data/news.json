@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-07T15:47:55.006Z",
+ "generatedAt": "2026-11-07T16:39:15.169Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1282,
-  "syndicated": 89,
-  "similar": 360,
+  "exact": 1276,
+  "syndicated": 88,
+  "similar": 359,
   "syndicatedTotal": 400,
   "syndicatedLeft": 25
  },
@@ -6998,6 +6998,23 @@
   {
    "date": "2026-11-07",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "サクラ大戦",
+   "title": "ファミ通40周年フェスが本日（11/7）開催！ 内部構造が見える歴代プレステ本体、『サクラ大戦』イラストなどゲームファン必見の展示がずらり。ファミ通ゆかりのゲストを招いてのステージイベントも！",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX1FEdGt4aTVGU2IzRzFqSHJTMjhhUmFLa2ZqQXVvWG1WZU1TWlMxSnR1T1NkMTZJNXh6UTVITldVUEdBUC1kcTJXVkhNMTI5TnBGNGZvZw?oc=5",
+   "source": "ファミ通",
+   "sources": 2,
+   "categories": [
+    "event",
+    "hardware"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Find The Needle",
@@ -7337,20 +7354,6 @@
    "categories": [
     "update"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-07",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "サクラ大戦",
-   "title": "11月7日開催「ファミ通40周年フェス」まであと10日！ プレイステーション特別展示＆『サクラ大戦』イラストの原画を公開する展示コーナー／体験コーナー／ノベルティの全貌を紹介",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MU0NkaWhmOHd1OUx1TmtHNDBjRnJWdzhJenBWY2Fkcm5YTE8xYnA1WHV1YWJ2cEJjbTVGU1ktUTNfSnBFZG5MOWdiMFhvWkNXVjB0ZC14NA?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -12957,8 +12960,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 566,
-   "accepted": 561
+   "archived": 563,
+   "accepted": 558
   },
   {
    "id": "denfaminico",
@@ -12968,8 +12971,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1185,
-   "accepted": 1054
+   "archived": 1181,
+   "accepted": 1050
   },
   {
    "id": "gamewatch",
@@ -12990,8 +12993,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1244,
-   "accepted": 1228
+   "archived": 1226,
+   "accepted": 1210
   },
   {
    "id": "inside-games",
@@ -13045,8 +13048,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 694,
-   "accepted": 556
+   "archived": 695,
+   "accepted": 557
   },
   {
    "id": "gnews-dengeki",
@@ -13066,9 +13069,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 89,
-   "archived": 522,
-   "accepted": 481
+   "fetched": 91,
+   "archived": 518,
+   "accepted": 477
   },
   {
    "id": "gnews-switch2",
@@ -13079,7 +13082,7 @@
    "error": null,
    "fetched": 100,
    "archived": 1441,
-   "accepted": 1263
+   "accepted": 1262
   },
   {
    "id": "gnews-ps5",
@@ -13089,8 +13092,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 722,
-   "accepted": 660
+   "archived": 720,
+   "accepted": 658
   },
   {
    "id": "gnews-update",
@@ -13099,9 +13102,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 80,
-   "archived": 446,
-   "accepted": 361
+   "fetched": 79,
+   "archived": 441,
+   "accepted": 356
   },
   {
    "id": "prtimes",
@@ -13111,7 +13114,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25557,
+   "archived": 25525,
    "accepted": 458
   },
   {
@@ -13122,8 +13125,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 353,
-   "accepted": 353
+   "archived": 334,
+   "accepted": 334
   },
   {
    "id": "ign",
@@ -13133,8 +13136,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1242,
-   "accepted": 1242
+   "archived": 1240,
+   "accepted": 1240
   },
   {
    "id": "eurogamer",
@@ -13155,8 +13158,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 310,
-   "accepted": 310
+   "archived": 309,
+   "accepted": 309
   },
   {
    "id": "nintendolife",
@@ -13166,8 +13169,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 334,
-   "accepted": 334
+   "archived": 333,
+   "accepted": 333
   },
   {
    "id": "pcgamer",
@@ -13177,8 +13180,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 594,
-   "accepted": 594
+   "archived": 589,
+   "accepted": 589
   }
  ],
  "items": [
@@ -13919,6 +13922,39 @@
    ]
   },
   {
+   "title": "『UNDERTALE』『DELTARUNE』『ホロウナイト』などインディーゲーム集合イラストが公開。見た目は岡山県ネタ。Fangamer × GiGOショップ設立記念",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NbGt6VlhnT0swb05sWTV3QVpYLXBteUFMS1NMQTFmektHY0JlYTZ6UlVoOXU2aG84NmpwVFo3OVdPQkFFRk1VMkJEUy1wNlJQNkhtN3F2dw?oc=5",
+   "pubDate": "2026-11-07T11:47:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "UNDERTALE",
+    "DELTARUNE",
+    "ホロウナイト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NbGt6VlhnT0swb05sWTV3QVpYLXBteUFMS1NMQTFmektHY0JlYTZ6UlVoOXU2aG84NmpwVFo3OVdPQkFFRk1VMkJEUy1wNlJQNkhtN3F2dw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "『Fate/Grand Order（FGO）』全世界1億DL記念で、星5サーヴァントが「お好きに1体」もらえる。今回は「43騎」から",
    "summary": "FGO PROJECTは11月7日、『Fate/Grand Order（FGO）』の最新情報を公開。11月7日21時から「全世界1億DL突破キャンペーン」として、星5サーヴァントのプレゼントキャンペーンが実施される。",
    "link": "https://automaton-media.com/articles/newsjp/fate-grand-order-20261107-478057/",
@@ -14319,6 +14355,37 @@
    ]
   },
   {
+   "title": "【ゴジラ カードゲーム】ブースターパック第5弾“君臨するゼロ”が予約受付中。映画『ゴジラ-0.0』カード収録、山崎貴監督の箔押しサインカードも",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaeVRlX1k3TEhyNENLV0VJc0VlOVRNS2RFbXhvZHU5ZnZiN21HS0FaeTR5OThfc1F4T240S1BUVkFHUGZXRlYzUXhpTzdPTTBVRGNxa3NRdw?oc=5",
+   "pubDate": "2026-11-07T10:00:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゴジラ-0.0"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaeVRlX1k3TEhyNENLV0VJc0VlOVRNS2RFbXhvZHU5ZnZiN21HS0FaeTR5OThfc1F4T240S1BUVkFHUGZXRlYzUXhpTzdPTTBVRGNxa3NRdw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "西部開拓時代の酒場経営シム『Saloon Simulator』日本語にも対応して正式リリース―真っ当な商売だけではなく犯罪のチャンスも",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/11/07/174613.html",
@@ -14516,6 +14583,37 @@
    ]
   },
   {
+   "title": "【LunaReverse】『イケメンシリーズ』のサイバードとアニプレックスのタッグ作品発表。新作アドベンチャーゲームを全世界同時展開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kY1FGaU5oSmhJZEdYazVZV24zbHNJc0pUaG9yUGpncm56Zk12TmpWalJSOS1sQ3oxZW5DS1ktVi1OU0ZVMi15Q1JkTnR2TjBQcGZMb1RHQQ?oc=5",
+   "pubDate": "2026-11-07T09:30:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "イケメンシリーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kY1FGaU5oSmhJZEdYazVZV24zbHNJc0pUaG9yUGpncm56Zk12TmpWalJSOS1sQ3oxZW5DS1ktVi1OU0ZVMi15Q1JkTnR2TjBQcGZMb1RHQQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "発売1年半の『都市伝説解体センター』、横浜マリンタワーで新コラボ「約１年半ありがとうございました」",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Vd0h4cWhqSEZUcDlUTjBWY09CTjhoTnpUY0ZVVTdUSTBLYVFVdWxNamp6U0ctM0k5eF9oVUYybXlEc2ww?oc=5",
@@ -14662,6 +14760,33 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/038/G003821/20261107001/"
+    }
+   ]
+  },
+  {
+   "title": "桜井政博氏「優れたクリエイターの共通点などない」が、統括する言葉があるとするなら“感受性”。「その人だけの観点をどう持ちえるか？」が重要【ファミ通40周年フェス】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SS2pHd3l2S2FVc3M4S0pSUVdnbW5NbFVxeE1VdWVDT29vNjZnSXJ1YUI5NUpId3BnclkzckNndWk3M0I3QTlNNmF6YVhxVmtkclJlcldVRQ?oc=5",
+   "pubDate": "2026-11-07T08:51:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SS2pHd3l2S2FVc3M4S0pSUVdnbW5NbFVxeE1VdWVDT29vNjZnSXJ1YUI5NUpId3BnclkzckNndWk3M0I3QTlNNmF6YVhxVmtkclJlcldVRQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -15124,6 +15249,37 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qamNZUkViVTctT0t0SmRSY1h6UEJWTWRlNmZWSmVaSnlLMU1aQkNSNTRFekhnR3FUek0zN1AwNUxQQ1h3LWlKaU9pNUpTZHpROEROekg1eC0tLWVfazY3aXh1VQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Kindleで『麻雀放浪記』『極道めし』など双葉社作品が1巻99円。『ルパン三世 ITALIANO』は全4巻396円で揃う【漫画セール情報】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84U3RLbXlqZmc2bFhwT1lzN1VNZ1FmTlBqeTV6bWR2bGk2R3Y3eng1ekphZjJELXgwdGtqY2R2NTFJaE9LWUlVQlFCVXNMSk1JWjNKWkV4MA?oc=5",
+   "pubDate": "2026-11-07T07:00:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "麻雀放浪記",
+    "極道めし",
+    "ルパン三世 ITALIANO"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84U3RLbXlqZmc2bFhwT1lzN1VNZ1FmTlBqeTV6bWR2bGk2R3Y3eng1ekphZjJELXgwdGtqY2R2NTFJaE9LWUlVQlFCVXNMSk1JWjNKWkV4MA?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -15599,6 +15755,35 @@
    ]
   },
   {
+   "title": "『スーパーダンガンロンパ2×2』新要素の“議論コレクト”について紹介。学級裁判中に収拾がつかなくなった議論を整理する",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CYWpPeVk3VF9LRXFaRXRzQ2xfb0pTSWw3SWI3YUtLZzlWWnlZQkhoRU40enptbFdlLXVhbU1tTWNBdnRRa2RfbndkSzA4VzRFRXhqV1Rsbw?oc=5",
+   "pubDate": "2026-11-07T04:52:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スーパーダンガンロンパ2×2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CYWpPeVk3VF9LRXFaRXRzQ2xfb0pTSWw3SWI3YUtLZzlWWnlZQkhoRU40enptbFdlLXVhbU1tTWNBdnRRa2RfbndkSzA4VzRFRXhqV1Rsbw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "『原神』新キャラ「ダニカ」（CV.原由実さん）のキャラクター紹介が公開。スネージナヤパレスの宮廷メイド長にして、各勢力間を立ち回る陰の仲介役",
    "summary": "メイドの仕事だけでなく、女皇に最も忠実な側近として各勢力間を立ち回る陰の仲介役。称号は「スネージナヤパレスに侍る影」、命ノ星座は「カサートカ座」",
    "link": "https://news.denfaminicogamer.jp/news/261107h",
@@ -15817,6 +16002,38 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/991/G999110/20261106043/"
+    }
+   ]
+  },
+  {
+   "title": "ファミ通40周年フェスが本日（11/7）開催！ 内部構造が見える歴代プレステ本体、『サクラ大戦』イラストなどゲームファン必見の展示がずらり。ファミ通ゆかりのゲストを招いてのステージイベントも！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX1FEdGt4aTVGU2IzRzFqSHJTMjhhUmFLa2ZqQXVvWG1WZU1TWlMxSnR1T1NkMTZJNXh6UTVITldVUEdBUC1kcTJXVkhNMTI5TnBGNGZvZw?oc=5",
+   "pubDate": "2026-11-07T03:50:00.000Z",
+   "firstSeen": "2026-11-07T16:38:53.840Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "event",
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "サクラ大戦"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX1FEdGt4aTVGU2IzRzFqSHJTMjhhUmFLa2ZqQXVvWG1WZU1TWlMxSnR1T1NkMTZJNXh6UTVITldVUEdBUC1kcTJXVkhNMTI5TnBGNGZvZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -70982,37 +71199,6 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00TXNtajdHWmtJdEZYdnhfTjF5aGNFLVJtODMyQTFHaVkzSE03a01sc0ItQ3lJcWZWS082ZWFaUE5aWm5z?oc=5",
      "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『Among Us Story: On Guard』：インポスターの正体を暴くソロ調査",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMW1iMENzWG5SWlRwYzlGSFBoOWYzT3lYa0FHSkJOandWRjg2VzhPZTY1c2hubVBlTmpwOXNtZnhOQXZhSDJpdVpxQzdMMVU5bDRORWRXcm9Gb0ZSNlk4SzJjMko1MWZURGJUZFd2NW1IWE5UZVF0V0JyMjdIZjgxeU1waUFpTER4c25WMU5CNzN3RUdHRGxpNzFibEpFNWpQWHBPRVA4aU05aFN5UkM3WnNxZ3d3SlVxLXNackpja0pEaEpiRnJDVWYxMU9oYmY2LXNj?oc=5",
-   "pubDate": "2026-11-02T13:30:27.000Z",
-   "firstSeen": "2026-11-02T14:47:48.158Z",
-   "image": null,
-   "source": "Sortir à Paris",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Among Us Story: On Guard"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Sortir à Paris",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMW1iMENzWG5SWlRwYzlGSFBoOWYzT3lYa0FHSkJOandWRjg2VzhPZTY1c2hubVBlTmpwOXNtZnhOQXZhSDJpdVpxQzdMMVU5bDRORWRXcm9Gb0ZSNlk4SzJjMko1MWZURGJUZFd2NW1IWE5UZVF0V0JyMjdIZjgxeU1waUFpTER4c25WMU5CNzN3RUdHRGxpNzFibEpFNWpQWHBPRVA4aU05aFN5UkM3WnNxZ3d3SlVxLXNackpja0pEaEpiRnJDVWYxMU9oYmY2LXNj?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -192279,175 +192465,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/alienware-aw3225qf-4k-oled-gaming-monitor-deal-october-2026"
-    }
-   ]
-  },
-  {
-   "title": "New Look at Avengers: Doomsday to Premiere During MLB World Series",
-   "summary": "A brand new preview for Avengers: Doomsday will debut during the MLB World Series.",
-   "link": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series",
-   "pubDate": "2026-10-22T20:48:49.000Z",
-   "firstSeen": "2026-10-22T21:47:42.154Z",
-   "image": "https://assets-prd.ignimgs.com/2026/08/03/doomsday-doom-1785773171623.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": -8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series"
-    }
-   ]
-  },
-  {
-   "title": "A Talent for Murder Review",
-   "summary": "A Talent for Murder review: What are you gonna do? Stab me?",
-   "link": "https://www.ign.com/articles/a-talent-for-murder-review",
-   "pubDate": "2026-10-22T20:47:11.000Z",
-   "firstSeen": "2026-10-22T21:47:42.154Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/22/oliviacooke369-1792685688481.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/a-talent-for-murder-review"
-    }
-   ]
-  },
-  {
-   "title": "GUの『ポケモン』新作コラボ、いよいよ10月23日発売！“森でのポケモンとの暮らし”テーマのイーブイジャケット、カイリューTシャツなど全19種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/23/189663.html",
-   "pubDate": "2026-10-22T20:30:03.000Z",
-   "firstSeen": "2026-10-22T20:47:37.568Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/23/189663.html"
-    }
-   ]
-  },
-  {
-   "title": "Saber Interactive CEO Says Clive Barker’s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
-   "summary": "Clive Barker’s Hellraiser: Revival has been a smash hit, says Saber Interactive CEO Matthew Karch in a post on LinkedIn, and it’s the first…",
-   "link": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come",
-   "pubDate": "2026-10-22T20:19:59.000Z",
-   "firstSeen": "2026-10-22T21:47:42.154Z",
-   "image": "https://assets-prd.ignimgs.com/2026/03/10/clivebarkershellrasierrevivaloriginsdeveloperdiaryvideo-ign-blogroll-1773154687012.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come"
-    }
-   ]
-  },
-  {
-   "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
-   "summary": "There's no mistaking it this time—he said it.",
-   "link": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-   "pubDate": "2026-10-22T20:16:39.000Z",
-   "firstSeen": "2026-10-22T20:47:37.568Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/G4mqGiKszXBcPamKudfwRA-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
-   "summary": "GTA 6's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA…",
-   "link": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/",
-   "pubDate": "2026-10-22T19:52:26.000Z",
-   "firstSeen": "2026-10-22T20:47:37.568Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01-1.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/"
     }
    ]
   }
