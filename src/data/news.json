@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-07T03:47:54.207Z",
+ "generatedAt": "2026-11-07T04:47:57.221Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1289,
+  "exact": 1281,
   "syndicated": 88,
-  "similar": 370,
+  "similar": 367,
   "syndicatedTotal": 398,
   "syndicatedLeft": 24
  },
@@ -8690,6 +8690,20 @@
   {
    "date": "2026-11-14",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "ストレンジャー ザン ヘヴン",
+   "title": "『ストレンジャー ザン ヘヴン』全国体験会が11月14日より順次開催。バトル体験モードに加えて、新たに“ストーリー体験モード”をプレイできる",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BbVkxc3QwbVJ2QnV4T25JVlJMZnZXeXpBbDdfaVZNWFA1QTIzVHFtX1hhajRyN3BXM183MTBUWWY1cVVXOTBwenJsckFxN2VGeVk3TmlOWQ?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-14",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "NEOVERSE 2",
@@ -12182,11 +12196,11 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "デモンキルデモン 〜黄泉1984〜",
+   "work": "デモンキルデモン ~黄泉1984~",
    "title": "ダンジョンRPG「デモンキルデモン 〜黄泉1984〜」，PC（Steam），PS5，PS4版を2027年2月25日に発売",
    "link": "https://www.4gamer.net/games/056/G105626/20261106038/",
    "source": "4Gamer.net",
-   "sources": 3,
+   "sources": 4,
    "categories": [
     "release"
    ],
@@ -12856,8 +12870,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1009,
-   "accepted": 980
+   "archived": 1002,
+   "accepted": 973
   },
   {
    "id": "4gamer-sp",
@@ -12878,8 +12892,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 576,
-   "accepted": 570
+   "archived": 574,
+   "accepted": 568
   },
   {
    "id": "denfaminico",
@@ -12889,8 +12903,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1208,
-   "accepted": 1074
+   "archived": 1204,
+   "accepted": 1070
   },
   {
    "id": "gamewatch",
@@ -12900,8 +12914,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 681,
-   "accepted": 650
+   "archived": 680,
+   "accepted": 649
   },
   {
    "id": "gamespark",
@@ -12911,8 +12925,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1270,
-   "accepted": 1254
+   "archived": 1267,
+   "accepted": 1251
   },
   {
    "id": "inside-games",
@@ -12923,7 +12937,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1572,
-   "accepted": 1174
+   "accepted": 1175
   },
   {
    "id": "ps-blog",
@@ -12933,8 +12947,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 35,
-   "accepted": 35
+   "archived": 34,
+   "accepted": 34
   },
   {
    "id": "xbox-wire",
@@ -12944,8 +12958,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 14,
-   "accepted": 14
+   "archived": 13,
+   "accepted": 13
   },
   {
    "id": "ign-jp",
@@ -12955,8 +12969,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 130,
-   "accepted": 93
+   "archived": 129,
+   "accepted": 92
   },
   {
    "id": "gnews-famitsu",
@@ -12966,8 +12980,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 710,
-   "accepted": 569
+   "archived": 708,
+   "accepted": 567
   },
   {
    "id": "gnews-dengeki",
@@ -12978,7 +12992,7 @@
    "error": null,
    "fetched": 100,
    "archived": 741,
-   "accepted": 408
+   "accepted": 409
   },
   {
    "id": "gnews-newgame",
@@ -12987,9 +13001,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 88,
-   "archived": 527,
-   "accepted": 485
+   "fetched": 87,
+   "archived": 525,
+   "accepted": 483
   },
   {
    "id": "gnews-switch2",
@@ -12999,8 +13013,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1466,
-   "accepted": 1290
+   "archived": 1462,
+   "accepted": 1285
   },
   {
    "id": "gnews-ps5",
@@ -13010,8 +13024,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 736,
-   "accepted": 672
+   "archived": 732,
+   "accepted": 668
   },
   {
    "id": "gnews-update",
@@ -13020,8 +13034,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 81,
-   "archived": 451,
+   "fetched": 78,
+   "archived": 450,
    "accepted": 360
   },
   {
@@ -13032,8 +13046,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26106,
-   "accepted": 469
+   "archived": 26072,
+   "accepted": 467
   },
   {
    "id": "gematsu",
@@ -13043,8 +13057,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 364,
-   "accepted": 364
+   "archived": 363,
+   "accepted": 363
   },
   {
    "id": "ign",
@@ -13087,8 +13101,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 336,
-   "accepted": 336
+   "archived": 335,
+   "accepted": 335
   },
   {
    "id": "pcgamer",
@@ -13098,11 +13112,182 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 600,
-   "accepted": 600
+   "archived": 598,
+   "accepted": 598
   }
  ],
  "items": [
+  {
+   "title": "『原神』新キャラ「ダニカ」（CV.原由実さん）のキャラクター紹介が公開。スネージナヤパレスの宮廷メイド長にして、各勢力間を立ち回る陰の仲介役",
+   "summary": "メイドの仕事だけでなく、女皇に最も忠実な側近として各勢力間を立ち回る陰の仲介役。称号は「スネージナヤパレスに侍る影」、命ノ星座は「カサートカ座」",
+   "link": "https://news.denfaminicogamer.jp/news/261107h",
+   "pubDate": "2026-11-07T04:41:29.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/667ac74e9bd4212a5e889f83a2d284fe_8523525982664128115-1024x576.webp",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "原神"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261107h"
+    }
+   ]
+  },
+  {
+   "title": "『原神』新キャラ「ダニカ」の立ち絵公開！女皇に仕える宮廷メイド長―幼馴染・ヴェスナからの反応にも注目",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/07/190511.html",
+   "pubDate": "2026-11-07T04:40:03.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "原神"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/07/190511.html"
+    }
+   ]
+  },
+  {
+   "title": "最大8人対戦・武装スキーレースバトル『Snow Panic』発表、2027年初頭配信へ。銃撃、空爆、さらには“疾走ヤギ爆弾”で相手を妨害",
+   "summary": "KAFIは11月7日、『Snow Panic』を発表した。本作は最大8人プレイに対応するオンライン対戦型スキーレースゲームだ。",
+   "link": "https://automaton-media.com/articles/newsjp/snow-panic-20261107-477963/",
+   "pubDate": "2026-11-07T04:09:31.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/snow-panic-20261107-477963-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Snow Panic"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/snow-panic-20261107-477963/"
+    }
+   ]
+  },
+  {
+   "title": "『デモンキルデモン ～黄泉1984～』PS5/PS4/Steam版、2027年2月25日発売——パッケージ版はDL版合計より1,000円高い",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4waVBVNmxOX1Q1M2gzdnhKMmR3UVBldnlHSFNEQkNfU1o4SGZ1UEwzMFRtOGpjOTFYQjVQR0FXeGpkbEQ0?oc=5",
+   "pubDate": "2026-11-07T04:06:48.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": null,
+   "source": "shiritomo",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 32,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "ps4",
+    "pc"
+   ],
+   "works": [
+    "デモンキルデモン ~黄泉1984~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "shiritomo",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4waVBVNmxOX1Q1M2gzdnhKMmR3UVBldnlHSFNEQkNfU1o4SGZ1UEwzMFRtOGpjOTFYQjVQR0FXeGpkbEQ0?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "「東京ゲームダンジョン14」レポート（後編）。誰に頼まれたわけでもないのにこだわってしまう？ そんな癖（へき）な作品たちを発掘！",
+   "summary": "2026年のハロウィンの日に開催された「東京ゲームダンジョン14」は，毎度のごとく作者の“癖”（へき）が強く出ているゲームばかり！ そのすべてをカバーしたいが，原稿には常識的なボリュームと締切が……泣く泣く絞って癖なゲームを紹介しよう。",
+   "link": "https://www.4gamer.net/games/991/G999110/20261106043/",
+   "pubDate": "2026-11-07T04:00:00.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/991/G999110/20261106043/"
+    }
+   ]
+  },
+  {
+   "title": "『ドラクエ』ゲームカセットそっくりな名刺ケース登場！序曲やレベルアップ音が鳴るギミック付き、I～IVまで全4種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/07/190509.html",
+   "pubDate": "2026-11-07T03:45:03.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/07/190509.html"
+    }
+   ]
+  },
   {
    "title": "“もうひとつの新作ゴジラ”にファン熱狂！…過去最大規模となった「フェス・ゴジラ」新作バトル映像が3日間で52万再生を記録。次回作以降に登場する新怪獣も発表されて期待感高まる!!【ゴジラ・フェス2026】",
    "summary": "",
@@ -13129,6 +13314,32 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/07/190508.html"
+    }
+   ]
+  },
+  {
+   "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+   "summary": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+   "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+   "pubDate": "2026-11-07T03:12:16.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch"
     }
    ]
   },
@@ -13301,6 +13512,36 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/special-column/20261107-477962/"
+    }
+   ]
+  },
+  {
+   "title": "『FGO』ヤン・ジシュカも登場する『乙女戦争』がKindleで全巻各99円セール中！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrSkZlRkkzb1hub1ptQkI3Q0xla0I4WFVqSnBaenVJOWFUNHk4aVNvUzZ6WHJ2dnZfQi1FMjE4QjlzdDhmaXVMTXlTZHllRlFyTFhLODZDQllxdw?oc=5",
+   "pubDate": "2026-11-07T03:00:00.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "FGO",
+    "乙女戦争"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrSkZlRkkzb1hub1ptQkI3Q0xla0I4WFVqSnBaenVJOWFUNHk4aVNvUzZ6WHJ2dnZfQi1FMjE4QjlzdDhmaXVMTXlTZHllRlFyTFhLODZDQllxdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -18093,7 +18334,7 @@
    "firstSeen": "2026-11-06T16:47:36.244Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -18111,9 +18352,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBReHFVZ0U1QTdaUktGMzNxT0VoZzNvaTFkMlppd0l5WUpsTW5mSDhmWDZoVXRiT20zV3lQZmZCaVUtUkFGNXZEb2U2bnUwMGtqaEp2NER0WQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -19367,6 +19608,35 @@
    ]
   },
   {
+   "title": "『ストレンジャー ザン ヘヴン』全国体験会が11月14日より順次開催。バトル体験モードに加えて、新たに“ストーリー体験モード”をプレイできる",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BbVkxc3QwbVJ2QnV4T25JVlJMZnZXeXpBbDdfaVZNWFA1QTIzVHFtX1hhajRyN3BXM183MTBUWWY1cVVXOTBwenJsckFxN2VGeVk3TmlOWQ?oc=5",
+   "pubDate": "2026-11-06T10:20:00.000Z",
+   "firstSeen": "2026-11-07T04:47:35.381Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ストレンジャー ザン ヘヴン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BbVkxc3QwbVJ2QnV4T25JVlJMZnZXeXpBbDdfaVZNWFA1QTIzVHFtX1hhajRyN3BXM183MTBUWWY1cVVXOTBwenJsckFxN2VGeVk3TmlOWQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "11月5日発売の「クライムライト／CRYMELIGHT」をいち早くプレイ。死後のワンダーランドで繰り広げられる少女たちのポーカー×ローグライクバトル",
    "summary": "フリューが2026年11月5日に発売したローグライクアクション「クライムライト／CRYMELIGHT」のインプレッションをお届けする。「不思議の国のアリス」をモチーフとした世界観のなか，死後もなお戦い続ける少女たちの活躍を描いた本作の魅力について，ゲームシステムを中心にレポートす…",
    "link": "https://www.4gamer.net/games/002/G100206/20261102001/",
@@ -20568,7 +20838,7 @@
     "pc"
    ],
    "works": [
-    "デモンキルデモン 〜黄泉1984〜"
+    "デモンキルデモン ~黄泉1984~"
    ],
    "spoiler": false,
    "sources": [
@@ -191890,258 +192160,6 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01a1BFaWJaTWZiYk5SUDQ1SV9rVTVPWDhGWHJmXy1acVZZbTVKdTI0UG9mYndfeDJpbWR5MW9pRGc4YmRrWjJR?oc=5",
      "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "麦わらの一味と海上レストラン経営！バンダイナムコエンターテインメント『ONE PIECE 海のごちそうレストラン』",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjN043VFpLQzVUQ2lHUWlseDlsYmlyU2Njb1lCRC1aQzhKNE5nQmt2dWEtU3o3LXlkYUM3OWhzZjJ3Yjd2QkE?oc=5",
-   "pubDate": "2026-10-22T14:40:51.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": null,
-   "source": "Dtimes",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ONE PIECE 海のごちそうレストラン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Dtimes",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjN043VFpLQzVUQ2lHUWlseDlsYmlyU2Njb1lCRC1aQzhKNE5nQmt2dWEtU3o3LXlkYUM3OWhzZjJ3Yjd2QkE?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "'Jaws Hit the Floor' at Auction House as Retired Decorator Sells Pokémon Cards for $2 Million",
-   "summary": "A retired decorator from the UK just became a millionaire by selling a bunch of Pokémon cards collecting dust in his loft for $2 million.",
-   "link": "https://www.ign.com/articles/retired-working-man-sells-pokemon-cards-2-million",
-   "pubDate": "2026-10-22T14:39:28.000Z",
-   "firstSeen": "2026-10-22T15:41:19.890Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/22/pokemon-main-1792679844614.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Jaws Hit the Floor"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/retired-working-man-sells-pokemon-cards-2-million"
-    }
-   ]
-  },
-  {
-   "title": "Game industry legend Warren Spector blows up over BioWare's closure: 'it's utter bulls**t'",
-   "summary": "The recently retired producer of System Shock, Ultima Underworld, Deus Ex, and so many more wants to know why \"the folks in suits\" aren't lo…",
-   "link": "https://www.pcgamer.com/gaming-industry/game-industry-legend-warren-spector-blows-up-over-biowares-closure-its-utter-bulls-t/",
-   "pubDate": "2026-10-22T14:38:38.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/LH6e7uZsB3iHwLwo4HnvRS-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/game-industry-legend-warren-spector-blows-up-over-biowares-closure-its-utter-bulls-t/"
-    }
-   ]
-  },
-  {
-   "title": "Where to find the Sotoyama region Treasure Hunt in Forza Horizon 6",
-   "summary": "Track this chest to a mountain lake.",
-   "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-sotoyama-treasure-hunt-location/",
-   "pubDate": "2026-10-22T14:35:54.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/khABfqeTatFVVvFtyi8hGb-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-sotoyama-treasure-hunt-location/"
-    }
-   ]
-  },
-  {
-   "title": "『神撃のバハムート』PHP脆弱性対応メンテが1週間超の長期化と発表―複数世代バージョンアップで大変でも頑張る",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/22/173960.html",
-   "pubDate": "2026-10-22T14:30:02.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "神撃のバハムート"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/22/173960.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/23/189673.html"
-    }
-   ]
-  },
-  {
-   "title": "No more waiting on shaders to compile as Nvidia's latest driver adds advanced shader delivery: users report lower RAM usage in Call of Duty: Modern Warfare 4 and Gears of War: E-Day",
-   "summary": "Instead of waiting around at your rig, the cloud can do all of the heavy lifting instead.",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/no-more-waiting-on-shaders-to-compile-as-nvidias-latest-driver-adds-advanced-shader-delivery-users-report-lower-ram-usage-in-call-of-duty-modern-warfare-4-and-gears-of-war-e-day/",
-   "pubDate": "2026-10-22T14:17:48.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/puRh9PgaH6xDQExD4HsSbM-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/graphics-cards/no-more-waiting-on-shaders-to-compile-as-nvidias-latest-driver-adds-advanced-shader-delivery-users-report-lower-ram-usage-in-call-of-duty-modern-warfare-4-and-gears-of-war-e-day/"
-    }
-   ]
-  },
-  {
-   "title": "Resident Evil Director Zach Cregger Feels “Gratified” Following Gamer Backlash To His Highly Successful Movie",
-   "summary": "Resident Evil director Zach Cregger has responded to the success of his video game movie, and while he doesn't want to say “I told you so” t…",
-   "link": "https://www.gamespot.com/articles/resident-evil-director-zach-cregger-feels-vindicated-following-gamer-backlash-to-his-highly-successful-movie/",
-   "pubDate": "2026-10-22T14:11:46.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/REMovie.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/resident-evil-director-zach-cregger-feels-vindicated-following-gamer-backlash-to-his-highly-successful-movie/"
-    }
-   ]
-  },
-  {
-   "title": "Skate Studio Also Hit With Cuts as Scope of EA's Mass Layoffs Becomes Clearer",
-   "summary": "Following the announcement that EA is closing down Mass Effect developer BioWare, staff at the studio behind the latest Skate game have also…",
-   "link": "https://www.ign.com/articles/skate-studio-hit-with-layoffs",
-   "pubDate": "2026-10-22T14:11:15.000Z",
-   "firstSeen": "2026-10-22T15:41:19.890Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/09/skate-developer-addresses-reskate-1791574192606.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/skate-studio-hit-with-layoffs"
-    }
-   ]
-  },
-  {
-   "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
-   "summary": "Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discover…",
-   "link": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-   "pubDate": "2026-10-22T14:11:14.000Z",
-   "firstSeen": "2026-10-22T14:47:38.405Z",
-   "image": "https://assetsio.gnwcdn.com/Final-Fantasy-14-Dawntrail-Review-5-Wuk-Lamat-.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/video-games-down-php-vulnerability"
     }
    ]
   }
