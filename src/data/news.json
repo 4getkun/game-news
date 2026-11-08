@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-08T22:47:43.907Z",
+ "generatedAt": "2026-11-08T23:47:47.849Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1237,
+  "exact": 1234,
   "syndicated": 81,
   "similar": 347,
-  "syndicatedTotal": 379,
-  "syndicatedLeft": 25
+  "syndicatedTotal": 377,
+  "syndicatedLeft": 24
  },
  "calendar": [
   {
@@ -425,22 +425,6 @@
   {
    "date": "2026-10-27",
    "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "ほの暮しの庭",
-   "title": "『ほの暮しの庭』無料アプデ第2弾が10月27日に配信。主人公の誕生日イベントや家具“水回り設備シリーズ”全10種などを追加",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lTFI0dzk3eHdqNDI1Zk9RME4ycGJlb25nc3VXakM3SlI4MVdsanljQkVBN1RJcFhCMi1PUENyUksxTXA2WDVHYldEaGNhTVVCTm1XQlNUcw?oc=5",
-   "source": "ファミ通",
-   "sources": 2,
-   "categories": [
-    "event"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-27",
-   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "Remothered",
@@ -779,6 +763,22 @@
     "trailer",
     "event",
     "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-27",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "ほの暮しの庭",
+   "title": "『ほの暮しの庭』無料アプデ第2弾が10月27日に配信。主人公の誕生日イベントや家具“水回り設備シリーズ”全10種などを追加",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lTFI0dzk3eHdqNDI1Zk9RME4ycGJlb25nc3VXakM3SlI4MVdsanljQkVBN1RJcFhCMi1PUENyUksxTXA2WDVHYldEaGNhTVVCTm1XQlNUcw?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [
+    "event"
    ],
    "platforms": [],
    "spoiler": false
@@ -12725,8 +12725,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 931,
-   "accepted": 905
+   "archived": 932,
+   "accepted": 906
   },
   {
    "id": "4gamer-sp",
@@ -12758,7 +12758,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1130,
+   "archived": 1131,
    "accepted": 1004
   },
   {
@@ -12780,8 +12780,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1175,
-   "accepted": 1160
+   "archived": 1174,
+   "accepted": 1159
   },
   {
    "id": "inside-games",
@@ -12791,8 +12791,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1512,
-   "accepted": 1130
+   "archived": 1511,
+   "accepted": 1129
   },
   {
    "id": "ps-blog",
@@ -12846,7 +12846,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 710,
+   "archived": 711,
    "accepted": 401
   },
   {
@@ -12856,8 +12856,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 94,
-   "archived": 501,
+   "fetched": 98,
+   "archived": 502,
    "accepted": 461
   },
   {
@@ -12868,8 +12868,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1402,
-   "accepted": 1231
+   "archived": 1397,
+   "accepted": 1226
   },
   {
    "id": "gnews-ps5",
@@ -12902,7 +12902,7 @@
    "error": null,
    "fetched": 100,
    "archived": 24252,
-   "accepted": 439
+   "accepted": 438
   },
   {
    "id": "gematsu",
@@ -12945,8 +12945,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 292,
-   "accepted": 292
+   "archived": 291,
+   "accepted": 291
   },
   {
    "id": "nintendolife",
@@ -12967,11 +12967,95 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 577,
-   "accepted": 577
+   "archived": 576,
+   "accepted": 576
   }
  ],
  "items": [
+  {
+   "title": "「ROBOT魂 ガンダムMk-II（エゥーゴ仕様） ver. A.N.I.M.E.」に再販予告！武装やエフェクトパーツなど多彩なオプションが付属",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/09/190570.html",
+   "pubDate": "2026-11-08T23:30:03.000Z",
+   "firstSeen": "2026-11-08T23:47:33.615Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/09/190570.html"
+    }
+   ]
+  },
+  {
+   "title": "【無料】マンガ『学園アイドルマスター GOLD RUSH』最新刊を除く全話無料キャンペーンが開催中！期間は11月10日11時まで",
+   "summary": "貧しい家族を支えるため、トップアイドルを目指す\"藤田ことね\"。思うように結果を出せず涙する彼女の前に、プロデューサー科に通う1人の生徒が現れる",
+   "link": "https://news.denfaminicogamer.jp/news/261109e",
+   "pubDate": "2026-11-08T23:23:13.000Z",
+   "firstSeen": "2026-11-08T23:47:33.615Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/81BRe8PxC9L._SL1500_-720x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "学園アイドルマスター GOLD RUSH"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261109e"
+    }
+   ]
+  },
+  {
+   "title": "【今週のモチベ】「みんなでポイっと！プリニーすごろく」や「Football Manager 27」が発売される 2026年11月9日〜11月15日",
+   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，コマンドRPGとスゴロクを融合させた「みんなでポイっと！プリニーすごろく」や，サッカークラブの全権監督となり，チームを頂点へ導くシリーズの最新作「FootballManager27」が発売…",
+   "link": "https://www.4gamer.net/games/954/G095479/20261108002/",
+   "pubDate": "2026-11-08T23:00:00.000Z",
+   "firstSeen": "2026-11-08T23:47:33.615Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": -1,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/954/G095479/20261108002/"
+    }
+   ]
+  },
   {
    "title": "『ヒロアカ』のバトロワがモバイルに。『僕のヒーローアカデミア ULTRA RUMBLE モバイル』が発表、3人1組・最大24人の戦いがスマホでも遊べる",
    "summary": "1試合は短く調整され、マッチングはモバイル同士のみ、コンシューマー版の全キャラが登場する。事前登録が受付中",
@@ -13175,7 +13259,7 @@
   },
   {
    "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
-   "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan”s Ricardo Tubbs driving in a white Fer…",
+   "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrar…",
    "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
    "pubDate": "2026-11-08T21:41:08.000Z",
    "firstSeen": "2026-11-08T22:47:32.755Z",
@@ -13202,14 +13286,14 @@
    ]
   },
   {
-   "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
-   "summary": "Good lord what is happening in there.",
-   "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+   "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
+   "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
+   "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
    "pubDate": "2026-11-08T21:38:31.000Z",
    "firstSeen": "2026-11-08T21:47:32.438Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/VE3dBZCG8wUwPxHWNzqwD9-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
+   "image": "https://assets-prd.ignimgs.com/2026/11/08/nvidia-ceo-jensen-huang-1794177110571.png",
+   "source": "IGN",
+   "sourceId": "ign",
    "syndicated": false,
    "kind": "specialist",
    "lang": "en",
@@ -13222,6 +13306,11 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy"
+    },
     {
      "name": "PC Gamer",
      "sourceId": "pcgamer",
@@ -34709,9 +34798,9 @@
     },
     {
      "name": "ファミ通.com（Yahoo!ニュース）",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTanFQd2xFWkxpZThkVnhMR3BralhiNzVIRXRUZ2Q2TmMwZHEwWFNha3JxY2UtN2djbkJLVVlLVzBYbUx6Z0J6ZVctWTBrSGxveDJBV3pKczlCay1CWlhjTlpmUUk1QTBBYkpndUlYQVU0anpYdS1GTm1qRUJJVE0?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
+     "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
     }
    ]
@@ -139998,6 +140087,32 @@
    ]
   },
   {
+   "title": "「ジョジョ3部」魂を抜かれた花京院典明人形が“最終受注”！承太郎たちと合流する際に身に着けていたサングラスも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/28/189984.html",
+   "pubDate": "2026-10-28T08:30:02.000Z",
+   "firstSeen": "2026-10-28T08:47:38.613Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/28/189984.html"
+    }
+   ]
+  },
+  {
    "title": "『モンスターハンターワイルズ』『Forza Horizon 6』を4Kで楽しめる！ Lenovoの最上級ゲーミングノートLegion Pro 7i Gen 10の実力を徹底レビュー",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxekhrWmVqQmVJUU9lUDZCVEZJNWp2NnpjMDhuaVhRa2I5R0k3OUE5SlFvM25yVDRsYTBERDlVb3lDUzhoNjRDYVlYczQzaTdQLUxEaThsRQ?oc=5",
@@ -179740,7 +179855,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 4,
    "categories": [
     "update"
    ],
@@ -191533,36 +191648,6 @@
    ]
   },
   {
-   "title": "『トラックフル』発売から約2週間で計9回のアップデートを実施！待望の「谷を探索」モードが登場",
-   "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）のパブリッシングレーベル「ポケットペアパブリッシング」は、ポーランドの開発スタジオ「MythicOwl」が手掛ける物理演算×トラック配達シ...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000159.000071410.html",
-   "pubDate": "2026-10-23T05:41:00.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "トラックフル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000159.000071410.html"
-    }
-   ]
-  },
-  {
    "title": "『ロマンシング サガ2 リベンジオブザセブン』売上100万本突破。『3』リメイクを前にシリーズ29年ぶりの大台",
    "summary": "スクウェア・エニックスは10月23日、『ロマンシング サガ2 リベンジオブザセブン』の累計販売本数が100万本を突破したことを発表した。",
    "link": "https://automaton-media.com/articles/newsjp/20261023-475138/",
@@ -191910,100 +191995,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/23/173992.html"
-    }
-   ]
-  },
-  {
-   "title": "『ファイナルファンタジー レゾナンス』Steam版、高評価でスタート勢い良く―HD-2Dの映像美やターン制バトルに称賛",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/23/173986.html",
-   "pubDate": "2026-10-23T05:04:03.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ファイナルファンタジー レゾナンス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/23/173986.html"
-    }
-   ]
-  },
-  {
-   "title": "「Nintendo Switch 2 Lite」実現に追い風？ サムスン新技術で省電力化や小型化も（多根清史） - エキスパート",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlpWRHhxMm9vVzM2bzlBRjBSeEV2azVvWW5lNndlOUc3UmJNandMdzMwbHhuSU0tWTNRYUZjLU5IUmt0TDlsMjFhSkN4UFFvMGZLZlc1dnZYT3pCRE9XN0pKQlNEQThQVDY0OFQtdVRJTzcyZG5BenlPMHdyRE5CWTRISXhUTURB?oc=5",
-   "pubDate": "2026-10-23T05:03:40.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "Yahoo!ニュース",
-   "sourceId": "gnews-switch2",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlpWRHhxMm9vVzM2bzlBRjBSeEV2azVvWW5lNndlOUc3UmJNandMdzMwbHhuSU0tWTNRYUZjLU5IUmt0TDlsMjFhSkN4UFFvMGZLZlc1dnZYT3pCRE9XN0pKQlNEQThQVDY0OFQtdVRJTzcyZG5BenlPMHdyRE5CWTRISXhUTURB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『ほの暮しの庭』無料アップデート第2弾の詳細公開！ 誕生日イベントや種まき機が10月27日配信",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTEt6SUYxVmw4QUFPb0tPWFJKQ0lRMW02dy10LVJoVnJZWndZNXhJNlVqbXhjNEVOT3cwLVgzZ2NjVlpEZkpCLXZIUWdpd1BZN1NtbktEX0tGbFY3dGtLNA?oc=5",
-   "pubDate": "2026-10-23T05:03:10.000Z",
-   "firstSeen": "2026-10-23T11:47:37.234Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ほの暮しの庭"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTEt6SUYxVmw4QUFPb0tPWFJKQ0lRMW02dy10LVJoVnJZWndZNXhJNlVqbXhjNEVOT3cwLVgzZ2NjVlpEZkpCLXZIUWdpd1BZN1NtbktEX0tGbFY3dGtLNA?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   }
