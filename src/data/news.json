@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T10:47:42.832Z",
+ "generatedAt": "2026-11-08T11:47:53.746Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1245,
-  "syndicated": 84,
-  "similar": 350,
-  "syndicatedTotal": 387,
+  "exact": 1243,
+  "syndicated": 83,
+  "similar": 349,
+  "syndicatedTotal": 386,
   "syndicatedLeft": 24
  },
  "calendar": [
@@ -7279,6 +7279,22 @@
   {
    "date": "2026-11-08",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "学園アイドルマスター",
+   "title": "『学園アイドルマスター』「氷渡香名江（CV.安倍彩野夏）」が11月16日に実装決定！ストーリーイベント「氷渡香名江 エピソード0」が11月8日21時より開催",
+   "link": "https://news.denfaminicogamer.jp/news/261108a",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-08",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "KARIZ-カリツの伝説-",
@@ -8730,6 +8746,54 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oajM2Nk5ZQzZoN3kwU1F5RlhKVWxNZk01bjdmN09zbDh2bkZ2amFPTklIUENfTldKazJ3VTZIX1llZXVfMDhDdlBvOE9lWF94N3c?oc=5",
    "source": "Nintendo DREAM WEB",
    "sources": 2,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-16",
+   "precision": "day",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "学園アイドルマスター(学マス)",
+   "title": "『学園アイドルマスター（学マス）』まさかの「氷渡香名江」実装決定。千奈ちゃんのメイドがアイドルに",
+   "link": "https://automaton-media.com/articles/newsjp/20261108-478163/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-16",
+   "precision": "day",
+   "verb": "update",
+   "label": "アップデート",
+   "work": null,
+   "title": "「学園アイドルマスター」まさかの倉本千奈に仕えるメイド「氷渡香名江」が11月16日より実装決定！【#氷渡香名江実装決定】",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154631.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [
+    "mobile"
+   ],
+   "platforms": [
+    "mobile"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-16",
+   "precision": "day",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "学園アイドルマスター",
+   "title": "『学園アイドルマスター』「氷渡香名江（CV.安倍彩野夏）」が11月16日に実装決定！ストーリーイベント「氷渡香名江 エピソード0」が11月8日21時より開催",
+   "link": "https://news.denfaminicogamer.jp/news/261108a",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
    "categories": [
     "event"
    ],
@@ -12382,7 +12446,7 @@
    "title": "『続ポートピア連続殺人事件:忘却の埋葬』が2027年3月4日発売！ Switch・Switch 2パッケージ版の予約開始",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02QUZCUnYzdENSZ0xRVTlGVndUR2NtSkZBWlZvN25jRTBqSktTR1loQlgwbVlCMGlUQmotdTJCM0t3Tkh3Tk1BckgyeHZQRE1RU0RLWThtZ2NpQWRRbHFWdw?oc=5",
    "source": "AppBank",
-   "sources": 4,
+   "sources": 2,
    "categories": [
     "release"
    ],
@@ -12753,8 +12817,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 943,
-   "accepted": 917
+   "archived": 938,
+   "accepted": 912
   },
   {
    "id": "4gamer-sp",
@@ -12764,8 +12828,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 216,
-   "accepted": 209
+   "archived": 215,
+   "accepted": 208
   },
   {
    "id": "automaton",
@@ -12786,8 +12850,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1137,
-   "accepted": 1009
+   "archived": 1136,
+   "accepted": 1007
   },
   {
    "id": "gamewatch",
@@ -12797,8 +12861,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 643,
-   "accepted": 613
+   "archived": 644,
+   "accepted": 614
   },
   {
    "id": "gamespark",
@@ -12808,8 +12872,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1195,
-   "accepted": 1180
+   "archived": 1193,
+   "accepted": 1178
   },
   {
    "id": "inside-games",
@@ -12819,8 +12883,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1519,
-   "accepted": 1135
+   "archived": 1518,
+   "accepted": 1134
   },
   {
    "id": "ps-blog",
@@ -12863,8 +12927,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 674,
-   "accepted": 535
+   "archived": 672,
+   "accepted": 533
   },
   {
    "id": "gnews-dengeki",
@@ -12884,7 +12948,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 96,
+   "fetched": 95,
    "archived": 499,
    "accepted": 459
   },
@@ -12907,7 +12971,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 696,
+   "archived": 697,
    "accepted": 635
   },
   {
@@ -12917,7 +12981,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 76,
+   "fetched": 75,
    "archived": 429,
    "accepted": 348
   },
@@ -12929,7 +12993,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24596,
+   "archived": 24589,
    "accepted": 442
   },
   {
@@ -12951,8 +13015,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1202,
-   "accepted": 1202
+   "archived": 1197,
+   "accepted": 1197
   },
   {
    "id": "eurogamer",
@@ -12973,8 +13037,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 302,
-   "accepted": 302
+   "archived": 301,
+   "accepted": 301
   },
   {
    "id": "nintendolife",
@@ -12984,8 +13048,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 331,
-   "accepted": 331
+   "archived": 329,
+   "accepted": 329
   },
   {
    "id": "pcgamer",
@@ -12995,11 +13059,249 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 584,
-   "accepted": 584
+   "archived": 582,
+   "accepted": 582
   }
  ],
  "items": [
+  {
+   "title": "レイクタウンで「Nintendo Switch 2」の“モンハンワイルズ”遊べる。11/14・15",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWDRnRWMxZDFjYS1xUEh6SnU5SHg2cWNPaWtUUnZhSGxSTFRvaTlCLUlxQnhZOHpHT0w1eldJdDNzVmsyOVlOWnVzRnozZHNGcThGNm1kQy1idw?oc=5",
+   "pubDate": "2026-11-08T11:23:40.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "川口マガジン",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 22,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "川口マガジン",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWDRnRWMxZDFjYS1xUEh6SnU5SHg2cWNPaWtUUnZhSGxSTFRvaTlCLUlxQnhZOHpHT0w1eldJdDNzVmsyOVlOWnVzRnozZHNGcThGNm1kQy1idw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『学園アイドルマスター（学マス）』まさかの「氷渡香名江」実装決定。千奈ちゃんのメイドがアイドルに",
+   "summary": "バンダイナムコエンターテインメントは11月8日、『学園アイドルマスター（学マス）』にて11月16日に、氷渡香名江を実装すると発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261108-478163/",
+   "pubDate": "2026-11-08T11:21:43.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478163-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "学園アイドルマスター(学マス)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261108-478163/"
+    }
+   ]
+  },
+  {
+   "title": "「学園アイドルマスター」まさかの倉本千奈に仕えるメイド「氷渡香名江」が11月16日より実装決定！【#氷渡香名江実装決定】",
+   "summary": "バンダイナムコエンターテインメントは、Android/iOS/PC向けアイドル育成シミュレーション「学園アイドルマスター（学マス）」において、新たに「氷渡香名江」を11月16日にプロデュースアイドルとして実装する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2154631.html",
+   "pubDate": "2026-11-08T11:18:10.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2154631.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「競走馬」グッズがオンライン販売！『ウマ娘』にも登場のアーモンドアイ、ゴルシなど7頭のTシャツや馬券ケースをラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/08/190562.html",
+   "pubDate": "2026-11-08T11:15:02.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウマ娘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/08/190562.html"
+    }
+   ]
+  },
+  {
+   "title": "『ウィンドローズ』大型アップデート「Ashlands」で重ね着・防具染色・マネキンが追加！ 今冬配信予定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mTUN3SHp3S3lzMlJnTXYyOFlkeU9LQnNBMkY0aVJ0MklTbFZOOGVCaW56U3lLb2ZDeWJQNWNkd0ZmOHB0d0lydUlqVGlJY21fZ3RvS1ozZG9aUTJGTlhjcg?oc=5",
+   "pubDate": "2026-11-08T11:12:33.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウィンドローズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mTUN3SHp3S3lzMlJnTXYyOFlkeU9LQnNBMkY0aVJ0MklTbFZOOGVCaW56U3lLb2ZDeWJQNWNkd0ZmOHB0d0lydUlqVGlJY21fZ3RvS1ozZG9aUTJGTlhjcg?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "『巨乳男』の謎を追え！夜の街で都市伝説に迫る新作ミステリーホラーSteamストアページ公開",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/08/174635.html",
+   "pubDate": "2026-11-08T11:00:02.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "巨乳男"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/08/174635.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】妖艶な表情で魅せる美貌から目が離せない…！美女レイヤーが魅せる『鳴潮』長離はスレンダーな美脚も完全再現【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/08/190561.html",
+   "pubDate": "2026-11-08T11:00:02.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鳴潮"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/08/190561.html"
+    }
+   ]
+  },
+  {
+   "title": "『学園アイドルマスター』「氷渡香名江（CV.安倍彩野夏）」が11月16日に実装決定！ストーリーイベント「氷渡香名江 エピソード0」が11月8日21時より開催",
+   "summary": "ストーリーイベント「氷渡香名江 エピソード0」が本日11月8日21時より開催。香名江にフィーチャーした特設サイトもオープン",
+   "link": "https://news.denfaminicogamer.jp/news/261108a",
+   "pubDate": "2026-11-08T10:47:27.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-6-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "学園アイドルマスター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261108a"
+    }
+   ]
+  },
   {
    "title": "ただ「読むだけ」じゃ生き残れない。恐怖で体力が減り、選択にも時間制限が迫る…緊迫感が恐ろしいPS2異色ホラー『歸らずの森』【特集】",
    "summary": "",
@@ -14188,6 +14490,46 @@
    ]
   },
   {
+   "title": "【最大95％オフ】今週のお得ゲーム10選：『FF7リバース』『ストリートファイター 30th』『オバケイドロ2』などSwitch・Switch2ソフトまとめ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOUh2WGszd09FbmhxM1VKeWk5ekhzQXJldDhBaWRLTFcxYVViMnNTa1RBbVNOZlNOV3BFZVNaWkllcXVUNmE3N0J3UzBPVllVMnA1MUo0QWhwQQ?oc=5",
+   "pubDate": "2026-11-08T04:30:00.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 95,
+    "free": false
+   },
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [
+    "FF7リバース",
+    "ストリートファイター 30th",
+    "オバケイドロ2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOUh2WGszd09FbmhxM1VKeWk5ekhzQXJldDhBaWRLTFcxYVViMnNTa1RBbVNOZlNOV3BFZVNaWkllcXVUNmE3N0J3UzBPVllVMnA1MUo0QWhwQQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "日本の町でドリブルしまくるゲーム『Kick』を手がけるスイス人開発者は、アニメとYouTubeで「生の日本」に惚れ込んだ。異国から描く“日本の日常”、ボールと共に駆け抜ける",
    "summary": "日本の通学路をドリブルで駆け抜ける『Kick』の開発経緯や、本作でこだわった“日本らしさ”について話を訊いた。",
    "link": "https://automaton-media.com/articles/interviewsjp/20261108-478098/",
@@ -14214,6 +14556,47 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/interviewsjp/20261108-478098/"
+    }
+   ]
+  },
+  {
+   "title": "【最大80%オフ】『パックマンワールド リ・パック』が704円。『風のクロノア1&2』や『リトルナイトメア2』もお得に買える、バンナムSteamキーセールがAmazonで開催中",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93YTAweWY0dUFYbjl0R1BBVmxXa0Y2LXUyMnRRbmtadlVQN0FQUm1Oc0FWMjNFQmwzMnBSV0lPOWpwZm4zSHNOSTlYVUhqQk1ENm45TUNvSHpDQQ?oc=5",
+   "pubDate": "2026-11-08T04:00:00.000Z",
+   "firstSeen": "2026-11-08T11:47:33.655Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 80,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "パックマンワールド リ・パック",
+    "風のクロノア1&2",
+    "リトルナイトメア2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93YTAweWY0dUFYbjl0R1BBVmxXa0Y2LXUyMnRRbmtadlVQN0FQUm1Oc0FWMjNFQmwzMnBSV0lPOWpwZm4zSHNOSTlYVUhqQk1ENm45TUNvSHpDQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -59052,7 +59435,7 @@
     "ps5"
    ],
    "works": [
-    "FF7 リバース",
+    "FF7リバース",
     "リメイク インターグレード"
    ],
    "spoiler": false,
@@ -59532,7 +59915,7 @@
    "works": [
     "FF7",
     "FF7 リメイク",
-    "FF7 リバース"
+    "FF7リバース"
    ],
    "spoiler": false,
    "sources": [
@@ -60200,7 +60583,7 @@
     "ps4"
    ],
    "works": [
-    "FF7 リバース",
+    "FF7リバース",
     "エースコンバット8"
    ],
    "spoiler": false,
@@ -60669,7 +61052,7 @@
     "ps5"
    ],
    "works": [
-    "FF7 リバース",
+    "FF7リバース",
     "FF7 リベレーション"
    ],
    "spoiler": false,
@@ -191858,314 +192241,6 @@
      "name": "Googleニュース「Nintendo Switch 2」",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vV0JQdVBqbmg4RnFJMXE5UWpELWU3cnRmSno4UjluLVhESGgtUVBCaUpCQ1hzM05YZkk2aHRVNTVwaXNLZHItSi0xVQ?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "PS5独占「Marvel’s Wolverine」、発売月の売上は「HELLDIVERS 2」以来のソニー最大規模に",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rZnViaGJUWVlxZEU4UHBJVWxiMzEyTEZKV2M2cUdDNTAzMWYyV2p0eWlEUjN2ZXNHRmhoekNIZXZNRTN3bkVZNA?oc=5",
-   "pubDate": "2026-10-23T03:02:00.000Z",
-   "firstSeen": "2026-10-23T09:47:33.414Z",
-   "image": null,
-   "source": "スマホダイジェスト",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スマホダイジェスト",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rZnViaGJUWVlxZEU4UHBJVWxiMzEyTEZKV2M2cUdDNTAzMWYyV2p0eWlEUjN2ZXNHRmhoekNIZXZNRTN3bkVZNA?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "『続ポートピア連続殺人事件:忘却の埋葬』が2027年3月4日に発売決定。『ポートピア連続殺人事件』のリメイク版、複数の人物の視点で事件の秘密に迫る完全新作ストーリーを収録",
-   "summary": "複数の人物の視点で事件の秘密に迫る完全新作ストーリーを収録。オリジナル版を手がけた堀井雄二氏が原作・制作総監督を担当",
-   "link": "https://news.denfaminicogamer.jp/news/261023b",
-   "pubDate": "2026-10-23T03:00:54.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub7-13-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "続ポートピア連続殺人事件:忘却の埋葬",
-    "ポートピア連続殺人事件"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261023b"
-    }
-   ]
-  },
-  {
-   "title": "【非常に好評】腹黒かわいい宿屋経営ゲーム『ダンジョン・イン』本日10月23日より正式リリース。敵対する2ギルド相手に二枚舌営業",
-   "summary": "2ギルドに挟まれたダンジョンの入口という好立地に宿屋をかまえるゲーム。口八丁手八丁で何が何でもお金持ちを目指す",
-   "link": "https://news.denfaminicogamer.jp/news/261023o",
-   "pubDate": "2026-10-23T03:00:53.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/1-8-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダンジョン・イン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261023o"
-    }
-   ]
-  },
-  {
-   "title": "『メイドインアビス 目覚める神秘』劇場シリーズ【第二部】制作決定！第2弾キービジュアルが公開され、追加キャストも解禁",
-   "summary": "スラージョ役は水樹奈々さん、ニシャゴラ役は渡辺明乃さん、ヤタラマル役は武内駿輔さん、シェルミ役は東山奈央さん、メナエ役は宮本侑芽さんが演じる",
-   "link": "https://news.denfaminicogamer.jp/news/261023v",
-   "pubDate": "2026-10-23T03:00:27.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/f4354c44ef65d0183d0f82eafa760f34-724x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "メイドインアビス 目覚める神秘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261023v"
-    }
-   ]
-  },
-  {
-   "title": "『超者ライディーン』『センチメンタルジャーニー』『セイクリッドセブン』がサンライズのYouTubeチャンネルにて初配信へ！変身ヒーローから恋愛までロボットだけじゃないサンライズアニメ",
-   "summary": "1997年に放送されたヒーローアニメ。『勇者ライディーン』を原案とし、古代より蘇りし邪悪「超魔」との戦いを描く",
-   "link": "https://news.denfaminicogamer.jp/news/2610232m",
-   "pubDate": "2026-10-23T03:00:22.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/e04c62b4dc6f7f3fc63953fd598d9bf1-1024x482.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "超者ライディーン",
-    "センチメンタルジャーニー",
-    "セイクリッドセブン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610232m"
-    }
-   ]
-  },
-  {
-   "title": "新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう」で成立する、最大30人協力TPSの“気疲れしない”サブゲームシューター",
-   "summary": "最大30人協力TPS『B.L.U.E. NOVA』の試遊レポートをお届けする。",
-   "link": "https://automaton-media.com/articles/reportjp/bluenova-20261023-475080/",
-   "pubDate": "2026-10-23T03:00:07.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/bluenova-20261023-475080-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "demo",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "B.L.U.E. NOVA"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/reportjp/bluenova-20261023-475080/"
-    }
-   ]
-  },
-  {
-   "title": "3Dサバイバルホラーの “遺伝子” は、いかにして生まれ、受け継がれたのか？ 『アローン・イン・ザ・ダーク』のフレデリック・レイナルと『サイレントヒル』『SIREN』の外山圭一郎が語る、名作の裏側【The Tenth Mosaic 対談】",
-   "summary": "『アローン・イン・ザ・ダーク』のフレデリック・レイナルと『サイレントヒル』『SIREN』の外山圭一郎が語る、名作の裏側",
-   "link": "https://news.denfaminicogamer.jp/projectbook/261023a",
-   "pubDate": "2026-10-23T03:00:06.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/10/32e06d5fed48f61f77e42ef872cb1840-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アローン・イン・ザ・ダーク",
-    "サイレントヒル",
-    "SIREN"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/projectbook/261023a"
-    }
-   ]
-  },
-  {
-   "title": "ガンホー新作『B.L.U.E. NOVA』は“カジュアルな遊びやすさ”を重視した無限弾幕PvEシューター！仲間と力を合わせ、押し寄せるAI軍団を殲滅せよ【先行プレイレポ】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/23/173979.html",
-   "pubDate": "2026-10-23T03:00:06.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "B.L.U.E. NOVA"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/23/173979.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/23/189709.html"
-    }
-   ]
-  },
-  {
-   "title": "『続ポートピア連続殺人事件:忘却の埋葬』来年3月4日発売へ。犯人は誰なのか、あの『ポートピア連続殺人事件』がフルリメイク",
-   "summary": "ジー・モードは10月23日、『続ポートピア連続殺人事件:忘却の埋葬』を2027年3月4日に発売すると発表した。本作は1983年に発売された推理ADV『ポートピア連続殺人事件』のリメイク作となる。",
-   "link": "https://automaton-media.com/articles/newsjp/20261023-475096/",
-   "pubDate": "2026-10-23T03:00:03.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475096-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "続ポートピア連続殺人事件:忘却の埋葬",
-    "ポートピア連続殺人事件"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261023-475096/"
-    }
-   ]
-  },
-  {
-   "title": "おらが畑の柵は曲げられ、芋は全滅。困り果てた編集部員が猟友会会長に聞いた害獣対策―ただし狩猟シム『Way of the Hunter 2』を楽しんでもらいながら",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/23/173978.html",
-   "pubDate": "2026-10-23T03:00:03.000Z",
-   "firstSeen": "2026-10-23T03:47:34.962Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Way of the Hunter 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/23/173978.html"
     }
    ]
   }
