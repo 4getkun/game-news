@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-08T21:47:45.696Z",
+ "generatedAt": "2026-11-08T22:47:43.907Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1236,
+  "exact": 1237,
   "syndicated": 81,
   "similar": 347,
-  "syndicatedTotal": 378,
-  "syndicatedLeft": 24
+  "syndicatedTotal": 379,
+  "syndicatedLeft": 25
  },
  "calendar": [
   {
@@ -6772,23 +6772,6 @@
   {
    "date": "2026-11-07",
    "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "サクラ大戦",
-   "title": "ファミ通40周年フェスが本日（11/7）開催！ 内部構造が見える歴代プレステ本体、『サクラ大戦』イラストなどゲームファン必見の展示がずらり。ファミ通ゆかりのゲストを招いてのステージイベントも！",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX1FEdGt4aTVGU2IzRzFqSHJTMjhhUmFLa2ZqQXVvWG1WZU1TWlMxSnR1T1NkMTZJNXh6UTVITldVUEdBUC1kcTJXVkhNMTI5TnBGNGZvZw?oc=5",
-   "source": "ファミ通",
-   "sources": 2,
-   "categories": [
-    "event",
-    "hardware"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-07",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Find The Needle",
@@ -7144,6 +7127,20 @@
    "categories": [
     "update"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "サクラ大戦",
+   "title": "11月7日開催「ファミ通40周年フェス」まであと10日！ プレイステーション特別展示＆『サクラ大戦』イラストの原画を公開する展示コーナー／体験コーナー／ノベルティの全貌を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MU0NkaWhmOHd1OUx1TmtHNDBjRnJWdzhJenBWY2Fkcm5YTE8xYnA1WHV1YWJ2cEJjbTVGU1ktUTNfSnBFZG5MOWdiMFhvWkNXVjB0ZC14NA?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -9620,23 +9617,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-27",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "熊本市、ゲーム・アニメ・CGなどのデジタルコンテンツ企業を対象とした無料視察ツアーを11月27日・28日に開催。 地元学生との交流イベントも同時開催",
-   "link": "https://game.watch.impress.co.jp/docs/news/2150709.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "trailer",
-    "event"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-28",
    "precision": "day",
    "verb": "release",
@@ -9743,6 +9723,22 @@
    "sources": 1,
    "categories": [
     "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「スヌーピー」の新作UTがユニクロから12月中旬に発売！心温まるシーンをデザインした全6種",
+   "link": "https://www.inside-games.jp/article/2026/11/09/190569.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "new"
    ],
    "platforms": [],
    "spoiler": false
@@ -12762,8 +12758,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1129,
-   "accepted": 1003
+   "archived": 1130,
+   "accepted": 1004
   },
   {
    "id": "gamewatch",
@@ -12784,8 +12780,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1177,
-   "accepted": 1162
+   "archived": 1175,
+   "accepted": 1160
   },
   {
    "id": "inside-games",
@@ -12795,8 +12791,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1510,
-   "accepted": 1128
+   "archived": 1512,
+   "accepted": 1130
   },
   {
    "id": "ps-blog",
@@ -12850,7 +12846,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 709,
+   "archived": 710,
    "accepted": 401
   },
   {
@@ -12860,7 +12856,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 99,
+   "fetched": 94,
    "archived": 501,
    "accepted": 461
   },
@@ -12872,8 +12868,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1399,
-   "accepted": 1228
+   "archived": 1402,
+   "accepted": 1231
   },
   {
    "id": "gnews-ps5",
@@ -12884,7 +12880,7 @@
    "error": null,
    "fetched": 100,
    "archived": 692,
-   "accepted": 631
+   "accepted": 630
   },
   {
    "id": "gnews-update",
@@ -12893,7 +12889,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 77,
+   "fetched": 76,
    "archived": 421,
    "accepted": 340
   },
@@ -12927,8 +12923,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1169,
-   "accepted": 1169
+   "archived": 1164,
+   "accepted": 1164
   },
   {
    "id": "eurogamer",
@@ -12977,6 +12973,235 @@
  ],
  "items": [
   {
+   "title": "『ヒロアカ』のバトロワがモバイルに。『僕のヒーローアカデミア ULTRA RUMBLE モバイル』が発表、3人1組・最大24人の戦いがスマホでも遊べる",
+   "summary": "1試合は短く調整され、マッチングはモバイル同士のみ、コンシューマー版の全キャラが登場する。事前登録が受付中",
+   "link": "https://news.denfaminicogamer.jp/news/261109b",
+   "pubDate": "2026-11-08T22:34:58.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/img_system_01.webp",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "ヒロアカ",
+    "僕のヒーローアカデミア ULTRA RUMBLE モバイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261109b"
+    }
+   ]
+  },
+  {
+   "title": "「スヌーピー」の新作UTがユニクロから12月中旬に発売！心温まるシーンをデザインした全6種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/09/190569.html",
+   "pubDate": "2026-11-08T22:30:03.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/09/190569.html"
+    }
+   ]
+  },
+  {
+   "title": "「Wiiリモコンに匹敵する新しい遊びが見られない」指摘に任天堂の回答は Switch2でも「発表できる日を楽しみに」（オタク総研）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMFVOYUd4LTFZckVUOFpuVU5hQnhYTy1leHpkTlBpbjA3UU9MbU93N2VLdXpYM3NKV1g4alhVQlN0VXVnRUl4Mzg5NGFnTFlsOGZjcUVxZlpqVXp6RHRlNWdxSVUyaVRyMUdaV3lmQ3o4SnVWbDN4UXl2TXFvVkU?oc=5",
+   "pubDate": "2026-11-08T22:23:19.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース）",
+   "sourceId": "gnews-switch2",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMFVOYUd4LTFZckVUOFpuVU5hQnhYTy1leHpkTlBpbjA3UU9MbU93N2VLdXpYM3NKV1g4alhVQlN0VXVnRUl4Mzg5NGFnTFlsOGZjcUVxZlpqVXp6RHRlNWdxSVUyaVRyMUdaV3lmQ3o4SnVWbDN4UXl2TXFvVkU?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+   "summary": "CEO Mike Bilder doesn't see AI as having much to offer Jackbox.",
+   "link": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+   "pubDate": "2026-11-08T22:06:56.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch 2のゼルダ40周年版にバッテリー交換式が登場。欧州で届き始めるも国内は従来のまま",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWDExSFVVVWUwd29MZ2dpbGgySk1kWk9kU1hNRktmQ3JERW1BOXFaaFJQaGllNmpxcjhYQ2FwWkVjUmFWbEVVWnRyOWpBdW9vaWFRWDJZVnplM19ocU9XT2JUWjFRNW40eHA1cDR6dW94cHVvQ2Q4Z193SQ?oc=5",
+   "pubDate": "2026-11-08T22:05:00.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": null,
+   "source": "GAZLOG",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAZLOG",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWDExSFVVVWUwd29MZ2dpbGgySk1kWk9kU1hNRktmQ3JERW1BOXFaaFJQaGllNmpxcjhYQ2FwWkVjUmFWbEVVWnRyOWpBdW9vaWFRWDJZVnplM19ocU9XT2JUWjFRNW40eHA1cDR6dW94cHVvQ2Q4Z193SQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/09/190568.html",
+   "pubDate": "2026-11-08T22:00:03.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/09/190568.html"
+    }
+   ]
+  },
+  {
+   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月2日〜11月8日",
+   "summary": "2026年11月2日〜11月8日，4Gamerに掲載された記事は230本でした。タイのバンコクで開催された「gamescomasiaxThailandGameShow2026」のレポートや，「グランド・セフト・オートVI」のまとめ記事などを掲載した，4Gamerと世界のゲーム業界…",
+   "link": "https://www.4gamer.net/games/040/G004099/20261108001/",
+   "pubDate": "2026-11-08T22:00:00.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/040/G004099/20261108001/"
+    }
+   ]
+  },
+  {
+   "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
+   "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan”s Ricardo Tubbs driving in a white Fer…",
+   "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+   "pubDate": "2026-11-08T21:41:08.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": "https://assets-prd.ignimgs.com/2026/10/12/mv85-austin-sonny-1280-1791830924948.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason"
+    }
+   ]
+  },
+  {
    "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
    "summary": "Good lord what is happening in there.",
    "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
@@ -13001,6 +13226,32 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/"
+    }
+   ]
+  },
+  {
+   "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+   "summary": "Jesse Eisenberg said he will \"sometimes experiment with AI\" – but it's just because he's \"testing it to make sure it's bad.\"",
+   "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
+   "pubDate": "2026-11-08T21:32:50.000Z",
+   "firstSeen": "2026-11-08T22:47:32.755Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/08/jesse-eisenberg-ai-1794173561300.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet"
     }
    ]
   },
@@ -13220,7 +13471,7 @@
   },
   {
    "title": "This Week’s Japanese Game Releases: Prinny Party: Going Overboard!, Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy, more",
-   "summary": "The remake of Prinny Party: Going Overboard! for PlayStation 5, Switch 2, Switch, and PC, …",
+   "summary": "Prinny Party: Going Overboard! for PlayStation 5, Switch 2, Switch, and PC, and Pikmin 4 …",
    "link": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-prinny-party-going-overboard-pikmin-4-nintendo-switch-2-edition-dandori-academy-more",
    "pubDate": "2026-11-08T17:48:55.000Z",
    "firstSeen": "2026-11-08T18:47:33.466Z",
@@ -13231,9 +13482,7 @@
    "kind": "specialist",
    "lang": "en",
    "score": 23,
-   "categories": [
-    "new"
-   ],
+   "categories": [],
    "deal": null,
    "platforms": [
     "switch2",
@@ -20356,7 +20605,7 @@
    ]
   },
   {
-   "title": "ファミ通40周年フェスが本日（11/7）開催！ 内部構造が見える歴代プレステ本体、『サクラ大戦』イラストなどゲームファン必見の展示がずらり。ファミ通ゆかりのゲストを招いてのステージイベントも！",
+   "title": "ファミ通40周年フェスリポート！ 内部構造が見える歴代プレステ本体、『サクラ大戦』イラストなどゲームファン必見の展示がずらり。ファミ通ゆかりのゲストを招いてのステージイベントも！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nX1FEdGt4aTVGU2IzRzFqSHJTMjhhUmFLa2ZqQXVvWG1WZU1TWlMxSnR1T1NkMTZJNXh6UTVITldVUEdBUC1kcTJXVkhNMTI5TnBGNGZvZw?oc=5",
    "pubDate": "2026-11-07T03:50:00.000Z",
@@ -44888,7 +45137,7 @@
    "firstSeen": "2026-11-05T07:47:35.311Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -44905,9 +45154,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YNWtoM1dFNF9zWnd5VkptaF9kODlPSnVFamk1d1gyX3FMMnBMRk5rVm1hRTA1Nzk3Mm5fa1B6ODAzZHd2OGZaZ0VjYlFOTFpZQzhHT3Jhbw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -191755,276 +192004,6 @@
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTEt6SUYxVmw4QUFPb0tPWFJKQ0lRMW02dy10LVJoVnJZWndZNXhJNlVqbXhjNEVOT3cwLVgzZ2NjVlpEZkpCLXZIUWdpd1BZN1NtbktEX0tGbFY3dGtLNA?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "『俺アラ』2.5周年の大型アップデート「BEYOND」実施！ 新SSRハンター「後藤清臣」＆継承者「ベルベット」登場",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSDJhQnlYdXd0REtqY2ozRnBlWUFUVmF0MklyMEpjcjVUc0ZQbk00ay1vZHlITWtrdDBhRXN1clBzOE5zeVZkQ2tKLUVOS09RaGRRZ3NSZ21HUVVhR01sRQ?oc=5",
-   "pubDate": "2026-10-23T05:03:10.000Z",
-   "firstSeen": "2026-10-23T11:47:37.234Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "俺アラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSDJhQnlYdXd0REtqY2ozRnBlWUFUVmF0MklyMEpjcjVUc0ZQbk00ay1vZHlITWtrdDBhRXN1clBzOE5zeVZkQ2tKLUVOS09RaGRRZ3NSZ21HUVVhR01sRQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "『ドラゴンボール ゼノバース3』：パリ・ゲームズ・ウィークでの先行プレイレポート",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2FORndTZ3pUVzJFV0loU1gyOFdQNWNWenJic3RldldJUEZmelRDNDExM1JqcHJTY1E5NzREMS1BdnFnRU91QXh3ajNvVUVQQTRjbFlCckgzYzhPLVlzNW1RSkVkeUpFcDRMLS1CaUpHR2VPTTZnWFZzWklsaW5DcVl0c1NlQkVwcW1iaHZIazhuWTNhcXdfY0ZlQmRzWVlTWUJmMEd4dDJFX3Q4UnU5MzJDU1BybkQ4VDljMnI5cGtPU01BcC14VkVpbFpLNGdlSzg0dUJlTQ?oc=5",
-   "pubDate": "2026-10-23T05:02:00.000Z",
-   "firstSeen": "2026-10-25T20:47:59.600Z",
-   "image": null,
-   "source": "Sortir à Paris",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラゴンボール ゼノバース3"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Sortir à Paris",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2FORndTZ3pUVzJFV0loU1gyOFdQNWNWenJic3RldldJUEZmelRDNDExM1JqcHJTY1E5NzREMS1BdnFnRU91QXh3ajNvVUVQQTRjbFlCckgzYzhPLVlzNW1RSkVkeUpFcDRMLS1CaUpHR2VPTTZnWFZzWklsaW5DcVl0c1NlQkVwcW1iaHZIazhuWTNhcXdfY0ZlQmRzWVlTWUJmMEd4dDJFX3Q4UnU5MzJDU1BybkQ4VDljMnI5cGtPU01BcC14VkVpbFpLNGdlSzg0dUJlTQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『CoD: MW4』本日（10/23）発売。13年ぶりに任天堂ハードに登場、Switch 2版はJoy-Con 2のマウス操作に対応。弟者、k4sen、ボドカら12人がプレイ配信",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55akg5dUdnV0MxcnN6dV9PYnBLRDh0NmU0OUR3eXNfcGJXcUxFU0R6T2h3ZGJNTEEtVHpWUVViVHlsa0lHQWhDR29FWGo3VFVSQkROc3AtWQ?oc=5",
-   "pubDate": "2026-10-23T05:01:00.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "CoD: MW4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55akg5dUdnV0MxcnN6dV9PYnBLRDh0NmU0OUR3eXNfcGJXcUxFU0R6T2h3ZGJNTEEtVHpWUVViVHlsa0lHQWhDR29FWGo3VFVSQkROc3AtWQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "【訃報】作家 村上龍さん死去。享年74歳。『コインロッカー・ベイビーズ』『13歳のハローワーク』など",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVOUp6ZXB6bzVUMlZjejVfOFdtMmdTV25YV0Njd2xKeEs1UXFfOUFVclR3QjQ5a0YzRi1XU2pxSTJ2aW85Zzc5RW5fNjdOZWFJaWdDZTJuWVF5QQ?oc=5",
-   "pubDate": "2026-10-23T05:00:00.000Z",
-   "firstSeen": "2026-10-23T10:47:37.786Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "コインロッカー・ベイビーズ",
-    "13歳のハローワーク"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVOUp6ZXB6bzVUMlZjejVfOFdtMmdTV25YV0Njd2xKeEs1UXFfOUFVclR3QjQ5a0YzRi1XU2pxSTJ2aW85Zzc5RW5fNjdOZWFJaWdDZTJuWVF5QQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "失踪した推しの行方を追うため，元アイドルの配信に介入して真相を探る。サイコホラーADV「つみみじかん 狂オシイホド愛シテル」，配信開始",
-   "summary": "灯白社は2026年10月22日，新作タイトル「つみみじかん狂オシイホド愛シテル」をリリースした。本作は，元アイドルの崖っぷち配信者「つみみ」の配信を通して，いわくつきの廃村を調査する配信介入×調査推理サイコホラーADVだ。",
-   "link": "https://www.4gamer.net/games/997/G099737/20261023013/",
-   "pubDate": "2026-10-23T04:56:42.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [
-    "new",
-    "release",
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/997/G099737/20261023013/"
-    }
-   ]
-  },
-  {
-   "title": "熊本市、ゲーム・アニメ・CGなどのデジタルコンテンツ企業を対象とした無料視察ツアーを11月27日・28日に開催。 地元学生との交流イベントも同時開催",
-   "summary": "熊本市は、ゲーム・アニメ・CG・映像などのデジタルコンテンツ制作企業を対象とした無料視察ツアーを、11月27日から28日の1泊2日で開催する。参加費は無料で、航空費・宿泊費などを熊本市が負担する。募集枠は10社で、申込締切は10月27日23時59分。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2150709.html",
-   "pubDate": "2026-10-23T04:56:18.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trailer",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2150709.html"
-    }
-   ]
-  },
-  {
-   "title": "『Nintendo Switch Sports Resort』更新データ Ver.1.1.0 が配信",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fYUp2dkMxOVQ3Qmh2SlV0aDRVZEpxaEc5Q29wYThSNnVkUzF2WTR1dHpMUExkU2lBWU5nZEdNdTdzZm5NcnFwclFMUEpMSDNURVJKN0JpOA?oc=5",
-   "pubDate": "2026-10-23T04:54:24.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "Nintendo DREAM WEB",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [
-    "Nintendo Switch Sports Resort"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo DREAM WEB",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fYUp2dkMxOVQ3Qmh2SlV0aDRVZEpxaEc5Q29wYThSNnVkUzF2WTR1dHpMUExkU2lBWU5nZEdNdTdzZm5NcnFwclFMUEpMSDNURVJKN0JpOA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『GTA6』のファストフード店「バーガーショット」が現実世界に降臨！ マイアミ・ヒートの本拠地アリーナに登場",
-   "summary": "羨んでも仕方ない、これが現実だ。 『GTA6』の発売を控え、『GTA』世界で最も象徴的なファストフードチェーンのひとつが現実のものとなろうとしている。 ロックスター・ゲームスによるマイアミジャックの勢いは留まることを知らず、同シリーズの名物ファストフード店「バーガーショット」のリ…",
-   "link": "https://jp.ign.com/grand-theft-auto-vi/84472/gta6",
-   "pubDate": "2026-10-23T04:46:19.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": "https://sm.ign.com/ign_jp/news/g/gta-6s-fas/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-li_uy9r.jpg",
-   "source": "IGN Japan",
-   "sourceId": "ign-jp",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "GTA6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN Japan",
-     "sourceId": "ign-jp",
-     "link": "https://jp.ign.com/grand-theft-auto-vi/84472/gta6"
-    }
-   ]
-  },
-  {
-   "title": "『ファイナルファンタジー レゾナンス』がメタスコア「86」を獲得し高評価。往年のFFらしいターン制バトルとドット絵の世界に称賛が集まる",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yaDNxQ1liNUQ0Z0Zpc3RmSkFNcVFEenNCazFFZVpfYWhYbXl1SEpEQks0YUdDc2F2TDdKeXBYME9VQ0pUX0tTZXZneVFmeGlpalZfendqQ2tlS2s?oc=5",
-   "pubDate": "2026-10-23T04:46:04.000Z",
-   "firstSeen": "2026-10-23T05:47:35.427Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ファイナルファンタジー レゾナンス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yaDNxQ1liNUQ0Z0Zpc3RmSkFNcVFEenNCazFFZVpfYWhYbXl1SEpEQks0YUdDc2F2TDdKeXBYME9VQ0pUX0tTZXZneVFmeGlpalZfendqQ2tlS2s?oc=5",
-     "via": "Googleニュース「PS5 発売」"
     }
    ]
   }
