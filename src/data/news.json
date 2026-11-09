@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-09T16:47:45.695Z",
+ "generatedAt": "2026-11-09T17:47:57.757Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1271,
+  "exact": 1273,
   "syndicated": 83,
-  "similar": 359,
-  "syndicatedTotal": 392,
+  "similar": 360,
+  "syndicatedTotal": 390,
   "syndicatedLeft": 26
  },
  "calendar": [
@@ -5855,22 +5855,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-05",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "ヴィクセン357",
-   "title": "1992年発売のメガドライブ向けロボットSRPG『ヴィクセン357』PC/現行コンソールでリリース―自由な機体編成とパーマデス＝ロストが特徴で便利機能も搭載。スイッチ国内版は11月5日配信【UPDATE】",
-   "link": "http://www.gamespark.jp/article/2026/10/24/174029.html",
-   "source": "Game*Spark",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-06",
    "precision": "day",
    "verb": "release",
@@ -9494,14 +9478,17 @@
    "verb": "launch",
    "label": "配信",
    "work": "Chill with You : Lo-Fi Story",
-   "title": "文学少女と“作業通話”するゲーム『Chill with You : Lo-Fi Story』大型ストーリーアプデを11月25日に無料配信へ。サトネとの“1年後”を描く",
-   "link": "https://news.denfaminicogamer.jp/news/261107p",
-   "source": "電ファミニコゲーマー",
+   "title": "文学少女との作業集中アプリ『Chill with You : Lo-Fi Story』、「サトネの1年後」が描かれる無料大型アプデを11月25日配信へ。“作業場所追加DLC”もお披露目",
+   "link": "https://automaton-media.com/articles/newsjp/20261107-478056/",
+   "source": "AUTOMATON",
    "sources": 2,
    "categories": [
-    "update"
+    "update",
+    "mobile"
    ],
-   "platforms": [],
+   "platforms": [
+    "mobile"
+   ],
    "spoiler": false
   },
   {
@@ -13092,8 +13079,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 711,
-   "accepted": 408
+   "archived": 713,
+   "accepted": 409
   },
   {
    "id": "gnews-newgame",
@@ -13102,7 +13089,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 94,
+   "fetched": 96,
    "archived": 532,
    "accepted": 491
   },
@@ -13135,9 +13122,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 60,
-   "archived": 421,
-   "accepted": 340
+   "fetched": 61,
+   "archived": 422,
+   "accepted": 341
   },
   {
    "id": "prtimes",
@@ -13147,7 +13134,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24839,
+   "archived": 24845,
    "accepted": 443
   },
   {
@@ -13169,8 +13156,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1165,
-   "accepted": 1165
+   "archived": 1169,
+   "accepted": 1169
   },
   {
    "id": "eurogamer",
@@ -13180,8 +13167,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 295,
-   "accepted": 295
+   "archived": 296,
+   "accepted": 296
   },
   {
    "id": "gamespot",
@@ -13191,8 +13178,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 298,
-   "accepted": 298
+   "archived": 299,
+   "accepted": 299
   },
   {
    "id": "nintendolife",
@@ -13202,8 +13189,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 327,
-   "accepted": 327
+   "archived": 328,
+   "accepted": 328
   },
   {
    "id": "pcgamer",
@@ -13213,11 +13200,284 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 580,
-   "accepted": 580
+   "archived": 582,
+   "accepted": 582
   }
  ],
  "items": [
+  {
+   "title": "AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers",
+   "summary": "No rush. SSDs are cheap as chips right now, eh?",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/",
+   "pubDate": "2026-11-09T17:15:26.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/"
+    }
+   ]
+  },
+  {
+   "title": "Warhammer 40K: Rogue Trader follow-up Dark Heresy will launch at the end of January",
+   "summary": "Gettin' heretical with it.",
+   "link": "https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/",
+   "pubDate": "2026-11-09T17:06:59.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/bN44RWjVnGBrsfiBwprcpM-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/"
+    }
+   ]
+  },
+  {
+   "title": "Former BioWare Executive Producer Mark Darrah Shares Original Vision for a More 'Immersive' Dragon Age 4",
+   "summary": "BioWare veteran Mark Darrah has revealed an internal pitch for Dragon Age 4 that was never shared with fans.",
+   "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4",
+   "pubDate": "2026-11-09T17:00:15.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/dragon-age-1794243596754.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4"
+    }
+   ]
+  },
+  {
+   "title": "Get Ready for the First New Scott Pilgrim Comic in 16 Years",
+   "summary": "The first new Scott Pilgrim comic in 16 years is almost upon us. Feast your eyes on this exclusive preview of Scott Pilgrim EX: Dawn of Meta…",
+   "link": "https://www.ign.com/articles/get-ready-for-the-first-new-scott-pilgrim-comic-in-16-years",
+   "pubDate": "2026-11-09T17:00:00.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/mixcollage-08-nov-2026-09-33-pm-4861-1794191623880.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/get-ready-for-the-first-new-scott-pilgrim-comic-in-16-years"
+    }
+   ]
+  },
+  {
+   "title": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
+   "summary": "Previous rumours had it penned for 2028.",
+   "link": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
+   "pubDate": "2026-11-09T16:58:52.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/jFv4meMpMKV2hedgdGx6Zd-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/"
+    }
+   ]
+  },
+  {
+   "title": "Jensen Huang’s affair with alleged Chinese spy highlights how the GPU company’s dealings are now everyone’s business",
+   "summary": "He used to sell gaming GPUs, now he's in the middle of a geopolitical quagmire.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/",
+   "pubDate": "2026-11-09T16:56:37.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/AJ9jxxAbTzLa4x6JjA8j6k-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/"
+    }
+   ]
+  },
+  {
+   "title": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date",
+   "summary": "Owlcat Games has revealed a release date for its tactical role-playing sequel Warhammer 40,000: Dark Heresy. The game arrives 28th January,…",
+   "link": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
+   "pubDate": "2026-11-09T16:50:00.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://assetsio.gnwcdn.com/warhammer-40k-dark-heresy_rowA3Iz.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg"
+    }
+   ]
+  },
+  {
+   "title": "Lego Is Teasing A Yoshi Set, But You’ll Have To Wait Until 2027",
+   "summary": "We've seen Mario, karts, Mario on a kart, and lots more since Lego first teamed up with Nintendo, and at long last, everyone's favorite talk…",
+   "link": "https://www.gamespot.com/articles/lego-is-teasing-a-yoshi-set-but-youll-have-to-wait-until-2027/",
+   "pubDate": "2026-11-09T16:44:21.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lego-Yoshi.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/lego-is-teasing-a-yoshi-set-but-youll-have-to-wait-until-2027/"
+    }
+   ]
+  },
+  {
+   "title": "LEGO Teases Yoshi Set for 2027",
+   "summary": "Nintendo has teased a new LEGO Yoshi set in a post on the Nintendo Today! app.",
+   "link": "https://www.ign.com/articles/lego-teases-yoshi-set-for-2027",
+   "pubDate": "2026-11-09T16:25:52.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/legoyoshi-1-1794240844779.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/lego-teases-yoshi-set-for-2027"
+    }
+   ]
+  },
+  {
+   "title": "Sony Launches New PS Portal Model in Japan With Internal Storage for 'Future Functionality,' Changes Official Name",
+   "summary": "Sony is releasing a new model of the PlayStation Portal in Japan next month. The big difference is that it has internal storage, hinting tha…",
+   "link": "https://www.ign.com/articles/sony-launches-new-ps-portal-model-in-japan-with-internal-storage-for-future-functionality-changes-official-name",
+   "pubDate": "2026-11-09T16:23:27.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/portal-main-1794241328785.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 3,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/sony-launches-new-ps-portal-model-in-japan-with-internal-storage-for-future-functionality-changes-official-name"
+    }
+   ]
+  },
   {
    "title": "Cops Arrest Dad For Leaving 6-Year-Old In Line Overnight To Save Spot For Pokemon Cards",
    "summary": "A South Carolina man has been arrested after allegedly leaving his six-year-old daughter in line at Target at 1 AM to save his spot for Poke…",
@@ -13241,6 +13501,32 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/cops-arrest-dad-for-leaving-6-year-old-in-line-overnight-to-save-spot-for-pokemon-cards/"
+    }
+   ]
+  },
+  {
+   "title": "Cyberpunk 2077 Just Got a New Multiplayer Mod, Complete With RP Servers",
+   "summary": "Last month, Cyberpunk 2077 got an ambitious multiplayer mod, NightCoop. This is great if you want to play with up to eight players, going th…",
+   "link": "https://www.ign.com/articles/cyberpunk-2077-just-got-a-new-multiplayer-mod-complete-with-rp-servers",
+   "pubDate": "2026-11-09T16:13:32.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/09/ss-f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc-1920x1080-1794240795931.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/cyberpunk-2077-just-got-a-new-multiplayer-mod-complete-with-rp-servers"
     }
    ]
   },
@@ -14421,6 +14707,35 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/09/174676.html"
+    }
+   ]
+  },
+  {
+   "title": "『カリアのアトリエ』仲間との個別エンドやハウジング、食事会など新情報解禁！ デジタルプレオーダーも開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SMmo0M2xPSkRsRHVEV2hkLWVoZ25DN29tUktvRGFuc1NhRHlqa2paSVhVbWRXUTYyOVcxdHdDTEt2am5JNnpRaTRGU2x5eDdZV3BhRTFuQS1uQQ?oc=5",
+   "pubDate": "2026-11-09T13:30:00.000Z",
+   "firstSeen": "2026-11-09T17:47:37.087Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カリアのアトリエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SMmo0M2xPSkRsRHVEV2hkLWVoZ25DN29tUktvRGFuc1NhRHlqa2paSVhVbWRXUTYyOVcxdHdDTEt2am5JNnpRaTRGU2x5eDdZV3BhRTFuQS1uQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -28422,36 +28737,6 @@
    ]
   },
   {
-   "title": "文学少女と“作業通話”するゲーム『Chill with You : Lo-Fi Story』大型ストーリーアプデを11月25日に無料配信へ。サトネとの“1年後”を描く",
-   "summary": "有料DLC『Room & Cozy Activity』も発表。サトネが自由に過ごす新ステータス「マイペース」や新たな作業場所、100以上のセリフが追加",
-   "link": "https://news.denfaminicogamer.jp/news/261107p",
-   "pubDate": "2026-11-07T14:00:28.000Z",
-   "firstSeen": "2026-11-07T14:47:35.834Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/01_UI_JP-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Chill with You : Lo-Fi Story"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261107p"
-    }
-   ]
-  },
-  {
    "title": "文学少女との作業集中アプリ『Chill with You : Lo-Fi Story』、「サトネの1年後」が描かれる無料大型アプデを11月25日配信へ。“作業場所追加DLC”もお披露目",
    "summary": "ネストピは11月7日、『Chill with You : Lo-Fi Story』の発売1周年記念として、無料大型ストーリーアプデ「君と見る夢」と、有料DLC「Room & Cozy Activity」を発表した。",
    "link": "https://automaton-media.com/articles/newsjp/20261107-478056/",
@@ -28481,6 +28766,36 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261107-478056/"
+    }
+   ]
+  },
+  {
+   "title": "文学少女と“作業通話”するゲーム『Chill with You : Lo-Fi Story』大型ストーリーアプデを11月25日に無料配信へ。サトネとの“1年後”を描く",
+   "summary": "有料DLC『Room & Cozy Activity』も発表。サトネが自由に過ごす新ステータス「マイペース」や新たな作業場所、100以上のセリフが追加",
+   "link": "https://news.denfaminicogamer.jp/news/261107p",
+   "pubDate": "2026-11-07T14:00:00.000Z",
+   "firstSeen": "2026-11-07T14:47:35.834Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/01_UI_JP-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Chill with You : Lo-Fi Story"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261107p"
     }
    ]
   },
@@ -141285,7 +141600,9 @@
    "kind": "specialist",
    "lang": "en",
    "score": 16,
-   "categories": [],
+   "categories": [
+    "update"
+   ],
    "deal": null,
    "platforms": [
     "switch2"
@@ -192056,371 +192373,6 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261024-475332/"
-    }
-   ]
-  },
-  {
-   "title": "人気ADVが全て最安値を更新！『Fate/stay night』2,100円に『マブラヴ』2,262円、『超探偵事件簿 レインコード/プラス』は1,936円/1,980円【eショップ・PS Storeのお薦めセール】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/24/189740.html",
-   "pubDate": "2026-10-24T00:40:03.000Z",
-   "firstSeen": "2026-10-24T00:47:41.782Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "ps",
-     "nintendo"
-    ],
-    "off": null,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "Fate/stay night",
-    "マブラヴ",
-    "超探偵事件簿 レインコード/プラス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/24/189740.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/24/174046.html"
-    }
-   ]
-  },
-  {
-   "title": "ゆっくり目の移動速度で遊べる脱出系PvPvE『HUNGER』サーバー負荷テスト10月25日実施へ―現行のCBTもまだ募集中",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/24/174031.html",
-   "pubDate": "2026-10-24T00:30:03.000Z",
-   "firstSeen": "2026-10-24T00:47:41.782Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "HUNGER"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/24/174031.html"
-    }
-   ]
-  },
-  {
-   "title": "Aaron Paul Makes Surprise Cameo in DC’s Clayface",
-   "summary": "Three-time Emmy winner Aaron Paul has a blink and you’ll miss it cameo in the new DC movie Clayface. Now, the film’s director, James Watkins…",
-   "link": "https://www.ign.com/articles/aaron-paul-clayface-cameo-dc",
-   "pubDate": "2026-10-24T00:26:26.000Z",
-   "firstSeen": "2026-10-24T01:47:35.808Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/aaron-paul-clayface-cameo-dc"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch 2は、エミュレーターや古いゲームの世界を切り開きます。これまで乗り越えられなかった壁が崩れました。",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lRU5tZFlJYmFjaW14b1NDNnNTNzUtVGtJWFFzQzlYajRIZnQ4QVVGZlFISEdqUE12eUtNZWxrbEd4OEpmVlNpdzdMSnRnWHBPTE82cnI0Ulg4WEVIWFp4Yi1mc1VraEREc194bXFHRlJ1UFV6N3ZiMw?oc=5",
-   "pubDate": "2026-10-24T00:06:18.000Z",
-   "firstSeen": "2026-10-27T03:47:34.956Z",
-   "image": null,
-   "source": "Samsung Magazine",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Samsung Magazine",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lRU5tZFlJYmFjaW14b1NDNnNTNzUtVGtJWFFzQzlYajRIZnQ4QVVGZlFISEdqUE12eUtNZWxrbEd4OEpmVlNpdzdMSnRnWHBPTE82cnI0Ulg4WEVIWFp4Yi1mc1VraEREc194bXFHRlJ1UFV6N3ZiMw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "100W充電+ドック機能付きのHDMIキャプチャ「ELITE GO GC313Pro」がAVerMediaから、Nintendo Switch 2対応",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZLTFVQU5kWXEzUmR0MXlXMXU0YjZYbDFjM2oydEc5Q3pNRXR2R3ZlUHY4NWRwcU5zYXQwamRQdTF6SzNOY0RQQUJmRG9ndUNCOWlXNWswUXdGQ09YaDFDX1IwNXhDVFRwNndSRHZaMUNhZw?oc=5",
-   "pubDate": "2026-10-24T00:05:00.000Z",
-   "firstSeen": "2026-10-24T03:47:34.837Z",
-   "image": null,
-   "source": "AKIBA PC Hotline!",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AKIBA PC Hotline!",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZLTFVQU5kWXEzUmR0MXlXMXU0YjZYbDFjM2oydEc5Q3pNRXR2R3ZlUHY4NWRwcU5zYXQwamRQdTF6SzNOY0RQQUJmRG9ndUNCOWlXNWswUXdGQ09YaDFDX1IwNXhDVFRwNndSRHZaMUNhZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Vlh4d09aTXdKTFlPM21WMUJod3FPMGdqaHBkLUVtNEhCWk54MHg4T0w3MVRSeGZTNVpmMWhfZXNBNDA5c2I1aXFhVFhJaEZrRmVYMHhQcTIzeEZEWlVsVHpfeUEyaldWMXdHS2xPVkdqdjZiZUFVamc1eFo3WWc?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
-   "summary": "Dead by Daylight fans are beside themselves after Behaviour Interactive announced that all Chucky content would no longer be available to pu…",
-   "link": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
-   "pubDate": "2026-10-24T00:01:07.000Z",
-   "firstSeen": "2026-10-24T00:47:41.782Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
-    }
-   ]
-  },
-  {
-   "title": "「非常に好評」2つの冒険者ギルドを手玉に取るイカサマ宿屋経営ストラテジー『ダンジョン・イン』正式リリース",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/24/174030.html",
-   "pubDate": "2026-10-24T00:00:03.000Z",
-   "firstSeen": "2026-10-24T00:47:41.782Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダンジョン・イン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/24/174030.html"
-    }
-   ]
-  },
-  {
-   "title": "最大16人で“月”をお掃除するゲーム『Moon Sweepers』が面白そう。最初は歯ブラシで地道に磨くしかないが、資金を集めれば大型の清掃車両もアンロック可能",
-   "summary": "月面に積もる塵を清掃して、お金を稼げば装備や設備を充実させられる。最初は歯ブラシで地道に磨き、資金を集めれば大型の清掃車両もアンロック可能",
-   "link": "https://news.denfaminicogamer.jp/news/261024e",
-   "pubDate": "2026-10-23T23:54:09.000Z",
-   "firstSeen": "2026-10-24T00:47:41.782Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_6985c316ef6f0988ea33b17954c097268134e3d1.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Moon Sweepers"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261024e"
-    }
-   ]
-  },
-  {
-   "title": "1992年発売のメガドライブ向けロボットSRPG『ヴィクセン357』PC/現行コンソールでリリース―自由な機体編成とパーマデス＝ロストが特徴で便利機能も搭載。スイッチ国内版は11月5日配信【UPDATE】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/24/174029.html",
-   "pubDate": "2026-10-23T23:30:03.000Z",
-   "firstSeen": "2026-10-23T23:33:50.571Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ヴィクセン357"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/24/174029.html"
-    }
-   ]
-  },
-  {
-   "title": "「初音ミク」が初の女性キャラMETAL BUILDに！大胆にアレンジされたメカボディ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/24/189736.html",
-   "pubDate": "2026-10-23T23:30:03.000Z",
-   "firstSeen": "2026-10-23T23:33:50.571Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/24/189736.html"
-    }
-   ]
-  },
-  {
-   "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
-   "summary": "Cover up? Back in July, the game rating for the remake of The Legend of Zelda: Ocarina of Time was spotted on Nintendo's official store page…",
-   "link": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-   "pubDate": "2026-10-23T23:30:00.000Z",
-   "firstSeen": "2026-10-23T23:47:36.705Z",
-   "image": "https://images.nintendolife.com/84f3b7c35dd08/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published"
-    }
-   ]
-  },
-  {
-   "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
-   "summary": "",
-   "link": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
-   "pubDate": "2026-10-23T23:15:00.000Z",
-   "firstSeen": "2026-10-24T00:47:41.782Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/23/dungeon-crawler-carl-puzzle-1792793594591.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale"
     }
    ]
   }
