@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-10T16:48:03.292Z",
+ "generatedAt": "2026-11-10T17:48:13.391Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1306,
+  "exact": 1309,
   "syndicated": 85,
-  "similar": 367,
-  "syndicatedTotal": 401,
+  "similar": 369,
+  "syndicatedTotal": 402,
   "syndicatedLeft": 28
  },
  "calendar": [
@@ -3714,22 +3714,6 @@
    "sources": 1,
    "categories": [
     "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-02",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "ポチャッコとバッドばつ丸が仲間入り！ドン・キホーテで「サンリオキャラクターズ」マイクロファイバーシリーズ新作が11月2日発売",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189856.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "new"
    ],
    "platforms": [],
    "spoiler": false
@@ -13096,8 +13080,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 678,
-   "accepted": 543
+   "archived": 679,
+   "accepted": 544
   },
   {
    "id": "gnews-dengeki",
@@ -13107,7 +13091,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 722,
+   "archived": 723,
    "accepted": 419
   },
   {
@@ -13118,8 +13102,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 548,
-   "accepted": 505
+   "archived": 550,
+   "accepted": 507
   },
   {
    "id": "gnews-switch2",
@@ -13129,8 +13113,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1464,
-   "accepted": 1289
+   "archived": 1475,
+   "accepted": 1299
   },
   {
    "id": "gnews-ps5",
@@ -13140,8 +13124,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 731,
-   "accepted": 657
+   "archived": 732,
+   "accepted": 658
   },
   {
    "id": "gnews-update",
@@ -13150,9 +13134,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 67,
-   "archived": 440,
-   "accepted": 356
+   "fetched": 0,
+   "archived": 430,
+   "accepted": 347
   },
   {
    "id": "prtimes",
@@ -13162,7 +13146,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25824,
+   "archived": 25851,
    "accepted": 447
   },
   {
@@ -13173,8 +13157,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 335,
-   "accepted": 335
+   "archived": 336,
+   "accepted": 336
   },
   {
    "id": "ign",
@@ -13184,8 +13168,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1204,
-   "accepted": 1204
+   "archived": 1206,
+   "accepted": 1206
   },
   {
    "id": "eurogamer",
@@ -13195,8 +13179,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 306,
-   "accepted": 306
+   "archived": 305,
+   "accepted": 305
   },
   {
    "id": "gamespot",
@@ -13206,8 +13190,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 311,
-   "accepted": 311
+   "archived": 313,
+   "accepted": 313
   },
   {
    "id": "nintendolife",
@@ -13228,11 +13212,265 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 593,
-   "accepted": 593
+   "archived": 597,
+   "accepted": 597
   }
  ],
  "items": [
+  {
+   "title": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane",
+   "summary": "Oopsie daisy.",
+   "link": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/",
+   "pubDate": "2026-11-10T17:15:33.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/5EWnGC9pvFVHwRsPbdM4uV-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/"
+    }
+   ]
+  },
+  {
+   "title": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some",
+   "summary": "What a shambles.",
+   "link": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/",
+   "pubDate": "2026-11-10T17:14:03.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/AqUo3Hq3EQvEiWLchwWWjM-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/"
+    }
+   ]
+  },
+  {
+   "title": "Devolver Digital and BlackLight Games announce roguelike auto-battler All Army Attack for PC",
+   "summary": "Publisher Devolver Digital and developer BlackLight Games have announced All Army Attack, a “chaotic, large-scale …",
+   "link": "https://www.gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc",
+   "pubDate": "2026-11-10T17:13:01.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/All-Army-Attack_2026_11-10-26_016.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc"
+    }
+   ]
+  },
+  {
+   "title": "Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app",
+   "summary": "Sony's revealed the second wave of games coming to PlayStation Plus Premium and Extra this month, and there are some genuine big-name attrac…",
+   "link": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app",
+   "pubDate": "2026-11-10T17:10:00.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://assetsio.gnwcdn.com/Death-Stranding-2-trailer-screenshot-showing-a-masked-figure-in-red-pointing-to-themself-with-their-thumb.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 3,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app"
+    }
+   ]
+  },
+  {
+   "title": "Acer Predator Atlas 8 (G3 Extreme) review",
+   "summary": "The cheapest way to get the best handheld chip right now.",
+   "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
+   "pubDate": "2026-11-10T17:01:48.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/yCALE226q4bDSCvxLqPsZk-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/"
+    }
+   ]
+  },
+  {
+   "title": "LEGO’s Star Wars Battle Droid With STAP Gets Early Black Friday Discount at Amazon of 40% Off",
+   "summary": "The LEGO Star Wars: The Phantom Menace Battle Droid with STAP has returned to its lowest price point at Amazon in an early Black Friday deal…",
+   "link": "https://www.ign.com/articles/legos-star-wars-battle-droid-with-stap-gets-early-black-friday-discount-at-amazon-of-40-off",
+   "pubDate": "2026-11-10T17:00:47.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/lego-battle-droid-with-stap1-1794315838941.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 40,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/legos-star-wars-battle-droid-with-stap-gets-early-black-friday-discount-at-amazon-of-40-off"
+    }
+   ]
+  },
+  {
+   "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
+   "summary": "The growing use of generative AI meant it was \"harder to judge what students made themselves.\"",
+   "link": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+   "pubDate": "2026-11-10T16:59:19.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/CRuKWhgWsRZMjJP5gcg3JW-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/"
+    }
+   ]
+  },
+  {
+   "title": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods",
+   "summary": "Seems like an easy install, too. Though not everyone is convinced it's worth it.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+   "pubDate": "2026-11-10T16:53:20.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/"
+    }
+   ]
+  },
+  {
+   "title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
+   "summary": "Take-Two boss Strauss Zelnick has reacted to the release of Nintendo's recent Switch 2 remake of The Legend of Zelda: Ocarina of Time. He sa…",
+   "link": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
+   "pubDate": "2026-11-10T16:49:21.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/ocarinaoftimeremake-1.png?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/"
+    }
+   ]
+  },
   {
    "title": "Video: We Join IGN's 'Review Crew' To Discuss Zelda: Ocarina Of Time",
    "summary": "Give it a watch, Goro. By now, you've hopefully caught up with our review of Zelda: Ocarina of Time. We gave the remake a score of 9/10 and…",
@@ -13322,14 +13560,42 @@
    ]
   },
   {
-   "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
-   "summary": "Sony has just announced that Grand Theft Auto 6 has become \"the most pre-ordered game in the history of PlayStation Store\". Note, it's not t…",
-   "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
-   "pubDate": "2026-11-10T16:31:30.000Z",
-   "firstSeen": "2026-11-10T16:47:41.985Z",
-   "image": "https://assetsio.gnwcdn.com/gta-6-pool-of-money.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
+   "title": "Translucent 'Prism Collection' DualSense Controllers and PS5 Covers Now Up for Preorder, Out February 4",
+   "summary": "",
+   "link": "https://www.ign.com/articles/ps5-prism-collection-dualsense-controllers-console-covers-where-to-buy",
+   "pubDate": "2026-11-10T16:39:22.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/prismcollection-1794327730570.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/ps5-prism-collection-dualsense-controllers-console-covers-where-to-buy"
+    }
+   ]
+  },
+  {
+   "title": "Death Stranding 2 Headlines PlayStation Plus Game Catalog For November",
+   "summary": "The next batch of games for the PlayStation Plus Game Catalog has been revealed. PS Plus Essential and Premium subscribers can grab 10 games…",
+   "link": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november/",
+   "pubDate": "2026-11-10T16:36:53.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/original/1816/18167535/4521342-death-stranding-2-best-weapons-gear-upgrades-early-game-.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
    "syndicated": false,
    "kind": "specialist",
    "lang": "en",
@@ -13343,9 +13609,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november/"
     }
    ]
   },
@@ -13405,35 +13671,55 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/11/174726.html"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xNXVXT3pLcFVNVWpCS1pVdHZWVmdXUmEwY2w2Y2RJdnptbWNGUTVfaFM5SC1jZG5wWjBaVXJFM2lpS3VGeTdNTklpY3MyamkycWVaVEoxUkJhekM4RnhJdUdjTjRmRGF1dnBJZWlR?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
     }
    ]
   },
   {
-   "title": "GTA 6 Is The Most Preordered Game Of All Time For PlayStation And Xbox",
-   "summary": "Rockstar's Grand Theft Auto 6 releases on November 19 for PlayStation 5 and Xbox Series X|S, and the game is breaking records before it even…",
-   "link": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
+   "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
+   "summary": "Sony has just announced that Grand Theft Auto 6 has become \"the most pre-ordered game in the history of PlayStation Store\". Note, it's not t…",
+   "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
    "pubDate": "2026-11-10T16:15:37.000Z",
    "firstSeen": "2026-11-10T16:47:41.985Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_14.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
+   "image": "https://assetsio.gnwcdn.com/gta-6-pool-of-money.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
    "syndicated": false,
    "kind": "specialist",
    "lang": "en",
    "score": 18,
-   "categories": [],
+   "categories": [
+    "new"
+   ],
    "deal": null,
    "platforms": [
     "ps5",
-    "xbox"
+    "xbox",
+    "pc"
    ],
    "works": [],
    "spoiler": false,
    "sources": [
     {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
+    },
+    {
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/"
+    },
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/"
     }
    ]
   },
@@ -13921,7 +14207,7 @@
    ]
   },
   {
-   "title": "GTA 6 Preloads Are Now Available",
+   "title": "GTA 6 Is Now Available to Pre-Load on PS5 and Xbox Series X|S",
    "summary": "You can now preload Grand Theft Auto 6 onto your PS5 or Xbox Series X|S. But you still have to wait until November 19 to play it.",
    "link": "https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
    "pubDate": "2026-11-10T15:00:07.000Z",
@@ -13932,7 +14218,7 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "en",
-   "score": 8,
+   "score": 16,
    "categories": [],
    "deal": null,
    "platforms": [
@@ -14203,6 +14489,35 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/horror/how-silent-hill-townfalls-developer-created-a-fictional-town-thats-still-real-it-exists-its-there/"
+    }
+   ]
+  },
+  {
+   "title": "『真・女神転生V』5周年。2017年の発表時からファンが渇望していたタイトル。魔界となった東京・ダアトの広大なマップを探索するのが楽しかった【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40NEdpWmlPTVlrOXZuRG5ONloxdk9acW5xdXdCU1ZNMnpzMmxxS1RpNHRTZVRldkJEdkpFSjhaNnVYaU5WLVNTclk0c0tNSWQ4akJZNkFkcw?oc=5",
+   "pubDate": "2026-11-10T15:00:00.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "真・女神転生V"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40NEdpWmlPTVlrOXZuRG5ONloxdk9acW5xdXdCU1ZNMnpzMmxxS1RpNHRTZVRldkJEdkpFSjhaNnVYaU5WLVNTclk0c0tNSWQ4akJZNkFkcw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -14990,6 +15305,12 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/preview/2153600.html"
+    },
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PYUs0ZjlnUlNISUFrYUVEdlFjM2ZkYW1IUnpkelNqX1lER1FNQUx1N1FBMWlmTzNNcTdJbl8tT281a0FVVS1hS3pGT25XQjRKYWQ1S2pfVDdfYmZLTmZJ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "GAME Watch（Yahoo!ニュース）",
@@ -16573,7 +16894,7 @@
    "firstSeen": "2026-11-10T11:47:35.253Z",
    "image": null,
    "source": "マイナビニュース",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16591,9 +16912,9 @@
    "sources": [
     {
      "name": "マイナビニュース",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMmhYemtwWmllZFd4OWRGaEFPR1k4cFh3OS1WVlBJOWw1dmZCaXg4WXdUWUNjRGhRSDAtcDFMZEFoeW9ucUo4S0RMcHRld1FFZGxoQWsteG1KSkg1?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "Infoseek",
@@ -21454,7 +21775,7 @@
    "firstSeen": "2026-11-10T04:47:36.301Z",
    "image": null,
    "source": "AppBank",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -21473,9 +21794,9 @@
    "sources": [
     {
      "name": "AppBank",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QWEJ0MnRZaURJd3FCdXhwSFVCdkZfeTQ4cEpCTUxGV1BRaFg3ZTVaVV9vN2xGVXBkSVlaYkdEYW81Z2xtOGtuRGdMZHFQVDBiVGFRWVllZGRWZjhaWTFqRQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -22722,7 +23043,7 @@
    "firstSeen": "2026-11-10T03:47:35.741Z",
    "image": null,
    "source": "ASCII.jp",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -22737,9 +23058,9 @@
    "sources": [
     {
      "name": "ASCII.jp",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTU4tZDdrd0c0bjVQTEUwOGFHcDFyVjFHQ3otLW83X2owbmdHeFdSRTJidWtzU3NOLWtweGxCMWVMZFAycWhyUTZQa2Z4dDR3SkpTWA?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "週刊アスキー",
@@ -23101,7 +23422,7 @@
    "firstSeen": "2026-11-10T02:47:32.513Z",
    "image": null,
    "source": "Nintendo DREAM WEB",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -23121,9 +23442,9 @@
    "sources": [
     {
      "name": "Nintendo DREAM WEB",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56LTAzYnh6b04yeEtuVXdnMVRySzdUUkRmSDhiYklEN0czdFVmN2hxQjZzandyWVFPVmhSbVZ0dU8tS3ZxODNIdXkzRGpBbnJndlZFR1dn?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -23975,7 +24296,7 @@
    "firstSeen": "2026-11-10T01:47:32.869Z",
    "image": null,
    "source": "Nintendo",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -23994,9 +24315,9 @@
    "sources": [
     {
      "name": "Nintendo",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVdIZFhUZjI4WjZ0c1BhV1dacnVWRlZVU29yam04TVExNjk5MVFLRlVhX2c2M0dnN0dvUF9IcUFiLTU5cjJXQnZHR1pQTFJrR1VfelRhd2hBeGF2Q2VfekM5UnI4TE9Vb1VKVjAyak54R1JaZ1EzbnpVaHdTN1BJNGg3bVhSQQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "千葉テレビ放送株式会社",
@@ -24006,9 +24327,9 @@
     },
     {
      "name": "Saiga NAK（ｄメニューニュース）",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR09sMVZiNVhFbHF3V3A1QXVJQ1ZMZUVBZEtjRlhuSlliWXBjVDd4ZVJTbHlEWWFvbGt2V0tocWVpaWRENFo4djd6dk90MGV1Y0Vad3BfR2dNcG12eFJIYzI0N3QxR2xYZFdTVTF6Y2lqZ1N3T25GeWhlcG9BM19TbmxHSnVLOVh5UXBGUA?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
+     "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
     }
    ]
@@ -24079,7 +24400,7 @@
    "firstSeen": "2026-11-10T01:47:32.869Z",
    "image": null,
    "source": "Nintendo",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -24098,9 +24419,9 @@
    "sources": [
     {
      "name": "Nintendo",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOTJvT1NwaGhqQTZXNUxyRTFSdjB2WUFIZ1NleElObFVLcVNyUFZtQjBXaFVCOFc1Zk4wQVpzVF9ycGg0dHpoNm1hMlF5bUszUmhiNF9IYWw3ZEcxaXV6NmlRM0dhUTRDZXEzTXVKZms0ZmpQeld4NHFPSE5lRUNqcWQwX3BlQQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -26948,7 +27269,7 @@
    "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
    "pubDate": "2026-11-09T15:47:21.000Z",
    "firstSeen": "2026-11-09T16:47:33.643Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/jaNPvMcyMNKewozWbyfrb3-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/ssxukjbwzw6wUCUpTqhcFK-1920-80.jpg",
    "source": "PC Gamer",
    "sourceId": "pcgamer",
    "syndicated": false,
@@ -32593,6 +32914,37 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UC1yZDgxeWRKTDd3QXJ1a3hrUGRqcnI3cVJ4QXhWTnFfU3RFYjVfaGxQaEtRNDJjRkxGWWUwM2loQVRScU4tVjVpM1RneVVfYUtV?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "PhotonSystem、最大4人で協力できる三人称視点の3D魔法ハクスラアクション『Nonet Concerto R』をSteamで発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9HZnFVU050eFZ1THNpbU9ac2dSX3VmSXhMWDMwODZwYzBnenk5djYtWmxnM0l1TDY5c1NGZ1VZV2U5OVhT?oc=5",
+   "pubDate": "2026-11-09T05:49:00.000Z",
+   "firstSeen": "2026-11-10T17:47:57.114Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Nonet Concerto R"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9HZnFVU050eFZ1THNpbU9ac2dSX3VmSXhMWDMwODZwYzBnenk5djYtWmxnM0l1TDY5c1NGZ1VZV2U5OVhT?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -192195,350 +192547,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/26/189859.html"
-    }
-   ]
-  },
-  {
-   "title": "「鋼の錬金術師」哀愁あふれる体育座り姿…エルリック兄弟、ロイ・マスタングなどが“まちぼうけ”",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189858.html",
-   "pubDate": "2026-10-26T08:45:02.000Z",
-   "firstSeen": "2026-10-26T09:47:38.721Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/26/189858.html"
-    }
-   ]
-  },
-  {
-   "title": "【99円】『魁！！男塾』がKindleにて30巻まで99円で購入できるセールが開催中、全34巻を「5610円」で揃えることができる。どこかおかしくもアツい雄度120％のマンガ",
-   "summary": "超スパルタ教育機関「男塾」が舞台のどこかおかしくもアツい雄度120％のマンガ。YouTubeにて公開されているボイスコミックも大人気の作品",
-   "link": "https://news.denfaminicogamer.jp/news/2610262j",
-   "pubDate": "2026-10-26T08:41:16.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/811knnUgm3L._SL1024_.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "魁!!男塾"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610262j"
-    }
-   ]
-  },
-  {
-   "title": "「ドラゴンボール超 ビルス」より「破壊神ビルス」がS.H.Figuartsに登場！耳の造形は「戦闘時」と「通常時」で差別化",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189857.html",
-   "pubDate": "2026-10-26T08:40:02.000Z",
-   "firstSeen": "2026-10-26T09:47:38.721Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/26/189857.html"
-    }
-   ]
-  },
-  {
-   "title": "「天才たちのまぶしさで目がやられた」―打越鋼太郎氏が明かす新会社「CRASH KEYS」設立の真意。新作中止の苦境と今後の挑戦【インタビュー】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/26/174088.html",
-   "pubDate": "2026-10-26T08:30:03.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "new",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/26/174088.html"
-    }
-   ]
-  },
-  {
-   "title": "ポチャッコとバッドばつ丸が仲間入り！ドン・キホーテで「サンリオキャラクターズ」マイクロファイバーシリーズ新作が11月2日発売",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189856.html",
-   "pubDate": "2026-10-26T08:30:03.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/26/189856.html"
-    }
-   ]
-  },
-  {
-   "title": "『終末日和』のゲーム情報",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tRzNqbmo3Z3NJRkd3TTZfTk43ZGV4RVY0NkJvRUQ4X0pkSUlFREJvaTdsQkZaRVA4THlCT3RQSEdrRHlwR3Qw?oc=5",
-   "pubDate": "2026-10-26T08:28:53.000Z",
-   "firstSeen": "2026-10-26T17:47:38.367Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "終末日和"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tRzNqbmo3Z3NJRkd3TTZfTk43ZGV4RVY0NkJvRUQ4X0pkSUlFREJvaTdsQkZaRVA4THlCT3RQSEdrRHlwR3Qw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "AIで再生した大切な人との“二度目のおわかれ”。重いテーマを描くインタラクティブ・シミュレータ「Realize in Peace」",
-   "summary": "AIで再生した故人との“二度目のおわかれ”を描く「RealizeinPeace」がインディーゲームイベント「DREAMSCAPE#5」に出展されていた。大切な人を再生したあと，別れなければならないときが来たとして，どのように向き合うべきだろうか。重いテーマを扱った，考えさせられる…",
-   "link": "https://www.4gamer.net/games/053/G105304/20261026031/",
-   "pubDate": "2026-10-26T08:22:24.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/053/G105304/20261026031/"
-    }
-   ]
-  },
-  {
-   "title": "「ホロライブ」コラボ「機動戦士ガンダム MOBILE SUIT ENSEMBLE」が登場！クロスボーン・ガンダムX1【宝鐘マリンVer.】含む2種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189855.html",
-   "pubDate": "2026-10-26T08:20:05.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "update",
-    "mobile",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/26/189855.html"
-    }
-   ]
-  },
-  {
-   "title": "閉じた瞼の上に描かれた大きな目。「君はなぜそんな人なのか」が突きつける，社会的な仮面と本当の自分の相克",
-   "summary": "インディーゲーム展示イベント「DREAMSCAPE#5」にてLIUZHUOXINが出展していた「君はなぜそんな人なのか」は，自分に合う新しい仮面を探し続ける少女を描いたインタラクティブ・ビジュアルノベルだ。独特の世界観のイラストで知られる缈云云云氏が手がけている。",
-   "link": "https://www.4gamer.net/games/053/G105303/20261026030/",
-   "pubDate": "2026-10-26T08:15:27.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/053/G105303/20261026030/"
-    }
-   ]
-  },
-  {
-   "title": "暗黒武侠アクションADV『Phantom Blade Zero』PC版容量は145GB。27日11時開始のプリロードには最低300GB必要に",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/26/174087.html",
-   "pubDate": "2026-10-26T08:15:03.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Phantom Blade Zero"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/26/174087.html"
-    }
-   ]
-  },
-  {
-   "title": "新作ガンプラ「HG ガンダムヴァサーゴ」が発売間近！新たな商品画像も一挙お披露目",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/26/189854.html",
-   "pubDate": "2026-10-26T08:15:03.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/26/189854.html"
-    }
-   ]
-  },
-  {
-   "title": "7人の患者のなかから異質な存在を見つけ出し，一発の弾丸を撃ち込む。心理ホラーゲーム「ワンタイム・トリガー」，デモ版をSteamで公開",
-   "summary": "rurenstudioは本日，PC用ソフト「ワンタイム・トリガー」のデモ版をSteamで公開した。看護施設「プロヴィデンス」を舞台にした本作は，7人の患者を注意深く観察し，異質な存在を見つけ出す一人称視点の心理ホラーゲームだ。",
-   "link": "https://www.4gamer.net/games/010/G101045/20261026025/",
-   "pubDate": "2026-10-26T08:01:43.000Z",
-   "firstSeen": "2026-10-26T08:47:39.116Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ワンタイム・トリガー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/010/G101045/20261026025/"
     }
    ]
   }
