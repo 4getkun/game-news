@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-10T03:47:56.555Z",
+ "generatedAt": "2026-11-10T04:47:57.432Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1279,
+  "exact": 1281,
   "syndicated": 83,
-  "similar": 361,
+  "similar": 363,
   "syndicatedTotal": 388,
   "syndicatedLeft": 27
  },
@@ -8164,6 +8164,20 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "すみれ",
+   "title": "ブタメン初！ 北海道限定「すみれオールスターズ『すみれ』村中店主監修 ブタメン(さっぽろ味噌ラーメン味)」が11月13日発売",
+   "link": "https://game.watch.impress.co.jp/docs/news/2155133.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": null,
    "title": "しまむらで「たまごっち」グッズが11月13日発売！まめっち＆くちぱっちのアパレル、メラミン食器など豊富なデザイン",
    "link": "https://www.inside-games.jp/article/2026/11/07/190522.html",
@@ -9720,6 +9734,25 @@
    "link": "http://www.gamespark.jp/article/2026/11/10/174694.html",
    "source": "Game*Spark",
    "sources": 2,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "メダロット クラシックス プラス",
+   "title": "メダロットシリーズ過去8作品を収録したSteam版「メダロット クラシックス プラス」が12月に発売決定「カブトVer.」と「クワガタVer.」が登場",
+   "link": "https://game.watch.impress.co.jp/docs/news/2155115.html",
+   "source": "GAME Watch",
+   "sources": 1,
    "categories": [
     "release",
     "update"
@@ -12147,7 +12180,7 @@
    "title": "『遊戯王OCG』の新規カード「アルカナフォースVIII－STRENGTH」を同梱！『遊戯王 TAG FORCE GX』攻略本が2月16日発売決定",
    "link": "https://www.inside-games.jp/article/2026/11/10/190651.html",
    "source": "インサイド",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "release"
    ],
@@ -12917,8 +12950,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 957,
-   "accepted": 930
+   "archived": 958,
+   "accepted": 931
   },
   {
    "id": "4gamer-sp",
@@ -12939,8 +12972,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 556,
-   "accepted": 552
+   "archived": 558,
+   "accepted": 554
   },
   {
    "id": "denfaminico",
@@ -12950,8 +12983,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1166,
-   "accepted": 1044
+   "archived": 1168,
+   "accepted": 1046
   },
   {
    "id": "gamewatch",
@@ -12961,8 +12994,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 669,
-   "accepted": 639
+   "archived": 671,
+   "accepted": 641
   },
   {
    "id": "gamespark",
@@ -12972,8 +13005,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1208,
-   "accepted": 1194
+   "archived": 1210,
+   "accepted": 1195
   },
   {
    "id": "inside-games",
@@ -12983,8 +13016,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1554,
-   "accepted": 1166
+   "archived": 1557,
+   "accepted": 1169
   },
   {
    "id": "ps-blog",
@@ -13016,8 +13049,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 126,
-   "accepted": 89
+   "archived": 130,
+   "accepted": 91
   },
   {
    "id": "gnews-famitsu",
@@ -13027,8 +13060,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 674,
-   "accepted": 538
+   "archived": 673,
+   "accepted": 537
   },
   {
    "id": "gnews-dengeki",
@@ -13048,9 +13081,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 541,
-   "accepted": 499
+   "fetched": 99,
+   "archived": 540,
+   "accepted": 498
   },
   {
    "id": "gnews-switch2",
@@ -13060,8 +13093,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1441,
-   "accepted": 1267
+   "archived": 1445,
+   "accepted": 1270
   },
   {
    "id": "gnews-ps5",
@@ -13071,8 +13104,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 710,
-   "accepted": 643
+   "archived": 712,
+   "accepted": 644
   },
   {
    "id": "gnews-update",
@@ -13081,9 +13114,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 64,
-   "archived": 427,
-   "accepted": 345
+   "fetched": 65,
+   "archived": 429,
+   "accepted": 347
   },
   {
    "id": "prtimes",
@@ -13093,8 +13126,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25178,
-   "accepted": 440
+   "archived": 25254,
+   "accepted": 442
   },
   {
    "id": "gematsu",
@@ -13115,8 +13148,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1194,
-   "accepted": 1194
+   "archived": 1195,
+   "accepted": 1195
   },
   {
    "id": "eurogamer",
@@ -13148,8 +13181,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 328,
-   "accepted": 328
+   "archived": 327,
+   "accepted": 327
   },
   {
    "id": "pcgamer",
@@ -13164,6 +13197,486 @@
   }
  ],
  "items": [
+  {
+   "title": "AMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる",
+   "summary": "AMD製GPU向けのドライバー「AMD Software: Adrenalin Edition」において、一部の環境で不必要なSSD書き込みがおこなわれる不具合が報告されている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261110-478385/",
+   "pubDate": "2026-11-10T04:41:03.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478385-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261110-478385/"
+    }
+   ]
+  },
+  {
+   "title": "ブタメン初！ 北海道限定「すみれオールスターズ『すみれ』村中店主監修 ブタメン(さっぽろ味噌ラーメン味)」が11月13日発売",
+   "summary": "おやつカンパニーは、「ブタメン」シリーズ初の土産商品として「すみれオールスターズ『すみれ』村中店主監修 ブタメン(さっぽろ味噌ラーメン味)」を11月13日より北海道限定で発売する。価格はオープン。店頭想定価格は1,080円前後。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2155133.html",
+   "pubDate": "2026-11-10T04:37:13.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "すみれ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2155133.html"
+    }
+   ]
+  },
+  {
+   "title": "ドラクエ新作『ドラゴンクエストRPG 魔界樹と導かれし島』基本無料で2027年リリース！テーマは“探索・コマンドバトル・育てる”の冒険体験、11月10日20時トレイラー公開へ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/10/190662.html",
+   "pubDate": "2026-11-10T04:30:02.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラゴンクエストRPG 魔界樹と導かれし島"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/10/190662.html"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch 2／Switchに新機能「プレゼント」追加！ 11月17日からeショップの商品を家族へ贈れる",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnd1JTYW5ISFpPZnh5aE4wM2c5SjI2dVlmazFpZzk4NWZuRWVTM1lvckhyLTlGbDIzSjZhYWZBaWpRbWxzaWMxOFRXUTAwQzc5aDVHWUFBNS05ZHlTeTZhbg?oc=5",
+   "pubDate": "2026-11-10T04:26:01.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnd1JTYW5ISFpPZnh5aE4wM2c5SjI2dVlmazFpZzk4NWZuRWVTM1lvckhyLTlGbDIzSjZhYWZBaWpRbWxzaWMxOFRXUTAwQzc5aDVHWUFBNS05ZHlTeTZhbg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『Exterminauts』先行プレイ：フレンド2人と銀河の害虫駆除業者になれるCo-opシューター――尖りまくったサブ武器が光る",
+   "summary": "虫が湧きすぎてパニック！ 先行プレイで判明した重要ポイント： 『Exterminauts』は、序盤こそやや凡庸に感じられる。 デフォルト武器に目新しさや面白みは薄いが、サブ武器ははるかに魅力的だ。 ビルド構築ややりこみ要素（メタ）が存在する 大群を迎え撃つホードシューターは、フレ…",
+   "link": "https://jp.ign.com/exterminauts/84568/exterminauts2co-op",
+   "pubDate": "2026-11-10T04:21:21.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://sm.ign.com/ign_jp/preview/e/exterminau/exterminauts-turns-you-and-2-friends-into-intergalactic-pest_9cvn.png",
+   "source": "IGN Japan",
+   "sourceId": "ign-jp",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Exterminauts"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN Japan",
+     "sourceId": "ign-jp",
+     "link": "https://jp.ign.com/exterminauts/84568/exterminauts2co-op"
+    }
+   ]
+  },
+  {
+   "title": "『スーパー マリオパーティ ジャンボリー』Switch 2 Edition版が無料アップデート！ ソフト1本でオンラインスゴロク対応",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QWEJ0MnRZaURJd3FCdXhwSFVCdkZfeTQ4cEpCTUxGV1BRaFg3ZTVaVV9vN2xGVXBkSVlaYkdEYW81Z2xtOGtuRGdMZHFQVDBiVGFRWVllZGRWZjhaWTFqRQ?oc=5",
+   "pubDate": "2026-11-10T04:18:45.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "スーパー マリオパーティ ジャンボリー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QWEJ0MnRZaURJd3FCdXhwSFVCdkZfeTQ4cEpCTUxGV1BRaFg3ZTVaVV9vN2xGVXBkSVlaYkdEYW81Z2xtOGtuRGdMZHFQVDBiVGFRWVllZGRWZjhaWTFqRQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "『遊戯王OCG』「オベリスクの巨神兵」が新たな姿で登場！劇場版「THE DARK SIDE OF DIMENSIONS」10周年記念商品の新規カード4枚が公開",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/10/190661.html",
+   "pubDate": "2026-11-10T04:15:03.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "遊戯王OCG",
+    "THE DARK SIDE OF DIMENSIONS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/10/190661.html"
+    }
+   ]
+  },
+  {
+   "title": "GPUとAI半導体の巨人NVIDIAに激震。ジェンスン・フアンCEOを標的とする中国のスパイ工作疑惑で独立調査を開始。不倫関係を認め謝罪",
+   "summary": "NVIDIAは，CEOのジェンスン・フアン氏が中国の情報機関によるスパイ工作の標的になっていたとする報道を受け，独立調査を開始すると発表した。フアン氏は不倫関係を認めて謝罪しており，米議会も説明を要求している。AI半導体をめぐる米中対立のなか，企業機密への影響が注目される。",
+   "link": "https://www.4gamer.net/games/999/G999905/20261110009/",
+   "pubDate": "2026-11-10T04:14:29.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "hardware",
+    "ranking",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/999/G999905/20261110009/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switchに「プレゼント」機能追加、11月17日から家族にゲームを贈れる――子どもアカウントは対象外",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91RkdLSE9YUTBhN1JLQU1xZjBhQlM2OUdLUmc1czI1WThaTFVqdzhESnNFTXBpczJod1RkZVA1eFAxcTFj?oc=5",
+   "pubDate": "2026-11-10T04:07:41.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "shiritomo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "shiritomo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91RkdLSE9YUTBhN1JLQU1xZjBhQlM2OUdLUmc1czI1WThaTFVqdzhESnNFTXBpczJod1RkZVA1eFAxcTFj?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Steamストアで「ゲームの平均フレームレート」を確認できるように、まずはSteam Deck向けに。だいたい何fps出るか、買う前にわかる",
+   "summary": "Valveは11月10日、Steamストアページのアップデートを実施。各タイトルのSteam Deckでの平均フレームレートを確認できるようになった。",
+   "link": "https://automaton-media.com/articles/newsjp/20261110-478374/",
+   "pubDate": "2026-11-10T04:05:59.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/04/steam-next-fes-20260424-439515-header.webp",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 19,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261110-478374/"
+    }
+   ]
+  },
+  {
+   "title": "メダロットシリーズ過去8作品を収録したSteam版「メダロット クラシックス プラス」が12月に発売決定「カブトVer.」と「クワガタVer.」が登場",
+   "summary": "イマジニアは、メダロットシリーズの過去8作品を収録したSteam版「メダロット クラシックス プラス カブトVer.」およびSteam版「メダロット クラシックス プラス クワガタVer.」（以下、タイトル合わせてメダロット クラシックス プラス）を12月に発売する。価格は各5,…",
+   "link": "https://game.watch.impress.co.jp/docs/news/2155115.html",
+   "pubDate": "2026-11-10T04:01:22.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "メダロット クラシックス プラス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2155115.html"
+    }
+   ]
+  },
+  {
+   "title": "『エンダーリリーズ』Tシャツやトートバッグなど、新グッズがインフォレンズから登場！TGS2026で販売されたものも再入荷",
+   "summary": "高精細イラストのA4キャラファイングラフや、キャラが勢ぞろいしたアクリルパネルなどが並ぶ。販売はオンラインにて本日から開始",
+   "link": "https://news.denfaminicogamer.jp/news/261110q",
+   "pubDate": "2026-11-10T04:00:20.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-16-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "エンダーリリーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261110q"
+    }
+   ]
+  },
+  {
+   "title": "AIによるクローン生成は『GTA6』のローンチを脅かすのか、またインディーゲーム開発をどう変貌させるのか",
+   "summary": "AIによる逆コンパイルとクローン技術は、大手・インディーを問わず開発者たちを大きく揺さぶっている。 ゲーム業界で何かが新しく動き始めている。少なくともその点については、大方の意見が一致するはずだ。 この6週間にわたり、新世代のエージェント型AIコーディングツールが、マッシュアップ…",
+   "link": "https://jp.ign.com/grand-theft-auto-vi/84567/aigta6",
+   "pubDate": "2026-11-10T03:52:41.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://sm.ign.com/ign_jp/feature/e/even-if-so/even-if-someone-does-get-it-running-on-pc-thats-not-going-to_sjpa.jpg",
+   "source": "IGN Japan",
+   "sourceId": "ign-jp",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "indie",
+    "review",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN Japan",
+     "sourceId": "ign-jp",
+     "link": "https://jp.ign.com/grand-theft-auto-vi/84567/aigta6"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『俺の死亡フラグが留まるところを知らない』が2027年に放送決定。第3回「なろうコン大賞」グランプリ受賞、シリーズ累計175万部突破の人気作",
+   "summary": "ゲームの悪役に憑依した主人公が数多の“死亡フラグ”を回避するため、肉体の強さとゲームの知識を総動員し生存ルートを目指す",
+   "link": "https://news.denfaminicogamer.jp/news/261110s",
+   "pubDate": "2026-11-10T03:50:34.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-15-1024x559.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "media",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "俺の死亡フラグが留まるところを知らない"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261110s"
+    }
+   ]
+  },
+  {
+   "title": "“敗北顔”マグネットから、ドラム缶風湯呑までズラリ！『ストリートファイター』新作一番くじで激闘が蘇る",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/10/190659.html",
+   "pubDate": "2026-11-10T03:50:02.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ストリートファイター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/10/190659.html"
+    }
+   ]
+  },
+  {
+   "title": "ロックスターの「文字帯付きロゴ商標」に取消申立て―過去にテイクツーから商標登録へ異議を申し立てられた米デジタルマーケ企業が請求",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/10/174695.html",
+   "pubDate": "2026-11-10T03:49:55.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/10/174695.html"
+    }
+   ]
+  },
   {
    "title": "匂い立つなあ…『Bloodborne』より「figma 狩人」が嬉しい再販！変形するノコギリ鉈や回転ノコギリ、ルドウイークの聖剣なども付属",
    "summary": "",
@@ -13310,7 +13823,7 @@
    ]
   },
   {
-   "title": "任天堂がSwitch 2 / Switch向けに本体機能の更新データを配信。新機能「プレゼント」が追加れさ，2026年11月17日から利用可能に",
+   "title": "任天堂がSwitch 2 / Switch向けに本体機能の更新データを配信。新機能「プレゼント」が追加され，2026年11月17日から利用可能に",
    "summary": "任天堂は本日，NintendoSwitch2およびNintendoSwitch向けに本体機能の更新データを配信した。ファミリーグループに参加している家族にニンテンドーeショップの商品を贈れる新機能「プレゼント」が追加され，11月17日から利用可能になる。",
    "link": "https://www.4gamer.net/games/990/G999030/20261110008/",
    "pubDate": "2026-11-10T03:35:43.000Z",
@@ -13483,6 +13996,34 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMzZjVUtHUmhzcWh3blMzTUotcjAwZ2lnVzV3elhCSTJnUXRsZHJJekFDVTYzMFQtQmMxSHlONnRSbDZWMWVNbEJWd2ZzeUpIS3FaVldtWmptbGs?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories",
+   "summary": "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second…",
+   "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories",
+   "pubDate": "2026-11-10T03:19:27.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/10/the-legend-of-zelda-ocarina-of-time-fairies-1794276378707.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories"
     }
    ]
   },
@@ -13953,37 +14494,6 @@
    ]
   },
   {
-   "title": "『遊戯王OCG』の新規カード「アルカナフォースVIII－STRENGTH」を同梱！『遊戯王 TAG FORCE GX』攻略本が2月16日発売決定",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/10/190651.html",
-   "pubDate": "2026-11-10T03:00:03.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "遊戯王OCG",
-    "遊戯王 TAG FORCE GX"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/10/190651.html"
-    }
-   ]
-  },
-  {
    "title": "PC向けホラーアドベンチャー「1999トコヨビル」，Steamで配信開始。2ndPVやグッズ情報も公開に",
    "summary": "講談社ゲームラボは本日（2026年11月10日），PC向けホラーアドベンチャー「1999トコヨビル」をSteamでリリースした。価格は1420円（税込）。また，2ndPVやアニメイトで展開されるグッズの全ラインナップが公開された。",
    "link": "https://www.4gamer.net/games/813/G081367/20261109028/",
@@ -14015,6 +14525,43 @@
    ]
   },
   {
+   "title": "『遊戯王OCG』の新規カード「アルカナフォースVIII－STRENGTH」を同梱！『遊戯王 TAG FORCE GX』攻略本が2月16日発売決定",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/10/190651.html",
+   "pubDate": "2026-11-10T03:00:00.000Z",
+   "firstSeen": "2026-11-10T03:47:35.741Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "遊戯王OCG",
+    "遊戯王 TAG FORCE GX"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/10/190651.html"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dmpuREFFSnRRVkpwdFpCXzY1QW5uM3N5c29lNFJJYmRTajlpelhLemthbGxvNlI3aHVWMjBiVldSMy1JdDR1SmgzN0ZRX2tqNzlzZWJHTE44ZmdPSVFCSQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "任天堂「マリオパーティ」ソフト1本で最大4人遊べるように！ Switch 2の無料アプデで「おすそわけ通信」が大幅進化",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTU4tZDdrd0c0bjVQTEUwOGFHcDFyVjFHQ3otLW83X2owbmdHeFdSRTJidWtzU3NOLWtweGxCMWVMZFAycWhyUTZQa2Z4dDR3SkpTWA?oc=5",
@@ -14022,7 +14569,7 @@
    "firstSeen": "2026-11-10T03:47:35.741Z",
    "image": null,
    "source": "ASCII.jp",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14037,15 +14584,82 @@
    "sources": [
     {
      "name": "ASCII.jp",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTU4tZDdrd0c0bjVQTEUwOGFHcDFyVjFHQ3otLW83X2owbmdHeFdSRTJidWtzU3NOLWtweGxCMWVMZFAycWhyUTZQa2Z4dDR3SkpTWA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ゲーム アップデート」"
     },
     {
      "name": "週刊アスキー",
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxbHA5bE5SOVJNYnM3cnVBUFhCQkVjYW5RTHJFM1BjbDBUeGVidG9yY284bGt6RkRmUlBZZk5sQWJMSXQwdGUwT1hNWHYxcC1PWksxak91V2Z5cUFqYWc?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "ゲーム『崩壊：スターレイル』より、「学生寮シリーズ ちびキャラクター ブラインドボックス 第2弾」が登場！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000222.000127482.html",
+   "pubDate": "2026-11-10T03:00:00.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩壊:スターレイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000222.000127482.html"
+    }
+   ]
+  },
+  {
+   "title": "秘密を暴いて弱みを握る。君と本当の友達になるために ノスタルジック×ホラーADV『1999トコヨビル』 本日よりSteamにて配信開始 & ローンチ20%OFFセール実施！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000009138.000001719.html",
+   "pubDate": "2026-11-10T03:00:00.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release",
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 20,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "1999トコヨビル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000009138.000001719.html"
     }
    ]
   },
@@ -14132,6 +14746,12 @@
      "name": "リアルサウンド",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWndkWnF6M1lzanhkX3BtdW5oSmpQa3ZJUlJySjZpRks5cGRBZHhubnBiTHpFd3JuRkRjRS1tTkE0dHhpWEVJZkU1d3ZiN016UGZrNjdVbW5wRHVCQk11M9IBZkFVX3lxTFBncXJObzliYU9nWlloaV9DZHlOM2hEMEJRQ0lrai1IdE10cndFbTZYT3FSeDlKelJ1a2thVVJHTmdlUzFpYVcwRW1DMC1rVjdlN3JaLVo4M3BSZ1QyUmFrWmROOGJGdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1M2FWY2hzZXZ6Vmx4TzRRblQ2bUtGY1lOVHZiTG1Wbm95NkNmOUUwcHRPNnNtT3VGaENhcF9MLTA2ZFRwR3p6djV1NTBvX182aGl6bDdGVk13aENQb3lz?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -15285,6 +15905,12 @@
      "name": "Nintendo",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3pVWk43cEhzaHl1TnU5TWIzQ0tlYkVlTFF5eE83TkZkTTdxTkMtaTA5WGZpRldXVFJXeEFXOEhYUUxRMFVLNGVHSXFGQnI3OTliZHljSUZqcktLSlRBTGU3QnR3c3Fpam5kT3hmZ2Yyd040TXgxZlpRVlJ6TmhoV1llLU9odw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwbWF0bUJBZG5hd2V0OU5Xb3ZHQ3FNT0ZXMm1YSERXeWJLaHA1NnlaRHpyN0FHejN5eGVnZXNHZnJrNkh6WjBWTjlKaFpUSVNfd3NTLU1qMVhlS3liUkVnMw?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
@@ -20648,6 +21274,37 @@
    ]
   },
   {
+   "title": "『キン肉マン マッスルタッグマッチ 令和復活編』配信開始。参戦超人50名に大幅増＆通信対戦対応",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xdzM0Skt3eklLV0NlUnMwc0dhZTlvc25UTUxBV3FIenBvZmV2TVozcXpZdmg2WTlPZUdKOWl6anlkU1A5UzZJb0M4LVRBVUt2bHB1bnNDbEFTQQ?oc=5",
+   "pubDate": "2026-11-09T11:00:00.000Z",
+   "firstSeen": "2026-11-10T04:47:36.301Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "キン肉マン マッスルタッグマッチ令和復活編"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xdzM0Skt3eklLV0NlUnMwc0dhZTlvc25UTUxBV3FIenBvZmV2TVozcXpZdmg2WTlPZUdKOWl6anlkU1A5UzZJb0M4LVRBVUt2bHB1bnNDbEFTQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live",
    "summary": "A popular Nintendo blogger who tells his viewers obscure facts about Super Mario has been hit with serious health conditions, including hear…",
    "link": "https://www.ign.com/articles/supper-mario-broth-health-condition",
@@ -21837,6 +22494,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/09/174659.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/10/190660.html"
     }
    ]
   },
@@ -25235,9 +25897,9 @@
     },
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JTjhUYUlySF9HeVZCOU1QZW9xYjhGc2pxTFB5M3BzcDFTX3RPSm5NMmY0SU4zZ29ON1JMVGd6YjkteEJjRFBfQzZvMFVWNUh1RmQ4RDNzdw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     },
     {
      "name": "オリコンニュース",
@@ -26905,9 +27567,9 @@
     },
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5ZkRGdXRwcWVraHVDeDRHa1c5VWpjcERHUE5DTGJfLUgtbHgtVTA5RE5sTEVNQmt4dFFxUFBPT2IxR2RMRWZBT3ItOXgtSU8zSUV5Q3lobw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     },
     {
      "name": "電撃オンライン",
@@ -191813,572 +192475,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/25/189799.html"
-    }
-   ]
-  },
-  {
-   "title": "一番くじ「ストリートファイター」F賞「負け顔マグネット」がユニーク！ リュウやケン、春麗たちのボコボコ顔を飾れる",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/25/189798.html",
-   "pubDate": "2026-10-25T03:45:03.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/25/189798.html"
-    }
-   ]
-  },
-  {
-   "title": "2026年9月、毎日入浴を再開。eスポーツとグラフィック、専属シェフの食事。生活介護『iba-sho』を群馬県伊勢崎市で運営",
-   "summary": "株式会社ワンライフ（本社：群馬県前橋市、代表取締役：市村均弥）は、生活介護事業所『iba-sho（イバショ）』（群馬県伊勢崎市・定員20名）で、2026年9月から毎日の入浴を再開しました。生活介護は、日常生活の...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000064.000113188.html",
-   "pubDate": "2026-10-25T03:40:33.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "iba-sho"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000064.000113188.html"
-    }
-   ]
-  },
-  {
-   "title": "「ウマ娘 プリティーダービー」，新ウマ娘として「ウインマリリン」登場。「吾妻」が登場する新育成シナリオ追加も明らかに",
-   "summary": "Cygamesは，サービス中のクロスメディアコンテンツ「ウマ娘プリティーダービー」の公式番組「ぱかライブTV'#8」を配信し，新ウマ娘として「ウインマリリン」を発表した。さらに，新育成シナリオ「朋、史解き ―午式駿大祭―」の追加など，さまざまな情報が明らかにされている。",
-   "link": "https://www.4gamer.net/games/554/G055489/20261025003/",
-   "pubDate": "2026-10-25T03:37:09.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 3,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/554/G055489/20261025003/"
-    }
-   ]
-  },
-  {
-   "title": "高級感ある『星のカービィ』メタルチャームが、めじるしアクセサリー仕様に！ワドルディ、デデデ大王なども揃った全7種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/25/189797.html",
-   "pubDate": "2026-10-25T03:30:03.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "星のカービィ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/25/189797.html"
-    }
-   ]
-  },
-  {
-   "title": "『ロマンシング サガ2 リベンジオブザセブン』世界累計100万本突破！ シリーズ29年ぶりのミリオン達成",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeEFkSm5DeFQ3TlVLWVdDXzhlOGxtYWwyUGIyQmg4Zy05WG9ORmJpT1VWMWpaWWdSQ01kc1lHY3M2QTNwdTZSRmZET2J6OE1KTy1PU050YjVianpiU19DWg?oc=5",
-   "pubDate": "2026-10-25T03:30:03.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ロマンシング サガ2 リベンジオブザセブン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeEFkSm5DeFQ3TlVLWVdDXzhlOGxtYWwyUGIyQmg4Zy05WG9ORmJpT1VWMWpaWWdSQ01kc1lHY3M2QTNwdTZSRmZET2J6OE1KTy1PU050YjVianpiU19DWg?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『ウマ娘』新育成シナリオ「朋、史解き ―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて強い”「これ、難しいやつでは？」と思ったら素直なプレイ感",
-   "summary": "『ウマ娘 プリティーダービー』の新育成シナリオ「朋、史解き ―午式駿大祭― 」の先行プレイレポートをお届けしたい。",
-   "link": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/",
-   "pubDate": "2026-10-25T03:22:58.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/umamusume-shundaisai-01-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/"
-    }
-   ]
-  },
-  {
-   "title": "「来年生産分のメモリ約8割が契約済み」サムスン電子に関する韓国KB証券の分析―2027年初頭のDRAM価格は2桁％上昇と予測",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/25/174057.html",
-   "pubDate": "2026-10-25T03:15:03.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/25/174057.html"
-    }
-   ]
-  },
-  {
-   "title": "押せる！ 開く！ ピポサルもいる！ 「レゴ PlayStation」は組み立てる工程すらエモい大人のレゴだった【放課後れびゅあーず！】",
-   "summary": "ある放課後，朱音が部室に持ち込んだのは巨大な箱。中身は初代PlayStationをほぼ実寸大で再現する「レゴPlayStation」だった。今回の「放課後れびゅあーず！」では，全1911ピースを4時間かけて組み立てた感想をお届け。押せるボタンに開くディスクカバー，そして中から出て…",
-   "link": "https://www.4gamer.net/games/925/G092590/20261025002/",
-   "pubDate": "2026-10-25T03:07:54.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/925/G092590/20261025002/"
-    }
-   ]
-  },
-  {
-   "title": "Kindleで『ガンニバル』が全巻各99円セール。柳楽優弥主演の実写ドラマも話題のヴィレッジ・サイコスリラー",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbllPMXhzVWtXeTFKcjY2bEpzZUJBOTRWUmd2bEpPSzF2UVFTM0NyTk9mc2V6RTNqUnFKX0dnZm1DR3lBdnRjOTBwWW1SYUdxWHJvV05raWU4QQ?oc=5",
-   "pubDate": "2026-10-25T03:05:00.000Z",
-   "firstSeen": "2026-10-25T15:47:32.079Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ガンニバル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbllPMXhzVWtXeTFKcjY2bEpzZUJBOTRWUmd2bEpPSzF2UVFTM0NyTk9mc2V6RTNqUnFKX0dnZm1DR3lBdnRjOTBwWW1SYUdxWHJvV05raWU4QQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "『ウマ娘』新シナリオ「駿大祭編」、育成ルートが2億736万通り！？ 無限に味わえそうなシステムだった。おまかせ育成の1周20分でも休まず回して約7900年。全部試したいのに人生が足りない",
-   "summary": "どの「演目」にどの「教え」を付けるかで育成の道筋が変化。おまかせ育成の1周20分でも休まず回して約7900年。全部試したいのに人生が足りない",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261025a",
-   "pubDate": "2026-10-25T03:00:52.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/575d436895bb85f231c3911d129e30d5-1024x563.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261025a"
-    }
-   ]
-  },
-  {
-   "title": "【独占】『ウマ娘』新シナリオ「駿大祭編」のダイワスカーレットと新友人・吾妻（あづま）の全身イラストを電ファミ独占で掲載！ ゲーム内に実装されない「特別なポーズ」をお披露目",
-   "summary": "どちらもゲーム内に実装されない「特別なポーズ」。シナリオではダイワスカーレットが大役を担い、吾妻（CV：三石琴乃）が物語の鍵を握る",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261025b",
-   "pubDate": "2026-10-25T03:00:30.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/369832e7b86143ca81910d1a02caaac5-1024x1024.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261025b"
-    }
-   ]
-  },
-  {
-   "title": "基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー、“バグ”まで怖いのは反則",
-   "summary": "『NTE』Ver.1.4で追加された異象依頼には、かなりホラーな者も存在する。",
-   "link": "https://automaton-media.com/articles/special-column/20261024-475341/",
-   "pubDate": "2026-10-25T03:00:17.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475341-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "NTE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/special-column/20261024-475341/"
-    }
-   ]
-  },
-  {
-   "title": "『ウマ娘』人間との絆を再確認する新育成シナリオ「駿大祭編」に心揺さぶられる…！成長の鍵は“練習の人数”か【先行体験会レポ】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/25/189796.html",
-   "pubDate": "2026-10-25T03:00:08.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/25/189796.html"
-    }
-   ]
-  },
-  {
-   "title": "サバイバルホラーはまだ進化できるのか？『The Sinking City 2』と『バイオ』『Dead Space』『SILENT HILL』を比較して見えた新たな可能性【特集】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/25/174056.html",
-   "pubDate": "2026-10-25T03:00:04.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "The Sinking City 2",
-    "バイオ",
-    "Dead Space",
-    "SILENT HILL"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/25/174056.html"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】背中が大胆にあいた白フリルのドレスが幻想的！金髪狐耳の美少女が魅せる『ブルアカ』百合園セイアが可憐に降臨【写真8枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/25/189795.html",
-   "pubDate": "2026-10-25T03:00:03.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ブルアカ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/25/189795.html"
-    }
-   ]
-  },
-  {
-   "title": "「ウマ娘」新育成シナリオ「駿大祭編」を先行体験！ 「教え」と「演目稽古」が育成のカギに。初心者にも遊びやすい仕上がり［プレイレポ］",
-   "summary": "Cygamesの育成ゲーム「ウマ娘プリティーダービー」の新育成シナリオ「朋、史解き ―午式駿大祭―」が2026年10月26日にリリースされる。4Gamerはメディア向けの先行体験会に参加し，ひと足早く新シナリオをプレイしてきた。「教え」や「演目稽古」といった新たなギミックを紹介し…",
-   "link": "https://www.4gamer.net/games/414/G041434/20261009017/",
-   "pubDate": "2026-10-25T03:00:00.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/414/G041434/20261009017/"
-    }
-   ]
-  },
-  {
-   "title": "【ウマ娘】新育成シナリオ「朋、史解き ―午式駿大祭―」先行体験レポート神妙なシナリオにオグリが合う。「教え」がポイントになる新たな育成体験",
-   "summary": "Cygamesの「ウマ娘 プリティーダービー(以下、ウマ娘)」において、10月26日から最新育成シナリオ「朋、史解き ―午式駿大祭―(以下、駿大祭編)」が実装される。",
-   "link": "https://game.watch.impress.co.jp/docs/preview/2147814.html",
-   "pubDate": "2026-10-25T03:00:00.000Z",
-   "firstSeen": "2026-10-25T03:47:33.567Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/preview/2147814.html"
-    }
-   ]
-  },
-  {
-   "title": "『ウマ娘』新シナリオ“朋、史解き ―午式駿大祭―”先行体験。ウマ娘と人との絆を描く和情緒あふれる物語がいよいよ開幕",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wNHFLc2VrUGdlSE5iVjN1NHZfWi1jalczNllWcDRvU2w0ZnJ1S2Z1X0tIRkdVOXRndFVFOHlUeTNyWkZwUVNmLVhXTzFCSWo5dWkyU3JrVQ?oc=5",
-   "pubDate": "2026-10-25T03:00:00.000Z",
-   "firstSeen": "2026-10-25T04:47:47.109Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ウマ娘"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wNHFLc2VrUGdlSE5iVjN1NHZfWi1jalczNllWcDRvU2w0ZnJ1S2Z1X0tIRkdVOXRndFVFOHlUeTNyWkZwUVNmLVhXTzFCSWo5dWkyU3JrVQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "「将来的には日本語を含む複数の言語で公式ローカライズを実装したい」宇宙船組立STG『eXoSpace Combat Engineer』【開発者インタビュー】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/25/174055.html",
-   "pubDate": "2026-10-25T02:45:03.000Z",
-   "firstSeen": "2026-10-25T02:47:34.613Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "eXoSpace Combat Engineer"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/25/174055.html"
-    }
-   ]
-  },
-  {
-   "title": "「一人称視点とソウルライクが理想の組み合わせであることを証明した」海外レビューハイスコア『Valor Mortis』",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/25/174054.html",
-   "pubDate": "2026-10-25T02:30:14.000Z",
-   "firstSeen": "2026-10-25T02:47:34.613Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Valor Mortis"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/25/174054.html"
     }
    ]
   }
