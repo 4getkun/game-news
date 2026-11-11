@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-11T18:47:59.413Z",
+ "generatedAt": "2026-11-11T19:48:03.106Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1356,
+  "exact": 1359,
   "syndicated": 87,
   "similar": 383,
-  "syndicatedTotal": 419,
+  "syndicatedTotal": 420,
   "syndicatedLeft": 31
  },
  "calendar": [
@@ -3049,22 +3049,6 @@
    "source": "ファミ通",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-02",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "シャーマンキング",
-   "title": "『シャーマンキング』作者・武井宏之氏がメインキャラクター原案を務めるショートアニメ『メカザムライ』が始動。11月2日よりYouTubeなどで毎日配信",
-   "link": "https://news.denfaminicogamer.jp/news/2610272y",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "new"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -6484,22 +6468,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-10",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "アークナイツ:エンドフィールド",
-   "title": "『アークナイツ：エンドフィールド』×ROUND1コラボが11月10日より開催！メニューや限定グッズなど多彩な企画を展開",
-   "link": "https://www.inside-games.jp/article/2026/10/27/189936.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-11",
    "precision": "day",
    "verb": "launch",
@@ -7221,6 +7189,24 @@
   {
    "date": "2026-11-12",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「Nintendo Switch 2（日本語・国内専用） 選べるソフト セット」本日発売",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mNVJYam1WMXpDdTE3MDVhb0dFQVg1dU1vRk1DNG1sbTRxWDlIcF9taE9pS3o5YkNocmRETEVPa2dUcDFGeU1oNlVnOWlLXzZPb29UM281d2NFbE9OTlgxd3lvYWpnUQ?oc=5",
+   "source": "GAME Watch",
+   "sources": 2,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-12",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "コンソールアーカイブス 織田信長伝",
@@ -7336,24 +7322,6 @@
    "categories": [
     "release",
     "hardware"
-   ],
-   "platforms": [
-    "switch2"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-12",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「Nintendo Switch 2（日本語・国内専用） 選べるソフト セット」本日発売",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mNVJYam1WMXpDdTE3MDVhb0dFQVg1dU1vRk1DNG1sbTRxWDlIcF9taE9pS3o5YkNocmRETEVPa2dUcDFGeU1oNlVnOWlLXzZPb29UM281d2NFbE9OTlgxd3lvYWpnUQ?oc=5",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "release"
    ],
    "platforms": [
     "switch2"
@@ -11605,6 +11573,22 @@
    "spoiler": false
   },
   {
+   "date": "2027-01-11",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "カブトボーグ",
+   "title": "伝説のカオスアニメ『カブトボーグ』20周年イベントが1/11（成人の日）に開催決定。オレたちは大人になってもボーグバトラーだ！",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42bjdHSDZoQnNuQ1RVSFJWSUk1NlBwanlJNk1HRWFmQnZYY2RsVGVTbFRna1NmbHBhM29EaUdRQ3hFS2VsWW5SQ0I5T2ZiM1hyT0EwOVFlN0VNdw?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2027-01-15",
    "precision": "day",
    "verb": "release",
@@ -13202,8 +13186,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 731,
-   "accepted": 429
+   "archived": 732,
+   "accepted": 430
   },
   {
    "id": "gnews-newgame",
@@ -13212,9 +13196,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 92,
-   "archived": 573,
-   "accepted": 528
+   "fetched": 100,
+   "archived": 576,
+   "accepted": 531
   },
   {
    "id": "gnews-switch2",
@@ -13235,8 +13219,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 756,
-   "accepted": 678
+   "archived": 757,
+   "accepted": 679
   },
   {
    "id": "gnews-update",
@@ -13246,8 +13230,8 @@
    "ok": true,
    "error": null,
    "fetched": 78,
-   "archived": 455,
-   "accepted": 370
+   "archived": 454,
+   "accepted": 369
   },
   {
    "id": "prtimes",
@@ -13257,7 +13241,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26821,
+   "archived": 26843,
    "accepted": 462
   },
   {
@@ -13268,8 +13252,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 342,
-   "accepted": 342
+   "archived": 340,
+   "accepted": 340
   },
   {
    "id": "ign",
@@ -13279,8 +13263,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1226,
-   "accepted": 1226
+   "archived": 1222,
+   "accepted": 1222
   },
   {
    "id": "eurogamer",
@@ -13301,8 +13285,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 315,
-   "accepted": 315
+   "archived": 313,
+   "accepted": 313
   },
   {
    "id": "nintendolife",
@@ -13328,6 +13312,197 @@
   }
  ],
  "items": [
+  {
+   "title": "Don't expect more information on The Elder Scrolls 6: Sentinel \"for some time,\" Bethesda says",
+   "summary": "After Bethesda formally named The Elder Scrolls 6: Sentinel earlier this month, some series fans were hopeful that more news wasn't far behi…",
+   "link": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda",
+   "pubDate": "2026-11-11T19:36:50.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": "https://assetsio.gnwcdn.com/elder-scrolls-6-sentinel-01.webp?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda"
+    }
+   ]
+  },
+  {
+   "title": "ソニーPS5、累計1億台突破 GTA VI発売控え追い風",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94UEN5UElaRmxuNUZuY0Nwb2FSN205ZVU1ZzIwLWhZRWtEcGRKUndNczZkTmpnN1RyVnI4MXQtX2ZhR3E0QnN1MVBkUUxmSFdXRVJtb2pMb3J5V3p6c2Q3Uk5xbVF4bzNjWUZuNlA1azE5d2s4?oc=5",
+   "pubDate": "2026-11-11T19:25:00.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": null,
+   "source": "BigGo ファイナンス",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "BigGo ファイナンス",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94UEN5UElaRmxuNUZuY0Nwb2FSN205ZVU1ZzIwLWhZRWtEcGRKUndNczZkTmpnN1RyVnI4MXQtX2ZhR3E0QnN1MVBkUUxmSFdXRVJtb2pMb3J5V3p6c2Q3Uk5xbVF4bzNjWUZuNlA1azE5d2s4?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "MSI Raising Graphics Cards Prices Again in China, According to Leak",
+   "summary": "Ever since the RAM crisis kicked off in earnest in November 2025, pretty much every component in a gaming PC has grown more expensive. And n…",
+   "link": "https://www.ign.com/articles/msi-raising-graphics-cards-prices-again-in-china-according-to-leak",
+   "pubDate": "2026-11-11T19:12:46.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": "https://assets-prd.ignimgs.com/2025/01/30/untitled-design-75-1738236972823.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/msi-raising-graphics-cards-prices-again-in-china-according-to-leak"
+    }
+   ]
+  },
+  {
+   "title": "VisionQuest Ending Explained: Why the Series Is Surprisingly Important to Avengers - Doomsday",
+   "summary": "We break down the surprising ending to VisionQuest and why the series has unexpectedly become a major building block to Avengers: Doomsday.",
+   "link": "https://www.ign.com/articles/visionquest-ending-explained-post-credits-scene-avengers-doomsday-scarlet-witch",
+   "pubDate": "2026-11-11T19:09:23.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/mixcollage-11-nov-2026-02-04-pm-3045-1794424005837.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/visionquest-ending-explained-post-credits-scene-avengers-doomsday-scarlet-witch"
+    }
+   ]
+  },
+  {
+   "title": "Exterminauts looks like another Helldivers 2, but it's really the Deep Rock Galactic sickos who should take notice",
+   "summary": "The Dead By Daylight studio takes on a co-op shooter.",
+   "link": "https://www.pcgamer.com/games/third-person-shooter/exterminauts-looks-like-another-helldivers-2-but-its-really-the-deep-rock-galactic-sickos-who-should-take-notice/",
+   "pubDate": "2026-11-11T19:09:00.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/hcfJYVuA8JFu3U4R9UyZKQ-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/third-person-shooter/exterminauts-looks-like-another-helldivers-2-but-its-really-the-deep-rock-galactic-sickos-who-should-take-notice/"
+    }
+   ]
+  },
+  {
+   "title": "Today’s Top Deals: Kirby and the Forgotten Land for Switch 2, Apple AirTags, and LEGO Santa Minifigure",
+   "summary": "Plus, save on a couple of different DualSense Controllers, Zelda: Ocarina of Time, and more.",
+   "link": "https://www.ign.com/articles/best-deals-for-november-11-2026",
+   "pubDate": "2026-11-11T18:35:00.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/untitled-design-23-1794419659107.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/best-deals-for-november-11-2026"
+    }
+   ]
+  },
+  {
+   "title": "Lanterns Season 1 Is Up for Preorder on 4K UHD and Blu-ray",
+   "summary": "",
+   "link": "https://www.ign.com/articles/lanterns-season-1-is-up-for-preorder-on-4k-uhd-and-blu-ray",
+   "pubDate": "2026-11-11T18:18:10.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/11/lanterns-season-1-blogroll-1794420223570.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/lanterns-season-1-is-up-for-preorder-on-4k-uhd-and-blu-ray"
+    }
+   ]
+  },
   {
    "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
    "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-antic…",
@@ -14510,6 +14685,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mNVJYam1WMXpDdTE3MDVhb0dFQVg1dU1vRk1DNG1sbTRxWDlIcF9taE9pS3o5YkNocmRETEVPa2dUcDFGeU1oNlVnOWlLXzZPb29UM281d2NFbE9OTlgxd3lvYWpnUQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "GAME Watch（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOWRDX3hRN3lpSTVLQnZ4ZFAwWUJISWRjYXJDdE1kSU5YWUlRYzdRN09LRXBWcGRGNVNCSXFzMWl3bVpEbUFUbU52VzgyYU5jMHNXc0Y3NlR2UU1Nem1wV0xuNHRMZDZtNXdIWkU5YV9BSmQ3cktpNk1aOFdBVU0?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -14915,6 +15097,37 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/11/190781.html"
+    }
+   ]
+  },
+  {
+   "title": "伝説のカオスアニメ『カブトボーグ』20周年イベントが1/11（成人の日）に開催決定。オレたちは大人になってもボーグバトラーだ！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42bjdHSDZoQnNuQ1RVSFJWSUk1NlBwanlJNk1HRWFmQnZYY2RsVGVTbFRna1NmbHBhM29EaUdRQ3hFS2VsWW5SQ0I5T2ZiM1hyT0EwOVFlN0VNdw?oc=5",
+   "pubDate": "2026-11-11T13:19:00.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "カブトボーグ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42bjdHSDZoQnNuQ1RVSFJWSUk1NlBwanlJNk1HRWFmQnZYY2RsVGVTbFRna1NmbHBhM29EaUdRQ3hFS2VsWW5SQ0I5T2ZiM1hyT0EwOVFlN0VNdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -24022,6 +24235,35 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BbGVHenFQUDF1Q1pNcUpXRVhMekU1NVhIZE1MXzZDOWFkTUpmNDdNODVXUDFyUWZuZDN4MjNZYVowLTZ6d1hBY1g2cWlFcHdaTnRGTHRXZVJhb0E?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『暗殺者育成』のゲーム情報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9OdXVHSzFNYzVqYmh4c1hnaGhJcDNwV0xGREdkeW9YUVFCaUwwZFozUG90cWxOZ0NoT3lNaUpqNHJYSnVZQUo4?oc=5",
+   "pubDate": "2026-11-11T02:58:06.000Z",
+   "firstSeen": "2026-11-11T19:47:40.920Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "暗殺者育成"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9OdXVHSzFNYzVqYmh4c1hnaGhJcDNwV0xGREdkeW9YUVFCaUwwZFozUG90cWxOZ0NoT3lNaUpqNHJYSnVZQUo4?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -192540,284 +192782,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/991/G999101/20261027047/"
-    }
-   ]
-  },
-  {
-   "title": "『シャーマンキング』作者・武井宏之氏がメインキャラクター原案を務めるショートアニメ『メカザムライ』が始動。11月2日よりYouTubeなどで毎日配信",
-   "summary": "真白健太朗さん、山下莉桜菜さん、水上歩夢さんが出演。機械の妖「妖械」に異能のカタナで立ち向かう“サムライ”たちを描く",
-   "link": "https://news.denfaminicogamer.jp/news/2610272y",
-   "pubDate": "2026-10-27T10:30:04.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-87-1024x575.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "シャーマンキング",
-    "メカザムライ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610272y"
-    }
-   ]
-  },
-  {
-   "title": "“歩く魔法の家”と旅する魔女クラフトADV『REKA』ついに日本語対応し正式リリース。1,495円で買える35%オフセールも実施中",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/27/174144.html",
-   "pubDate": "2026-10-27T10:30:03.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release",
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 35,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "REKA"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/27/174144.html"
-    }
-   ]
-  },
-  {
-   "title": "『アークナイツ：エンドフィールド』×ROUND1コラボが11月10日より開催！メニューや限定グッズなど多彩な企画を展開",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/27/189936.html",
-   "pubDate": "2026-10-27T10:30:02.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アークナイツ:エンドフィールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/27/189936.html"
-    }
-   ]
-  },
-  {
-   "title": "音声やジェスチャーで操作できるモニター「CyboPal ONE」がKickstarterで支援受付中。モニターの位置や向き、アプリの操作などが行える",
-   "summary": "専用のAIエージェント搭載で、各タスクを適切なアプリに振り分けてくれる。支援額は目標の100倍を超えている",
-   "link": "https://news.denfaminicogamer.jp/news/2610272e",
-   "pubDate": "2026-10-27T10:23:42.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/imgi_8_scenario-04-desktop-1024x664.jpeg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610272e"
-    }
-   ]
-  },
-  {
-   "title": "Classy Games、推理探偵ゲーム『Silly Suspects』早期アクセスを終了、v1.0正式版「Full Investigation」をリリース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfVFY4NnFuSnNramxDd0hnblRpbnlmUWJfaUJaX3IxM0p1b3VUTThiaFp1cjZMQXNGcnhzR1JuX193cUh5?oc=5",
-   "pubDate": "2026-10-27T10:23:00.000Z",
-   "firstSeen": "2026-10-27T11:47:33.970Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Silly Suspects",
-    "Full Investigation"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfVFY4NnFuSnNramxDd0hnblRpbnlmUWJfaUJaX3IxM0p1b3VUTThiaFp1cjZMQXNGcnhzR1JuX193cUh5?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "「逆転裁判 サウンドロップ」の予約受付を10月28日に開始。「異議あり！」などのセリフやBGMが聞ける",
-   "summary": "バンダイは，「逆転裁判 サウンドロップ」の予約を2026年10月28日11：00からガシャポンオンラインで受け付ける。本商品は，ボタンを押すと作中の決めゼリフや印象的なBGMが流れるカプセルトイだ。",
-   "link": "https://www.4gamer.net/games/805/G080590/20261027050/",
-   "pubDate": "2026-10-27T10:21:48.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/805/G080590/20261027050/"
-    }
-   ]
-  },
-  {
-   "title": "『サイバーパンク: エッジランナーズ2』公式イラスト本が本日（10/27）より予約開始。スタッフ総勢122名の描き下ろしを収録。前作の画集やメモリアルブックも再販",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BeElvcUk0VmlYOEt2VVlvVDg3dVZ6NFY1VFhMa3ZwNy1PdmZxeS1rNzdObFBRRm1XUXpOTlpIeE5wcVZhUzdtalJMNEw4VFpiQ0dwdDZXZw?oc=5",
-   "pubDate": "2026-10-27T10:20:00.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サイバーパンク: エッジランナーズ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BeElvcUk0VmlYOEt2VVlvVDg3dVZ6NFY1VFhMa3ZwNy1PdmZxeS1rNzdObFBRRm1XUXpOTlpIeE5wcVZhUzdtalJMNEw4VFpiQ0dwdDZXZw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Silent Hill Remake Coming 2027, First Cast Details Leaked",
-   "summary": "The 1999 PS1 horror game is getting the Bloober treatment, and a new leak from MP1ST suggests work has been underway since 2022 and the game…",
-   "link": "https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
-   "pubDate": "2026-10-27T10:19:55.000Z",
-   "firstSeen": "2026-10-27T11:47:33.970Z",
-   "image": "https://assets-prd.ignimgs.com/2025/06/12/silent-hill-remake-yt-1749697530923.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked"
-    }
-   ]
-  },
-  {
-   "title": "「犯人は○○。本当に、そうでしょうか？」堀井雄二氏が『続ポートピア連続殺人事件:忘却の埋葬』に意味深コメント。タイトルに「続」が付いた理由もプレイすれば納得できる",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/27/174143.html",
-   "pubDate": "2026-10-27T10:15:03.000Z",
-   "firstSeen": "2026-10-27T10:47:36.885Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "続ポートピア連続殺人事件:忘却の埋葬"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/27/174143.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/28/189951.html"
     }
    ]
   }
