@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-11T13:47:55.598Z",
+ "generatedAt": "2026-11-11T14:47:53.946Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1354,
+  "exact": 1355,
   "syndicated": 87,
-  "similar": 380,
-  "syndicatedTotal": 416,
-  "syndicatedLeft": 30
+  "similar": 382,
+  "syndicatedTotal": 418,
+  "syndicatedLeft": 31
  },
  "calendar": [
   {
@@ -9057,6 +9057,25 @@
   {
    "date": "2026-11-20",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Rock Band Simulator",
+   "title": "“1990年代”のロックバンド人生シミュレーションゲーム『Rock Band Simulator』11月20日にSteamで発売。ろくでもない決断を重ねながら、なんとかバンドをつなぎとめていく",
+   "link": "https://news.denfaminicogamer.jp/news/2611113u",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-20",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "溶鉄のマルフーシャ",
@@ -13104,7 +13123,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1236,
+   "archived": 1235,
    "accepted": 1118
   },
   {
@@ -13126,8 +13145,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1239,
-   "accepted": 1223
+   "archived": 1242,
+   "accepted": 1226
   },
   {
    "id": "inside-games",
@@ -13192,7 +13211,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 726,
+   "archived": 727,
    "accepted": 426
   },
   {
@@ -13214,8 +13233,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1507,
-   "accepted": 1321
+   "archived": 1509,
+   "accepted": 1323
   },
   {
    "id": "gnews-ps5",
@@ -13235,9 +13254,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 77,
-   "archived": 454,
-   "accepted": 369
+   "fetched": 78,
+   "archived": 456,
+   "accepted": 370
   },
   {
    "id": "prtimes",
@@ -13247,8 +13266,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26634,
-   "accepted": 458
+   "archived": 26694,
+   "accepted": 460
   },
   {
    "id": "gematsu",
@@ -13258,8 +13277,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 344,
-   "accepted": 344
+   "archived": 343,
+   "accepted": 343
   },
   {
    "id": "ign",
@@ -13269,8 +13288,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1233,
-   "accepted": 1233
+   "archived": 1232,
+   "accepted": 1232
   },
   {
    "id": "eurogamer",
@@ -13291,8 +13310,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 316,
-   "accepted": 316
+   "archived": 315,
+   "accepted": 315
   },
   {
    "id": "nintendolife",
@@ -13313,11 +13332,331 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 597,
-   "accepted": 597
+   "archived": 598,
+   "accepted": 598
   }
  ],
  "items": [
+  {
+   "title": "最大10人参加可能な協力サバイバル『Escape the Flood! ～洪水サバイバル～』Steam早期アクセス開始。サメだ、サメが来る！ボートを作って沈みゆく島から脱出",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/11/174765.html",
+   "pubDate": "2026-11-11T14:45:02.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Escape the Flood! ~洪水サバイバル~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/11/174765.html"
+    }
+   ]
+  },
+  {
+   "title": "Square Enix's Big Reset Is Working As It Increases Its Full-Year Forecast",
+   "summary": "Publisher reports \"solid performance\" for FF7 Rebirth. Square Enix has released its latest financial data for the six-month period ending 30…",
+   "link": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast",
+   "pubDate": "2026-11-11T14:45:00.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": "https://images.nintendolife.com/9d3e8cb526d33/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast"
+    }
+   ]
+  },
+  {
+   "title": "Glorious GMMK Eternal review",
+   "summary": "A solid, fuss-free step-up mechanical keyboard.",
+   "link": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/",
+   "pubDate": "2026-11-11T14:43:47.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/5BwSv6aAQMJbpxBpkNmKT7-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/"
+    }
+   ]
+  },
+  {
+   "title": "“1990年代”のロックバンド人生シミュレーションゲーム『Rock Band Simulator』11月20日にSteamで発売。ろくでもない決断を重ねながら、なんとかバンドをつなぎとめていく",
+   "summary": "PlayWay S.A.は、KONTRĀST MEDIAが開発する『Rock Band Simulator』を、11月20日にSteamにてリリース予定だ。 同作は、一人称視点のロックバンド人生シミュレーションゲームだ。現在Steamでは無料体験版が配信中で、ユーザーレビューは2…",
+   "link": "https://news.denfaminicogamer.jp/news/2611113u",
+   "pubDate": "2026-11-11T14:40:24.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Screenshot-2026-06-27-at-20.06.41-1024x665.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Rock Band Simulator"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611113u"
+    }
+   ]
+  },
+  {
+   "title": "AMD's Zen 6 gaming CPUs might be absolute monsters by the looks of the server chips—and there's a 3D V-Cache variant to keep an eye on",
+   "summary": "A tantalising tease.",
+   "link": "https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on/",
+   "pubDate": "2026-11-11T14:36:40.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/rzParbRmcG9d7cPPxniue9-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on/"
+    }
+   ]
+  },
+  {
+   "title": "90年代の中国を舞台にした一人称ホラー『叫魂JIAOHUN』約5分に及ぶゲームプレイ公開―カメラを手に不気味な写真館を探索",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/11/174764.html",
+   "pubDate": "2026-11-11T14:30:03.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "叫魂JIAOHUN"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/11/174764.html"
+    }
+   ]
+  },
+  {
+   "title": "『マインクラフト』に70種類以上のイカを追加するアドオン『イカってなんだっけ？』マーケットプレイスにて販売。サソリ型やドラゴン型のイカも登場！？",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/11/174763.html",
+   "pubDate": "2026-11-11T14:15:03.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "マインクラフト",
+    "イカってなんだっけ?"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/11/174763.html"
+    }
+   ]
+  },
+  {
+   "title": "矛盾を暴き、歌詞を推理せよ――歌で解く法廷推理ADV『歌劇裁判』、Steam ストアページを公開",
+   "summary": "マンイチ（MANICHI GAMES）は、PC（Steam）向けの新作『歌劇裁判 ～Verdict by Midnight～』を発表し、2026年11月11日に Steam のストアページを公開しました。 『歌劇裁判』は、証言のウソを見抜いて証拠品で突...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000004.000117996.html",
+   "pubDate": "2026-11-11T14:10:02.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "歌劇裁判"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000004.000117996.html"
+    }
+   ]
+  },
+  {
+   "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
+   "summary": "Katsuhiro Harada, formerly director on the Tekken series, is known for not pulling his punches. This truth was reinforced recently, as he sa…",
+   "link": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
+   "pubDate": "2026-11-11T14:09:30.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
+    }
+   ]
+  },
+  {
+   "title": "Colin Farrell Says 'There's a Conversation to Be Had' About The Penguin Season 2, Having Filmed Just 2 Scenes for The Batman Part II",
+   "summary": "Colin Farrell has confirmed he only appears in two scenes as the Penguin in The Batman Part II, but would love to play the character again i…",
+   "link": "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii",
+   "pubDate": "2026-11-11T13:58:41.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": "https://assets-prd.ignimgs.com/2023/04/12/penguin-1681321284658.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii"
+    }
+   ]
+  },
+  {
+   "title": "ソロシップ論争再燃。『Star Citizen』モジュラー型多目的船「Galaxy」お披露目で",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/11/174762.html",
+   "pubDate": "2026-11-11T13:55:19.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Star Citizen"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/11/174762.html"
+    }
+   ]
+  },
   {
    "title": "【コスプレ】美女レイヤーが『NIKKE』4周年を彩る！バニーやポリスなど、その全てがハイクオリティ【写真84枚】",
    "summary": "",
@@ -13505,6 +13844,40 @@
      "name": "Nintendo Life",
      "sourceId": "nintendolife",
      "link": "https://www.nintendolife.com/features/opinion-a-pokemon-rave-just-might-have-been-the-strangest-night-of-my-life"
+    }
+   ]
+  },
+  {
+   "title": "Switch2版「ゼルダの伝説 時のオカリナ」大ヒット！ 発売から4日で驚異の520万本突破 （スポニチアネックス）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcC1zaU5DdWU2djhKQnp4bWlCZnc0S2EzYTR4WG5RWXo1b3B5bS1RS2VTcEozbUJhel9RWGdqZnBWdWFwUlJfc3pfRUpWbFd0enV6VUdVVk5DM1RiSmxSSE93Sk84WFdqcmJPbjdmUFFaWHB1cFdhZVB5Rm5hMVJWQjFmZ1ZKMnlxTnQ2RElR?oc=5",
+   "pubDate": "2026-11-11T12:57:05.000Z",
+   "firstSeen": "2026-11-11T14:47:37.004Z",
+   "image": null,
+   "source": "スポニチアネックス（Yahoo!ニュース）",
+   "sourceId": "gnews-switch2",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ゼルダの伝説 時のオカリナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポニチアネックス（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcC1zaU5DdWU2djhKQnp4bWlCZnc0S2EzYTR4WG5RWXo1b3B5bS1RS2VTcEozbUJhel9RWGdqZnBWdWFwUlJfc3pfRUpWbFd0enV6VUdVVk5DM1RiSmxSSE93Sk84WFdqcmJPbjdmUFFaWHB1cFdhZVB5Rm5hMVJWQjFmZ1ZKMnlxTnQ2RElR?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -17704,7 +18077,8 @@
    "lang": "ja",
    "score": 12,
    "categories": [
-    "update"
+    "update",
+    "ranking"
    ],
    "deal": null,
    "platforms": [],
@@ -17717,6 +18091,12 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000002655.000007736.html"
+    },
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1LUxpdTFPbzdzcmZJdEx1cFA4V3BIS01SaDJRd0F3WjFDU0wwLXpQM0F0SGxKZ3kycTdsTEU5UWtPb1AwNGxPR3BfcW9jUFYwVFoyVTdoWTQ2RlZQR21vNg?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -18429,6 +18809,13 @@
      "name": "GAME Watch（Yahoo!ニュース）",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5veGo3RllMOHRkNGt5Zi1iLXZFcFoteUROY0pzcUp6OUJpbGtGdno0eDRpUkl5SzNXQUJ3bWZ4MDhSd1Zya1VpXy1YSEJZMTZlOGh2UHEtLWhHdzVUd3JCd28xSFFoVTdLd3drZkRCSWhMMXpVUGRWelcxRTkzaHc?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZmp4WkNSb1V1Wi03YjM5TVMydUdMTmloSDBNaEVJSV9SMWhpcHNuaWlhMUVxekRoUElBYlpiUlJTbGdXMi1LS25DRlNWSGlCd3NvQl8tN0ZrU1hMTXh2ZDZKd0c3SmNaY1ptTUh3?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
     }
@@ -20642,13 +21029,20 @@
     "xbox",
     "mobile"
    ],
-   "works": [],
+   "works": [
+    "イカってなんだっけ?"
+   ],
    "spoiler": false,
    "sources": [
     {
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2154941.html"
+    },
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000007823.000005875.html"
     }
    ]
   },
@@ -91767,7 +92161,7 @@
    ]
   },
   {
-   "title": "GTA 6 Has Sold Almost 10 Million Copies So Far, And PS5 Is Massively Outselling Xbox (Of Course)",
+   "title": "GTA 6 Passes 10 Million Copies Sold And $1 Billion In Revenue, And The Game Isn’t Even Out Yet",
    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the…",
    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
    "pubDate": "2026-11-04T14:15:31.000Z",
@@ -91778,16 +92172,13 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "en",
-   "score": 22,
+   "score": 8,
    "categories": [
     "new",
     "business"
    ],
    "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
+   "platforms": [],
    "works": [],
    "spoiler": false,
    "sources": [
@@ -192502,362 +192893,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/27/174136.html"
-    }
-   ]
-  },
-  {
-   "title": "『モンスターハンターアウトランダーズ』配信記念特集。回復薬グレートや2000ゼニーなどがもらえるシリアルコード付き！ アイソレシア島の探索に役立つ情報が満載【先出し週刊ファミ通】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiMEFCRU9BNnYzWTh6NGpuaGpJTGlMNEhDekpDeW4zZEJFMkxwcVVXVmR0dUxxRHFxdGJqRUxUM2dtbWpUZDZ6WWxYd005WmRDNnZjWHQ0bw?oc=5",
-   "pubDate": "2026-10-27T08:30:00.000Z",
-   "firstSeen": "2026-10-27T09:47:41.356Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "モンスターハンターアウトランダーズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiMEFCRU9BNnYzWTh6NGpuaGpJTGlMNEhDekpDeW4zZEJFMkxwcVVXVmR0dUxxRHFxdGJqRUxUM2dtbWpUZDZ6WWxYd005WmRDNnZjWHQ0bw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "タイトー、「アミューズメントエキスポ2026」で小学生向けお仕事体験「タイトーステーション キッズクルー体験」を開催",
-   "summary": "タイトーは、11月7日に開催されるイベント「アミューズメントエキスポ2026」のユーザーデーにて、小学生向けお仕事体験「タイトーステーション キッズクルー体験」を開催する。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2151599.html",
-   "pubDate": "2026-10-27T08:28:24.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2151599.html"
-    }
-   ]
-  },
-  {
-   "title": "クトゥルフ神話をモチーフにしたサバイバルホラー「冒涜の夜 Enigma of Fear」，日本語版をリリース。証拠を集めて禁足地の謎を解き明かそう",
-   "summary": "Dumativaは本日，同社が2024年11月に発売したPCゲーム「冒涜の夜EnigmaofFear」の日本語版をリリースした。本作は，クトゥルフ神話をモチーフにしたサバイバルホラーゲームだ。行方不明になった父親の足取りを追い，忘れ去られた禁足地を訪れる少女の過酷な冒険を描く。",
-   "link": "https://www.4gamer.net/games/053/G105338/20261027033/",
-   "pubDate": "2026-10-27T08:25:32.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/053/G105338/20261027033/"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『サイバーパンク：エッジランナーズ2』公式メモリアルブックが本日10月27日19時より受注販売。総勢122名のクリエイターによる描き下ろしイラストを掲載",
-   "summary": "本作の監督・五十嵐海氏をはじめ、前作『エッジランナーズ』監督・今石洋之氏や『SSSS.GRIDMAN』監督・雨宮哲氏なども参加",
-   "link": "https://news.denfaminicogamer.jp/news/2610272q",
-   "pubDate": "2026-10-27T08:24:26.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/changed-background-1793088361407.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サイバーパンク: エッジランナーズ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610272q"
-    }
-   ]
-  },
-  {
-   "title": "『Library Of Ruina』ストーリー長すぎでギネス認定―約113時間の濃厚バトルと物語。3作で約246時間、いや1,000時間以上ありそうな「プロムン沼」",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/27/174135.html",
-   "pubDate": "2026-10-27T08:24:22.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Library Of Ruina"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/27/174135.html"
-    }
-   ]
-  },
-  {
-   "title": "ホワイトハウス、今度は初代PS起動画面を模倣。懲りずに無料ゲームサイトに社会主義批判の神経衰弱やオバマ元大統領らがドラキュラなどになる『Temple Run』風ランゲーム公開",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/27/174134.html",
-   "pubDate": "2026-10-27T08:15:03.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Temple Run"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/27/174134.html"
-    }
-   ]
-  },
-  {
-   "title": "「Suicaのペンギン」数量限定グッズも！NewDays「Suicaのペンギンキャンペーン」開催中",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/27/189925.html",
-   "pubDate": "2026-10-27T08:15:03.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/27/189925.html"
-    }
-   ]
-  },
-  {
-   "title": "「ディフェンスゲームの暴君になった：LAST STAGE」，公式YouTubeチャンネルを開設。「G-STAR 2026」への試遊出展も予定",
-   "summary": "Webzenは2026年10月26日，新作「ディフェンスゲームの暴君になった：LASTSTAGE」の公式YouTubeチャンネルを開設し，ティザームービーを公開した。本作は，ウェブトゥーン「ディフェンスゲームの暴君になった」を原作とするタイトル。韓国のゲームショウ「G-STAR2…",
-   "link": "https://www.4gamer.net/games/032/G103244/20261027034/",
-   "pubDate": "2026-10-27T08:08:36.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "trailer",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/032/G103244/20261027034/"
-    }
-   ]
-  },
-  {
-   "title": "『餓狼CotW』Switch2版リリース記念でSNK本社ツアーに潜入！ 『東リベ』コラボや「背中を焼かれながら」月1でキャラ追加を続ける開発チームに迫るインタビューもお届け",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/27/174133.html",
-   "pubDate": "2026-10-27T08:00:03.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "review",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "餓狼CotW",
-    "東リベ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/27/174133.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/27/189933.html"
-    },
-    {
-     "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjUzM1cG82Y3dyNW1mRDI1TE1kbkxtNU9aTkxrQk05cGZsZWNYR2djRzJYMHNFaVZsY3ltcm9WakpJcF9SaWUwbFp2YTgxTDVZOGNJcUVPM2FFRGJoaTNCRVZLRmNULS1CU3k2VktVb1NHOXdLRTVFcFQzN1pEdGc?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ちいかわ」くりまんじゅう秋冬コレクション！「お酒の資格」「毛量くりまんじゅう」など全8種デザインが「Talking ODM」に追加",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/27/189924.html",
-   "pubDate": "2026-10-27T08:00:03.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/27/189924.html"
-    }
-   ]
-  },
-  {
-   "title": "特殊部隊員としてアノマリーに立ち向かう協力型ホラーFPS「Phantom Line」，無料で遊べるプロローグ版を配信開始",
-   "summary": "AntistaticStudiosは2026年10月26日，開発中の新作タイトル「PhantomLine」本編へとつながる導入チャプターを体験できるプロローグ版「PhantomLine:Prologue」を，SteamおよびEpicGamesStoreでリリースした。",
-   "link": "https://www.4gamer.net/games/807/G080790/20261027031/",
-   "pubDate": "2026-10-27T08:00:00.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/807/G080790/20261027031/"
-    }
-   ]
-  },
-  {
-   "title": "今夜22時から放送の「RADIO 4Gamer Tap（仮）」では，「ACE COMBAT 8: WINGS OF THEVE」を紹介します",
-   "summary": "2026年10月27日22：00より，声優の岡本信彦さんと，フリーライターのマフィア梶田さんがパーソナリティを務めるWeb番組「RADIO4GamerTap（仮）」第310回のライブ配信を行います。今回は「ACECOMBAT8:WINGSOFTHEVE」を紹介します。",
-   "link": "https://www.4gamer.net/games/969/G096901/20261027026/",
-   "pubDate": "2026-10-27T08:00:00.000Z",
-   "firstSeen": "2026-10-27T08:47:37.017Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/969/G096901/20261027026/"
     }
    ]
   }
