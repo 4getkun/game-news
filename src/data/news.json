@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-12T20:47:59.382Z",
+ "generatedAt": "2026-11-12T21:47:59.319Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1339,
+  "exact": 1341,
   "syndicated": 82,
   "similar": 385,
   "syndicatedTotal": 414,
-  "syndicatedLeft": 34
+  "syndicatedLeft": 33
  },
  "calendar": [
   {
@@ -6459,6 +6459,22 @@
   {
    "date": "2026-11-12",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "EGGコンソール ミスターバンプ PC-8801mkIISR",
+   "title": "＜News＞2026年11月12日『EGGコンソール ミスターバンプ PC-8801mkIISR』Nintendo Switch(TM) 向けにリリース。",
+   "link": "https://prtimes.jp/main/html/rd/p/000000534.000069696.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-12",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -9701,24 +9717,6 @@
   {
    "date": "2026-12-03",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "レイマン レジェンド リトールド",
-   "title": "12月3日（木）発売のPS5®『レイマン レジェンド リトールド』で、アストロボットコスチュームが登場！",
-   "link": "https://blog.ja.playstation.com/2026/10/28/20261028-rlr-pre-launch-update-o/",
-   "source": "PlayStation.Blog",
-   "sources": 2,
-   "categories": [
-    "new"
-   ],
-   "platforms": [
-    "ps5"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-03",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "フットボールマネージャー 27 Touch",
@@ -12754,8 +12752,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1645,
-   "accepted": 1247
+   "archived": 1647,
+   "accepted": 1251
   },
   {
    "id": "ps-blog",
@@ -12819,9 +12817,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 89,
-   "archived": 579,
-   "accepted": 532
+   "fetched": 90,
+   "archived": 580,
+   "accepted": 533
   },
   {
    "id": "gnews-switch2",
@@ -12852,8 +12850,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 77,
-   "archived": 450,
+   "fetched": 78,
+   "archived": 451,
    "accepted": 364
   },
   {
@@ -12864,8 +12862,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26886,
-   "accepted": 461
+   "archived": 26895,
+   "accepted": 462
   },
   {
    "id": "gematsu",
@@ -12875,8 +12873,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 354,
-   "accepted": 354
+   "archived": 355,
+   "accepted": 355
   },
   {
    "id": "ign",
@@ -12886,8 +12884,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1230,
-   "accepted": 1230
+   "archived": 1232,
+   "accepted": 1232
   },
   {
    "id": "eurogamer",
@@ -12908,8 +12906,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 316,
-   "accepted": 316
+   "archived": 317,
+   "accepted": 317
   },
   {
    "id": "nintendolife",
@@ -12936,6 +12934,316 @@
  ],
  "items": [
   {
+   "title": "バービー人形のゲームを17本詰め込んだ『Barbie Rewind』配信！ 限定ドール付きパッケージ版も発売",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/13/174818.html",
+   "pubDate": "2026-11-12T21:30:03.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Barbie Rewind"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/13/174818.html"
+    }
+   ]
+  },
+  {
+   "title": "「マクドナルド」ハッピーセットで「名探偵プリキュア！」が、いよいよ発売！変身アイテムや探偵道具などをモチーフにした玩具がずらり",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190859.html",
+   "pubDate": "2026-11-12T21:30:03.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190859.html"
+    }
+   ]
+  },
+  {
+   "title": "連載30周年記念の「遊☆戯☆王ジャンプ」が発売！応募者全員サービスには『OCG』特別パックも、新たな「バスター・ブレイダー」などを収録",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190858.html",
+   "pubDate": "2026-11-12T21:25:02.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "OCG"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190858.html"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Backward Compatibility on PC adds 21 titles",
+   "summary": "Xbox has added 25 original Xbox games to its July-announced Xbox Backward Compatibility on PC …",
+   "link": "https://www.gematsu.com/2026/11/xbox-backward-compatibility-on-pc-adds-21-titles",
+   "pubDate": "2026-11-12T21:15:06.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Xbox-PC-Backward-Compat_11-12-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/xbox-backward-compatibility-on-pc-adds-21-titles"
+    }
+   ]
+  },
+  {
+   "title": "Doom studio id Software confirms it's working on a new game",
+   "summary": "But, just as with the next Elder Scrolls game, \"it'll be some time\" before it's ready to share more.",
+   "link": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+   "pubDate": "2026-11-12T21:10:04.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/SV4EqmWFf4gJaw5ie5QeYJ-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/"
+    }
+   ]
+  },
+  {
+   "title": "「プーマ」×「たまごっち」コラボが発売！双方のロゴなどを組み合わせた特別なデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190857.html",
+   "pubDate": "2026-11-12T21:10:02.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190857.html"
+    }
+   ]
+  },
+  {
+   "title": "＜News＞2026年11月12日『EGGコンソール ミスターバンプ PC-8801mkIISR』Nintendo Switch(TM) 向けにリリース。",
+   "summary": "2026年11月12日、レトロゲーム関連の復刻・配信ビジネスなどを行なっている株式会社Ｄ４エンタープライズ（本社・東京都中央区 代表取締役・鈴木直人）は、同社が運営するレトロゲーム配信サービス「プロジェク...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000534.000069696.html",
+   "pubDate": "2026-11-12T21:10:02.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "EGGコンソール ミスターバンプ PC-8801mkIISR"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000534.000069696.html"
+    }
+   ]
+  },
+  {
+   "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
+   "summary": "Xbox CEO Asha Sharma has announced that id Software is officially working on a new game, believed to be another Doom title. This is happenin…",
+   "link": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/",
+   "pubDate": "2026-11-12T21:07:28.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/DoomGame.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/"
+    }
+   ]
+  },
+  {
+   "title": "オープンワールドで自由に共闘！PvE・TPS『シンダーシティ（CINDER CITY）』日本からも参加可能なアルファテストが12月4日開始―参加者募集中",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/13/174817.html",
+   "pubDate": "2026-11-12T21:00:03.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "シンダーシティ(CINDER CITY)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/13/174817.html"
+    }
+   ]
+  },
+  {
+   "title": "ロマンチックな可愛いリボン姿！「サンリオキャラクターズ」マイメロディたちの新作グッズ全6種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190856.html",
+   "pubDate": "2026-11-12T21:00:03.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190856.html"
+    }
+   ]
+  },
+  {
+   "title": "The 3.96lb Lenovo Yoga 7i 16\" 2-in-1 Convertible Laptop and Tablet Hybrid Drops to $650 for Black Friday",
+   "summary": "The ultimate ultra-portable laptop for students and professionals on the move.",
+   "link": "https://www.ign.com/articles/lenovo-yoga-7-convertible-laptop-deal-november-2026",
+   "pubDate": "2026-11-12T20:30:00.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/lenovoyoga7i-1794512590492.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/lenovo-yoga-7-convertible-laptop-deal-november-2026"
+    }
+   ]
+  },
+  {
    "title": "DOOM: The Dark Ages DLC ‘Revelations’ – ‘Slaughter Mode’ update launches November 16",
    "summary": "Publisher Bethesda Softworks and developer id Software will release a free update for DOOM: The …",
    "link": "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16",
@@ -12961,6 +13269,62 @@
      "name": "Gematsu",
      "sourceId": "gematsu",
      "link": "https://www.gematsu.com/2026/11/doom-the-dark-ages-dlc-revelations-slaughter-mode-update-launches-november-16"
+    }
+   ]
+  },
+  {
+   "title": "Valheim Is Getting a Comic Book Series, and It Looks Badass",
+   "summary": "Valheim is expanding beyond video games once again, this time with an official comic book series featuring an impressive lineup of talent fr…",
+   "link": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
+   "pubDate": "2026-11-12T20:20:41.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/12/valheim-comicbookcoverart1-1794514240051.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass"
+    }
+   ]
+  },
+  {
+   "title": "Fable Drops Four Minutes of New Gameplay",
+   "summary": "Four minutes of new Fable gameplay has been released by Xbox, showing off more of the game's combat.",
+   "link": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
+   "pubDate": "2026-11-12T20:16:03.000Z",
+   "firstSeen": "2026-11-12T21:47:37.203Z",
+   "image": "https://assets-prd.ignimgs.com/2026/01/23/fable-thefirstpreview-blogroll-1769205292794.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay"
     }
    ]
   },
@@ -15624,13 +15988,13 @@
   {
    "title": "Nintendo Switch 2公式対応の有線ゲームパッド「EVOTOP Axis Wired」が発売、価格は6,490円",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEYxYkduWWxDaDFCWkVYSGZNWmwyTUNSZktva2dkNWllR3VnOGdZd2ZfWHpocC0xeS1kSWVmUlBHdmZNUnY0RWJ0OEQ0ak92dHMwanpsQXpaY2F4cUVpS0h0MlBCWEU4blNVWWwtSUZOc0lpOUxyZmlVLXlnTkh2bVZCUDNOVV9L0gGOAUFVX3lxTE9NNHJsOUV5bThmSE5NWjNCMXlCdnVQbm5aUDA4TU1uUzFlalVTNXNzWkFwSlBZSVZJcTVqX1k1XzNHVDBjbV9iZmFTenpNOGhVaUxxY2RLQm11Y2ZFMlJIaEdkdkJfaXR3S0pSZmtFV3BldF9VNHdFTm1oU0F0dWt2QzZNSXBac2xjZHNNbFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EZ3o1MjdKY09iMmFVMjd1LXJJUWlrMURSNnNrNTRXTUJ3Y3Bxb2VhdktvX0VERElQSkhWUzVwc0RGZVJpcTUxUnU3dzVud09aMzVQRWM4aXYweGpnU01qRVkzWHo2bUJKVjg3WjdFVUp0Zw?oc=5",
    "pubDate": "2026-11-12T14:56:19.000Z",
    "firstSeen": "2026-11-12T15:47:37.539Z",
    "image": null,
-   "source": "ｄメニューニュース",
+   "source": "AKIBA PC Hotline!",
    "sourceId": "gnews-switch2",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 20,
@@ -15642,6 +16006,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "AKIBA PC Hotline!",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EZ3o1MjdKY09iMmFVMjd1LXJJUWlrMURSNnNrNTRXTUJ3Y3Bxb2VhdktvX0VERElQSkhWUzVwc0RGZVJpcTUxUnU3dzVud09aMzVQRWM4aXYweGpnU01qRVkzWHo2bUJKVjg3WjdFVUp0Zw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
     {
      "name": "ｄメニューニュース",
      "sourceId": "gnews-switch2",
@@ -191836,384 +192206,6 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
-   "summary": "Rockstar's GTA 6 is expected to be an enormous, unprecedented success when it releases on November 19, and new data only backs that up furth…",
-   "link": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/",
-   "pubDate": "2026-10-28T13:31:21.000Z",
-   "firstSeen": "2026-10-28T14:47:36.306Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_Duval_10_c786d9.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-breaks-a-record-and-its-not-even-out-yet/"
-    }
-   ]
-  },
-  {
-   "title": "『Conan Exiles Enhanced』コンソール版もPS5/XBOX Series向け無料アップグレード発表！新バージョンでクロスプレイにも完全対応を予定",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/28/174198.html",
-   "pubDate": "2026-10-28T13:30:03.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "Conan Exiles Enhanced"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/28/174198.html"
-    }
-   ]
-  },
-  {
-   "title": "Watch: Nintendo Indie World Showcase October 2026 - Live!",
-   "summary": "Indiedeed. Ah yes, just when you thought October couldn't get any busier! Nintendo's next Indie World Showcase is right around the corner, p…",
-   "link": "https://www.nintendolife.com/news/2026/10/watch-nintendo-indie-world-showcase-october-2026-live",
-   "pubDate": "2026-10-28T13:30:00.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://images.nintendolife.com/3ef03151b4b44/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/watch-nintendo-indie-world-showcase-october-2026-live"
-    }
-   ]
-  },
-  {
-   "title": "With The Division 3 Still in Active Development, Ubisoft Announces The Division Franchise Has Hit More Than 50 Million Players",
-   "summary": "Massive Entertainment has announced that The Division series has recorded over 50 million players across its games, just as the series hits…",
-   "link": "https://www.ign.com/articles/the-division-series-50-million-players",
-   "pubDate": "2026-10-28T13:29:29.000Z",
-   "firstSeen": "2026-10-28T14:47:36.306Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/28/ss-6a63daf99f4725057f6959b95ffa2f3adc6842c1-1920x1080-1793193337632.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-division-series-50-million-players"
-    }
-   ]
-  },
-  {
-   "title": "“群青団地”が“ゲームネタGP 2026”優勝！ ゲーマーの解像度が高いネタで共感と笑いを呼び、無尽蔵、ふりいくっ！との決戦を制す",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lRzhtV2dmVjYzckZlV0gyYzF0Slh5M2VRZnFaa0YwZTJILTVTbS1GYVFLM0h0UC1ZQUM4OXd4aTd6bmd3X3ZoejF1LTV2SHd4WlVTa3NpMA?oc=5",
-   "pubDate": "2026-10-28T13:26:00.000Z",
-   "firstSeen": "2026-10-28T14:47:36.306Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lRzhtV2dmVjYzckZlV0gyYzF0Slh5M2VRZnFaa0YwZTJILTVTbS1GYVFLM0h0UC1ZQUM4OXd4aTd6bmd3X3ZoejF1LTV2SHd4WlVTa3NpMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "As Skydance merges with Warner Bros. and Paramount, the company offers voluntary redundancy and mandates return to the office",
-   "summary": "Skydance - the newly formed corporate megazord combining Warner Bros and Paramount - has issued a full five-day return-to-office mandate to…",
-   "link": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts",
-   "pubDate": "2026-10-28T13:22:47.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://assetsio.gnwcdn.com/batman-arkham-spin-offs-gotham-knights.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts"
-    }
-   ]
-  },
-  {
-   "title": "Rayman Legends Retold reveals PS5-exclusive ASTRO BOT costume",
-   "summary": "The PlayStation 5 version of Rayman Legends Retold will feature an exclusive costume based on …",
-   "link": "https://www.gematsu.com/2026/10/rayman-legends-retold-reveals-ps5-exclusive-astro-bot-costume",
-   "pubDate": "2026-10-28T13:18:36.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Rayman-Legends-Retold-Astro-Bot-Costume_10-28-26.webp",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 11,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/rayman-legends-retold-reveals-ps5-exclusive-astro-bot-costume"
-    }
-   ]
-  },
-  {
-   "title": "Backrooms Director Reacts To Rumors That He’s Making A Portal Movie",
-   "summary": "Kane Parsons made one of 2026's most highly acclaimed and commercially successful movies in Backrooms, and everyone wants to know what he'll…",
-   "link": "https://www.gamespot.com/articles/backrooms-director-wears-a-valve-hoodie-to-interview-and-people-think-hes-teasing-a-portal-movie/",
-   "pubDate": "2026-10-28T13:15:27.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/portal2.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/backrooms-director-wears-a-valve-hoodie-to-interview-and-people-think-hes-teasing-a-portal-movie/"
-    }
-   ]
-  },
-  {
-   "title": "12月3日（木）発売のPS5®『レイマン レジェンド リトールド』で、アストロボットコスチュームが登場！",
-   "summary": "12月3日（木）にPS5®で発売するシリーズ最新作『レイマン レジェンド リトールド』で、アストロボットコスチュームが登場！ アストロの洗練された近未来的なデザインが、レイマンの世界に合わせてどうアレンジされたのかをチェック！",
-   "link": "https://blog.ja.playstation.com/2026/10/28/20261028-rlr-pre-launch-update-o/",
-   "pubDate": "2026-10-28T13:15:00.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://i.ytimg.com/vi/QGG8OnznPe8/hqdefault.jpg",
-   "source": "PlayStation.Blog",
-   "sourceId": "ps-blog",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "レイマン レジェンド リトールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PlayStation.Blog",
-     "sourceId": "ps-blog",
-     "link": "https://blog.ja.playstation.com/2026/10/28/20261028-rlr-pre-launch-update-o/"
-    },
-    {
-     "name": "PlayStation.Blog 日本語",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUElTSlZLMHduc2hjRmRYLUEzOEVFTFNXWUEtenJFRTdPbFVqZDczbDNpUjNZeVhlRDNNaThyTXM0ejlTUE43d25MRWRrLUo2VFRCVHZycTBTZTA2Rm9hOWVUc0NvQy1tNUdheUhuQm9RYjc1VEJYQ0NpMnFGYTNoQTJn?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "How Does LEGO PlayStation Compare to the Actual Console?",
-   "summary": "See LEGO PlayStation and Sony's original console side-by-side to see how the LEGO version stacks up to the real thing.",
-   "link": "https://www.ign.com/articles/how-does-lego-playstation-compare-to-the-actual-console",
-   "pubDate": "2026-10-28T13:11:19.000Z",
-   "firstSeen": "2026-10-28T14:47:36.306Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/27/img-3928-copy-1793127606698.jpeg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/how-does-lego-playstation-compare-to-the-actual-console"
-    }
-   ]
-  },
-  {
-   "title": "【最大4人】奇妙な巨大卵をひたすら割り続けるゲームが登場しさっそく盛況。掘り進めるほど反応する卵の中身を突き止めろ―採れたて！本日のSteam注目ゲーム12選【2026年10月28日】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/28/174197.html",
-   "pubDate": "2026-10-28T13:00:03.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/28/174197.html"
-    }
-   ]
-  },
-  {
-   "title": "「バトルオペレーション」シリーズ最新作『機動戦士ガンダム バトルオペレーション３』情報解禁！",
-   "summary": "「バトルオペレーション」シリーズ最新作『機動戦士ガンダム バトルオペレーション３』情報解禁！ モビルスーツと歩兵が入り混じる重厚感の溢れる戦場がよりパワーアップ！",
-   "link": "https://blog.ja.playstation.com/2026/10/28/20261028-msg-bo3-title-announcement-o/",
-   "pubDate": "2026-10-28T13:00:00.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://i.ytimg.com/vi/29A0iLqKQlY/hqdefault.jpg",
-   "source": "PlayStation.Blog",
-   "sourceId": "ps-blog",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "機動戦士ガンダム バトルオペレーション3"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PlayStation.Blog",
-     "sourceId": "ps-blog",
-     "link": "https://blog.ja.playstation.com/2026/10/28/20261028-msg-bo3-title-announcement-o/"
-    }
-   ]
-  },
-  {
-   "title": "\"Morale Has Been Terrible\" - EA Workers Criticise Publisher's Cost-Cutting After Latest Layoffs",
-   "summary": "The mass effect of mass affects. Last week, legendary RPG studio BioWare announced that it was shutting up shop as part of EA's latest round…",
-   "link": "https://www.nintendolife.com/news/2026/10/morale-has-been-terrible-ea-workers-criticise-publishers-cost-cutting-after-latest-layoffs",
-   "pubDate": "2026-10-28T13:00:00.000Z",
-   "firstSeen": "2026-10-28T13:34:47.208Z",
-   "image": "https://images.nintendolife.com/c50b7451ebbac/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/morale-has-been-terrible-ea-workers-criticise-publishers-cost-cutting-after-latest-layoffs"
     }
    ]
   }
