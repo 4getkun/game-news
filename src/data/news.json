@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-13T10:47:55.264Z",
+ "generatedAt": "2026-11-13T11:52:25.111Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1359,
+  "exact": 1357,
   "syndicated": 84,
   "similar": 378,
   "syndicatedTotal": 412,
@@ -6206,6 +6206,25 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "ただ祈って朝ごはんを作る。手描きアニメのほっこりとしたADV「朝餉（ASAGE）」，本日発売。140円で買える",
+   "link": "https://www.4gamer.net/games/058/G105835/20261113044/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release",
+    "review"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "ピアスゲーム",
    "title": "リズムアクション「ピアスゲーム」，Steamで本日発売。ビートに合わせてパネルを順番に割り，失敗したら幼馴染の耳にピアスの穴を開ける",
    "link": "https://www.4gamer.net/games/058/G105831/20261113039/",
@@ -8000,6 +8019,20 @@
   {
    "date": "2026-11-21",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "アベイルから「ハイキュー!!」あったかもこもこなアイテムが11月21日発売！ユニフォームモチーフのニットバックほか、ブランケットやソックスなど",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190921.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-21",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "GEO BLACK FRIDAY SALE 2026",
@@ -8684,6 +8717,22 @@
    "source": "AV Watch",
    "sources": 2,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "update",
+   "label": "アップデート",
+   "work": "ArcheAge Chronicles",
+   "title": "買い切り型MMOアクション『ArcheAge Chronicles』大型コンテンツ追加アップデート12月実装！新レイドボスと女戦士登場",
+   "link": "http://www.gamespark.jp/article/2026/11/13/174847.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -11464,25 +11513,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-03-12",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": null,
-   "title": "「在りし日のわたし達へ」，約2時間遊べる体験版を本日配信。2027年3月12日に無料早期アクセス開始。結末の一枚絵を先行公開する企画も",
-   "link": "https://www.4gamer.net/games/794/G079405/20261028048/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "platforms": [
-    "pc"
-   ],
-   "spoiler": false
-  },
-  {
    "date": "2027-03-13",
    "precision": "day",
    "verb": "release",
@@ -11992,7 +12022,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1017,
+   "archived": 1018,
    "accepted": 990
   },
   {
@@ -12003,8 +12033,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 236,
-   "accepted": 230
+   "archived": 235,
+   "accepted": 229
   },
   {
    "id": "automaton",
@@ -12025,8 +12055,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1241,
-   "accepted": 1116
+   "archived": 1237,
+   "accepted": 1113
   },
   {
    "id": "gamewatch",
@@ -12047,7 +12077,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1249,
+   "archived": 1250,
    "accepted": 1232
   },
   {
@@ -12058,8 +12088,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1662,
-   "accepted": 1265
+   "archived": 1664,
+   "accepted": 1266
   },
   {
    "id": "ps-blog",
@@ -12091,29 +12121,29 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 140,
-   "accepted": 95
+   "archived": 138,
+   "accepted": 93
   },
   {
    "id": "gnews-famitsu",
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 670,
-   "accepted": 539
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 668,
+   "accepted": 537
   },
   {
    "id": "gnews-dengeki",
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 699,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 697,
    "accepted": 414
   },
   {
@@ -12121,9 +12151,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 90,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 592,
    "accepted": 546
   },
@@ -12132,33 +12162,33 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 1539,
-   "accepted": 1347
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 1537,
+   "accepted": 1345
   },
   {
    "id": "gnews-ps5",
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 739,
-   "accepted": 663
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 738,
+   "accepted": 662
   },
   {
    "id": "gnews-update",
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 84,
-   "archived": 458,
-   "accepted": 371
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 457,
+   "accepted": 370
   },
   {
    "id": "prtimes",
@@ -12168,7 +12198,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26873,
+   "archived": 26901,
    "accepted": 451
   },
   {
@@ -12190,8 +12220,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1233,
-   "accepted": 1233
+   "archived": 1229,
+   "accepted": 1229
   },
   {
    "id": "eurogamer",
@@ -12201,8 +12231,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 302,
-   "accepted": 302
+   "archived": 301,
+   "accepted": 301
   },
   {
    "id": "gamespot",
@@ -12212,8 +12242,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 318,
-   "accepted": 318
+   "archived": 315,
+   "accepted": 315
   },
   {
    "id": "nintendolife",
@@ -12234,11 +12264,534 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 614,
-   "accepted": 614
+   "archived": 613,
+   "accepted": 613
   }
  ],
  "items": [
+  {
+   "title": "2019年公開の長編ホラーノベルの商用リメイク版「祀月夭花〜四月八日〜」，第1弾PVが公開。桜が舞う4月，町で真っ赤な死体が発見される",
+   "summary": "同人ゲームサークルNew++は本日，PC向けタイトル「祀月夭花〜四月八日〜」の第1弾PVを公開した。本作は，2019年に無料公開された長編ホラーノベル「死月妖花〜四月八日〜」をもとに，原作者のさつき氏が手掛ける商用リメイク版だ。",
+   "link": "https://www.4gamer.net/games/058/G105836/20261113047/",
+   "pubDate": "2026-11-13T11:43:43.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "trailer",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "祀月夭花〜四月八日〜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/058/G105836/20261113047/"
+    }
+   ]
+  },
+  {
+   "title": "「アズールプロミリア」，公式配信を11月20日20：00より実施。「特別番組」と「公式生放送」の2本立て",
+   "summary": "Yostarは本日（2026年11月13日），ManjuuGamesと共同パブリッシングする新作タイトル「アズールプロミリア」の公式配信を11月20日20：00より実施すると発表した。今回は「特別番組」と「公式生放送」の2本立てとなる。",
+   "link": "https://www.4gamer.net/games/784/G078489/20261113051/",
+   "pubDate": "2026-11-13T11:38:35.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/784/G078489/20261113051/"
+    }
+   ]
+  },
+  {
+   "title": "Ex-Nvidia CEO Jensen Huang allegedly had an 'intimate relationship' with a second Nvidia employee, according to reports",
+   "summary": "The report is based on information from \"two people familiar with the matter.\"",
+   "link": "https://www.pcgamer.com/hardware/ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relationship-with-a-second-nvidia-employee-according-to-reports/",
+   "pubDate": "2026-11-13T11:33:19.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/Gv633MiZGGDKePyr3xCf5i-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relationship-with-a-second-nvidia-employee-according-to-reports/"
+    }
+   ]
+  },
+  {
+   "title": "'I stand by Jensen': Nvidia employees come out in support of Huang after resignation",
+   "summary": "The now ex-CEO co-founded the company over three decades ago.",
+   "link": "https://www.pcgamer.com/hardware/i-stand-by-jensen-nvidia-employees-come-out-in-support-of-huang-after-resignation/",
+   "pubDate": "2026-11-13T11:30:35.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/arypsdXmTz7vUuxPxsFcRZ-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "I stand by Jensen"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/i-stand-by-jensen-nvidia-employees-come-out-in-support-of-huang-after-resignation/"
+    }
+   ]
+  },
+  {
+   "title": "買い切り型MMOアクション『ArcheAge Chronicles』大型コンテンツ追加アップデート12月実装！新レイドボスと女戦士登場",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/13/174847.html",
+   "pubDate": "2026-11-13T11:30:03.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ArcheAge Chronicles"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/13/174847.html"
+    }
+   ]
+  },
+  {
+   "title": "アベイルから「ハイキュー!!」あったかもこもこなアイテムが11月21日発売！ユニフォームモチーフのニットバックほか、ブランケットやソックスなど",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190921.html",
+   "pubDate": "2026-11-13T11:30:03.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190921.html"
+    }
+   ]
+  },
+  {
+   "title": "小惑星から資源を採掘し，宇宙空間に工場を建設する「Astrofactories」，Steamストアページを公開。貨物ドローンで生産を自動化",
+   "summary": "SpaceDronesは，宇宙サバイバル・工場建設ゲーム「Astrofactories」のSteamストアページを公開した。小惑星で資源を採掘し，酸素や電力を管理しながら宇宙空間に拠点を建設する作品だ。貨物ドローンによる資材輸送の自動化や，宇宙船での探索も楽しめる。あわせて，ゲー…",
+   "link": "https://www.4gamer.net/games/058/G105837/20261113048/",
+   "pubDate": "2026-11-13T11:20:27.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/058/G105837/20261113048/"
+    }
+   ]
+  },
+  {
+   "title": "リブート版「Fable」，不気味な森“Deepwood”でのクエストを収録したゲームプレイ映像を公開",
+   "summary": "XBOXGameStudiosは本日（2026年11月13日），PlaygroundGamesが開発中の新作タイトル「Fable」の最新ゲームプレイ映像を公開した。公開された動画では，人々を悩ませる奇妙な魔法の原因を調査するため，Deepwoodと呼ばれる森の奥深くへと立ち入るシ…",
+   "link": "https://www.4gamer.net/games/520/G052094/20261113049/",
+   "pubDate": "2026-11-13T11:20:25.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "trailer",
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Fable"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/520/G052094/20261113049/"
+    }
+   ]
+  },
+  {
+   "title": "【週末無料】ドワーフ採掘ローグライトFPS『Deep Rock Galactic: Rogue Core』フリーウィークエンド開催中！賛否両論ながらアップデートで良い方向に進んでいるとアピール",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/13/174846.html",
+   "pubDate": "2026-11-13T11:15:03.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Deep Rock Galactic: Rogue Core"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/13/174846.html"
+    }
+   ]
+  },
+  {
+   "title": "100人規模で邪神に挑め。リアル脱出ゲーム「混沌這い寄る教団からの脱出」先行体験レポート。アンバサダー・佐野史郎氏とディズム氏のコメントも",
+   "summary": "リアル脱出ゲームを企画制作するSCRAPの最新作「混沌這い寄る教団からの脱出」の先行体験会が2026年10月28日，新宿の東京ミステリーサーカスで開催された。アンバサダーとして佐野史郎氏とディズム氏も応援に駆けつけたこのイベントをレポートする。",
+   "link": "https://www.4gamer.net/games/236/G023687/20261111001/",
+   "pubDate": "2026-11-13T11:11:10.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "混沌這い寄る教団からの脱出"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/236/G023687/20261111001/"
+    }
+   ]
+  },
+  {
+   "title": "「P5X」，Ver.4.13アップデートを実施。メインストーリー第4章が完結",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/693/G069335/20261113050/",
+   "pubDate": "2026-11-13T11:11:10.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/693/G069335/20261113050/"
+    }
+   ]
+  },
+  {
+   "title": "中止となった『ウマ娘』ロサンゼルス公演、最大70万円もの“渡航費”返金が発表ー渡航せずキャンセルの場合は上限なく全額返金へ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190920.html",
+   "pubDate": "2026-11-13T11:10:03.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウマ娘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190920.html"
+    }
+   ]
+  },
+  {
+   "title": "After Giving Away Thousands of Dollars in Cosmetics, Fortnite is Teasing a Big Reveal For Captain X, Its Mysterious Masked Treasure Man — With Fan Guesses Ranging From Mr Beast to Obama",
+   "summary": "Fortnite is teasing a big reveal for its upcoming December 5 live event, which will reveal the identity of mysterious new character Captain…",
+   "link": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama",
+   "pubDate": "2026-11-13T11:06:11.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/13/images-1-1794566948475.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama"
+    }
+   ]
+  },
+  {
+   "title": "ゲーム業界でレイオフされた人、「過半数がいまだ失業中」との大規模調査。特に欧米は再就職への道も険しいままか",
+   "summary": "「State of the Game Industry」2026年11月版によると、過去2年以内にレイオフされた後、新たな職を見つけられていないという回答者が半数を超えたと報告されている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261113-479193/",
+   "pubDate": "2026-11-13T11:01:31.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/header-3.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "business",
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261113-479193/"
+    }
+   ]
+  },
+  {
+   "title": "Fable Is Looking A Lot Darker Than We Expected",
+   "summary": "Amid a modest 25th-anniversary celebration, Xbox dropped a new preview of the Fable reboot. This snippet — which runs for under four minutes…",
+   "link": "https://www.gamespot.com/articles/fable-is-looking-a-lot-darker-than-we-expected/",
+   "pubDate": "2026-11-13T11:00:58.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Fable-Red_bba8eb.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/fable-is-looking-a-lot-darker-than-we-expected/"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】扇子を掲げた台湾美女の脇チラにドキッ！赤髪と黒レースが彩る『アズレン』ヒンデンブルクの華やかなチャイナドレス姿【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190919.html",
+   "pubDate": "2026-11-13T11:00:04.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アズレン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190919.html"
+    }
+   ]
+  },
+  {
+   "title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)",
+   "summary": "Including three tasty discounts! It's time for North America's Nintendo Download update, and our Switch eShop round-up for November 12th (ye…",
+   "link": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
+   "pubDate": "2026-11-13T11:00:00.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": "https://images.nintendolife.com/b3d44cb872233/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12"
+    }
+   ]
+  },
+  {
+   "title": "ただ祈って朝ごはんを作る。手描きアニメのほっこりとしたADV「朝餉（ASAGE）」，本日発売。140円で買える",
+   "summary": "個人ゲーム開発者のさとうちひろ氏は本日（2026年11月13日），PCゲーム「朝餉（ASAGE）」をSteamで発売した。本作は，青緑色の森を舞台に朝ごはんを作る短編アドベンチャーゲームだ。",
+   "link": "https://www.4gamer.net/games/058/G105835/20261113044/",
+   "pubDate": "2026-11-13T10:56:59.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/058/G105835/20261113044/"
+    }
+   ]
+  },
   {
    "title": "「メインヒロインたちだけでなく、ストーリー上、死の運命を避けられないようなNPCたちにまで救いを求める声が届いた」美少女×クトゥルフ経営シム『夜明けの笛吹き者』【開発者インタビュー】",
    "summary": "",
@@ -12298,6 +12851,34 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/058/G105831/20261113039/"
+    }
+   ]
+  },
+  {
+   "title": "グラニフ×「ジョジョ」コラボグッズが追加予約！5部より護衛チームのスタンド集合Tシャツ、6部の刑務所マップ柄スウェットなど豊富なデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/13/190917.html",
+   "pubDate": "2026-11-13T10:40:03.000Z",
+   "firstSeen": "2026-11-13T11:52:09.328Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/13/190917.html"
     }
    ]
   },
@@ -190922,525 +191503,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/kikakuthetower/261029m"
-    }
-   ]
-  },
-  {
-   "title": "インディーゲームの祭典「BitSummit」2027年のテーマは「High / 新たな高みへ」。HISが初の公式トラベルパートナーになり快適な旅ができそう",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174217.html",
-   "pubDate": "2026-10-29T02:00:03.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174217.html"
-    }
-   ]
-  },
-  {
-   "title": "「モンスターハンターアウトランダーズ」1ボタンで武器種の魅力を引き出す，野心作のモバイル向けモンハン［プレイレポ］",
-   "summary": "「モンスターハンターアウトランダーズ」のプレイレポートをお届けしよう。2026年10月29日に配信を開始した本作は，快適なタッチパネル操作で，オープンフィールド探索とモンスター狩猟を存分に楽しめる，新たなモバイル向けモンハンだ。",
-   "link": "https://www.4gamer.net/games/667/G066758/20261022012/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/667/G066758/20261022012/"
-    },
-    {
-     "name": "4Gamer.net",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wOHpKNkQ1bW5XRUU3Q0Z6N3RkTFYxX1lROTF0ZE9sdGJBbE45ZzU4SUN1VjN4Q0NTdERZMkxRLVZkaDk5YlhZbGhLV0VnS2lPb2lDUjFzcHpIb241akNiWmtCOA?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "「在りし日のわたし達へ」，約2時間遊べる体験版を本日配信。2027年3月12日に無料早期アクセス開始。結末の一枚絵を先行公開する企画も",
-   "summary": "StudioTo:NEMOは本日，ジュブナイルアドベンチャー「在りし日のわたし達へ」の体験版をPC（Steam）向けに配信開始した。体験版では，序章から第1章まで約2時間の物語を楽しめる。あわせて，2027年3月12日に無料早期アクセスを開始することを発表し，最新キービジュアルも…",
-   "link": "https://www.4gamer.net/games/794/G079405/20261028048/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/794/G079405/20261028048/"
-    }
-   ]
-  },
-  {
-   "title": "男色ディーノのゲイムヒヒョー ゼロ：第913回「私，応援したいんですよ」",
-   "summary": "今週，ついに「ファイアーエムブレム万紫千紅」の第1部を終えたというディーノ選手。そこで，同作の良いところでもあり，罪深いところでもあることを取り上げています。結果，時間がいくらあっても足りないのだとか。",
-   "link": "https://www.4gamer.net/games/945/G094545/20261027030/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/945/G094545/20261027030/"
-    }
-   ]
-  },
-  {
-   "title": "「カプコンTVチャレンジ!!」10月29日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』序盤体験版をNintendo Switch 2 版でプレイ",
-   "summary": "出演者にカプコンの様々なタイトルのゲーム実況にチャレンジしてもらう配信番組「カプコンTVチャレンジ!!」。王道ファンタジーの世界で自由な冒険を楽しむ『ドラゴンズドグマ 2』に新たな物語や体験が加わった『...",
-   "link": "https://prtimes.jp/main/html/rd/p/000006120.000013450.html",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 40,
-   "categories": [
-    "release",
-    "demo",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "ドラゴンズドグマ 2:ダークアリズン",
-    "モンスターハンターワイルズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000006120.000013450.html"
-    }
-   ]
-  },
-  {
-   "title": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
-   "summary": "Help Soul find a new heart and get vengeance.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/sH2UDv57quh8oTfZBzqjN5-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/"
-    }
-   ]
-  },
-  {
-   "title": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero",
-   "summary": "Open the gate and explore this extra region.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/QYbhxRciTo6KmPg3rnJWdP-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/"
-    }
-   ]
-  },
-  {
-   "title": "How to upgrade medicine in Phantom Blade Zero",
-   "summary": "Buff your healing items with healer's memories.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/RyvXsvh6fYW3iFBENnyWpm-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/"
-    }
-   ]
-  },
-  {
-   "title": "How to enter the Order's underground tavern in Phantom Blade Zero",
-   "summary": "Find the secret entrance during the Town of Death quest.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-enter-orders-underground-tavern/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/cwmg7gKguGg4aaq8sH6bRV-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-enter-orders-underground-tavern/"
-    }
-   ]
-  },
-  {
-   "title": "How to fix the Illusory Pipa in Phantom Blade Zero",
-   "summary": "Repair The Chord's instrument to dispel the barrier.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-illusory-pipa-walkthrough/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/tyTyHj8JqhYo2MJHvUPcyb-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-illusory-pipa-walkthrough/"
-    }
-   ]
-  },
-  {
-   "title": "All Quickhand's Request treasure locations in Phantom Blade Zero",
-   "summary": "Plus where to find Zhang's hideouts for The Wily Hare's Three Dens quest.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/m6iEeygEB28Tgbu3BzNo8J-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/"
-    }
-   ]
-  },
-  {
-   "title": "How to complete Four Fierce Axes in Phantom Blade Zero",
-   "summary": "Gather evidence of the conspiracy against the Four Axes.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthrough/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/55ZrkDzWkYPmUK5ghtQZh-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthrough/"
-    }
-   ]
-  },
-  {
-   "title": "How to beat the Aberrant Three-Faced Puppet in Phantom Blade Zero",
-   "summary": "Defeat this tricky boss and complete the second part of the Triple-Threat quest.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/UrqQhh73ADzwnUW9GdzXj6-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat/"
-    }
-   ]
-  },
-  {
-   "title": "How to enter the Crimson Manor in Phantom Blade Zero",
-   "summary": "Find a way into this mysterious red house below the Sha-Chi tower.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-crimson-manor-enter/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/CgpRDoZvX8oeqonXSjQUNb-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-crimson-manor-enter/"
-    }
-   ]
-  },
-  {
-   "title": "All Honor Among Thieves answers in Phantom Blade Zero",
-   "summary": "Describe the brother's letter to The Gentle Thief.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-honor-among-thieves-answers-gentle-thief-questions/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/rNgzBpsp66EgNgxdQbG75o-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-honor-among-thieves-answers-gentle-thief-questions/"
-    }
-   ]
-  },
-  {
-   "title": "Phantom Blade Zero's best weapon might just be the first one you get",
-   "summary": "Bleed's back on the menu, boys.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/7rVNNg3tqanb9juZ9aueEQ-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/"
-    }
-   ]
-  },
-  {
-   "title": "How to complete Whence the Weeping in Phantom Blade Zero",
-   "summary": "Find the source of the weeping and discover its mysteries.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/mQhWzkGDcwYPgBFAaGomZW-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/"
-    }
-   ]
-  },
-  {
-   "title": "Where to find the Backstreet Courtyard Key in Phantom Blade Zero",
-   "summary": "Open the locked door in the backstreets of Pangzhen.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-backstreet-courtyard-key-location/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/f3tcWcvMjhYcSi5iYTCwqV-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-backstreet-courtyard-key-location/"
-    }
-   ]
-  },
-  {
-   "title": "How to beat Hua, Deadly Betrothed in Phantom Blade Zero",
-   "summary": "Defeat this phantom bride below the Valley Sha-Chi tower.",
-   "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-hua-boss-guide/",
-   "pubDate": "2026-10-29T02:00:00.000Z",
-   "firstSeen": "2026-10-29T02:47:33.135Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/uE8cerkqwJf6xpcFFQw73B-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-hua-boss-guide/"
     }
    ]
   }
