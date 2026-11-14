@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T20:52:27.343Z",
+ "generatedAt": "2026-11-14T21:47:57.510Z",
  "count": 6000,
  "dedupe": {
   "exact": 1333,
@@ -7641,20 +7641,6 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "日本バスシミュレーター",
-   "title": "『日本バスシミュレーター』日本っぽい街で路線をつくって運転、バス会社を経営するシミュレーション【11/26発売】",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV1BKNklPaUotTDhhbFFyTEh3MHpaLWZWMXdtZ1JuVnNFZXRIUDRSQWFwVXdvR0RWR0Zlc0ZGTXgzZjlCRUJhamNzUTFENl95cFpTVGxpWQ?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-26",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
    "work": "スプラトゥーン レイダース",
    "title": "『スプラトゥーン レイダース』完全攻略本が11月26日発売！ ブキやシャケの公式データを掲載",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tWXdMVXlBQWlBbXc2MTRTZWdFc29abHBMaEYyUXA5UU8yYXNGdllhODB1TFY5YWI4anE0cF9uLXRVMDcxQzhUbWFzR19hMnBHRVY5T201UmF3ZVRvX092RQ?oc=5",
@@ -11292,8 +11278,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1191,
-   "accepted": 1066
+   "archived": 1193,
+   "accepted": 1067
   },
   {
    "id": "gamewatch",
@@ -11314,8 +11300,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1213,
-   "accepted": 1196
+   "archived": 1211,
+   "accepted": 1194
   },
   {
    "id": "inside-games",
@@ -11325,8 +11311,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1628,
-   "accepted": 1239
+   "archived": 1631,
+   "accepted": 1240
   },
   {
    "id": "ps-blog",
@@ -11366,9 +11352,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
    "archived": 651,
    "accepted": 518
   },
@@ -11377,10 +11363,10 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 672,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 673,
    "accepted": 387
   },
   {
@@ -11388,42 +11374,42 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 584,
-   "accepted": 537
+   "ok": true,
+   "error": null,
+   "fetched": 96,
+   "archived": 583,
+   "accepted": 536
   },
   {
    "id": "gnews-switch2",
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 1484,
-   "accepted": 1300
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 1483,
+   "accepted": 1298
   },
   {
    "id": "gnews-ps5",
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 738,
-   "accepted": 663
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 740,
+   "accepted": 665
   },
   {
    "id": "gnews-update",
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 87,
    "archived": 449,
    "accepted": 360
   },
@@ -11435,8 +11421,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25692,
-   "accepted": 433
+   "archived": 25657,
+   "accepted": 431
   },
   {
    "id": "gematsu",
@@ -11457,8 +11443,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1178,
-   "accepted": 1178
+   "archived": 1176,
+   "accepted": 1176
   },
   {
    "id": "eurogamer",
@@ -11501,11 +11487,65 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 590,
-   "accepted": 590
+   "archived": 588,
+   "accepted": 588
   }
  ],
  "items": [
+  {
+   "title": "人気のみずポケモンがズラリ！「スイングコレクション」にポッチャマやシャワーズなど全5種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190966.html",
+   "pubDate": "2026-11-14T21:30:03.000Z",
+   "firstSeen": "2026-11-14T21:47:36.445Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/15/190966.html"
+    }
+   ]
+  },
+  {
+   "title": "『ブレードランナー』の「AAA級ゲーム」が制作協議中と海外報道。権利元のCEOが海外メディアに明かす",
+   "summary": "『ブレードランナー』世界と“インタラクト”できるようにすることの重要性が強調されたという。11月25日からはドラマシリーズ『ブレードランナー2099』がアマプラで独占配信",
+   "link": "https://news.denfaminicogamer.jp/news/261115d",
+   "pubDate": "2026-11-14T20:54:05.000Z",
+   "firstSeen": "2026-11-14T21:47:36.445Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/SID0051352-1024x576.webp",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ブレードランナー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261115d"
+    }
+   ]
+  },
   {
    "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
    "summary": "Testing comedy games comes with a unique challenge.",
@@ -11841,7 +11881,7 @@
    ]
   },
   {
-   "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\"",
+   "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
    "summary": "\"On one hand, I want to pay off those expectations. On the other hand, I want to exceed them.\"",
    "link": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
    "pubDate": "2026-11-14T15:00:00.000Z",
@@ -12880,7 +12920,7 @@
    "firstSeen": "2026-11-14T08:48:16.256Z",
    "image": null,
    "source": "AppBank",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12899,9 +12939,9 @@
    "sources": [
     {
      "name": "AppBank",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sTHByV3RYN0lpTDJGemQtWHNiVW1CUllDMWZsVmd3Z3FHSVZ4NnRpMlA0V242dm1vTW1yS0VOVlczcWF0U0pEV3FqQnVMQnhDZzFFdkMwMzNiZE9sSV8wVw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「PS5 発売」"
     },
     {
      "name": "ニコニコニュース",
@@ -15547,7 +15587,7 @@
    "firstSeen": "2026-11-14T00:47:36.792Z",
    "image": null,
    "source": "Gamer",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15563,9 +15603,9 @@
    "sources": [
     {
      "name": "Gamer",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tUDdHU19QOWhtUUZJemlYM25oWTNuMk9VblZzcy1DcEd2cFdmb1lhcXp6ejZoMDNNbHFnQnFYOHFYaDI0TkVsLV9TMm5sU3RJQ2JfVg?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「PS5 発売」"
     },
     {
      "name": "千葉テレビ放送",
@@ -38175,35 +38215,6 @@
    ]
   },
   {
-   "title": "『日本バスシミュレーター』日本っぽい街で路線をつくって運転、バス会社を経営するシミュレーション【11/26発売】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV1BKNklPaUotTDhhbFFyTEh3MHpaLWZWMXdtZ1JuVnNFZXRIUDRSQWFwVXdvR0RWR0Zlc0ZGTXgzZjlCRUJhamNzUTFENl95cFpTVGxpWQ?oc=5",
-   "pubDate": "2026-11-12T08:00:00.000Z",
-   "firstSeen": "2026-11-12T08:47:33.367Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "日本バスシミュレーター"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV1BKNklPaUotTDhhbFFyTEh3MHpaLWZWMXdtZ1JuVnNFZXRIUDRSQWFwVXdvR0RWR0Zlc0ZGTXgzZjlCRUJhamNzUTFENl95cFpTVGxpWQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
    "title": "『崩壊：スターレイル』星神★アッハは“人間性を極めた先に神になった”存在。二相楽園編チーフデザイナーによる特別インタビューの一部を先行公開",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QYml2QU0wTTdHSm81alpsMmliMlFnUUw5aDRPMW5ndTh4STczd2c3QWdDZnhMQ0dwc3RkNzluVk9SSmY4cWtFdUFhQXBLVUJpd1h3UGtHbw?oc=5",
@@ -48376,7 +48387,7 @@
    "firstSeen": "2026-11-11T13:47:39.024Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -48391,9 +48402,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaN2diVURfVzI5ZkpJeXRYU3ZzTVg1cnQ5WEdBd2tiYWZKeGt5cVFmb3A5RERjbGR4SjRvY0hPOXFJWmtwZ2IzX0VPQ1JNLTM5SHBPaFJkNA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -190488,32 +190499,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/29/174253.html"
-    }
-   ]
-  },
-  {
-   "title": "「地獄降輪」初のキャスト出演番組のレポートを公開。番組限定の生アフレコも披露",
-   "summary": "別府市公営事業局は本日（2026年10月29日），IPプロジェクト「地獄降輪（じごくこうりん）」について，10月14日に実施された生放送「俺たち地獄、降輪しました〜ごくりん放送局〜」のレポートを公開した。",
-   "link": "https://www.4gamer.net/games/010/G101096/20261029024/",
-   "pubDate": "2026-10-29T12:00:00.000Z",
-   "firstSeen": "2026-10-29T12:47:35.722Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/010/G101096/20261029024/"
     }
    ]
   }
