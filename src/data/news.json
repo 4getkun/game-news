@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-14T14:33:20.079Z",
+ "generatedAt": "2026-11-14T14:47:49.315Z",
  "count": 6000,
  "dedupe": {
   "exact": 1338,
   "syndicated": 82,
-  "similar": 363,
+  "similar": 364,
   "syndicatedTotal": 422,
   "syndicatedLeft": 29
  },
@@ -7641,6 +7641,20 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "日本バスシミュレーター",
+   "title": "『日本バスシミュレーター』日本っぽい街で路線をつくって運転、バス会社を経営するシミュレーション【11/26発売】",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV1BKNklPaUotTDhhbFFyTEh3MHpaLWZWMXdtZ1JuVnNFZXRIUDRSQWFwVXdvR0RWR0Zlc0ZGTXgzZjlCRUJhamNzUTFENl95cFpTVGxpWQ?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-26",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "スプラトゥーン レイダース",
    "title": "『スプラトゥーン レイダース』完全攻略本が11月26日発売！ ブキやシャケの公式データを掲載",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tWXdMVXlBQWlBbXc2MTRTZWdFc29abHBMaEYyUXA5UU8yYXNGdllhODB1TFY5YWI4anE0cF9uLXRVMDcxQzhUbWFzR19hMnBHRVY5T201UmF3ZVRvX092RQ?oc=5",
@@ -10156,20 +10170,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-01-28",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "Witchbrook(ウィッチブルック)",
-   "title": "魔法学校ライフシム『Witchbrook（ウィッチブルック）』来年1月28日発売。授業や恋愛、マルチプレイも",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01SWRCN0hZRkdfeXplMFEyLWpoMURqZ0VBUnJOZFhlWXFiTTAtdzZrY1JqSzVGUlNRVXpONkx3cjBLMkYtODh4d0tCOEIzMzJqMlUzN3BrZ1VSUQ?oc=5",
-   "source": "電撃オンライン",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-02",
    "precision": "month",
    "verb": "release",
@@ -11314,8 +11314,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1221,
-   "accepted": 1204
+   "archived": 1220,
+   "accepted": 1203
   },
   {
    "id": "inside-games",
@@ -11369,8 +11369,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 650,
-   "accepted": 517
+   "archived": 651,
+   "accepted": 518
   },
   {
    "id": "gnews-dengeki",
@@ -11390,9 +11390,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 94,
-   "archived": 579,
-   "accepted": 533
+   "fetched": 98,
+   "archived": 580,
+   "accepted": 534
   },
   {
    "id": "gnews-switch2",
@@ -11402,8 +11402,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1487,
-   "accepted": 1300
+   "archived": 1488,
+   "accepted": 1302
   },
   {
    "id": "gnews-ps5",
@@ -11413,8 +11413,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 738,
-   "accepted": 664
+   "archived": 737,
+   "accepted": 663
   },
   {
    "id": "gnews-update",
@@ -11423,9 +11423,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 89,
-   "archived": 452,
-   "accepted": 363
+   "fetched": 88,
+   "archived": 450,
+   "accepted": 361
   },
   {
    "id": "prtimes",
@@ -11435,7 +11435,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26022,
+   "archived": 25986,
    "accepted": 435
   },
   {
@@ -11457,8 +11457,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1204,
-   "accepted": 1204
+   "archived": 1202,
+   "accepted": 1202
   },
   {
    "id": "eurogamer",
@@ -11501,8 +11501,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 596,
-   "accepted": 596
+   "archived": 595,
+   "accepted": 595
   }
  ],
  "items": [
@@ -12433,7 +12433,7 @@
    "firstSeen": "2026-11-14T08:48:16.256Z",
    "image": null,
    "source": "AppBank",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12452,9 +12452,9 @@
    "sources": [
     {
      "name": "AppBank",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sTHByV3RYN0lpTDJGemQtWHNiVW1CUllDMWZsVmd3Z3FHSVZ4NnRpMlA0V242dm1vTW1yS0VOVlczcWF0U0pEV3FqQnVMQnhDZzFFdkMwMzNiZE9sSV8wVw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -14955,6 +14955,12 @@
      "name": "オリコンニュース",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15M3VGYkktbjN4M2hESldMTE1Bc0RXc21tSjQ0QW15MkJ3cl8tVHNaZjdZOXNWVVlscTNHSFp0c0JyTVFUZEh6a1hhVEQxZ0U?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jTUJpemMzY2lSVVNPZndoM09saVRTaGhWZXktdmhkS2U2eEVKTEVRT3oyMUlSdTNRZkszR0hoXzlKQk0ySUtvdmNLOVhnYm0yZC1XQU5B?oc=5",
      "via": "Googleニュース「新作ゲーム」"
     },
     {
@@ -37685,6 +37691,35 @@
    ]
   },
   {
+   "title": "『日本バスシミュレーター』日本っぽい街で路線をつくって運転、バス会社を経営するシミュレーション【11/26発売】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV1BKNklPaUotTDhhbFFyTEh3MHpaLWZWMXdtZ1JuVnNFZXRIUDRSQWFwVXdvR0RWR0Zlc0ZGTXgzZjlCRUJhamNzUTFENl95cFpTVGxpWQ?oc=5",
+   "pubDate": "2026-11-12T08:00:00.000Z",
+   "firstSeen": "2026-11-12T08:47:33.367Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "日本バスシミュレーター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXV1BKNklPaUotTDhhbFFyTEh3MHpaLWZWMXdtZ1JuVnNFZXRIUDRSQWFwVXdvR0RWR0Zlc0ZGTXgzZjlCRUJhamNzUTFENl95cFpTVGxpWQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "『崩壊：スターレイル』星神★アッハは“人間性を極めた先に神になった”存在。二相楽園編チーフデザイナーによる特別インタビューの一部を先行公開",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QYml2QU0wTTdHSm81alpsMmliMlFnUUw5aDRPMW5ndTh4STczd2c3QWdDZnhMQ0dwc3RkNzluVk9SSmY4cWtFdUFhQXBLVUJpd1h3UGtHbw?oc=5",
@@ -43620,7 +43655,7 @@
    "firstSeen": "2026-11-12T01:47:42.433Z",
    "image": null,
    "source": "Nintendo",
-   "sourceId": "gnews-update",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -43641,9 +43676,9 @@
    "sources": [
     {
      "name": "Nintendo",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWpDVC1oaUJLYWl1QlBLcTVvWjJrazNLNFpxeDctOVRoWHFrbjhFdW5qbjYxTkNwaHQtYjlzZjlBUkdmV2k1N21zUnlxeTAtWjBaMWFLV3laOU9mTmkzelRvaTN6MlpzUk5jUENtSG9SZE10UFdVVjRVbFZwS2Q4MjExcmhnZw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "Saiga NAK",
@@ -190479,35 +190514,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/phantom-blade-zero-fixes-my-biggest-annoyance-with-boss-fights"
-    }
-   ]
-  },
-  {
-   "title": "魔法学校ライフシム『Witchbrook（ウィッチブルック）』来年1月28日発売。授業や恋愛、マルチプレイも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01SWRCN0hZRkdfeXplMFEyLWpoMURqZ0VBUnJOZFhlWXFiTTAtdzZrY1JqSzVGUlNRVXpONkx3cjBLMkYtODh4d0tCOEIzMzJqMlUzN3BrZ1VSUQ?oc=5",
-   "pubDate": "2026-10-29T11:30:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Witchbrook(ウィッチブルック)"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01SWRCN0hZRkdfeXplMFEyLWpoMURqZ0VBUnJOZFhlWXFiTTAtdzZrY1JqSzVGUlNRVXpONkx3cjBLMkYtODh4d0tCOEIzMzJqMlUzN3BrZ1VSUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   }
