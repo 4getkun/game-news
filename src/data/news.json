@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-14T02:47:53.912Z",
+ "generatedAt": "2026-11-14T03:47:47.626Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1358,
-  "syndicated": 85,
-  "similar": 372,
-  "syndicatedTotal": 418,
-  "syndicatedLeft": 30
+  "exact": 1337,
+  "syndicated": 84,
+  "similar": 371,
+  "syndicatedTotal": 415,
+  "syndicatedLeft": 31
  },
  "calendar": [
   {
@@ -1578,20 +1578,6 @@
     "ps5",
     "xbox"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-04",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "「セガNET麻雀 MJ」，2026秋 最強決定戦を11月4日にYouTubeで生配信",
-   "link": "https://www.4gamer.net/games/226/G022696/20261029038/",
-   "source": "4Gamer.net（スマホ）",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -6189,6 +6175,24 @@
   {
    "date": "2026-11-14",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Sloppy Forgeries 名画のつもり!",
+   "title": "モナリザを模写！ ただしマウスで！ あと3分以内ね！ 対戦型お絵かきゲーム「Sloppy Forgeries 名画のつもり！」，Steamで本日発売",
+   "link": "https://www.4gamer.net/games/052/G105296/20261113058/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "pc"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-14",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -8843,6 +8847,22 @@
   {
    "date": "2026-12-04",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Love Locks",
+   "title": "恋人たちの“愛の南京錠”10万個撤去シム『Love Locks』発表、12月4日配信へ。発売後はタイムアタックレースも実施、優勝者へのご褒美は“リアル結婚式費用80万円分”",
+   "link": "https://automaton-media.com/articles/newsjp/20261114-479254/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "esports"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -11475,8 +11495,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1013,
-   "accepted": 986
+   "archived": 1007,
+   "accepted": 979
   },
   {
    "id": "4gamer-sp",
@@ -11497,8 +11517,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 589,
-   "accepted": 584
+   "archived": 587,
+   "accepted": 582
   },
   {
    "id": "denfaminico",
@@ -11508,8 +11528,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1229,
-   "accepted": 1105
+   "archived": 1223,
+   "accepted": 1097
   },
   {
    "id": "gamewatch",
@@ -11519,8 +11539,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 674,
-   "accepted": 645
+   "archived": 670,
+   "accepted": 641
   },
   {
    "id": "gamespark",
@@ -11530,8 +11550,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1242,
-   "accepted": 1224
+   "archived": 1238,
+   "accepted": 1220
   },
   {
    "id": "inside-games",
@@ -11541,8 +11561,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1669,
-   "accepted": 1269
+   "archived": 1661,
+   "accepted": 1265
   },
   {
    "id": "ps-blog",
@@ -11552,8 +11572,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 36,
-   "accepted": 36
+   "archived": 35,
+   "accepted": 35
   },
   {
    "id": "xbox-wire",
@@ -11574,8 +11594,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 134,
-   "accepted": 91
+   "archived": 133,
+   "accepted": 90
   },
   {
    "id": "gnews-famitsu",
@@ -11585,8 +11605,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 661,
-   "accepted": 525
+   "archived": 658,
+   "accepted": 521
   },
   {
    "id": "gnews-dengeki",
@@ -11596,8 +11616,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 702,
-   "accepted": 409
+   "archived": 697,
+   "accepted": 404
   },
   {
    "id": "gnews-newgame",
@@ -11607,8 +11627,8 @@
    "ok": true,
    "error": null,
    "fetched": 90,
-   "archived": 596,
-   "accepted": 551
+   "archived": 581,
+   "accepted": 536
   },
   {
    "id": "gnews-switch2",
@@ -11618,8 +11638,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1525,
-   "accepted": 1335
+   "archived": 1516,
+   "accepted": 1326
   },
   {
    "id": "gnews-ps5",
@@ -11629,8 +11649,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 750,
-   "accepted": 674
+   "archived": 747,
+   "accepted": 671
   },
   {
    "id": "gnews-update",
@@ -11651,8 +11671,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26574,
-   "accepted": 445
+   "archived": 26473,
+   "accepted": 441
   },
   {
    "id": "gematsu",
@@ -11662,8 +11682,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 344,
-   "accepted": 344
+   "archived": 341,
+   "accepted": 341
   },
   {
    "id": "ign",
@@ -11673,8 +11693,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1219,
-   "accepted": 1219
+   "archived": 1220,
+   "accepted": 1220
   },
   {
    "id": "eurogamer",
@@ -11723,6 +11743,387 @@
  ],
  "items": [
   {
+   "title": "カジュアルなスマホ向け麻雀ゲーム「雀皇麻雀2」，特典がもらえる事前登録受付開始",
+   "summary": "スマートフォン向けソフト「雀皇麻雀2」の事前登録受付が始まっている。洗牌なし」などさまざまなモードを搭載し，短時間でサクッと遊べるカジュアルなオンライン麻雀ゲームだ。事前登録することでスキンやコインなどがもらえるという。",
+   "link": "https://www.4gamer.net/games/058/G105838/20261114003/",
+   "pubDate": "2026-11-14T03:38:53.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [
+    "雀皇麻雀2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/058/G105838/20261114003/"
+    }
+   ]
+  },
+  {
+   "title": "『星のカービィ』ゆらゆら揺れるインテリアフィギュア！微笑ましい姿のカービィ＆マホロアなど全6種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190951.html",
+   "pubDate": "2026-11-14T03:30:03.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "星のカービィ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190951.html"
+    }
+   ]
+  },
+  {
+   "title": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
+   "summary": "A second chance to secure a copy. Physical game distributor Limited Run Games is all about \"limited\" releases, but it's making an exception…",
+   "link": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+   "pubDate": "2026-11-14T03:30:00.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": "https://images.nintendolife.com/de0ee2887d85b/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2"
+    }
+   ]
+  },
+  {
+   "title": "【レイトン教授と蒸気の新世界】PlayStation5／Steamダウンロード版予約販売を開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRExCTFhHV2xycTlyMzlUWXhBeUh5S2o4Ym5YZ2xIQXNDSHpRODNhaEFLeUFFdXhXa0FqVUFDVEx0dDZDaU9mcEZmdF8xUXpyVXB2M25pRWQ4QQ?oc=5",
+   "pubDate": "2026-11-14T03:27:00.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRExCTFhHV2xycTlyMzlUWXhBeUh5S2o4Ym5YZ2xIQXNDSHpRODNhaEFLeUFFdXhXa0FqVUFDVEx0dDZDaU9mcEZmdF8xUXpyVXB2M25pRWQ4QQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "今度は麻雀道、「ガルパン」新作ゲーム発表 特殊技には「強制ロン」も",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DY29qZVlsTUpKcnNYMVpyVjhRQ1ZWUkZwOXJ6a3c1d0huaWZjcXg1Vnc5eTk1bjFjQ3BHTzlvTk1NcENESjJVcG1Jel9GaTU3Y1pLZ0w5TG1rblVNRmUxR3NMN0tYTVROQXZWMWhDQ0V3M0V1X01tUnJwOA?oc=5",
+   "pubDate": "2026-11-14T03:18:03.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-newgame",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DY29qZVlsTUpKcnNYMVpyVjhRQ1ZWUkZwOXJ6a3c1d0huaWZjcXg1Vnc5eTk1bjFjQ3BHTzlvTk1NcENESjJVcG1Jel9GaTU3Y1pLZ0w5TG1rblVNRmUxR3NMN0tYTVROQXZWMWhDQ0V3M0V1X01tUnJwOA?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "恋人たちの“愛の南京錠”10万個撤去シム『Love Locks』発表、12月4日配信へ。発売後はタイムアタックレースも実施、優勝者へのご褒美は“リアル結婚式費用80万円分”",
+   "summary": "Blue Brain Gamesは11月13日、Collision Gamesが手がける『Love Locks』を発表した。本作は橋に取り付けられた10万個もの「愛の南京錠」を撤去する、お片付けシミュレーションゲームだ。",
+   "link": "https://automaton-media.com/articles/newsjp/20261114-479254/",
+   "pubDate": "2026-11-14T03:14:23.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261114-479254-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Love Locks"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261114-479254/"
+    }
+   ]
+  },
+  {
+   "title": "グラニフ×「ジョジョ」コラボグッズが激アツ！5部より護衛チームのスタンド集合Tシャツ、6部の“ウェザー・リポート”パーカーなど全18種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190950.html",
+   "pubDate": "2026-11-14T03:10:03.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190950.html"
+    }
+   ]
+  },
+  {
+   "title": "「名画の模写」を3分以内にマウスで描く対戦お絵かきゲーム『Sloppy Forgeries 名画のつもり！』がSteamで発売。「元に戻す」も「塗りつぶし」も使えず、原画へのそっくり度をリアルタイムで採点",
+   "summary": "「モナリザ」「真珠の耳飾りの少女」などのお題を限られた画材で再現。“元に戻す”も“塗りつぶし”もなし。描くたびに原画へのそっくり度が採点される",
+   "link": "https://news.denfaminicogamer.jp/news/261114s",
+   "pubDate": "2026-11-14T03:00:58.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/sloppy-mona-single-over-1-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Sloppy Forgeries 名画のつもり!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261114s"
+    }
+   ]
+  },
+  {
+   "title": "【特集】夜市だけが台湾グルメじゃない。レトロな街・迪化街を台湾美女レイヤーと食べ歩き、和菓子から牛肉麺、夕景まで楽しみ尽くした1日【写真29枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190949.html",
+   "pubDate": "2026-11-14T03:00:03.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190949.html"
+    }
+   ]
+  },
+  {
+   "title": "モナリザを模写！ ただしマウスで！ あと3分以内ね！ 対戦型お絵かきゲーム「Sloppy Forgeries 名画のつもり！」，Steamで本日発売",
+   "summary": "タカラトミーは本日（2026年11月14日），対戦型お絵かきゲーム「SloppyForgeries名画のつもり！」をSteamで発売した。本作は，名画を3分以内にマウスで模写し，原画への近さを競うゲームだ。最大8人でのオンライン対戦や，マウスを2つ接続して遊ぶローカル対戦を楽しめ…",
+   "link": "https://www.4gamer.net/games/052/G105296/20261113058/",
+   "pubDate": "2026-11-14T03:00:00.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Sloppy Forgeries 名画のつもり!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/052/G105296/20261113058/"
+    }
+   ]
+  },
+  {
+   "title": "自由に紡いでいける，自分だけの冒険譚「Terraria+」2Dサンドボックスの名作を味わおう（今日から始めろApple Arcade #89）",
+   "summary": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上のゲームのなかから毎回1本をチョイスし，オススメポイントを紹介していく。第89回では，「Terraria+」を紹介する。",
+   "link": "https://www.4gamer.net/games/057/G105716/20261113027/",
+   "pubDate": "2026-11-14T03:00:00.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/057/G105716/20261113027/"
+    }
+   ]
+  },
+  {
+   "title": "『ほの暮しの庭』7月発売のファミ通DXパックが再販決定。パッケージと描き下ろしキャンバスボードなどのグッズがセットになった限定版",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GT0xpSkpqcmx3Yy1DYk1LdzRHNnd4MEFIS3dDV2xsY2hnQXpVbWhMcEdtQWMxYnBlZ1Q3Q2FFYWhfWEFtUUxKaVhZaUd0a0VOVGtCR0Ixbw?oc=5",
+   "pubDate": "2026-11-14T02:50:00.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ほの暮しの庭"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GT0xpSkpqcmx3Yy1DYk1LdzRHNnd4MEFIS3dDV2xsY2hnQXpVbWhMcEdtQWMxYnBlZ1Q3Q2FFYWhfWEFtUUxKaVhZaUd0a0VOVGtCR0Ixbw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "「METAL BUILD ガンダムキュリオス」が2次抽選販売！飛行形態への変形や、GNアームズとのオリジナル合体ギミックを搭載",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190948.html",
+   "pubDate": "2026-11-14T02:45:03.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190948.html"
+    }
+   ]
+  },
+  {
    "title": "『パルワールド』のパルたちが『クリッキーアイランド』に登場！アイテムの組み合わせ次第で「パルのゾンビ化」も！？",
    "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）のパブリッシングレーベル「ポケットペアパブリッシング」は、ポーランドのインディーゲームスタジオ「Karrot Games」が開発する街づくり×...",
    "link": "https://prtimes.jp/main/html/rd/p/000000166.000071410.html",
@@ -11750,6 +12151,32 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000166.000071410.html"
+    }
+   ]
+  },
+  {
+   "title": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
+   "summary": "James Gunn has shut down rumors that the new DC overseers at Skydance have meddled with his cut of Man of Tomorrow following his shocking DC…",
+   "link": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
+   "pubDate": "2026-11-14T02:36:04.000Z",
+   "firstSeen": "2026-11-14T03:47:35.828Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/14/james-gunn-rumors-1794623291199.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow"
     }
    ]
   },
@@ -65020,7 +65447,7 @@
    "deal": null,
    "platforms": [],
    "works": [
-    "サイバーパンク エッジランナーズ"
+    "サイバーパンク:エッジランナーズ"
    ],
    "spoiler": false,
    "sources": [
@@ -190200,416 +190627,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1YkQ0SGctMGt6VGNFV1pmYnptbmdTODFIaVJRemtvb2Z0YnE5UDdlUlNwazVMX1BuOVFKNWMzcTRTWVRE?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "最初は「掃除ゲーム」だった――協力ホラー『R.E.P.O.』がSwitch 2に、同時接続27万人超の人気作",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xaXlfcHdtSVdvbVozUU1KSUZ4YnVvcWYyUDhlX0RHVjlOczNyc1hBMW0tRWIzZmN1Nk16V2hSYVhIYjJl?oc=5",
-   "pubDate": "2026-10-29T09:10:10.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "shiritomo",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "R.E.P.O."
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "shiritomo",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xaXlfcHdtSVdvbVozUU1KSUZ4YnVvcWYyUDhlX0RHVjlOczNyc1hBMW0tRWIzZmN1Nk16V2hSYVhIYjJl?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "Amazonにて「ゼルダの伝説 40周年 アニバーサリーエディション」関連商品が販売再開中！Switch2本体セットやProコンセット商品などが対象",
-   "summary": "Amazonにて、「ゼルダの伝説 40周年 アニバーサリーエディション」の関連商品が販売再開している。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2152378.html",
-   "pubDate": "2026-10-29T09:09:21.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2152378.html"
-    }
-   ]
-  },
-  {
-   "title": "『ファイナルファンタジー レゾナンス』クリアレビュー！「こういうのがいいんだよ」が次々お出しされる、ワクワクに満ちた60時間",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mc3VkbzNiS0JMS1pYLVRFUkJyWnpQMGlYNU11LXkyNXRKMTM2OUdFVmhqLXhVRzdGeTUyaExZaTYxdjN5ZlIyVXptVU9iRlVYaEUzVElqWEViQVk?oc=5",
-   "pubDate": "2026-10-29T09:03:27.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ファイナルファンタジー レゾナンス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mc3VkbzNiS0JMS1pYLVRFUkJyWnpQMGlYNU11LXkyNXRKMTM2OUdFVmhqLXhVRzdGeTUyaExZaTYxdjN5ZlIyVXptVU9iRlVYaEUzVElqWEViQVk?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "「勝利の女神：NIKKE」4周年。総力戦のようなアップデートで何が待ち受けるのか。その後はどのような方向に進むのか［インタビュー］",
-   "summary": "「勝利の女神：NIKKE」がサービス開始から4周年を迎える。2026年10月29日に実装された最新バージョンでは，戦いもついに最終段階に突入するが，どのような物語が展開するのだろうか。そして今後の「NIKKE」はどうなるのか。4周年記念生放送のために来日した開発陣にインタビューを…",
-   "link": "https://www.4gamer.net/games/456/G045622/20261027049/",
-   "pubDate": "2026-10-29T09:00:14.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "release",
-    "update",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/456/G045622/20261027049/"
-    }
-   ]
-  },
-  {
-   "title": "オンボロRVで終末世界を旅する最大4人協力ドライブゲーム『Nomad Drive』早期アクセス開始！",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174240.html",
-   "pubDate": "2026-10-29T09:00:03.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Nomad Drive"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174240.html"
-    }
-   ]
-  },
-  {
-   "title": "決して“完璧”ではない『アノマリス』を、夢中で遊んだ40時間─「異界」の探索は、粗削りながらも没入度が高く、不器用ながら「面白さ」を追求した意欲作【プレイレポ】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190046.html",
-   "pubDate": "2026-10-29T09:00:03.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アノマリス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/29/190046.html"
-    }
-   ]
-  },
-  {
-   "title": "ソニーの空間再現ディスプレイ「ELF-MN1」を体験してきた。推しを机上に召喚、専用メガネやヘッドマウントディスプレイ不要の「裸眼3D」で眺められる",
-   "summary": "バーチャルなのに「実在感」がすごい。推しと同じ空間で過ごすというオタクの夢が、少しずつ現実になり始めている。市場推定価格は約5万4000円",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/2610292o",
-   "pubDate": "2026-10-29T09:00:02.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image_001-12-1024x767.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/2610292o"
-    }
-   ]
-  },
-  {
-   "title": "【NIKKE】4周年記念プレゼントキャンペーンを実施。抽選で1名様にAmazonギフトカード5万円分をプレゼント！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1OFVrcGtNQXJiTXJPRTZIS0U3MGQ1NnFSLVRaX2o1c05PWmg3UW4wMkZfendTeDhGT1lpT2lnN3RjbjZHT1kzRWxqQUJhRDJOOVY1V1B5bw?oc=5",
-   "pubDate": "2026-10-29T09:00:00.000Z",
-   "firstSeen": "2026-10-29T20:47:38.635Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1OFVrcGtNQXJiTXJPRTZIS0U3MGQ1NnFSLVRaX2o1c05PWmg3UW4wMkZfendTeDhGT1lpT2lnN3RjbjZHT1kzRWxqQUJhRDJOOVY1V1B5bw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "サイバーパンク限界質屋シム『Probably Stolen』発売数時間で売上20万本突破、さらに「圧倒的に好評」獲得。監視の目をかわし禁制品まで売りさばく何でもあり商売",
-   "summary": "tinyBuildは10月28日、Questing Goose Studioが手がけた質屋経営シミュレーションゲーム『Probably Stolen – Cyberpunk Shopkeeper Sim』を配信した。さっそく多数のプレイヤーを集め好評を得ており、わずか数時間で売り…",
-   "link": "https://automaton-media.com/articles/newsjp/20261029-476400/",
-   "pubDate": "2026-10-29T08:59:01.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476400-header.jpeg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Probably Stolen"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261029-476400/"
-    }
-   ]
-  },
-  {
-   "title": "不正アクセスで停止していた「コミックシーモア」が一部サービスを再開。購入済み作品や読み放題のWEB閲覧が可能に",
-   "summary": "利用にはパスワードの再発行が必要。本棚アプリは近日中、作品・ポイントの購入は決済手段ごとに順次再開を予定",
-   "link": "https://news.denfaminicogamer.jp/news/2610292s",
-   "pubDate": "2026-10-29T08:58:36.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUvfrOibMAAvI4_-1-1.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610292s"
-    }
-   ]
-  },
-  {
-   "title": "Razer「エヴァンゲリオン」コラボ第2弾！初号機モチーフのコレクションが発売決定パープル×グリーンカラーのゲーミングデバイスが多数登場",
-   "summary": "Razerは10月29日、アニメ「エヴァンゲリオン」シリーズとコラボレーションした「Razer｜EVANGELION（EVA-01）コレクション」を発表した。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2152370.html",
-   "pubDate": "2026-10-29T08:57:26.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "release",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2152370.html"
-    }
-   ]
-  },
-  {
-   "title": "マンホールから這い出す1体のゾンビから始まり，仲間を増やして街を制圧していく！ ゾンビ側でプレイするストラテジー「We Are The Horde」，体験版配信中",
-   "summary": "BixelTechCodeは，現在開発中のストラテジーゲーム「WeAreTheHorde」の体験版をSteamで配信している。本作は，1体のゾンビから仲間を増やしてホードを形成し，街を制圧していく作品だ。",
-   "link": "https://www.4gamer.net/games/054/G105418/20261029029/",
-   "pubDate": "2026-10-29T08:47:33.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/054/G105418/20261029029/"
-    }
-   ]
-  },
-  {
-   "title": "松竹ゲームズ、税関シミュレーション『エアポートコントラバンド』を本日配信！税関職員となり密輸品を摘発せよ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GVXlCYnZDdDc5dXpwS2twWUhwVjR5TkdweUpvRllES3EtNnJEQ3FLakU0b0JWVVlkaEJXbDZyR0d0Y192?oc=5",
-   "pubDate": "2026-10-29T08:45:00.000Z",
-   "firstSeen": "2026-10-30T22:47:34.883Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エアポートコントラバンド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GVXlCYnZDdDc5dXpwS2twWUhwVjR5TkdweUpvRllES3EtNnJEQ3FLakU0b0JWVVlkaEJXbDZyR0d0Y192?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "「セガNET麻雀 MJ」，2026秋 最強決定戦を11月4日にYouTubeで生配信",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/226/G022696/20261029038/",
-   "pubDate": "2026-10-29T08:44:31.000Z",
-   "firstSeen": "2026-10-29T08:47:33.256Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/226/G022696/20261029038/"
     }
    ]
   }
