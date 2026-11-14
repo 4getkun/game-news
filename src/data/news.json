@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-14T19:30:38.222Z",
+ "generatedAt": "2026-11-14T19:47:58.338Z",
  "count": 6000,
  "dedupe": {
   "exact": 1333,
   "syndicated": 82,
-  "similar": 364,
+  "similar": 365,
   "syndicatedTotal": 422,
   "syndicatedLeft": 29
  },
@@ -11369,8 +11369,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 652,
-   "accepted": 519
+   "archived": 651,
+   "accepted": 518
   },
   {
    "id": "gnews-dengeki",
@@ -11402,8 +11402,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1483,
-   "accepted": 1299
+   "archived": 1484,
+   "accepted": 1300
   },
   {
    "id": "gnews-ps5",
@@ -11413,8 +11413,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 737,
-   "accepted": 662
+   "archived": 738,
+   "accepted": 663
   },
   {
    "id": "gnews-update",
@@ -11423,7 +11423,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 89,
+   "fetched": 87,
    "archived": 450,
    "accepted": 360
   },
@@ -11435,7 +11435,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25751,
+   "archived": 25739,
    "accepted": 434
   },
   {
@@ -11446,8 +11446,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 322,
-   "accepted": 322
+   "archived": 316,
+   "accepted": 316
   },
   {
    "id": "ign",
@@ -11457,8 +11457,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1183,
-   "accepted": 1183
+   "archived": 1181,
+   "accepted": 1181
   },
   {
    "id": "eurogamer",
@@ -48289,7 +48289,7 @@
    "firstSeen": "2026-11-11T13:47:39.024Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -48304,9 +48304,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaN2diVURfVzI5ZkpJeXRYU3ZzTVg1cnQ5WEdBd2tiYWZKeGt5cVFmb3A5RERjbGR4SjRvY0hPOXFJWmtwZ2IzX0VPQ1JNLTM5SHBPaFJkNA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
