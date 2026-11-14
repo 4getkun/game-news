@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-14T08:48:31.874Z",
+ "generatedAt": "2026-11-14T09:47:47.936Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1345,
-  "syndicated": 85,
+  "exact": 1344,
+  "syndicated": 84,
   "similar": 370,
   "syndicatedTotal": 422,
   "syndicatedLeft": 29
@@ -289,22 +289,6 @@
    "sources": 1,
    "categories": [
     "mobile",
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-31",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "アイカツ",
-   "title": "しまむらで『アイカツ』コラボが10月31日より開催！『アイカツ！アンコール』で使えるオリジナルデザインのカード付グッズを販売",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190056.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
     "collab"
    ],
    "platforms": [],
@@ -11411,8 +11395,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 994,
-   "accepted": 966
+   "archived": 993,
+   "accepted": 965
   },
   {
    "id": "4gamer-sp",
@@ -11422,8 +11406,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 231,
-   "accepted": 225
+   "archived": 230,
+   "accepted": 224
   },
   {
    "id": "automaton",
@@ -11444,8 +11428,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1205,
-   "accepted": 1080
+   "archived": 1203,
+   "accepted": 1077
   },
   {
    "id": "gamewatch",
@@ -11455,8 +11439,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 667,
-   "accepted": 638
+   "archived": 666,
+   "accepted": 637
   },
   {
    "id": "gamespark",
@@ -11466,8 +11450,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1233,
-   "accepted": 1216
+   "archived": 1232,
+   "accepted": 1215
   },
   {
    "id": "inside-games",
@@ -11477,8 +11461,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1640,
-   "accepted": 1248
+   "archived": 1637,
+   "accepted": 1246
   },
   {
    "id": "ps-blog",
@@ -11510,8 +11494,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 133,
-   "accepted": 90
+   "archived": 132,
+   "accepted": 89
   },
   {
    "id": "gnews-famitsu",
@@ -11521,7 +11505,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 656,
+   "archived": 655,
    "accepted": 521
   },
   {
@@ -11532,8 +11516,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 690,
-   "accepted": 398
+   "archived": 685,
+   "accepted": 396
   },
   {
    "id": "gnews-newgame",
@@ -11542,9 +11526,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 95,
-   "archived": 582,
-   "accepted": 536
+   "fetched": 94,
+   "archived": 581,
+   "accepted": 535
   },
   {
    "id": "gnews-switch2",
@@ -11554,8 +11538,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1500,
-   "accepted": 1309
+   "archived": 1498,
+   "accepted": 1308
   },
   {
    "id": "gnews-ps5",
@@ -11565,8 +11549,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 751,
-   "accepted": 676
+   "archived": 746,
+   "accepted": 671
   },
   {
    "id": "gnews-update",
@@ -11575,8 +11559,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 91,
-   "archived": 456,
+   "fetched": 90,
+   "archived": 455,
    "accepted": 366
   },
   {
@@ -11587,7 +11571,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26151,
+   "archived": 26098,
    "accepted": 438
   },
   {
@@ -11609,8 +11593,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1217,
-   "accepted": 1217
+   "archived": 1216,
+   "accepted": 1216
   },
   {
    "id": "eurogamer",
@@ -11620,8 +11604,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 298,
-   "accepted": 298
+   "archived": 296,
+   "accepted": 296
   },
   {
    "id": "gamespot",
@@ -11639,11 +11623,11 @@
    "name": "Nintendo Life",
    "kind": "specialist",
    "lang": "en",
-   "ok": false,
-   "error": "Status code 522",
-   "fetched": 0,
-   "archived": 349,
-   "accepted": 349
+   "ok": true,
+   "error": null,
+   "fetched": 25,
+   "archived": 347,
+   "accepted": 347
   },
   {
    "id": "pcgamer",
@@ -11658,6 +11642,278 @@
   }
  ],
  "items": [
+  {
+   "title": "AMD公式「どん底のときに誰がそばにいたか忘れないで」―ゲーマーにアピールするも、CEOの「データセンター・ファースト」発言に対するツッコミ相次ぐ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/14/174876.html",
+   "pubDate": "2026-11-14T09:30:03.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/14/174876.html"
+    }
+   ]
+  },
+  {
+   "title": "GUの「ちいかわ」コラボに備えて！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190956.html",
+   "pubDate": "2026-11-14T09:20:03.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190956.html"
+    }
+   ]
+  },
+  {
+   "title": "「アソビ大全みたいなゲームだと思ってた」――任天堂、Switch2『テーブルゲームワールド』紹介映像を削除・謝罪",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XcHQ3eW53eGdEQzBoXy1wMmJwNGx0RllVNzBISGFTLWlsOTN3em14eHVZUzZMZzI0MFB0QVQtYnJEZUtn?oc=5",
+   "pubDate": "2026-11-14T09:15:04.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "shiritomo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "trailer",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "テーブルゲームワールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "shiritomo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XcHQ3eW53eGdEQzBoXy1wMmJwNGx0RllVNzBISGFTLWlsOTN3em14eHVZUzZMZzI0MFB0QVQtYnJEZUtn?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "『スター・ウォーズ：ギャラクティック・レーサー』、「ポッドレーサー」の最高速度は“1000km/h”に迫る。速すぎる機体を「エアブレーキ」でねじ曲げる新映像公開",
+   "summary": "パブリッシャーのSecret Modeは9月30日、Lucasfilm Gamesとの協力のもと、Fuse Gamesが手がける『スター・ウォーズ：ギャラクティック・レーサー』の新映像「Under the Hood with Hibi - Episode 4: Podracers…",
+   "link": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261114-479191/",
+   "pubDate": "2026-11-14T09:01:30.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/star-wars-galactic-racer-20261114-479191-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スター・ウォーズ:ギャラクティック・レーサー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261114-479191/"
+    }
+   ]
+  },
+  {
+   "title": "『GTA6』予約数1200万本突破との推定値が判明。“ゲーム史上最多”説が出てからも毎日80万本ペースでの上乗せが続く",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/14/174875.html",
+   "pubDate": "2026-11-14T09:00:26.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/14/174875.html"
+    }
+   ]
+  },
+  {
+   "title": "今年の冬は豪華すぎる！13年ぶり『GTA6』、スイッチ2版『モンハンワイルズ』に『レイトン教授』など2026年年末商戦の大型ゲーム5選【特集】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190955.html",
+   "pubDate": "2026-11-14T09:00:03.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "GTA6",
+    "モンスターハンターワイルズ",
+    "レイトン教授"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190955.html"
+    }
+   ]
+  },
+  {
+   "title": "週刊Steam広場 第179号：釣りADV「DREADMOOR」や，ローグライク王国ビルダー「9 Kings」が正式リリースに",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，人類の過ちによる大災害で水没した世界を舞台とする釣りアドベンチャー「DREADMOOR」や，9人の王が覇権を争うローグライク王国ビルダー「9Kings」が正式にリリースされた。",
+   "link": "https://www.4gamer.net/games/038/G003821/20261114005/",
+   "pubDate": "2026-11-14T09:00:00.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/038/G003821/20261114005/"
+    }
+   ]
+  },
+  {
+   "title": "悪名高い高難度2Dアクションゲーム『Super Meat Boy』が生まれ変わる。グラフィックや音楽を刷新する『Again+』が発表",
+   "summary": "300以上のステージを収録し、新キャラクターやシークレット要素も追加。初代の作曲家Danny B氏が音楽を担当し、Steam向けに発売予定",
+   "link": "https://news.denfaminicogamer.jp/news/261114j",
+   "pubDate": "2026-11-14T08:58:34.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_1a5a3361fd0cb3947880391c59cc28a788fa62d8.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 19,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Super Meat Boy",
+    "Again+"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261114j"
+    }
+   ]
+  },
+  {
+   "title": "「初代『DARK SOULS』などをプレイした時の「あの感覚」をプレイヤーに呼び起こさせたかった」ソウルライクACT『False Hero』【開発者インタビュー】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/14/174874.html",
+   "pubDate": "2026-11-14T08:48:53.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "DARK SOULS",
+    "False Hero"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/14/174874.html"
+    }
+   ]
+  },
   {
    "title": "A-SYMBOL『塊魂』フィギュア化記念｜ゲームプロデューサー石田僚氏との対談インタビューを公開。東京・秋葉原での展示もスタート",
    "summary": "",
@@ -12674,6 +12930,40 @@
    ]
   },
   {
+   "title": "Switch 2用『にくきゅうスタンド』が予約受付中。やわらかい“にくきゅう”がゲーム機本体を優しく支えます",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40N0NLN1ZJLW5wWGl3Y25ZYjY3THQ4b2I2RzJ3NlJjd1RMTGlYaGZqU3R1SU5sbUxpSlo2aGFHZjc4ZlhRbjhkdnQ1TllsUGNMZGtvaXhCZFRPdw?oc=5",
+   "pubDate": "2026-11-14T04:50:00.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "release",
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "にくきゅうスタンド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40N0NLN1ZJLW5wWGl3Y25ZYjY3THQ4b2I2RzJ3NlJjd1RMTGlYaGZqU3R1SU5sbUxpSlo2aGFHZjc4ZlhRbjhkdnQ1TllsUGNMZGtvaXhCZFRPdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "アニメ『MIZUMONO』発の本格3Dボートレースゲーム『MIZUMONO ONE MARK』、ブラウザで11月20日13時より先行プレイ開始",
    "summary": "株式会社Neural Edge（以下、当社）は、ボートレースを題材にした3Dレースゲーム『MIZUMONO ONE MARK（ミズモノ ワンマーク）』の先行プレイを、2026年11月20日（金）13時より開始します。アプリのインストールは...",
    "link": "https://prtimes.jp/main/html/rd/p/000000002.000194619.html",
@@ -12825,6 +13115,37 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/14/190952.html"
+    }
+   ]
+  },
+  {
+   "title": "『ヴイアライヴ』定点観測-110：レトラさんのバースデーオンラインライブをリポート。スペシャルゲストには『ミリオンライブ！』よりジュリアが参戦し、ふたりで『スタートリップ』を披露",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52dUNfbTJrcHF4SlZHVmJ4V3JxZWU3TFFOS0hQVlNBUlRNeWJaMDJ1OVJBRjA2NVoxbnhjOFg3QzZKZmFoaWFyZGZaNHVXRl8xUmMwUHdOdw?oc=5",
+   "pubDate": "2026-11-14T04:00:00.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ヴイアライヴ",
+    "ミリオンライブ!",
+    "スタートリップ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52dUNfbTJrcHF4SlZHVmJ4V3JxZWU3TFFOS0hQVlNBUlRNeWJaMDJ1OVJBRjA2NVoxbnhjOFg3QzZKZmFoaWFyZGZaNHVXRl8xUmMwUHdOdw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -17808,6 +18129,41 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming/"
+    }
+   ]
+  },
+  {
+   "title": "PS5 AIアップスケーリング「QSSR」対応タイトル第2弾発表。『Marvel’s Spider-Man 2』は配信済み、『Control Resonant』は12月、『ARC Raiders』『THE FINALS』『No Man’s Sky』なども対応予定。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuVzcxVWl3N1BuTm9PRHp6Wl9TeXM5M1dzekoxVlctUXBmQUJwSGh5Unlnc2dvWFo0RmFsVE5mWUM4Q2d6cVNNYVBR?oc=5",
+   "pubDate": "2026-11-13T14:23:34.000Z",
+   "firstSeen": "2026-11-14T09:47:31.660Z",
+   "image": null,
+   "source": "ソニーが基本的に好き。",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "Marvel’s Spider-Man 2",
+    "CONTROL Resonant",
+    "ARC Raiders",
+    "THE FINALS",
+    "No Man’s Sky"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ソニーが基本的に好き。",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuVzcxVWl3N1BuTm9PRHp6Wl9TeXM5M1dzekoxVlctUXBmQUJwSGh5Unlnc2dvWFo0RmFsVE5mWUM4Q2d6cVNNYVBR?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -190280,397 +190636,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/023/G002318/20261029050/"
-    }
-   ]
-  },
-  {
-   "title": "「Order of the Sinking Star」，Switch2 / PS5向け日本語版を本日配信。4つの世界に1000以上のパズルが待ち受ける",
-   "summary": "PLAYISMは本日，パズルアドベンチャー「OrderoftheSinkingStar」のSwitch2/PS5向け日本語版を配信開始した。「Braid」「TheWitness」で知られるジョナサン・ブロウ氏が約10年をかけて開発した作品で，4つの世界を探索しながら1000以上の…",
-   "link": "https://www.4gamer.net/games/968/G096815/20261029048/",
-   "pubDate": "2026-10-29T10:48:35.000Z",
-   "firstSeen": "2026-10-29T11:47:37.018Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/968/G096815/20261029048/"
-    }
-   ]
-  },
-  {
-   "title": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
-   "summary": "The boss of Xbox has insisted that sales of the console are constrained by supply and that there is “more demand than consoles available,” a…",
-   "link": "https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet",
-   "pubDate": "2026-10-29T10:47:42.000Z",
-   "firstSeen": "2026-10-29T11:47:37.018Z",
-   "image": "https://assets-prd.ignimgs.com/2022/11/23/xboxseriesx-3-blogroll-1648735732292-1669247511678.jpeg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "hardware",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet"
-    },
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft"
-    }
-   ]
-  },
-  {
-   "title": "『Escape from Tarkov』アップデート配信でハロウィンイベント開催。ゲームエンジン更新は11月中旬に延期へ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174247.html",
-   "pubDate": "2026-10-29T10:45:03.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "update",
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Escape from Tarkov"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174247.html"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QQ0JfRm9CRjk3bUVqelB2aVp0bEJ0bV9Ea1hJTEpRYW5FUjBya3ZYZTNfWkxQT3JiSm1OY3VzaGFqQTZBR3NjZ2RXeHN3YjdwOF8tRzhIYWFmRHliYnRSTnRaSQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    },
-    {
-     "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50dW9fYWFjTHQweXEyYzBvc0VHblBVN0lZRkYyeFhrTzJTblFXR2t0cW5hLUF2WlRhMTJfQ1pSUWVBU25MUHNuWjlmVFdzWXRGcEppZm52WUNKOFJieU83MHlXd3NFTXVXd2VrSUg5X01Nd3NjckNyb1JrY3piYm8?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "しまむらで『アイカツ』コラボが10月31日より開催！『アイカツ！アンコール』で使えるオリジナルデザインのカード付グッズを販売",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190056.html",
-   "pubDate": "2026-10-29T10:45:03.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "アイカツ",
-    "アイカツ!アンコール"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/29/190056.html"
-    }
-   ]
-  },
-  {
-   "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
-   "summary": "Spewpa Duper. The catchily-titled 'Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension' releases today, and to mark the occasi…",
-   "link": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
-   "pubDate": "2026-10-29T10:45:00.000Z",
-   "firstSeen": "2026-10-29T11:47:37.018Z",
-   "image": "https://images.nintendolife.com/2db969f6c785f/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live"
-    }
-   ]
-  },
-  {
-   "title": "自分だけのファンタジー世界を創りだし，神様視点で観察するサンドボックスゲーム「Fantasy World Manager」，早期アクセス版をリリース",
-   "summary": "LegendaryPixelsは本日（2026年10月29日），新作タイトル「FantasyWorldManager」の早期アクセス版をリリースした。本作は，ピクセルで描かれた広大なマップを舞台に，ファンタジー世界を創造・シミュレーションし，観察できるサンドボックスゲームだ。",
-   "link": "https://www.4gamer.net/games/899/G089908/20261029046/",
-   "pubDate": "2026-10-29T10:35:48.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 17,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Fantasy World Manager"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/899/G089908/20261029046/"
-    }
-   ]
-  },
-  {
-   "title": "高評価ゲーム『The Talos Principle 2』Steam版、苦渋の1700円がっつり値上げ。開発費高騰に抗えず。世知辛い",
-   "summary": "Croteamは10月29日、パズルゲーム『The Talos Principle 2』のPC（Steam）版にて価格改定を実施した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261029-476489/",
-   "pubDate": "2026-10-29T10:33:36.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476489-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "The Talos Principle 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261029-476489/"
-    }
-   ]
-  },
-  {
-   "title": "『ぼくと釣り日記』欧米版『AYAKASHI Fishing Folktails』が北米・欧州で2027年発売予定！ Switch 2／Switch対応",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dHB0NXZ5bmlJMDJSRVFoY0VMMEtCa0xNRVBkRkZBb21pT3hVbHJTLVRQejhlVDdGSWs5UExtaGgtT3JlZFlfaTFINnAtWVFTTThTTTBfeXBYUG5heVExUA?oc=5",
-   "pubDate": "2026-10-29T10:33:02.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [
-    "ぼくと釣り日記",
-    "AYAKASHI Fishing Folktails"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dHB0NXZ5bmlJMDJSRVFoY0VMMEtCa0xNRVBkRkZBb21pT3hVbHJTLVRQejhlVDdGSWs5UExtaGgtT3JlZFlfaTFINnAtWVFTTThTTTBfeXBYUG5heVExUA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『Fallout 2』のエンジンで新たな物語描くトータルコンバージョンMod「Fallout: Prague Spring」開発中",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174246.html",
-   "pubDate": "2026-10-29T10:30:03.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Fallout 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174246.html"
-    }
-   ]
-  },
-  {
-   "title": "『勝利の女神：NIKKE』4周年は“エモい”のに“人の心がない”!? 歓喜と悲鳴の交響曲を奏でる指揮官たち",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190055.html",
-   "pubDate": "2026-10-29T10:30:03.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "勝利の女神:NIKKE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/29/190055.html"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/30/174301.html"
-    }
-   ]
-  },
-  {
-   "title": "追加DLCも収録した決定版！『初音ミク つなげるパズル たまごとり デラックス』PS/Steam/XBOX Oneで本日10/29発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ST3gzNDZ1bVYxdEwwSGpXUUdpaFBncFhjMV9iOGtzcjZkeTd0REthYWFjTnp3R2g5LWN2LXRHeW1aYWUxZk9oWldqajRxWHI5S1JMdWJ6TWpEdw?oc=5",
-   "pubDate": "2026-10-29T10:30:00.000Z",
-   "firstSeen": "2026-10-31T18:47:34.627Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 30,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox",
-    "pc"
-   ],
-   "works": [
-    "初音ミク つなげるパズル たまごとり デラックス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ST3gzNDZ1bVYxdEwwSGpXUUdpaFBncFhjMV9iOGtzcjZkeTd0REthYWFjTnp3R2g5LWN2LXRHeW1aYWUxZk9oWldqajRxWHI5S1JMdWJ6TWpEdw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "For the second time this year, Galax says it's not closing down: Palit-owned graphics card brand 'continues to operate as usual'",
-   "summary": "Reports of the brand's death have been greatly exaggerated.",
-   "link": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/",
-   "pubDate": "2026-10-29T10:29:32.000Z",
-   "firstSeen": "2026-10-29T10:47:37.031Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/NGaF45ZBzit4cYz93MhAMg-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/"
     }
    ]
   }
