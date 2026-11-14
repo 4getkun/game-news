@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T19:47:58.338Z",
+ "generatedAt": "2026-11-14T20:52:27.343Z",
  "count": 6000,
  "dedupe": {
   "exact": 1333,
@@ -11303,8 +11303,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 659,
-   "accepted": 629
+   "archived": 660,
+   "accepted": 630
   },
   {
    "id": "gamespark",
@@ -11366,9 +11366,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 651,
    "accepted": 518
   },
@@ -11377,9 +11377,9 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 672,
    "accepted": 387
   },
@@ -11388,9 +11388,9 @@
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 98,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 584,
    "accepted": 537
   },
@@ -11399,9 +11399,9 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1484,
    "accepted": 1300
   },
@@ -11410,9 +11410,9 @@
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 738,
    "accepted": 663
   },
@@ -11421,10 +11421,10 @@
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 87,
-   "archived": 450,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 449,
    "accepted": 360
   },
   {
@@ -11435,8 +11435,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25739,
-   "accepted": 434
+   "archived": 25692,
+   "accepted": 433
   },
   {
    "id": "gematsu",
@@ -11446,8 +11446,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 316,
-   "accepted": 316
+   "archived": 312,
+   "accepted": 312
   },
   {
    "id": "ign",
@@ -11457,8 +11457,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1181,
-   "accepted": 1181
+   "archived": 1178,
+   "accepted": 1178
   },
   {
    "id": "eurogamer",
@@ -11506,6 +11506,93 @@
   }
  ],
  "items": [
+  {
+   "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+   "summary": "Testing comedy games comes with a unique challenge.",
+   "link": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+   "pubDate": "2026-11-14T20:45:44.000Z",
+   "firstSeen": "2026-11-14T20:52:11.484Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/n4HBHbWrPLcQxSeZHb37v4-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/"
+    }
+   ]
+  },
+  {
+   "title": "XBOX25周年に寄せて。本社訪問で見えてきた次の25年に向けたXBOXの戦略Project Helixはもう始まっている。ファーストパーティー強化と新規IP創出が今後の鍵に",
+   "summary": "XBOXが本日11月15日、25周年を迎えた。Microsoftはこれに合わせてXBOX25周年を記念したイベントを、Microsoft本社のあるレドモンドと、その隣町であるシアトルにて11月12日に開催した。本稿ではメディアを対象に行われたXBOX25周年記念キャンパス訪問ツア…",
+   "link": "https://game.watch.impress.co.jp/docs/kikaku/2156517.html",
+   "pubDate": "2026-11-14T20:22:46.000Z",
+   "firstSeen": "2026-11-14T20:52:11.484Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/kikaku/2156517.html"
+    }
+   ]
+  },
+  {
+   "title": "'It Felt Criminal' — Adam Driver Still Can't Believe How Disney Handled Canceled Star Wars Movie The Hunt for Ben Solo",
+   "summary": "Adam Driver still can't believe Disney killed his Star Wars movie, The Hunt for Ben Solo, and has now gone so far as to say that the move \"f…",
+   "link": "https://www.ign.com/articles/it-felt-criminal-adam-driver-still-cant-believe-how-disney-handled-canceled-star-wars-movie-the-hunt-for-ben-solo",
+   "pubDate": "2026-11-14T20:09:39.000Z",
+   "firstSeen": "2026-11-14T20:52:11.484Z",
+   "image": "https://assets-prd.ignimgs.com/2023/12/13/kylo-1702468119008.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "It Felt Criminal"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/it-felt-criminal-adam-driver-still-cant-believe-how-disney-handled-canceled-star-wars-movie-the-hunt-for-ben-solo"
+    }
+   ]
+  },
   {
    "title": "Chris Pratt Says He 'Would Love' James Gunn to Return for Guardians of the Galaxy Vol. 4 After Leaving DC",
    "summary": "Chris Pratt said he would love to reunite with James Gunn for Guardians of the Galaxy Vol. 4 after the director abruptly announced he would…",
@@ -190427,88 +190514,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/010/G101096/20261029024/"
-    }
-   ]
-  },
-  {
-   "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
-   "summary": "The World of Warcraft team has found itself at the centre of controversy after recently-added housing cosmetics appeared to go against previ…",
-   "link": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
-   "pubDate": "2026-10-29T11:59:54.000Z",
-   "firstSeen": "2026-10-29T12:47:35.722Z",
-   "image": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran"
-    }
-   ]
-  },
-  {
-   "title": "'It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June",
-   "summary": "'It’s like stealing pure gold bars.'",
-   "link": "https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/",
-   "pubDate": "2026-10-29T11:53:40.000Z",
-   "firstSeen": "2026-10-29T12:47:35.722Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/AF6Trq5u3J38euMTaJVNwk-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "It’s so much easier to steal this than to rob a bank"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/"
-    }
-   ]
-  },
-  {
-   "title": "「桜降る代に決闘を 〜絢爛競演〜」，11月30日にSteamでアーリーアクセス開始。コミュニティ発，BakaFire Party公認のデジタル版",
-   "summary": "TheSakuraScholarは本日（2026年10月29日），「桜降る代に決闘を〜絢爛競演〜」のアーリーアクセスを11月30日に開始すると発表した。コミュニティ製の対戦ツールを前身とする，BakaFirePartyが監修する“公認二次創作”にあたるPC向けカードゲームだ。",
-   "link": "https://www.4gamer.net/games/982/G098246/20261029060/",
-   "pubDate": "2026-10-29T11:52:54.000Z",
-   "firstSeen": "2026-10-29T12:47:35.722Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/982/G098246/20261029060/"
     }
    ]
   }
