@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T18:47:54.142Z",
+ "generatedAt": "2026-11-14T19:30:38.222Z",
  "count": 6000,
  "dedupe": {
   "exact": 1333,
@@ -11369,8 +11369,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 651,
-   "accepted": 518
+   "archived": 652,
+   "accepted": 519
   },
   {
    "id": "gnews-dengeki",
@@ -11391,8 +11391,8 @@
    "ok": true,
    "error": null,
    "fetched": 98,
-   "archived": 583,
-   "accepted": 536
+   "archived": 584,
+   "accepted": 537
   },
   {
    "id": "gnews-switch2",
@@ -11402,7 +11402,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1484,
+   "archived": 1483,
    "accepted": 1299
   },
   {
@@ -11413,8 +11413,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 739,
-   "accepted": 664
+   "archived": 737,
+   "accepted": 662
   },
   {
    "id": "gnews-update",
@@ -11435,8 +11435,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25806,
-   "accepted": 435
+   "archived": 25751,
+   "accepted": 434
   },
   {
    "id": "gematsu",
@@ -11446,8 +11446,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 326,
-   "accepted": 326
+   "archived": 322,
+   "accepted": 322
   },
   {
    "id": "ign",
@@ -11457,8 +11457,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1187,
-   "accepted": 1187
+   "archived": 1183,
+   "accepted": 1183
   },
   {
    "id": "eurogamer",
@@ -11479,8 +11479,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 293,
-   "accepted": 293
+   "archived": 291,
+   "accepted": 291
   },
   {
    "id": "nintendolife",
@@ -11501,11 +11501,39 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 591,
-   "accepted": 591
+   "archived": 590,
+   "accepted": 590
   }
  ],
  "items": [
+  {
+   "title": "Chris Pratt Says He 'Would Love' James Gunn to Return for Guardians of the Galaxy Vol. 4 After Leaving DC",
+   "summary": "Chris Pratt said he would love to reunite with James Gunn for Guardians of the Galaxy Vol. 4 after the director abruptly announced he would…",
+   "link": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc",
+   "pubDate": "2026-11-14T18:27:44.000Z",
+   "firstSeen": "2026-11-14T19:30:16.838Z",
+   "image": "https://assets-prd.ignimgs.com/2023/04/17/guardiansofthegalaxy3-1681725232159.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc"
+    }
+   ]
+  },
   {
    "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
    "summary": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
@@ -22560,7 +22588,7 @@
    "firstSeen": "2026-11-13T09:47:36.519Z",
    "image": null,
    "source": "GameWith",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -22577,9 +22605,9 @@
    "sources": [
     {
      "name": "GameWith",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhYWJjNGNvNXJsVVpwNEVIZEQxS19nX3k1WWEzbk9Bb2RkWlU2WDVwalRJVi1pVEJRZGM1YVU5Ymk1dzN0UXVpa0h2LTdEMVZKRTdEZC1nNEFSU2M?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -31520,7 +31548,7 @@
    "firstSeen": "2026-11-13T07:47:33.137Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -31535,9 +31563,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yWFpoM1piTmctaUZ3TU1zcUN4MUM0dWVCM2RNRTRpVW82TXFDNnNfNlYxeHo4LXBjN2xuRWxZQXdqbUdJRTBxaTNFVUtLTGRMZWNlZXV2QQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -190481,34 +190509,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/982/G098246/20261029060/"
-    }
-   ]
-  },
-  {
-   "title": "'Morale has been terrible' at EA, workers claim, saying that AI mandates and mismanagement have left the company 'a cold dead place that's slowly decaying as leadership pilfers every last cent'",
-   "summary": "\"EA executives cannot fail, only be failed.\"",
-   "link": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
-   "pubDate": "2026-10-29T11:47:20.000Z",
-   "firstSeen": "2026-10-29T12:47:35.722Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/ZkfRgQoWCNtPFShNDkfMS9-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Morale has been terrible"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/"
     }
    ]
   }
