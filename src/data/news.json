@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-14T04:47:44.863Z",
+ "generatedAt": "2026-11-14T05:47:56.426Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1338,
-  "syndicated": 83,
-  "similar": 371,
-  "syndicatedTotal": 415,
-  "syndicatedLeft": 31
+  "exact": 1341,
+  "syndicated": 84,
+  "similar": 372,
+  "syndicatedTotal": 418,
+  "syndicatedLeft": 30
  },
  "calendar": [
   {
@@ -321,22 +321,6 @@
    "source": "ファミ通",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-31",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "しまむらで「サンリオキャラクターズ」グッズが10月31日発売！シナモロールら犬キャラ3人のアパレル、あったか掛けふとんカバーなど豊富なデザイン",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190049.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "collab"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -6161,14 +6145,17 @@
   {
    "date": "2026-11-14",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "星のカービィ",
-   "title": "『星のカービィ』ルームガウンやジップパーカ、ルームシューズなどが登場。全国のアベイルで11月14日より発売",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OUGFoaWN0VmlhempkbUFCYnQwR01vck5VWlVzUmtGdER2LTVxbVRsZ2U4SVhHZFZtWXdIaGUxVDlUUzBGeF90YlNPLWpVblB3UmZzSjcxWQ?oc=5",
-   "source": "ファミ通",
-   "sources": 2,
-   "categories": [],
+   "verb": "launch",
+   "label": "配信",
+   "work": "風燕伝:Where Winds Meet",
+   "title": "『風燕伝：Where Winds Meet』グローバル版1周年記念アップデートが本日配信開始！新エリア「滹沱」が登場！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000693.000071247.html",
+   "source": "PR TIMES",
+   "sources": 3,
+   "categories": [
+    "update",
+    "release"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -6181,13 +6168,27 @@
    "title": "モナリザを模写！ ただしマウスで！ あと3分以内ね！ 対戦型お絵かきゲーム「Sloppy Forgeries 名画のつもり！」，Steamで本日発売",
    "link": "https://www.4gamer.net/games/052/G105296/20261113058/",
    "source": "4Gamer.net",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "release"
    ],
    "platforms": [
     "pc"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-14",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "星のカービィ",
+   "title": "『星のカービィ』ルームガウンやジップパーカ、ルームシューズなどが登場。全国のアベイルで11月14日より発売",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OUGFoaWN0VmlhempkbUFCYnQwR01vck5VWlVzUmtGdER2LTVxbVRsZ2U4SVhHZFZtWXdIaGUxVDlUUzBGeF90YlNPLWpVblB3UmZzSjcxWQ?oc=5",
+   "source": "ファミ通",
+   "sources": 2,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -11495,8 +11496,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1003,
-   "accepted": 975
+   "archived": 1000,
+   "accepted": 972
   },
   {
    "id": "4gamer-sp",
@@ -11528,8 +11529,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1220,
-   "accepted": 1094
+   "archived": 1215,
+   "accepted": 1089
   },
   {
    "id": "gamewatch",
@@ -11539,8 +11540,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 670,
-   "accepted": 641
+   "archived": 669,
+   "accepted": 640
   },
   {
    "id": "gamespark",
@@ -11561,8 +11562,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1660,
-   "accepted": 1264
+   "archived": 1658,
+   "accepted": 1263
   },
   {
    "id": "ps-blog",
@@ -11605,8 +11606,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 655,
-   "accepted": 519
+   "archived": 658,
+   "accepted": 522
   },
   {
    "id": "gnews-dengeki",
@@ -11616,8 +11617,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 696,
-   "accepted": 403
+   "archived": 695,
+   "accepted": 404
   },
   {
    "id": "gnews-newgame",
@@ -11626,8 +11627,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 93,
-   "archived": 580,
+   "fetched": 94,
+   "archived": 582,
    "accepted": 535
   },
   {
@@ -11638,8 +11639,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1512,
-   "accepted": 1321
+   "archived": 1506,
+   "accepted": 1315
   },
   {
    "id": "gnews-ps5",
@@ -11649,8 +11650,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 746,
-   "accepted": 670
+   "archived": 749,
+   "accepted": 673
   },
   {
    "id": "gnews-update",
@@ -11659,9 +11660,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 87,
-   "archived": 457,
-   "accepted": 367
+   "fetched": 89,
+   "archived": 459,
+   "accepted": 369
   },
   {
    "id": "prtimes",
@@ -11671,8 +11672,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26415,
-   "accepted": 440
+   "archived": 26312,
+   "accepted": 439
   },
   {
    "id": "gematsu",
@@ -11742,6 +11743,231 @@
   }
  ],
  "items": [
+  {
+   "title": "3Dステルスゲーム草分け的作品『Thief: The Dark Project Remastered』日本語対応が判明！Steamストアページ更新で明らかに",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/14/174867.html",
+   "pubDate": "2026-11-14T05:40:02.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Thief: The Dark Project Remastered"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/14/174867.html"
+    }
+   ]
+  },
+  {
+   "title": "世界開拓サンドボックスMMORPG『BitCraft Online』正式リリースで再び盛況博す。“資源湧き出し貯水池”実装や日本語正式対応で、「新たなスタート」を切る",
+   "summary": "Clockwork Labsは11月14日、MMORPG『BitCraft Online』を正式リリースした。正式リリースにあたっては、各要素の改善や追加などがおこなわれている。",
+   "link": "https://automaton-media.com/articles/newsjp/bitcraft-20261114-479269/",
+   "pubDate": "2026-11-14T05:22:49.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/bitcraft-20261114-479269-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "BitCraft Online"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/bitcraft-20261114-479269/"
+    }
+   ]
+  },
+  {
+   "title": "多彩なマシンで爆走する『モーターストーム』ライクなアーケード・レーシングゲーム『Project Stampede』Steamストアページ公開！",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/14/174866.html",
+   "pubDate": "2026-11-14T05:18:34.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 20,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "モーターストーム",
+    "Project Stampede"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/14/174866.html"
+    }
+   ]
+  },
+  {
+   "title": "「GTA 6」発売前アップデートを配信―PS5は約1GB、Xboxは約2.2GBと報道",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2ZzUjNPYnNXZUszQVBad1JMU3dMT1AzZkJfRUMxYmwxV055NVlLd1R3V2ZZWHBpVFF3dG5nc2hsOWdqWlJ0MU9fd0pvOVNQYVU5N1JVR1JoSnVyM1VSX0VBVdIBaEFVX3lxTE9DVlVIbmJnVFNoeXBFOTJ3V28xTC1UYnBRZmxKcFBFWkxIakxJTms0QTFEMUVselFPTFMtTEtPOW9YX2FoYkhXam45RnJPQmE1WThLOFlEYnFrRDVldXJCNFZhV25Dd0JE?oc=5",
+   "pubDate": "2026-11-14T05:17:00.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "財経新聞",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "財経新聞",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2ZzUjNPYnNXZUszQVBad1JMU3dMT1AzZkJfRUMxYmwxV055NVlLd1R3V2ZZWHBpVFF3dG5nc2hsOWdqWlJ0MU9fd0pvOVNQYVU5N1JVR1JoSnVyM1VSX0VBVdIBaEFVX3lxTE9DVlVIbmJnVFNoeXBFOTJ3V28xTC1UYnBRZmxKcFBFWkxIakxJTms0QTFEMUVselFPTFMtTEtPOW9YX2FoYkhXam45RnJPQmE1WThLOFlEYnFrRDVldXJCNFZhV25Dd0JE?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』のゲーム紹介【最新情報まとめ】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JSzdkajRzc3p6dHpOR3NGVEs2dzdQM2pOZzhMd0lpUVBqV1pIbzFzVk1TSUh3UHlGOHpOT20wSU11OHlHNlIw?oc=5",
+   "pubDate": "2026-11-14T05:16:53.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ガールズ&パンツァー 白熱!麻雀タッグバトルです!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JSzdkajRzc3p6dHpOR3NGVEs2dzdQM2pOZzhMd0lpUVBqV1pIbzFzVk1TSUh3UHlGOHpOT20wSU11OHlHNlIw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "新作ゲームに初の屋外常設施設もオープン！「ポケモン」30周年イヤーが盛り上がったワケ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE11ZVdRY0lzMDY3VGlZRW0tcnJRR0VJTlBoZGZCQlU0WFN3YkpRTEVaVnBqMDNFLXdlSXFLUUx4ZWNkcmVv?oc=5",
+   "pubDate": "2026-11-14T05:05:10.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "@DIME アットダイム",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "@DIME アットダイム",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE11ZVdRY0lzMDY3VGlZRW0tcnJRR0VJTlBoZGZCQlU0WFN3YkpRTEVaVnBqMDNFLXdlSXFLUUx4ZWNkcmVv?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
+   "title": "『風燕伝：Where Winds Meet』グローバル版1周年記念アップデートが本日配信開始！新エリア「滹沱」が登場！",
+   "summary": "[NetEase Interactive Entertainment Pte. Ltd] NetEase GamesおよびEverstone Studioは、武侠オープンワールドアクションRPG『風燕伝：Where Winds Meet』において、グローバル版の配信開始1周年を記…",
+   "link": "https://prtimes.jp/main/html/rd/p/000000693.000071247.html",
+   "pubDate": "2026-11-14T05:00:31.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "update",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "風燕伝:Where Winds Meet"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000693.000071247.html"
+    },
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vc3Q1MGl6LUE1UllydkRENEs1aDV5TEhMMmFyU05JbTlzOEQ1OXhDYlVpZjZGRFJLT2hrMkh1Nk5EQTlHaGNobkxkZkJyZTF3Q21kc2VCZHZ6OFhWbU5Eeg?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9acTdveVcxdUt3QmhrX1FiUHFoRVVqZFBlRjFnT1pPZm0zUldQSWgydmJsYzhHV3V6RDcxamxTTm1YVzIxZjhPSmpLUkhKaEVESmdNMWpoM2ppY01jcXRtbWhGTVhSN1VoTzJnbDdHSl9DOC1BNkxRcVpuVQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "アニメ『MIZUMONO』発の本格3Dボートレースゲーム『MIZUMONO ONE MARK』、ブラウザで11月20日13時より先行プレイ開始",
    "summary": "株式会社Neural Edge（以下、当社）は、ボートレースを題材にした3Dレースゲーム『MIZUMONO ONE MARK（ミズモノ ワンマーク）』の先行プレイを、2026年11月20日（金）13時より開始します。アプリのインストールは...",
@@ -11991,6 +12217,39 @@
    ]
   },
   {
+   "title": "『大神』大川ぶくぶ描き下ろしイラストを使用した新作グッズがカドストで予約開始。デフォルメされたかわいいアマテラスたちの魅力がたっぷり詰まった新商品",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sd2N2cVByUW9jRGNKakg2d3ByVHZJdWNvVmV4bmxFYzl0b0UtZ0swVG9JamRRTVhVTGk1OWJLTklRN1p0Rm9rbmQ3Q19oT1hqMlA4cHY4Yw?oc=5",
+   "pubDate": "2026-11-14T03:30:00.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new",
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "大神"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sd2N2cVByUW9jRGNKakg2d3ByVHZJdWNvVmV4bmxFYzl0b0UtZ0swVG9JamRRTVhVTGk1OWJLTklRN1p0Rm9rbmQ3Q19oT1hqMlA4cHY4Yw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "【レイトン教授と蒸気の新世界】PlayStation5／Steamダウンロード版予約販売を開始",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRExCTFhHV2xycTlyMzlUWXhBeUh5S2o4Ym5YZ2xIQXNDSHpRODNhaEFLeUFFdXhXa0FqVUFDVEx0dDZDaU9mcEZmdF8xUXpyVXB2M25pRWQ4QQ?oc=5",
@@ -12232,6 +12491,35 @@
      "name": "4Gamer.net（スマホ）",
      "sourceId": "4gamer-sp",
      "link": "https://www.4gamer.net/games/057/G105716/20261113027/"
+    }
+   ]
+  },
+  {
+   "title": "『Sloppy Forgeries 名画のつもり！』世界の名画を“マウス”で“3分以内”に模写する、対戦お絵かきゲームが本日（11/14）発売。シビアな条件で再現を目指す",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50cjhITWt5RmZIOGFkOGp3dXd4bzc2RGxTMndHc1NRR0Y2UzZncE15emxSSnpON0pjNmxMcFI0WTNaNG1DNHlhM21CQS15Qm9zRjN0MDU3VQ?oc=5",
+   "pubDate": "2026-11-14T03:00:00.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Sloppy Forgeries 名画のつもり!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50cjhITWt5RmZIOGFkOGp3dXd4bzc2RGxTMndHc1NRR0Y2UzZncE15emxSSnpON0pjNmxMcFI0WTNaNG1DNHlhM21CQS15Qm9zRjN0MDU3VQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -12966,6 +13254,12 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000268.000046985.html"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPQWRXa00xcmZxakRULU1EYk4ydW1ZYUl5Y2NteWRhTGhyd3lyWU9CU3hnTGdQMkY1UEVtclVqMG5TdkJLQXVBQ1dmYW50dXcyVWwtbGFtOS1INkNHdVdMeHI0LTFQcmxEUTdaRVFjTWQ0RHda?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -13043,6 +13337,13 @@
      "name": "ライブドアニュース",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTnFJWmUyMDA3T3R5WTh3Vk1KUjlVNlpoc1plQjM3NHk3WmtpR0dnWHNrR1BlTXFhX1NDb3pXQnVTY09LSXQ0M2RPR3VGQU12RGJ6M3hhR3EwclU5YXc?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xV2haQV9ZaFhSSEV4UDZUZEw3OVVHSEhMSkgtaGVPZzFKWkU5a28yZHgwWFVGai1iSXRQLVhEWVh2NmpYNUltQVE5aXg2cW9GbnI4a1p0WGdUYjQ2LUItOQ?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
     }
@@ -13173,6 +13474,37 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SM1h1UGw5cjdTYkc0d2tJMGY0YXUzRFRNdWhJRmVaVUV2V2xUdXpvSjU0d2c0TjRGQzduZ1RSdjhCMWhXNDUzcUhQQjUtb0Y3VHFuM3ZrR1I?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『ガルパン』の麻雀ゲームが2027年発売決定。みほたちの特殊能力や特報ムービーを公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEQ01ydmw4SGlWc1hWcm1jOXN4Q05SUHhPN3hWWkd5TXQxUVJJdWp6NU52ZW1iUlVUT21KRnpTdEd2WkFsZzJENTlESVY0VmtVR3U0dzNRZ19CQQ?oc=5",
+   "pubDate": "2026-11-14T00:30:00.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ガルパン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEQ01ydmw4SGlWc1hWcm1jOXN4Q05SUHhPN3hWWkd5TXQxUVJJdWp6NU52ZW1iUlVUT21KRnpTdEd2WkFsZzJENTlESVY0VmtVR3U0dzNRZ19CQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -13957,6 +14289,35 @@
    ]
   },
   {
+   "title": "『ブレス オブ ファイア V ドラゴンクォーター』が発売された日。暗い地下を舞台にしたシビアな難度のRPG。最後に地上に出られたときの解放感は唯一無二【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BLU95Y3BQREtTNENSXzJDbms1ME5CR1VINDhtWXJLMVhnNFFsWTIyRHZTWWlrcjBvV3h1MHVUZ0hSblFsZG96WXl4OF9OZXowZ0pOdGI0SQ?oc=5",
+   "pubDate": "2026-11-13T22:00:00.000Z",
+   "firstSeen": "2026-11-14T05:47:35.095Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ブレス オブ ファイア V ドラゴンクォーター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BLU95Y3BQREtTNENSXzJDbms1ME5CR1VINDhtWXJLMVhnNFFsWTIyRHZTWWlrcjBvV3h1MHVUZ0hSblFsZG96WXl4OF9OZXowZ0pOdGI0SQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "Twitchで『GTA6』のゲームコードを発売日から毎日配布へ。サプライズで「Ultimate Edition」が提供されるチャンスも。期間は11月末まで",
    "summary": "サンディエゴで開催中の「TwitchCon」で発表。入手方法は明かされていないが、Twitch公式は「ぜひ配信を見に来て」と呼びかける。期間は11月末まで",
    "link": "https://news.denfaminicogamer.jp/news/261114b",
@@ -14431,6 +14792,13 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkE0SGpSdllpUUN3ZDNYSDk4c1I2bnhqbXZXa054Z1hzTnYzQ2p0SWwzemxLazJlT3dNNll3UzlmeHZwS0lYVm9UcU5pa0FNUTVEc3BRY2YxUVhoaVEwcnk0MmtrbFR0RmlBZlVSeGR5Y0N2R1F0aEpjVVhtSXQ1S3E0NmRPRDA?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "時事通信（Yahoo!ニュース）",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSFVGQTRLOEYycDBxQUFlby1DeHBQSzZyTzhyMEF3aWJpRjVjZS1fZ0w1dFZMWVhkUUczSExkQlhPZE9wV01ZUk9TZkVaQzAtZHladjd3TnN0UUNWUUEwWWVNZDBOWnRfZGY5d2hHUkxmTDFDYlVidnVoWlo5bjg?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
     }
    ]
   },
@@ -190325,333 +190693,6 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2152391.html"
-    }
-   ]
-  },
-  {
-   "title": "『ドールズフロントライン2：エクシリウム』ボイスドラマ第2弾「サクラ」の発売が11月11日に決定！",
-   "summary": "＜ドールズフロントライン2：エクシリウム ニュースリリース＞ 2026年10月29日配信 スマホ/PC向け人形と切り開くポストアポカリプス戦略RPG『ドールズフロントライン2：エクシリウム(以下、「ドルフロ2」)』は...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000330.000050327.html",
-   "pubDate": "2026-10-29T09:45:21.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 7,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "ドールズフロントライン2:エクシリウム"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000330.000050327.html"
-    }
-   ]
-  },
-  {
-   "title": "ブシロードクリエイティブ10周年イベント「High!! 10sion School」開催！新作フィギュアや体験企画、豪華ゲストのステージも【現地レポート】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190050.html",
-   "pubDate": "2026-10-29T09:45:03.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new",
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/29/190050.html"
-    }
-   ]
-  },
-  {
-   "title": "ソニーの“裸眼で立体視できる”新小型モニター「ELF-MN1」を体験してきた。初音ミクがそこにいるし世界がそこにある、見なきゃ伝わらないけど伝えたい",
-   "summary": "本稿では、ソニーが発表した「ELF-MN1」のメディア向け体験会のインプレッションをお届けする。",
-   "link": "https://automaton-media.com/articles/impressionjp/20261029-476471/",
-   "pubDate": "2026-10-29T09:42:44.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476471-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/impressionjp/20261029-476471/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
-   "summary": "GTA 6 made a surprise appearance on South Park with just shy of 20 seconds of genuine, exclusive gameplay that showcased dog poop.",
-   "link": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
-   "pubDate": "2026-10-29T09:40:44.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch 2版 クロスランド せいれいたちとつむぐせかい まとめページ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjdExIWFIxbzc0SWdtNTBfc0gxRmYyUUN6WGdtUjlMdDk2b1p4ckJMUldHUWRvRGNaWVJwLUxFYmwxYXhEdWVsSXE0d2hQbHl3WTg4?oc=5",
-   "pubDate": "2026-10-29T09:40:42.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjdExIWFIxbzc0SWdtNTBfc0gxRmYyUUN6WGdtUjlMdDk2b1p4ckJMUldHUWRvRGNaWVJwLUxFYmwxYXhEdWVsSXE0d2hQbHl3WTg4?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "iPad mini（A20 Pro）が予約開始。iPad史上もっとも軽い新型タブレット、前モデルより14％薄型化。価格は11万9800円から",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiQk9OQXhtaldfUmgwWnMwY0ljZ19fWmtONFVDTEVObkluVF9keDBteU9vMUxBc0FYQnZTaExqbmN5NWFjMjR0cDZuWUhrRUUtSHhvY1FQaw?oc=5",
-   "pubDate": "2026-10-29T09:40:00.000Z",
-   "firstSeen": "2026-10-31T04:47:35.408Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "release",
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiQk9OQXhtaldfUmgwWnMwY0ljZ19fWmtONFVDTEVObkluVF9keDBteU9vMUxBc0FYQnZTaExqbmN5NWFjMjR0cDZuWUhrRUUtSHhvY1FQaw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "「Japanese Ramen Simulator」に“券売機”が登場。注文の受付と会計を自動で行える便利設備",
-   "summary": "ワイルドドッグは2026年10月28日，Steamで配信中の「JapaneseRamenSimulator」にアップデートを配信した。今回追加されたのは，設置することで注文の受付と会計を自動で行える新設備“券売機”だ。",
-   "link": "https://www.4gamer.net/games/035/G103503/20261029039/",
-   "pubDate": "2026-10-29T09:38:26.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/035/G103503/20261029039/"
-    }
-   ]
-  },
-  {
-   "title": "PS5に90年代風スケルトンなDualSenseコントローラ『プリズム コレクション』、ファンが透ける半透明カバーも限定販売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZmJiWGVxZXQ3bGd4cUozbGNoX3M5V2RxaU1YOTJJMmpPZTRxeHpoaGZUZ1JvU1hHYXFwa1BraVVXX2RqMDZGR3NLZk9TLU9fZjROcGVIZ2tfbkE1MlhuU2tlOG01TzBDX3p6ZF9B?oc=5",
-   "pubDate": "2026-10-29T09:34:24.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "au Webポータル",
-   "sourceId": "gnews-ps5",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [
-    "プリズム コレクション"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZmJiWGVxZXQ3bGd4cUozbGNoX3M5V2RxaU1YOTJJMmpPZTRxeHpoaGZUZ1JvU1hHYXFwa1BraVVXX2RqMDZGR3NLZk9TLU9fZjROcGVIZ2tfbkE1MlhuU2tlOG01TzBDX3p6ZF9B?oc=5",
-     "via": "Googleニュース「PS5 発売」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『エヴァ』初号機の“ゲーミングデバイス”がRazerから登場。象徴的なパープルとグリーンの色合いが超かっこいい",
-   "summary": "eスポーツ向け軽量マウスや司令塔風のゲーミングチェアなど、初号機の存在感をまとった全5種がラインナップ。全部そろえれば、ゲームとのシンクロ率も上がりそう",
-   "link": "https://news.denfaminicogamer.jp/news/2610292n",
-   "pubDate": "2026-10-29T09:30:44.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-94-1024x578.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エヴァ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610292n"
-    }
-   ]
-  },
-  {
-   "title": "「異なるゲームをぶつけ、大爆発を起こす」―『Braid』『The Witness』生みの親・ジョナサン・ブロウが挑んだ、4つの世界が交わる巨大パズル『Order of the Sinking Star』【インタビュー】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174242.html",
-   "pubDate": "2026-10-29T09:30:03.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Braid",
-    "The Witness",
-    "Order of the Sinking Star"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174242.html"
-    }
-   ]
-  },
-  {
-   "title": "しまむらで「サンリオキャラクターズ」グッズが10月31日発売！シナモロールら犬キャラ3人のアパレル、あったか掛けふとんカバーなど豊富なデザイン",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/29/190049.html",
-   "pubDate": "2026-10-29T09:30:03.000Z",
-   "firstSeen": "2026-10-29T10:27:02.090Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/29/190049.html"
     }
    ]
   }
