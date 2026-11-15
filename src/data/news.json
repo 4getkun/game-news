@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-15T20:47:43.314Z",
+ "generatedAt": "2026-11-15T21:47:51.375Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1286,
+  "exact": 1287,
   "syndicated": 75,
-  "similar": 355,
+  "similar": 356,
   "syndicatedTotal": 405,
   "syndicatedLeft": 29
  },
@@ -5174,27 +5174,6 @@
   {
    "date": "2026-11-13",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "BOMBANANA!",
-   "title": "三猿による愉快な3人Co-op爆弾解体ゲーム「BOMBANANA!」のPS5とXBOX Series X|S版が本日発売、Steam版の200万本販売突破も",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96b1Jpa3RLdTFYYzktalhjeHhGdjVkTDVwalA0N00wRzVtY2dNR2RpcFY0NHJ2WVlqUVJ4a3IwOVNRbFRhbkx1UEQzRQ?oc=5",
-   "source": "doope!",
-   "sources": 3,
-   "categories": [
-    "release",
-    "business"
-   ],
-   "platforms": [
-    "ps5",
-    "xbox",
-    "pc"
-   ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-13",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Slay the Spire 2",
@@ -5206,6 +5185,27 @@
     "update"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "BOMBANANA!",
+   "title": "三猿による愉快な3人Co-op爆弾解体ゲーム「BOMBANANA!」のPS5とXBOX Series X|S版が本日発売、Steam版の200万本販売突破も",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96b1Jpa3RLdTFYYzktalhjeHhGdjVkTDVwalA0N00wRzVtY2dNR2RpcFY0NHJ2WVlqUVJ4a3IwOVNRbFRhbkx1UEQzRQ?oc=5",
+   "source": "doope!",
+   "sources": 2,
+   "categories": [
+    "release",
+    "business"
+   ],
+   "platforms": [
+    "ps5",
+    "xbox",
+    "pc"
+   ],
    "spoiler": false
   },
   {
@@ -11122,8 +11122,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1180,
-   "accepted": 1164
+   "archived": 1178,
+   "accepted": 1162
   },
   {
    "id": "inside-games",
@@ -11133,8 +11133,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1603,
-   "accepted": 1211
+   "archived": 1602,
+   "accepted": 1210
   },
   {
    "id": "ps-blog",
@@ -11188,8 +11188,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 663,
-   "accepted": 384
+   "archived": 664,
+   "accepted": 385
   },
   {
    "id": "gnews-newgame",
@@ -11243,7 +11243,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24536,
+   "archived": 24490,
    "accepted": 415
   },
   {
@@ -11265,8 +11265,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1131,
-   "accepted": 1131
+   "archived": 1128,
+   "accepted": 1128
   },
   {
    "id": "eurogamer",
@@ -11314,6 +11314,63 @@
   }
  ],
  "items": [
+  {
+   "title": "「ちいかわ」漫画のコマがマグネットに！「キャラマグネッツ5」発売、当たったらラッキーなレア3種も",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/16/191002.html",
+   "pubDate": "2026-11-15T21:30:03.000Z",
+   "firstSeen": "2026-11-15T21:47:35.700Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/16/191002.html"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
+   "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the bra…",
+   "link": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
+   "pubDate": "2026-11-15T20:31:38.000Z",
+   "firstSeen": "2026-11-15T21:47:35.700Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/15/xbox-boot-up-1794774681871.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [
+    "new",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary"
+    }
+   ]
+  },
   {
    "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
    "summary": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.",
@@ -24475,6 +24532,37 @@
    ]
   },
   {
+   "title": "『勝利の女神：NIKKE』ドロシーが1/7スケールでフィギュア化。優雅でセクシーな水着姿を完璧に再現！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eUJRVlp3WlhZbl9QTi0xUExMMWhIMzZzVFdoVjZUdDVDT3pSS0xqMjc2WVl6VmJHMWNaQmI1OXdOWjlSSWFDejdTcE5FakhRMDgwYUJ6M20tdw?oc=5",
+   "pubDate": "2026-11-13T11:40:00.000Z",
+   "firstSeen": "2026-11-15T21:47:35.700Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eUJRVlp3WlhZbl9QTi0xUExMMWhIMzZzVFdoVjZUdDVDT3pSS0xqMjc2WVl6VmJHMWNaQmI1OXdOWjlSSWFDejdTcE5FakhRMDgwYUJ6M20tdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "「アズールプロミリア」，公式配信を11月20日20：00より実施。「特別番組」と「公式生放送」の2本立て",
    "summary": "Yostarは本日（2026年11月13日），ManjuuGamesと共同パブリッシングする新作タイトル「アズールプロミリア」の公式配信を11月20日20：00より実施すると発表した。今回は「特別番組」と「公式生放送」の2本立てとなる。",
    "link": "https://www.4gamer.net/games/784/G078489/20261113051/",
@@ -26773,7 +26861,7 @@
    "title": "「見ざる」「聞かざる」「言わざる」の3人協力爆弾解除ゲーム『BOMBANANA!』のPS5、Xbox Series X|S、Xbox One版が本日発売。「圧倒的に好評」を獲得し、販売本数は200万本を超える話題作",
    "summary": "ジェスチャー、声、ビンタなどのアクションで情報を伝え合い爆弾解除を目指す話題作。Steamでは「圧倒的に好評」を獲得、販売本数は200万本を超える",
    "link": "https://news.denfaminicogamer.jp/news/2611132e",
-   "pubDate": "2026-11-13T08:40:57.000Z",
+   "pubDate": "2026-11-13T08:40:00.000Z",
    "firstSeen": "2026-11-13T08:47:41.452Z",
    "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Screen1-1024x576.png",
    "source": "電ファミニコゲーマー",
@@ -26801,40 +26889,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2611132e"
-    }
-   ]
-  },
-  {
-   "title": "『BOMBANANA!』のPS5、Xbox Series X|S、Xbox One版が本日発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2VIakhTeER4NFMyRXB4bzA2VGVrWFJIXzBKaEs0RkFURXIwZW9SQjV4T3dtSDhGVm55MGtFbXh0VkxKV0hIQTZRRDhtNV8wTTl4Qm9DeXpQQQ?oc=5",
-   "pubDate": "2026-11-13T08:40:00.000Z",
-   "firstSeen": "2026-11-13T08:47:41.452Z",
-   "image": null,
-   "source": "電ファミニコゲーマー",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "BOMBANANA!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2VIakhTeER4NFMyRXB4bzA2VGVrWFJIXzBKaEs0RkFURXIwZW9SQjV4T3dtSDhGVm55MGtFbXh0VkxKV0hIQTZRRDhtNV8wTTl4Qm9DeXpQQQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -35158,6 +35212,12 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/261113o"
+    },
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yaUlQeFdSTWRaRUdlUDFIRE04UDRLbHk5Z0hLdTN1TzdhMnNYZlYzRXRpRFh0OFRXTnR0YWRmZTZsQU04MUJBUk5sMEdudzdkS2czclF1OA?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -190345,60 +190405,6 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/wow-forever-wont-have-dead-servers/"
-    }
-   ]
-  },
-  {
-   "title": "Artist With Music In GTA 6 Had No Idea About Any Of That",
-   "summary": "Cliff Richard is among the numerous famous artists who are lending their music to Rockstar's GTA 6, with Richard's classic tune \"Devil Woman…",
-   "link": "https://www.gamespot.com/articles/artist-with-music-in-gta-6-had-no-idea-about-any-of-that/",
-   "pubDate": "2026-10-29T18:50:25.000Z",
-   "firstSeen": "2026-10-29T19:47:37.999Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_08.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/artist-with-music-in-gta-6-had-no-idea-about-any-of-that/"
-    }
-   ]
-  },
-  {
-   "title": "A PUBG TV Show Is Coming To Netflix, Starring Donald Glover",
-   "summary": "Krafton and Netflix today announced a live-action TV show based on PUBG, and it will star Emmy-winner Donald Glover. In fact, Glover will no…",
-   "link": "https://www.gamespot.com/articles/a-pubg-tv-show-is-coming-to-netflix-starring-donald-glover/",
-   "pubDate": "2026-10-29T18:49:28.000Z",
-   "firstSeen": "2026-10-29T19:47:37.999Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/glover.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/a-pubg-tv-show-is-coming-to-netflix-starring-donald-glover/"
     }
    ]
   }
