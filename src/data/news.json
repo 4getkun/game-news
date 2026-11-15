@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-15T02:47:47.532Z",
+ "generatedAt": "2026-11-15T03:48:02.658Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1315,
+  "exact": 1309,
   "syndicated": 77,
-  "similar": 362,
-  "syndicatedTotal": 414,
+  "similar": 361,
+  "syndicatedTotal": 412,
   "syndicatedLeft": 29
  },
  "calendar": [
@@ -4950,6 +4950,20 @@
   {
    "date": "2026-11-12",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "みんなでティア表!",
+   "title": "価値観当てパーティーゲーム『みんなでティア表！』11月12日発売。“カレーに入れる具材Tier”など、意外と知らない友だちの好みを当てよう",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncXZBcmtuU0JLaGtoWHZtVDdETTFKWThxUk8wVTVwUFZNelJHd3dXZ05PZDJnZTh2NzdLa21Zc2NYTWtCRE1ZVHJRYm5UMURlYUpKYnhSOA?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-12",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -7835,6 +7849,22 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
+   "work": null,
+   "title": "「ハローキティ」新作UTがユニクロから12月上旬に発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190989.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
    "work": "ピクミン",
    "title": "キーズファクトリーより『ピクミン』Nintendo Switch 2 用 アクセサリーが12月中旬より発売",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaRFlQZkRZYVlPWWV1a3VESVJvUFR3ZkRtanREYnluZHNZeHg2dW5sYUtfanowWkhXNmVnb0p4eUQ5NFhpdEdiQlllY2h0UlE2?oc=5",
@@ -8128,6 +8158,24 @@
    "platforms": [
     "mobile"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-01",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "「レインボーシックス シージ」最新アップデート「Year 11 Season 4」プレビュー＆開発インタビュー「シージ」らしさに遠慮しない。12月1日開幕、ランクマッチの刷新など新シーズンの見どころをチェック",
+   "link": "https://game.watch.impress.co.jp/docs/interview/2156520.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [
+    "update",
+    "event",
+    "review"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -11010,8 +11058,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 969,
-   "accepted": 943
+   "archived": 964,
+   "accepted": 938
   },
   {
    "id": "4gamer-sp",
@@ -11043,8 +11091,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1192,
-   "accepted": 1065
+   "archived": 1183,
+   "accepted": 1056
   },
   {
    "id": "gamewatch",
@@ -11054,8 +11102,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 652,
-   "accepted": 623
+   "archived": 650,
+   "accepted": 621
   },
   {
    "id": "gamespark",
@@ -11065,8 +11113,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1206,
-   "accepted": 1189
+   "archived": 1209,
+   "accepted": 1192
   },
   {
    "id": "inside-games",
@@ -11076,8 +11124,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1635,
-   "accepted": 1238
+   "archived": 1631,
+   "accepted": 1234
   },
   {
    "id": "ps-blog",
@@ -11120,8 +11168,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 647,
-   "accepted": 513
+   "archived": 643,
+   "accepted": 509
   },
   {
    "id": "gnews-dengeki",
@@ -11131,8 +11179,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 671,
-   "accepted": 386
+   "archived": 668,
+   "accepted": 384
   },
   {
    "id": "gnews-newgame",
@@ -11141,9 +11189,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 97,
-   "archived": 584,
-   "accepted": 537
+   "fetched": 94,
+   "archived": 585,
+   "accepted": 538
   },
   {
    "id": "gnews-switch2",
@@ -11153,8 +11201,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1447,
-   "accepted": 1264
+   "archived": 1439,
+   "accepted": 1258
   },
   {
    "id": "gnews-ps5",
@@ -11164,8 +11212,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 736,
-   "accepted": 663
+   "archived": 731,
+   "accepted": 659
   },
   {
    "id": "gnews-update",
@@ -11174,7 +11222,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
+   "fetched": 85,
    "archived": 449,
    "accepted": 360
   },
@@ -11186,8 +11234,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25357,
-   "accepted": 428
+   "archived": 25253,
+   "accepted": 424
   },
   {
    "id": "gematsu",
@@ -11197,8 +11245,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 311,
-   "accepted": 311
+   "archived": 309,
+   "accepted": 309
   },
   {
    "id": "ign",
@@ -11230,8 +11278,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 291,
-   "accepted": 291
+   "archived": 292,
+   "accepted": 292
   },
   {
    "id": "nintendolife",
@@ -11241,8 +11289,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 342,
-   "accepted": 342
+   "archived": 341,
+   "accepted": 341
   },
   {
    "id": "pcgamer",
@@ -11257,6 +11305,508 @@
   }
  ],
  "items": [
+  {
+   "title": "【GTA6最新情報】発売直前に約1GBの必須アップデート配信！新映像＆アニメキャラクターも公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcWVacjU4b0cwWVdfVHRUNWFiYlYtYlZjVGVBbER2cnN0MW9wejZ1MHZTS19XX3RNLTN3dUhJRDhjNkNVYXdmSEotbk5HR1ZlNHNoc0F6eVhwczBhUFdZd1lXZXVadnVBeGFibE1BREpBSFpQTUpNazRmcnh3Q19hVmR2NU8wdGdqdDNwVVVrekF0SUVlMmZGZnIxMnlmUUF0MWZzXzdZdjFLNWh3X1dRMENqQnJHOWRvV2xpNUpaNmpxR2dzVkIxY1JjNnhIa1Fha1I0WTVxRl8?oc=5",
+   "pubDate": "2026-11-15T03:40:04.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "MMOEXP",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MMOEXP",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcWVacjU4b0cwWVdfVHRUNWFiYlYtYlZjVGVBbER2cnN0MW9wejZ1MHZTS19XX3RNLTN3dUhJRDhjNkNVYXdmSEotbk5HR1ZlNHNoc0F6eVhwczBhUFdZd1lXZXVadnVBeGFibE1BREpBSFpQTUpNazRmcnh3Q19hVmR2NU8wdGdqdDNwVVVrekF0SUVlMmZGZnIxMnlmUUF0MWZzXzdZdjFLNWh3X1dRMENqQnJHOWRvV2xpNUpaNmpxR2dzVkIxY1JjNnhIa1Fha1I0WTVxRl8?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "「このゲームは絶対に自分の言葉で訳したい」―『moon』に人生を変えられ、『ドラクエ6』のバーバラに魅了された『HORSES』翻訳者・ラブムー氏が持つ、ゲームへの愛と翻訳への情熱【インタビュー】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174891.html",
+   "pubDate": "2026-11-15T03:30:03.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "moon",
+    "ドラクエ6",
+    "HORSES"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174891.html"
+    }
+   ]
+  },
+  {
+   "title": "「ハローキティ」新作UTがユニクロから12月上旬に発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190989.html",
+   "pubDate": "2026-11-15T03:20:02.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/15/190989.html"
+    }
+   ]
+  },
+  {
+   "title": "不満が爆発した「#SaveSiege」運動から信頼回復まで—『レインボーシックス シージ』開発チームが明かした「プレイヤーの声」との向き合い方",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174890.html",
+   "pubDate": "2026-11-15T03:15:02.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "レインボーシックス シージ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174890.html"
+    }
+   ]
+  },
+  {
+   "title": "ハッシュタグは「#ストザン」でポスト！ 「STRANGER THAN HEAVEN」の全国体験会レポート＆開発陣合同インタビューをお届け",
+   "summary": "セガは2026年11月14日，「STRANGERTHANHEAVEN」の全国体験会およびクリエイターサイン会を，東京・池袋のヨドバシカメラマルチメディア池袋で開催した。体験会に加えて，開発陣へのインタビューの模様もあわせてお伝えしたい。",
+   "link": "https://www.4gamer.net/games/865/G086590/20261115003/",
+   "pubDate": "2026-11-15T03:12:46.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/865/G086590/20261115003/"
+    }
+   ]
+  },
+  {
+   "title": "『シージ』をターン制にすると何が変わる？『レインボーシックス タクティクス』アートディレクターに聞く、俯瞰視点ならではのこだわり【国内独占対面インタビュー】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174889.html",
+   "pubDate": "2026-11-15T03:10:03.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "シージ",
+    "レインボーシックス タクティクス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174889.html"
+    }
+   ]
+  },
+  {
+   "title": "20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ不可の“カプセル化”に、コミュニティから非難の嵐も",
+   "summary": "“失われたゲーム”と目されていた『ポケモン釣り大会DS』を所持しているというユーザーが現れた。しかし、そのゲームソフトの「保存方法」が物議を呼んでいるようだ。",
+   "link": "https://automaton-media.com/articles/newsjp/20261115-479333/",
+   "pubDate": "2026-11-15T03:06:40.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479333-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261115-479333/"
+    }
+   ]
+  },
+  {
+   "title": "『LoL』超大型アプデ『New Dawn』発表！新クライアント導入＆マップ刷新へ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVa0d0NUtTLS1BSC1teHpxdWF2WmYyTFpLdl9LZ0RNUHVTRkxQYXdlc3lPcVRTT3NZNktUdjQwVmJFTV9nSUZHQk13?oc=5",
+   "pubDate": "2026-11-15T03:03:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "ゴゴ通信",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "LoL",
+    "New Dawn"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ゴゴ通信",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVa0d0NUtTLS1BSC1teHpxdWF2WmYyTFpLdl9LZ0RNUHVTRkxQYXdlc3lPcVRTT3NZNktUdjQwVmJFTV9nSUZHQk13?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
+    }
+   ]
+  },
+  {
+   "title": "『STRANGER THAN HEAVEN』開発者インタビュー。公式の略称『ストザン』が意外と浸透していないらしい──もし続編のタイトルが『ストレンジャー ザン 〇〇』になっても、『ストザン』はそのまま使える",
+   "summary": "横山氏「いくら言っても伝わらないので、記事に書いておいてほしい（笑）」。もし続編のタイトルが『ストレンジャー ザン 〇〇』になっても、『ストザン』はそのまま使える",
+   "link": "https://news.denfaminicogamer.jp/interview/261115a",
+   "pubDate": "2026-11-15T03:00:53.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image_003-11-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "STRANGER THAN HEAVEN",
+    "ストザン",
+    "ストレンジャー ザン 〇〇"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/interview/261115a"
+    }
+   ]
+  },
+  {
+   "title": "「『シージ』が最初のFPSになるとは思わない。でも最後のFPSにはなりたい」―10年以上続く『レインボーシックス シージ』が目指す未来【開発者インタビュー】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174888.html",
+   "pubDate": "2026-11-15T03:00:07.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "シージ",
+    "レインボーシックス シージ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174888.html"
+    }
+   ]
+  },
+  {
+   "title": "『レインボーシックス シージ』Docがどこからでも味方を回復できるように！ランクマッチは「ソロ／デュオ」と「フレックス」に分離、64発装填の新SMGも登場【Y11 S4発表内容ひとまとめ】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174887.html",
+   "pubDate": "2026-11-15T03:00:03.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "レインボーシックス シージ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174887.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】えなこが7年ぶりの池ハロに降臨！過去最多17万人が沸いた“雲をまとう神様”衣装の制作秘話を独占インタビュー【写真10枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190988.html",
+   "pubDate": "2026-11-15T03:00:03.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/15/190988.html"
+    }
+   ]
+  },
+  {
+   "title": "「レインボーシックス シージ」Y12ではランクマッチへのセキュアブート導入を目指す。オペレーター制作の舞台裏も明らかに［インタビュー］",
+   "summary": "「レインボーシックスシージ」の世界大会「BLASTR6OSAKAMAJOR」に先立ち，メディア向けイベントが開催された。本稿では，オペレーター制作の舞台裏を紹介するセッションと，ランクマッチの改修や今後の展望などを聞いた開発陣への合同インタビューの模様をお届けする。",
+   "link": "https://www.4gamer.net/games/902/G090227/20261115002/",
+   "pubDate": "2026-11-15T03:00:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "event",
+    "esports",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/902/G090227/20261115002/"
+    }
+   ]
+  },
+  {
+   "title": "「レインボーシックス シージ」Year11 Season4の情報が公開。Docのリマスターやランクマッチのマッチメイキング改修などを予定。貴重なスキンを獲得できるチャンスも",
+   "summary": "ユービーアイソフトは，「レインボーシックスシージ」のイヤー11シーズン4「OperationVitalSignal」のアップデート情報を公開した。新シーズンでは，ランクマッチのマッチメイキング改修やオペレーター「Doc」のリマスター，新武器の追加などが予定されている。本稿では，メ…",
+   "link": "https://www.4gamer.net/games/902/G090227/20261115001/",
+   "pubDate": "2026-11-15T03:00:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "new",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/902/G090227/20261115001/"
+    }
+   ]
+  },
+  {
+   "title": "「レインボーシックス シージ」最新アップデート「Year 11 Season 4」プレビュー＆開発インタビュー「シージ」らしさに遠慮しない。12月1日開幕、ランクマッチの刷新など新シーズンの見どころをチェック",
+   "summary": "ユービーアイソフトは11月12日、大阪で開催したメディア向けプレビューイベント「BLAST R6 OSAKA MAJOR PREVIEW EVENT」において、タクティカルFPS「レインボーシックス シージ」の最新アップデート「Year 11 Season 4」に関する情報を公開…",
+   "link": "https://game.watch.impress.co.jp/docs/interview/2156520.html",
+   "pubDate": "2026-11-15T03:00:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "update",
+    "event",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/interview/2156520.html"
+    }
+   ]
+  },
+  {
+   "title": "一斉行動「ブリーチ」による爽快感！「レインボーシックス タクティクス」プレゼンレポートポール・ビショップが帰ってくる。「シージ」作中部隊再建の物語を描くターン制戦略ゲーム",
+   "summary": "ユービーアイソフトは11月12日、大阪で開催したメディア向けプレビューイベント「BLAST R6 OSAKA MAJOR PREVIEW EVENT」にて、2027年発売予定のPC/PS5/Xbox Series X|S用ターン制戦略ゲーム「レインボーシックス タクティクス」に関…",
+   "link": "https://game.watch.impress.co.jp/docs/preview/2156519.html",
+   "pubDate": "2026-11-15T03:00:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "event",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/preview/2156519.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
+   "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand…",
+   "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+   "pubDate": "2026-11-15T03:00:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/"
+    }
+   ]
+  },
   {
    "title": "しまむらで「ディズニー」のトレーナーが11月18日発売！トイ・ストーリーやベイマックスなど全10種、レディース・メンズ・キッズと幅広く展開",
    "summary": "",
@@ -43453,7 +44003,7 @@
    "firstSeen": "2026-11-12T03:47:35.019Z",
    "image": null,
    "source": "ムーミン公式サイト | Moomin Official Website",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -43470,9 +44020,9 @@
    "sources": [
     {
      "name": "ムーミン公式サイト | Moomin Official Website",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yQ3JiMFAxQUNvdi1DeDNfQWNEdEc0RDl1U09MYTJSd09tYkFYVnYzTDhfNTRUbDRhbElkNVdZbENSajZQa0pEbWpYQlR1b2Q0QjFCRDdOWlh4b2dkcjdnT1lB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -69987,6 +70537,35 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/902/G090206/20261110019/"
+    }
+   ]
+  },
+  {
+   "title": "価値観当てパーティーゲーム『みんなでティア表！』11月12日発売。“カレーに入れる具材Tier”など、意外と知らない友だちの好みを当てよう",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncXZBcmtuU0JLaGtoWHZtVDdETTFKWThxUk8wVTVwUFZNelJHd3dXZ05PZDJnZTh2NzdLa21Zc2NYTWtCRE1ZVHJRYm5UMURlYUpKYnhSOA?oc=5",
+   "pubDate": "2026-11-10T06:16:00.000Z",
+   "firstSeen": "2026-11-15T03:47:47.447Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "みんなでティア表!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncXZBcmtuU0JLaGtoWHZtVDdETTFKWThxUk8wVTVwUFZNelJHd3dXZ05PZDJnZTh2NzdLa21Zc2NYTWtCRE1ZVHJRYm5UMURlYUpKYnhSOA?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -189733,535 +190312,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xU1ZhZktwS0c3M2ZiODhzVExYaDNybzMwTFhOV0VPd1dPZ2FZSmlaUjhSWTFZOHdtcWVtd1VDbUhNNnYyM2FxZFVzWQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "After a month of voting, PC Gamer readers have picked the best RTS unit of all time",
-   "summary": "Tanks for voting.",
-   "link": "https://www.pcgamer.com/games/rts/after-a-month-of-voting-pc-gamer-readers-have-picked-the-best-rts-unit-of-all-time/",
-   "pubDate": "2026-10-29T14:16:19.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/LJUoWcbpT8bkdrm5ijDGa4-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rts/after-a-month-of-voting-pc-gamer-readers-have-picked-the-best-rts-unit-of-all-time/"
-    }
-   ]
-  },
-  {
-   "title": "Want to Play with the Latest Tech But Don’t Have the Specs to Match? Use NVIDIA GeForce NOW to Play with PC-Only Technology",
-   "summary": "",
-   "link": "https://www.ign.com/articles/want-to-play-with-the-latest-tech-but-dont-have-the-specs-to-match-use-nvidia-geforce-now-to-play-with-pc-only-technology",
-   "pubDate": "2026-10-29T14:10:38.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/vlcsnap-2026-10-12-10h13m08s140-1791805391303.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/want-to-play-with-the-latest-tech-but-dont-have-the-specs-to-match-use-nvidia-geforce-now-to-play-with-pc-only-technology"
-    }
-   ]
-  },
-  {
-   "title": "World of Warcraft: Forever's shiny lighting and water changes will be coming to retail: 'I don't know when, but I know they're talking about doing it'",
-   "summary": "World of Warcraft: Eventually.",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/",
-   "pubDate": "2026-10-29T14:09:56.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/Mxxu8paSa2qdYUVMb398kX-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/"
-    }
-   ]
-  },
-  {
-   "title": "フロム新作『The Duskbloods』2027年に発売延期―ネットワークテストの結果受け、ルールやバランスに最終調整の期間を設けるべく",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174260.html",
-   "pubDate": "2026-10-29T14:09:42.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "The Duskbloods"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174260.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/29/190060.html"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hU1A0LVVDdUpaVHZaTC1xWTNiZ042SnZyOHBZdmJNQWhSaE9LcmFjeTZaMlJzYXg4OGIxdFJrbkc5OTNOdzB4aHNveUdMWVo4MGRqbkZ5eGphOHlmemtB?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "フロム・ソフトウェア新作『ダスクブラッド』2027年に発売延期。“直接的な戦闘だけじゃない”コンセプトを磨くべく、最終調整中",
-   "summary": "フロム・ソフトウェアは10月29日、『The Duskbloods』の発売時期を2026年から2027年へと変更すると発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261029-476538/",
-   "pubDate": "2026-10-29T14:08:56.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476538-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダスクブラッド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261029-476538/"
-    }
-   ]
-  },
-  {
-   "title": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
-   "summary": "Last week, EA announced it's laying off 400 workers across multiple studios, cancelling projects and refocusing on its biggest money-makers.…",
-   "link": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-   "pubDate": "2026-10-29T14:08:30.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy"
-    }
-   ]
-  },
-  {
-   "title": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027",
-   "summary": "FromSoftware's The Duskbloods - a game that is best described as Bloodborne meets Sekiro meets Dark Souls, with jetpacks and dinos thrown in…",
-   "link": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
-   "pubDate": "2026-10-29T14:07:30.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 16,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027"
-    },
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/switch-2-exclusives-the-duskbloods-delayed-to-2027/"
-    },
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027"
-    }
-   ]
-  },
-  {
-   "title": "The Duskbloods delayed to 2027",
-   "summary": "FromSoftware has delayed player-versus-player-versus-environment-based multiplayer action game The Duskbloods from its previously planned 20…",
-   "link": "https://www.gematsu.com/2026/10/the-duskbloods-delayed-to-2027",
-   "pubDate": "2026-10-29T14:06:21.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Duskbloods-Delay_10-29-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/the-duskbloods-delayed-to-2027"
-    }
-   ]
-  },
-  {
-   "title": "フロム新作『ダスクブラッド』の発売時期が「2027年」に変更。より良いゲーム体験を届けるため、ゲームルールやバランスの最終調整へ",
-   "summary": "より良いゲーム体験を届けるため、ゲームルールやバランスの最終調整の期間を設けることにしたとのこと",
-   "link": "https://news.denfaminicogamer.jp/news/2610292z",
-   "pubDate": "2026-10-29T14:04:31.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/3a2c3cb33d25ac4e9f73c9f518f9391a17037293bb341c6d1abf986aec81ec4f.jpg-1024x576.webp",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダスクブラッド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610292z"
-    }
-   ]
-  },
-  {
-   "title": "Gothic Remake ‘Feature Update 1’ now available, adds Photo Mode and more",
-   "summary": "Publisher THQ Nordic and developer Alkimia Interactive have released the first features update for Gothic …",
-   "link": "https://www.gematsu.com/2026/10/gothic-remake-feature-update-1-now-available-adds-photo-mode-and-more",
-   "pubDate": "2026-10-29T14:02:32.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Gothic-Remake-Update_10-29-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/gothic-remake-feature-update-1-now-available-adds-photo-mode-and-more"
-    }
-   ]
-  },
-  {
-   "title": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs",
-   "summary": "And it even had free shipping.",
-   "link": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/",
-   "pubDate": "2026-10-29T14:01:48.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/jcGVMaYBM7XvknNbUmJcxn-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/"
-    }
-   ]
-  },
-  {
-   "title": "セクシー美女が怪物はびこる地下鉄駅からの脱出目指すサバイバルホラー『トータル・ホラー』Steamで発売",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174259.html",
-   "pubDate": "2026-10-29T14:00:37.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "トータル・ホラー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174259.html"
-    }
-   ]
-  },
-  {
-   "title": "Afterlife With Archie Lives Again in New Mausoleum Edition Hardcover",
-   "summary": "One of the best modern Archie stories ever published is rising from the grave, as Oni Press reveals the Afterlife With Archie: Mausoleum Edi…",
-   "link": "https://www.ign.com/articles/afterlife-with-archie-lives-again-in-new-mausoleum-edition-hardcover",
-   "pubDate": "2026-10-29T14:00:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/28/mixcollage-28-oct-2026-05-35-pm-2881-1793224059210.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/afterlife-with-archie-lives-again-in-new-mausoleum-edition-hardcover"
-    }
-   ]
-  },
-  {
-   "title": "Bloodborne Movie Gets Promising Update from Producer Jacksepticeye",
-   "summary": "Seán \"Jacksepticeye\" McLoughlin has provided an exclusive and promising update on the Bloodborne film to IGN.",
-   "link": "https://www.ign.com/articles/bloodborne-movie-gets-promising-update-from-producer-jacksepticeye",
-   "pubDate": "2026-10-29T14:00:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://assets-prd.ignimgs.com/2024/11/24/bloodborneconcord2-1732446312120.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update",
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/bloodborne-movie-gets-promising-update-from-producer-jacksepticeye"
-    }
-   ]
-  },
-  {
-   "title": "Jacksepticeye Talks Being Hitman's New Elusive Target, Bloodborne Movie, Dispatch, and More",
-   "summary": "Renowned content creator and producer of the Bloodborne film, Jacksepticeye, is the next elusive target in Hitman... and we got to pick his…",
-   "link": "https://www.ign.com/articles/jacksepticeye-talks-being-hitmans-new-elusive-target-bloodborne-movie-dispatch-and-more",
-   "pubDate": "2026-10-29T14:00:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/29/jacksepticeye-hitman-recording-2-1793257657614.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/jacksepticeye-talks-being-hitmans-new-elusive-target-bloodborne-movie-dispatch-and-more"
-    }
-   ]
-  },
-  {
-   "title": "Making Port、SF採掘サバイバル『AETHUS』をPS5、Xbox、Switch2、MSStore、Xbox Ally向けに2027年初頭に発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBMdmtLMUpsX2V3aV9kVDlOb0NaNnotT2dRakM3c2toSk8tYTVyVExwSmNCeUVtV0lCVi1kZmVRZHY4QzEw?oc=5",
-   "pubDate": "2026-10-29T13:59:00.000Z",
-   "firstSeen": "2026-10-29T19:47:37.999Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "AETHUS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBMdmtLMUpsX2V3aV9kVDlOb0NaNnotT2dRakM3c2toSk8tYTVyVExwSmNCeUVtV0lCVi1kZmVRZHY4QzEw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "Apple’s First Touchscreen MacBook Pro Is Up for Preorder",
-   "summary": "Apple has a batch of new and upgraded items up for preorder, including its very first touchscreen MacBook, the first OLED iPad Mini, and mor…",
-   "link": "https://www.ign.com/articles/apple-2026-touchscreen-macbook-pro-m6-ipad-mini-oled",
-   "pubDate": "2026-10-29T13:55:08.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/29/apple-touchscreen-macbook-pro-ipad-mini-oled-1793280536449.jpeg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/apple-2026-touchscreen-macbook-pro-m6-ipad-mini-oled"
-    }
-   ]
-  },
-  {
-   "title": "Minecraft Creator Is Selling His $70 Million Beverly Hills Mansion, But There’s Something Unusual About It",
-   "summary": "Markus \"Notch\" Persson, the creator of Minecraft, is selling his Beverly Hills mansion that he bought back in 2014 for $70 million. At the t…",
-   "link": "https://www.gamespot.com/articles/minecraft-creator-is-selling-his-70-million-beverly-hills-mansion-but-theres-something-unusual-about-it/",
-   "pubDate": "2026-10-29T13:54:09.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/minecraft-Large-2.jpeg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/minecraft-creator-is-selling-his-70-million-beverly-hills-mansion-but-theres-something-unusual-about-it/"
     }
    ]
   }
