@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-15T06:47:55.256Z",
+ "generatedAt": "2026-11-15T07:48:03.122Z",
  "count": 6000,
  "dedupe": {
   "exact": 1298,
   "syndicated": 77,
-  "similar": 359,
+  "similar": 358,
   "syndicatedTotal": 411,
   "syndicatedLeft": 30
  },
@@ -1208,43 +1208,6 @@
     "new"
    ],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-04",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "「Apex Legends」シーズン31「Cipher」が11月4日に開幕。クリプトのリワークや二丁持ちの「アキンボ・ウィングマン」，レジェンドBANなどが登場へ",
-   "link": "https://www.4gamer.net/games/449/G044914/20261029049/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "update",
-    "trouble"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-04",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "「Apex」ダイヤ以上のロビーで「レジェンドBAN」を実装。シーズン31「サイファー」11月4日より開幕クリプトの刷新、ウィングマン2丁持ちなど新要素多数",
-   "link": "https://game.watch.impress.co.jp/docs/news/2152324.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox"
-   ],
    "spoiler": false
   },
   {
@@ -11074,8 +11037,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 951,
-   "accepted": 925
+   "archived": 946,
+   "accepted": 920
   },
   {
    "id": "4gamer-sp",
@@ -11096,8 +11059,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 566,
-   "accepted": 561
+   "archived": 567,
+   "accepted": 562
   },
   {
    "id": "denfaminico",
@@ -11107,8 +11070,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1179,
-   "accepted": 1052
+   "archived": 1177,
+   "accepted": 1051
   },
   {
    "id": "gamewatch",
@@ -11118,8 +11081,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 642,
-   "accepted": 613
+   "archived": 641,
+   "accepted": 612
   },
   {
    "id": "gamespark",
@@ -11129,8 +11092,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1205,
-   "accepted": 1188
+   "archived": 1203,
+   "accepted": 1186
   },
   {
    "id": "inside-games",
@@ -11140,8 +11103,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1625,
-   "accepted": 1229
+   "archived": 1621,
+   "accepted": 1226
   },
   {
    "id": "ps-blog",
@@ -11184,8 +11147,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 635,
-   "accepted": 500
+   "archived": 634,
+   "accepted": 501
   },
   {
    "id": "gnews-dengeki",
@@ -11195,8 +11158,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 670,
-   "accepted": 385
+   "archived": 669,
+   "accepted": 384
   },
   {
    "id": "gnews-newgame",
@@ -11205,9 +11168,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 93,
-   "archived": 579,
-   "accepted": 534
+   "fetched": 91,
+   "archived": 580,
+   "accepted": 535
   },
   {
    "id": "gnews-switch2",
@@ -11217,8 +11180,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1428,
-   "accepted": 1248
+   "archived": 1421,
+   "accepted": 1243
   },
   {
    "id": "gnews-ps5",
@@ -11228,8 +11191,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 726,
-   "accepted": 655
+   "archived": 723,
+   "accepted": 652
   },
   {
    "id": "gnews-update",
@@ -11238,8 +11201,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 88,
-   "archived": 444,
+   "fetched": 89,
+   "archived": 443,
    "accepted": 356
   },
   {
@@ -11250,7 +11213,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25078,
+   "archived": 25000,
    "accepted": 421
   },
   {
@@ -11272,8 +11235,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1169,
-   "accepted": 1169
+   "archived": 1168,
+   "accepted": 1168
   },
   {
    "id": "eurogamer",
@@ -11316,11 +11279,165 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 589,
-   "accepted": 589
+   "archived": 590,
+   "accepted": 590
   }
  ],
  "items": [
+  {
+   "title": "『エルシャダイ』リマスター版が75％オフで1000円切り。『ダンガンロンパ』が90％オフでわずか213円。“雪山人狼” 『Project Winter』は80％オフで202円とかなりお手頃。今週の高割引率PCゲーム",
+   "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
+   "link": "https://automaton-media.com/articles/newsjp/20261115-479352/",
+   "pubDate": "2026-11-15T07:38:10.000Z",
+   "firstSeen": "2026-11-15T07:47:42.380Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479352-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "new",
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 90,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "エルシャダイ",
+    "ダンガンロンパ",
+    "Project Winter"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261115-479352/"
+    }
+   ]
+  },
+  {
+   "title": "7年ぶり日本開催「レインボーシックス シージ」世界大会「BLAST R6 OSAKA MAJOR 2026」現地レポート制したのは「FaZe Clan」。前回王者DarkZeroを完封3-0勝利",
+   "summary": "ユービーアイソフトの対戦型タクティカルFPS「レインボーシックス シージ」の国際eスポーツ大会「BLAST R6 OSAKA MAJOR 2026」が、11月6日から15日にかけて開催された。11月13日からは大阪府の「ATCホール」にて、観客を迎えてのプレイオフが行われている。",
+   "link": "https://game.watch.impress.co.jp/docs/kikaku/2156533.html",
+   "pubDate": "2026-11-15T07:32:28.000Z",
+   "firstSeen": "2026-11-15T07:47:42.380Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "esports",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/kikaku/2156533.html"
+    }
+   ]
+  },
+  {
+   "title": "The most annoying questgivers in PC games",
+   "summary": "The XP isn't worth it.",
+   "link": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+   "pubDate": "2026-11-15T07:21:40.000Z",
+   "firstSeen": "2026-11-15T07:47:42.380Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/AYyTypwYVPussabQGzn9TJ-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/"
+    }
+   ]
+  },
+  {
+   "title": "アリスやジュリエットなどの名作文学の美少女とダンジョンを探索するRPG『LitGirls 文学迷宮と少女』脱衣表現を強化した成人版やパッチもあり【26年10月後半にHOTな「美少女ゲー」はこれだ！】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174894.html",
+   "pubDate": "2026-11-15T07:00:03.000Z",
+   "firstSeen": "2026-11-15T07:47:42.380Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "LitGirls 文学迷宮と少女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174894.html"
+    }
+   ]
+  },
+  {
+   "title": "【今日まで】『ギャグマンガ日和GB』Kindle版の50%ポイント還元セールが開催中。既刊9巻購入で4834円→2417ポイントが還元",
+   "summary": "増田こうすけ氏が描く独特の世界観と予測不能な展開が魅力の人気作。聖徳太子やクマ吉くんなどおなじみのキャラクターたちももちろん登場",
+   "link": "https://news.denfaminicogamer.jp/news/261115n",
+   "pubDate": "2026-11-15T06:56:48.000Z",
+   "firstSeen": "2026-11-15T07:47:42.380Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/71LE39bYtSL._SL1200_-754x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ギャグマンガ日和GB"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261115n"
+    }
+   ]
+  },
   {
    "title": "しまむらで「ちいかわ」グッズが11月18日発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種",
    "summary": "",
@@ -11682,6 +11799,43 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261115-479303/"
+    }
+   ]
+  },
+  {
+   "title": "【最大80％オフ】今週のお得ゲーム10選：『DQM3』『空の軌跡 the 1st』『GTAトリロジー』など",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ObEV2bUdMSVVRMEJYYnJHc0xQVm0xelJGcF8xLTdGZFRpTUhqN3ptZ3k1bk1NMGl6aURieFJRZWFnWi14ZnJXMHZXYWVUTkxlWFFITGcxTVY3UQ?oc=5",
+   "pubDate": "2026-11-15T04:30:00.000Z",
+   "firstSeen": "2026-11-15T07:47:42.380Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 80,
+    "free": false
+   },
+   "platforms": [],
+   "works": [
+    "DQM3",
+    "空の軌跡 the 1st",
+    "GTAトリロジー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ObEV2bUdMSVVRMEJYYnJHc0xQVm0xelJGcF8xLTdGZFRpTUhqN3ptZ3k1bk1NMGl6aURieFJRZWFnWi14ZnJXMHZXYWVUTkxlWFFITGcxTVY3UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -18151,6 +18305,37 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/14/190933.html"
+    }
+   ]
+  },
+  {
+   "title": "Kindleで『ギャグマンガ日和GB』『只野工業高校の日常』『ハイスコアガール』などコメディ漫画が50％ポイント還元【漫画セール情報】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ET1FXRmFUUUp3cmVpYWJ0RjhxTHJkaDdDWUcyY2ljekV5Tmw2Vks5a3d4bUh3UDJfZmNQR0tibHlyYTVFZ2NDdmJXaDBTR28xRWdyTVhObw?oc=5",
+   "pubDate": "2026-11-13T23:00:00.000Z",
+   "firstSeen": "2026-11-14T06:47:35.615Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ギャグマンガ日和GB",
+    "只野工業高校の日常",
+    "ハイスコアガール"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ET1FXRmFUUUp3cmVpYWJ0RjhxTHJkaDdDWUcyY2ljekV5Tmw2Vks5a3d4bUh3UDJfZmNQR0tibHlyYTVFZ2NDdmJXaDBTR28xRWdyTVhObw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -132330,7 +132515,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 4,
    "categories": [],
    "deal": null,
    "platforms": [],
@@ -190155,206 +190340,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/930/G093069/20261028017/"
-    }
-   ]
-  },
-  {
-   "title": "「Apex Legends」シーズン31「Cipher」が11月4日に開幕。クリプトのリワークや二丁持ちの「アキンボ・ウィングマン」，レジェンドBANなどが登場へ",
-   "summary": "「ApexLegends」のシーズン31「Cipher」が11月4日に始まる。クリプトのリワークやレヴナント，ライフラインの強化，新武器「アキンボ・ウィングマン」，レジェンドBANの導入などが実施される。",
-   "link": "https://www.4gamer.net/games/449/G044914/20261029049/",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "update",
-    "trouble"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/449/G044914/20261029049/"
-    }
-   ]
-  },
-  {
-   "title": "「ギルクラ×カバネリ展」内覧レポ！ 世界観堪能できる展示＋いのりと無名がかわいい両主役梶裕貴さん＆畠中祐さんも登場",
-   "summary": "アニメ「ギルティクラウン」と「甲鉄城のカバネリ」の合同展覧会「ギルティクラウン×甲鉄城のカバネリ展」が、東京・銀座のギンザミライミュージアムにて10月30日～11月23日まで開催される。本稿では、開催に先立ち行なわれたプレス内覧会の展示に加え、「ギルティクラウン」にて主人公・桜満…",
-   "link": "https://game.watch.impress.co.jp/docs/preview/2152441.html",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/preview/2152441.html"
-    }
-   ]
-  },
-  {
-   "title": "「Apex」ダイヤ以上のロビーで「レジェンドBAN」を実装。シーズン31「サイファー」11月4日より開幕クリプトの刷新、ウィングマン2丁持ちなど新要素多数",
-   "summary": "Electronic Artsは、プレイステーション 5/プレイステーション 4/Xbox Series X|S/Xbox One/Nintendo Switch 2/PC用バトルロイヤルゲーム「Apex Legends」において、シーズン31「サイファー」11月4日3時より開催…",
-   "link": "https://game.watch.impress.co.jp/docs/news/2152324.html",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2152324.html"
-    }
-   ]
-  },
-  {
-   "title": "沖縄にセガの限定商品を販売する「SEGA POP-UP SHOP in 沖縄PARCO CITY」が本日より期間限定オープン「ソニック・ザ・ヘッジホッグ」「龍が如く」などのグッズが登場",
-   "summary": "セガは、「SEGA POP-UP SHOP in 沖縄PARCO CITY」を沖縄県浦添市にあるサンエー浦添西海岸パルコシティの3Fグリーンゾーン特設会場に、本日10月30日より期間限定でオープンする。期間は11月29日まで。営業時間は10時から22時まで。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2151558.html",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2151558.html"
-    }
-   ]
-  },
-  {
-   "title": "「バイオ」30周年を記念した展覧会「THE WORLD OF BIOHAZARD 30周年展」が東京にて本日から開催ニューエラとコラボしたキャップなど本展オリジナルのグッズも販売",
-   "summary": "カプコンのサバイバルホラーゲーム「バイオハザード」シリーズ30周年を記念した展覧会「THE WORLD OF BIOHAZARD 30周年展」を本日10月30日から東京都渋谷区の「渋谷BEAMギャラリー」にて開催する。期間は12月24日まで。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2150971.html",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2150971.html"
-    }
-   ]
-  },
-  {
-   "title": "【HD-2D版ドラクエ1＆2】『ドラゴンクエストI＆II』1周年。原作で味わった感動が鮮やかに蘇った。多数のエピソードや4人目のパーティメンバーの追加などの新要素に驚かされた【今日は何の日？】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85RlhPQXBqRjl5UFFPZXV5Q2RkRGZxODNfZnBRS3BMZkx5RUp2OHN0OUl4Vm80Vjd2aVkteGVSLVJncmlmTlBNYXF4QnRaNkwzcHQ4cXM4Zw?oc=5",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラゴンクエストI&II"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85RlhPQXBqRjl5UFFPZXV5Q2RkRGZxODNfZnBRS3BMZkx5RUp2OHN0OUl4Vm80Vjd2aVkteGVSLVJncmlmTlBNYXF4QnRaNkwzcHQ4cXM4Zw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Havn HS 360 review",
-   "summary": "Stunning simplicity.",
-   "link": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/Qia3WPMt5pGp3q9FtwCife-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/"
     }
    ]
   }
