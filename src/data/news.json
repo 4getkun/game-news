@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-15T05:52:11.147Z",
+ "generatedAt": "2026-11-15T06:47:55.256Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1302,
+  "exact": 1298,
   "syndicated": 77,
-  "similar": 360,
-  "syndicatedTotal": 412,
-  "syndicatedLeft": 29
+  "similar": 359,
+  "syndicatedTotal": 411,
+  "syndicatedLeft": 30
  },
  "calendar": [
   {
@@ -6720,6 +6720,22 @@
    "verb": "release",
    "label": "発売",
    "work": null,
+   "title": "しまむらで「ちいかわ」グッズが11月18日発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190992.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-18",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
    "title": "しまむらで「ディズニー」のトレーナーが11月18日発売！トイ・ストーリーやベイマックスなど全10種、レディース・メンズ・キッズと幅広く展開",
    "link": "https://www.inside-games.jp/article/2026/11/15/190987.html",
    "source": "インサイド",
@@ -11058,8 +11074,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 954,
-   "accepted": 928
+   "archived": 951,
+   "accepted": 925
   },
   {
    "id": "4gamer-sp",
@@ -11091,8 +11107,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1180,
-   "accepted": 1053
+   "archived": 1179,
+   "accepted": 1052
   },
   {
    "id": "gamewatch",
@@ -11102,8 +11118,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 646,
-   "accepted": 617
+   "archived": 642,
+   "accepted": 613
   },
   {
    "id": "gamespark",
@@ -11113,8 +11129,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1207,
-   "accepted": 1190
+   "archived": 1205,
+   "accepted": 1188
   },
   {
    "id": "inside-games",
@@ -11125,7 +11141,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1625,
-   "accepted": 1228
+   "accepted": 1229
   },
   {
    "id": "ps-blog",
@@ -11157,7 +11173,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 128,
+   "archived": 125,
    "accepted": 88
   },
   {
@@ -11165,66 +11181,66 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 636,
-   "accepted": 502
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 635,
+   "accepted": 500
   },
   {
    "id": "gnews-dengeki",
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 667,
-   "accepted": 383
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 670,
+   "accepted": 385
   },
   {
    "id": "gnews-newgame",
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 582,
-   "accepted": 536
+   "ok": true,
+   "error": null,
+   "fetched": 93,
+   "archived": 579,
+   "accepted": 534
   },
   {
    "id": "gnews-switch2",
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 1431,
-   "accepted": 1251
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 1428,
+   "accepted": 1248
   },
   {
    "id": "gnews-ps5",
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 728,
-   "accepted": 656
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 726,
+   "accepted": 655
   },
   {
    "id": "gnews-update",
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 445,
-   "accepted": 357
+   "ok": true,
+   "error": null,
+   "fetched": 88,
+   "archived": 444,
+   "accepted": 356
   },
   {
    "id": "prtimes",
@@ -11234,8 +11250,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25104,
-   "accepted": 420
+   "archived": 25078,
+   "accepted": 421
   },
   {
    "id": "gematsu",
@@ -11305,6 +11321,251 @@
   }
  ],
  "items": [
+  {
+   "title": "しまむらで「ちいかわ」グッズが11月18日発売！お出かけ先でのうっかり汚れに活躍する衣類用シミとりペン全3種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190992.html",
+   "pubDate": "2026-11-15T06:30:03.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/15/190992.html"
+    }
+   ]
+  },
+  {
+   "title": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
+   "summary": "You can try them out now in the closed beta. If you've read our Minecraft Switch 2 review here on Nintendo Life, you'll know one thing curre…",
+   "link": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+   "pubDate": "2026-11-15T06:30:00.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": "https://images.nintendolife.com/96d300dd2c811/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "release",
+    "update",
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update"
+    }
+   ]
+  },
+  {
+   "title": "『スレイヤーズ』『フルメタル・パニック！』など小説合本版が最大50％オフとなるKindleセールが開催中。『狼と香辛料』や『ニンジャスレイヤー』など人気作が多数お得に",
+   "summary": "『フルメタル・パニック！や『機動警察パトレイバー』、『ニンジャスレイヤー』や『俺の妹がこんなに可愛いわけがない』など人気作が多数お得に",
+   "link": "https://news.denfaminicogamer.jp/news/261115m",
+   "pubDate": "2026-11-15T06:27:17.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/A-2026-11-15T152222.207-722x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スレイヤーズ",
+    "フルメタル・パニック!",
+    "狼と香辛料",
+    "ニンジャスレイヤー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261115m"
+    }
+   ]
+  },
+  {
+   "title": "『風燕伝：Where Winds Meet』グローバル版1周年の大型アップデートが配信開始！新エリア「滹沱」の物語や2種のボードゲーム形式の新モードが登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWbjlsMFRTclhCSTlkaFpjaVc2NFRXd0d2dUNmZEFFd0ZsMGcyczROb3FYZE1SbThLM2pNMjBQNk0zU0phckIxZnhPYTZzaVRqVjh4NG9fVDEyUjBMRFRvZFREMUJ3UnQ4NzZLck9tRTU4YlE?oc=5",
+   "pubDate": "2026-11-15T06:15:44.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-update",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 17,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "風燕伝:Where Winds Meet"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWbjlsMFRTclhCSTlkaFpjaVc2NFRXd0d2dUNmZEFFd0ZsMGcyczROb3FYZE1SbThLM2pNMjBQNk0zU0phckIxZnhPYTZzaVRqVjh4NG9fVDEyUjBMRFRvZFREMUJ3UnQ4NzZLck9tRTU4YlE?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "悪意が渦巻くネットの向こうに、善性を見つけられるか。SNSのリアルな人間模様を描く推理ADV『ミカクテイ事件の観測者-Demons’Timeline-』をもう遊んだか",
+   "summary": "『ミカクテイ事件の観測者』では、インターネットの醜さに直面することになるが、そこではときに善意も生まれうる。",
+   "link": "https://automaton-media.com/articles/special-column/20261115-479344/",
+   "pubDate": "2026-11-15T06:02:53.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479344-image2.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ミカクテイ事件の観測者-Demons’Timeline-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/special-column/20261115-479344/"
+    }
+   ]
+  },
+  {
+   "title": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/15/190991.html",
+   "pubDate": "2026-11-15T06:00:03.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "trailer",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "VIRTUAL CIRCLE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/15/190991.html"
+    }
+   ]
+  },
+  {
+   "title": "『マインクラフト』2027年最初のゲームドロップ機能を発表！「Throwing Disc」「Off-hand」を実装予定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTFE5cmFTZExfVWt3Rk5GTnp1RVdCdVg0SW1rWGI1UDVtVVNJMWQ0bV9OOUQ1ejctX1NZLWtMR2ZkZFlPZ3B4M2lLazNqdVpZVEFXaG41aV9Wdw?oc=5",
+   "pubDate": "2026-11-15T05:58:52.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "マインクラフト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTFE5cmFTZExfVWt3Rk5GTnp1RVdCdVg0SW1rWGI1UDVtVVNJMWQ0bV9OOUQ1ejctX1NZLWtMR2ZkZFlPZ3B4M2lLazNqdVpZVEFXaG41aV9Wdw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "来週のサービス終了情報まとめ（スマホゲーム・ソシャゲ）【2026年11月16日～11月22日】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VaHZldDg1M0dZR3JDQWt5MWR3UDEyMTRWVnNVRFJ5LTZTaFNiRDd0d0xRbXpwVjZYRXpvc3pVM2dmbHBJVDhOSWEwT2s2UHpWR0M4UC1GNFZrdw?oc=5",
+   "pubDate": "2026-11-15T05:57:39.000Z",
+   "firstSeen": "2026-11-15T06:47:35.108Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "mobile",
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VaHZldDg1M0dZR3JDQWt5MWR3UDEyMTRWVnNVRFJ5LTZTaFNiRDd0d0xRbXpwVjZYRXpvc3pVM2dmbHBJVDhOSWEwT2s2UHpWR0M4UC1GNFZrdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
   {
    "title": "「『バイオハザード』ファンメイド映画のキャスト紹介映像が公開」2026年11月8日～11月14日の秘宝はこれだ！【週刊トレハン】",
    "summary": "",
@@ -15984,7 +16245,7 @@
    "firstSeen": "2026-11-14T03:47:35.828Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15999,9 +16260,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRExCTFhHV2xycTlyMzlUWXhBeUh5S2o4Ym5YZ2xIQXNDSHpRODNhaEFLeUFFdXhXa0FqVUFDVEx0dDZDaU9mcEZmdF8xUXpyVXB2M25pRWQ4QQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -39600,7 +39861,7 @@
    "firstSeen": "2026-11-12T08:47:33.367Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -39615,9 +39876,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TckRlMWlyMkdXd2xLSEZER3RFclpTck9pTDY0S0RkVlA4bk1icUU2aDlZbW1OTmR5d2tTMFpfaFlPUGtqQ3pHMWR1MnVTZDZzQktqR2t1OA?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -171480,6 +171741,34 @@
    ]
   },
   {
+   "title": "『狼と香辛料』20周年展 Final、東京・青山 GoFaで開催",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000036.000000812.html",
+   "pubDate": "2026-10-31T01:15:17.000Z",
+   "firstSeen": "2026-10-31T01:47:33.946Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "狼と香辛料"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000036.000000812.html"
+    }
+   ]
+  },
+  {
    "title": "大人気ゲーム『魔法少女ノ魔女裁判』“幻の朗読劇”のドラマCDが待望の音声配信開始！",
    "summary": "",
    "link": "https://prtimes.jp/main/html/rd/p/000009151.000016756.html",
@@ -190066,278 +190355,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/"
-    }
-   ]
-  },
-  {
-   "title": "Dune: Part 3 Has 3 Popcorn Buckets, Including One With 2 Sandworm Mouths",
-   "summary": "With Dune: Part 3 fast approaching, AMC Theatres has finally shown off the movie's popcorn buckets. Fittingly, there are three.",
-   "link": "https://www.ign.com/articles/dune-part-3-concession-collectibles-popcorn-bucket",
-   "pubDate": "2026-10-29T14:59:32.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/27/dunethumb-1793117725090.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/dune-part-3-concession-collectibles-popcorn-bucket"
-    }
-   ]
-  },
-  {
-   "title": "「歌マクロス」復活プロジェクト，支援総額1億8000万円を突破。歌姫の新たな衣装追加が決定。2億円達成の際には旧版未収録曲をさらに追加",
-   "summary": "AUGUSTは本日（2026年10月29日），「歌マクロス」復活プロジェクトの支援総額が1億8000万円を突破したと発表した。本プロジェクトは，2022年にサービスを終了した「歌マクロススマホDeカルチャー」をもとに，オフラインの買い切り型リズムゲームとして再構築することを目指す…",
-   "link": "https://www.4gamer.net/games/039/G103946/20261029068/",
-   "pubDate": "2026-10-29T14:50:22.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/039/G103946/20261029068/"
-    }
-   ]
-  },
-  {
-   "title": "人気Co-opホラー『R.E.P.O.』最新アップデートにて日本語含む多言語対応！新マップ追加や既存マップの拡張など要素盛りだくさん",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174262.html",
-   "pubDate": "2026-10-29T14:45:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "R.E.P.O."
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174262.html"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vR1A2YUZFcXBya0hKazh1dElra0JUaEpHNFgxQ1pLVkhTVThaRW5wYjhwQ0VHRGEtWml3LXJKWGxmcUl0YWk0MTFqeTNmcUJRRWg2QnpqZHFRV2Vpb19MRnJKaw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzRqOVM4V08zTDk0QTJ6eS1TNDFQeE9xVC1RWWhHRlJMNXBVUi1QZzAzdmk3VS0zTUcxU2x6eUZ6TlE5eEgxMUU5dEZIRlRqdDA0RTJJaGhKOWFCcTlpUXNlSDg5MThEVl92MXVUSjhEUmRNamplMlM2OHRMQ3F4QkdNVUN4VTluOU1jQUFGdWpHLU84NGFIZmg0REJHcnU2UzJqUnJuX1V3TmtxeDFJMDhLdF96QjhvMGJRTXdrd2pyMncwcVdxUkZ5cnB3dTBPQVHSAYIBQVVfeXFMTUZjN2xISHBQSnZEenAzZ3hMQUxwZ3R4UEZ3RDBmQ2Z2NHdYcWc5N2oxNUJ3ZnFUdHFVbUJEdndkS1dTNlYxMHFtWC11QlZwNTktVzFEcjc2TWdQai1NVE1OdllMZ09OUjd4UHFyandobnpwcnBNWTBQOFdhODRqcFRJUQ?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
-   "summary": "There will (eventually) be Blood. As will come as very little surprise to all those aware of the ever-shrinking time left in the '2026' wind…",
-   "link": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-   "pubDate": "2026-10-29T14:45:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://images.nintendolife.com/6ece8ebd72843/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027"
-    }
-   ]
-  },
-  {
-   "title": "Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke",
-   "summary": "Just a few hours into launch, Phantom Blade Zero is already a hit game on PC. There was considerable hype behind the game as it was estimate…",
-   "link": "https://www.gamespot.com/articles/phantom-blade-zero-is-already-proving-its-prelaunch-hype-was-no-fluke/",
-   "pubDate": "2026-10-29T14:40:52.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Phantom-Blade-Zero.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/phantom-blade-zero-is-already-proving-its-prelaunch-hype-was-no-fluke/"
-    }
-   ]
-  },
-  {
-   "title": "フロム新作『ダスクブラッド』2027年に発売延期。8月のネットワークテストを踏まえ、ゲームルールやバランスを最終調整",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wMXZ5MzQtNXM3VFczbnBPQklHbmQxU2dvMGo2TXFJQmJ1WURXMUxYcHdLaWUyWFBBMmR0V2s1aXIwWlh1X0JZb19VdTB0ZU8yakc2bnhCYw?oc=5",
-   "pubDate": "2026-10-29T14:33:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダスクブラッド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wMXZ5MzQtNXM3VFczbnBPQklHbmQxU2dvMGo2TXFJQmJ1WURXMUxYcHdLaWUyWFBBMmR0V2s1aXIwWlh1X0JZb19VdTB0ZU8yakc2bnhCYw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6’s Cops Will Send Dogs To Get You",
-   "summary": "The police in GTA 6 are smarter and more capable than they were in GTA 5, and that includes the newly confirmed detail that cops can dispatc…",
-   "link": "https://www.gamespot.com/articles/gta-6s-cops-will-send-dogs-to-get-you/",
-   "pubDate": "2026-10-29T14:32:34.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/releasethehounds.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6s-cops-will-send-dogs-to-get-you/"
-    }
-   ]
-  },
-  {
-   "title": "The Dark Queen of Mortholme coming to PS5, Xbox Series, and Switch on December 3",
-   "summary": "Publisher Rhine Games, in cooperation with Monster Theater, will release Mosu-developed side-scrolling action adventure game …",
-   "link": "https://www.gematsu.com/2026/10/the-dark-queen-of-mortholme-coming-to-ps5-xbox-series-and-switch-on-december-3",
-   "pubDate": "2026-10-29T14:31:47.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Dark-Queen-Mortholme-Cosoles_10-29-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch",
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/10/the-dark-queen-of-mortholme-coming-to-ps5-xbox-series-and-switch-on-december-3"
-    }
-   ]
-  },
-  {
-   "title": "戦闘機vs巨大怪獣！防衛任務に挑み続けるフライトシム『Kaiju Ace』発表",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/29/174261.html",
-   "pubDate": "2026-10-29T14:30:04.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Kaiju Ace"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/29/174261.html"
     }
    ]
   }
