@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-15T04:48:00.718Z",
+ "generatedAt": "2026-11-15T05:52:11.147Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1307,
+  "exact": 1302,
   "syndicated": 77,
-  "similar": 361,
-  "syndicatedTotal": 413,
+  "similar": 360,
+  "syndicatedTotal": 412,
   "syndicatedLeft": 29
  },
  "calendar": [
@@ -11058,8 +11058,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 960,
-   "accepted": 934
+   "archived": 954,
+   "accepted": 928
   },
   {
    "id": "4gamer-sp",
@@ -11069,8 +11069,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 222,
-   "accepted": 216
+   "archived": 221,
+   "accepted": 215
   },
   {
    "id": "automaton",
@@ -11080,8 +11080,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 568,
-   "accepted": 563
+   "archived": 566,
+   "accepted": 561
   },
   {
    "id": "denfaminico",
@@ -11091,8 +11091,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1181,
-   "accepted": 1054
+   "archived": 1180,
+   "accepted": 1053
   },
   {
    "id": "gamewatch",
@@ -11102,8 +11102,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 648,
-   "accepted": 619
+   "archived": 646,
+   "accepted": 617
   },
   {
    "id": "gamespark",
@@ -11113,8 +11113,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1208,
-   "accepted": 1191
+   "archived": 1207,
+   "accepted": 1190
   },
   {
    "id": "inside-games",
@@ -11124,8 +11124,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1627,
-   "accepted": 1230
+   "archived": 1625,
+   "accepted": 1228
   },
   {
    "id": "ps-blog",
@@ -11157,7 +11157,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 129,
+   "archived": 128,
    "accepted": 88
   },
   {
@@ -11165,9 +11165,9 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 636,
    "accepted": 502
   },
@@ -11176,54 +11176,54 @@
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 668,
-   "accepted": 384
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 667,
+   "accepted": 383
   },
   {
    "id": "gnews-newgame",
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 93,
-   "archived": 586,
-   "accepted": 539
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 582,
+   "accepted": 536
   },
   {
    "id": "gnews-switch2",
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 1437,
-   "accepted": 1257
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 1431,
+   "accepted": 1251
   },
   {
    "id": "gnews-ps5",
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 730,
-   "accepted": 658
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 728,
+   "accepted": 656
   },
   {
    "id": "gnews-update",
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 85,
-   "archived": 446,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 445,
    "accepted": 357
   },
   {
@@ -11234,8 +11234,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25200,
-   "accepted": 424
+   "archived": 25104,
+   "accepted": 420
   },
   {
    "id": "gematsu",
@@ -11300,11 +11300,95 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 588,
-   "accepted": 588
+   "archived": 589,
+   "accepted": 589
   }
  ],
  "items": [
+  {
+   "title": "「『バイオハザード』ファンメイド映画のキャスト紹介映像が公開」2026年11月8日～11月14日の秘宝はこれだ！【週刊トレハン】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/15/174893.html",
+   "pubDate": "2026-11-15T05:30:03.000Z",
+   "firstSeen": "2026-11-15T05:51:55.673Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "バイオハザード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/15/174893.html"
+    }
+   ]
+  },
+  {
+   "title": "自分だけのスキー場をつくるゲーム『ゲレンデ社長！伝説のスキーリゾート経営』が「非常に好評」スタート。山に直接コースを描けるシステムや実在の標高データを基に再現された地形など搭載",
+   "summary": "山に直接コースを描けるシステムや実在の標高データを基に再現された地形など搭載。日本やアメリカなど複数地域で楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/261115l",
+   "pubDate": "2026-11-15T05:10:17.000Z",
+   "firstSeen": "2026-11-15T05:51:55.673Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_97f02bc32567f50e5d8ec7ca5292bbaf9319378f.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゲレンデ社長!伝説のスキーリゾート経営"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261115l"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+   "summary": "What, no Sideways Hank O'Mally?",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+   "pubDate": "2026-11-15T04:52:26.000Z",
+   "firstSeen": "2026-11-15T05:51:55.673Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/AkvZgaawSvDoiAwX5qbvvY-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/"
+    }
+   ]
+  },
   {
    "title": "“ドラクエ新作”スマホ向けゲーム『ドラゴンクエストRPG 魔界樹と導かれし島』発表。『メダロット』初期8作品入りコレクションがSteam向けに発表。今週の見逃せないゲーム記事7選",
    "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『ドラゴンクエストRPG 魔界樹と導かれし島』のほか、『Wolfenstein 3』や『NIGHTMARE OPERATOR』などが話題となった。",
@@ -12234,7 +12318,7 @@
    ]
   },
   {
-   "title": "ゲーセンALL.Net・Aime不正アクセス問題、セガ13タイトル試験稼働へ！メンテから2週間…『オンゲキ』『頭文字DAC』など再開。『maimai』は引き続き停止",
+   "title": "ゲーセンALL.Net・Aime不正アクセス問題、セガ一部タイトル試験稼働へ！メンテから2週間…『オンゲキ』『頭文字DAC』など再開。『maimai』は引き続き停止【UPDATE】",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/11/15/174885.html",
    "pubDate": "2026-11-15T00:33:09.000Z",
@@ -12246,7 +12330,9 @@
    "kind": "specialist",
    "lang": "ja",
    "score": 8,
-   "categories": [],
+   "categories": [
+    "update"
+   ],
    "deal": null,
    "platforms": [],
    "works": [
@@ -190252,94 +190338,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/10/29/174261.html"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Download: 29th October (North America)",
-   "summary": "Hello Kitty! Darkest Dungeon! Peak! The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to…",
-   "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-29th-october-north-america",
-   "pubDate": "2026-10-29T14:30:00.000Z",
-   "firstSeen": "2026-10-29T14:47:36.308Z",
-   "image": "https://images.nintendolife.com/e6454acd2cdf3/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-29th-october-north-america"
-    }
-   ]
-  },
-  {
-   "title": "Some People Who Paid for WoW Forever Name Reservation Couldn't Reserve Their Name Due to a Weird Bug",
-   "summary": "After the World of Warcraft Forever beta ended last week, Blizzard opened up the servers to character creation in order to allow players who…",
-   "link": "https://www.ign.com/articles/some-people-who-paid-for-wow-forever-name-reservation-couldnt-reserve-their-name-due-to-a-weird-bug",
-   "pubDate": "2026-10-29T14:29:51.000Z",
-   "firstSeen": "2026-10-29T15:47:37.296Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/28/worldofwarcraftforeverwarpathamvlaunchtrailer-ign-blogroll-1793224828816.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/some-people-who-paid-for-wow-forever-name-reservation-couldnt-reserve-their-name-due-to-a-weird-bug"
-    }
-   ]
-  },
-  {
-   "title": "Microwave Games、サバイバルショップシミュレーター『The Walking Trade』PS5とXbox向けにリリース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aYzFLNm4yU09WcmlsRllKdVJGMElOcW1LYkhLOEJ6aGVlSldXYVIxVHRBY0dtcF9qbnQzU18xX2t5cTBO?oc=5",
-   "pubDate": "2026-10-29T14:29:00.000Z",
-   "firstSeen": "2026-10-29T19:47:37.999Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "The Walking Trade"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aYzFLNm4yU09WcmlsRllKdVJGMElOcW1LYkhLOEJ6aGVlSldXYVIxVHRBY0dtcF9qbnQzU18xX2t5cTBO?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   }
