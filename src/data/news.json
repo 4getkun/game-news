@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T22:35:05.672Z",
+ "generatedAt": "2026-11-16T22:48:51.409Z",
  "count": 6000,
  "dedupe": {
   "exact": 1321,
@@ -11232,8 +11232,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 633,
-   "accepted": 498
+   "archived": 634,
+   "accepted": 499
   },
   {
    "id": "gnews-dengeki",
@@ -11253,7 +11253,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
+   "fetched": 84,
    "archived": 585,
    "accepted": 537
   },
@@ -11276,8 +11276,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 734,
-   "accepted": 663
+   "archived": 733,
+   "accepted": 662
   },
   {
    "id": "gnews-update",
@@ -11364,11 +11364,37 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 593,
-   "accepted": 593
+   "archived": 594,
+   "accepted": 594
   }
  ],
  "items": [
+  {
+   "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+   "summary": "Well, there's no accounting for taste.",
+   "link": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/",
+   "pubDate": "2026-11-16T22:34:55.000Z",
+   "firstSeen": "2026-11-16T22:48:35.659Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/DwMWqRuA5anYcmyMwmLGtT-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/"
+    }
+   ]
+  },
   {
    "title": "デモ版好評率98％の街づくり×クリッカー『クリッキーアイランド』Steamでリリース。ポケットペアがパブリッシング",
    "summary": "",
@@ -45460,7 +45486,7 @@
    "firstSeen": "2026-11-13T07:47:33.137Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -45477,9 +45503,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uUl84SjVDdWxkc2R3RV9YSzQzTU4wazd2ZnJjVGNTZlM2TWM0U3YzRWJpUnhBbnpwU2NqMGJzZ0p5ZTNxb2E5a1l5eFREYWFMb21FTWxvNA?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -190017,37 +190043,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battlefront-3-could-live"
-    }
-   ]
-  },
-  {
-   "title": "『Windrose / ウィンドローズ』大型アップデート「Ashlands」の新情報が公開！キャラクターの見た目をカスタマイズできる多数の新機能が実装予定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55dDN3Zk95Slh6clY3dllmQkJJeHFXS2JqX3VIaEhLbzJTZ0s3c1JMSHZMdTAzS1dQMkVuczNzNms3aUp3VURJNTVUZG5RX09zYl9XckpJbDY1S00?oc=5",
-   "pubDate": "2026-10-30T14:32:03.000Z",
-   "firstSeen": "2026-10-30T14:47:33.710Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Windrose / ウィンドローズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55dDN3Zk95Slh6clY3dllmQkJJeHFXS2JqX3VIaEhLbzJTZ0s3c1JMSHZMdTAzS1dQMkVuczNzNms3aUp3VURJNTVUZG5RX09zYl9XckpJbDY1S00?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   }
