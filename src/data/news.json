@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-16T13:47:58.669Z",
+ "generatedAt": "2026-11-16T14:47:49.631Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1309,
+  "exact": 1314,
   "syndicated": 75,
   "similar": 361,
-  "syndicatedTotal": 413,
-  "syndicatedLeft": 30
+  "syndicatedTotal": 414,
+  "syndicatedLeft": 29
  },
  "calendar": [
   {
@@ -551,22 +551,6 @@
    "platforms": [
     "pc"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "ユニクロ×「マイクラ」の新コレクションが11月下旬に発売決定スウェットシャツやコットンステテコなど",
-   "link": "https://game.watch.impress.co.jp/docs/news/2152736.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "release"
-   ],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -2363,22 +2347,6 @@
    "sources": 1,
    "categories": [
     "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-06",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "ジェラート ピケより「スヌーピー」コラボグッズが11月6日発売！お揃いのボーダー柄を着た仲間たちとのルームウェア、雑貨など多数ラインナップ",
-   "link": "https://www.inside-games.jp/article/2026/10/30/190104.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "collab"
    ],
    "platforms": [],
    "spoiler": false
@@ -6340,6 +6308,22 @@
   {
    "date": "2026-11-17",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "学マス",
+   "title": "『学マス』氷渡香名江（CV：安倍彩野夏）のソロ曲「メタモルフォーゼ」のMVが公開。「テレキャスタービーボーイ」MVなどで知られるcoalowl氏が映像制作に携わる",
+   "link": "https://news.denfaminicogamer.jp/news/2611162j",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "trailer"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-17",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -7724,6 +7708,22 @@
    "source": "インサイド",
    "sources": 2,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-30",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Core Keeper",
+   "title": "「沈んだ海」にお寿司屋さんがオープン！？『Core Keeper』×『デイヴ・ザ・ダイバー』相互コラボが11月30日リリース―新ペット「モモ」「デイヴ」や新シーン「ブルーホール」登場",
+   "link": "http://www.gamespark.jp/article/2026/11/16/174938.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -11177,8 +11177,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1183,
-   "accepted": 1058
+   "archived": 1184,
+   "accepted": 1059
   },
   {
    "id": "gamewatch",
@@ -11199,8 +11199,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1187,
-   "accepted": 1172
+   "archived": 1192,
+   "accepted": 1177
   },
   {
    "id": "inside-games",
@@ -11254,8 +11254,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 629,
-   "accepted": 495
+   "archived": 628,
+   "accepted": 494
   },
   {
    "id": "gnews-dengeki",
@@ -11265,8 +11265,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 660,
-   "accepted": 383
+   "archived": 661,
+   "accepted": 384
   },
   {
    "id": "gnews-newgame",
@@ -11287,8 +11287,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1418,
-   "accepted": 1236
+   "archived": 1420,
+   "accepted": 1238
   },
   {
    "id": "gnews-ps5",
@@ -11308,9 +11308,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 87,
-   "archived": 446,
-   "accepted": 356
+   "fetched": 88,
+   "archived": 447,
+   "accepted": 357
   },
   {
    "id": "prtimes",
@@ -11320,8 +11320,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25057,
-   "accepted": 419
+   "archived": 25114,
+   "accepted": 420
   },
   {
    "id": "gematsu",
@@ -11331,8 +11331,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 298,
-   "accepted": 298
+   "archived": 299,
+   "accepted": 299
   },
   {
    "id": "ign",
@@ -11342,8 +11342,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1138,
-   "accepted": 1138
+   "archived": 1140,
+   "accepted": 1140
   },
   {
    "id": "eurogamer",
@@ -11353,8 +11353,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 291,
-   "accepted": 291
+   "archived": 292,
+   "accepted": 292
   },
   {
    "id": "gamespot",
@@ -11364,8 +11364,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 281,
-   "accepted": 281
+   "archived": 285,
+   "accepted": 285
   },
   {
    "id": "nintendolife",
@@ -11386,11 +11386,434 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 590,
-   "accepted": 590
+   "archived": 591,
+   "accepted": 591
   }
  ],
  "items": [
+  {
+   "title": "DAVE THE DIVER x Core Keeper crossover updates announced",
+   "summary": "MINTROCKET, Pugstorm, and Fireshine Games have announced a two-way crossover for both DAVE THE DIVER …",
+   "link": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced",
+   "pubDate": "2026-11-16T14:46:13.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/DAVE-THE-DIVER_2026_11-16-26_005.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced"
+    }
+   ]
+  },
+  {
+   "title": "『Left! Left! LEFT!』12月中旬に新たなプレイテスト実施へ。13万人が注目したカオスな2人協力ラリー",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/16/174940.html",
+   "pubDate": "2026-11-16T14:45:02.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Left! Left! LEFT!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/16/174940.html"
+    }
+   ]
+  },
+  {
+   "title": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
+   "summary": "It took 20 minutes, though.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
+   "pubDate": "2026-11-16T14:34:01.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/prYmvnyWqdJvpLnkbECqs3-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Game Pass Gets Even More Games In November",
+   "summary": "The second half of November is usually quiet for several reasons when it comes to new game releases–and one other big reason–but Xbox Game P…",
+   "link": "https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november/",
+   "pubDate": "2026-11-16T14:33:49.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Paw-Patrol-Dino-World.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november/"
+    }
+   ]
+  },
+  {
+   "title": "We Got A Grand Theft At Disney World Before GTA 6",
+   "summary": "The \"We got X before GTA 6\" meme continues as a Grand Theft has been reported at Walt Disney World's Epcot theme park just days before Rocks…",
+   "link": "https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6/",
+   "pubDate": "2026-11-16T14:32:07.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_11.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6/"
+    }
+   ]
+  },
+  {
+   "title": "スイッチ2、独自の軽量型DLSS実装が判明―デスクトップ版より4倍高速な「DLSS Lite」プリセットを搭載",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/16/174939.html",
+   "pubDate": "2026-11-16T14:30:02.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/16/174939.html"
+    }
+   ]
+  },
+  {
+   "title": "「沈んだ海」にお寿司屋さんがオープン！？『Core Keeper』×『デイヴ・ザ・ダイバー』相互コラボが11月30日リリース―新ペット「モモ」「デイヴ」や新シーン「ブルーホール」登場",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/16/174938.html",
+   "pubDate": "2026-11-16T14:29:10.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Core Keeper",
+    "デイヴ・ザ・ダイバー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/16/174938.html"
+    }
+   ]
+  },
+  {
+   "title": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can",
+   "summary": "You may have recently read that CD Projekt Red's in-development Cyberpunk 2 may be trying to revive the original game's online ambitions. Bu…",
+   "link": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
+   "pubDate": "2026-11-16T14:19:10.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://assetsio.gnwcdn.com/CyberMP-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta"
+    }
+   ]
+  },
+  {
+   "title": "ボートレースゲーム『MIZUMONO ONE MARK』、先行プレイ初週のイベント日程が決定。11月25日から「SG 特別戦 チャレンジ杯」、28日に「勝ち抜きトーナメント」初開催",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000005.000194619.html",
+   "pubDate": "2026-11-16T14:10:02.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "MIZUMONO ONE MARK"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000005.000194619.html"
+    }
+   ]
+  },
+  {
+   "title": "『学マス』氷渡香名江（CV：安倍彩野夏）のソロ曲「メタモルフォーゼ」のMVが公開。「テレキャスタービーボーイ」MVなどで知られるcoalowl氏が映像制作に携わる",
+   "summary": "同楽曲は竹内アンナさんが作詞・作曲、名村武氏が編曲を担当。明日11月17日にサブスク配信・DL販売を開始予定",
+   "link": "https://news.denfaminicogamer.jp/news/2611162j",
+   "pubDate": "2026-11-16T14:03:31.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-7-1-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "学マス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611162j"
+    }
+   ]
+  },
+  {
+   "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+   "summary": "Ashes of the Singularity 2 delivers on gigantic battles, but not much else.",
+   "link": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+   "pubDate": "2026-11-16T14:01:32.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/rYxAXFKHCxrG3NcDcXa2sj-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/"
+    }
+   ]
+  },
+  {
+   "title": "魔法学院生も楽じゃない！？魔法学校で課題をこなすチーム戦PvP『Royal Institute of Magic』日本語対応へ―優等生以外は全てやり直し",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/16/174936.html",
+   "pubDate": "2026-11-16T13:55:55.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Royal Institute of Magic"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/16/174936.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play",
+   "summary": "The popular fried chicken chain KFC has announced a frankly absurd GTA 6 promotion: a fake funeral so people have a “legitimate” excuse to t…",
+   "link": "https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/",
+   "pubDate": "2026-11-16T13:42:12.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6KFC-Large.jpeg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Is Looking For Smarter Ways To Stop Its Next Console From Costing A Fortune",
+   "summary": "No one knows yet exactly what the next-gen Xbox console, Project Helix, will be, but most people are convinced it won't be cheap. The ongoin…",
+   "link": "https://www.gamespot.com/articles/xbox-is-hoping-ai-can-stop-its-next-console-from-costing-a-fortune/",
+   "pubDate": "2026-11-16T13:40:05.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/07/original-xbox-logo.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/xbox-is-hoping-ai-can-stop-its-next-console-from-costing-a-fortune/"
+    }
+   ]
+  },
+  {
+   "title": "Pick Up Marvel’s Wolverine for Just £39.99 This Black Friday in the UK",
+   "summary": "Marvel’s Wolverine on PS5 is down to £39.99 at Amazon UK for Black Friday, saving you £30 off the £69.99 RRP on Insomniac’s newly patched ac…",
+   "link": "https://www.ign.com/articles/wolverine-black-friday-deal-uk",
+   "pubDate": "2026-11-16T13:39:21.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/10/marvels-wolverine-review-blogroll-1789029798227.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/wolverine-black-friday-deal-uk"
+    }
+   ]
+  },
   {
    "title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
    "summary": "We don't need any more supports right now.",
@@ -11653,7 +12076,7 @@
    "link": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
    "pubDate": "2026-11-16T13:00:00.000Z",
    "firstSeen": "2026-11-16T13:47:37.637Z",
-   "image": "https://images.nintendolife.com/202c4efe8dd2d/large.jpg",
+   "image": "https://images.nintendolife.com/5efeca106ac23/large.jpg",
    "source": "Nintendo Life",
    "sourceId": "nintendolife",
    "syndicated": false,
@@ -12356,6 +12779,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/16/191069.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/16/174937.html"
     }
    ]
   },
@@ -16188,6 +16616,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SeUxIN3E3WFNLYmFXSnZpRjVzRk1BVFhCY1Jlc0FpblV0UHBUNTZEMmZYSVE1MnVQdDJlcDkxclZXSkNGX09fR1hSUDdzQ2RHemRxWmI2Tml5VmVyN19N?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EU0lUYmFKSnJkUm1CSGlKMFBwSjlZMVB1eDFYYTJUQWJudGlOZ0NVUWVhSkkzYUFkb3RhUGZNQ3Z0WEthUVM5TmJiTFpMOWF0c0dWNnFCNTl3UmFRMEJZX29WaEh4dWJCUk9IdjFjOEpqeV9jUFhpOGlOOA?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -16224,7 +16659,7 @@
    ]
   },
   {
-   "title": "The Odyssey Is Out in 4K UHD and Blu-ray Tomorrow (Collector's Edition Back in Stock)",
+   "title": "The Odyssey Is Out in 4K UHD and Blu-ray Tomorrow",
    "summary": "Preorders are live for Christopher Nolan's The Odyssey, including a limited-edition steelbook edition, as well as a $300 collector's giftset…",
    "link": "https://www.ign.com/articles/the-odyssey-christopher-nolan-where-to-buy",
    "pubDate": "2026-11-16T05:00:59.000Z",
@@ -16246,6 +16681,34 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/the-odyssey-christopher-nolan-where-to-buy"
+    }
+   ]
+  },
+  {
+   "title": "Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers Are Out This Week",
+   "summary": "Preorders are live for Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers, but stock is limited. Hurry if you want one.",
+   "link": "https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy",
+   "pubDate": "2026-11-16T05:00:45.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/09/untitled-design-1788967060376.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy"
     }
    ]
   },
@@ -16513,6 +16976,37 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261116-479428/"
+    }
+   ]
+  },
+  {
+   "title": "新作『ロックマンDO』の公募ボスがクレンザーマンに決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ0duMjVfSWlYZ0pCNnRzci1DX0J0TURhbThUVnptX3haQVVaR0VodDE0OEd4Z25qc2R3VTVjWDBIZ1JTU0h6MG9aWFI1R2NVUF8tcWduWWRJdw?oc=5",
+   "pubDate": "2026-11-16T04:26:00.000Z",
+   "firstSeen": "2026-11-16T14:47:34.078Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロックマンDO"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ0duMjVfSWlYZ0pCNnRzci1DX0J0TURhbThUVnptX3haQVVaR0VodDE0OEd4Z25qc2R3VTVjWDBIZ1JTU0h6MG9aWFI1R2NVUF8tcWduWWRJdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -189657,521 +190151,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2610303a"
-    }
-   ]
-  },
-  {
-   "title": "Capcom Isn't Scrapping Resident Evil, but Mainline Story Could Wrap Up in Next 10 Years According to Producer",
-   "summary": "IGN recently reported that Resident Evil series producer Jun Takeuchi commented that Capcom’s survival horror series’ story could end in the…",
-   "link": "https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer",
-   "pubDate": "2026-10-30T09:13:32.000Z",
-   "firstSeen": "2026-10-30T10:47:35.628Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-90cc41d4c52d56f5ab26ad64223922a93b60eba6-1920x1080-1793351602518.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer"
-    }
-   ]
-  },
-  {
-   "title": "過酷オープンワールドARPG『Gothic 1 Remake』無料アプデ第1弾配信開始。シリーズおなじみ「公式チートモード」やフォトモードなどが実装",
-   "summary": "THQ Nordicは10月30日、『Gothic 1 Remake』向けに無料アップデート第1弾「Feature Update #1」を配信した。同アップデートでは公式チートモード「Marvin Mode」やフォトモードなどが追加されている。",
-   "link": "https://automaton-media.com/articles/newsjp/20261030-476763/",
-   "pubDate": "2026-10-30T09:12:57.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476763-header.jpeg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 15,
-   "categories": [
-    "new",
-    "release",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Gothic 1 Remake"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261030-476763/"
-    }
-   ]
-  },
-  {
-   "title": "恋人と手をつないでタイタニック号を歩ける没入型VRシアター「タイタニック 〜時を越えた残響〜」に、ひとりで行ってきた。深海の魚に逃げられ、迫る氷山に見入り、気づけばVRに夢中に。でも隣にディカプリオはいなかった",
-   "summary": "恋人と手をつないでタイタニック号を歩ける没入型VRシアター「タイタニック 〜時を越えた残響〜」に、ひとりで行ってきた。隣にディカプリオはいなかった",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/2610303f",
-   "pubDate": "2026-10-30T09:03:35.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/titanic_13-1-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "vr"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/2610303f"
-    }
-   ]
-  },
-  {
-   "title": "「とにかく頭がおかしいものを作ってほしい」。ホラー専門会社・株式会社闇のゲームブランドが、たったふたりのチームに出したオーダーがそれだった。配信でバズった『たろうくんはいってきました』制作陣に作品に込めた狙いを聞くインタビュー",
-   "summary": "実況で火がつき\"ガチ恋ファン\"まで生んだ異色のホラゲ『たろうくんはいってきました』はなぜここまでバズったのか? 制作陣にその舞台裏を聞いてきた",
-   "link": "https://news.denfaminicogamer.jp/interview/261030o",
-   "pubDate": "2026-10-30T09:00:37.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image9-15-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 9,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "たろうくんはいってきました"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/interview/261030o"
-    }
-   ]
-  },
-  {
-   "title": "でかむちRPG『宝石姫 Reincarnation』と『対魔忍RPG』がコラボでマリアージュを果たす。いろんな意味で存在感がありすぎるが大丈夫か!?",
-   "summary": "シリーズ主人公“井河アサギ”＆規格外の母“水城不知火”が登場。もはやバストが鈍器になりうる対魔忍の参戦で“でかむち祭り”が始まってしまう。",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261030a",
-   "pubDate": "2026-10-30T09:00:30.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image_001-13-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "宝石姫Reincarnation",
-    "対魔忍RPG"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261030a"
-    }
-   ]
-  },
-  {
-   "title": "今、試したいことがある【緒方佑奈 晴れ、時々彩雲】",
-   "summary": "リハーサルの体力配分をぶっちぎり、全力を出し尽くした先の新境地へ。気持ちのまま進みすぎた反省もありつつ、“1歩”進みました",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261028r",
-   "pubDate": "2026-10-30T09:00:27.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/5d9b539f07dca4884f8dc9ce3e733ece-768x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261028r"
-    }
-   ]
-  },
-  {
-   "title": "『学園アイドルマスター』マウスやマウスパッドなどのゲーミングアイテムが予約開始！デフォルメイラストがかわいすぎる",
-   "summary": "マウスパッドは2種発売され大判のものからプレイマットとしても利用できるものまでラインナップ。マウスは『学マス』をイメージしたパステルデザイン",
-   "link": "https://news.denfaminicogamer.jp/news/2610302m",
-   "pubDate": "2026-10-30T09:00:08.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/2xl-mousepad9-1024x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "学園アイドルマスター"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610302m"
-    }
-   ]
-  },
-  {
-   "title": "バズらなければ死！デスゲームADV『BUZZ or DIE』Steamでリリース―公開処刑と永遠の尊厳破壊が待ち受ける…相手をネタにショート動画で「いいね」を奪え",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/30/174305.html",
-   "pubDate": "2026-10-30T09:00:04.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "BUZZ or DIE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/30/174305.html"
-    }
-   ]
-  },
-  {
-   "title": "全12曲を収録！ Switch 2版『時のオカリナ』連動の電子オカリナ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9teWxXLWtYZGNYa1dqMS1EVWVFQzFYZ3VIQVpYTkhrNXpicEZGcmExeVlGZjYxRzFpQVF3VmEwUXlBY0pRMk94YjRVUFM1UDVqVW1Ldkc5V0NzZFJrUEtaTHh3?oc=5",
-   "pubDate": "2026-10-30T09:00:00.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": null,
-   "source": "Infoseek",
-   "sourceId": "gnews-switch2",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9teWxXLWtYZGNYa1dqMS1EVWVFQzFYZ3VIQVpYTkhrNXpicEZGcmExeVlGZjYxRzFpQVF3VmEwUXlBY0pRMk94YjRVUFM1UDVqVW1Ldkc5V0NzZFJrUEtaTHh3?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『カービィのエアライダー』“食らうと全ロス”の過激イベントが突然中止に。画面固まるレベルの大荒れハロウィン、終幕",
-   "summary": "任天堂は10月30日、『カービィのエアライダー』にて開催中のイベント「トリックオアトリート！」を中止することを発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261030-476764/",
-   "pubDate": "2026-10-30T08:59:21.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476764-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "カービィのエアライダー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261030-476764/"
-    }
-   ]
-  },
-  {
-   "title": "1000問超のパズルに挑む『Order of the Sinking Star』が登場！ Nintendo Switch 2で配信中",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoZ0s0ZGtiOVNGT3FRT0dNZXByV3FRMmJzMnNiLW5zLWRfS2xQNnNxZ3BZanZoS2pBLVV5dW5jUkk4V09NaEdtRDNoODlKeFpXbTNiYnlEa3hGbFBIYkFLUQ?oc=5",
-   "pubDate": "2026-10-30T08:53:51.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "Order of the Sinking Star"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoZ0s0ZGtiOVNGT3FRT0dNZXByV3FRMmJzMnNiLW5zLWRfS2xQNnNxZ3BZanZoS2pBLVV5dW5jUkk4V09NaEdtRDNoODlKeFpXbTNiYnlEa3hGbFBIYkFLUQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『Bloodborne』アニメ映画は監督・脚本家決まり着実に進行中！「ゲームをただなぞるだけにしたくない」と『ブラボ』大ファンプロデューサー語る",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/30/174304.html",
-   "pubDate": "2026-10-30T08:45:02.000Z",
-   "firstSeen": "2026-10-30T08:47:35.294Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Bloodborne",
-    "ブラボ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/30/174304.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/30/190111.html"
-    }
-   ]
-  },
-  {
-   "title": "ジェラート ピケより「スヌーピー」コラボグッズが11月6日発売！お揃いのボーダー柄を着た仲間たちとのルームウェア、雑貨など多数ラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/30/190104.html",
-   "pubDate": "2026-10-30T08:45:02.000Z",
-   "firstSeen": "2026-10-30T08:47:35.294Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/30/190104.html"
-    }
-   ]
-  },
-  {
-   "title": "ユニクロ×「マイクラ」の新コレクションが11月下旬に発売決定スウェットシャツやコットンステテコなど",
-   "summary": "ユニクロは、サンドボックスゲーム「マインクラフト」の新コレクションを11月下旬に発売する。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2152736.html",
-   "pubDate": "2026-10-30T08:42:16.000Z",
-   "firstSeen": "2026-10-30T09:47:37.078Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2152736.html"
-    }
-   ]
-  },
-  {
-   "title": "【LINE GAME】「LINE おまかせレンジャー」、TVアニメ『進撃の巨人』とのコラボレーションイベントを開催",
-   "summary": "LINEヤフー株式会社は、当社が展開する放置系RPG「LINE おまかせレンジャー」（iPhone・Android対応／無料）において、2026年10月30日（金）よりTVアニメ『進撃の巨人』とのコラボレーションを開始します。 [画像...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000062.000179742.html",
-   "pubDate": "2026-10-30T08:41:11.000Z",
-   "firstSeen": "2026-10-30T11:47:38.059Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "event",
-    "mobile",
-    "media",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "進撃の巨人"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000062.000179742.html"
-    }
-   ]
-  },
-  {
-   "title": "『カービィのエアライダー』ハロウィンイベントが不具合で中止に―プレイ中に画面が停止する問題を確認、後日再開催へ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/30/174303.html",
-   "pubDate": "2026-10-30T08:40:15.000Z",
-   "firstSeen": "2026-10-30T08:47:35.294Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "カービィのエアライダー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/30/174303.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/30/190112.html"
-    }
-   ]
-  },
-  {
-   "title": "『DARK SOULS II』『III』で全機種版のゲームサーバーが停止、不具合発見で―復旧時期は判明次第案内",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/30/174302.html",
-   "pubDate": "2026-10-30T08:31:17.000Z",
-   "firstSeen": "2026-10-30T08:47:35.294Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "DARK SOULS II",
-    "III"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/30/174302.html"
     }
    ]
   }
