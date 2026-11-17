@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-17T00:48:14.592Z",
+ "generatedAt": "2026-11-17T01:48:56.526Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1318,
+  "exact": 1320,
   "syndicated": 75,
   "similar": 365,
   "syndicatedTotal": 416,
@@ -6405,6 +6405,22 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "スプラトゥーン3",
+   "title": "『スプラトゥーン3』明日のアプデで、「Xマッチに2人で参加できる」機能が試験導入へ。フレンドと一緒にXPチャレンジ",
+   "link": "https://automaton-media.com/articles/newsjp/20261117-479567/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "update"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-18",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "ネコぱら セカイコネクト",
    "title": "ネコぱら最新作『ネコぱら セカイコネクト』Steam版、11月18日にリリースへ。Steamの“審査遅れ”も乗り越えついに出る",
    "link": "https://automaton-media.com/articles/newsjp/20261116-479506/",
@@ -7285,6 +7301,26 @@
   {
    "date": "2026-11-26",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Machine Party",
+   "title": "失敗が死に直結するバイオレンスなパーティーゲーム『Machine Party』PS5/Xbox/Switch版が11月26日に発売決定。人気ロシアンルーレットゲーム『Buckshot Roulette』作者らが手がける",
+   "link": "https://news.denfaminicogamer.jp/news/261117l",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "switch",
+    "ps5",
+    "xbox"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-26",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": null,
@@ -7583,6 +7619,23 @@
    "source": "インサイド",
    "sources": 2,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-30",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "デイヴ・ザ・ダイバー",
+   "title": "『デイヴ・ザ・ダイバー』×『Core Keeper』の相互コラボ発表、11月30日に無料配信へ。デイヴのコラボは“最終DLC”後も続く",
+   "link": "https://automaton-media.com/articles/newsjp/20261117-479559/",
+   "source": "AUTOMATON",
+   "sources": 1,
+   "categories": [
+    "update",
+    "collab"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -8135,6 +8188,22 @@
     "release"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-02",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Book Nook",
+   "title": "雰囲気のよいミニチュアジオラマを作るゲーム『Book Nook』がSteamにて12月2日発売へ。組み立てに時間制限はなし、一つひとつのパーツがカチッとはまっていくパズルをのんびりと楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/261117k",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "pc"
+   ],
    "spoiler": false
   },
   {
@@ -11081,8 +11150,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 564,
-   "accepted": 558
+   "archived": 566,
+   "accepted": 560
   },
   {
    "id": "denfaminico",
@@ -11092,8 +11161,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1191,
-   "accepted": 1065
+   "archived": 1195,
+   "accepted": 1069
   },
   {
    "id": "gamewatch",
@@ -11103,8 +11172,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 650,
-   "accepted": 622
+   "archived": 651,
+   "accepted": 623
   },
   {
    "id": "gamespark",
@@ -11114,8 +11183,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1196,
-   "accepted": 1181
+   "archived": 1198,
+   "accepted": 1182
   },
   {
    "id": "inside-games",
@@ -11126,7 +11195,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1643,
-   "accepted": 1248
+   "accepted": 1250
   },
   {
    "id": "ps-blog",
@@ -11190,9 +11259,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 83,
-   "archived": 582,
-   "accepted": 534
+   "fetched": 84,
+   "archived": 585,
+   "accepted": 537
   },
   {
    "id": "gnews-switch2",
@@ -11202,8 +11271,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1428,
-   "accepted": 1245
+   "archived": 1430,
+   "accepted": 1247
   },
   {
    "id": "gnews-ps5",
@@ -11223,7 +11292,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 79,
+   "fetched": 77,
    "archived": 450,
    "accepted": 360
   },
@@ -11235,7 +11304,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25287,
+   "archived": 25370,
    "accepted": 425
   },
   {
@@ -11246,8 +11315,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 307,
-   "accepted": 307
+   "archived": 309,
+   "accepted": 309
   },
   {
    "id": "ign",
@@ -11257,8 +11326,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1187,
-   "accepted": 1187
+   "archived": 1188,
+   "accepted": 1188
   },
   {
    "id": "eurogamer",
@@ -11290,8 +11359,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 341,
-   "accepted": 341
+   "archived": 342,
+   "accepted": 342
   },
   {
    "id": "pcgamer",
@@ -11306,6 +11375,507 @@
   }
  ],
  "items": [
+  {
+   "title": "Splatoon 3 version 12.0.0 update launches November 17",
+   "summary": "Nintendo will release the version 12.0.0 update for Splatoon 3 on November 17, the company …",
+   "link": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17",
+   "pubDate": "2026-11-17T01:44:31.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Splatoon-3-Update_11-16-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17"
+    }
+   ]
+  },
+  {
+   "title": "『スプラトゥーン3』明日のアプデで、「Xマッチに2人で参加できる」機能が試験導入へ。フレンドと一緒にXPチャレンジ",
+   "summary": "任天堂は11月17日、『スプラトゥーン3』のアップデートVer. 12.0.0を11月18日10時に配信すると発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261117-479567/",
+   "pubDate": "2026-11-17T01:44:28.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261117-479567-001.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スプラトゥーン3"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261117-479567/"
+    }
+   ]
+  },
+  {
+   "title": "Splatoon Raiders demo now available",
+   "summary": "A demo for Splatoon Raiders is now available via Nintendo eShop, Nintendo announced. “Get a …",
+   "link": "https://www.gematsu.com/2026/11/splatoon-raiders-demo-now-available",
+   "pubDate": "2026-11-17T01:35:24.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Splatoon-Raiders-Demo_11-16-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/splatoon-raiders-demo-now-available"
+    }
+   ]
+  },
+  {
+   "title": "グラニフ×「ジョジョ」コラボグッズの追加予約が開始！5部のスタンド集合Tシャツ、暗殺者チームのスタジャンなど6商品が対象",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/17/191078.html",
+   "pubDate": "2026-11-17T01:35:02.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/17/191078.html"
+    }
+   ]
+  },
+  {
+   "title": "『スプラトゥーン3』Xマッチでフレンドと「2人組」参加可能に！マルチミサイルやショクワンダーなど強化、ダイナモローラーやスプラッシュシールドなど弱体化も",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/17/174950.html",
+   "pubDate": "2026-11-17T01:28:33.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "スプラトゥーン3"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/17/174950.html"
+    }
+   ]
+  },
+  {
+   "title": "『デイヴ・ザ・ダイバー』×『Core Keeper』の相互コラボ発表、11月30日に無料配信へ。デイヴのコラボは“最終DLC”後も続く",
+   "summary": "Fireshine Games及びデベロッパーのPugstorm、MINTROCKETは11月16日、『デイヴ・ザ・ダイバー』と『Core Keeper』のコラボレーションアップデートを発表した。11月30日以降に配信される。",
+   "link": "https://automaton-media.com/articles/newsjp/20261117-479559/",
+   "pubDate": "2026-11-17T01:26:11.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261117-479559-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 15,
+   "categories": [
+    "update",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "デイヴ・ザ・ダイバー",
+    "Core Keeper"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261117-479559/"
+    }
+   ]
+  },
+  {
+   "title": "失敗が死に直結するバイオレンスなパーティーゲーム『Machine Party』PS5/Xbox/Switch版が11月26日に発売決定。人気ロシアンルーレットゲーム『Buckshot Roulette』作者らが手がける",
+   "summary": "人気ロシアンルーレットゲーム『Buckshot Roulette』作者らが手がける。迫りくる機械から逃げ回ったり、友達の狙撃を回避したり",
+   "link": "https://news.denfaminicogamer.jp/news/261117l",
+   "pubDate": "2026-11-17T01:22:06.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_413459c86e92626fcb6f04cf5e5c98e2299b7028.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5",
+    "xbox"
+   ],
+   "works": [
+    "Machine Party",
+    "Buckshot Roulette"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261117l"
+    }
+   ]
+  },
+  {
+   "title": "【77円】『セイバーマリオネットJ』Kindleにて77円セール開催中！全12巻を「924円」で揃えられる。混沌の社会情勢のなか「マリオネット」たちが目覚める",
+   "summary": "作・あかほりさとる氏、挿絵・ことぶきつかさ氏によるライトノベル。侵攻を企てる悪の独裁者との戦いを描く",
+   "link": "https://news.denfaminicogamer.jp/news/261117o",
+   "pubDate": "2026-11-17T01:17:25.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/81eZHb-wE9L._SL1500_.avif",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "セイバーマリオネットJ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261117o"
+    }
+   ]
+  },
+  {
+   "title": "『ポケモン』寝姿が可愛い「 メリープ」が江戸木目込人形に！屏風や作札が付属、お正月はもちろん一年を通して飾れる",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/17/191076.html",
+   "pubDate": "2026-11-17T01:15:22.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/17/191076.html"
+    }
+   ]
+  },
+  {
+   "title": "「セブン−イレブン福袋 2027」が11月19日14時予約開始！店舗型デジタル時計などグッズ4点や、3,500円引き相当の電子クーポンがセットに",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/17/191075.html",
+   "pubDate": "2026-11-17T01:15:02.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/17/191075.html"
+    }
+   ]
+  },
+  {
+   "title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
+   "summary": "\"After just one week\". The Zelda: Ocarina of Time remake for Switch 2 has got off to an outstanding start, selling over five million copies…",
+   "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+   "pubDate": "2026-11-17T01:15:00.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://images.nintendolife.com/b5746d8268890/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 16,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us"
+    }
+   ]
+  },
+  {
+   "title": "雰囲気のよいミニチュアジオラマを作るゲーム『Book Nook』がSteamにて12月2日発売へ。組み立てに時間制限はなし、一つひとつのパーツがカチッとはまっていくパズルをのんびりと楽しめる",
+   "summary": "組み立てに時間制限などはなく、家具や飾りを配置するパズルをのんびり楽しめる作品。それぞれのジオラマには1つの物語が隠されている",
+   "link": "https://news.denfaminicogamer.jp/news/261117k",
+   "pubDate": "2026-11-17T01:03:51.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_981ef3408e5d9a4c26855857a7151e2e48837324.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Book Nook"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261117k"
+    }
+   ]
+  },
+  {
+   "title": "『勝利の女神：NIKKE』新SSRニケ「スカイ」（CV：根本優奈）が11月19日より特殊募集に登場。同日より最新バージョン「SKY ON THE ROCK」が実装",
+   "summary": "SSRニケ「デルタ：ニンジャシーフ」新コスチュームや、新ストーリーイベントが追加。SSRニケ「クラウン」「モダニア」の限定コスチュームの再販も",
+   "link": "https://news.denfaminicogamer.jp/news/2611172i",
+   "pubDate": "2026-11-17T01:00:00.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/9605c5e5ef71733cd24b1be4cfbfb52d-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "update",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "勝利の女神:NIKKE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611172i"
+    }
+   ]
+  },
+  {
+   "title": "デュオリンゴとポケモンがコラボ開始！「Duolingo」「ポケモンGO」両方で特別イベント開催「ポケGO」には“言語”テーマの「タイムチャレンジ」登場",
+   "summary": "Duolingoは、ポケモン、Scopely Exploreとのグローバルコラボレーションを11月17日より開始する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2156544.html",
+   "pubDate": "2026-11-17T01:00:00.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2156544.html"
+    }
+   ]
+  },
+  {
+   "title": "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pokémon Go",
+   "summary": "Not content with plaguing your phone's lock screen, Duo the Duolingo owl is next set to appear in Pokémon Go.",
+   "link": "https://www.ign.com/articles/there-really-is-no-escape-from-the-duolingo-owl-who-will-soon-join-pokmon-go",
+   "pubDate": "2026-11-17T01:00:00.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/16/image-1794833742037.jpeg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/there-really-is-no-escape-from-the-duolingo-owl-who-will-soon-join-pokmon-go"
+    }
+   ]
+  },
+  {
+   "title": "宮本茂氏が30年近い歴史あるアワードで新設「レジェンド賞」の初受賞者に！10年に一度の“世代を代表する栄誉”―第30回「D.I.C.E. Awards」にて",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/17/174948.html",
+   "pubDate": "2026-11-17T00:49:50.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/17/174948.html"
+    }
+   ]
+  },
+  {
+   "title": "ガンホーの決算説明資料より…『B.L.U.E. NOVA』『ニンジャラ2』など、新作ゲーム9タイトルを開発中 グローバル展開を見据えた開発投資が先行",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfS1JVbG5rdHlZSVJxa0pjSFJ2UndNOFlnWFdxdnkwYUJkbUxPNWJ4NmhYaVV3a1g4MGFVYnk0V0RvelhI?oc=5",
+   "pubDate": "2026-11-17T00:45:00.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "B.L.U.E. NOVA",
+    "ニンジャラ2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfS1JVbG5rdHlZSVJxa0pjSFJ2UndNOFlnWFdxdnkwYUJkbUxPNWJ4NmhYaVV3a1g4MGFVYnk0V0RvelhI?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
   {
    "title": "『パルワールド』のパルたちも登場！2人で開発した街づくり×クリッカー『クリッキーアイランド』がSteamで本日発売！",
    "summary": "株式会社ポケットペア（本社：東京都品川区、代表取締役社長：溝部拓郎）のパブリッシングレーベル「ポケットペアパブリッシング」は、ポーランドのインディーゲームスタジオ「Karrot Games」が開発した街づくり×...",
@@ -15546,6 +16116,35 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/gta-6-twitch-drops/"
+    }
+   ]
+  },
+  {
+   "title": "『装甲騎兵ボトムズ 灰色の魔女』美樹本晴彦らによるトリビュートイラスト公開。著名人から応援コメントも多数到着",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dTJxNFhoYnB0VHc4TDg5ZlNxUFV5SjBzMDMtbnc4Sm5Ib3pGQ2FyZFNydWtIY25OUFhOSVI4eTlXUzd1U21NSGE0T3BFcGhSZzIyNUFPZ3RwQQ?oc=5",
+   "pubDate": "2026-11-16T12:10:00.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "装甲騎兵ボトムズ 灰色の魔女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dTJxNFhoYnB0VHc4TDg5ZlNxUFV5SjBzMDMtbnc4Sm5Ib3pGQ2FyZFNydWtIY25OUFhOSVI4eTlXUzd1U21NSGE0T3BFcGhSZzIyNUFPZ3RwQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -22103,6 +22702,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/16/174916.html"
+    }
+   ]
+  },
+  {
+   "title": "『アズールプロミリア』リリース直前公式配信決定。「特別番組」＆「公式生放送」の豪華2本立て！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfczF1dHFudFZpN195aHFKdHZqT0FzSG01YWN5am9KX3dtVVVxRmNfUHRWN0xIMEV5dHpqaDh1Rl9heXlCSl92NjMzamVCTk93V1hiV2pPZTU0ZWc?oc=5",
+   "pubDate": "2026-11-16T02:40:21.000Z",
+   "firstSeen": "2026-11-17T01:48:35.847Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アズールプロミリア"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfczF1dHFudFZpN195aHFKdHZqT0FzSG01YWN5am9KX3dtVVVxRmNfUHRWN0xIMEV5dHpqaDh1Rl9heXlCSl92NjMzamVCTk93V1hiV2pPZTU0ZWc?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -30486,7 +31116,7 @@
    "firstSeen": "2026-11-14T03:47:35.828Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30501,9 +31131,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRExCTFhHV2xycTlyMzlUWXhBeUh5S2o4Ym5YZ2xIQXNDSHpRODNhaEFLeUFFdXhXa0FqVUFDVEx0dDZDaU9mcEZmdF8xUXpyVXB2M25pRWQ4QQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -189483,538 +190113,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/struggling-to-buy-magics-foundations-commander-decks-wizards-confirms-reprints-are-likely"
-    }
-   ]
-  },
-  {
-   "title": "Pokémon Announces Newest Collab, and It's With... Fender Guitars?!",
-   "summary": "To celebrate the 30th anniversary of the Pokémon Red and Pokémon Green video games, the Pokémon Company has announced a new collaboration wi…",
-   "link": "https://www.ign.com/articles/pokemon-announces-newest-collab-and-its-withfender-guitars",
-   "pubDate": "2026-10-30T16:48:28.000Z",
-   "firstSeen": "2026-10-30T17:47:33.806Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/30/pikachu-1793378514177.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/pokemon-announces-newest-collab-and-its-withfender-guitars"
-    }
-   ]
-  },
-  {
-   "title": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
-   "summary": "It's been another rough year for video games, with countless studio closures, staff layoffs, and projects that barely managed to even get of…",
-   "link": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/",
-   "pubDate": "2026-10-30T16:46:06.000Z",
-   "firstSeen": "2026-10-30T17:47:33.806Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GrimReaper.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/"
-    }
-   ]
-  },
-  {
-   "title": "Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually",
-   "summary": "Once again, we're all fuming about big tech and AI.",
-   "link": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
-   "pubDate": "2026-10-30T16:45:50.000Z",
-   "firstSeen": "2026-10-30T17:47:33.806Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/KoPW3Ed6AEr4mUXohjBxzJ-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
-   "summary": "Do any take your fancy? It has been a couple of days since the Indie World Showcase, so, just like clockwork, Nintendo is on hand with its h…",
-   "link": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
-   "pubDate": "2026-10-30T16:45:00.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://images.nintendolife.com/609b1ed657f9c/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "event",
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic"
-    }
-   ]
-  },
-  {
-   "title": "EA reportedly canned BioWare and Mass Effect 5 to make a new Star Wars: Battlefront instead",
-   "summary": "One last bitter drop in a chalice of sorrow.",
-   "link": "https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/",
-   "pubDate": "2026-10-30T16:43:23.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/T38rFJEmczQW8vbnLGC69a-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/"
-    }
-   ]
-  },
-  {
-   "title": "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS",
-   "summary": "The Australian Classification Board has rated Call of Duty: Modern Warfare 2, suggesting a port of Infinity Ward's original 2009 shooter may…",
-   "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-2-rating-potentially-leaks-port-for-original-2009-fps",
-   "pubDate": "2026-10-30T16:42:45.000Z",
-   "firstSeen": "2026-10-30T17:47:33.806Z",
-   "image": "https://assets-prd.ignimgs.com/2026/07/19/call-of-duty-ambience-lobbies-1784502331743.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-2-rating-potentially-leaks-port-for-original-2009-fps"
-    }
-   ]
-  },
-  {
-   "title": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash",
-   "summary": "Publisher Activision has responded to criticism over using a devastating tragedy in Call of Duty: Modern Warfare 4, saying that the incident…",
-   "link": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
-   "pubDate": "2026-10-30T16:42:23.000Z",
-   "firstSeen": "2026-10-30T17:47:33.806Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/codmw4-image.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/"
-    }
-   ]
-  },
-  {
-   "title": "Which is scarier, Amnesia: The Dark Descent or Alien: Isolation? Vote now!",
-   "summary": "It's the final round of our 'scariest game on PC' tournament. Help determine the winner with your vote.",
-   "link": "https://www.pcgamer.com/games/horror/which-is-scarier-amnesia-the-dark-descent-or-alien-isolation-vote-now/",
-   "pubDate": "2026-10-30T16:30:17.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/tacFgjKKgbufeB8YqDE4Kb-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "esports"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/horror/which-is-scarier-amnesia-the-dark-descent-or-alien-isolation-vote-now/"
-    }
-   ]
-  },
-  {
-   "title": "Phantom Blade Zero’s Lead Voice Actor Was Seemingly Replaced At The Last Minute",
-   "summary": "There's a new voice behind the protagonist of Soul in Phantom Blade Zero, and it's none other than Sonic the Hedgehog--or his longtime voice…",
-   "link": "https://www.gamespot.com/articles/phantom-blade-zero-lead-voice-actor-was-seemingly-replaced-at-the-last-minute/",
-   "pubDate": "2026-10-30T16:21:48.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Roger-has-had-too-much-coffee.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/phantom-blade-zero-lead-voice-actor-was-seemingly-replaced-at-the-last-minute/"
-    }
-   ]
-  },
-  {
-   "title": "Woot’s Early Black Friday Sale Features Some Incredible Video Game Deals",
-   "summary": "Amazon-owned retailer Woot has launched an early Black Friday sale for gamers, including limited-time discounts on Switch 2, PS5, and Xbox g…",
-   "link": "https://www.ign.com/articles/woot-early-black-friday-sale-features-some-incredible-video-game-deals",
-   "pubDate": "2026-10-30T16:00:18.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://assets-prd.ignimgs.com/2026/06/23/metroid-prime-4-ign-prime-day-deal-4-1782216788899.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 24,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/woot-early-black-friday-sale-features-some-incredible-video-game-deals"
-    }
-   ]
-  },
-  {
-   "title": "Ramayana: Rise of a Legend Review",
-   "summary": "Review: With Ramayana: Rise of a Legend, a majestic epic falls victim to clunky action, eye-sore CGI, and awkward AI lip-syncing in what is,…",
-   "link": "https://www.ign.com/articles/ramayana-rise-of-a-legend-review",
-   "pubDate": "2026-10-30T16:00:00.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://assets-prd.ignimgs.com/2026/08/05/ramayana-oo-1785967710395.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/ramayana-rise-of-a-legend-review"
-    }
-   ]
-  },
-  {
-   "title": "中世百年戦争サンドボックス『Chronicles: Medieval』早期アクセス直前に開発スタジオ閉鎖危機！ウィッシュリスト登録を呼びかけ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/31/174327.html",
-   "pubDate": "2026-10-30T15:56:22.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "release",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Chronicles: Medieval"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/31/174327.html"
-    }
-   ]
-  },
-  {
-   "title": "「荒野行動」×「NARUTO-ナルト- 疾風伝」コラボ第2弾が本日スタート。敵車両を妨害する車両スキル「月読」を持つSP枠EVセダンが登場",
-   "summary": "NetEaseGamesは本日（2026年10月31日），バトルロイヤルゲーム「荒野行動」で，アニメ「NARUTO-ナルト-疾風伝」とのコラボイベント第2弾をスタートした。敵車両を妨害する車両スキル「月読」を持つイタチのEVセダンなどが登場。イベント参加で最大100連分の無料ガチ…",
-   "link": "https://www.4gamer.net/games/402/G040245/20261031002/",
-   "pubDate": "2026-10-30T15:55:38.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/402/G040245/20261031002/"
-    }
-   ]
-  },
-  {
-   "title": "New Assassin’s Creed Game Is Out Now, If You Don’t Mind Being Board",
-   "summary": "If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Ani…",
-   "link": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
-   "pubDate": "2026-10-30T15:54:30.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/10/AC-Animus.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/"
-    }
-   ]
-  },
-  {
-   "title": "『スカイリム』RPにハマってプロ小説家デビュー！コロナ禍の現実逃避を執筆業に昇華したプレイヤー",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/31/174326.html",
-   "pubDate": "2026-10-30T15:48:00.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "スカイリム"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/31/174326.html"
-    }
-   ]
-  },
-  {
-   "title": "Five of the Best: Spooky transmissions",
-   "summary": "Five of the Best is a weekly series for supporters of Eurogamer, where we highlight some of the features in games that are often overlooked.…",
-   "link": "https://www.eurogamer.net/five-of-the-best-spooky-transmissions",
-   "pubDate": "2026-10-30T15:47:11.000Z",
-   "firstSeen": "2026-10-30T15:47:35.812Z",
-   "image": "https://assetsio.gnwcdn.com/creepy-radio.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/five-of-the-best-spooky-transmissions"
-    }
-   ]
-  },
-  {
-   "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your Gaming PC",
-   "summary": "OpenAI CEO Sam Altman thinks it's \"terrible\" for people to have RAM in their computers rather than in a data center, as the scarcity of memo…",
-   "link": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc",
-   "pubDate": "2026-10-30T15:40:35.000Z",
-   "firstSeen": "2026-10-30T16:47:41.536Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/30/gettyimages-2297765991-1793374604150.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc"
-    }
-   ]
-  },
-  {
-   "title": "ゲームのビジュアルや制作の最前線を知るイベント『CGWORLD Game Week』11月2日（月）よりYouTubeにて配信！5日（木）は30名限定・プラチナゲームズ座談会を実施",
-   "summary": "株式会社ボーンデジタル（本社：東京都千代田区、CEO：新 和也、URL： Game Week」を開催します。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000298.000073594.html",
-   "pubDate": "2026-10-30T15:40:02.000Z",
-   "firstSeen": "2026-10-30T15:47:35.812Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "CGWORLD Game Week"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000298.000073594.html"
-    }
-   ]
-  },
-  {
-   "title": "「機動戦士ガンダム」と革職人が作る日本製ブランド「AGILITY」がコラボ！連邦やジオンにシャアの革小物がクール",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/31/190125.html",
-   "pubDate": "2026-10-30T15:30:06.000Z",
-   "firstSeen": "2026-10-30T15:47:35.812Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/31/190125.html"
     }
    ]
   }
