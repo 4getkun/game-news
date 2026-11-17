@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-17T11:48:04.151Z",
+ "generatedAt": "2026-11-17T12:47:56.415Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1348,
+  "exact": 1349,
   "syndicated": 77,
   "similar": 378,
-  "syndicatedTotal": 426,
-  "syndicatedLeft": 30
+  "syndicatedTotal": 427,
+  "syndicatedLeft": 29
  },
  "calendar": [
   {
@@ -654,22 +654,6 @@
    "source": "インサイド",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-03",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "ソニックレーシング クロスワールド",
-   "title": "『ソニックレーシング クロスワールド』シーズン2前夜祭が11月3日20時から配信！ Twitch Dropsも実施",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OOFFwMzZVeUUwdUZMT0ZqT1ZyY1JDU3pxb1FLRFk3dW1BR1RwZXdnTm9Bc1FWeEc4VlRoZms3eFdVbGZ2VVB0amFQTnRhRUtPYl9GVDY1RlFzOGxyV25oMA?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -6939,6 +6923,20 @@
   {
    "date": "2026-11-20",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ゼルダの伝説 時のオカリナ",
+   "title": "ニンテンドードリーム2027年1月号が11月20日発売、『ゼルダの伝説 時のオカリナ』と『ファイアーエムブレム 万紫千紅』のW付録つき",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dkpGYndLSWtWMFdYOHpZbzBFX3N0cWxjTmRKQWZNX1Izd3Z3TDRNLXZtZ2xpU1d0ZWRXVUVxeE84SjliU0ViRWppTWVIVE9tMExHcjhwY2VkclJOSE5qUg?oc=5",
+   "source": "AppBank",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-20",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Bee Shrimp Aquarium",
@@ -9757,6 +9755,23 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "The Tram",
+   "title": "クラシックな路面電車を運転し，乗客を安全に送り届けよう。シミュレーションゲーム「The Tram」，早期アクセス版を12月14日にリリース",
+   "link": "https://www.4gamer.net/games/059/G105917/20261117053/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-14",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "フロストパンク2",
    "title": "『フロストパンク2』第3弾DLCが12月14日配信へ！猛吹雪を資源に変える新技術と謎の渓谷を描く最終拡張。シリーズは今後、未発表の新ジャンル作品などに注力",
    "link": "http://www.gamespark.jp/article/2026/11/03/174417.html",
@@ -10149,6 +10164,20 @@
    "platforms": [
     "switch2"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "ゼルダの伝説 時のオカリナ",
+   "title": "ニンテンドードリーム2027年1月号が11月20日発売、『ゼルダの伝説 時のオカリナ』と『ファイアーエムブレム 万紫千紅』のW付録つき",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dkpGYndLSWtWMFdYOHpZbzBFX3N0cWxjTmRKQWZNX1Izd3Z3TDRNLXZtZ2xpU1d0ZWRXVUVxeE84SjliU0ViRWppTWVIVE9tMExHcjhwY2VkclJOSE5qUg?oc=5",
+   "source": "AppBank",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -11627,8 +11656,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 974,
-   "accepted": 947
+   "archived": 976,
+   "accepted": 949
   },
   {
    "id": "4gamer-sp",
@@ -11638,8 +11667,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 225,
-   "accepted": 218
+   "archived": 224,
+   "accepted": 217
   },
   {
    "id": "automaton",
@@ -11649,8 +11678,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 572,
-   "accepted": 566
+   "archived": 573,
+   "accepted": 567
   },
   {
    "id": "denfaminico",
@@ -11660,8 +11689,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1230,
-   "accepted": 1100
+   "archived": 1229,
+   "accepted": 1099
   },
   {
    "id": "gamewatch",
@@ -11682,8 +11711,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1215,
-   "accepted": 1198
+   "archived": 1217,
+   "accepted": 1200
   },
   {
    "id": "inside-games",
@@ -11693,8 +11722,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1675,
-   "accepted": 1270
+   "archived": 1677,
+   "accepted": 1272
   },
   {
    "id": "ps-blog",
@@ -11737,8 +11766,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 651,
-   "accepted": 514
+   "archived": 653,
+   "accepted": 515
   },
   {
    "id": "gnews-dengeki",
@@ -11748,7 +11777,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 663,
+   "archived": 662,
    "accepted": 387
   },
   {
@@ -11758,7 +11787,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 82,
+   "fetched": 81,
    "archived": 592,
    "accepted": 543
   },
@@ -11770,8 +11799,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1483,
-   "accepted": 1294
+   "archived": 1486,
+   "accepted": 1296
   },
   {
    "id": "gnews-ps5",
@@ -11791,7 +11820,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 73,
+   "fetched": 75,
    "archived": 455,
    "accepted": 365
   },
@@ -11803,7 +11832,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25950,
+   "archived": 25962,
    "accepted": 435
   },
   {
@@ -11825,8 +11854,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1192,
-   "accepted": 1192
+   "archived": 1195,
+   "accepted": 1195
   },
   {
    "id": "eurogamer",
@@ -11836,8 +11865,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 298,
-   "accepted": 298
+   "archived": 301,
+   "accepted": 301
   },
   {
    "id": "gamespot",
@@ -11869,11 +11898,483 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 595,
-   "accepted": 595
+   "archived": 597,
+   "accepted": 597
   }
  ],
  "items": [
+  {
+   "title": "巨人警官の監視を受けつつ街から逃げるステルスADV「Militsioner」，ゲームシステムを紹介する15分間のゲームプレイ映像を公開",
+   "summary": "CRITICALREFLEXは2026年11月16日，TALLBOYSが開発中の新作タイトル「Militsioner」のゲームシステムを紹介する15分間のプレイ映像を公開した。本作は，巨人警官が中心に座る街を舞台に，街からの脱出を目指す一人称視点のステルスアクションアドベンチャー…",
+   "link": "https://www.4gamer.net/games/760/G076023/20261117055/",
+   "pubDate": "2026-11-17T12:30:25.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/760/G076023/20261117055/"
+    }
+   ]
+  },
+  {
+   "title": "ギリギリを攻めるスリルを気軽に何度でも！VR対応のエクストリームスポーツ体験シム『Wingsuit Simulator』発表",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/17/174986.html",
+   "pubDate": "2026-11-17T12:30:03.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "vr"
+   ],
+   "works": [
+    "Wingsuit Simulator"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/17/174986.html"
+    }
+   ]
+  },
+  {
+   "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
+   "summary": "Chrono Trigger composer Yasunori Mitsuda thinks it may be time for Square Enix to retire Dragon Quest, while reflecting on the direction of…",
+   "link": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+   "pubDate": "2026-11-17T12:27:00.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://assetsio.gnwcdn.com/Dragon-Quest-old-new.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama"
+    }
+   ]
+  },
+  {
+   "title": "ニンテンドードリーム2027年1月号が11月20日発売、『ゼルダの伝説 時のオカリナ』と『ファイアーエムブレム 万紫千紅』のW付録つき",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dkpGYndLSWtWMFdYOHpZbzBFX3N0cWxjTmRKQWZNX1Izd3Z3TDRNLXZtZ2xpU1d0ZWRXVUVxeE84SjliU0ViRWppTWVIVE9tMExHcjhwY2VkclJOSE5qUg?oc=5",
+   "pubDate": "2026-11-17T12:17:26.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゼルダの伝説 時のオカリナ",
+    "ファイアーエムブレム 万紫千紅"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dkpGYndLSWtWMFdYOHpZbzBFX3N0cWxjTmRKQWZNX1Izd3Z3TDRNLXZtZ2xpU1d0ZWRXVUVxeE84SjliU0ViRWppTWVIVE9tMExHcjhwY2VkclJOSE5qUg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "税込約150万円の純金製「ルーデンス」が予約受付中！銀製や「アヒルーデンス」版も",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/17/174985.html",
+   "pubDate": "2026-11-17T12:15:02.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/17/174985.html"
+    }
+   ]
+  },
+  {
+   "title": "The Impossible Mission of Getting GTA 5's Seamless Character Switching Working on PS3 and Xbox 360",
+   "summary": "How a former Rockstar developer made GTA 5's seamless character switching work on PS3 and Xbox 360.",
+   "link": "https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360",
+   "pubDate": "2026-11-17T12:14:00.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://assets-prd.ignimgs.com/2024/12/03/gta-5-world-blog-1733224118837.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360"
+    }
+   ]
+  },
+  {
+   "title": "『Forza Horizon 6』で「4か月前に亡くなった親友」との“再会”報告あがる。ゲームの中で走り続ける、友の分身",
+   "summary": "『Forza Horizon 6』に搭載されたAIドライバー機能を通じて、亡くなった親友と再会したという体験がSNSで話題になっている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261117-479688/",
+   "pubDate": "2026-11-17T12:06:16.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261117-479688-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Forza Horizon 6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261117-479688/"
+    }
+   ]
+  },
+  {
+   "title": "As blockbuster game releases run scared from GTA 6, meet the brave devs tackling Rockstar's behemoth head-on",
+   "summary": "Grand Theft Auto 6. It's got cool cars, crime, a big new city to explore, and the potential to hoover up so much player time that many devel…",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on",
+   "pubDate": "2026-11-17T12:01:20.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://assetsio.gnwcdn.com/gta-week-isaac-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on"
+    }
+   ]
+  },
+  {
+   "title": "NVIDIA取締役会、ジェンスン・フアン氏の“CEO復帰を検討せず”と海外報道―同氏が側近と復帰の可能性を協議したとの報道に続き",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/17/174984.html",
+   "pubDate": "2026-11-17T12:00:03.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/17/174984.html"
+    }
+   ]
+  },
+  {
+   "title": "『原神』と日本マクドナルドが初コラボ！ヴァレサ＆エスコフィエの限定パッケージや、「風の翼」などゲーム内アイテムを提供",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/17/191137.html",
+   "pubDate": "2026-11-17T12:00:03.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "原神"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/17/191137.html"
+    }
+   ]
+  },
+  {
+   "title": "\"I Don't Feel This Is A Good Direction\" - Chrono Trigger Composer Thinks It's Time To End Dragon Quest",
+   "summary": "\"it’s no longer possible to create anything new\". Chrono Trigger composer Yasunori Mitsuda has posted a blog in which he states it might be…",
+   "link": "https://www.nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest",
+   "pubDate": "2026-11-17T12:00:00.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://images.nintendolife.com/ea431419479fe/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest"
+    }
+   ]
+  },
+  {
+   "title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
+   "summary": "Something's gotta give, something's gotta give, something's gotta give.",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
+   "pubDate": "2026-11-17T11:56:46.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/dZ63uY6YcJey8Wnr6q6664-1920-80.png",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/"
+    }
+   ]
+  },
+  {
+   "title": "クラシックな路面電車を運転し，乗客を安全に送り届けよう。シミュレーションゲーム「The Tram」，早期アクセス版を12月14日にリリース",
+   "summary": "TGRGroupは本日（2026年11月17日），開発中の新作タイトル「TheTram」の早期アクセス版を，12月14日にリリースすると発表した。本作は，2000年代の中東欧をモチーフにした都市で，クラシックな路面電車を運転するシミュレーションゲームだ。",
+   "link": "https://www.4gamer.net/games/059/G105917/20261117053/",
+   "pubDate": "2026-11-17T11:50:51.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "The Tram"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/059/G105917/20261117053/"
+    }
+   ]
+  },
+  {
+   "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
+   "summary": "Investigation into Megaspeed first started in 2024.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
+   "pubDate": "2026-11-17T11:50:33.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/VAj3qnWofFrZFQiBmdTyWd-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/"
+    }
+   ]
+  },
+  {
+   "title": "First Clip From HBO's Harry Potter Series Soundtrack Isn't Going Down Well With Fans",
+   "summary": "Harry Potter fans have been given a first sample of Hans Zimmer's new HBO series soundtrack, and have complained that it doesn't yet compare…",
+   "link": "https://www.ign.com/articles/first-clip-from-hbos-harry-potter-series-soundtrack-isnt-going-down-well-with-fans",
+   "pubDate": "2026-11-17T11:50:23.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/17/harry-potter-and-the-philosophers-stone-the-start-of-term-banquet-clip-hbo-max-00-00-16-1794914722899.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/first-clip-from-hbos-harry-potter-series-soundtrack-isnt-going-down-well-with-fans"
+    }
+   ]
+  },
+  {
+   "title": "\"Encouraging players to return is no mean feat\" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill void before new expansion",
+   "summary": "Final Fantasy 14 is between expansions at the moment, with Evercold preparing for release in February. So, in order to keep the game populat…",
+   "link": "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold",
+   "pubDate": "2026-11-17T11:48:50.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://assetsio.gnwcdn.com/Final-Fantasy-XIV-Evercold.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold"
+    }
+   ]
+  },
+  {
+   "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+   "summary": "There's always room for a bit more polish.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+   "pubDate": "2026-11-17T11:47:29.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/cgsfct7LsSe3YLSHsKbAJF-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "They would never stop working on this game"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/"
+    }
+   ]
+  },
   {
    "title": "グランドセフト...ではなくGREAT TEKKEN ANIMALS。『鉄拳8』ロジャーJr.参戦秘話描くショートコミック「GTA」公開！",
    "summary": "",
@@ -11899,6 +12400,62 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/17/174983.html"
+    }
+   ]
+  },
+  {
+   "title": "ホロライブ・角巻わため、輪堂千速など登場の「hololive Meet 2026」2ndビジュアルグッズが可愛い！ B2タペストリーや全員集合タンブラーほかラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/17/191136.html",
+   "pubDate": "2026-11-17T11:45:02.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/17/191136.html"
+    }
+   ]
+  },
+  {
+   "title": "Xbox Game Pass Is Losing 8 More Games In November",
+   "summary": "Don't get too comfortable with your Xbox Game Pass library, because you never know which game will be removed from it next. This month, seve…",
+   "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november/",
+   "pubDate": "2026-11-17T11:40:28.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Aliens-Dark-Descent.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november/"
     }
    ]
   },
@@ -12044,6 +12601,36 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/17/191135.html"
+    }
+   ]
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time Remake Is Already Running Rampant on PC — but Can Nintendo Do Anything About It?",
+   "summary": "The Legend of Zelda: Ocarina of Time remake is running rampant on PC, but can Nintendo actually do anything about it? We asked legal experts…",
+   "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it",
+   "pubDate": "2026-11-17T11:23:51.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/17/thelegendofzeldaocarinaoftime-48-1794914142571.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it"
     }
    ]
   },
@@ -12225,6 +12812,37 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/17/191133.html"
+    }
+   ]
+  },
+  {
+   "title": "『Tower of Babel: Survivors of Chaos』サバイバー系アクション×ハクスラRPGの累計販売本数が20万本突破。今冬にコンソール版も発売予定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94X0FFUklrN2RDNjE0N1Q0dUhuazUwSjZZNzB6emhHZ1hxTU51eTVicmNMeldVdUJMdk9PVkxtbXZyR2plRDc2UW5MNWw4a3N1MlNqY3Nubw?oc=5",
+   "pubDate": "2026-11-17T11:10:00.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Tower of Babel: Survivors of Chaos"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94X0FFUklrN2RDNjE0N1Q0dUhuazUwSjZZNzB6emhHZ1hxTU51eTVicmNMeldVdUJMdk9PVkxtbXZyR2plRDc2UW5MNWw4a3N1MlNqY3Nubw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -16752,6 +17370,38 @@
    ]
   },
   {
+   "title": "Banana NativeはAndroidで10 Switch 2のゲームを動作させられるようになり、Mario Kart Worldにも対応しました",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWVtN1AwY3dwSWxSMHhRcWlkT0hMdmFqdGtqY0ZLYUx4MlM4UVNrQTQwUm5Va0NiNnhqM09xODZrYmdsb0FmQmJlZVZhYmtqNFhLN2lkODNtMF95VG1yVVJFVWRIdkNZd0QxOXVzcGVNNlA3U25Gc3BuMktYZmZCVnZvR0Joai1kMWtvR05QT3ZhZG9p?oc=5",
+   "pubDate": "2026-11-17T05:24:00.000Z",
+   "firstSeen": "2026-11-17T12:47:40.926Z",
+   "image": null,
+   "source": "Mezha.net",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "mobile"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Mezha.net",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWVtN1AwY3dwSWxSMHhRcWlkT0hMdmFqdGtqY0ZLYUx4MlM4UVNrQTQwUm5Va0NiNnhqM09xODZrYmdsb0FmQmJlZVZhYmtqNFhLN2lkODNtMF95VG1yVVJFVWRIdkNZd0QxOXVzcGVNNlA3U25Gc3BuMktYZmZCVnZvR0Joai1kMWtvR05QT3ZhZG9p?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "横5120ドットの180Hz表示と横2560ドットの360Hz表示を切り替えられる34インチ湾曲ゲーミングディスプレイがAcerから",
    "summary": "2026年11月17日，Acerは，解像度5120×2160ドットの34インチ湾曲型ゲーミングディスプレイ「NITROED340CKR」シリーズ2製品を発売した。いずれも，アスペクト比21：9のウルトラワイドVA液晶パネルを採用しており，解像度とリフレッシュレートを切り替えるデュ…",
    "link": "https://www.4gamer.net/games/127/G012747/20261117019/",
@@ -19446,6 +20096,13 @@
      "name": "Infoseek",
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4a1pUbzRiUWFYUUxoUE1PX0NBZ0FLQy02eVREV0FWNWdiME92UTFLaHdTZkFMSTVqX1l1WDNsQWZMT3ZMbE5lRV9PT2pUUlZNa1djbDhYeDQzeWxBOFpISG9n?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Ujd4UF9kZ3Y4T2JjWDJPX3VzTGVoX203NHUtc29waFNSblpnanZtQzQtckxQaDlSOTg1bGVxUU9MSmx5S0cxY0l5Nk1EZXlkMWxQaGhKR1NsN1c0bGN6eUZYYXlKZmo0?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」",
      "syndicated": true
     }
@@ -190247,659 +190904,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/054/G105473/20261101005/"
-    }
-   ]
-  },
-  {
-   "title": "【福岡発・創業1年半】株式会社tamateco、東洋経済『すごいベンチャー100』2026年最新版に選出！日本の「ガチャ²」文化を世界標準へ",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000002.000185958.html",
-   "pubDate": "2026-11-01T02:40:41.000Z",
-   "firstSeen": "2026-11-01T02:47:35.050Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "すごいベンチャー100"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000002.000185958.html"
-    }
-   ]
-  },
-  {
-   "title": "「ポケモンパン」新商品が11月1日より発売！マスカーニャやメガスターミーなど全20種ラインナップ「デコキャラシール第211弾」もチェック",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190187.html",
-   "pubDate": "2026-11-01T02:30:03.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190187.html"
-    }
-   ]
-  },
-  {
-   "title": "暴走族が巨大ロボでタイマンするゲーム『横浜機動暴走族 ROCK ‘N’ ROLL SUICIDE』プレイレポ。迫力の戦闘とコミカルな会話にニコニコしてたら、社会派で共感しまくりのシナリオとの温度差に“ととのって”しまった【東京ゲームダンジョン14】",
-   "summary": "重厚感ある戦闘に大興奮！少年の心で笑顔になるはずが、若者の葛藤を描く物語を見せられて急に胸が苦しい",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101a",
-   "pubDate": "2026-11-01T02:25:32.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/11/6dd97ded9f22357163273fd5d902833b-1024x560.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "横浜機動暴走族 ROCK ‘N’ ROLL SUICIDE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101a"
-    }
-   ]
-  },
-  {
-   "title": "ポチャッコとバッドばつ丸が仲間入り！ドン・キホーテに「サンリオキャラクターズ」マイクロファイバーシリーズ新作が登場",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190186.html",
-   "pubDate": "2026-11-01T02:20:02.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190186.html"
-    }
-   ]
-  },
-  {
-   "title": "しまむらで「コジコジ×サンリオキャラクターズ」が順次発売！クロミたちと会話するようなデザイン、オンラインストアは11月3日から",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190185.html",
-   "pubDate": "2026-11-01T02:15:59.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190185.html"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch 2・協力型パズルパーティーゲーム『みんなで探せ！マドリカ不動産の出口』発表。紙と“仲間”も準備して、息をあわせる間取り作成パズル",
-   "summary": "ギフトテンインダストリは10月31日、協力型パズルパーティーゲーム『みんなで探せ！マドリカ不動産の出口』を発表した。本作は『マドリカ不動産』シリーズの最新作で、複数人で協力して謎を解くパズルゲームとなっている。",
-   "link": "https://automaton-media.com/articles/newsjp/20261101-476977/",
-   "pubDate": "2026-11-01T02:13:55.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476977-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "みんなで探せ!マドリカ不動産の出口"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261101-476977/"
-    }
-   ]
-  },
-  {
-   "title": "『ポケモン』便利なトートバッグ＆ポーチがカプセルトイで登場！御三家が地方やタイプごとに集まった全8種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190184.html",
-   "pubDate": "2026-11-01T02:10:03.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190184.html"
-    }
-   ]
-  },
-  {
-   "title": "『ストリートファイター』新作一番くじで激闘が蘇る！ラストワン賞は「殺意の波動に目覚めたリュウ」",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190183.html",
-   "pubDate": "2026-11-01T02:00:04.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ストリートファイター"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190183.html"
-    }
-   ]
-  },
-  {
-   "title": "100万体のゾンビが埋め尽くす街から生存者を救出するゾンビサバイバルRTS『Ebbtide』に注目集まる。人類最後の空母機動部隊を指揮し、時には自らも出撃【今週のインディー3選】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/01/174353.html",
-   "pubDate": "2026-11-01T02:00:02.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Ebbtide"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/01/174353.html"
-    }
-   ]
-  },
-  {
-   "title": "『ゼルダの伝説』引っこ抜ける「マスターソード」、衝撃を与えるとライトが消える「ハートの器」が11月上旬よりローソン店舗先行展開！",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190182.html",
-   "pubDate": "2026-11-01T01:50:03.000Z",
-   "firstSeen": "2026-11-01T02:39:03.613Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゼルダの伝説"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190182.html"
-    }
-   ]
-  },
-  {
-   "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-   "summary": "Structural perfection.",
-   "link": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
-   "pubDate": "2026-11-01T01:30:27.000Z",
-   "firstSeen": "2026-11-01T01:47:39.360Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/LxcS4vFnPo4sKYRXgXRKZM-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/"
-    }
-   ]
-  },
-  {
-   "title": "しまむら×『ドラクエ』コラボ商品が受注生産！エコバッグ付きTシャツなどアパレルがラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190178.html",
-   "pubDate": "2026-11-01T01:10:03.000Z",
-   "firstSeen": "2026-11-01T01:47:39.360Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190178.html"
-    }
-   ]
-  },
-  {
-   "title": "『ソニックレーシング クロスワールド』シーズン2前夜祭が11月3日20時から配信！ Twitch Dropsも実施",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OOFFwMzZVeUUwdUZMT0ZqT1ZyY1JDU3pxb1FLRFk3dW1BR1RwZXdnTm9Bc1FWeEc4VlRoZms3eFdVbGZ2VVB0amFQTnRhRUtPYl9GVDY1RlFzOGxyV25oMA?oc=5",
-   "pubDate": "2026-11-01T01:03:52.000Z",
-   "firstSeen": "2026-11-01T04:47:33.942Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ソニックレーシング クロスワールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OOFFwMzZVeUUwdUZMT0ZqT1ZyY1JDU3pxb1FLRFk3dW1BR1RwZXdnTm9Bc1FWeEc4VlRoZms3eFdVbGZ2VVB0amFQTnRhRUtPYl9GVDY1RlFzOGxyV25oMA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "上司に詰められながら新卒ギャル子ちゃんに残業を強いるゲーム『あとはよろしく、社畜さん！』が中間管理職の地獄すぎる。おれはいい上司になりたいだけなのに……【東京ゲームダンジョン14】",
-   "summary": "定時後にブチ込まれる研修、丸投げ仕事に後出し文句、突如ポップする謎業務。神様、この上司を早く地獄に送ってください",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101v",
-   "pubDate": "2026-11-01T01:00:43.000Z",
-   "firstSeen": "2026-11-01T01:47:39.360Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image11-21-1024x597.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "あとはよろしく、社畜さん!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101v"
-    }
-   ]
-  },
-  {
-   "title": "ボタンに”1文字”足して物語を変えるゲーム『MARY – メアリ姫の奪還』は、道中のキャラが困惑しながら雑な無茶振りにリアクションしてくれて最高だ【東京ゲームダンジョン14】",
-   "summary": "せっかく変えられるなら、王道の展開の数々を捻じ曲げてみたい。でも、変な単語をひねり出すのは意外と難しい",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101z",
-   "pubDate": "2026-11-01T01:00:36.000Z",
-   "firstSeen": "2026-11-01T01:47:39.360Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/eye3-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "MARY – メアリ姫の奪還"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101z"
-    }
-   ]
-  },
-  {
-   "title": "大人気「パンどろぼう」がミニチュアに！パンを食べたり、のぞきみしたりと全8種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190177.html",
-   "pubDate": "2026-11-01T01:00:03.000Z",
-   "firstSeen": "2026-11-01T01:47:39.360Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190177.html"
-    }
-   ]
-  },
-  {
-   "title": "【ヴィ・ド・フランス】Nintendo Switch 2 などが当たるキャンペーン開催！クリスマス予約が11/1(日)よりスタート！12/7(月)まで早割10％OFF！",
-   "summary": "★Xmasプレゼントが当たるかも！豪華な景品が当たる予約キャンペーンを初開催！ ★苺のシュトーレンなど新商品がたくさん登場！ラインナップが大幅パワーアップ！ ★店舗限定！３フレーバーのバスクチーズケーキが仲...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000017.000087188.html",
-   "pubDate": "2026-11-01T01:00:02.000Z",
-   "firstSeen": "2026-11-01T04:47:33.942Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 10,
-    "free": false
-   },
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000017.000087188.html"
-    },
-    {
-     "name": "毎日キレイ",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05WnBCa1hYXzZ3WmIweEhvdHJLRV9xT1JIbGZvLWxvYnhQS0dRUUlKaXg4amZmRUs2ekRONDVUQUdlSm55ZUw4eEZhdG9vcTRBQlExd1NUSzFHRWZDNE5EQWZlSWZZaUFqemJWeVpWWFNwbHU4VmdBTXJB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "クレアウェブ",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ed19DTFYwYzdfSGt4XzJVLS1rYS1Mbk5jdkxkMUJMUGs1OW9uUnRzY2JuQlRUUXJUb0RzTWY1R2h6UGp0V0p6Nm44dHV1TE5ZcHBzaDV1Y0kzZ29ydnJlem1yS1owREx2aUl1TURUOHhOdw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ocWhDRTJLa1ZUb3Q3RzhBenZxX1YwOVBTTkdYLVB1VXRrQi04VHg3bnpJRzRCWnZoU0JvMll5RU03N1JnaThva2xRczUyVEVtQjUyQmZfeDhaWkVXZURGdnVLajN0bGk1T0Qw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "対戦カードバトル『ゴッドフィールド』にて、“19年間誰も気づかなかった”誤字アイテムが見つかる。ステルス誤字",
-   "summary": "『ゴッドフィールド』の開発者グウジ氏は、同作内に“19年間”そのままだった誤字があると明かした。近日中に修正予定とのことだ。",
-   "link": "https://automaton-media.com/articles/newsjp/20261101-476972/",
-   "pubDate": "2026-11-01T00:46:13.000Z",
-   "firstSeen": "2026-11-01T00:47:39.999Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476972-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゴッドフィールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261101-476972/"
-    }
-   ]
-  },
-  {
-   "title": "「買ったゲームは誰のもの？」欧米で広がる「所有権」論争 日本も他人事ではない話",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMMTMwdXJvUUxUZ1JxVGdjNW0zTGp0UmhJbXV1c3dzVTgxYzM0V3JZZmUtMjdoVXBFRHFVaU5Rb0JHeEtJRV9WdndEcFpKc3FNQWlpeUZiTVRZeXZxc3c?oc=5",
-   "pubDate": "2026-11-01T00:40:00.000Z",
-   "firstSeen": "2026-11-01T08:47:35.090Z",
-   "image": null,
-   "source": "Infoseek",
-   "sourceId": "gnews-newgame",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMMTMwdXJvUUxUZ1JxVGdjNW0zTGp0UmhJbXV1c3dzVTgxYzM0V3JZZmUtMjdoVXBFRHFVaU5Rb0JHeEtJRV9WdndEcFpKc3FNQWlpeUZiTVRZeXZxc3c?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『FF14』吉田直樹氏インタビュー。「白銀のワンダラー」に登場する単語は北欧神話にインスパイア。新ジョブ「ゼファー」の名前のヒントも北欧神話に",
-   "summary": "竜騎士の「スカイハイ」のようなピーキーな技をいろいろなジョブに。リットアティン制作時、バスティオンの構想はなかったという裏話も。",
-   "link": "https://news.denfaminicogamer.jp/interview/261101f",
-   "pubDate": "2026-11-01T00:00:09.000Z",
-   "firstSeen": "2026-11-01T00:47:39.999Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/f9fd259376f1bb114dea573e096635c6-1-1024x712.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF14"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/interview/261101f"
-    }
-   ]
-  },
-  {
-   "title": "最新拡張パッケージ「白銀のワンダラー」では、“可処分時間”や“遊びやすさ”にフォーカス！吉田直樹氏が語る『FF14』の次なる在り方と進化【インタビュー】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190172.html",
-   "pubDate": "2026-11-01T00:00:07.000Z",
-   "firstSeen": "2026-11-01T00:47:39.999Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "update",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF14"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190172.html"
-    }
-   ]
-  },
-  {
-   "title": "にふぉるめーしょん「仮面ライダー」第5弾が大迫力！「カブト」の“ZECTレア”ほか、金/銀色箔押し仕様含む全36種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/01/190171.html",
-   "pubDate": "2026-11-01T00:00:04.000Z",
-   "firstSeen": "2026-11-01T00:47:39.999Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/01/190171.html"
     }
    ]
   }
