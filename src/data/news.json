@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-18T12:47:52.233Z",
+ "generatedAt": "2026-11-18T13:30:00.875Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1387,
+  "exact": 1388,
   "syndicated": 79,
   "similar": 389,
-  "syndicatedTotal": 445,
+  "syndicatedTotal": 446,
   "syndicatedLeft": 30
  },
  "calendar": [
@@ -6403,6 +6403,24 @@
   {
    "date": "2026-11-19",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "GTA VIは11月19日発売、PS5版は日本時間0時に配信開始予定 版ごとの価格と購入条件",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yVVNSd0lVME5fYjltcGVicllISTBnaGx0TkJyRG9WUFBNeDRidEJXbVZUVmF5aVJ3dzVsV1d2eEdnOGlpa2dFM1hXSFB3UHQ4SHUwdG1IVQ?oc=5",
+   "source": "共同通信PRワイヤー",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "ps5"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-19",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -7314,6 +7332,22 @@
    "link": "https://www.inside-games.jp/article/2026/11/16/191045.html",
    "source": "インサイド",
    "sources": 3,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-23",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Internet Cafe 98",
+   "title": "GrindWill Interactive、1998年のネットカフェ経営を描く2Dインクリメンタルゲーム『Internet Cafe 98』を11月23日にリリース",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBISkw5cEFIR0lzYVNsYTJubmtjcVI3MzVBWi1ybjlqYlFoZ0JqZk9XaWl0NUVnTkZpclpaSm5jcUg1aVBI?oc=5",
+   "source": "gamebiz【ゲームビズ】",
+   "sources": 1,
    "categories": [
     "collab"
    ],
@@ -11891,7 +11925,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1237,
+   "archived": 1238,
    "accepted": 1221
   },
   {
@@ -11946,8 +11980,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 637,
-   "accepted": 506
+   "archived": 638,
+   "accepted": 507
   },
   {
    "id": "gnews-dengeki",
@@ -11958,7 +11992,7 @@
    "error": null,
    "fetched": 100,
    "archived": 651,
-   "accepted": 386
+   "accepted": 385
   },
   {
    "id": "gnews-newgame",
@@ -11967,9 +12001,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
-   "archived": 615,
-   "accepted": 564
+   "fetched": 87,
+   "archived": 616,
+   "accepted": 565
   },
   {
    "id": "gnews-switch2",
@@ -11990,8 +12024,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 771,
-   "accepted": 704
+   "archived": 773,
+   "accepted": 705
   },
   {
    "id": "gnews-update",
@@ -12000,9 +12034,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 77,
-   "archived": 465,
-   "accepted": 375
+   "fetched": 78,
+   "archived": 467,
+   "accepted": 376
   },
   {
    "id": "prtimes",
@@ -12012,8 +12046,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26459,
-   "accepted": 447
+   "archived": 26488,
+   "accepted": 449
   },
   {
    "id": "gematsu",
@@ -12023,8 +12057,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 325,
-   "accepted": 325
+   "archived": 321,
+   "accepted": 321
   },
   {
    "id": "ign",
@@ -12034,8 +12068,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1244,
-   "accepted": 1244
+   "archived": 1246,
+   "accepted": 1246
   },
   {
    "id": "eurogamer",
@@ -12045,8 +12079,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 305,
-   "accepted": 305
+   "archived": 303,
+   "accepted": 303
   },
   {
    "id": "gamespot",
@@ -12056,8 +12090,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 316,
-   "accepted": 316
+   "archived": 314,
+   "accepted": 314
   },
   {
    "id": "nintendolife",
@@ -12067,8 +12101,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 358,
-   "accepted": 358
+   "archived": 357,
+   "accepted": 357
   },
   {
    "id": "pcgamer",
@@ -12078,11 +12112,188 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 613,
-   "accepted": 613
+   "archived": 614,
+   "accepted": 614
   }
  ],
  "items": [
+  {
+   "title": "『GTA6』PS5版はやはり30fps固定、それでも「シリーズ史上最もなめらか」―Digital Foundryが分析、60fpsは「この規模では困難」",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175046.html",
+   "pubDate": "2026-11-18T13:23:14.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/18/175046.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA VIは11月19日発売、PS5版は日本時間0時に配信開始予定 版ごとの価格と購入条件",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yVVNSd0lVME5fYjltcGVicllISTBnaGx0TkJyRG9WUFBNeDRidEJXbVZUVmF5aVJ3dzVsV1d2eEdnOGlpa2dFM1hXSFB3UHQ4SHUwdG1IVQ?oc=5",
+   "pubDate": "2026-11-18T13:16:41.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "共同通信PRワイヤー",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "共同通信PRワイヤー",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yVVNSd0lVME5fYjltcGVicllISTBnaGx0TkJyRG9WUFBNeDRidEJXbVZUVmF5aVJ3dzVsV1d2eEdnOGlpa2dFM1hXSFB3UHQ4SHUwdG1IVQ?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "シンガポールでの小ロット試験販売に向け、日本企業の商品事前登録を開始",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000017.000187351.html",
+   "pubDate": "2026-11-18T13:10:02.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000017.000187351.html"
+    }
+   ]
+  },
+  {
+   "title": "Amazon Slashes $10 off Control Resonant in Early Black Friday Sale, Dropping to Its Lowest Price Yet",
+   "summary": "Control Resonant (on PS5 and Xbox Series X) has been discounted to $50 at Amazon in early Black Friday sales. That's $10 off its MSRP and ma…",
+   "link": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
+   "pubDate": "2026-11-18T13:01:17.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": "https://assets-prd.ignimgs.com/2026/09/18/controlresonant-review-blogroll-1789695360175.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet"
+    }
+   ]
+  },
+  {
+   "title": "AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company",
+   "summary": "Someone, please, think of the gamers.",
+   "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+   "pubDate": "2026-11-18T12:57:35.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/HPZZoqVz3GyBbJX3DsQ4GR-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
+   "summary": "There's bad news for any GTA 6 fans still hoping for a 60fps option on PlayStation 5 Pro.",
+   "link": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+   "pubDate": "2026-11-18T12:50:38.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1795006209352.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough"
+    }
+   ]
+  },
   {
    "title": "「Phasmophobia」，大型アップデート“Resonance”を11月24日に配信決定。新装備“ダウジングロッド”の追加やUnity 6への移行を実施",
    "summary": "KineticGamesは本日（2026年11月18日），協力型ホラーゲーム「Phasmophobia」の次期大型アップデート「Resonance」を11月24日にリリースすると発表した。本アップデートでは，新たな装備「ダウジングロッド」が追加されるほか，ゲームエンジンが最新バー…",
@@ -12173,6 +12384,34 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUk9yMDhPd3d2RnFFOVVyM19xZC1fWV9HWGhhSjNCN09MSVM5ZVluYmlJVVBValhwTTFONTFGc0M3YXQ1SHdlNU5lTkNLM1FsdExMUEFIMA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Uses FSR 4.1 on Xbox Series S to Upscale From 720p to 1080p",
+   "summary": "GTA 6 is finally here, and it's genuinely a technical marvel on all of the consoles it's running on. It's particularly impressive that the X…",
+   "link": "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
+   "pubDate": "2026-11-18T12:24:45.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-41-1795004610502.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p"
     }
    ]
   },
@@ -14880,6 +15119,37 @@
    ]
   },
   {
+   "title": "GrindWill Interactive、1998年のネットカフェ経営を描く2Dインクリメンタルゲーム『Internet Cafe 98』を11月23日にリリース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBISkw5cEFIR0lzYVNsYTJubmtjcVI3MzVBWi1ybjlqYlFoZ0JqZk9XaWl0NUVnTkZpclpaSm5jcUg1aVBI?oc=5",
+   "pubDate": "2026-11-18T09:52:16.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Internet Cafe 98"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBISkw5cEFIR0lzYVNsYTJubmtjcVI3MzVBWi1ybjlqYlFoZ0JqZk9XaWl0NUVnTkZpclpaSm5jcUg1aVBI?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
    "title": "『GetBackers -奪還屋-』12月1日よりコミックアニメが再始動。公式YouTubeチャンネルにて",
    "summary": "裏新宿で「奪還屋」を営む美堂蛮と天野銀次の物語が描かれる。原作は『週刊少年マガジン』で1999年から2007年まで連載されたバトルマンガ",
    "link": "https://news.denfaminicogamer.jp/news/2611182t",
@@ -17227,6 +17497,34 @@
    ]
   },
   {
+   "title": "「2027年上半期@cosmeトレンド予測」を発表！NEXTトレンドキーワードは、「四季ガチャ攻略」「バブルケア革命」「あごメンテ」「積み立て頭皮」「セミスモーキーメイク」「ロンジェビティ」",
+   "summary": "※今回よりトレンド予測の名称が変更となりました。ご紹介いただく際は「2027年上半期@cosmeトレンド予測」でお願いできますと幸いです。よろしくお願い申し上げます。 株式会社アイスタイル（代表取締役社長 遠...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000542.000005126.html",
+   "pubDate": "2026-11-18T07:15:20.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000542.000005126.html"
+    }
+   ]
+  },
+  {
    "title": "『ソニックレーシング クロスワールド』に「ソニック（マクラーレン レーシング）」参戦！ 11月20日からコラボイベント開催",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwLTQxRERIdWd1M2pJdWpRWDBpMTdzbG1CeFUxU3JyVk9mNDJaeFJXaUExNzVqM0tsbGdoZm9XV1BqMzdYa2hTTDBveDMzNGRVb2FvalhScnBIN2U1VHhnNw?oc=5",
@@ -17489,6 +17787,38 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nQkxmZ3UwYjhtVjdveDRVVTEwVmNsbjVRVURrb1JURGJXZDFETkRuZ1h1aEpmdnhDQjd5S0hCYnJYVDJxMzFfaGp6WkIyZmhMMUp3aDE5UUNmQQ?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "GTA6、PS5版は本体アップデートが必須に 発売前にバージョン26.07-14.23.00へ、更新のやり方と止まったときの対処",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxUFlqLWJBZFh6dkJDXzFzNkloUGNNS3JZTHc4UE1mUUc3YzExN0I1Wl9yTmR1Z2lsWjNqN2g3bzBsem1GTmZ2ZWc3eFZqS2duS3Fjc3lmRC1QYlVkT2xKZXhfa1ZfdjZGMTZfeTBnQXBwQQ?oc=5",
+   "pubDate": "2026-11-18T06:48:07.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "https://mediadogs.jp/",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update",
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "https://mediadogs.jp/",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxUFlqLWJBZFh6dkJDXzFzNkloUGNNS3JZTHc4UE1mUUc3YzExN0I1Wl9yTmR1Z2lsWjNqN2g3bzBsem1GTmZ2ZWc3eFZqS2duS3Fjc3lmRC1QYlVkT2xKZXhfa1ZfdjZGMTZfeTBnQXBwQQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -18878,6 +19208,39 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/059/G105921/20261118011/"
+    }
+   ]
+  },
+  {
+   "title": "『Hadean Tactics』開発スタジオによる新作ローグライト・オートバトラー『Black Flame Tactics』が発表。2027年初頭に早期アクセスが開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wZWhwdXVLS0xReHlmQ2lnZXd4V1NmVG11VFhqYnd4S2dLMGZBV2c0UzhwdjRJYWdKUUpVMFh5UW1CaFNmQ0QwOWN3U1c5dWNJTms0Tl9hZw?oc=5",
+   "pubDate": "2026-11-18T05:00:00.000Z",
+   "firstSeen": "2026-11-18T13:29:44.450Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Hadean Tactics",
+    "Black Flame Tactics"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wZWhwdXVLS0xReHlmQ2lnZXd4V1NmVG11VFhqYnd4S2dLMGZBV2c0UzhwdjRJYWdKUUpVMFh5UW1CaFNmQ0QwOWN3U1c5dWNJTms0Tl9hZw?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -28386,6 +28749,13 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5RU9lLUdQSXE5VXFjZHhsS1dwdTdjMEFQYU9iMHFQQWdwMVJUekkzMDhPcjZyeU1MSmo1R1RXUGtMazdENnY0bG43S3huYTNYcnJyNTU3RG5RbUlMcmc?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNDBEUEd4WHFsVTJYSHc2RnFGWUNXYWwxVk5MUGo3ZzNJTVI4WmZBZFB0REtYWHR3bHlLck5TbzUyWElyc1hlVi1ROEE0dkkyN2pUbm5FalBBS25tdWdXbHB3?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -190777,307 +191147,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "World of Warcraft Forever Preload and Global Release Times Confirmed",
-   "summary": "World of Warcraft Forever is just a few days away, and Blizzard has confirmed the global release times and preload details. Here's when you…",
-   "link": "https://www.ign.com/articles/world-of-warcraft-forever-preload-and-global-release-times-confirmed",
-   "pubDate": "2026-11-02T16:36:47.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/world-of-warcraft-forever-preload-and-global-release-times-confirmed"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Shares Ocarina Of Time Switch 2 Design Sketches",
-   "summary": "Ink's awakening. The latest Ask the Developer interviews are positively packed with interesting tidbits about the making of Ocarina of Time…",
-   "link": "https://www.nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches",
-   "pubDate": "2026-11-02T16:30:00.000Z",
-   "firstSeen": "2026-11-02T16:47:37.208Z",
-   "image": "https://images.nintendolife.com/5c64028d519f8/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches"
-    }
-   ]
-  },
-  {
-   "title": "The Legend of Zelda: Ocarina of Time Remake Foil Cover Preorders Sell Out at Amazon – Here's Where You Can Still Get a Copy Before Release",
-   "summary": "Physical copies of The Legend of Zelda: Ocarina of Time remake with a textured foil cover have sold out at Amazon – but here’s where you can…",
-   "link": "https://www.ign.com/articles/zelda-ocarina-of-time-remake-foil-cover-preorders-sold-out-amazon",
-   "pubDate": "2026-11-02T16:23:20.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://assets-prd.ignimgs.com/2026/09/10/zelda-59-88-2-1789037892180.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/zelda-ocarina-of-time-remake-foil-cover-preorders-sold-out-amazon"
-    }
-   ]
-  },
-  {
-   "title": "COD Modern Warfare 4 has seemingly answered DMZ players' PvE calls with new Story Mission changes - but there are major caveats",
-   "summary": "For as long as Call of Duty: Modern Warfare 4's DMZ extraction mode has been available, there've been calls for PvE-only servers. Developer…",
-   "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve",
-   "pubDate": "2026-11-02T16:19:40.000Z",
-   "firstSeen": "2026-11-02T16:47:37.208Z",
-   "image": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(1).webp?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve"
-    }
-   ]
-  },
-  {
-   "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
-   "summary": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to…",
-   "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
-   "pubDate": "2026-11-02T16:17:53.000Z",
-   "firstSeen": "2026-11-02T16:47:37.208Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Warhammer-Survivors.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/"
-    }
-   ]
-  },
-  {
-   "title": "『ちいかわ』更新（11/2）。涙目のモモンガ、その理由は…!?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUjNHT3dTT0V6by1NWTJnRFdWMmhyUTh4VFEwdl80ZF9ia1F0Y2xpMWQwenFPa0ltdzdSMVR1Zy1XXzBuT0o4MUZHenY0NS1fektiZGphT2tVQQ?oc=5",
-   "pubDate": "2026-11-02T16:16:00.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ちいかわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUjNHT3dTT0V6by1NWTJnRFdWMmhyUTh4VFEwdl80ZF9ia1F0Y2xpMWQwenFPa0ltdzdSMVR1Zy1XXzBuT0o4MUZHenY0NS1fektiZGphT2tVQQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
-   "summary": "British self-made millionaire, entrepreneur, and social media educator Mark Tilbury put out a video giving the most sound financial advice o…",
-   "link": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000",
-   "pubDate": "2026-11-02T16:12:23.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/gta-6-1793635899315.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
-   "summary": "Rockstar's GTA 6 finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more exp…",
-   "link": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
-   "pubDate": "2026-11-02T16:10:15.000Z",
-   "firstSeen": "2026-11-02T16:47:37.208Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_05.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/"
-    }
-   ]
-  },
-  {
-   "title": "Feature: Threads Of Time - The Best Ocarina References & Easter Eggs In The Wider Zelda Series",
-   "summary": "Links to the future. The Legend of Zelda: Ocarina of Time is a masterpiece. An enduring classic that set the standard, and often the templat…",
-   "link": "https://www.nintendolife.com/features/threads-of-time-the-best-ocarina-references-and-easter-eggs-in-the-wider-zelda-series",
-   "pubDate": "2026-11-02T16:00:00.000Z",
-   "firstSeen": "2026-11-02T16:47:37.208Z",
-   "image": "https://images.nintendolife.com/48dceb4c179cb/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/features/threads-of-time-the-best-ocarina-references-and-easter-eggs-in-the-wider-zelda-series"
-    }
-   ]
-  },
-  {
-   "title": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
-   "summary": "AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it looks like an update to Anthropic's Claud…",
-   "link": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
-   "pubDate": "2026-11-02T15:36:59.000Z",
-   "firstSeen": "2026-11-02T15:47:38.112Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Star-Wars-Clone-Army.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/"
-    }
-   ]
-  },
-  {
-   "title": "Castaway Diary: Portal to the Unknown Isles Early Access delayed to 2027",
-   "summary": "REMIMORY has delayed the Early Access version of “anime-style survival adventure” Castaway Diary: Portal to …",
-   "link": "https://www.gematsu.com/2026/11/castaway-diary-portal-to-the-unknown-isles-early-access-delayed-to-2027",
-   "pubDate": "2026-11-02T15:36:57.000Z",
-   "firstSeen": "2026-11-02T15:47:38.112Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Castaway-Diary-Portal-to-the-Unknown-Isles_2026_11-02-26_012.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/castaway-diary-portal-to-the-unknown-isles-early-access-delayed-to-2027"
     }
    ]
   }
