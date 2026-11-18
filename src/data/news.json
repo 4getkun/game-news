@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-18T13:47:54.783Z",
+ "generatedAt": "2026-11-18T14:47:57.361Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1390,
+  "exact": 1389,
   "syndicated": 79,
-  "similar": 389,
+  "similar": 391,
   "syndicatedTotal": 446,
   "syndicatedLeft": 30
  },
@@ -5990,12 +5990,14 @@
    "title": "「ブルーイのハッピースナップ」，日本語音声版のゲームプレイトレイラーを公開",
    "link": "https://www.4gamer.net/games/993/G099378/20261118026/",
    "source": "4Gamer.net",
-   "sources": 3,
+   "sources": 4,
    "categories": [
     "trailer",
     "new"
    ],
-   "platforms": [],
+   "platforms": [
+    "switch"
+   ],
    "spoiler": false
   },
   {
@@ -7449,6 +7451,20 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "モンハンライズ",
+   "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175050.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-24",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": null,
    "title": "「Phasmophobia」，大型アップデート“Resonance”を11月24日に配信決定。新装備“ダウジングロッド”の追加やUnity 6への移行を実施",
    "link": "https://www.4gamer.net/games/537/G053703/20261118048/",
@@ -7700,12 +7716,14 @@
    "title": "「ブルーイのハッピースナップ」，日本語音声版のゲームプレイトレイラーを公開",
    "link": "https://www.4gamer.net/games/993/G099378/20261118026/",
    "source": "4Gamer.net",
-   "sources": 3,
+   "sources": 4,
    "categories": [
     "trailer",
     "new"
    ],
-   "platforms": [],
+   "platforms": [
+    "switch"
+   ],
    "spoiler": false
   },
   {
@@ -8718,6 +8736,24 @@
     "release"
    ],
    "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-02",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "犯人はメイド",
+   "title": "“犯人”になって孤島で完全犯罪を目指すアドベンチャーゲーム『犯人はメイド』が12月2日にSteamで発売決定。正しい選択肢は一切ナシ",
+   "link": "https://news.denfaminicogamer.jp/news/2611183c",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "pc"
+   ],
    "spoiler": false
   },
   {
@@ -10453,7 +10489,7 @@
    "title": "TVアニメ『妖狐×僕SS』2027年1月8日より再放送が決定！凜々蝶や双熾ら「妖館」のメンバーがお祝いする放送15周年記念ビジュアルも解禁",
    "link": "https://news.denfaminicogamer.jp/news/2611182y",
    "source": "電ファミニコゲーマー",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "media"
    ],
@@ -10652,6 +10688,20 @@
   {
    "date": "2027-01-20",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "POLYARIS",
+   "title": "北極サバイバル『POLYARIS』2027年1月20日リリース決定！極寒の地で生き延びる方法を探しながら、謎の核爆発の真相を解き明かせ",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175048.html",
+   "source": "Game*Spark",
+   "sources": 2,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01-20",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -10663,20 +10713,6 @@
     "new",
     "release"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-01-20",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "POLYARIS",
-   "title": "リアル極寒サバイバル『POLYARIS』来年1月20日配信へ。凍死・餓死・クマ襲来、殺意高すぎ北極生活",
-   "link": "https://automaton-media.com/articles/newsjp/polyaris-20261118-479863/",
-   "source": "AUTOMATON",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -11925,8 +11961,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1238,
-   "accepted": 1221
+   "archived": 1240,
+   "accepted": 1223
   },
   {
    "id": "inside-games",
@@ -11936,8 +11972,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1684,
-   "accepted": 1280
+   "archived": 1686,
+   "accepted": 1282
   },
   {
    "id": "ps-blog",
@@ -11980,8 +12016,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 639,
-   "accepted": 508
+   "archived": 642,
+   "accepted": 511
   },
   {
    "id": "gnews-dengeki",
@@ -12001,9 +12037,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
-   "archived": 614,
-   "accepted": 563
+   "fetched": 84,
+   "archived": 612,
+   "accepted": 561
   },
   {
    "id": "gnews-switch2",
@@ -12034,9 +12070,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 78,
-   "archived": 468,
-   "accepted": 377
+   "fetched": 79,
+   "archived": 466,
+   "accepted": 375
   },
   {
    "id": "prtimes",
@@ -12046,8 +12082,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26497,
-   "accepted": 449
+   "archived": 26529,
+   "accepted": 451
   },
   {
    "id": "gematsu",
@@ -12068,8 +12104,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1246,
-   "accepted": 1246
+   "archived": 1248,
+   "accepted": 1248
   },
   {
    "id": "eurogamer",
@@ -12079,8 +12115,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 303,
-   "accepted": 303
+   "archived": 305,
+   "accepted": 305
   },
   {
    "id": "gamespot",
@@ -12090,8 +12126,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 315,
-   "accepted": 315
+   "archived": 318,
+   "accepted": 318
   },
   {
    "id": "nintendolife",
@@ -12101,8 +12137,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 357,
-   "accepted": 357
+   "archived": 356,
+   "accepted": 356
   },
   {
    "id": "pcgamer",
@@ -12112,13 +12148,600 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 614,
-   "accepted": 614
+   "archived": 616,
+   "accepted": 616
   }
  ],
  "items": [
   {
-   "title": "“厳選した24種のガンプラ”をいつでも手に取れる売り場「Signature24」始動！12月より全国2000店舗で展開、「RG ウイングゼロ」「HGCE デスティニー」など",
+   "title": "『GTA6』で真っ先にやりたいことは！？「ワニに喰われたい」「手配度MAX」「のんびり釣り」「犯罪には疲れた」―読者アンケートに寄せられた自由すぎる回答を紹介！",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175051.html",
+   "pubDate": "2026-11-18T14:43:56.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "ranking"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/18/175051.html"
+    }
+   ]
+  },
+  {
+   "title": "【12/12東京・亀戸】90年代の名作RPG『アレサ』のオーケストラコンサート開催！ファン投票で選ばれた名曲とスーパーファミコン版の楽曲も生演奏",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000127.000076359.html",
+   "pubDate": "2026-11-18T14:40:58.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アレサ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000127.000076359.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Isn’t Worth Buying A Fancy Controller For",
+   "summary": "In all the excitement surrounding Grand Theft Auto VI (check out our 10/10 review), it might be tempting to upgrade your setup. For a game 1…",
+   "link": "https://www.gamespot.com/articles/gta-6-isnt-worth-buying-a-fancy-controller-for/",
+   "pubDate": "2026-11-18T14:37:59.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-cal.jpeg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "hardware",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-isnt-worth-buying-a-fancy-controller-for/"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
+   "summary": "Everything we've learned after digging into GTA 6 for over 100 hours.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/",
+   "pubDate": "2026-11-18T14:34:08.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/kKdLdoqBqEoLHHRF5ECvGa-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/"
+    }
+   ]
+  },
+  {
+   "title": "ガンダムXより「Gファルコン」がオプションパーツセットとしてガンプラ化！ダブルエックス、エアマスターバーストとの合体も可能",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/18/191201.html",
+   "pubDate": "2026-11-18T14:30:08.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/18/191201.html"
+    }
+   ]
+  },
+  {
+   "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175050.html",
+   "pubDate": "2026-11-18T14:30:03.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "モンハンライズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/18/175050.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Is Apparently Everything Rockstar Promised And Then Some",
+   "summary": "At long last, Grand Theft Auto 6 launch day has come. With Rockstar's latest project steadily unlocking as the clock strikes midnight worldw…",
+   "link": "https://www.gamespot.com/articles/gta-6-is-apparently-everything-rockstar-promised-and-then-some/",
+   "pubDate": "2026-11-18T14:27:01.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-13.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-is-apparently-everything-rockstar-promised-and-then-some/"
+    }
+   ]
+  },
+  {
+   "title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
+   "summary": "You cannot replay GTA 6 missions again once you've completed them. This might be a shock to some people, since the option to do so was inclu…",
+   "link": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+   "pubDate": "2026-11-18T14:24:00.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://assetsio.gnwcdn.com/lucia-mission-failed.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions"
+    }
+   ]
+  },
+  {
+   "title": "モンスター娘を捕獲して拠点づくりや襲撃防衛に挑むオープンワールドサバイバルクラフトSteamで早期アクセス開始。ウィッシュリスト15,000件突破",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175049.html",
+   "pubDate": "2026-11-18T14:15:03.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/18/175049.html"
+    }
+   ]
+  },
+  {
+   "title": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
+   "summary": "Infinity Nikki, the free-to-play, cozy, open-world dress-up game, is at the centre of controversy again, though this time not because fans d…",
+   "link": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
+   "pubDate": "2026-11-18T14:14:50.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://assetsio.gnwcdn.com/infinity-nikki-posing-with-du-yubai-after-white-jade-performance.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction"
+    }
+   ]
+  },
+  {
+   "title": "“犯人”になって孤島で完全犯罪を目指すアドベンチャーゲーム『犯人はメイド』が12月2日にSteamで発売決定。正しい選択肢は一切ナシ",
+   "summary": "ミステリーに憧れただけのどこかズレた犯人が、館に招いた6人の客を1人ずつ襲撃。バッドエンドもゲームオーバーもないので自由に行動を選べる",
+   "link": "https://news.denfaminicogamer.jp/news/2611183c",
+   "pubDate": "2026-11-18T14:14:25.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/b3efb64f6e1f9a597293a53d2feac577-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "犯人はメイド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611183c"
+    }
+   ]
+  },
+  {
+   "title": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
+   "summary": "\"They may come out five years from now, and the world may not care.\"",
+   "link": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6/",
+   "pubDate": "2026-11-18T14:10:54.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/YzVfCnBBr2tW3NgsDwaz83-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "AAA is under the most amount of threat"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6/"
+    }
+   ]
+  },
+  {
+   "title": "『ガンダム ローグオービット』主人公機などMSの新たな設定画公開！バウバラム、ケリィースの頭部デザインがくっきり",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175052.html",
+   "pubDate": "2026-11-18T14:10:29.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ガンダム ローグオービット"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/18/175052.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/18/191200.html"
+    }
+   ]
+  },
+  {
+   "title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
+   "summary": "Grand Theft Auto 6 has finally arrived--at least in New Zealand and Australia. Lots of people are playing the game already and have made a n…",
+   "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/",
+   "pubDate": "2026-11-18T14:08:31.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Map.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/"
+    }
+   ]
+  },
+  {
+   "title": "『METAL GEAR SOLID』『SILENT HILL: Townfall』などがお得！KONAMI「Black Friday SALE」にセール対象タイトル追加！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsSEdzWWJYdzR3YzVRN0ktZ0pIMDY3SC1LcVROZHY4aDFjeXA4VXU5V1lRT3VSZVhJZnF3RzlJb09IaVA3RWxnaFppUkYtZ0ZCUVlzWnlTM3U?oc=5",
+   "pubDate": "2026-11-18T14:08:16.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "METAL GEAR SOLID",
+    "SILENT HILL: Townfall"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsSEdzWWJYdzR3YzVRN0ktZ0pIMDY3SC1LcVROZHY4aDFjeXA4VXU5V1lRT3VSZVhJZnF3RzlJb09IaVA3RWxnaFppUkYtZ0ZCUVlzWnlTM3U?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
+   "summary": "Beleaguered Mindseye developer Build a Rocket Boy - the company created by former Rockstar and Grand Theft Auto producer Leslie Benzies - ap…",
+   "link": "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation",
+   "pubDate": "2026-11-18T14:05:30.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://assetsio.gnwcdn.com/Header_mySky2c.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation"
+    }
+   ]
+  },
+  {
+   "title": "Last Chance to Save $10 Off GTA 6 Ultimate Edition on PS5 and Xbox Ahead of Launch",
+   "summary": "",
+   "link": "https://www.ign.com/articles/last-chance-to-save-10-off-gta-6-ultimate-edition-on-ps5-and-xbox-ahead-of-launch",
+   "pubDate": "2026-11-18T14:02:12.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/18/untitled-design-2-1795010196084.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/last-chance-to-save-10-off-gta-6-ultimate-edition-on-ps5-and-xbox-ahead-of-launch"
+    }
+   ]
+  },
+  {
+   "title": "北極サバイバル『POLYARIS』2027年1月20日リリース決定！極寒の地で生き延びる方法を探しながら、謎の核爆発の真相を解き明かせ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/18/175048.html",
+   "pubDate": "2026-11-18T14:00:02.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "POLYARIS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/18/175048.html"
+    }
+   ]
+  },
+  {
+   "title": "ドスパラがRTX Spark搭載のASUS製PC「ProArt GR1X」を11月19日11時より販売開始",
+   "summary": "サードウェーブのドスパラは、ASUS製PC「ProArt GR1X」の販売を11月19日11時に開始する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2157612.html",
+   "pubDate": "2026-11-18T14:00:00.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2157612.html"
+    }
+   ]
+  },
+  {
+   "title": "Want A Custom GTA 6 PS5 Pro? Just Play In The NBA",
+   "summary": "PS5 Pro consoles have been hard to find lately, but there is a trick to getting one: All you need is superb basketball skills and membership…",
+   "link": "https://www.gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba/",
+   "pubDate": "2026-11-18T13:59:21.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/NBA-PS5-Pro.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba/"
+    }
+   ]
+  },
+  {
+   "title": "MindsEye Dev Build a Rocket Boy Says Legal Action Against 'Several Third Parties' Will Help It Pay Off Its Mountain of Debt",
+   "summary": "After the disastrous release of MindsEye, its collapsed developer, Build a Rocket Boy (BARB), is attempting to pay off its mountain of debt…",
+   "link": "https://www.ign.com/articles/build-a-rocket-boy-legal-action-against-mindseye-saboteurs-debts",
+   "pubDate": "2026-11-18T13:51:33.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": "https://assets-prd.ignimgs.com/2025/06/07/mindseye10minutesofgameplay-1749327075674.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/build-a-rocket-boy-legal-action-against-mindseye-saboteurs-debts"
+    }
+   ]
+  },
+  {
+   "title": "“厳選した24種のガンプラ”をいつでも手に取れる売り場「Signature24」始動！12月より全国約2000店舗で展開、「RG ウイングゼロ」「HGCE デスティニー」など",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/18/191199.html",
    "pubDate": "2026-11-18T13:40:02.000Z",
@@ -13036,36 +13659,6 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates/"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『妖狐×僕SS』2027年1月8日より再放送が決定！凜々蝶や双熾ら「妖館」のメンバーがお祝いする放送15周年記念ビジュアルも解禁",
-   "summary": "2012年の放送以降、今なお熱い支持を受けるラブコメディ。TOKYO MX、BS11、群馬テレビ、とちぎテレビの4局にて全12話が再放送",
-   "link": "https://news.denfaminicogamer.jp/news/2611182y",
-   "pubDate": "2026-11-18T11:37:36.000Z",
-   "firstSeen": "2026-11-18T11:47:38.352Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/inuboku15th_KV_RGB-1-725x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "妖狐×僕SS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611182y"
     }
    ]
   },
@@ -15149,6 +15742,42 @@
    ]
   },
   {
+   "title": "TVアニメ『妖狐×僕SS』2027年1月8日より再放送が決定！凜々蝶や双熾ら「妖館」のメンバーがお祝いする放送15周年記念ビジュアルも解禁",
+   "summary": "2012年の放送以降、今なお熱い支持を受けるラブコメディ。TOKYO MX、BS11、群馬テレビ、とちぎテレビの4局にて全12話が再放送",
+   "link": "https://news.denfaminicogamer.jp/news/2611182y",
+   "pubDate": "2026-11-18T10:00:00.000Z",
+   "firstSeen": "2026-11-18T11:47:38.352Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/inuboku15th_KV_RGB-1-725x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "妖狐×僕SS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611182y"
+    },
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pb294dEtPVk4wZU9IYWZnYlBVeXdVTVJKdXc3RmllX2JNT0ZZUjlDeC1NYndnRzZPRllJUFlRRVlMXzhFa09mRmFrbmQwWDJZblgwTm00NA?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "セガがPS Storeとニンテンドーeショップで販売中の一部PS5/PS4/Switch 2/Switch用タイトルを対象とした「Black Friday Sale Part2」を開催中！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NURrUDhLaXFwd0lmNFJxTTZYakllcFVuRHlSWmtRV0pac1FJNWI2MWd4TU1BbWlUUk44Qm5EZDlJaEE1MS1Nb0gwRVlpT0d6SG1RZg?oc=5",
@@ -16672,6 +17301,37 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKU2hSVzVIVmdyM1lidWYxTjBwSVVUYWJHc1BJYTl5NU8yMkFtMExTSnh4d3ZYMERWZnBGdm13Y3RXa0JjdzFjZ0ZkNWl0VFZv?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "LOWYA『おくROOM®』が2周年の大型アップデート！ iPhoneで部屋をスキャンして間取りを自動作成",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mV3VoVGt5SXc1dlg3YkxVaThuLXlGYzNPX2hVMldnM0wtWVdvSmV4QkJpYlozTG5CcGlidzYydU4zQlNPUE1TTDQ3X1pxbWlKSmQ2X1N6NlJsWWZxWHhBb18zZnlUOWlzRGc?oc=5",
+   "pubDate": "2026-11-18T08:40:45.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "AppBank",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "おくROOM®"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mV3VoVGt5SXc1dlg3YkxVaThuLXlGYzNPX2hVMldnM0wtWVdvSmV4QkJpYlozTG5CcGlidzYydU4zQlNPUE1TTDQ3X1pxbWlKSmQ2X1N6NlJsWWZxWHhBb18zZnlUOWlzRGc?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -18498,13 +19158,15 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 12,
+   "score": 15,
    "categories": [
     "trailer",
     "new"
    ],
    "deal": null,
-   "platforms": [],
+   "platforms": [
+    "switch"
+   ],
    "works": [
     "ブルーイのハッピースナップ"
    ],
@@ -18514,6 +19176,11 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/993/G099378/20261118026/"
+    },
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000007838.000005397.html"
     },
     {
      "name": "GameWith",
@@ -21648,6 +22315,36 @@
    ]
   },
   {
+   "title": "ホロライブ二次創作の『オブラディン号の帰還』ライクゲーム『ホロデスロワイヤル』発表。12月1日より1ヵ月限定公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtMGg4OVZIcER5aFh4dDZSOG5IOFhpV2ExUS1iVGxVVnU3VHE4RER5ZzQ5OWJTWXl3Z1hMZVpyQmZhLWJ6NnBVQUJhMmlIZkgtQ2JCMTJnWQ?oc=5",
+   "pubDate": "2026-11-18T02:23:00.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "オブラディン号の帰還",
+    "ホロデスロワイヤル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtMGg4OVZIcER5aFh4dDZSOG5IOFhpV2ExUS1iVGxVVnU3VHE4RER5ZzQ5OWJTWXl3Z1hMZVpyQmZhLWJ6NnBVQUJhMmlIZkgtQ2JCMTJnWQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "ファミマで『ドラゴンクエストモンスターズ4』コラボが11月24日から開催！「スライムまん」や限定アクキー配布、くじやカード付きチップスなど販売も",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/18/191151.html",
@@ -22453,7 +23150,7 @@
   },
   {
    "title": "“13年”待った『7 Days to Die』の「バンディット」、来年初頭ついに実装へ。発売前から構想のあった新勢力",
-   "summary": "デベロッパーのThe Fun Pimpsは11月18日、『7 Days to Die』に2027年初頭、「Bandits（バンディット）」が実装予定であることを発表した。バンディットについては発売前のKickstarte […]",
+   "summary": "The Fun Pimpsは11月18日、『7 Days to Die』に2027年初頭、「Bandits（バンディット）」が実装予定であることを発表した。",
    "link": "https://automaton-media.com/articles/newsjp/20261118-479726/",
    "pubDate": "2026-11-18T01:16:53.000Z",
    "firstSeen": "2026-11-18T01:47:42.041Z",
@@ -54708,6 +55405,35 @@
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UM3lubjJ2UVBiZVZYbGJWVjBlOVhFS1NsVWFlYm1JUURFOElub2Z2TlpmODZhWUNkUkNjTlhnZHZlNDBFR2RCSmZQSV8zazI5X2dGS29TaXZyck5DZm9GNnpKTTdhX3kwT3Q1TmdkYkhWM0szc3pGTFhXcw?oc=5",
      "via": "Googleニュース「PS5 発売」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『DERELIKT』レトロ風3Dグラフィックを採用したFPSがリリース。限られた物資をやりくりして探索するサバイバルシューター。クリーチャーも怖いが人間も怖い",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pYnBlNzROMUhnaHFrQVN4TkxWZG91d19zTUJnV1hycE0tdnFnM0hJMEpqcW80Z1hya19ZYV9FejhlN2d1Z0Jlc3VPSjN1Y21GdlMyUm5xNA?oc=5",
+   "pubDate": "2026-11-14T08:30:00.000Z",
+   "firstSeen": "2026-11-18T14:47:41.498Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "DERELIKT"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pYnBlNzROMUhnaHFrQVN4TkxWZG91d19zTUJnV1hycE0tdnFnM0hJMEpqcW80Z1hya19ZYV9FejhlN2d1Z0Jlc3VPSjN1Y21GdlMyUm5xNA?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -190466,693 +191192,6 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/03/174417.html"
-    }
-   ]
-  },
-  {
-   "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
-   "summary": "Embark has since re-recorded lines to inject more real human voices to the game.",
-   "link": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/",
-   "pubDate": "2026-11-02T17:55:20.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/hj4zzWidd8vK2PRNUgdWGK-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "There was some really fair criticism"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/"
-    }
-   ]
-  },
-  {
-   "title": "Thief Remastered's new expansion is being made by the legendary Black Parade mod team, and it's out next month",
-   "summary": "It's a big day for PC gaming old heads.",
-   "link": "https://www.pcgamer.com/games/fps/thief-remastereds-new-expansion-is-being-made-by-the-legendary-black-parade-mod-team-and-its-out-next-month/",
-   "pubDate": "2026-11-02T17:53:01.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/UmXn7GB6fZw97kbHjw9zNW-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/fps/thief-remastereds-new-expansion-is-being-made-by-the-legendary-black-parade-mod-team-and-its-out-next-month/"
-    }
-   ]
-  },
-  {
-   "title": "The 28 cozy game launches in November technically include 3 horse games, which is actually a lot for the eternally underserved horse gamers",
-   "summary": "November's slate of cozy games is a pretty varied bunch, but the horse girls should be getting away with neigh a complaint.",
-   "link": "https://www.pcgamer.com/games/new-cozy-games-november-2026/",
-   "pubDate": "2026-11-02T17:52:16.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/6suxThRTTx9wEG8VJMv5Ee-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/new-cozy-games-november-2026/"
-    }
-   ]
-  },
-  {
-   "title": "Godzilla: Destroy All Monsters Melee Remastered Review",
-   "summary": "A delightful throwback to a bygone era of lazy weekends past.",
-   "link": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-review",
-   "pubDate": "2026-11-02T17:51:42.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/godzilla-destroy-all-monsters-melee-remastered-blogroll-01-1793639559274.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-review"
-    }
-   ]
-  },
-  {
-   "title": "The FlashForge AD5X Multi-Color 3D Printer Drops Below $200 for the First Time Ever for Black Friday",
-   "summary": "The exact same printer is nearly double the price on Amazon.",
-   "link": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-november-2026",
-   "pubDate": "2026-11-02T17:50:00.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/flashforgead5x-1793641391895.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $46.60 Ahead of Black Friday",
-   "summary": "Switch 2 compatible.",
-   "link": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-november-2026",
-   "pubDate": "2026-11-02T17:45:00.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/switchprocontrollerzelda-1793640811585.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "Save $75 Off a Nintendo Switch 2 Console at Woot Ahead of Black Friday",
-   "summary": "At this point, upgrading from a Switch to a Switch 2 is a no-brainer.",
-   "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-november-2026",
-   "pubDate": "2026-11-02T17:30:00.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/nintendoswitch2-1793639268789.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 20,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "When Is Resident Evil Coming To Home Video? It Could Be Very Soon",
-   "summary": "Zach Cregger's Resident Evil movie crushed it at the box office, banking more than $400 million globally to become the most successful entry…",
-   "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-will-be-available-to-watch-at-home-november-3-report/",
-   "pubDate": "2026-11-02T17:26:02.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/resi.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-will-be-available-to-watch-at-home-november-3-report/"
-    }
-   ]
-  },
-  {
-   "title": "Silly Polly Beast coming to Switch 2 in November",
-   "summary": "Publisher Top Hat Studios and developer Anji Games will release a Switch 2 version of …",
-   "link": "https://www.gematsu.com/2026/11/silly-polly-beast-coming-to-switch-2-in-november",
-   "pubDate": "2026-11-02T17:20:34.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/SPB-Switch-2-Announce_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/silly-polly-beast-coming-to-switch-2-in-november"
-    }
-   ]
-  },
-  {
-   "title": "Ova Magica for PS5, Xbox Series, Switch 2, PS4, Xbox One, and Switch launches November 10",
-   "summary": "Farming life simulation game Ova Magica will launch for PlayStation 5, Xbox Series, Switch 2, …",
-   "link": "https://www.gematsu.com/2026/11/ova-magica-for-ps5-xbox-series-switch-2-ps4-xbox-one-and-switch-launches-november-10",
-   "pubDate": "2026-11-02T17:18:19.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Ova-Magica-Consoles_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 35,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch",
-    "ps5",
-    "ps4",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/ova-magica-for-ps5-xbox-series-switch-2-ps4-xbox-one-and-switch-launches-november-10"
-    }
-   ]
-  },
-  {
-   "title": "Dark visual novel PRIMA MATERIA announced for PC",
-   "summary": "Publisher Top Hat Studios and Synergia developer Radi Art have announced PRIMA MATERIA, a dark …",
-   "link": "https://www.gematsu.com/2026/11/dark-visual-novel-prima-materia-announced-for-pc",
-   "pubDate": "2026-11-02T17:16:58.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/PRIMA-MATERIA-Ann_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/dark-visual-novel-prima-materia-announced-for-pc"
-    }
-   ]
-  },
-  {
-   "title": "DELIVERY MUST COMPLETE demo launches in January 2027",
-   "summary": "Publisher Top Hat Studios and developer Yoyoyollie will release a demo for cel-shaded aerial roguelike …",
-   "link": "https://www.gematsu.com/2026/11/delivery-must-complete-demo-launches-in-january-2027",
-   "pubDate": "2026-11-02T17:16:02.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/DELIVERY-MUST-COMPLETE-Demo_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/delivery-must-complete-demo-launches-in-january-2027"
-    }
-   ]
-  },
-  {
-   "title": "3D action adventure game Ryn: And the Thread of Life to be published by Top Hat Studios",
-   "summary": "Top Hat Studios will publish Innombrable-developed 3D action adventure game Ryn: And the Thread of …",
-   "link": "https://www.gematsu.com/2026/11/3d-action-adventure-game-ryn-and-the-thread-of-life-to-be-published-by-top-hat-studios",
-   "pubDate": "2026-11-02T17:14:11.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Ryn-Thread-Life-Ann_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/3d-action-adventure-game-ryn-and-the-thread-of-life-to-be-published-by-top-hat-studios"
-    }
-   ]
-  },
-  {
-   "title": "Tales of Tuscany launches February 22, 2027",
-   "summary": "Tales of Tuscany, a “WarioWare-soaked open-world RPG” follow-up to the 2024-released Athenian Rhapsody, will launch …",
-   "link": "https://www.gematsu.com/2026/11/tales-of-tuscany-launches-february-22-2027",
-   "pubDate": "2026-11-02T17:12:31.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Tales-Tuscany-Date_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/tales-of-tuscany-launches-february-22-2027"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Reveals Development Team Behind The Legend of Zelda: Ocarina of Time Remake",
-   "summary": "Nintendo has revealed the development team responsible for creating The Legend of Zelda: Ocarina of Time remake.",
-   "link": "https://www.ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake",
-   "pubDate": "2026-11-02T17:11:37.000Z",
-   "firstSeen": "2026-11-02T18:47:37.414Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/the-legend-of-zelda-ocarina-of-time-remake-developer-1793638906639.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake"
-    }
-   ]
-  },
-  {
-   "title": "Roguelike deckbuilder My Ransomware Can’t Be This Cute?! to be published by Top Hat Studios",
-   "summary": "Top Hat Studios will publish The Seppuku Commission-developed roguelike deckbuilder My Ransomware Can’t Be This …",
-   "link": "https://www.gematsu.com/2026/11/roguelike-deckbuilder-my-ransomware-cant-be-this-cute-to-be-published-by-top-hat-studios",
-   "pubDate": "2026-11-02T17:10:49.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/My-Ransomware-Cant-Be-This-Cute_11-02-26.png",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/roguelike-deckbuilder-my-ransomware-cant-be-this-cute-to-be-published-by-top-hat-studios"
-    }
-   ]
-  },
-  {
-   "title": "The Backworld launches in Q2 2027",
-   "summary": "The Backworld, a turn-based RPG with narrative-driven horror elements, will launch for PC via Steam …",
-   "link": "https://www.gematsu.com/2026/11/the-backworld-launches-in-q2-2027",
-   "pubDate": "2026-11-02T17:09:36.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Backworld-Release-Window_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/the-backworld-launches-in-q2-2027"
-    }
-   ]
-  },
-  {
-   "title": "2D pixel action game RGB: Execution to be published by Top Hat Studios",
-   "summary": "Top Hat Studios will publish Purechito-developed 2D pixel action game RGB: Execution when it launches …",
-   "link": "https://www.gematsu.com/2026/11/2d-pixel-action-game-rgb-execution-to-be-published-by-top-hat-studios",
-   "pubDate": "2026-11-02T17:06:35.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/RGB-Execution-Ann_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/2d-pixel-action-game-rgb-execution-to-be-published-by-top-hat-studios"
-    }
-   ]
-  },
-  {
-   "title": "Retro-inspired horror anthology Spooky Tales to be published by Top Hat Studios",
-   "summary": "Top Hat Studios will publish Liminal Road-developed retro-inspired horror anthology Spooky Tales when it launches …",
-   "link": "https://www.gematsu.com/2026/11/retro-inspired-horror-anthology-spooky-tales-to-be-published-by-top-hat-studios",
-   "pubDate": "2026-11-02T17:04:12.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Spooky-Tales-Ann_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/retro-inspired-horror-anthology-spooky-tales-to-be-published-by-top-hat-studios"
-    }
-   ]
-  },
-  {
-   "title": "HARMA launches in Early Access on November 17",
-   "summary": "Roguelike cooperative deckbuilder HARMA will launch in Early Access for PC via Steam on November …",
-   "link": "https://www.gematsu.com/2026/11/harma-launches-in-early-access-on-november-17",
-   "pubDate": "2026-11-02T17:00:15.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/HARMA-EA-Date_11-02-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/harma-launches-in-early-access-on-november-17"
-    }
-   ]
-  },
-  {
-   "title": "Review: Marvel's Guardians Of The Galaxy: Encore Edition (Switch 2) - A Bright And Charming Adventure With An Okay Port",
-   "summary": "The cloudy skies have cleared. While cloud streaming has its benefits, nothing beats having a native version of a game. Guardians of the Gal…",
-   "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/marvels-guardians-of-the-galaxy-encore-edition",
-   "pubDate": "2026-11-02T17:00:00.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://images.nintendolife.com/380b5b8df3648/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/marvels-guardians-of-the-galaxy-encore-edition"
-    }
-   ]
-  },
-  {
-   "title": "Yakuza creator's studio, and the game it was working on, are now officially gone",
-   "summary": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later.",
-   "link": "https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone/",
-   "pubDate": "2026-11-02T16:59:36.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/i3DAVyqvrV3ByeT2bejUdX-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone/"
-    }
-   ]
-  },
-  {
-   "title": "Turtle Beach Command Series MC7 review",
-   "summary": "How much is a touchscreen really worth to you?",
-   "link": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
-   "pubDate": "2026-11-02T16:56:48.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/YYga5sjsPFmGbGs9kePjHc-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/"
-    }
-   ]
-  },
-  {
-   "title": "Best Buy Has the Xbox Ally X Ryzen Z2 Extreme Handheld Gaming PC Starting at $790 Ahead of Black Friday",
-   "summary": "I don't think there will be a better price on Black Friday.",
-   "link": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-november-2026",
-   "pubDate": "2026-11-02T16:55:00.000Z",
-   "firstSeen": "2026-11-02T17:47:38.000Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/xboxallyx-1793638028502.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-november-2026"
     }
    ]
   }
