@@ -1,30 +1,14 @@
 {
- "generatedAt": "2026-11-20T13:48:02.210Z",
+ "generatedAt": "2026-11-20T14:47:46.432Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1381,
+  "exact": 1384,
   "syndicated": 71,
   "similar": 385,
-  "syndicatedTotal": 431,
+  "syndicatedTotal": 432,
   "syndicatedLeft": 33
  },
  "calendar": [
-  {
-   "date": "2026-11",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": "GTA6",
-   "title": "11月に出る注目作は『GTA6』だけじゃない！「むしろチャンス」「怖いけど出すしかない」―11月発売の46作品の開発者・パブリッシャーたちに本音を聞いてみた【前編】",
-   "link": "http://www.gamespark.jp/article/2026/11/09/174665.html",
-   "source": "Game*Spark",
-   "sources": 4,
-   "categories": [
-    "review"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
   {
    "date": "2026-11",
    "precision": "month",
@@ -36,6 +20,22 @@
    "source": "ROOMIE（ルーミー）",
    "sources": 2,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "GTA6",
+   "title": "11月に出る注目作は『GTA6』だけじゃない！「むしろチャンス」「怖いけど出すしかない」―11月発売の46作品の開発者・パブリッシャーたちに本音を聞いてみた【前編】",
+   "link": "http://www.gamespark.jp/article/2026/11/09/174665.html",
+   "source": "Game*Spark",
+   "sources": 2,
+   "categories": [
+    "review"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -6439,7 +6439,7 @@
    "work": "Internet Cafe 98",
    "title": "GrindWill Interactive、1998年のネットカフェ経営を描く2Dインクリメンタルゲーム『Internet Cafe 98』を11月23日にリリース",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBISkw5cEFIR0lzYVNsYTJubmtjcVI3MzVBWi1ybjlqYlFoZ0JqZk9XaWl0NUVnTkZpclpaSm5jcUg1aVBI?oc=5",
-   "source": "gamebiz【ゲームビズ】",
+   "source": "gamebiz",
    "sources": 1,
    "categories": [
     "collab"
@@ -6992,6 +6992,20 @@
    "categories": [
     "hardware"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-27",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "「リネージュ クラシック」，公式番組を11月27日20：00から配信。本作独自のコンテンツを初公開し，オート戦闘支援を実機プレイで披露",
+   "link": "https://www.4gamer.net/games/579/G057943/20261120052/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -11310,8 +11324,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 977,
-   "accepted": 947
+   "archived": 976,
+   "accepted": 946
   },
   {
    "id": "4gamer-sp",
@@ -11343,8 +11357,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1224,
-   "accepted": 1095
+   "archived": 1223,
+   "accepted": 1094
   },
   {
    "id": "gamewatch",
@@ -11354,8 +11368,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 670,
-   "accepted": 640
+   "archived": 668,
+   "accepted": 638
   },
   {
    "id": "gamespark",
@@ -11365,8 +11379,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1226,
-   "accepted": 1208
+   "archived": 1230,
+   "accepted": 1212
   },
   {
    "id": "inside-games",
@@ -11387,8 +11401,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 36,
-   "accepted": 36
+   "archived": 35,
+   "accepted": 35
   },
   {
    "id": "xbox-wire",
@@ -11409,7 +11423,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 132,
+   "archived": 131,
    "accepted": 90
   },
   {
@@ -11420,8 +11434,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 620,
-   "accepted": 485
+   "archived": 619,
+   "accepted": 484
   },
   {
    "id": "gnews-dengeki",
@@ -11441,9 +11455,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 612,
-   "accepted": 558
+   "fetched": 80,
+   "archived": 610,
+   "accepted": 556
   },
   {
    "id": "gnews-switch2",
@@ -11453,8 +11467,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1515,
-   "accepted": 1308
+   "archived": 1516,
+   "accepted": 1310
   },
   {
    "id": "gnews-ps5",
@@ -11464,8 +11478,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 806,
-   "accepted": 738
+   "archived": 808,
+   "accepted": 740
   },
   {
    "id": "gnews-update",
@@ -11474,9 +11488,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 75,
-   "archived": 426,
-   "accepted": 338
+   "fetched": 100,
+   "archived": 427,
+   "accepted": 339
   },
   {
    "id": "prtimes",
@@ -11486,8 +11500,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26803,
-   "accepted": 440
+   "archived": 26808,
+   "accepted": 439
   },
   {
    "id": "gematsu",
@@ -11508,8 +11522,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1255,
-   "accepted": 1255
+   "archived": 1254,
+   "accepted": 1254
   },
   {
    "id": "eurogamer",
@@ -11519,8 +11533,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 315,
-   "accepted": 315
+   "archived": 313,
+   "accepted": 313
   },
   {
    "id": "gamespot",
@@ -11541,8 +11555,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 353,
-   "accepted": 353
+   "archived": 354,
+   "accepted": 354
   },
   {
    "id": "pcgamer",
@@ -11552,11 +11566,426 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 658,
-   "accepted": 658
+   "archived": 659,
+   "accepted": 659
   }
  ],
  "items": [
+  {
+   "title": "オンラインサ終となるバンナム発メカPvPvE『SYNDUALITY Echo of Ada』オフライン版移行のFAQ更新。データ引き継ぎには移行期間中の手続きが必要",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/20/175141.html",
+   "pubDate": "2026-11-20T14:45:02.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SYNDUALITY Echo of Ada"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/20/175141.html"
+    }
+   ]
+  },
+  {
+   "title": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year",
+   "summary": "Sweet Temtemptations. Crema Games' Temtem was one of the better Pokémon-likes we had played when it arrived on Switch back in 2022. The dev…",
+   "link": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year",
+   "pubDate": "2026-11-20T14:45:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://images.nintendolife.com/dcf51d099b468/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year"
+    }
+   ]
+  },
+  {
+   "title": "1930年代の白黒カートゥーン風FPS『MOUSE：やとわれの探偵』がSteamで34％オフの2244円に。ネズミの私立探偵がギャングと悪徳警官だらけの街で陰謀を暴く、セールは11月27日まで",
+   "summary": "ネズミの私立探偵ジャック・ペッパーとなり、ギャングや悪徳警官と撃ち合いながら街の陰謀を暴く。BGMはビッグバンドジャズ、手書きアニメーションで動く10種以上の武器で戦う",
+   "link": "https://news.denfaminicogamer.jp/news/2611203a",
+   "pubDate": "2026-11-20T14:33:46.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_1421d042bc447e6cc39ce8d794006dd4e6e9d19a.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 34,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "MOUSE:やとわれの探偵"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611203a"
+    }
+   ]
+  },
+  {
+   "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
+   "summary": "There are other PC games to play, you know.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
+   "pubDate": "2026-11-20T14:29:35.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/cJzBTfpfhiEthMEfnToL5D-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/"
+    }
+   ]
+  },
+  {
+   "title": "『エースコンバット8』バンダイナムコエイセス立ち上げから発売までを振り返る河野BDのインタビューが公開。片渕須直監督「『ACE9』の開発にも参加します」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jUzZlUWFqeWxRT2pPM01HdGZrZjhEWUxBMC0xTVlVZFFCNVF1Y1piTmtzaDlSZ0JVWEV4TDlDaE5RdGJlaUE0bHVvbHdHMDBJbEJzUE1vdw?oc=5",
+   "pubDate": "2026-11-20T14:22:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "エースコンバット8",
+    "ACE9"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jUzZlUWFqeWxRT2pPM01HdGZrZjhEWUxBMC0xTVlVZFFCNVF1Y1piTmtzaDlSZ0JVWEV4TDlDaE5RdGJlaUE0bHVvbHdHMDBJbEJzUE1vdw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "「リネージュ クラシック」，公式番組を11月27日20：00から配信。本作独自のコンテンツを初公開し，オート戦闘支援を実機プレイで披露",
+   "summary": "エヌシージャパンは本日（2026年11月20日），PC向けMMORPG「リネージュクラシック」の公式番組「リネクラ通信＃1」を，11月27日20：00からYouTubeで配信すると発表した。番組では12月2日のプレオープンに先駆け，本作独自のコンテンツやオート戦闘支援の実機プレイ…",
+   "link": "https://www.4gamer.net/games/579/G057943/20261120052/",
+   "pubDate": "2026-11-20T14:15:28.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/579/G057943/20261120052/"
+    }
+   ]
+  },
+  {
+   "title": "国内PS5ダウンロード版が発売直前で「発売日未定」へ。無名の囚人から始まるアクションRPG『Gothic 1 Remake』表現調整のため予約受付も終了し自動返金に",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/20/175139.html",
+   "pubDate": "2026-11-20T14:15:02.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "Gothic 1 Remake"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/20/175139.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90NUNtdGhlcTB0d00wQTNKdmZmRHJPclZvUzNpZkRiN3ViN1FjU3FXWHFTTWZlQklLMEg1amt0aHFHMjB5R21naEdVTW5CUXV5RVdSbHdibW1fVG14dGFMNVZEQQ?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "A Playable GTA 6 Build Could Leak, But There’s A $15 Million Catch",
+   "summary": "Somehow, Cyberleek, the notorious hacker behind multiple Grand Theft Auto 6 leaks, has returned. This time, the infamous leaker is threateni…",
+   "link": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
+   "pubDate": "2026-11-20T14:07:35.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-16.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/"
+    }
+   ]
+  },
+  {
+   "title": "『ペルソナ6』は「ゴールではありません」。「ペルソナスタジオ」総合プロデューサー・和田和久氏のインタビューが公開",
+   "summary": "積み重ねてきた挑戦の成果を作品そのもので証明したいと説明。これまでのように次の作品まで長く待たせないよう、さまざまな工夫を進めていると語る",
+   "link": "https://news.denfaminicogamer.jp/news/2611203b",
+   "pubDate": "2026-11-20T14:00:45.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/260608_6_01-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 3,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ペルソナ6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611203b"
+    }
+   ]
+  },
+  {
+   "title": "Justice Warriors: The Hit Superhero Satire Returns With Bottom Dollar",
+   "summary": "AHOY Comics' hit superhero satire series Justice Warriors is returning in 2027 with a very topical sequel called Justice Warriors Vol. 3: Bo…",
+   "link": "https://www.ign.com/articles/justice-warriors-the-hit-superhero-satire-returns-with-bottom-dollar",
+   "pubDate": "2026-11-20T14:00:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/19/mixcollage-19-nov-2026-03-51-pm-7410-1795121478840.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/justice-warriors-the-hit-superhero-satire-returns-with-bottom-dollar"
+    }
+   ]
+  },
+  {
+   "title": "Proton’s Black Friday Deal Brings Our Favorite VPN Down to Its Lowest Price Yet",
+   "summary": "Get two years for 75% off.",
+   "link": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet",
+   "pubDate": "2026-11-20T14:00:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/protonvpn-1795148779192.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet"
+    }
+   ]
+  },
+  {
+   "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
+   "summary": "I visited the zoo in GTA 6 to commit the worst crime imaginable, and now I feel terrible.",
+   "link": "https://www.ign.com/articles/this-is-the-one-thing-ill-never-do-again-in-gta-6",
+   "pubDate": "2026-11-20T14:00:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-chimp2-1795175972425.webp",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/this-is-the-one-thing-ill-never-do-again-in-gta-6"
+    }
+   ]
+  },
+  {
+   "title": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)",
+   "summary": "Every game we scored 9/10 or higher, plus a personal pick. With Nintendo launching its Black Friday sale on the European eShop earlier this…",
+   "link": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us",
+   "pubDate": "2026-11-20T14:00:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://images.nintendolife.com/3df5e354ad843/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us"
+    }
+   ]
+  },
+  {
+   "title": "“Temtem”テーマのローグライクアクション「Temtem: Swarm」のNintendo Switch版ローンチが2027年1月21日に決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWUQwbTVibzdOR0U2ZjFZM21QcGtjRlNrT05EVXFPM2NTZ0F4Nk5QazhBNkdud2FaOVp4aDBqd1hjNkxfSkNPLVdBaw?oc=5",
+   "pubDate": "2026-11-20T13:59:43.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "Temtem: Swarm"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWUQwbTVibzdOR0U2ZjFZM21QcGtjRlNrT05EVXFPM2NTZ0F4Nk5QazhBNkdud2FaOVp4aDBqd1hjNkxfSkNPLVdBaw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
   {
    "title": "次世代メインメモリ規格「DDR6」初期プレビュー公開―製品化まではまだ道のり長く",
    "summary": "",
@@ -11680,6 +12109,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/20/191336.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/20/175140.html"
     }
    ]
   },
@@ -11710,6 +12144,32 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2158407.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Players Are Refusing to Make Use of an Infinite Money Glitch They Say Ruins the Experience",
+   "summary": "Some GTA 6 players are refusing to make use of an infinite money glitch they say ruins the experience Rockstar set out to provide.",
+   "link": "https://www.ign.com/articles/gta-6-players-multiple-money-glitches",
+   "pubDate": "2026-11-20T13:27:48.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/18/gta-benefts-1794997452264.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-players-multiple-money-glitches"
     }
    ]
   },
@@ -11912,6 +12372,65 @@
    ]
   },
   {
+   "title": "Zenless Zone Zero version 3.4 update ‘The Finality of the Day’ launches December 2",
+   "summary": "The version 3.4 update for Zenless Zone Zero, dubbed “The Finality of the Day,” will …",
+   "link": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2",
+   "pubDate": "2026-11-20T13:05:15.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Zenless-Zone-Zero_2026_11-20-26_021.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2"
+    }
+   ]
+  },
+  {
+   "title": "Temtem: Swarm for Switch launches January 21, 2027",
+   "summary": "The Switch version of roguelike action game Temtem: Swarm will launch on January 21, 2027, …",
+   "link": "https://www.gematsu.com/2026/11/temtem-swarm-for-switch-launches-january-21-2027",
+   "pubDate": "2026-11-20T13:00:17.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Temtem-Swarm-Switch_11-20-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/temtem-swarm-for-switch-launches-january-21-2027"
+    }
+   ]
+  },
+  {
    "title": "『GTA6』世界ではケモノはのけ者…ハンターの手にかかる着ぐるみ愛好家NPCの様子にあの“ケモゲー”メーカーも悲痛な叫び",
    "summary": "",
    "link": "http://www.gamespark.jp/article/2026/11/20/175136.html",
@@ -12075,6 +12594,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/20/191334.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/20/175138.html"
     }
    ]
   },
@@ -12735,6 +13259,32 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/20/175134.html"
+    }
+   ]
+  },
+  {
+   "title": "Chasing Kaleidorider closed ‘Doki Test’ begins December 17",
+   "summary": "Fizzglee Studio will host the closed “Doki Test” for “3D RIDER girl dokidoki romance RPG” …",
+   "link": "https://www.gematsu.com/2026/11/chasing-kaleidorider-closed-doki-test-begins-december-17",
+   "pubDate": "2026-11-20T12:00:13.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Chasing-Kaleidorider-Test_11-20-26.jpeg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/chasing-kaleidorider-closed-doki-test-begins-december-17"
     }
    ]
   },
@@ -15339,6 +15889,37 @@
    ]
   },
   {
+   "title": "『崩壊：スターレイル』ヒアンシーがゆらゆら揺れる癒やしのフィギュアに！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QUlNjLXBsd1pfT29TUTctRkxSR01PWW9yQ2ZyTkgzTERpNHFGSG9kOHRWbG04LXd1Z0RDOWJpZnloUWxOTnZYVlNlNXkxanVXZUNuVnUwVUo5UQ?oc=5",
+   "pubDate": "2026-11-20T08:20:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩壊:スターレイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QUlNjLXBsd1pfT29TUTctRkxSR01PWW9yQ2ZyTkgzTERpNHFGSG9kOHRWbG04LXd1Z0RDOWJpZnloUWxOTnZYVlNlNXkxanVXZUNuVnUwVUo5UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "「ゲゲゲの鬼太郎」と地元の素材を融合。アニメ＆まんが聖地 EXPO 2026で開催された妖怪手ぬぐい作り体験レポート",
    "summary": "AGF2026の併催イベント「アニメ＆まんが聖地EXPO2026」の会場であるとしま区民センターにて，鳥取県境港市による「伯州綿×ゲゲゲの鬼太郎 妖怪手ぬぐい作り体験」が開催された。地元の素材と作品を融合させた，オリジナル手ぬぐい制作のワークショップに参加したので，その模様をレポ…",
    "link": "https://www.4gamer.net/games/991/G999111/20261110021/",
@@ -15419,6 +16000,35 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2158290.html"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch版 パラソーシャル まとめページ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rYjZ4RXJ2bmFsbGx1NktnRS1WZ2NPZ2diTkFoLVMweTFOaGphUUtVMEhyZnFvU0wxc25kNDVKaVI4amllVmc4Q284ZUdjYUdxWGZr?oc=5",
+   "pubDate": "2026-11-20T08:16:31.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rYjZ4RXJ2bmFsbGx1NktnRS1WZ2NPZ2diTkFoLVMweTFOaGphUUtVMEhyZnFvU0wxc25kNDVKaVI4amllVmc4Q284ZUdjYUdxWGZr?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -15866,6 +16476,37 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1HSUtOYVJjQWRJdHNmMVlOSHlya1BsTGIwWTNfMVRwMzBqNWpJNS1QcjFkejJ5bk5iZHF2Uw?oc=5",
      "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
+   "title": "ココフォリア、『テーブルゲームワールド』の商品説明について謝罪",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNNndPQTR2ZUlSOWFmaGc1dFZHSGZlc0gxSUktNnhvckk5YmFGZnhpTUx3RmFlZ3BCUEh3YUpDcWxUaDlyZUViOVNjUkNId2d5T2RlaGNaVmE?oc=5",
+   "pubDate": "2026-11-20T07:15:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "電ファミニコゲーマー",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "trouble"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "テーブルゲームワールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNNndPQTR2ZUlSOWFmaGc1dFZHSGZlc0gxSUktNnhvckk5YmFGZnhpTUx3RmFlZ3BCUEh3YUpDcWxUaDlyZUViOVNjUkNId2d5T2RlaGNaVmE?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -16959,6 +17600,37 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/the-piranha-plant-nintendo-switch-2-dock-black-friday-2026"
+    }
+   ]
+  },
+  {
+   "title": "『崩壊：スターレイル』とモバイルSuicaがコラボ。アトレ秋葉原での限定POP UPストア＆ノベルティ配布も実施",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oSnpHS0VxRmZDSmc1UC1SQm1kdWVZMnNpTGxxQllFMmpNNE1QZXZSR3pYcVpROUF3cUlJREFrQy1xYzBDS1pWclRXcXZmZUNOakVnd1R1cXU5QQ?oc=5",
+   "pubDate": "2026-11-20T05:25:00.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "崩壊:スターレイル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oSnpHS0VxRmZDSmc1UC1SQm1kdWVZMnNpTGxxQllFMmpNNE1QZXZSR3pYcVpROUF3cUlJREFrQy1xYzBDS1pWclRXcXZmZUNOakVnd1R1cXU5QQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -24359,6 +25031,38 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/20/191265.html"
+    }
+   ]
+  },
+  {
+   "title": "『楽園追放 -Expelled from Paradise-』新作ゲーム『楽園追放 -The Stellar Angel-』",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14SVdQcmRqTmFfeFo1MzI2OHM5dU11OE04M1U1cDhuUGpINmdOVzhoclBsVXBjTENRM1pDOWg3LTVnYV9lVl9BM0FCOXRSXzJVQ1JkMVg3VUJZbnRZdG0yVTZLam11cWdlQkZ1OVNwT0NhVVcxNXREVg?oc=5",
+   "pubDate": "2026-11-19T15:10:02.000Z",
+   "firstSeen": "2026-11-20T14:47:31.488Z",
+   "image": null,
+   "source": "RBB TODAY",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "楽園追放 -Expelled from Paradise-",
+    "楽園追放 -The Stellar Angel-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "RBB TODAY",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14SVdQcmRqTmFfeFo1MzI2OHM5dU11OE04M1U1cDhuUGpINmdOVzhoclBsVXBjTENRM1pDOWg3LTVnYV9lVl9BM0FCOXRSXzJVQ1JkMVg3VUJZbnRZdG0yVTZLam11cWdlQkZ1OVNwT0NhVVcxNXREVg?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -42685,7 +43389,7 @@
    "pubDate": "2026-11-18T09:52:16.000Z",
    "firstSeen": "2026-11-18T13:29:44.450Z",
    "image": null,
-   "source": "gamebiz【ゲームビズ】",
+   "source": "gamebiz",
    "sourceId": "gnews-newgame",
    "syndicated": false,
    "kind": "aggregator",
@@ -42702,7 +43406,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "gamebiz【ゲームビズ】",
+     "name": "gamebiz",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBISkw5cEFIR0lzYVNsYTJubmtjcVI3MzVBWi1ybjlqYlFoZ0JqZk9XaWl0NUVnTkZpclpaSm5jcUg1aVBI?oc=5",
      "via": "Googleニュース「新作ゲーム」"
@@ -44127,7 +44831,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "event"
    ],
@@ -85510,7 +86214,7 @@
    "firstSeen": "2026-11-14T00:47:36.792Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -85530,9 +86234,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41MGw4dnhiNExQSGpGakRlbGRVUlc5LTRsMEFWZndJRW14X2pmVTJfNEtqWndBaU5GRndTekRVMGlsUHktbVJLc21vc2R4anBMVVlGRkt1Yw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -95053,7 +95757,7 @@
    "firstSeen": "2026-11-13T08:47:41.452Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -95071,9 +95775,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EeU54VGZjY3RPbHZyRy1FbjVxaUw1ZjlmMkJMM2t4RENwRzRlbUlzbHFHb2I0WW1wUzlEYzZNZWJ1UjNIMi1VbThBNkN6VjJSY2pJRlFUWE4wdw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -189516,726 +190220,6 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE52V0kyVXBZc1ozY0hkc05tVE9UU1F5WEdlMVc4amxNYzVhU2lrZ3hGcHdzV3VoUE5jZkFxd1VkTmpLQmY0?oc=5",
      "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "Cygames新ブランドが放つ、“落ちるだけ”高難度アクション『崩落の国』配信開始。普通に落ちたら死ぬ高さ、恐怖と緊張の落下ゲーム",
-   "summary": "Cygamesのサブブランド「CygamesEdge」は11月5日、崩落アクションアドベンチャーゲーム『崩落の国』をリリースした。",
-   "link": "https://automaton-media.com/articles/newsjp/20261105-477650/",
-   "pubDate": "2026-11-05T05:03:02.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477650-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 15,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩落の国"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261105-477650/"
-    }
-   ]
-  },
-  {
-   "title": "『エースコンバット8』『キャプテン翼２』『ドラゴンボール スパーキングゼロ』などがお得に！バンダイナムコ ダウンロード版セール開催｜最大87％OFF",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlQkRWRjJSdTZIWHhEd2lKMmhQQmZJejd3MklRYk5FTEZjekdrd20tUTlZT2Ffa1FBa25WUW9XRnpEU01pTUliUGFqUXdVUEVHRmpR?oc=5",
-   "pubDate": "2026-11-05T05:02:44.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 87,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "エースコンバット8",
-    "キャプテン翼2",
-    "ドラゴンボール スパーキングゼロ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlQkRWRjJSdTZIWHhEd2lKMmhQQmZJejd3MklRYk5FTEZjekdrd20tUTlZT2Ffa1FBa25WUW9XRnpEU01pTUliUGFqUXdVUEVHRmpR?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "『時のオカリナ』リメイクで『ゼルダ』ファンのライターが大歓喜した変更点・新要素7選【『ゼルダの伝説 時のオカリナ』リメイク】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OSTRTNE1TZXNKVzctTmZvank0ZXlMRk9icmpWWUg1N2lfbU9jLV9rVVlYcFBqUU05SnRydWVwM2EwMXBITXJxb3NUd1dnRUZGSEgtZXZlWQ?oc=5",
-   "pubDate": "2026-11-05T05:01:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "時のオカリナ",
-    "ゼルダ",
-    "ゼルダの伝説 時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OSTRTNE1TZXNKVzctTmZvank0ZXlMRk9icmpWWUg1N2lfbU9jLV9rVVlYcFBqUU05SnRydWVwM2EwMXBITXJxb3NUd1dnRUZGSEgtZXZlWQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "CygamesEdgeは、なぜ新作アクション『崩落の国』をクリアまで3時間の1100円の作品に仕上げたのか。プロデューサーに訊く、”コンパクトさ”へのこだわり",
-   "summary": "『崩落の国』について、チームの現在の状況や先日リリースされた体験版の反響、「クリアまで3時間」という開発テーマが生まれた理由などを改めて伺った。",
-   "link": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261105-477618/",
-   "pubDate": "2026-11-05T05:00:21.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/where-the-seeds-fall-20261105-477618-001.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩落の国"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261105-477618/"
-    }
-   ]
-  },
-  {
-   "title": "Steamライブラリ整理や日本語化MOD共有に対応！無料Webサービス「Game*Shelf」提供開始―最安値通知や資産価値の可視化も",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/05/174507.html",
-   "pubDate": "2026-11-05T05:00:06.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "steam"
-    ],
-    "off": null,
-    "free": false
-   },
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/05/174507.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/05/190402.html"
-    }
-   ]
-  },
-  {
-   "title": "細い足場を飛び移る、落ちたら即死のスリル！Cygames新ブランド第1弾『崩落の国』は、絶妙な慣性がクセになる3Dジャンプアクション【先行プレイレポ】",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/05/174506.html",
-   "pubDate": "2026-11-05T05:00:02.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩落の国"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/05/174506.html"
-    }
-   ]
-  },
-  {
-   "title": "「崩落の国」では，落ちる恐怖がいつしか降りる楽しさに変わる。「CygamesEdge」第1弾で描かれる兵士と少女の物語［プレイレポ］",
-   "summary": "Cygamesのサブブランド「CygamesEdge」の第1弾タイトル「崩落の国」が，本日発売された。本作は，兵士と「忌み子」と呼ばれる少女が崩れゆく世界樹を降り，地表を目指すアクションアドベンチャーだ。今回，CygamesよりSteam版のゲームキーの提供を受け，先行プレイした…",
-   "link": "https://www.4gamer.net/games/039/G103924/20261102028/",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/039/G103924/20261102028/"
-    }
-   ]
-  },
-  {
-   "title": "Cygamesの新作ゲーム『崩落の国』11月5日より発売開始。崩れゆく世界樹から、地上を目指して降りていく",
-   "summary": "娘を失った兵士と、亡き娘の面影を宿す「忌み子」の旅が描かれるアクションゲーム。小・中規模開発に特化した新ブランド「CygamesEdge」の第1弾タイトル",
-   "link": "https://news.denfaminicogamer.jp/news/261105w",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/02_JPN-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 25,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩落の国"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261105w"
-    }
-   ]
-  },
-  {
-   "title": "【11月発売PS5/PS4新作ゲーム】『GTA6』『ウェイ オブ ザ ハンター2』『フットボールマネージャー27』など最新作を紹介！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURG9OWkRyTEs5WjQ0Z1JiX01BRFlna2l5aEFLeG1vcW9TTUZZd09tSk1LbThiSVNseUF2STlPRU02NTFYVjBCV3gzaW5xXy10aEdOZ09WOA?oc=5",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 30,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "ps4"
-   ],
-   "works": [
-    "GTA6",
-    "ウェイ オブ ザ ハンター2",
-    "フットボールマネージャー27"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURG9OWkRyTEs5WjQ0Z1JiX01BRFlna2l5aEFLeG1vcW9TTUZZd09tSk1LbThiSVNseUF2STlPRU02NTFYVjBCV3gzaW5xXy10aEdOZ09WOA?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Rkk3MzJYRlo4RzY0cjRQMmxwcExueFVCTHBHMlVmSXFGOWZLRDdZSjZ1WUNxak8tazZjQWlaZ3Y2azF3WkpSZUFpX1YxcGdCMDF6Qjl4ZHEwX0l6YWpfXzFuNHNWUE90bmc4MEQwdjhDdDBhVEctWm9yTlVvZlk?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "CygamesEdge第1弾タイトル『崩落の国』本日発売&オープニング映像を公開。兵士と忌み子が地表を目指す旅路を描いた物語",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVFowVmthX3hidDB0YVJhVTQyNXZKOHRMbDI0em9Fa1RDYWUwSWhkZDVoMUprVklfZWxpZGpLX3R4cFVXOE1IUURVNUR4cGQwYkFiVzJnSQ?oc=5",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩落の国"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wVFowVmthX3hidDB0YVJhVTQyNXZKOHRMbDI0em9Fa1RDYWUwSWhkZDVoMUprVklfZWxpZGpLX3R4cFVXOE1IUURVNUR4cGQwYkFiVzJnSQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "How Zelda: Ocarina Of Time Benefits From A Glaringly Obvious Tactic That Few Game Devs Follow",
-   "summary": "The Legend of Zelda: Ocarina of Time has been regarded as one of the best games ever made for nearly 30 years, and its new Switch 2 remake i…",
-   "link": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/zeldakokiriforest.jpeg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different",
-   "summary": "Remaking a game like The Legend of Zelda: The Ocarina of Time required Nintendo to nail a fine balance between staying faithful to the origi…",
-   "link": "https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Zelda-horse.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/"
-    }
-   ]
-  },
-  {
-   "title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
-   "summary": "Your companion to a huge adventure. Zelda: Ocarina of Time is a dense adventure with many secrets to find, and while the critical path is fa…",
-   "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://images.nintendolife.com/9fa3a2c73d8a6/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake"
-    }
-   ]
-  },
-  {
-   "title": "Guide: How To Unlock The Hall Of Fallen Foes In Zelda: Ocarina Of Time",
-   "summary": "Where to find the Switch 2 remake's big new feature. The Hall of Fallen Foes is a new addition to Zelda: Ocarina of Time's Switch 2 remake.…",
-   "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://images.nintendolife.com/57c1664a902e4/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2"
-    }
-   ]
-  },
-  {
-   "title": "イード、Steamユーザーのゲーム管理を便利にするWebサービス「Game*Shelf」を提供開始",
-   "summary": "株式会社イード（本社：東京都中野区、代表取締役：宮川 洋、以下イード）は、Steamユーザー向けの無料Webサービス「Game*Shelf（ゲームシェルフ）」を、2026年11月5日（木）より提供開始いたします。 Game*Shel...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000623.000004642.html",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T06:47:34.166Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000623.000004642.html"
-    }
-   ]
-  },
-  {
-   "title": "『サイレントヒル：タウンフォール』が20％オフの5984円でセール初登場。『サイレントヒルf』も過去最大の72％オフに。コナミのブラックフライデーセールが開催",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByNDNCZmFuWWowOTdiOTFKSkRTNURhX21FcmZhVXVLZFdldEhLbFdNZ3c1MGJ5QWxDck1CSVVjempBR3NVMVhkMXhfOElncUlRSUtvNkJkRQ?oc=5",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T07:47:35.311Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 72,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "サイレントヒル:タウンフォール",
-    "サイレントヒル f"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByNDNCZmFuWWowOTdiOTFKSkRTNURhX21FcmZhVXVLZFdldEhLbFdNZ3c1MGJ5QWxDck1CSVVjempBR3NVMVhkMXhfOElncUlRSUtvNkJkRQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『崩落の国』崩落する世界をひたすら降りる、緊張感あふれる落下アクション。サイゲの新ブランド第1弾タイトル【本日発売】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YNWtoM1dFNF9zWnd5VkptaF9kODlPSnVFamk1d1gyX3FMMnBMRk5rVm1hRTA1Nzk3Mm5fa1B6ODAzZHd2OGZaZ0VjYlFOTFpZQzhHT3Jhbw?oc=5",
-   "pubDate": "2026-11-05T05:00:00.000Z",
-   "firstSeen": "2026-11-05T07:47:35.311Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩落の国"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YNWtoM1dFNF9zWnd5VkptaF9kODlPSnVFamk1d1gyX3FMMnBMRk5rVm1hRTA1Nzk3Mm5fa1B6ODAzZHd2OGZaZ0VjYlFOTFpZQzhHT3Jhbw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "バーガーキングに“パティ4枚＆特製ガーリックソース”のギルティすぎる「超大型バーガー」登場。11月6日より販売開始",
-   "summary": "4枚肉のボリュームとにんにくのガツンとした味わいに、チェダーチーズ4枚を重ねた驚異の“1579kcal”バーガー。にんにくの効いたサイドメニュー5種も同日発売",
-   "link": "https://news.denfaminicogamer.jp/news/261105p",
-   "pubDate": "2026-11-05T04:58:49.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HWU4ww4aEAALkK8-768x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261105p"
-    }
-   ]
-  },
-  {
-   "title": "Xenoblade Chronicles Studio Monolith Soft Helped Out With The Zelda: Ocarina Of Time Remake",
-   "summary": "Nintendo confirmed the main devs earlier this week. Earlier this week, Nintendo confirmed Ocarina of Time for the Switch 2 was developed int…",
-   "link": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake",
-   "pubDate": "2026-11-05T04:55:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://images.nintendolife.com/ea62040739695/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake"
-    }
-   ]
-  },
-  {
-   "title": "「ZELDA NOTES」が『ゼルダの伝説 時のオカリナ』と連携！ 写真探しやオカリナ演奏など11機能を公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oeGV6a2tjSlhxUWRsTmsyVmRiRU93UW9oeDViMnVreU1Ka3NWLUVDaEpBeDRlenRXamlONVRtbzNiQ2wzWndQdWNKQS00cEZYX1EyRGFYUWFEbWExNFlXcQ?oc=5",
-   "pubDate": "2026-11-05T04:53:26.000Z",
-   "firstSeen": "2026-11-05T17:47:42.156Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゼルダの伝説 時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oeGV6a2tjSlhxUWRsTmsyVmRiRU93UW9oeDViMnVreU1Ka3NWLUVDaEpBeDRlenRXamlONVRtbzNiQ2wzWndQdWNKQS00cEZYX1EyRGFYUWFEbWExNFlXcQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "ブラックな協力型ホラーコメディ「Grave Mistakes 〜幽々しき事態〜」，プレイテストがスタート",
-   "summary": "OroInteractiveは，HappyVolcanoが開発する協力型ホラーコメディ「GraveMistakes〜幽々しき事態〜」のプレイテストをSteamで開始した。最大4人で葬儀場を運営し，遺族への対応や葬儀の準備を進める一方，地下室に潜む怪物と化した祖母のために，遺体から…",
-   "link": "https://www.4gamer.net/games/047/G104723/20261105015/",
-   "pubDate": "2026-11-05T04:51:54.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/047/G104723/20261105015/"
-    }
-   ]
-  },
-  {
-   "title": "ソニーが米国でPS5を最大400ドルで下取り開始。GTA6前にPS5 Proに続き通常版も品薄の可能性",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRDFrUEItRHZMaXVwbWZhM3VDTFVYaXJaVVZrS2dSbUlfb29XbVl2VGZxY01DS19IbWlaRVZXY0lLWHV4Y191NHoteFlPcXZsb21xcXJHbmNpbHJlbkVyR2V0QmpJSkY2?oc=5",
-   "pubDate": "2026-11-05T04:50:00.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": null,
-   "source": "GAZLOG",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAZLOG",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRDFrUEItRHZMaXVwbWZhM3VDTFVYaXJaVVZrS2dSbUlfb29XbVl2VGZxY01DS19IbWlaRVZXY0lLWHV4Y191NHoteFlPcXZsb21xcXJHbmNpbHJlbkVyR2V0QmpJSkY2?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "My Hero Ultra Rumble coming to iOS, Android",
-   "summary": "Bandai Namco will release free-to-play battle royale game My Hero Ultra Rumble for iOS and …",
-   "link": "https://www.gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android",
-   "pubDate": "2026-11-05T04:49:49.000Z",
-   "firstSeen": "2026-11-05T05:47:45.891Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/My-Hero-Ultra-Rumble-Mobile_11-04-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android"
     }
    ]
   }
