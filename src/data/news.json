@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-21T03:47:52.609Z",
+ "generatedAt": "2026-11-21T04:47:50.650Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1376,
+  "exact": 1375,
   "syndicated": 71,
-  "similar": 380,
-  "syndicatedTotal": 431,
+  "similar": 378,
+  "syndicatedTotal": 430,
   "syndicatedLeft": 32
  },
  "calendar": [
@@ -5943,6 +5943,23 @@
   {
    "date": "2026-11-22",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "VALORANT",
+   "title": "『VALORANT』国際大会「VCT Pacific Kickoff」日本予選のトーナメント表が公開。優勝チームはタイ・バンコクへ",
+   "link": "https://news.denfaminicogamer.jp/news/261121f",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "update",
+    "esports"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-22",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -7277,6 +7294,22 @@
    "source": "AV Watch",
    "sources": 2,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "ホロライブ「獅白ぼたん」主催「クリスマス闘nightⅢ」が12月開催！アグリーセーターやアケコンボタンなどのグッズも注目",
+   "link": "https://www.inside-games.jp/article/2026/11/21/191372.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -9428,22 +9461,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-01-08",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "FF",
-   "title": "『FF』シリーズの「チョコボ」をモチーフにしたプルオーバーパーカーとキャップが登場。プルオーバーパーカーは9コマのカラフルなチョコボがプリントされ、キャップはチョコボの顔を立体刺繍で表現",
-   "link": "https://news.denfaminicogamer.jp/news/2611052v",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-01-10",
    "precision": "day",
    "verb": "event",
@@ -10825,8 +10842,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 975,
-   "accepted": 945
+   "archived": 974,
+   "accepted": 944
   },
   {
    "id": "4gamer-sp",
@@ -10847,8 +10864,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 564,
-   "accepted": 557
+   "archived": 562,
+   "accepted": 555
   },
   {
    "id": "denfaminico",
@@ -10858,8 +10875,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1212,
-   "accepted": 1082
+   "archived": 1206,
+   "accepted": 1076
   },
   {
    "id": "gamewatch",
@@ -10869,8 +10886,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 655,
-   "accepted": 626
+   "archived": 654,
+   "accepted": 625
   },
   {
    "id": "gamespark",
@@ -10880,8 +10897,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1243,
-   "accepted": 1225
+   "archived": 1237,
+   "accepted": 1219
   },
   {
    "id": "inside-games",
@@ -10891,8 +10908,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1755,
-   "accepted": 1351
+   "archived": 1754,
+   "accepted": 1352
   },
   {
    "id": "ps-blog",
@@ -10935,8 +10952,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 627,
-   "accepted": 490
+   "archived": 620,
+   "accepted": 483
   },
   {
    "id": "gnews-dengeki",
@@ -10946,8 +10963,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 639,
-   "accepted": 378
+   "archived": 636,
+   "accepted": 375
   },
   {
    "id": "gnews-newgame",
@@ -10956,7 +10973,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 83,
+   "fetched": 81,
    "archived": 603,
    "accepted": 550
   },
@@ -10967,9 +10984,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 0,
-   "archived": 1492,
-   "accepted": 1291
+   "fetched": 100,
+   "archived": 1495,
+   "accepted": 1293
   },
   {
    "id": "gnews-ps5",
@@ -10979,8 +10996,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 795,
-   "accepted": 726
+   "archived": 791,
+   "accepted": 723
   },
   {
    "id": "gnews-update",
@@ -10989,9 +11006,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 75,
-   "archived": 424,
-   "accepted": 338
+   "fetched": 71,
+   "archived": 423,
+   "accepted": 337
   },
   {
    "id": "prtimes",
@@ -11001,8 +11018,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26751,
-   "accepted": 438
+   "archived": 26686,
+   "accepted": 437
   },
   {
    "id": "gematsu",
@@ -11012,8 +11029,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 304,
-   "accepted": 304
+   "archived": 303,
+   "accepted": 303
   },
   {
    "id": "ign",
@@ -11056,8 +11073,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 353,
-   "accepted": 353
+   "archived": 352,
+   "accepted": 352
   },
   {
    "id": "pcgamer",
@@ -11072,6 +11089,191 @@
   }
  ],
  "items": [
+  {
+   "title": "新羅を舞台にした横スクロールアクション「NAMMO」を試遊。韓国らしい雰囲気のアートと，決まると爽快なパリィが魅力だ［G-STAR 2026］",
+   "summary": "GuildStudioは，韓国で開催中のゲームイベント「G-STAR2026」に，PCゲーム「NAMMO」を出展している。本作は，古代の朝鮮半島にあった新羅を舞台に，強力なボスと次々に戦っていく横スクロールアクションゲームだ。魂の世界を見る力「霊眼」の発動中は，隠された道が現れた…",
+   "link": "https://www.4gamer.net/games/060/G106034/20261121012/",
+   "pubDate": "2026-11-21T04:31:06.000Z",
+   "firstSeen": "2026-11-21T04:47:33.112Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "demo",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "NAMMO"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/060/G106034/20261121012/"
+    }
+   ]
+  },
+  {
+   "title": "ホロライブ「獅白ぼたん」主催「クリスマス闘nightⅢ」が12月開催！アグリーセーターやアケコンボタンなどのグッズも注目",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/21/191372.html",
+   "pubDate": "2026-11-21T04:30:03.000Z",
+   "firstSeen": "2026-11-21T04:47:33.112Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/21/191372.html"
+    }
+   ]
+  },
+  {
+   "title": "「Slay the Spire 2」を自身の最高傑作にする。Mega CritのCasey Yano氏が語る，前作で見えた課題と続編で実現したい遊び［WePlay2026］",
+   "summary": "中国・上海で開催されたインディーゲーム連盟開発者大会「CiGADC」に，「SlaytheSpire」シリーズのプロデューサーを務めるCaseyYano氏が登壇し，前作が生まれた経緯や，早期アクセス中の続編「SlaytheSpire2」に協力プレイを取り入れた理由を語った。",
+   "link": "https://www.4gamer.net/games/790/G079033/20261121013/",
+   "pubDate": "2026-11-21T04:16:26.000Z",
+   "firstSeen": "2026-11-21T04:47:33.112Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "release",
+    "esports",
+    "indie",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/790/G079033/20261121013/"
+    }
+   ]
+  },
+  {
+   "title": "『VALORANT』国際大会「VCT Pacific Kickoff」日本予選のトーナメント表が公開。優勝チームはタイ・バンコクへ",
+   "summary": "世界への切符をかけた2027年シーズン「VCT」最初の戦いが、明日11月22日に開幕。決勝トーナメントのチケットは本日12時より先着販売",
+   "link": "https://news.denfaminicogamer.jp/news/261121f",
+   "pubDate": "2026-11-21T04:05:45.000Z",
+   "firstSeen": "2026-11-21T04:47:33.112Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/PhotoshopExtension_Image-2026-11-21T100007.192-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "update",
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "VALORANT"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261121f"
+    }
+   ]
+  },
+  {
+   "title": "河森正治氏に「ブルアカ」のキム・ヨンハ氏が質問する，意外な組み合わせの講演が実現。長く愛される世界はどう作られるのか［G-STAR 2026］",
+   "summary": "G-STAR2026の2日目，「マクロス」シリーズなどで知られる河森正治氏と，「ブルーアーカイブ」の総括プロデューサーを務めるキム・ヨンハ氏の対談が行われた。マクロスがなければゲーム業界にはいなかったというキム氏が，「長く愛される世界はどう作られるのか」をテーマに，河森氏へ質問を…",
+   "link": "https://www.4gamer.net/games/519/G051983/20261121007/",
+   "pubDate": "2026-11-21T03:55:17.000Z",
+   "firstSeen": "2026-11-21T04:47:33.112Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/519/G051983/20261121007/"
+    }
+   ]
+  },
+  {
+   "title": "『鳴潮』新キャラクター「アンナ」「ルシェル」の戦闘シーンが公開！ネオユニオンでも飛べる…“メカスーツ”で高速移動する探索の様子も",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/21/175156.html",
+   "pubDate": "2026-11-21T03:46:26.000Z",
+   "firstSeen": "2026-11-21T04:47:33.112Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鳴潮"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/21/175156.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/21/191371.html"
+    }
+   ]
+  },
   {
    "title": "軽い気持ちで作り始めた「Vampire Survivors」をきっかけに，40人規模のスタジオへ。poncleが語るこれまでの歩みと，これからもインディーであり続けたい理由［WePlay2026］",
    "summary": "2026年11月20日，中国・上海で開催された中国インディーゲーム連盟開発者大会（CiGADC）にて，「VampireSurvivors」の開発元poncleからJacopoMusso氏とMatteoSapio氏が登壇した。両氏はスタジオの設立からパブリッシングでの失敗までを振り…",
@@ -11604,7 +11806,7 @@
    ]
   },
   {
-   "title": "【ビーズログ2月号】Nintendo Switch『大穢』オリジナルグッズつきebtenDXパック予約受付中！ | ニュース | ビーズログ.com - www.bs-log.com",
+   "title": "【ビーズログ2月号】Nintendo Switch『大穢』オリジナルグッズつきebtenDXパック予約受付中！ - www.bs-log.com",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjU3lzOEtJbmcteUNlNU9HeW9hZzlsVHpHSjVQTTJjekJMVS1oY0E0V1FUTGlRTWNIVmN5aE5NMzNublRFS1dhUW44eTJfNXN6dHNDeUNKOHJxMDg?oc=5",
    "pubDate": "2026-11-21T01:34:44.000Z",
@@ -30988,7 +31190,7 @@
    "firstSeen": "2026-11-19T13:47:32.242Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -31010,9 +31212,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NLWgwOHg3cEJ6N3lENUJvWE1SM3RZMDFTZFBHS01FQ29OZERQVllXWkRHZFpjbzNhRWZ3aDNFeXI1LUYzTFg0LTdneFctTmw1M3RCR3JNcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -47944,7 +48146,7 @@
    "firstSeen": "2026-11-18T10:47:33.657Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -47959,9 +48161,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzeXdWRmtnUmh1dGhVR2JkQjM2aWdvb195WjVUVFJVUzJHeVlFdlpuVGN1d2tUYmljZ3M5dXZQNXBpYVppTHY5SzhoYXRDT1VtWDZkQnQ1NA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -54247,7 +54449,7 @@
    "firstSeen": "2026-11-18T03:47:32.454Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -54267,9 +54469,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VZXIzcGRlX3dNaGJzTkpPRGZKZm83TnJMczF0QktDcnVaVjd3MDFJVzZyTEhiRjZIY25Cd2txWWduV1lzS2Y2cjhXOGZ1VHd0VDQtQWIyRQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -63139,7 +63341,7 @@
    "firstSeen": "2026-11-17T09:47:45.889Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -63159,9 +63361,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XTUdkNUVUMnBOYWp5aGtjMExIX0pIQXdNS1VwVTY5MXczME9CVDlqWjZnMS1XdzNkWHRHSnNudFJaUUNrZVBOUVlYNTFCUDVoeGRSd19VUQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -65956,7 +66158,7 @@
    "firstSeen": "2026-11-17T06:48:05.299Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -65976,9 +66178,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DUG95VzUzS1NzSjNkMWNrV1d5YWhYOWJTMGd1Q0xDd1lHQjctX1lIN0REXzJqSWVyOXF5VHFIcVJNaEVpa1V4ZWdsWU42ajc0cjFnUWhkeTl2UQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -189117,192 +189319,6 @@
      "name": "4Gamer.net（スマホ）",
      "sourceId": "4gamer-sp",
      "link": "https://www.4gamer.net/games/999/G999904/20261104011/"
-    }
-   ]
-  },
-  {
-   "title": "Switch 2『ゼルダの伝説 時のオカリナ』、純正のプロコンで遊んでみない？【任天堂純正品】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9USVdma3dZZnlzWC0xTDJpb3ZwN29rUzJqUFo1N2NUTkVPbVpjS2ZRdS1WemFHYjEzd21KNHNNajZibTVYMWI4ZTF3ZmdTMEhXalAzNQ?oc=5",
-   "pubDate": "2026-11-05T12:15:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "ASCII.jp",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "ゼルダの伝説 時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9USVdma3dZZnlzWC0xTDJpb3ZwN29rUzJqUFo1N2NUTkVPbVpjS2ZRdS1WemFHYjEzd21KNHNNajZibTVYMWI4ZTF3ZmdTMEhXalAzNQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXRC1zeElBdVNzQjZDeXZpMmYteVlZVEMtdVZpSWJxNzhKMDVpSUd0UG5qX3JMbWMyYXBZRUFVQ1JGUU9CMjlXalJld1hXSEpEVkduYV9pdVd0NGdCSjBRMjNB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-   "summary": "Help me upscalers, you're my only hope.",
-   "link": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-   "pubDate": "2026-11-05T12:12:38.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/cGvg75BzHjKXRa6iF2zieP-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/"
-    }
-   ]
-  },
-  {
-   "title": "任天堂の上期は増収減益の二極化：売上高12%減、利益49%増、中国版Switchが完全終了",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GeUg0Z2hnaURoT1RvWnhEeE5qLU1OQnBNR1QyRWJoQnFVWm5WSGdTLU5vRWE5NXBWdG5Bb1Y0cklodVkwb0FDVjdCZVBnWXh1emMtSVdwZWdXZkZZZFlYeHhUWnJPTWJxTTlfYktKRkE1azhD?oc=5",
-   "pubDate": "2026-11-05T12:06:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "BigGo ファイナンス",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "BigGo ファイナンス",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GeUg0Z2hnaURoT1RvWnhEeE5qLU1OQnBNR1QyRWJoQnFVWm5WSGdTLU5vRWE5NXBWdG5Bb1Y0cklodVkwb0FDVjdCZVBnWXh1emMtSVdwZWdXZkZZZFlYeHhUWnJPTWJxTTlfYktKRkE1azhD?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『FF』シリーズの「チョコボ」をモチーフにしたプルオーバーパーカーとキャップが登場。プルオーバーパーカーは9コマのカラフルなチョコボがプリントされ、キャップはチョコボの顔を立体刺繍で表現",
-   "summary": "11月5日、株式会社スクウェア・エニックスは、『ファイナルファンタジー』シリーズより、「チョコボ」をモチーフにした新作アパレル商品全2種を、2027年1月8日に発売することを発表した。 今回登場する商品は、アパレルブランド「Lit Bāff Apt.（リットバフアパートメント）」…",
-   "link": "https://news.denfaminicogamer.jp/news/2611052v",
-   "pubDate": "2026-11-05T12:01:38.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/24c11d87ff426053fab7b6fb08e47602-819x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611052v"
-    }
-   ]
-  },
-  {
-   "title": "PvE『タルコフ』ライク『Incursion Red River』日本語対応！過去最大アプデ配信で「手触りそのものが変わる」",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/05/174533.html",
-   "pubDate": "2026-11-05T12:00:03.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "タルコフ",
-    "Incursion Red River"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/05/174533.html"
-    }
-   ]
-  },
-  {
-   "title": "「フラガリアメモリーズ」新シリーズ「キズナ結ビ編」開幕！ 小笠原 仁さん＆畠中 祐さんに，チャコ＆アルペックの“高め合える関係”を聞く［インタビュー］",
-   "summary": "サンリオの「フラガリアメモリーズ」で，キズナバディの関係性を描く新シリーズ「キズナ結ビ編」が開幕。第1弾のチャコ＆アルペックを演じる小笠原仁さんと畠中祐さん，プロデューサーの村上一馬氏に，物語や楽曲，2人の関係性について聞いた。",
-   "link": "https://www.4gamer.net/games/745/G074550/20261022016/",
-   "pubDate": "2026-11-05T12:00:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "キズナ結ビ編"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/745/G074550/20261022016/"
     }
    ]
   }
