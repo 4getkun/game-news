@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-21T02:47:55.860Z",
+ "generatedAt": "2026-11-21T03:47:52.609Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1382,
+  "exact": 1376,
   "syndicated": 71,
-  "similar": 381,
-  "syndicatedTotal": 432,
-  "syndicatedLeft": 33
+  "similar": 380,
+  "syndicatedTotal": 431,
+  "syndicatedLeft": 32
  },
  "calendar": [
   {
@@ -5536,6 +5536,23 @@
   {
    "date": "2026-11-21",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "【推しの子】Puzzle Star",
+   "title": "『【推しの子】Puzzle Star』限定ガチャに描き下ろし「ルビー」と「MEMちょ」が登場。「POP IN 2」第3弾が本日11月21日より開催",
+   "link": "https://news.denfaminicogamer.jp/news/2611212e",
+   "source": "電ファミニコゲーマー",
+   "sources": 3,
+   "categories": [
+    "mobile",
+    "media"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-21",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -5905,23 +5922,6 @@
    "sources": 1,
    "categories": [
     "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-21",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "【推しの子】Puzzle Star",
-   "title": "【推しの子】公式パズルゲーム『【推しの子】Puzzle Star』に描き下ろしの「有馬かな」「ルビー」が登場。クラブメンバーと協力してスコアを稼ぐ新イベントも",
-   "link": "https://news.denfaminicogamer.jp/news/2611112z",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "event",
-    "mobile"
    ],
    "platforms": [],
    "spoiler": false
@@ -7519,6 +7519,22 @@
    "sources": 1,
    "categories": [
     "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-01",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "鳴潮",
+   "title": "『鳴潮』とピザハットのコラボが12月1日より開催決定！「心」のコラボビジュアルが公開",
+   "link": "https://news.denfaminicogamer.jp/news/261121i",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "collab"
    ],
    "platforms": [],
    "spoiler": false
@@ -9195,22 +9211,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-26",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "「セガNET麻雀 MJ」，公式オフイベントを12月26日にセガ本社で開催",
-   "link": "https://www.4gamer.net/games/226/G022696/20261105058/",
-   "source": "4Gamer.net（スマホ）",
-   "sources": 1,
-   "categories": [
-    "event"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-31",
    "precision": "day",
    "verb": "release",
@@ -10036,20 +10036,6 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "DAMON and BABY: RISE OF THE ORACLE",
-   "title": "『DAMON and BABY: RISE OF THE ORACLE』パッケージ版が2月18日発売！ 追加ストーリー「RISE OF THE ORACLE」収録",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6VzhxQ0FrQmJyTGtfZFVTbFM3bUxXNlhTX0FkVHB2STZLR0UwV19lYkh2ZUFlaVJVUjJlOGJjUEI3dnhpdE1EMWlnWXJtLWNnTGJHb1FTbW52UTZ2dzhPLQ?oc=5",
-   "source": "AppBank",
-   "sources": 2,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-02-18",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
    "work": null,
    "title": "「DAMON and BABY: RISE OF THE ORACLE」PS5/Switchパッケージ版が2027年2月18日に発売！和風異界を舞台にした新章シナリオを収録",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yMzBkMkVhSmJNUkFwMXNaZl91SWZaWmJmN3VOYmlWMjJCMklMbXhHOFNLdEhjWkNOeFotNlU3VDNoaTNiTEJFcE9MSFBxb1hyZkdNZw?oc=5",
@@ -10839,8 +10825,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 973,
-   "accepted": 943
+   "archived": 975,
+   "accepted": 945
   },
   {
    "id": "4gamer-sp",
@@ -10861,8 +10847,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 566,
-   "accepted": 559
+   "archived": 564,
+   "accepted": 557
   },
   {
    "id": "denfaminico",
@@ -10872,8 +10858,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1215,
-   "accepted": 1085
+   "archived": 1212,
+   "accepted": 1082
   },
   {
    "id": "gamewatch",
@@ -10883,8 +10869,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 659,
-   "accepted": 630
+   "archived": 655,
+   "accepted": 626
   },
   {
    "id": "gamespark",
@@ -10894,8 +10880,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1242,
-   "accepted": 1224
+   "archived": 1243,
+   "accepted": 1225
   },
   {
    "id": "inside-games",
@@ -10905,8 +10891,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1753,
-   "accepted": 1349
+   "archived": 1755,
+   "accepted": 1351
   },
   {
    "id": "ps-blog",
@@ -10916,8 +10902,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 35,
-   "accepted": 35
+   "archived": 34,
+   "accepted": 34
   },
   {
    "id": "xbox-wire",
@@ -10938,8 +10924,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 130,
-   "accepted": 89
+   "archived": 127,
+   "accepted": 86
   },
   {
    "id": "gnews-famitsu",
@@ -10949,8 +10935,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 624,
-   "accepted": 487
+   "archived": 627,
+   "accepted": 490
   },
   {
    "id": "gnews-dengeki",
@@ -10960,7 +10946,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 641,
+   "archived": 639,
    "accepted": 378
   },
   {
@@ -10971,8 +10957,8 @@
    "ok": true,
    "error": null,
    "fetched": 83,
-   "archived": 610,
-   "accepted": 556
+   "archived": 603,
+   "accepted": 550
   },
   {
    "id": "gnews-switch2",
@@ -10981,9 +10967,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 1510,
-   "accepted": 1304
+   "fetched": 0,
+   "archived": 1492,
+   "accepted": 1291
   },
   {
    "id": "gnews-ps5",
@@ -10993,8 +10979,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 804,
-   "accepted": 735
+   "archived": 795,
+   "accepted": 726
   },
   {
    "id": "gnews-update",
@@ -11003,9 +10989,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 72,
-   "archived": 423,
-   "accepted": 337
+   "fetched": 75,
+   "archived": 424,
+   "accepted": 338
   },
   {
    "id": "prtimes",
@@ -11015,8 +11001,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26845,
-   "accepted": 442
+   "archived": 26751,
+   "accepted": 438
   },
   {
    "id": "gematsu",
@@ -11070,8 +11056,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 352,
-   "accepted": 352
+   "archived": 353,
+   "accepted": 353
   },
   {
    "id": "pcgamer",
@@ -11086,6 +11072,397 @@
   }
  ],
  "items": [
+  {
+   "title": "軽い気持ちで作り始めた「Vampire Survivors」をきっかけに，40人規模のスタジオへ。poncleが語るこれまでの歩みと，これからもインディーであり続けたい理由［WePlay2026］",
+   "summary": "2026年11月20日，中国・上海で開催された中国インディーゲーム連盟開発者大会（CiGADC）にて，「VampireSurvivors」の開発元poncleからJacopoMusso氏とMatteoSapio氏が登壇した。両氏はスタジオの設立からパブリッシングでの失敗までを振り…",
+   "link": "https://www.4gamer.net/games/618/G061824/20261121010/",
+   "pubDate": "2026-11-21T03:45:03.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "esports",
+    "indie",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/618/G061824/20261121010/"
+    }
+   ]
+  },
+  {
+   "title": "鏡写しの2つの部屋で間違い探しをするホラーゲーム「KISI: The Deja Vu」を試遊。同時には見比べられないので，記憶力が試される［G-STAR 2026］",
+   "summary": "PALMは，韓国で開催中のゲームイベント「G-STAR2026」に，PCゲーム「KISI:TheDejaVu」を出展している。本作は，既視感を題材にしたホラーゲーム。プレイヤーは，マッドサイエンティストが行う心理実験の被験者として鏡写しの2つの部屋を行き来し，間違い探しの要領で「…",
+   "link": "https://www.4gamer.net/games/060/G106033/20261121011/",
+   "pubDate": "2026-11-21T03:43:46.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "demo",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "KISI: The Deja Vu"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/060/G106033/20261121011/"
+    }
+   ]
+  },
+  {
+   "title": "待ち合わせメッセージを届ける“オブラディンライク”推理ゲーム『LAST RELAY 23』無料公開。街の記録とも照らし合わせて、クリスマスの想いをつなげる",
+   "summary": "おれんじりりぃ氏は11月20日、『LAST RELAY 23』を公開した。さまざまな資料を照らし合わせ、メッセージの正しい送り先を突き止める推理ゲームだ。",
+   "link": "https://automaton-media.com/articles/newsjp/20261121-480260/",
+   "pubDate": "2026-11-21T03:42:50.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480260-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "LAST RELAY 23"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261121-480260/"
+    }
+   ]
+  },
+  {
+   "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+   "summary": "Update: It's now \"estimated\" to release later this month. : Telltale Games has announced the Nintendo Switch version of The Wolf Among Us Re…",
+   "link": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+   "pubDate": "2026-11-21T03:30:00.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": "https://images.nintendolife.com/3768f6736f5ca/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch"
+    }
+   ]
+  },
+  {
+   "title": "ストレージに大量のデータを書き込み続ける不具合を修正した「GeForce Hotfix Driver 621.35」をリリース",
+   "summary": "",
+   "link": "https://www.4gamer.net/games/022/G002210/20261121009/",
+   "pubDate": "2026-11-21T03:18:11.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/022/G002210/20261121009/"
+    }
+   ]
+  },
+  {
+   "title": "『鳴潮』Ver.4.0新キャラクター「アンナ」「ルシェル」の実機映像が公開。“オールド・エデン”のボスが、バラ舞い散る妖艶な戦闘を披露",
+   "summary": "「猫耳ゴールドランナー」ルシェルは巨大な生物にまたがり、ド派手なアクション。縦横無尽にフィールドを飛び回る“メカスーツ”にも注目",
+   "link": "https://news.denfaminicogamer.jp/news/261121g",
+   "pubDate": "2026-11-21T03:10:29.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/4b708f53ef49907169da976a328de52e-1024x580.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鳴潮"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261121g"
+    }
+   ]
+  },
+  {
+   "title": "ゲーム1本「約1万円」は高いのか？ 重要なのはゲームごとに“異なる価値”ー『GTA6』『アノマリス』など新作を手がかりに見る“値段以上に求めるモノ”",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/21/191370.html",
+   "pubDate": "2026-11-21T03:10:03.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA6",
+    "アノマリス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/21/191370.html"
+    }
+   ]
+  },
+  {
+   "title": "『鳴潮』とピザハットのコラボが12月1日より開催決定！「心」のコラボビジュアルが公開",
+   "summary": "明日11時には、次のコラボキャラクターに関する続報も。キャンペーンの詳細は後日発表される",
+   "link": "https://news.denfaminicogamer.jp/news/261121i",
+   "pubDate": "2026-11-21T03:09:01.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HXaTeUcacAAKO8Z-576x1024.jpeg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鳴潮"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261121i"
+    }
+   ]
+  },
+  {
+   "title": "書店で開催されたリアル『めっちゃカメレオン』が、超”ガチ勢向け”すぎてぜんぜん見つけられなかった。ずっと、ずっと眼の前にいたのに……！ 本屋さん、隠れる場所が多すぎる。",
+   "summary": "神保町の書泉グランデとコラボし、書棚や壁や吊り看板まで、いたるところにしれっと擬態。ムズいけど見つけた瞬間が気持ちよすぎる",
+   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261121h",
+   "pubDate": "2026-11-21T03:00:47.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image10-15.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "めっちゃカメレオン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261121h"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】白い柔肌×漆黒のゴスロリ衣装が艶やか！『NEEDY GIRL OVERDOSE』あめちゃんが見せる誘惑にドキドキ【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/21/191369.html",
+   "pubDate": "2026-11-21T03:00:03.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "NEEDY GIRL OVERDOSE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/21/191369.html"
+    }
+   ]
+  },
+  {
+   "title": "重厚感のあるバズーカでUFOもゾンビもサメも吹き飛ばせ！巨大隕石まで襲来するB級映画感満載のガンシュー『CRASH BAZOOKA（仮）』試遊レポ【アミューズメント エキスポ2026】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/21/175155.html",
+   "pubDate": "2026-11-21T03:00:02.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "CRASH BAZOOKA(仮)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/21/175155.html"
+    }
+   ]
+  },
+  {
+   "title": "ムダ毛，焼いてますか？ 意外と現代の脱毛事情を抉ってくる，ワンオペ地獄から悪徳経営まで味わえる「脱毛サロンシミュレーター」［レビュー］",
+   "summary": "シェーバーにレーザー，そして火炎放射器（!?）。いろいろな機器を駆使してお客様のムダ毛を処理しよう。一見出オチっぽい経営シム「脱毛サロンシミュレーター」だけど，その笑いの先には……。",
+   "link": "https://www.4gamer.net/games/978/G097898/20261120003/",
+   "pubDate": "2026-11-21T03:00:00.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/978/G097898/20261120003/"
+    }
+   ]
+  },
+  {
+   "title": "『【推しの子】Puzzle Star』限定ガチャに描き下ろし「ルビー」と「MEMちょ」が登場。「POP IN 2」第3弾が本日11月21日より開催",
+   "summary": "ドレスをまとう「ルビー」と普段着姿の「MEMちょ」がかわいい。デイリーパスの発売や図鑑報酬実装でさらに遊びやすくなった",
+   "link": "https://news.denfaminicogamer.jp/news/2611212e",
+   "pubDate": "2026-11-21T03:00:00.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/2e59e1d511b2bdd63f0673b14309fb10-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "mobile",
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "【推しの子】Puzzle Star"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611212e"
+    },
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000020689.000007006.html"
+    }
+   ]
+  },
   {
    "title": "4人のほうが難しい。協力型SFサバイバルホラーFPS「CODE EXIT」は，前半の恐怖感と，後半の無双感が楽しい［G-STAR 2026］",
    "summary": "「G-STAR2026」で協力型SFサバイバルホラーFPS「CODEEXIT」をプレイした。逃げるしかない前半と，銃で敵をなぎ倒す後半の緩急が気持ちいい作品だ。ソロより4人のほうが難しい理由などを開発者に聞いた。",
@@ -15106,6 +15483,37 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/"
+    }
+   ]
+  },
+  {
+   "title": "『ゆめみるサクラの卒業式』ボイス追加アップデート制作プロジェクト！「CAMPFIRE」でクラウドファンディングが開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jeXlwMXZNcHh1RTFQRlpoU09qYjRhS2lEYi05aDQyRUNqdFhOeE1BS1BSemxIZ1dpczl1WTA5bmVtQXlva0xQZ1paS2F5VlhvSVE2LXpLVEUtcWM?oc=5",
+   "pubDate": "2026-11-20T15:06:01.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゆめみるサクラの卒業式"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jeXlwMXZNcHh1RTFQRlpoU09qYjRhS2lEYi05aDQyRUNqdFhOeE1BS1BSemxIZ1dpczl1WTA5bmVtQXlva0xQZ1paS2F5VlhvSVE2LXpLVEUtcWM?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -19849,6 +20257,37 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2611202g"
+    }
+   ]
+  },
+  {
+   "title": "統合ゲームランチャーサービス『Papureka』が正式リリース！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12TWR4MHlLbGpvUk9qa2tkaUJoNFV2Mzk1aE51VFBtOXNJZloyMTZ3bG5mSU9Ndzhrb0hJMGNHRHVURmlZQkhtNEN5ZmMtRUNXY1E?oc=5",
+   "pubDate": "2026-11-20T08:36:13.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Papureka"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12TWR4MHlLbGpvUk9qa2tkaUJoNFV2Mzk1aE51VFBtOXNJZloyMTZ3bG5mSU9Ndzhrb0hJMGNHRHVURmlZQkhtNEN5ZmMtRUNXY1E?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -27995,6 +28434,39 @@
    ]
   },
   {
+   "title": "『Homura Hime』が2027年にPS5で発売決定。弾幕アクションを展開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObTVQMldvNGdQdV9PellxZ3BhNlRrUzNSSUhSN3NYR1JnSFhiY2dIckhERGlpaGpmTHpXNG9Ub24zM05tdS05VTJaUjZIa0lWWTNMTmdPTkJrMlN4U2N3bXVvVEg0ZFoybXdzWVdrNV9TTFBCOHRleXhYZ1R4SjRsTm9UN1k4aWUzcFlnU3VFTVpXUk1nYXZpb3B1dXU2a1VpajdVVl9BbGF2MmF5WDhKRnEyYVNkbHNfN2dqMmN5WmYtSVVmck1IcXA4eGZJZHNGWGthQ3htS2lWbm11VmtQUHR1V05xYTFVcmpwMUNtR1lOTlZsWmJtQTJKVUhlYkdzY1lmeFlJWmRiaUxNdHlWR0NNczFYRmc?oc=5",
+   "pubDate": "2026-11-19T17:54:16.000Z",
+   "firstSeen": "2026-11-21T03:47:35.897Z",
+   "image": null,
+   "source": "games.gg",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "Homura Hime"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "games.gg",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObTVQMldvNGdQdV9PellxZ3BhNlRrUzNSSUhSN3NYR1JnSFhiY2dIckhERGlpaGpmTHpXNG9Ub24zM05tdS05VTJaUjZIa0lWWTNMTmdPTkJrMlN4U2N3bXVvVEg0ZFoybXdzWVdrNV9TTFBCOHRleXhYZ1R4SjRsTm9UN1k4aWUzcFlnU3VFTVpXUk1nYXZpb3B1dXU2a1VpajdVVl9BbGF2MmF5WDhKRnEyYVNkbHNfN2dqMmN5WmYtSVVmck1IcXA4eGZJZHNGWGthQ3htS2lWbm11VmtQUHR1V05xYTFVcmpwMUNtR1lOTlZsWmJtQTJKVUhlYkdzY1lmeFlJWmRiaUxNdHlWR0NNczFYRmc?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
    "title": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
    "summary": "Ubisoft Montreal and Quebec are the latest to fall under the axe.",
    "link": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway/",
@@ -30516,7 +30988,7 @@
    "firstSeen": "2026-11-19T13:47:32.242Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30538,9 +31010,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NLWgwOHg3cEJ6N3lENUJvWE1SM3RZMDFTZFBHS01FQ29OZERQVllXWkRHZFpjbzNhRWZ3aDNFeXI1LUYzTFg0LTdneFctTmw1M3RCR3JNcw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -47472,7 +47944,7 @@
    "firstSeen": "2026-11-18T10:47:33.657Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -47487,9 +47959,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzeXdWRmtnUmh1dGhVR2JkQjM2aWdvb195WjVUVFJVUzJHeVlFdlpuVGN1d2tUYmljZ3M5dXZQNXBpYVppTHY5SzhoYXRDT1VtWDZkQnQ1NA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -53775,7 +54247,7 @@
    "firstSeen": "2026-11-18T03:47:32.454Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -53795,9 +54267,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VZXIzcGRlX3dNaGJzTkpPRGZKZm83TnJMczF0QktDcnVaVjd3MDFJVzZyTEhiRjZIY25Cd2txWWduV1lzS2Y2cjhXOGZ1VHd0VDQtQWIyRQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -62667,7 +63139,7 @@
    "firstSeen": "2026-11-17T09:47:45.889Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -62687,9 +63159,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XTUdkNUVUMnBOYWp5aGtjMExIX0pIQXdNS1VwVTY5MXczME9CVDlqWjZnMS1XdzNkWHRHSnNudFJaUUNrZVBOUVlYNTFCUDVoeGRSd19VUQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -65484,7 +65956,7 @@
    "firstSeen": "2026-11-17T06:48:05.299Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -65504,9 +65976,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DUG95VzUzS1NzSjNkMWNrV1d5YWhYOWJTMGd1Q0xDd1lHQjctX1lIN0REXzJqSWVyOXF5VHFIcVJNaEVpa1V4ZWdsWU42ajc0cjFnUWhkeTl2UQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -188831,503 +189303,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/745/G074550/20261022016/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switchのゲームカード用ROMサプライヤーがROM生産を段階的に終了、物理メディア業界にさらなる打撃",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CajZmZV90b0dlb0wwdk1SSW9IbzVDWUItT09UWmhSNHJFUUR6dXduWlFLMEVyVjZfMG1lMWtwRmZmeXdGd09GUjlzUFdqbzNWa2stam5fcEs1QW1EQ252Rk5WVWJSOEtvMEV5aEh3?oc=5",
-   "pubDate": "2026-11-05T12:00:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "au Webポータル",
-   "sourceId": "gnews-switch2",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CajZmZV90b0dlb0wwdk1SSW9IbzVDWUItT09UWmhSNHJFUUR6dXduWlFLMEVyVjZfMG1lMWtwRmZmeXdGd09GUjlzUFdqbzNWa2stam5fcEs1QW1EQ252Rk5WVWJSOEtvMEV5aEh3?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "液晶タッチ画面搭載のSwitch・PC対応コントローラー、スマイルセールで2万1800円【任天堂ライセンス取得】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vZ2RUc2hDVnc0QVl4ZUI2VC1xYlJsU3Jvckp3ODhQdXd4ZS15UFRxUFFfNWdVQjJpSHl3T2hweGtRNktTMlJQbXZxTXpuaDBGYzdjTA?oc=5",
-   "pubDate": "2026-11-05T12:00:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "ASCII.jp",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vZ2RUc2hDVnc0QVl4ZUI2VC1xYlJsU3Jvckp3ODhQdXd4ZS15UFRxUFFfNWdVQjJpSHl3T2hweGtRNktTMlJQbXZxTXpuaDBGYzdjTA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "週刊アスキー",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uYzRkYkFUdWZTOExZYXdGR1MwdzhOaEdXcFlRMm5UckFadG9lNUl5TFRiUlFVTUJQcXY0TGRfNkdVbXdVR3RSYUtOVjIxdFhQb1hzNUhGbE83cHUwYlE?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9neDlyOElmYXBEX1QxMDJrbXA3T1IxZjBHRjdZOXVzc29BNlFYbkJZWGJRWVZjWUZjdEFDbS1WbjJrY1FMbWRNNFRfWFpJbGpKcWh3RVo3bkRpNExQQUpERkdB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『俺だけレベルアップな件：ARISE OVERDRIVE』PS5/Xbox版が発売！【俺アラOD】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wXzdxMnFHYTYtUEtNb2Z6YVVFMW1kLV9UZDhEMU13b1oxNVdoOG5rRVhZaUVZeHJNMWx2UDVPazdfTFQxajFSd2ZNbWR6VlFnRFBCS0xnUVR5UQ?oc=5",
-   "pubDate": "2026-11-05T12:00:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "俺だけレベルアップな件:ARISE OVERDRIVE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wXzdxMnFHYTYtUEtNb2Z6YVVFMW1kLV9UZDhEMU13b1oxNVdoOG5rRVhZaUVZeHJNMWx2UDVPazdfTFQxajFSd2ZNbWR6VlFnRFBCS0xnUVR5UQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
-   "summary": "Nintendo's latest financial earnings report is here, revealing healthy software sales thanks to the enormously popular Tomodachi Life: Livin…",
-   "link": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-   "pubDate": "2026-11-05T11:56:40.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": "https://assetsio.gnwcdn.com/Switch-2-tabletop-mode.png?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "hardware",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom"
-    }
-   ]
-  },
-  {
-   "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
-   "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
-   "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-   "pubDate": "2026-11-05T11:53:38.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/FaDrpfsLEeJM5HDQzSuqLG-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/"
-    }
-   ]
-  },
-  {
-   "title": "ソニー、サードパーティタイトルの販売増加を見込み通期予想を上方修正―ゲーム・映画事業が大幅増益。グループ全体の営業利益45％増",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/05/174532.html",
-   "pubDate": "2026-11-05T11:50:02.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/05/174532.html"
-    }
-   ]
-  },
-  {
-   "title": "『DAMON and BABY: RISE OF THE ORACLE』パッケージ版が2月18日発売！ 追加ストーリー「RISE OF THE ORACLE」収録",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6VzhxQ0FrQmJyTGtfZFVTbFM3bUxXNlhTX0FkVHB2STZLR0UwV19lYkh2ZUFlaVJVUjJlOGJjUEI3dnhpdE1EMWlnWXJtLWNnTGJHb1FTbW52UTZ2dzhPLQ?oc=5",
-   "pubDate": "2026-11-05T11:43:55.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "DAMON and BABY: RISE OF THE ORACLE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6VzhxQ0FrQmJyTGtfZFVTbFM3bUxXNlhTX0FkVHB2STZLR0UwV19lYkh2ZUFlaVJVUjJlOGJjUEI3dnhpdE1EMWlnWXJtLWNnTGJHb1FTbW52UTZ2dzhPLQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "「セガNET麻雀 MJ」，公式オフイベントを12月26日にセガ本社で開催",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/226/G022696/20261105058/",
-   "pubDate": "2026-11-05T11:43:22.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/226/G022696/20261105058/"
-    }
-   ]
-  },
-  {
-   "title": "「トロッコ問題」で“命の選択”を迫られるゲーム『Trolley Dilemma』がSteamにて配信開始。なぜかボスバトルもある",
-   "summary": "30人以上のサブキャラクターが登場し、誰を救うかによって物語が分岐。あなたは誰を信じ、誰を裏切り、“何者”になるのか",
-   "link": "https://news.denfaminicogamer.jp/news/2611052w",
-   "pubDate": "2026-11-05T11:42:50.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_af88020ee38d5e97d0a9794a96fe9d93b6a841bd.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 19,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Trolley Dilemma"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611052w"
-    }
-   ]
-  },
-  {
-   "title": "How to complete The Great Outdoors in WoW: Forever",
-   "summary": "Plus a possible bug fix if you're stuck.",
-   "link": "https://www.pcgamer.com/games/world-of-warcraft/forever-the-great-outdoors-sit-campfire/",
-   "pubDate": "2026-11-05T11:40:38.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/zVo4EzXrvTnLDtWV3T2RzB-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/world-of-warcraft/forever-the-great-outdoors-sit-campfire/"
-    }
-   ]
-  },
-  {
-   "title": "スクエニ作品が11月20日まで大幅割引きのセール中。『FF』『ドラクエ』『ロマサガ』などの人気シリーズ作が最大87％オフで手に入る！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEY3ltcDlkWGtEQTRZVGtGNm1LQ2JYNUgxS19LWVA5ZkdSVUp1QmVDVHFkUTJKUEpMVlgxRU5rci1UM05KM1lHQnZJNnV2Rlhza3I1YXJ5TnpUZw?oc=5",
-   "pubDate": "2026-11-05T11:39:00.000Z",
-   "firstSeen": "2026-11-05T12:47:37.410Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 87,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "FF",
-    "ドラクエ",
-    "ロマサガ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEY3ltcDlkWGtEQTRZVGtGNm1LQ2JYNUgxS19LWVA5ZkdSVUp1QmVDVHFkUTJKUEpMVlgxRU5rci1UM05KM1lHQnZJNnV2Rlhza3I1YXJ5TnpUZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Oh hell yes: Pillars of Eternity 1 and 2 are getting full-fat gamepad support and you can try it right now",
-   "summary": "This is an absolutely massive day for PC Gamer writers called Joshua Wolens.",
-   "link": "https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now/",
-   "pubDate": "2026-11-05T11:37:51.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/jPJM6uVdrZYLPXgnGtgQph-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now/"
-    }
-   ]
-  },
-  {
-   "title": "ロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブームに。世界救えるか心配",
-   "summary": "ロバートの山本博氏による『ファイアーエムブレム 万紫千紅』の実況プレイが、悲愴感に溢れていると話題になっている。",
-   "link": "https://automaton-media.com/articles/newsjp/20261105-477811/",
-   "pubDate": "2026-11-05T11:36:09.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477811-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ファイアーエムブレム 万紫千紅"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261105-477811/"
-    }
-   ]
-  },
-  {
-   "title": "『DAMON and BABY: RISE OF THE ORACLE』パッケージ版が2027年2月18日発売！ Switch 2版も決定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcV9XVFhzUUhvRW9hVF91TmxwVVVZQmNEME1tbVp2eWNKQ3M0eERveVVKcEI2NEZMa1EyeE05Sm1TaDBJZ0llSVIySkV3LTFnbkJ3bWFIX0ZSRWt3R0R1ZA?oc=5",
-   "pubDate": "2026-11-05T11:33:54.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "DAMON and BABY: RISE OF THE ORACLE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcV9XVFhzUUhvRW9hVF91TmxwVVVZQmNEME1tbVp2eWNKQ3M0eERveVVKcEI2NEZMa1EyeE05Sm1TaDBJZ0llSVIySkV3LTFnbkJ3bWFIX0ZSRWt3R0R1ZA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『ガルクラ』×『楽園追放』歴代JKビジュアルでまさかのコラボ。『雑踏、僕らの街』を使ったコラボPVも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUnA0OXhyNTFQWVVUN0JYSjZZS09Sby15c0NsUm9kZmNJZjN1VDhPT0J5ZWtrbVE3MDBTaGFBOVRDUzc5MzNFSTVPZnFrOE9JbWNMM0Njd1dFUQ?oc=5",
-   "pubDate": "2026-11-05T11:33:00.000Z",
-   "firstSeen": "2026-11-05T16:47:37.369Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trailer",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ガルクラ",
-    "楽園追放",
-    "雑踏、僕らの街"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUnA0OXhyNTFQWVVUN0JYSjZZS09Sby15c0NsUm9kZmNJZjN1VDhPT0J5ZWtrbVE3MDBTaGFBOVRDUzc5MzNFSTVPZnFrOE9JbWNMM0Njd1dFUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "「ソニックレーシング クロスワールド」，The k4senやオートバックスとのコラボステッカーが登場",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/882/G088214/20261105056/",
-   "pubDate": "2026-11-05T11:32:53.000Z",
-   "firstSeen": "2026-11-05T11:47:34.205Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/882/G088214/20261105056/"
     }
    ]
   }
