@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-22T02:47:54.171Z",
+ "generatedAt": "2026-11-22T03:47:46.813Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1339,
-  "syndicated": 64,
-  "similar": 374,
-  "syndicatedTotal": 422,
+  "exact": 1332,
+  "syndicated": 63,
+  "similar": 365,
+  "syndicatedTotal": 421,
   "syndicatedLeft": 33
  },
  "calendar": [
@@ -21,25 +21,6 @@
    "sources": 2,
    "categories": [],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": "ゼルダの伝説 時のオカリナ",
-   "title": "【11月発売Switch/Switch2新作ゲーム】『ゼルダの伝説 時のオカリナ』『メタファー：リファンタジオ』 『ピクミン4』など最新作を紹介！",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jZmpwM092SWt3Z3pOa1hsTDJmVjloNFZDTTNsQ0cwRkFhaHJTZEVLY29IYVZuWnRnWUZtQlhPcTZQTk8xUWdqTTdyVlJ1d0xlLXA2R3AzRQ?oc=5",
-   "source": "ファミ通",
-   "sources": 2,
-   "categories": [
-    "new"
-   ],
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
    "spoiler": false
   },
   {
@@ -1300,22 +1281,6 @@
    "sources": 1,
    "categories": [
     "event",
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-11",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "エーペックス・レジェンズ",
-   "title": "『エーペックス・レジェンズ』×『ゴジラ』コラボが11月11日より開催。歴代怪獣などをモチーフにしたスキン10種が登場",
-   "link": "https://news.denfaminicogamer.jp/news/261106e",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
     "collab"
    ],
    "platforms": [],
@@ -8454,20 +8419,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-09",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "ぽこ あ ポケモン",
-   "title": "『ぽこ あ ポケモン』エキスパンションパス第2弾「どきどきデコレーション」が12月9日配信！ アクセサリーが登場",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QTEpIc0tkbC1Md05BODh1YW1BWFZkVkJ1d09vOHdQb1pRMkNzT0lybk5CMmlRdGRVM1hCa1k4VUJDSlJ0MFdqSDlxREVkU0Itek9VbXRORDN5SlplNXZWNQ?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-10",
    "precision": "day",
    "verb": "release",
@@ -10829,8 +10780,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 943,
-   "accepted": 914
+   "archived": 941,
+   "accepted": 912
   },
   {
    "id": "4gamer-sp",
@@ -10851,8 +10802,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 554,
-   "accepted": 547
+   "archived": 551,
+   "accepted": 544
   },
   {
    "id": "denfaminico",
@@ -10862,8 +10813,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1171,
-   "accepted": 1049
+   "archived": 1164,
+   "accepted": 1043
   },
   {
    "id": "gamewatch",
@@ -10873,8 +10824,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 632,
-   "accepted": 602
+   "archived": 627,
+   "accepted": 597
   },
   {
    "id": "gamespark",
@@ -10884,8 +10835,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1198,
-   "accepted": 1180
+   "archived": 1193,
+   "accepted": 1175
   },
   {
    "id": "inside-games",
@@ -10895,8 +10846,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1722,
-   "accepted": 1330
+   "archived": 1718,
+   "accepted": 1328
   },
   {
    "id": "ps-blog",
@@ -10939,8 +10890,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 610,
-   "accepted": 478
+   "archived": 604,
+   "accepted": 471
   },
   {
    "id": "gnews-dengeki",
@@ -10950,8 +10901,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 622,
-   "accepted": 367
+   "archived": 619,
+   "accepted": 362
   },
   {
    "id": "gnews-newgame",
@@ -10960,9 +10911,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 83,
-   "archived": 596,
-   "accepted": 546
+   "fetched": 81,
+   "archived": 595,
+   "accepted": 545
   },
   {
    "id": "gnews-switch2",
@@ -10972,8 +10923,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1447,
-   "accepted": 1250
+   "archived": 1433,
+   "accepted": 1240
   },
   {
    "id": "gnews-ps5",
@@ -10983,8 +10934,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 747,
-   "accepted": 678
+   "archived": 745,
+   "accepted": 677
   },
   {
    "id": "gnews-update",
@@ -10993,7 +10944,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 70,
+   "fetched": 71,
    "archived": 412,
    "accepted": 326
   },
@@ -11005,8 +10956,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25992,
-   "accepted": 421
+   "archived": 25844,
+   "accepted": 416
   },
   {
    "id": "gematsu",
@@ -11016,8 +10967,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 290,
-   "accepted": 290
+   "archived": 289,
+   "accepted": 289
   },
   {
    "id": "ign",
@@ -11060,8 +11011,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 348,
-   "accepted": 348
+   "archived": 347,
+   "accepted": 347
   },
   {
    "id": "pcgamer",
@@ -11071,11 +11022,290 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 641,
-   "accepted": 641
+   "archived": 642,
+   "accepted": 642
   }
  ],
  "items": [
+  {
+   "title": "爆弾を置いて森を拓き，集めた素材を守護者に捧げる。スラヴ神話の森を舞台にした「BABA YAGA: Whispers of the BOOM」［WePlay2026］",
+   "summary": "VioletSunStudioが開発しているPC向けの「BABAYAGA:WhispersoftheBOOM」は，地面に爆弾を置いて敵や障害物を吹き飛ばすアクションアドベンチャーだ。舞台はスラヴ神話をもとにした森。中国・上海で開催されているWePlayExpo2026の会場で，1…",
+   "link": "https://www.4gamer.net/games/060/G106039/20261122009/",
+   "pubDate": "2026-11-22T03:46:46.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/060/G106039/20261122009/"
+    }
+   ]
+  },
+  {
+   "title": "「FINAL FANTASY VII」のリメイクは，新たな時代に向けてどのように再構築されたか。北瀬佳範氏が韓国で講演［G-STAR 2026］",
+   "summary": "韓国で開催されたG-STAR2026にて，「FINALFANTASYVII」リメイクシリーズについての講演が行われた。原作でディレクター，リメイクでプロデューサーとして携わる北瀬佳範氏が，「新たな時代に向けて『FINALFANTASYVII』はどのように再構築されたか」をテーマに…",
+   "link": "https://www.4gamer.net/games/991/G999110/20261122008/",
+   "pubDate": "2026-11-22T03:46:20.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/991/G999110/20261122008/"
+    }
+   ]
+  },
+  {
+   "title": "eスポーツチーム「REJECT」VALORANT部門、新体制で『2027 VCT Pacific Kickoff Japan Qualifier』に出場",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000686.000050979.html",
+   "pubDate": "2026-11-22T03:41:56.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "2027 VCT Pacific Kickoff Japan Qualifier"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000686.000050979.html"
+    }
+   ]
+  },
+  {
+   "title": "「夫婦の日」に2人で遊びたい協力プレイゲーム5選！『It Takes Two』や『違う冬のぼくら』など一緒に遊べば楽しさ倍増【特集】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/22/191403.html",
+   "pubDate": "2026-11-22T03:15:03.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "It Takes Two",
+    "違う冬のぼくら"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/22/191403.html"
+    }
+   ]
+  },
+  {
+   "title": "韓国ゲームショウのインディーアワード「G-STAR Indie Awards」全5部門，受賞15タイトルを紹介［G-STAR 2026］",
+   "summary": "G-STAR2026の会場で行われた「G-STARIndieAwards」の模様をお届けする。2年連続でDiscordが公式スポンサーを務めた今回は，全5部門が「presentedbyDiscord」として表彰され，日本勢や欧州勢を含む計15作品が選ばれた。",
+   "link": "https://www.4gamer.net/games/991/G999110/20261122005/",
+   "pubDate": "2026-11-22T03:13:09.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/991/G999110/20261122005/"
+    }
+   ]
+  },
+  {
+   "title": "声を出せば，おばあちゃんが襲ってくる。屋敷に忍び込んだアヒルの宇宙人が部品を盗み出す協力型ホラー「QUIET」［WePlay2026］",
+   "summary": "中国・上海で開催されているWePlay2026の会場で，LINEGamesが開発中の「QUIET」を見せてもらった。本作は，地球に不時着したアヒルの宇宙人たちが，おばあちゃんの屋敷から宇宙船の修理に必要な部品を盗み出す協力型ホラーゲームだ。足音や物音はもちろん，マイクに向かって話…",
+   "link": "https://www.4gamer.net/games/002/G100220/20261122007/",
+   "pubDate": "2026-11-22T03:08:39.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/002/G100220/20261122007/"
+    }
+   ]
+  },
+  {
+   "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+   "summary": "Her book's being written by award-winning author Tasha Suri.",
+   "link": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+   "pubDate": "2026-11-22T03:03:45.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/ZzLc6TsxfGskr3J8FoCT7G-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/"
+    }
+   ]
+  },
+  {
+   "title": "「リナちが■■な人を リナちの世界から■■いく」。伏せられた言葉が2周目で明らかになる「ひとりあそび」を試遊し，不穏な物語の着想を開発者に聞いた［WePlay2026］",
+   "summary": "中国・上海で開催中の「WePlay2026」で，デッキ構築型ローグライク×3Dボードゲーム「ひとりあそび」を試遊した。少女「リナち」がぬいぐるみの友達「ポコ」に誘われ，おもちゃの兵隊を盤上で戦わせるのだが，ポコの説明は肝心なところが「■■」で伏せられている。会場では，本作のプロデ…",
+   "link": "https://www.4gamer.net/games/979/G097959/20261122004/",
+   "pubDate": "2026-11-22T03:00:08.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "demo",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/979/G097959/20261122004/"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】白い肌と吸い込まれそうな美しい瞳に魅入られる！「杖と剣のウィストリア」美女レイヤーはドレスから覗く美脚も必見【写真8枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/22/191402.html",
+   "pubDate": "2026-11-22T03:00:03.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/22/191402.html"
+    }
+   ]
+  },
+  {
+   "title": "六道輪廻を題材としたハック＆スラッシュ「TARAE: The Unbound」。試遊初公開の「Warfiend」は，拳で攻め続ける近接クラス［G-STAR 2026］",
+   "summary": "KRAFTONは，韓国で開催中のゲームイベント「G-STAR2026」に，「TARAE:TheUnbound」を出展している。本作は，仏教の六道輪廻をもとにした世界で，妖怪や亡者の群れをなぎ倒すハック＆スラッシュ型のアクションRPGだ。新クラス「Warfiend」は，今回初めて試…",
+   "link": "https://www.4gamer.net/games/030/G103083/20261122006/",
+   "pubDate": "2026-11-22T02:58:42.000Z",
+   "firstSeen": "2026-11-22T03:47:34.707Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "demo",
+    "event"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/030/G103083/20261122006/"
+    }
+   ]
+  },
   {
    "title": "「ちいかわ」が便利なトートバッグに！「ちいかわクリニック」デザインの全5種、A4サイズがぴったり入る大きさ",
    "summary": "",
@@ -22893,7 +23123,7 @@
    "firstSeen": "2026-11-20T15:47:36.468Z",
    "image": null,
    "source": "GameWith",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -22913,9 +23143,9 @@
    "sources": [
     {
      "name": "GameWith",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwYmlKX3JZUHZReUJkYllfeEg3U0JoNzZNaV81N0RKTUJ2UlAyNGU4OVFaQTNyTFppaVRrZjFZWDREdi10UVEwSFpkakxUa1lmUFZ1bVdXbWJ4QQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -69684,7 +69914,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 24,
+   "score": 20,
    "categories": [
     "release",
     "update"
@@ -152775,6 +153005,36 @@
    ]
   },
   {
+   "title": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+   "summary": "Update: It's apparently been patched in the latest update. : Nintendo appears to have removed the programming software SmileBASIC 4 from the…",
+   "link": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit",
+   "pubDate": "2026-11-10T02:00:00.000Z",
+   "firstSeen": "2026-11-10T05:47:33.497Z",
+   "image": "https://images.nintendolife.com/6888cfa4ddfb2/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit"
+    }
+   ]
+  },
+  {
    "title": "11月10日発売！『テーブルゲーム・ワールド CCFOLIA for Nintendo Switch 2』がNintendo eShopで配信開始",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jdXBTVkJxMTVZZHoyeEJPN3labjF6WHMweldKMXphLThWY3A4SjZCVmYxXzJ1cWlncDlwTlpneGNRMWxaRndkTGliSk5QZ2ZuTV9Lam1lXy03Wmc?oc=5",
@@ -169275,43 +169535,6 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5wMktNcU5kU2hwY1hXMC1ONnVuRVUxS0dzZlJpMnJiczlyQS13X0FtS3VUaVZxVHNkLUJtejJQTmhyam53?oc=5",
      "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "【最大72％OFF】KONAMIブラックフライデーセール実施中！『サイレントヒル』最新作が初セール＆『MGSΔ』も対象",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoOUZHOUF2OEY1eUZHbHRzbDZqMzNmNzQ4TnZ6ZUpuQnliRmJhTHFiX0hpT1h4Mi1semRJRVM5Tm1nMENlTnJrd043X21QN3YxV3NXcDNVU3pIQQ?oc=5",
-   "pubDate": "2026-11-08T07:21:00.000Z",
-   "firstSeen": "2026-11-09T06:47:33.390Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 72,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "サイレントヒル",
-    "MGSΔ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoOUZHOUF2OEY1eUZHbHRzbDZqMzNmNzQ4TnZ6ZUpuQnliRmJhTHFiX0hpT1h4Mi1semRJRVM5Tm1nMENlTnJrd043X21QN3YxV3NXcDNVU3pIQQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -189075,318 +189298,6 @@
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDSWxkLUtpdFJ0SlA4dFktX09JZVNMdlhsU3FzcDVXMmlnVjBRTDBPT3lXTmlGZmZRQ0NBaWtZekZqWEEwUVNjaXcyVzNhS1NzUWdLeDR6OXJaNVdHdzlxS2ZfOA?oc=5",
      "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "【11月発売Switch/Switch2新作ゲーム】『ゼルダの伝説 時のオカリナ』『メタファー：リファンタジオ』 『ピクミン4』など最新作を紹介！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jZmpwM092SWt3Z3pOa1hsTDJmVjloNFZDTTNsQ0cwRkFhaHJTZEVLY29IYVZuWnRnWUZtQlhPcTZQTk8xUWdqTTdyVlJ1d0xlLXA2R3AzRQ?oc=5",
-   "pubDate": "2026-11-05T23:00:00.000Z",
-   "firstSeen": "2026-11-05T23:47:32.721Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [
-    "ゼルダの伝説 時のオカリナ",
-    "メタファー:リファンタジオ",
-    "ピクミン4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jZmpwM092SWt3Z3pOa1hsTDJmVjloNFZDTTNsQ0cwRkFhaHJTZEVLY29IYVZuWnRnWUZtQlhPcTZQTk8xUWdqTTdyVlJ1d0xlLXA2R3AzRQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    },
-    {
-     "name": "ファミ通.com（Yahoo!ニュース）",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTanFQd2xFWkxpZThkVnhMR3BralhiNzVIRXRUZ2Q2TmMwZHEwWFNha3JxY2UtN2djbkJLVVlLVzBYbUx6Z0J6ZVctWTBrSGxveDJBV3pKczlCay1CWlhjTlpmUUk1QTBBYkpndUlYQVU0anpYdS1GTm1qRUJJVE0?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『ウルティマ』や『テーマホスピタル』など、EAの名作25タイトルのPC版が配信開始。『ウィングコマンダー』シリーズは実写映像のリマスターも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fV1pVYTFpOWh3c2JqYmtUelZkYXpSWXVLNnJuUmF4UUdaYXZuY0FOc3QtRjFDZ3V6bTNxZ3Q2RElnWTdqS0xpTGtmMGJxYUFlcEptNy1IWQ?oc=5",
-   "pubDate": "2026-11-05T23:00:00.000Z",
-   "firstSeen": "2026-11-06T03:47:32.125Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "release",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ウルティマ",
-    "テーマホスピタル",
-    "ウィングコマンダー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fV1pVYTFpOWh3c2JqYmtUelZkYXpSWXVLNnJuUmF4UUdaYXZuY0FOc3QtRjFDZ3V6bTNxZ3Q2RElnWTdqS0xpTGtmMGJxYUFlcEptNy1IWQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Bill Skarsgård Explains Why Starring in Hideo Kojima’s Physint Is a ‘Big Deal’ for Him",
-   "summary": "Skarsgård opened up about Physint in a November 5 episode of Josh Horowitz’s Happy Sad Confused podcast, where he revealed that he’s a massi…",
-   "link": "https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
-   "pubDate": "2026-11-05T22:45:44.000Z",
-   "firstSeen": "2026-11-05T23:47:32.721Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/05/bill-skarsgard-on-hideo-kojima-physint-1793918620853.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him"
-    }
-   ]
-  },
-  {
-   "title": "Expand Your Home Gym With This Adjustable Weight Bench for Just $42 Shipped Ahead of Black Friday",
-   "summary": "Pair with free weights for maximum versatility.",
-   "link": "https://www.ign.com/articles/nicepeople-weight-bench-deal-november-2026",
-   "pubDate": "2026-11-05T22:40:00.000Z",
-   "firstSeen": "2026-11-05T23:47:32.721Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/05/nicepeopleweightbench-1793917522832.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nicepeople-weight-bench-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
-   "summary": "An updated version of the Xbox PC app available to Xbox Insiders loads up to 60% faster, and it's got some other nice improvements too.",
-   "link": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
-   "pubDate": "2026-11-05T22:32:22.000Z",
-   "firstSeen": "2026-11-05T22:47:38.013Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/sJW4PwmHa8qeKCbWo57MJ8-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/"
-    }
-   ]
-  },
-  {
-   "title": "61種類の何かが発生するホラーゲーム『異変車道』リリース。「群○県」の見覚えある峠道で異変探しドライブ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/06/174547.html",
-   "pubDate": "2026-11-05T22:30:03.000Z",
-   "firstSeen": "2026-11-05T22:47:38.013Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "異変車道"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/06/174547.html"
-    }
-   ]
-  },
-  {
-   "title": "『エーペックス・レジェンズ』×『ゴジラ』コラボが11月11日より開催。歴代怪獣などをモチーフにしたスキン10種が登場",
-   "summary": "「ワイルドカード」ではストームポイントにゴジラが襲来。倒すことはできず、攻撃をかいくぐりながら他部隊と戦っていく。背びれをかたどった格闘武器も実装",
-   "link": "https://news.denfaminicogamer.jp/news/261106e",
-   "pubDate": "2026-11-05T22:24:52.000Z",
-   "firstSeen": "2026-11-05T22:47:38.013Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ApexS31_Hopscotch_3840x2160-2-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "エーペックス・レジェンズ",
-    "ゴジラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261106e"
-    }
-   ]
-  },
-  {
-   "title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
-   "summary": "It's only been two weeks since we last heard Warren Spector sound off about EA's sudden decision to close BioWare, following the publisher's…",
-   "link": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-   "pubDate": "2026-11-05T22:20:18.000Z",
-   "firstSeen": "2026-11-05T22:47:38.013Z",
-   "image": "https://assetsio.gnwcdn.com/Thane-SHODAN.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability"
-    },
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/"
-    }
-   ]
-  },
-  {
-   "title": "ｃｏｌｙ、ディズニー新作ゲームがＡｐｐ Ｓｔｏｒｅ無料ゲームランキング１位を獲得 - https://kabu-ir.com/",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sc0xBRlNVSFFDNnMtRVdNRG1kSWtNOUl6d1FFUk1SWVBfay1NM0NuSFZhYzcwTjdxMHhMWU44M1ZHUXF4bXFrYm5PYnc2NGpoWk1TOA?oc=5",
-   "pubDate": "2026-11-05T22:13:26.000Z",
-   "firstSeen": "2026-11-05T22:47:38.013Z",
-   "image": null,
-   "source": "Googleニュース「新作ゲーム」",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new",
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「新作ゲーム」",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sc0xBRlNVSFFDNnMtRVdNRG1kSWtNOUl6d1FFUk1SWVBfay1NM0NuSFZhYzcwTjdxMHhMWU44M1ZHUXF4bXFrYm5PYnc2NGpoWk1TOA?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "『ぽこ あ ポケモン』エキスパンションパス第2弾「どきどきデコレーション」が12月9日配信！ アクセサリーが登場",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QTEpIc0tkbC1Md05BODh1YW1BWFZkVkJ1d09vOHdQb1pRMkNzT0lybk5CMmlRdGRVM1hCa1k4VUJDSlJ0MFdqSDlxREVkU0Itek9VbXRORDN5SlplNXZWNQ?oc=5",
-   "pubDate": "2026-11-05T22:13:05.000Z",
-   "firstSeen": "2026-11-06T11:34:26.809Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ぽこ あ ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QTEpIc0tkbC1Md05BODh1YW1BWFZkVkJ1d09vOHdQb1pRMkNzT0lybk5CMmlRdGRVM1hCa1k4VUJDSlJ0MFdqSDlxREVkU0Itek9VbXRORDN5SlplNXZWNQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   }
