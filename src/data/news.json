@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-22T09:47:56.911Z",
+ "generatedAt": "2026-11-22T10:47:54.414Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1319,
-  "syndicated": 61,
+  "exact": 1326,
+  "syndicated": 60,
   "similar": 358,
-  "syndicatedTotal": 417,
+  "syndicatedTotal": 416,
   "syndicatedLeft": 33
  },
  "calendar": [
@@ -6515,6 +6515,20 @@
   {
    "date": "2026-11-27",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "【ペルソナ30周年】FiFSイラスト展が11月27日より銀座で開催",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWY3F3SjBkdThBMUgzSkJ1OTEzUFN0V2F3TkRMUzRDQnBRTnMyNkpmZ2NROVBvR1hUNG1NM3FZWEJGd0VTaVhhcjd5dENRX0hRYzJnWVp1enZOdw?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-27",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -6986,14 +7000,13 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": "閃乱カグラ",
-   "title": "『閃乱カグラ』新作コマンドRPG『シノビ NEXUS -閃乱カグラ-』11月29日配信開始へ。新たなシノビ少女たちのハイパーシノビバトル、着せ替えやサウナでととのう“シノビスパ”も搭載",
-   "link": "https://automaton-media.com/articles/newsjp/20261121-480302/",
-   "source": "AUTOMATON",
-   "sources": 1,
+   "work": null,
+   "title": "「ウマ娘」公式番組「ぱかライブTV' #9」が11月29日に配信。ゲーム最新情報のほか，実馬を特集する「ぱか'トーク！」も",
+   "link": "https://www.4gamer.net/games/554/G055489/20261120051/",
+   "source": "4Gamer.net（スマホ）",
+   "sources": 2,
    "categories": [
-    "new",
-    "release"
+    "event"
    ],
    "platforms": [],
    "spoiler": false
@@ -7003,13 +7016,14 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
-   "work": null,
-   "title": "「ウマ娘」公式番組「ぱかライブTV' #9」が11月29日に配信。ゲーム最新情報のほか，実馬を特集する「ぱか'トーク！」も",
-   "link": "https://www.4gamer.net/games/554/G055489/20261120051/",
-   "source": "4Gamer.net（スマホ）",
+   "work": "閃乱カグラ",
+   "title": "『閃乱カグラ』新作コマンドRPG『シノビ NEXUS -閃乱カグラ-』11月29日配信開始へ。新たなシノビ少女たちのハイパーシノビバトル、着せ替えやサウナでととのう“シノビスパ”も搭載",
+   "link": "https://automaton-media.com/articles/newsjp/20261121-480302/",
+   "source": "AUTOMATON",
    "sources": 1,
    "categories": [
-    "event"
+    "new",
+    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -10779,8 +10793,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 930,
-   "accepted": 902
+   "archived": 923,
+   "accepted": 895
   },
   {
    "id": "4gamer-sp",
@@ -10790,8 +10804,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 215,
-   "accepted": 209
+   "archived": 213,
+   "accepted": 207
   },
   {
    "id": "automaton",
@@ -10801,8 +10815,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 551,
-   "accepted": 544
+   "archived": 549,
+   "accepted": 542
   },
   {
    "id": "denfaminico",
@@ -10834,8 +10848,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1178,
-   "accepted": 1160
+   "archived": 1176,
+   "accepted": 1158
   },
   {
    "id": "inside-games",
@@ -10845,8 +10859,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1693,
-   "accepted": 1305
+   "archived": 1690,
+   "accepted": 1303
   },
   {
    "id": "ps-blog",
@@ -10889,8 +10903,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 593,
-   "accepted": 463
+   "archived": 589,
+   "accepted": 459
   },
   {
    "id": "gnews-dengeki",
@@ -10901,7 +10915,7 @@
    "error": null,
    "fetched": 100,
    "archived": 617,
-   "accepted": 360
+   "accepted": 359
   },
   {
    "id": "gnews-newgame",
@@ -10910,9 +10924,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 81,
-   "archived": 584,
-   "accepted": 534
+   "fetched": 90,
+   "archived": 587,
+   "accepted": 537
   },
   {
    "id": "gnews-switch2",
@@ -10922,8 +10936,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1415,
-   "accepted": 1221
+   "archived": 1416,
+   "accepted": 1223
   },
   {
    "id": "gnews-ps5",
@@ -10933,8 +10947,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 740,
-   "accepted": 672
+   "archived": 741,
+   "accepted": 673
   },
   {
    "id": "gnews-update",
@@ -10943,9 +10957,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 71,
-   "archived": 403,
-   "accepted": 318
+   "fetched": 72,
+   "archived": 401,
+   "accepted": 317
   },
   {
    "id": "prtimes",
@@ -10955,7 +10969,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25514,
+   "archived": 25513,
    "accepted": 410
   },
   {
@@ -10988,8 +11002,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 313,
-   "accepted": 313
+   "archived": 314,
+   "accepted": 314
   },
   {
    "id": "gamespot",
@@ -11010,8 +11024,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 344,
-   "accepted": 344
+   "archived": 345,
+   "accepted": 345
   },
   {
    "id": "pcgamer",
@@ -11021,11 +11035,242 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 641,
-   "accepted": 641
+   "archived": 638,
+   "accepted": 638
   }
  ],
  "items": [
+  {
+   "title": "「コミック百合姫」多数のマンガを“9円”から購入できるKindleセールが実施中。『ささやくように恋を唄う』や『私の百合はお仕事です！』などが対象、お手軽に「百合」の沼へ沈もう",
+   "summary": "『ささやくように恋を唄う』や『私の百合はお仕事です！』は最初の数巻が破格の9円に。『ゆるゆり』のスピンオフ作や『わたてん』なども、半額以下の巻が多く必見",
+   "link": "https://news.denfaminicogamer.jp/news/261122c",
+   "pubDate": "2026-11-22T10:39:03.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/yuri-1024x728.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ささやくように恋を唄う",
+    "私の百合はお仕事です!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261122c"
+    }
+   ]
+  },
+  {
+   "title": "隔離区画からの脱出目指す2Dゾンビサバイバル『ZED ZONE』クラフトとカスタマイズが充実した、遊びやすく奥深い一本【クラフトサバイバル名鑑】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/22/175184.html",
+   "pubDate": "2026-11-22T10:30:03.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ZED ZONE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/22/175184.html"
+    }
+   ]
+  },
+  {
+   "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+   "summary": "In the decade or so since Grand Theft Auto Online's arrival, its roads have become a kind of home; well-loved by its racers, its gear heads,…",
+   "link": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+   "pubDate": "2026-11-22T10:00:10.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": "https://assetsio.gnwcdn.com/gta-week-last-drive-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride"
+    }
+   ]
+  },
+  {
+   "title": "“メスガキ”はラスボスに適正あり！癖つよタイトル『ワロタ、俺の家のとなり魔王城www』は育成、探索、クラフトに自動化と村づくりRPGとしても高い完成度【プレイレポ】",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/22/175183.html",
+   "pubDate": "2026-11-22T10:00:03.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ワロタ、俺の家のとなり魔王城www"
+   ],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/22/175183.html"
+    }
+   ]
+  },
+  {
+   "title": "『ゼルダの伝説 時のオカリナ』“操作の近代化”でさらに広がるハイラルーそれでも「Z注目システム」は大活躍！",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/22/191410.html",
+   "pubDate": "2026-11-22T10:00:03.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゼルダの伝説 時のオカリナ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/22/191410.html"
+    }
+   ]
+  },
+  {
+   "title": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?",
+   "summary": "One good, one Fawful? Ahoy folks, and welcome to another edition of Box Art Brawl! Looking back on last week, we checked out Dr. Mario & Puz…",
+   "link": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
+   "pubDate": "2026-11-22T10:00:00.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": "https://images.nintendolife.com/4446d81a931d1/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+   "summary": "Physical copies of Donkey Kong Bananza have received a $20 discount in Nintendo's Black Friday sale, bringing its price down to $49.99.",
+   "link": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
+   "pubDate": "2026-11-22T09:51:05.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/donkey-kong-bananza-deal-1795193226643.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal"
+    }
+   ]
+  },
+  {
+   "title": "【1700円→680円】キャンピングカーを自分好みにカスタマイズできるゲーム『Camper Van: Make it Home』の60%オフセールがSteamで開催中。犬や猫、イグアナといったペットを飼うことも可能",
+   "summary": "パズル感覚でインテリアや家具を配置し、荷物を整理して安らぎの空間を作る。犬や猫、イグアナといったペットを飼うことも可能",
+   "link": "https://news.denfaminicogamer.jp/news/261122e",
+   "pubDate": "2026-11-22T09:46:45.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_982c2e09720ea56baaa03a26a6d029e8adde9c45.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 60,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Camper Van: Make it Home"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261122e"
+    }
+   ]
+  },
   {
    "title": "『GTA6』は「善人プレイ」が楽しめるのも良い。『FFレゾナンス』グラフィックの美しさを考える会。『FM27』を初心者が遊んだら情報量がすごい。今週のゲーミング",
    "summary": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。571回目です。",
@@ -11053,6 +11298,34 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/ng-20261122-480387/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch 2 Gets First-Ever Official Black Friday Discount, Dropping Mario Kart World Bundle to $499",
+   "summary": "Nintendo's first official Switch 2 Black Friday deal is live for a limited time, bundling a flagship game and free bonus perks while undoing…",
+   "link": "https://www.ign.com/articles/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle",
+   "pubDate": "2026-11-22T09:31:35.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/22/switch-2-console-black-friday-deal-ign-blogroll-1795338745552.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 18,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle"
     }
    ]
   },
@@ -11292,6 +11565,33 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zWUlGR0hCQWs2YUZUX0lsSE4zYnhUSWZtVjVaYV9GNWlCMkg0X21fTXFlaThWMzVTRFRWM21qdTlJcmVjSUk4a2VpbHQxeU15T2NMUjNHNURSWDA?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "【ペルソナ30周年】FiFSイラスト展が11月27日より銀座で開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWY3F3SjBkdThBMUgzSkJ1OTEzUFN0V2F3TkRMUzRDQnBRTnMyNkpmZ2NROVBvR1hUNG1NM3FZWEJGd0VTaVhhcjd5dENRX0hRYzJnWVp1enZOdw?oc=5",
+   "pubDate": "2026-11-22T07:50:00.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWY3F3SjBkdThBMUgzSkJ1OTEzUFN0V2F3TkRMUzRDQnBRTnMyNkpmZ2NROVBvR1hUNG1NM3FZWEJGd0VTaVhhcjd5dENRX0hRYzJnWVp1enZOdw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -21669,6 +21969,12 @@
      "name": "4Gamer.net（スマホ）",
      "sourceId": "4gamer-sp",
      "link": "https://www.4gamer.net/games/784/G078489/20261120023/"
+    },
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12YU00ZHRybnk3ek9Da2MzS3NEM2dVM1BuYVdmYVpQbzN1UG54RjM2VW9wdzRDYVp0UV9iM3FNYkpOajN1eVYtUmgtT042UlpzTk5WdF9sQ0EyOFpZb3hoalZWYw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -21965,6 +22271,12 @@
      "name": "4Gamer.net（スマホ）",
      "sourceId": "4gamer-sp",
      "link": "https://www.4gamer.net/games/554/G055489/20261120051/"
+    },
+    {
+     "name": "4Gamer.net",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XSDZmN2xDM21JX1MwbUVVNThaQnd0V2U2S0tNYVJFOGpOd08wSWZ3ODk5UjBiUHBqREFHaWJYRW16WjRKSUJzN2hsUzhjVFRDRVdZUGZNVWYxdm9JV0xnSHB4bw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -24143,7 +24455,7 @@
    "firstSeen": "2026-11-20T15:47:36.468Z",
    "image": null,
    "source": "GameWith",
-   "sourceId": "gnews-newgame",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -24163,9 +24475,9 @@
    "sources": [
     {
      "name": "GameWith",
-     "sourceId": "gnews-newgame",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwYmlKX3JZUHZReUJkYllfeEg3U0JoNzZNaV81N0RKTUJ2UlAyNGU4OVFaQTNyTFppaVRrZjFZWDREdi10UVEwSFpkakxUa1lmUFZ1bVdXbWJ4QQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -30828,6 +31140,35 @@
      "name": "Gematsu",
      "sourceId": "gematsu",
      "link": "https://www.gematsu.com/2026/11/goodbye-seoul-launches-in-early-2027"
+    }
+   ]
+  },
+  {
+   "title": "『ORANGE GEAR ― OPARTS ZERO』のゲーム情報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01Q3E4b1c3czRKOUVBZ0JOVWR3LVJTQXB4X2VsNl92NWlaQjlPNE5uYTVabjl1N1puRS1aQ3pYeGhTTzFzanZr?oc=5",
+   "pubDate": "2026-11-20T01:15:56.000Z",
+   "firstSeen": "2026-11-22T10:47:33.217Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ORANGE GEAR ― OPARTS ZERO"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01Q3E4b1c3czRKOUVBZ0JOVWR3LVJTQXB4X2VsNl92NWlaQjlPNE5uYTVabjl1N1puRS1aQ3pYeGhTTzFzanZr?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
     }
    ]
   },
@@ -43213,7 +43554,7 @@
    "firstSeen": "2026-11-19T03:48:03.839Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -43235,9 +43576,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dTJHWE9YQ09iZEt0X1lTR3BUNUFMX3RKektNcGFnWjZ5SkNBTzR6Z3E4eXVEOEk1U3NQWUp6Mzl1N2gwcWs3ZmI4OVRpMEpaeDlmaHotcE9NUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -188909,368 +189250,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/06/190439.html"
-    }
-   ]
-  },
-  {
-   "title": "Steam版『ニーア オートマタ』アプデで必要容量“約366GB”になったと話題に―実際にインストールしてみると…。「原因は調査中」で回避方法もアナウンス",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/06/174555.html",
-   "pubDate": "2026-11-06T02:06:13.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ニーア オートマタ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/06/174555.html"
-    }
-   ]
-  },
-  {
-   "title": "「Stellar Blade コンプリートエディション」本日発売。「ベヨネッタ」との新コラボ衣装4種類も収録",
-   "summary": "SHIFTUPは本日，アクションアドベンチャー「StellarBladeコンプリートエディション」をSwitch2向けに発売した。「NieR:Automata」「勝利の女神：NIKKE」のコラボDLCに加え，新たに「ベヨネッタ」をイメージした衣装4種類を収録。Joy-Con2のモ…",
-   "link": "https://www.4gamer.net/games/035/G103535/20261106004/",
-   "pubDate": "2026-11-06T02:04:35.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "release",
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/035/G103535/20261106004/"
-    }
-   ]
-  },
-  {
-   "title": "オーストラリアが舞台のトラックシミュレーター『Truck World: Australia』アーリーアクセスを開始。運転席から降りて給油したり、トレーラーを連結したりと、運転以外の作業もできる",
-   "summary": "11月5日、HypeTrain Digital LTDは、Truck World Studioが開発する『Truck World: Australia』のアーリーアクセスを開始した。 同作は、オーストラリアを舞台にしたトラックシミュレーターだ。今回アーリーアクセス版がプレイ可能と…",
-   "link": "https://news.denfaminicogamer.jp/news/261106j",
-   "pubDate": "2026-11-06T02:04:11.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/truck-world-australia-hshyz-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Truck World: Australia"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261106j"
-    }
-   ]
-  },
-  {
-   "title": "PC版「XBOX」アプリが最大60％高速化。XBOX Insider Program向けにアップデートを提供開始様々な改善を実施",
-   "summary": "Microsoftは11月6日、PC版「XBOX」アプリのアップデートをXBOX Insider Program参加者向けに配信した。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2154210.html",
-   "pubDate": "2026-11-06T02:03:27.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "update",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox",
-    "pc",
-    "mobile"
-   ],
-   "works": [
-    "XBOX"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2154210.html"
-    }
-   ]
-  },
-  {
-   "title": "「ガンダム SEED FREEDOM」“博多にわか”のお面がモチーフ！老舗織元「サヌイ織物」コラボ小銭入れに、キラ・ヤマトなど全4種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/06/190438.html",
-   "pubDate": "2026-11-06T02:00:03.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/06/190438.html"
-    }
-   ]
-  },
-  {
-   "title": "【99円】『麻雀放浪記』『新ルパン三世』など双葉社から発刊の作品が「99円」で購入できるセール開催中！『うちのメイドがウザすぎる！』『奴隷区』『極道めし』など多数対象",
-   "summary": "『うちのメイドがウザすぎる！』や『奴隷区 僕と23人の奴隷』、『王様ゲーム』や『踏切時間』など多数対象",
-   "link": "https://news.denfaminicogamer.jp/news/261106l",
-   "pubDate": "2026-11-06T01:59:00.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/634eb775dc33f5ac4431bb31659056e9-1024x734.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": false
-   },
-   "platforms": [],
-   "works": [
-    "麻雀放浪記",
-    "新ルパン三世",
-    "うちのメイドがウザすぎる!",
-    "奴隷区",
-    "極道めし"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261106l"
-    }
-   ]
-  },
-  {
-   "title": "『ゴブリン・ノーム・ホーン』続編発表、今回は“横スクロール2Dアクション謎解き脱出ゲーム”に。川尻こだま「最高の脱出ゲーム作ってる」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UldsYi16d2xXWndXRWZMcG90clFKUkcyMmlxa0hpZGtBX1M2T1ZvTEV5TE1FM2gzd2d2UVBLZW1fUEpOZkZoSU5hblhpWVNTdVdoUHBwRQ?oc=5",
-   "pubDate": "2026-11-06T01:59:00.000Z",
-   "firstSeen": "2026-11-06T04:47:33.429Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゴブリン・ノーム・ホーン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UldsYi16d2xXWndXRWZMcG90clFKUkcyMmlxa0hpZGtBX1M2T1ZvTEV5TE1FM2gzd2d2UVBLZW1fUEpOZkZoSU5hblhpWVNTdVdoUHBwRQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "ウェスカー登場、バイオハザード: サバイバルユニット1周年アップデート実施",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mQV91ZUhRbkRNTnI3ei1tb1hpVEtKQmpJdHVlekJpR19abzBrU0t5SVZDMEhGMFFraFRqZ3JSWmNoOThGbFd0LUdhNVh6SFBKX1VwYThMTDNaZzdu?oc=5",
-   "pubDate": "2026-11-06T01:55:55.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "게임메카",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "게임메카",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mQV91ZUhRbkRNTnI3ei1tb1hpVEtKQmpJdHVlekJpR19abzBrU0t5SVZDMEhGMFFraFRqZ3JSWmNoOThGbFd0LUdhNVh6SFBKX1VwYThMTDNaZzdu?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "ベヨネッタコラボとともに、ステラブレイド Nintendo Switch 2版発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbFBRNXlJVFlWOHNHM3VXcFY0MFJNdkt3MTVCa0dXYVh1emVJaDQwZXFqTnA0dVJXaHR3UU05MW9ER1EyVFg1ZVFscmZVWktiWWdCSXBVXzhyaTky?oc=5",
-   "pubDate": "2026-11-06T01:53:17.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "게임메카",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "게임메카",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbFBRNXlJVFlWOHNHM3VXcFY0MFJNdkt3MTVCa0dXYVh1emVJaDQwZXFqTnA0dVJXaHR3UU05MW9ER1EyVFg1ZVFscmZVWktiWWdCSXBVXzhyaTky?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "任天堂、「スイッチ2」追加値上げを考えず 社長が決算会見で説明",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc3BqQ2QyT21VQXVhdkN1cHotdnNjSTBoQjh0MFJXQlpBNVBJZFRHWmtRNDhMbl9EQmQ1YjcxVzctYWNPOS1kZEh1eFlOZVBjc0E?oc=5",
-   "pubDate": "2026-11-06T01:52:00.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "CNET Japan",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "hardware",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CNET Japan",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc3BqQ2QyT21VQXVhdkN1cHotdnNjSTBoQjh0MFJXQlpBNVBJZFRHWmtRNDhMbl9EQmQ1YjcxVzctYWNPOS1kZEh1eFlOZVBjc0E?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "UQライフ",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFRyQTNUQld5Vk5NdDF6Q3JNT2xHM1N5ZTFPR3JVM1VGMnhTa21wU0M4eHRaa0VJZjJtTFQzb19JMGlSaFZBZktBV3pFODlLTTFBb0l3d1cyS09kV2lCZmxhVU5RZlI0d3R2OUVNZmJDOFpVVnBjSGtZVm5hdENPcw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmNFlKOFJmOW9RbkpPV0V5Qlk3VkR5UUF5bkttdnVUaFRfUUJPUVotX2hWVTAtcmVtaVVINUkzdi1VMy12LVVWY1lzc1lzRHZjWHo3MHlqTS1taEwyZVBBbHB3YVNyYk5KUnF4N3A1MkVzaWZwTEdkNmRLWnU2VWs?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『Wing Commander』『ロードラッシュ』などEAレトロ名作25個がPCに登場。FMVをマスターテープから復元したリマスター作品も―ユーザーModも取り入れ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/06/174554.html",
-   "pubDate": "2026-11-06T01:51:53.000Z",
-   "firstSeen": "2026-11-06T02:47:35.575Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Wing Commander",
-    "ロードラッシュ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/06/174554.html"
     }
    ]
   }
