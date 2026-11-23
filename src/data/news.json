@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-23T03:47:55.509Z",
+ "generatedAt": "2026-11-23T04:47:46.976Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1325,
+  "exact": 1326,
   "syndicated": 61,
   "similar": 360,
-  "syndicatedTotal": 418,
+  "syndicatedTotal": 419,
   "syndicatedLeft": 33
  },
  "calendar": [
@@ -2087,23 +2087,6 @@
    "source": "4Gamer.net",
    "sources": 1,
    "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-12",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "カオス★スマッシュ",
-   "title": "基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻めすぎ初コラボは11月12日開始",
-   "link": "https://automaton-media.com/articles/newsjp/20261106-477891/",
-   "source": "AUTOMATON",
-   "sources": 1,
-   "categories": [
-    "event",
     "collab"
    ],
    "platforms": [],
@@ -6219,6 +6202,22 @@
   {
    "date": "2026-11-26",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "Nintendo Switch Sports Resort",
+   "title": "『Nintendo Switch Sports Resort』の体験会が2026年11月26日より韓国で順次開催決定！",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBUm0yN0hDc0Z6YnpsMUhueE9WbTNKMzFGTG1MVXRLbW9DQmMwdTNBbzVrWnNQQTVYM1hic0dnUkpmU1hTQW41Q3pVMnZnSUpLNUtzZnBKSk5ReFA2QVo0Zk4xM2RqRzVXYjlaTGd0ejNiTG9NY0E?oc=5",
+   "source": "Nintendo Switch 情報ブログ",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-26",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -8045,22 +8044,6 @@
    "categories": [
     "new",
     "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-04",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "下北沢の商業空間「reload」で、ガチャピン・ムックと楽しむクリスマス。「reload YOUR LOVE」をテーマに、12月4日（金）より開催。",
-   "link": "https://prtimes.jp/main/html/rd/p/000000171.000074146.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "mobile"
    ],
    "platforms": [],
    "spoiler": false
@@ -10573,8 +10556,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 908,
-   "accepted": 881
+   "archived": 910,
+   "accepted": 883
   },
   {
    "id": "4gamer-sp",
@@ -10595,8 +10578,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 536,
-   "accepted": 529
+   "archived": 537,
+   "accepted": 530
   },
   {
    "id": "denfaminico",
@@ -10606,8 +10589,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1126,
-   "accepted": 1005
+   "archived": 1127,
+   "accepted": 1007
   },
   {
    "id": "gamewatch",
@@ -10628,8 +10611,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1157,
-   "accepted": 1139
+   "archived": 1158,
+   "accepted": 1140
   },
   {
    "id": "inside-games",
@@ -10639,8 +10622,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1686,
-   "accepted": 1299
+   "archived": 1687,
+   "accepted": 1300
   },
   {
    "id": "ps-blog",
@@ -10672,7 +10655,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 119,
+   "archived": 120,
    "accepted": 83
   },
   {
@@ -10683,7 +10666,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 587,
+   "archived": 588,
    "accepted": 455
   },
   {
@@ -10694,7 +10677,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 619,
+   "archived": 620,
    "accepted": 358
   },
   {
@@ -10704,7 +10687,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 78,
+   "fetched": 77,
    "archived": 601,
    "accepted": 551
   },
@@ -10716,8 +10699,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1406,
-   "accepted": 1211
+   "archived": 1408,
+   "accepted": 1213
   },
   {
    "id": "gnews-ps5",
@@ -10737,7 +10720,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 69,
+   "fetched": 70,
    "archived": 396,
    "accepted": 314
   },
@@ -10749,8 +10732,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25239,
-   "accepted": 404
+   "archived": 25225,
+   "accepted": 403
   },
   {
    "id": "gematsu",
@@ -10820,6 +10803,333 @@
   }
  ],
  "items": [
+  {
+   "title": "小惑星衝突まで6か月のソウルが舞台のアドベンチャーゲーム『Goodbye Seoul』新映像が公開。崩壊した街を探索し、人類最後の希望となる極秘の「宇宙避難計画」の痕跡をたどる",
+   "summary": "11月20日、NEOWIZは、JINO Gamesが開発する『Goodbye Seoul』の新映像を公開した。 同作は、小惑星衝突まであと6か月の、荒れ果てながらも美しいソウルを舞台にした、ナラティブ・パズル・アドベンチャーゲームだ。Steamで2027年初頭に発売予定で、日本語…",
+   "link": "https://news.denfaminicogamer.jp/news/261123e",
+   "pubDate": "2026-11-23T04:42:55.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_4191258bee78332ddd538dcd96530f1f276182a9.1920x1080-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Goodbye Seoul"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261123e"
+    }
+   ]
+  },
+  {
+   "title": "【99円】『湯けむりスナイパー』Kindleにて99円となるセール開催中！全16巻を1584円で揃えられる。殺し屋だった過去を隠し旅館で働く男と、そこを訪れる客の人間ドラマを描く",
+   "summary": "殺し屋だった過去を隠し旅館で働く男と、そこを訪れる客の人間ドラマを描くマンガ。TVドラマ版は俳優・遠藤憲一さん初の連ドラ主演作品",
+   "link": "https://news.denfaminicogamer.jp/news/261123i",
+   "pubDate": "2026-11-23T04:36:08.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/91nO5jNCq9L._SL1500_.avif",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "湯けむりスナイパー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261123i"
+    }
+   ]
+  },
+  {
+   "title": "猫を好きなだけ撫でられる『猫撫でシミュレーター』が無料公開。撫でている感覚がリアルで、手が止まらない",
+   "summary": "一心不乱に撫で回しても、優しく愛でてもいい。猫は13種類で、夜の部屋になるダークモードもある",
+   "link": "https://news.denfaminicogamer.jp/news/261123g",
+   "pubDate": "2026-11-23T04:35:36.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/83aacd8333bda091dc14d646ef16340e-1024x631.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "猫撫でシミュレーター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261123g"
+    }
+   ]
+  },
+  {
+   "title": "オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、本格海戦に“マンボウライド”、魔女や一般人と結婚すればどこでも抱き合える",
+   "summary": "10月30日に配信された「未知なる旅路」は、本編後のクリフ、ウンカ、デミアンそれぞれの新たな物語をはじめ、海を舞台にした依頼や、かつてのボスたちとの連戦に挑む「試練の庭園」などを追加する『紅の砂漠』初の大型DLCだ。",
+   "link": "https://automaton-media.com/articles/reportjp/20261123-480447/",
+   "pubDate": "2026-11-23T04:34:39.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480447-001.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 23,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "紅の砂漠"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/reportjp/20261123-480447/"
+    }
+   ]
+  },
+  {
+   "title": "青い絵の具は電気を通し，黄色い絵の具で高く跳ぶ。画家の夢の中を塗って進む一人称パズル「ドリームペインターズ」［WePlay2026］",
+   "summary": "中国・上海で11月21日と22日に開催されたインディーゲームイベント「WePlayExpo2026」で，ポーランドのStabilityGamesが，PC向けの一人称パズル「Dreampainters」を出展していた。色ごとに能力の違う絵の具を壁や床に塗り，画家の夢の中を進んでいく…",
+   "link": "https://www.4gamer.net/games/880/G088017/20261123006/",
+   "pubDate": "2026-11-23T04:33:22.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/880/G088017/20261123006/"
+    }
+   ]
+  },
+  {
+   "title": "「仮面ライダー」めじるしアクセサリーの“BESTセレクション”！「龍騎」カードデッキ、クリア素材の「W」ガイアメモリなど全10種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/23/191435.html",
+   "pubDate": "2026-11-23T04:30:03.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/23/191435.html"
+    }
+   ]
+  },
+  {
+   "title": "【G-STAR 2026】煉獄を旅する小さな天使とモチモチ変身する犬の冒険『ワルツとジャム』。『ゼルダの伝説』に憧れた開発者に聞く韓国発のインディーゲーム",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/23/175190.html",
+   "pubDate": "2026-11-23T04:30:02.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "indie",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ワルツとジャム",
+    "ゼルダの伝説"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/23/175190.html"
+    }
+   ]
+  },
+  {
+   "title": "プレイヤーが肉になって美味しく焼かれる「Steak Simulator: Medium Rare」，その醍醐味はマルチプレイにあり!?［WePlay2026］",
+   "summary": "中国のインディーゲームイベント「WePlayExpo2026」に，ParamoonStudioが開発中の新作「SteakSimulator:MediumRare」がプレイアブル出展されていた。コミカルな設定やクセのある操作感とともに，肉へのこだわりが感じられたプレイの様子をレポー…",
+   "link": "https://www.4gamer.net/games/048/G104827/20261123005/",
+   "pubDate": "2026-11-23T04:18:32.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "event",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/048/G104827/20261123005/"
+    }
+   ]
+  },
+  {
+   "title": "『Nintendo Switch Sports Resort』の体験会が2026年11月26日より韓国で順次開催決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBUm0yN0hDc0Z6YnpsMUhueE9WbTNKMzFGTG1MVXRLbW9DQmMwdTNBbzVrWnNQQTVYM1hic0dnUkpmU1hTQW41Q3pVMnZnSUpLNUtzZnBKSk5ReFA2QVo0Zk4xM2RqRzVXYjlaTGd0ejNiTG9NY0E?oc=5",
+   "pubDate": "2026-11-23T04:13:12.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": null,
+   "source": "Nintendo Switch 情報ブログ",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "Nintendo Switch Sports Resort"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Switch 情報ブログ",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBUm0yN0hDc0Z6YnpsMUhueE9WbTNKMzFGTG1MVXRLbW9DQmMwdTNBbzVrWnNQQTVYM1hic0dnUkpmU1hTQW41Q3pVMnZnSUpLNUtzZnBKSk5ReFA2QVo0Zk4xM2RqRzVXYjlaTGd0ejNiTG9NY0E?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "【G-STAR 2026】歯ごたえ自慢のインディー3本！RED BRICK HOUSEブースで『ボイドダイバー』『The Ashen OZ』『Lemegeton』を試遊",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/23/175189.html",
+   "pubDate": "2026-11-23T04:00:03.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "demo",
+    "indie"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ボイドダイバー",
+    "The Ashen OZ",
+    "Lemegeton"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/23/175189.html"
+    }
+   ]
+  },
+  {
+   "title": "『The Binding of Isaac』新実装の隠しモード、“BGMがAI生成”と発覚して批判殺到。生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に",
+   "summary": "「The Binding of Isaac: Repentance+」にて隠しモードに入ると流れるBGMがAI生成によるものだったとして、ユーザーから批判の声が殺到。すぐさま削除される事態となった。",
+   "link": "https://automaton-media.com/articles/newsjp/20261123-480440/",
+   "pubDate": "2026-11-23T03:55:27.000Z",
+   "firstSeen": "2026-11-23T04:47:35.261Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480440-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "The Binding of Isaac"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261123-480440/"
+    }
+   ]
+  },
   {
    "title": "ゼルダ版Nintendo Switch 2は転売ヤーに厳しい相場に。ヨドバシとJoshinで定価在庫、年明けも入荷か",
    "summary": "",
@@ -10999,6 +11309,13 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/23/191432.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース）",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByYndnNkt4X0ZkcVhiUmttRXpuZjFNb242QWtaMVpUMEFqS0dDX0kySE9XVHJ4dzJlSVNDQjVaN0hOWGkteThNRWJnNXU0ak5ybWhBVlpSRVB5Y0VkMXpCb1JIMzg1SGR0bmN6cmNxVmpIWFQ0dnNOdzN1cW5Ocjg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -188497,342 +188814,6 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/993/G099310/20261106016/"
-    }
-   ]
-  },
-  {
-   "title": "１ばんどうろが立体ジオラマ化！ ポケモンセンターオンラインで歴代シリーズの場所にフォーカスしたグッズが発売",
-   "summary": "ポケモンは、通販サイトのポケモンセンターオンラインにて新商品を11月12日10時に発売する。価格は2,750円より。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2154363.html",
-   "pubDate": "2026-11-06T06:03:24.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2154363.html"
-    }
-   ]
-  },
-  {
-   "title": "ローポリ3DメカACT『Vital Shell 2』発表！サバイバー系のカスタマイズロボACTから3Dアクションに進化。本格的なメカゲームであることを願っていた人向け",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/06/174565.html",
-   "pubDate": "2026-11-06T06:00:03.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Vital Shell 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/06/174565.html"
-    }
-   ]
-  },
-  {
-   "title": "「ゼルダ」４０周年記念のスイッチ２ 任天堂：時事ドットコム",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQXZmSE9VX1JCYXNmZkUwQy1Lb2xvYmh1enpQYlBhRXRObXB5dDdvekhDLTFRc1Y4WjZadTF5Z013MWxWNHJPSlRwbXFEWkhMaU40TnhMeWh6RkJ6b0M4UU96ZkdyOFgz?oc=5",
-   "pubDate": "2026-11-06T05:57:00.000Z",
-   "firstSeen": "2026-11-07T03:47:33.447Z",
-   "image": null,
-   "source": "時事ドットコム",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQXZmSE9VX1JCYXNmZkUwQy1Lb2xvYmh1enpQYlBhRXRObXB5dDdvekhDLTFRc1Y4WjZadTF5Z013MWxWNHJPSlRwbXFEWkhMaU40TnhMeWh6RkJ6b0M4UU96ZkdyOFgz?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "『ポケモン』歴代の“マップ”に注目したグッズがテンション上がる！BGM付きの「どうろオルゴール」、もりのようかんペーパークラフトなども",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/06/190454.html",
-   "pubDate": "2026-11-06T05:55:02.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/06/190454.html"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
-   "summary": "So, what's next? Nintendo is now fully committed to the movie business thanks to Super Mario and the upcoming live-action Zelda film, due ou…",
-   "link": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
-   "pubDate": "2026-11-06T05:55:00.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": "https://images.nintendolife.com/82a16b92906f9/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly"
-    }
-   ]
-  },
-  {
-   "title": "提案にスタンプを押して帝国を治める街づくりゲーム「スタンペラー」，Steamで発売。皇帝になった道化師として，承認か拒否かを決めよう",
-   "summary": "VsooGamesは11月5日，MoonMindStudioが開発したPCゲーム「スタンペラー」をSteamで発売した。本作は，提案にスタンプを押して帝国を治める街づくりゲームだ。プレイヤーは，皇帝になった異星人の道化師となり，提案を承認するか拒否するかを決めていく。帝国の崩壊を…",
-   "link": "https://www.4gamer.net/games/056/G105600/20261106017/",
-   "pubDate": "2026-11-06T05:48:18.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 21,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "スタンペラー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/056/G105600/20261106017/"
-    }
-   ]
-  },
-  {
-   "title": "基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻めすぎ初コラボは11月12日開始",
-   "summary": "ムーンラビットは11月5日、『カオス★スマッシュ』（以下、カオスマ）にて、北海道・北斗市の公式キャラクター「ずーしーほっきー」とのコラボイベントを11月12日より開催すると発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261106-477891/",
-   "pubDate": "2026-11-06T05:45:18.000Z",
-   "firstSeen": "2026-11-06T05:47:32.164Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477891-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "カオス★スマッシュ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261106-477891/"
-    }
-   ]
-  },
-  {
-   "title": "KONAMIの新筐体「jubeat U'nit」を体験！120FPS対応で見やすさアップ【AEPO2026】",
-   "summary": "コナミアーケードゲームスは、アーケード用リズムゲーム「jubeat U'nit」をプレイアブル出展している。今回こちらを体験したので、その模様をお送りする。展開時期、利用料金は未定。",
-   "link": "https://game.watch.impress.co.jp/docs/preview/2154336.html",
-   "pubDate": "2026-11-06T05:44:19.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/preview/2154336.html"
-    }
-   ]
-  },
-  {
-   "title": "Switch2版『Stellar Blade コンプリートエディション』本日発売。『ニーア』『NIKKE』『ベヨネッタ』のコラボDLCを全収録",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kUS1ZZkQ1YVMwdmxkVUdTemRTQTcxaFJXdHk1MElzMFNfRDk4bmgzd1M3WVVSMW55S3ZyaVM4dENyTy14VDRDX1J1dmdrQXlQZHNQb3A4N3hVZw?oc=5",
-   "pubDate": "2026-11-06T05:44:00.000Z",
-   "firstSeen": "2026-11-06T10:47:32.102Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release",
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "Stellar Blade コンプリートエディション",
-    "ニーア",
-    "NIKKE",
-    "ベヨネッタ",
-    "Stellar Blade",
-    "NieR"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kUS1ZZkQ1YVMwdmxkVUdTemRTQTcxaFJXdHk1MElzMFNfRDk4bmgzd1M3WVVSMW55S3ZyaVM4dENyTy14VDRDX1J1dmdrQXlQZHNQb3A4N3hVZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    },
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPdkhoZDRHeTdwcl82bTlaZHZxUXExNzFqZ1FWXzlsSDhCY2FJd3JwcXRtYlVPMHRjVkNYbkFOVFN4SVRJcHh4ZGJfZGVEQXQ2TThzTDdCWHU5QQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    },
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5wc1lWcGdEM0tvYjBoaGkxTWhBZkRFZGJEUEVWUHYwNDB1N3poWWVfY2N2WE1Wa1AwbjhiUWtRZXVzSFBU?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
-   "summary": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
-   "link": "https://www.ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
-   "pubDate": "2026-11-06T05:41:38.000Z",
-   "firstSeen": "2026-11-06T06:47:37.551Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/unityblogroll-1793943131268.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity"
-    }
-   ]
-  },
-  {
-   "title": "下北沢の商業空間「reload」で、ガチャピン・ムックと楽しむクリスマス。「reload YOUR LOVE」をテーマに、12月4日（金）より開催。",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000171.000074146.html",
-   "pubDate": "2026-11-06T05:40:47.000Z",
-   "firstSeen": "2026-11-06T05:47:32.164Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000171.000074146.html"
     }
    ]
   }
