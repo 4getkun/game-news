@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-24T00:47:59.321Z",
+ "generatedAt": "2026-11-24T01:47:52.530Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1334,
+  "exact": 1336,
   "syndicated": 61,
-  "similar": 366,
-  "syndicatedTotal": 425,
-  "syndicatedLeft": 31
+  "similar": 369,
+  "syndicatedTotal": 427,
+  "syndicatedLeft": 33
  },
  "calendar": [
   {
@@ -5784,6 +5784,20 @@
   {
    "date": "2026-11-25",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "しまむらで「リラックマ」モノクロデザインなアイテムが11月25日発売！バックやチャームのほか。カー用品もラインナップ",
+   "link": "https://www.inside-games.jp/article/2026/11/24/191448.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-25",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -7879,6 +7893,22 @@
    "sources": 1,
    "categories": [
     "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-07",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "ユニクロから「ハローキティ」新作UTが12月7日発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "link": "https://www.inside-games.jp/article/2026/11/24/191449.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "new"
    ],
    "platforms": [],
    "spoiler": false
@@ -10286,8 +10316,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 915,
-   "accepted": 888
+   "archived": 914,
+   "accepted": 887
   },
   {
    "id": "4gamer-sp",
@@ -10308,8 +10338,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 541,
-   "accepted": 534
+   "archived": 544,
+   "accepted": 537
   },
   {
    "id": "denfaminico",
@@ -10319,8 +10349,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1133,
-   "accepted": 1012
+   "archived": 1136,
+   "accepted": 1015
   },
   {
    "id": "gamewatch",
@@ -10330,8 +10360,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 606,
-   "accepted": 576
+   "archived": 608,
+   "accepted": 578
   },
   {
    "id": "gamespark",
@@ -10341,8 +10371,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1175,
-   "accepted": 1154
+   "archived": 1176,
+   "accepted": 1155
   },
   {
    "id": "inside-games",
@@ -10352,8 +10382,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1662,
-   "accepted": 1285
+   "archived": 1661,
+   "accepted": 1288
   },
   {
    "id": "ps-blog",
@@ -10396,7 +10426,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 600,
+   "archived": 601,
    "accepted": 464
   },
   {
@@ -10407,8 +10437,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 612,
-   "accepted": 356
+   "archived": 610,
+   "accepted": 355
   },
   {
    "id": "gnews-newgame",
@@ -10417,9 +10447,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 72,
-   "archived": 598,
-   "accepted": 548
+   "fetched": 100,
+   "archived": 602,
+   "accepted": 552
   },
   {
    "id": "gnews-switch2",
@@ -10429,8 +10459,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1415,
-   "accepted": 1221
+   "archived": 1420,
+   "accepted": 1225
   },
   {
    "id": "gnews-ps5",
@@ -10440,8 +10470,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 755,
-   "accepted": 686
+   "archived": 756,
+   "accepted": 687
   },
   {
    "id": "gnews-update",
@@ -10450,7 +10480,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 71,
+   "fetched": 100,
    "archived": 409,
    "accepted": 323
   },
@@ -10462,7 +10492,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25233,
+   "archived": 25306,
    "accepted": 399
   },
   {
@@ -10473,8 +10503,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 288,
-   "accepted": 288
+   "archived": 292,
+   "accepted": 292
   },
   {
    "id": "ign",
@@ -10484,8 +10514,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1244,
-   "accepted": 1244
+   "archived": 1247,
+   "accepted": 1247
   },
   {
    "id": "eurogamer",
@@ -10517,8 +10547,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 345,
-   "accepted": 345
+   "archived": 347,
+   "accepted": 347
   },
   {
    "id": "pcgamer",
@@ -10528,11 +10558,758 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 648,
-   "accepted": 648
+   "archived": 649,
+   "accepted": 649
   }
  ],
  "items": [
+  {
+   "title": "Final Fantasy VII Revelation Has Been Rated For Switch 2 By The ESRB",
+   "summary": "The third and final chapter arrives next April. One of the most anticipated games of 2027 is the final chapter in Square Enix's Final Fantas…",
+   "link": "https://www.nintendolife.com/news/2026/11/final-fantasy-vii-revelation-has-been-rated-for-switch-2-by-the-esrb",
+   "pubDate": "2026-11-24T02:00:00.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://images.nintendolife.com/94932e9dd3450/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/final-fantasy-vii-revelation-has-been-rated-for-switch-2-by-the-esrb"
+    }
+   ]
+  },
+  {
+   "title": "Attack on Titan 3 ‘Exploration Within the Walls’ gameplay",
+   "summary": "Publisher Koei Tecmo and developer Omega Force have released an eight-minute gameplay video for Attack …",
+   "link": "https://www.gematsu.com/2026/11/attack-on-titan-3-exploration-within-the-walls-gameplay",
+   "pubDate": "2026-11-24T01:46:16.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/AoT3-Gameplay_11-23-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/attack-on-titan-3-exploration-within-the-walls-gameplay"
+    }
+   ]
+  },
+  {
+   "title": "Nioh 3 DLC ‘Bloody Insurrection’ launches December 17; Complete Edition launches January 28, 2027 alongside Xbox Series version",
+   "summary": "Nioh 3 downloadable content “Bloody Insurrection” will launch on December 17, and a Nioh 3 …",
+   "link": "https://www.gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version",
+   "pubDate": "2026-11-24T01:41:52.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Nioh-3-DLC_11-23-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 18,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version"
+    }
+   ]
+  },
+  {
+   "title": "【ドラクエ】スライムダークのグッズがイオンスタイルオンラインで受注販売を実施ぬいぐるみクリーナーなどアイテムを複数ラインナップ",
+   "summary": "スクウェア・エニックスは、イオンの公式通販「イオンスタイルオンライン」にて「スライムダーク」の各種グッズについて受注を受け付けている。2027年4月頃に発送を予定し、受注期間は12月7日9時59分まで。価格は968円より。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2158590.html",
+   "pubDate": "2026-11-24T01:37:38.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2158590.html"
+    }
+   ]
+  },
+  {
+   "title": "Discord、「ゲーム中に大騒ぎした名場面を自動録画」する新機能発表、まずはNitro向けにテスト実装。“録っておけばよかった”がなくなりそう",
+   "summary": "Discord社は11月24日、コミュニケーションツールDiscordの「Auto Clips」機能を発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261124-480555/",
+   "pubDate": "2026-11-24T01:32:21.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480555-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261124-480555/"
+    }
+   ]
+  },
+  {
+   "title": "「ギルティ炭酸 NOPE」を買うと『ドラゴンクエストモンスターズ4』ボトルキャップが付いてくる！ファンからは喜びの反面「世知辛い」声も",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/24/191450.html",
+   "pubDate": "2026-11-24T01:30:03.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラクエモンスターズ4"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/24/191450.html"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+   "summary": "Wave Race: Blue Storm makes a splash. Nintendo's GameCube title Wave Race: Blue Storm has today made a splash on the Switch Online + Expansi…",
+   "link": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
+   "pubDate": "2026-11-24T01:30:00.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://images.nintendolife.com/306d83cc66c36/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week"
+    }
+   ]
+  },
+  {
+   "title": "「ニンテンドーゲームキューブ Nintendo Classics」向けに『ウェーブレース ブルーストーム』追加。25年後しに初復刻のマルチ対応水上バイクレース",
+   "summary": "任天堂は11月24日、『ウェーブレース ブルーストーム』を「ニンテンドー ゲームキューブ Nintendo Classics」に追加した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261124-480563/",
+   "pubDate": "2026-11-24T01:24:48.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480563-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "ウェーブレース ブルーストーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261124-480563/"
+    },
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIdlpoZWZMWkdvNlRJU0RxUGFSMEVSYXVTMzd2Wm9yd2dfc3VPaWJfS1JSak5pa1RPY0xpOFVkRmdsemNDWXl2elZ5NmdPZnJUWmp5cVJpRQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Nintendo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjFtOWtkUGFPTno4QzhoQ2Y4RXFoRnVaeG5WMGl0OXRuWV91LWRnWEs0S3VfVnMtenlkWWdYNUNVWWFoSHgteGtzUGVxTFNWdldmQ1ZGRkVkT2w3WWV6R1BQSmk2TnpMYlZMdWhxOTNjbUxiY00xc1hfVlAwcTJ5TTV5Qnc3Zw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Googleニュース「Nintendo Switch 2」",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qTXZ2dlVRRFNqWEFQWHBJVkdQak5zdHNmb0J6eDFCLXNEQktPc0pFXy1HWUxzYWFXTmNna2M2X2dhWWRPRHlhUVA5UlI2MExDSXFqU0FLTzM0SWJRT2Rn?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "ユニクロから「ハローキティ」新作UTが12月7日発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/24/191449.html",
+   "pubDate": "2026-11-24T01:15:03.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/24/191449.html"
+    }
+   ]
+  },
+  {
+   "title": "Proton’s Powerful Password Manager is 60% Off for Black Friday",
+   "summary": "Boost your security for less than half the usual price",
+   "link": "https://www.ign.com/articles/proton-pass-black-friday-deal-2026",
+   "pubDate": "2026-11-24T01:15:00.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/protonpass-1795477459198.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 60,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/proton-pass-black-friday-deal-2026"
+    }
+   ]
+  },
+  {
+   "title": "Steam新作ゲーム『SO-JI -Why Why Japanese- SHINJUKU』 初公開＆体験版配信開始！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMko1T2R3ZkZGWTJ3bW1Ra2wxVFZ0RlA5ZklvMnhoemxZYTRKVmZyZ1VkT1Rub2duTWs4dE10aWZacHZFZ3o0VFlZUHozeWpCX2lDYnhPMkczR1NHMHdYbVdLZ3RrajI0bWVQcG81cjRveGdlUzlLb09haw?oc=5",
+   "pubDate": "2026-11-24T01:09:33.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-newgame",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 30,
+   "categories": [
+    "new",
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "SO-JI -Why Why Japanese- SHINJUKU"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMko1T2R3ZkZGWTJ3bW1Ra2wxVFZ0RlA5ZklvMnhoemxZYTRKVmZyZ1VkT1Rub2duTWs4dE10aWZacHZFZ3o0VFlZUHozeWpCX2lDYnhPMkczR1NHMHdYbVdLZ3RrajI0bWVQcG81cjRveGdlUzlLb09haw?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "体験版配信開始！ Steam向け新作ゲーム「SO-JI -Why Why Japanese- SHINJUKU」にアミューズメント施設「GiGO」が登場！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fT1hYNkhhUVp3Ml9YRzBTNzJNV0szYWRkQ2huRUMwS2RTSGhHaXdReHhUNTdscU1jUTZnVlFFdzlkRjgzdzdVVVl2cmRLcjZPdTRBVU1MOVdwYTB2NmNncHRQaEdkT0M2N3lTRklhdjRSVkN3VGE4SXFPZw?oc=5",
+   "pubDate": "2026-11-24T01:09:27.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-newgame",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 30,
+   "categories": [
+    "new",
+    "release",
+    "demo"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "SO-JI -Why Why Japanese- SHINJUKU"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fT1hYNkhhUVp3Ml9YRzBTNzJNV0szYWRkQ2huRUMwS2RTSGhHaXdReHhUNTdscU1jUTZnVlFFdzlkRjgzdzdVVVl2cmRLcjZPdTRBVU1MOVdwYTB2NmNncHRQaEdkT0M2N3lTRklhdjRSVkN3VGE4SXFPZw?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【Amazonセール】レグザの55V型4K液晶TV「55E350R」がセール価格に",
+   "summary": "Amazonにて、レグザの55V型4K液晶TV「55E350R」が特別価格で販売されている。セール価格は参考価格から20%オフの88,000円。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2158541.html",
+   "pubDate": "2026-11-24T01:08:07.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2158541.html"
+    }
+   ]
+  },
+  {
+   "title": "『ウェーブレース ブルーストーム』が「ニンテンドー ゲームキューブ Nintendo Classics」に追加！おだやかな晴天から高波押し寄せる嵐の中まで、天候によってリアルに変化する水上を駆け抜けろ",
+   "summary": "2001年発売、水上オートバイでライバルと競い合うレースゲーム。おだやかな晴天から高波押し寄せる嵐の中まで、天候によってリアルに変化する水上を駆け抜けろ",
+   "link": "https://news.denfaminicogamer.jp/news/261124s",
+   "pubDate": "2026-11-24T01:06:57.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/f66d2ecc493b4ea690acde3f10c10299.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウェーブレース ブルーストーム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261124s"
+    }
+   ]
+  },
+  {
+   "title": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
+   "summary": "US politicians on both sides of the aisle are reeling.",
+   "link": "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously/",
+   "pubDate": "2026-11-24T01:06:57.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/7foqDBPfcAkwqyvMkoRz98-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously/"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo GameCube – Nintendo Classics adds Wave Race: Blue Storm",
+   "summary": "The Nintendo GameCube – Nintendo Classics app has added watercraft racing game Wave Race: Blue …",
+   "link": "https://www.gematsu.com/2026/11/nintendo-gamecube-nintendo-classics-adds-wave-race-blue-storm",
+   "pubDate": "2026-11-24T01:05:26.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Wave-Race-BS_11-23-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/nintendo-gamecube-nintendo-classics-adds-wave-race-blue-storm"
+    }
+   ]
+  },
+  {
+   "title": "『GTA6』不在の場合、何がGOTYに？最も「ユーザー主導」なメジャーゲーム大賞「Steamアワード2026」ノミネート開始",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/24/175228.html",
+   "pubDate": "2026-11-24T01:00:07.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/24/175228.html"
+    }
+   ]
+  },
+  {
+   "title": "“逆スプラ”な近未来・新宿お掃除ACT！すしざんまい「社長の人形」もピカピカにする『SO-JI -Why Why Japanese- SHINJUKU』発表＆デモ配信",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/24/175227.html",
+   "pubDate": "2026-11-24T01:00:03.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SO-JI -Why Why Japanese- SHINJUKU"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/24/175227.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「リラックマ」モノクロデザインなアイテムが11月25日発売！バックやチャームのほか。カー用品もラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/24/191448.html",
+   "pubDate": "2026-11-24T01:00:03.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/24/191448.html"
+    }
+   ]
+  },
+  {
+   "title": "GENDAとスゴロックス共同運営のゲームパブリッシャー「ゲラッパ！」が新作ゲームを発表～「GiGO」と「カラオケBanBan」が近未来の新宿に登場～",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUcmFMdF9BNVlVWUFNSHRtajFIUFpSYVJYR3l6RHNjZGhPWlZfVW9lYl82eG1FdHhHN3FaaXFQeGo3WjBhNmZaVE1WWlh6OUVMb1lwUTh3NkJCUW1ZN1N6R3o2WTktMnRZUVE?oc=5",
+   "pubDate": "2026-11-24T01:00:02.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUcmFMdF9BNVlVWUFNSHRtajFIUFpSYVJYR3l6RHNjZGhPWlZfVW9lYl82eG1FdHhHN3FaaXFQeGo3WjBhNmZaVE1WWlh6OUVMb1lwUTh3NkJCUW1ZN1N6R3o2WTktMnRZUVE?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
+  {
+   "title": "新宿お掃除ゲーム『SO-JI -Why Why Japanese- SHINJUKU』発表。「GiGO」や「すしざんまい」まで、再現度も汚れもすごい新宿をハイスピード清掃",
+   "summary": "デベロッパーのゲラッパは11月24日、お掃除アクションゲーム『SO-JI -Why Why Japanese- SHINJUKU』を正式発表した。",
+   "link": "https://automaton-media.com/articles/newsjp/20261124-480540/",
+   "pubDate": "2026-11-24T01:00:00.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480540-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 11,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "SO-JI -Why Why Japanese- SHINJUKU"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261124-480540/"
+    }
+   ]
+  },
+  {
+   "title": "PS5版『GTA6』プレイヤー数はなんと“3900万人”以上。同時接続プレイヤー数の最高記録も塗り替え、プレステ史上最大のローンチを記録",
+   "summary": "同時接続プレイヤー数の最高記録も塗り替える。発売以降、新規PS5で最初にプレイされたゲームの70%は『GTA6』だった",
+   "link": "https://news.denfaminicogamer.jp/news/261124o",
+   "pubDate": "2026-11-24T00:58:05.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/fc43cd44ef39d1697bb5bef1fca7d08e7f90c647-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261124o"
+    }
+   ]
+  },
+  {
+   "title": "同時接続プレイヤー数の最高記録も塗り替える。発売以降、新規PS5で最初にプレイされたゲームの70%は『GTA6』だった",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SMHpfbFZaMTM4UGNyQTJLVEpmWXczNHcwc2dmcm05MnpUSFF1azhzR2M2N3c3SXI5QnpQNVo1UmFSN0FmOTFRM3gwYTEwcjdyMWZ5V2lLNXA?oc=5",
+   "pubDate": "2026-11-24T00:58:00.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "電ファミニコゲーマー",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SMHpfbFZaMTM4UGNyQTJLVEpmWXczNHcwc2dmcm05MnpUSFF1azhzR2M2N3c3SXI5QnpQNVo1UmFSN0FmOTFRM3gwYTEwcjdyMWZ5V2lLNXA?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "『キングスフィールド』に影響を受けたレトロアクションRPG『Queen’s Domain』売上本数“30万本”を突破！Steamでは約1万件のレビューで「圧倒的に好評」を獲得",
+   "summary": "聖剣の力で足場を飛び移り、迷宮のような島を冒険。「探索が楽しい」「謎解き好きには最高」などの声が集まる",
+   "link": "https://news.denfaminicogamer.jp/news/261124n",
+   "pubDate": "2026-11-24T00:50:51.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_cebd8ec0eead3f1f81591c1eae7d9b49169a6a07.1920x1080-1024x576.webp",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "review",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "キングスフィールド",
+    "Queen’s Domain"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261124n"
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ」チョコレートがどれも可愛い！リボン付きポーチや小物入れにピッタリな缶など5商品がラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/24/191447.html",
+   "pubDate": "2026-11-24T00:50:02.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/24/191447.html"
+    }
+   ]
+  },
   {
    "title": "Discord、ボイチャで爆笑した瞬間や良い場面を自動で保存！新機能「自動クリップ」が有料メンバー向けに早期アクセス開始",
    "summary": "",
@@ -10634,6 +11411,32 @@
    ]
   },
   {
+   "title": "Here Are All of the Best Clips From the World's First Weekend With GTA 6",
+   "summary": "GTA 6 is here, and IGN has gathered all of the best (spoiler-free) clips from the world's first weekend with the game.",
+   "link": "https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6",
+   "pubDate": "2026-11-24T00:35:56.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/18/gta6-review-blogroll-1794996674466.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6"
+    }
+   ]
+  },
+  {
    "title": "「装甲騎兵ボトムズ 灰色の魔女」に登場したスコープドッグ、ブロッカーがHGキット化！マシンガンやパイルバンカーなど武装豊富、降着機構も再現",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/24/191446.html",
@@ -10656,6 +11459,32 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/24/191446.html"
+    }
+   ]
+  },
+  {
+   "title": "Save Up to $1,100 Off the 2026 65\" Hisense UR8 RGB Mini-LED Ultimate Gaming TVs for Black Friday",
+   "summary": "RGB Mini-LED tech boasts richer colors, a brighter picture, and wider viewing angles than ever before.",
+   "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-black-friday-sale-2026",
+   "pubDate": "2026-11-24T00:35:00.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/hisenseur8-1795478035035.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-black-friday-sale-2026"
     }
    ]
   },
@@ -10687,6 +11516,32 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MTlV2emNlRVduR0dxUC1Xd1MyNjItUFFwYWRLSHN1VzNKRVZDbDZOaE9iUDZvdEEtcnBTbmxud2lEZ3d1SGNxaVVUREVibzdCMTdVYTdn?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "Get a Cute Yoshi Egg Light at a Discount Black Friday",
+   "summary": "",
+   "link": "https://www.ign.com/articles/yoshi-egg-light-super-mario-deal-black-friday-2026",
+   "pubDate": "2026-11-24T00:30:34.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/24/yoshi-egg-1795480104968.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/yoshi-egg-light-super-mario-deal-black-friday-2026"
     }
    ]
   },
@@ -10909,6 +11764,34 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/otterbox-black-friday-sale-2026"
+    }
+   ]
+  },
+  {
+   "title": "Grand Theft Auto VI for PS5 tops 39 million players",
+   "summary": "More than 39 million unique users have played Grand Theft Auto VI on PlayStation 5 …",
+   "link": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players",
+   "pubDate": "2026-11-23T23:45:54.000Z",
+   "firstSeen": "2026-11-24T01:47:36.997Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/GTA6-PS5-Players_11-23-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 11,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players"
     }
    ]
   },
@@ -13806,7 +14689,7 @@
    ]
   },
   {
-   "title": "Dragon Age's former boss explains that poor management from EA led to BioWare shutting down because 'the options on the table were all terrible'",
+   "title": "Dragon Age's former boss says that poor management from EA led to BioWare shutting down because 'the options on the table were all terrible'",
    "summary": "\"Did they make us make Dragon Age 2? No. But they made us do something.\"",
    "link": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/",
    "pubDate": "2026-11-23T14:30:08.000Z",
@@ -187661,808 +188544,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02QnlvUmVOT2Z6X2dtU09hMnB2SUR6N3AxREpMSThoLUJUWDR6dUdjeGs2ODdaN01nY1RNS1RxSlVMZHlKWEZBel9jZHdsVVgxWTRaaFZsXzVGX1NCSWZwMWtpZ0ZxUkdMajJIMl9lQ2ZaU3lwdldlbFJXMUpWUzA?oc=5",
      "via": "Googleニュース「PS5 発売」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "なぜ『にほんの田舎ぐらし』は美しいドット絵にこだわるのか。“パッと見”を重視するゲーム作り【電撃インディー#1535】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NS2JpWFROWm81dnhWX2ZOV0d6VFVSUjZoYkFOeWNVblpNVVVJbjlXV2VoQS02dENxRndoNS0tWDFQOUxKUnF3N01IWDFKeEdfRjZObmNORk4yUQ?oc=5",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-07T02:47:35.374Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "にほんの田舎ぐらし"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NS2JpWFROWm81dnhWX2ZOV0d6VFVSUjZoYkFOeWNVblpNVVVJbjlXV2VoQS02dENxRndoNS0tWDFQOUxKUnF3N01IWDFKeEdfRjZObmNORk4yUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Steam Is Having an Early Black Friday Sale on Digital Board Games Right Now",
-   "summary": "",
-   "link": "https://www.ign.com/articles/steam-digital-tabletop-fest-early-black-friday-deals-2026",
-   "pubDate": "2026-11-06T21:51:30.000Z",
-   "firstSeen": "2026-11-06T22:47:39.732Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/9810fb43130d5e8a59e0151f313880f7eee4bde9-1794001740038.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/steam-digital-tabletop-fest-early-black-friday-deals-2026"
-    }
-   ]
-  },
-  {
-   "title": "Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release",
-   "summary": "Two classes two furious.",
-   "link": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
-   "pubDate": "2026-11-06T21:50:58.000Z",
-   "firstSeen": "2026-11-06T22:47:39.732Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/DGA7LqKTtAjY5xuVxbZqUa-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/"
-    }
-   ]
-  },
-  {
-   "title": "4人協力対応サバイバルホラー『Devil of the Plague』競馬やモグラ叩きマシンでロビーでも一緒に遊べるように！早期アクセス最後の大型アプデ配信",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/07/174599.html",
-   "pubDate": "2026-11-06T21:30:02.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Devil of the Plague"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/07/174599.html"
-    }
-   ]
-  },
-  {
-   "title": "しまむら・アベイルの「ゴジラ」グッズが大迫力！歴代怪獣や最新作「ゴジラ-0.0」のアパレル、トートバッグなど豊富なデザイン",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/07/190491.html",
-   "pubDate": "2026-11-06T21:30:02.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゴジラ-0.0"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/07/190491.html"
-    }
-   ]
-  },
-  {
-   "title": "Ed Boon Wants to Know What Fans Want the Next Mortal Kombat Game to Be Called",
-   "summary": "Ed Boon is stirring up excitement in the fighting game community after releasing a poll asking fans what they’d like the next Mortal Kombat…",
-   "link": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
-   "pubDate": "2026-11-06T21:21:53.000Z",
-   "firstSeen": "2026-11-06T22:47:39.732Z",
-   "image": "https://assets-prd.ignimgs.com/2023/09/13/mortalkombat1-review-blogroll-1694635604946.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called"
-    }
-   ]
-  },
-  {
-   "title": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
-   "summary": "Queen's Domain might be the trendy game of the moment but for my money, the classic grid-based action of Underkeep is where it's at. (And ye…",
-   "link": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
-   "pubDate": "2026-11-06T21:14:51.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/t6zfrRCc3rr5uWAxv7RJLg-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/"
-    }
-   ]
-  },
-  {
-   "title": "The GTPlayer Ace Pro Gaming Chair Has Built-In Speakers for Less Than $130 for Black Friday",
-   "summary": "Gaming chair with surround sound.",
-   "link": "https://www.ign.com/articles/gtplayer-ace-pro-gaming-chair-deal-november-2026",
-   "pubDate": "2026-11-06T21:10:00.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/gtplayeracepro-1793998462912.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/gtplayer-ace-pro-gaming-chair-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
-   "summary": "Bence \"Beedyboy\" Hamos reflects on 8 years at Crytek helping build Hunt: Showdown's community.",
-   "link": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
-   "pubDate": "2026-11-06T21:06:01.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/guRENWiogEnRFh78VTeCuG-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "It came out of nowhere. I was shocked and sad"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch 2で採用された「microSD Express」って何？解説しつつ性能を確認してみた",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLV2ZPTFdpOXBHckRidXJXcFF5dFBfN1ZHVEh3N0tubzRiM2hyV0J1NU9nbkdhdnpLQ3NCczd3VXdnMlR2X1JzUmVmZks5V1E5RW1VR2w0MHJiNGRoT19qT29BUFZQY1lNSkNoYkxEdWFXZw?oc=5",
-   "pubDate": "2026-11-06T21:03:00.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": null,
-   "source": "PC Watch",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Watch",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLV2ZPTFdpOXBHckRidXJXcFF5dFBfN1ZHVEh3N0tubzRiM2hyV0J1NU9nbkdhdnpLQ3NCczd3VXdnMlR2X1JzUmVmZks5V1E5RW1VR2w0MHJiNGRoT19qT29BUFZQY1lNSkNoYkxEdWFXZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "コミュニティが選ぶ「Steamアワード」は今年で10周年！ 2026年は2つの新カテゴリも登場",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/07/174598.html",
-   "pubDate": "2026-11-06T21:00:03.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/07/174598.html"
-    }
-   ]
-  },
-  {
-   "title": "しまむらの「ワンピース」ショッピングバッグが胸アツ！「あの名シーン」や海賊旗にサニー号も",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/07/190489.html",
-   "pubDate": "2026-11-06T21:00:03.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/07/190489.html"
-    }
-   ]
-  },
-  {
-   "title": "This Disturbing Horror Movie Is Free on Tubi Right Now - I Don’t Know if You Should Watch It",
-   "summary": "",
-   "link": "https://www.ign.com/articles/this-disturbing-horror-movie-is-free-on-tubi-right-now-i-dont-know-if-you-should-watch-it",
-   "pubDate": "2026-11-06T20:40:28.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/191acd51c8065de4e046b8edc6ac97160cfb831ee5b5b13a4e630430074d310f-1793997088540.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/this-disturbing-horror-movie-is-free-on-tubi-right-now-i-dont-know-if-you-should-watch-it"
-    }
-   ]
-  },
-  {
-   "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
-   "summary": "Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 versi…",
-   "link": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/",
-   "pubDate": "2026-11-06T20:23:39.000Z",
-   "firstSeen": "2026-11-06T20:47:34.033Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-   "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
-   "link": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
-   "pubDate": "2026-11-06T20:18:07.000Z",
-   "firstSeen": "2026-11-06T21:47:34.562Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/02/vintage-vice-city-pack-exclusive-looks-04-1793635497190.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch"
-    }
-   ]
-  },
-  {
-   "title": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
-   "summary": "The Xbox PC app hasn't had the best track record in recent years, but Microsoft is promising that it's now much faster and easier to use tha…",
-   "link": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-   "pubDate": "2026-11-06T19:58:20.000Z",
-   "firstSeen": "2026-11-06T20:47:34.033Z",
-   "image": "https://assetsio.gnwcdn.com/Forza-Horizon-6-i.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma"
-    }
-   ]
-  },
-  {
-   "title": "Hozy for PS5, Xbox Series launches November 9",
-   "summary": "Cozy renovation and cleaning game Hozy will launch for PlayStation 5 and Xbox Series on …",
-   "link": "https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9",
-   "pubDate": "2026-11-06T19:38:23.000Z",
-   "firstSeen": "2026-11-06T19:47:40.232Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hozy-Consoles_11-06-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 21,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9"
-    }
-   ]
-  },
-  {
-   "title": "God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
-   "summary": "Sony Santa Monica Studios' God of War Ragnarok tops the list of highest-grossing PlayStation Studios games of the PS5 generation, according…",
-   "link": "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
-   "pubDate": "2026-11-06T19:33:32.000Z",
-   "firstSeen": "2026-11-06T20:47:34.033Z",
-   "image": "https://assets-prd.ignimgs.com/2024/05/31/lenovo-breakout-thumb-oo-1717118604588.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation"
-    }
-   ]
-  },
-  {
-   "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA",
-   "summary": "A Canadian politician has started an official government petition to save Mass Effect developer BioWare.",
-   "link": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
-   "pubDate": "2026-11-06T19:26:06.000Z",
-   "firstSeen": "2026-11-06T20:47:34.033Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-4b2b412307b72a21f68148c32fab7a278875d139-1920x1080-1793370780028.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea"
-    }
-   ]
-  },
-  {
-   "title": "The mFish 4-in-1 Lighted USB Type-C Cable Is So Worth It for Less Than $7",
-   "summary": "USB-A, two USB-C, and Lightning connectors on a single cable.",
-   "link": "https://www.ign.com/articles/mfish-usb-cable-deal-november-2026",
-   "pubDate": "2026-11-06T19:00:00.000Z",
-   "firstSeen": "2026-11-06T19:47:40.232Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/mfishcable-1793990930191.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/mfish-usb-cable-deal-november-2026"
-    }
-   ]
-  },
-  {
-   "title": "Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges",
-   "summary": "Following the US midterm elections this week, shares of Nvidia--the world's No. 2 most valuable company by market cap behind Apple--slid dow…",
-   "link": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/",
-   "pubDate": "2026-11-06T18:50:58.000Z",
-   "firstSeen": "2026-11-06T19:47:40.232Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/donut.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/"
-    }
-   ]
-  },
-  {
-   "title": "Blizzard Reveals What Made It Finally Pull The Trigger on WoW Forever",
-   "summary": "World of Warcraft Forever came out earlier this week, and has been a massively successful launch. It almost begs the question, \"Why wait thi…",
-   "link": "https://www.ign.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever",
-   "pubDate": "2026-11-06T18:47:50.000Z",
-   "firstSeen": "2026-11-06T19:47:40.232Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/05/rulesetsthumb-1793902309981.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever"
-    }
-   ]
-  },
-  {
-   "title": "You Can Finally Drive A Dreamcast, Thanks To Sonic",
-   "summary": "Sonic Racing: CrossWorlds is gearing up for a second year of action, and while you can expect new courses, modes, and characters to join the…",
-   "link": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/",
-   "pubDate": "2026-11-06T18:42:41.000Z",
-   "firstSeen": "2026-11-06T18:47:40.629Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/CrossWorlds-6.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/"
-    }
-   ]
-  },
-  {
-   "title": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
-   "summary": "The Expanse: Osiris Reborn looks like it's carrying the best bits of Mass Effect forward, and in an encouraging move, the developers have be…",
-   "link": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-   "pubDate": "2026-11-06T18:40:40.000Z",
-   "firstSeen": "2026-11-06T18:47:40.629Z",
-   "image": "https://assetsio.gnwcdn.com/expanse-osiris-reborn-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider"
-    }
-   ]
-  },
-  {
-   "title": "Today’s Top Deals: Animatronic Pikachu, iBUYPOWER RTX 5060 Gaming PC, and 50% Off Criterion Collection",
-   "summary": "Plus, save on Zelda: Ocarina of Time, request an invite for the XSX X25 Special Edition, and more discounts.",
-   "link": "https://www.ign.com/articles/best-deals-for-november-6-2026",
-   "pubDate": "2026-11-06T18:40:00.000Z",
-   "firstSeen": "2026-11-06T19:47:40.232Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/untitled-design-23-1793988647234.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 50,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-november-6-2026"
-    }
-   ]
-  },
-  {
-   "title": "The Lenovo Legion Tower 5i Has the Power for Gaming, Streaming, and Editing",
-   "summary": "",
-   "link": "https://www.ign.com/articles/the-lenovo-legion-tower-5i-has-the-power-for-gaming-streaming-and-editing",
-   "pubDate": "2026-11-06T18:31:17.000Z",
-   "firstSeen": "2026-11-06T19:47:40.232Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/20/01-legion-tower-5i-10-inteldesktopcpu-glass-side-panel-1792535784592.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-lenovo-legion-tower-5i-has-the-power-for-gaming-streaming-and-editing"
-    }
-   ]
-  },
-  {
-   "title": "Xbox Series X | X25 Special Edition Console – Invite Requests Are Up at Amazon",
-   "summary": "",
-   "link": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon",
-   "pubDate": "2026-11-06T18:03:36.000Z",
-   "firstSeen": "2026-11-06T18:31:05.457Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/xbox-series-x-x25-1787838440148-1793987454358.jpeg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon"
-    }
-   ]
-  },
-  {
-   "title": "Best Buy's Ultimate Holiday Gift Guide for Consoles, Accessories, Games and More",
-   "summary": "Treat yourself or shop for the gamer in your life and make their holiday the best ever.",
-   "link": "https://www.ign.com/articles/best-buy-ultimate-holiday-gamer-gift-guide-2026",
-   "pubDate": "2026-11-06T18:01:29.000Z",
-   "firstSeen": "2026-11-06T18:31:05.457Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/gamers-page-1793989313895.webp",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-buy-ultimate-holiday-gamer-gift-guide-2026"
-    }
-   ]
-  },
-  {
-   "title": "Dane Cook and Robert Bowling Announce Vicious Vocab, a Genre-Bending Word Game With a Big Twist",
-   "summary": "Ex-Call of Duty creative strategist Robert Bowling and comedian Dane Cook have revealed a brand new genre-bending video game known as Viciou…",
-   "link": "https://www.ign.com/articles/dane-cook-and-robert-bowling-announce-vicious-vocab-a-genre-bending-word-game-with-a-big-twist",
-   "pubDate": "2026-11-06T18:00:00.000Z",
-   "firstSeen": "2026-11-06T18:31:05.457Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/06/vicious-vocab-1793984273312.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/dane-cook-and-robert-bowling-announce-vicious-vocab-a-genre-bending-word-game-with-a-big-twist"
     }
    ]
   }
