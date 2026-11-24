@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-24T15:47:58.025Z",
+ "generatedAt": "2026-11-24T16:29:54.338Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1356,
+  "exact": 1360,
   "syndicated": 65,
   "similar": 375,
-  "syndicatedTotal": 438,
-  "syndicatedLeft": 31
+  "syndicatedTotal": 440,
+  "syndicatedLeft": 30
  },
  "calendar": [
   {
@@ -7130,22 +7130,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「スヌーピー」の新作UTがユニクロから12月中旬に発売！心温まるシーンをデザインした全6種",
-   "link": "https://www.inside-games.jp/article/2026/11/09/190569.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-01",
    "precision": "day",
    "verb": "launch",
@@ -7773,6 +7757,22 @@
    "precision": "day",
    "verb": "event",
    "label": "開催・放送",
+   "work": "アークナイツ:エンドフィールド",
+   "title": "『アークナイツ：エンドフィールド』×ピザーラコラボ12/3開催！ 全国6店舗で特別装飾も",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rXzRyUG1fcThpSGd4QjFhYklOcmIxZVBtQjM0QTNETE1BLVpPOHAyNm93NzZVLWhoc0ZlbDYtOThQc1BBbG50UDkyalpHeDFXNjlTdDdvYlBvUQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-03",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
    "work": null,
    "title": "セブン‐イレブン×「ちいかわ」コラボが12月3日開催！草むしり検定お祝いラーメン、三ツ星オムライスなど作中イメージのフード・グッズを多数展開",
    "link": "https://www.inside-games.jp/article/2026/11/24/191463.html",
@@ -8075,6 +8075,24 @@
     "new",
     "trailer",
     "demo"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-05",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Tiny Bookshop",
+   "title": "100万本突破！「圧倒的に好評」多数の実在書籍登場の移動型古書店経営シム『Tiny Bookshop』新エリア・カスタマイズ・クエスト追加のDLC「Arts and Crafts」12月5日発売決定",
+   "link": "http://www.gamespark.jp/article/2026/11/25/175267.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "release",
+    "update",
+    "business"
    ],
    "platforms": [],
    "spoiler": false
@@ -10790,8 +10808,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1199,
-   "accepted": 1175
+   "archived": 1200,
+   "accepted": 1176
   },
   {
    "id": "inside-games",
@@ -10845,8 +10863,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 614,
-   "accepted": 477
+   "archived": 613,
+   "accepted": 476
   },
   {
    "id": "gnews-dengeki",
@@ -10856,8 +10874,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 603,
-   "accepted": 353
+   "archived": 606,
+   "accepted": 355
   },
   {
    "id": "gnews-newgame",
@@ -10866,9 +10884,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 81,
-   "archived": 616,
-   "accepted": 565
+   "fetched": 100,
+   "archived": 619,
+   "accepted": 568
   },
   {
    "id": "gnews-switch2",
@@ -10878,8 +10896,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1442,
-   "accepted": 1243
+   "archived": 1441,
+   "accepted": 1242
   },
   {
    "id": "gnews-ps5",
@@ -10888,9 +10906,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 98,
-   "archived": 780,
-   "accepted": 710
+   "fetched": 100,
+   "archived": 784,
+   "accepted": 714
   },
   {
    "id": "gnews-update",
@@ -10900,8 +10918,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 405,
-   "accepted": 323
+   "archived": 404,
+   "accepted": 322
   },
   {
    "id": "prtimes",
@@ -10911,7 +10929,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26081,
+   "archived": 26091,
    "accepted": 413
   },
   {
@@ -10922,8 +10940,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 299,
-   "accepted": 299
+   "archived": 301,
+   "accepted": 301
   },
   {
    "id": "ign",
@@ -10933,8 +10951,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1257,
-   "accepted": 1257
+   "archived": 1261,
+   "accepted": 1261
   },
   {
    "id": "eurogamer",
@@ -10955,8 +10973,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 307,
-   "accepted": 307
+   "archived": 309,
+   "accepted": 309
   },
   {
    "id": "nintendolife",
@@ -10966,22 +10984,284 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 352,
-   "accepted": 352
+   "archived": 351,
+   "accepted": 351
   },
   {
    "id": "pcgamer",
    "name": "PC Gamer",
    "kind": "specialist",
    "lang": "en",
-   "ok": false,
-   "error": "Status code 404",
-   "fetched": 0,
-   "archived": 647,
-   "accepted": 647
+   "ok": true,
+   "error": null,
+   "fetched": 50,
+   "archived": 649,
+   "accepted": 649
   }
  ],
  "items": [
+  {
+   "title": "Paper Shredder launches January 12, 2027",
+   "summary": "Incremental game Paper Shredder will launch for Xbox Series and PC via Steam and Microsoft …",
+   "link": "https://www.gematsu.com/2026/11/paper-shredder-launches-january-12-2027",
+   "pubDate": "2026-11-24T16:28:22.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Paper-Shredder-Date_11-24-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "xbox",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/paper-shredder-launches-january-12-2027"
+    }
+   ]
+  },
+  {
+   "title": "Atomic Heart: The CUBE teaser trailer ‘Archive File #1’",
+   "summary": "Mundfish has released a new teaser trailer for June 2025-announced multiplayer RPG Atomic Heart: The …",
+   "link": "https://www.gematsu.com/2026/11/atomic-heart-the-cube-teaser-trailer-archive-file-1",
+   "pubDate": "2026-11-24T16:19:34.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Atomic-Heart-Teaser_11-24-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new",
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/atomic-heart-the-cube-teaser-trailer-archive-file-1"
+    }
+   ]
+  },
+  {
+   "title": "The Last of Us Part 2 Leaks Made Backlash Worse, Laura Bailey Says",
+   "summary": "Abby actor Laura Bailey reflects on how pre-release leaks and online misinformation made The Last of Us Part 2's backlash so much worse.",
+   "link": "https://www.ign.com/articles/laura-bailey-the-last-of-us-part-2-leaks-backlash",
+   "pubDate": "2026-11-24T16:02:42.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/laura-bailey-the-last-of-us-part-2-leaks-backlash"
+    }
+   ]
+  },
+  {
+   "title": "100万本突破！「圧倒的に好評」多数の実在書籍登場の移動型古書店経営シム『Tiny Bookshop』新エリア・カスタマイズ・クエスト追加のDLC「Arts and Crafts」12月5日発売決定",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/25/175267.html",
+   "pubDate": "2026-11-24T16:00:03.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "release",
+    "update",
+    "business"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Tiny Bookshop"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/25/175267.html"
+    }
+   ]
+  },
+  {
+   "title": "Why Director Robert Eggers Calls His Brutal New Horror Movie Werwulf the Darkest Film He Has Ever Made",
+   "summary": "Werwulf just might be drector Robert Eggers’ darkest film yet. So bleak and dark, in fact, that Eggers recalled “when Jarin Blaschke, my cin…",
+   "link": "https://www.ign.com/articles/werwulf-director-robert-eggers-discusses-making-his-darkest-film-yet",
+   "pubDate": "2026-11-24T16:00:00.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/4251-d053-00167-r-1280-1795468960626.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/werwulf-director-robert-eggers-discusses-making-his-darkest-film-yet"
+    }
+   ]
+  },
+  {
+   "title": "多数の改善を統合する「Gothic 3 Classic」のPS5とXBOX Series X|S版が国内外で発売、ローンチトレーラーも",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLQ1hNS3JZOHFuQ0E4RHJYOXhvQWVSX1RtR2lzY1hwWDh6bXN1TFlfX1c4RHBFSWtyQzRtV0JHcmlmQkVkSF9ta1YzRQ?oc=5",
+   "pubDate": "2026-11-24T15:53:02.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "trailer"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLQ1hNS3JZOHFuQ0E4RHJYOXhvQWVSX1RtR2lzY1hwWDh6bXN1TFlfX1c4RHBFSWtyQzRtV0JHcmlmQkVkSF9ta1YzRQ?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 might play best when it hits PC, but it'll be best played with a controller",
+   "summary": "I cannot get over all the ways Rockstar has turned a controller into an immersion tool.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/",
+   "pubDate": "2026-11-24T15:52:10.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/iuRU99tBoHCUomy9rvZHw8-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/"
+    }
+   ]
+  },
+  {
+   "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
+   "summary": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a…",
+   "link": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/",
+   "pubDate": "2026-11-24T15:46:40.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261030130806_.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/"
+    }
+   ]
+  },
+  {
+   "title": "'I Made the Deal' – President Trump Takes Credit for Jensen Huang's Return to Nvidia, Posts Bizarre AI Image to Celebrate",
+   "summary": "Jensen Huang returned yesterday as CEO of Nvidia, with the company crediting \"input from senior levels of the United States government.\" And…",
+   "link": "https://www.ign.com/articles/i-made-the-deal-president-trump-takes-credit-for-jensen-huangs-return-to-nvidia-posts-bizarre-ai-image-to-celebrate",
+   "pubDate": "2026-11-24T15:45:36.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/24/gettyimages-2212187921-1795534908924.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "I Made the Deal"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/i-made-the-deal-president-trump-takes-credit-for-jensen-huangs-return-to-nvidia-posts-bizarre-ai-image-to-celebrate"
+    }
+   ]
+  },
   {
    "title": "『GTA6』Xbox版が30fps以上で動作するバグ発見？テック系メディアによる検証公開",
    "summary": "",
@@ -11009,6 +11289,58 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/25/175266.html"
+    }
+   ]
+  },
+  {
+   "title": "The Definitive Proof That GTA 6 and Red Dead Redemption Share The Same Universe",
+   "summary": "Here are the seven easter eggs in GTA 6 that prove Red Dead Redemption and Grand Theft Auto take place in the same universe.",
+   "link": "https://www.ign.com/articles/gta-6-red-dead-redemption-2-easter-eggs-secrets-details",
+   "pubDate": "2026-11-24T15:45:00.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/24/red-dead-blog-1795529199286.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6-red-dead-redemption-2-easter-eggs-secrets-details"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
+   "summary": "In the mood for a little bloodsport? In GTA 6, you can teach one loud-mouthed hunter that Lucia (or Jason) is the deadliest game, as this se…",
+   "link": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/",
+   "pubDate": "2026-11-24T15:33:03.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Lucia.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/"
     }
    ]
   },
@@ -11041,6 +11373,32 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/25/175265.html"
+    }
+   ]
+  },
+  {
+   "title": "US and EU players will be able to play together in Final Fantasy 14 soon, with Square Enix considering 'the possibility of permanently enabling travel' in the future",
+   "summary": "It's a temporary congestion measure, but it might be around to stay.",
+   "link": "https://www.pcgamer.com/games/mmo/na-and-eu-players-will-be-able-to-play-together-in-final-fantasy-14-soon-with-square-enix-considering-the-possibility-of-permanently-enabling-travel-in-the-future/",
+   "pubDate": "2026-11-24T15:18:57.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/7b8uxEsMbx9gzcvHPYNAfn-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/mmo/na-and-eu-players-will-be-able-to-play-together-in-final-fantasy-14-soon-with-square-enix-considering-the-possibility-of-permanently-enabling-travel-in-the-future/"
     }
    ]
   },
@@ -11111,12 +11469,38 @@
    ]
   },
   {
+   "title": "Mass Effect writer says 'as a fan I would have been happy with the solution' they came up with for ME3's endings in ME Universe",
+   "summary": "My personal solution would be playable elcor main character. Can't go wrong with that.",
+   "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe/",
+   "pubDate": "2026-11-24T15:14:07.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/Ejh4Z9YqLYB8hwzrfyYisK-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-writer-says-as-a-fan-i-would-have-been-happy-with-the-solution-they-came-up-with-for-me3s-endings-in-me-universe/"
+    }
+   ]
+  },
+  {
    "title": "STARDUST: Wish of Witch for PS5, Switch 2 launches December 14",
    "summary": "Pixel art strategy RPG STARDUST: Wish of Witch will launch for PlayStation 5 and Switch …",
    "link": "https://www.gematsu.com/2026/11/stardust-wish-of-witch-for-ps5-switch-2-launches-december-14",
    "pubDate": "2026-11-24T15:11:33.000Z",
    "firstSeen": "2026-11-24T15:47:36.321Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/STARDUST-Consoles_11-24-26.png",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/STARDUST-Consoles_11-24-26.jpg",
    "source": "Gematsu",
    "sourceId": "gematsu",
    "syndicated": false,
@@ -14736,6 +15120,37 @@
    ]
   },
   {
+   "title": "『アークナイツ：エンドフィールド』×ピザーラコラボ12/3開催！ 全国6店舗で特別装飾も",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rXzRyUG1fcThpSGd4QjFhYklOcmIxZVBtQjM0QTNETE1BLVpPOHAyNm93NzZVLWhoc0ZlbDYtOThQc1BBbG50UDkyalpHeDFXNjlTdDdvYlBvUQ?oc=5",
+   "pubDate": "2026-11-24T08:51:00.000Z",
+   "firstSeen": "2026-11-24T16:29:39.111Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アークナイツ:エンドフィールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rXzRyUG1fcThpSGd4QjFhYklOcmIxZVBtQjM0QTNETE1BLVpPOHAyNm93NzZVLWhoc0ZlbDYtOThQc1BBbG50UDkyalpHeDFXNjlTdDdvYlBvUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "小さなカスタムキーボード店を営むゲーム『KeyCapy』発表。選んだスイッチの種類やキーキャップ、ケースの素材によって打鍵音が変化",
    "summary": "11月11日、Vojtěch Peták氏は、『KeyCapy』をSteam向けに発表した。 同作は、小さなカスタムキーボード店を営む居心地の良いシミュレーションゲームだ。日本語インターフェイス、字幕にも対応予定でリリース日は未定。現在プレイテストを開催している。",
    "link": "https://news.denfaminicogamer.jp/news/2611242u",
@@ -16226,7 +16641,7 @@
    "firstSeen": "2026-11-24T07:47:36.191Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16255,9 +16670,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50dXlQRmhLSDliYXJJc3BacnYyVVJQbENvbGxsVHpydG1la2lkaEplakFLM0otVWJWallGTWQ0UmxheG1aRG5qem96M0l5SGNrenBtUElTcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -18670,6 +19085,13 @@
      "name": "2026年11月24日掲載（ライブドアニュース）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrMzJaUW1NZTFOc01mWVRtY0o1N0hsRV8tTmlVdlpEZXFKZU1JRHFFdU1LUi10ZzE4aGhhZUVuSkJyczRVajFfY0k5cDFPQ0llZDJ3Slk1TXV0QWVDNnc?oc=5",
+     "via": "Googleニュース「新作ゲーム」",
+     "syndicated": true
+    },
+    {
+     "name": "日刊スポーツ（Yahoo!ニュース）",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWDZIeXFtdlVXOWtwTFU2YlVtbzZzejYwZnBvdDdLcG1KYjBFYXQ1M1BjbUJrMWNjVlVyd0hJTGV2SFNlMDBPVFZTcWVNcTJDdmh5UnhSN05rLU5mTXNqY3ZDOFBmMU1LYnlKblQ4SmNTbUFoNDV6V2VHdDljQkk3eVR2ZVlMQTZVN1VOR0ZB?oc=5",
      "via": "Googleニュース「新作ゲーム」",
      "syndicated": true
     }
@@ -26690,7 +27112,7 @@
    "firstSeen": "2026-11-23T08:47:37.002Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -26711,9 +27133,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NQk9XWjFpV05oZ2VTVXBTeE10N3dNVjdCakJqZ2w2R3k4aHpaeUdlclJjUDVrelhmUUp3a1BLXzJubVVldE44RlVkWXFnU3pVUkVFWlo2aVRydw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -30802,6 +31224,13 @@
      "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KdnV4STlLOC1vTS1QWFpabFRNb3UybDh4SGVVc1hrOTFaMlVmam5sOTFXWFlmcWhiM0MyaERHcVotSG8yY1c0U0x3?oc=5",
      "via": "Googleニュース「PS5 発売」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TbFM1UU1qbkdsc1dOdlRzamZzdld3bFBKLWRFQjltTy12RGszY3prc2VPd2pVUUJ1TFgzQVBWa19nQ3JXZThaaFRranZmc3ZnUUtmd1JNRDdhMkdQNDh0TlluZTc4RmdUV3lTcGNuLXFZS2JuSVE?oc=5",
+     "via": "Googleニュース「PS5 発売」",
+     "syndicated": true
     }
    ]
   },
@@ -116956,6 +117385,12 @@
      "via": "Googleニュース「新作ゲーム」"
     },
     {
+     "name": "南日本新聞",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QN1E5czRscnNrVEx2cEpFOTdUX21Vb1BOajFtZHk5TGNJZU9qSWY4LVdWWlZLemdPUjJaMTB3ME1yNG5UcHlTS01TRlU0Rk9jcGlzTDBKRDJWWkRKcHczM2ZZaXNidw?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
+    {
      "name": "オリコン（Yahoo!ニュース）",
      "sourceId": "gnews-newgame",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU25Sd2dUZnI4YmRSRVlkTy0wdVhoR0VHZ3E3ZG9qak9UMjBrSDE4aWMyZE5KYk16TEJFTW9sNlFMXy1zdkRpSnlVVEtDVUs5N3VxMWlOdzQ2c21fRHNsdEY4M0xzamhNLVJzeXRxYndxZ05XQXBlX2MzTmtqaGc?oc=5",
@@ -188577,404 +189012,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/261109e"
-    }
-   ]
-  },
-  {
-   "title": "【今週のモチベ】「みんなでポイっと！プリニーすごろく」や「Football Manager 27」が発売される 2026年11月9日〜11月15日",
-   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，コマンドRPGとスゴロクを融合させた「みんなでポイっと！プリニーすごろく」や，サッカークラブの全権監督となり，チームを頂点へ導くシリーズの最新作「FootballManager27」が発売…",
-   "link": "https://www.4gamer.net/games/954/G095479/20261108002/",
-   "pubDate": "2026-11-08T23:00:00.000Z",
-   "firstSeen": "2026-11-08T23:47:33.615Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": -1,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/954/G095479/20261108002/"
-    }
-   ]
-  },
-  {
-   "title": "『ヒロアカ』のバトロワがモバイルに。『僕のヒーローアカデミア ULTRA RUMBLE モバイル』が発表、3人1組・最大24人の戦いがスマホでも遊べる",
-   "summary": "1試合は短く調整され、マッチングはモバイル同士のみ、コンシューマー版の全キャラが登場する。事前登録が受付中",
-   "link": "https://news.denfaminicogamer.jp/news/261109b",
-   "pubDate": "2026-11-08T22:34:58.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/img_system_01.webp",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "release",
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "ヒロアカ",
-    "僕のヒーローアカデミア ULTRA RUMBLE モバイル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261109b"
-    }
-   ]
-  },
-  {
-   "title": "「スヌーピー」の新作UTがユニクロから12月中旬に発売！心温まるシーンをデザインした全6種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/09/190569.html",
-   "pubDate": "2026-11-08T22:30:03.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/09/190569.html"
-    }
-   ]
-  },
-  {
-   "title": "「Wiiリモコンに匹敵する新しい遊びが見られない」指摘に任天堂の回答は Switch2でも「発表できる日を楽しみに」（オタク総研）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMFVOYUd4LTFZckVUOFpuVU5hQnhYTy1leHpkTlBpbjA3UU9MbU93N2VLdXpYM3NKV1g4alhVQlN0VXVnRUl4Mzg5NGFnTFlsOGZjcUVxZlpqVXp6RHRlNWdxSVUyaVRyMUdaV3lmQ3o4SnVWbDN4UXl2TXFvVkU?oc=5",
-   "pubDate": "2026-11-08T22:23:19.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": null,
-   "source": "オタク総研（Yahoo!ニュース）",
-   "sourceId": "gnews-switch2",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "オタク総研（Yahoo!ニュース）",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMFVOYUd4LTFZckVUOFpuVU5hQnhYTy1leHpkTlBpbjA3UU9MbU93N2VLdXpYM3NKV1g4alhVQlN0VXVnRUl4Mzg5NGFnTFlsOGZjcUVxZlpqVXp6RHRlNWdxSVUyaVRyMUdaV3lmQ3o4SnVWbDN4UXl2TXFvVkU?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-   "summary": "CEO Mike Bilder doesn't see AI as having much to offer Jackbox.",
-   "link": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-   "pubDate": "2026-11-08T22:06:56.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1920-80.png",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/"
-    }
-   ]
-  },
-  {
-   "title": "Nintendo Switch 2のゼルダ40周年版にバッテリー交換式が登場。欧州で届き始めるも国内は従来のまま",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWDExSFVVVWUwd29MZ2dpbGgySk1kWk9kU1hNRktmQ3JERW1BOXFaaFJQaGllNmpxcjhYQ2FwWkVjUmFWbEVVWnRyOWpBdW9vaWFRWDJZVnplM19ocU9XT2JUWjFRNW40eHA1cDR6dW94cHVvQ2Q4Z193SQ?oc=5",
-   "pubDate": "2026-11-08T22:05:00.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": null,
-   "source": "GAZLOG",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAZLOG",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWDExSFVVVWUwd29MZ2dpbGgySk1kWk9kU1hNRktmQ3JERW1BOXFaaFJQaGllNmpxcjhYQ2FwWkVjUmFWbEVVWnRyOWpBdW9vaWFRWDJZVnplM19ocU9XT2JUWjFRNW40eHA1cDR6dW94cHVvQ2Q4Z193SQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/09/190568.html",
-   "pubDate": "2026-11-08T22:00:03.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/09/190568.html"
-    }
-   ]
-  },
-  {
-   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月2日〜11月8日",
-   "summary": "2026年11月2日〜11月8日，4Gamerに掲載された記事は230本でした。タイのバンコクで開催された「gamescomasiaxThailandGameShow2026」のレポートや，「グランド・セフト・オートVI」のまとめ記事などを掲載した，4Gamerと世界のゲーム業界…",
-   "link": "https://www.4gamer.net/games/040/G004099/20261108001/",
-   "pubDate": "2026-11-08T22:00:00.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/040/G004099/20261108001/"
-    }
-   ]
-  },
-  {
-   "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
-   "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrar…",
-   "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
-   "pubDate": "2026-11-08T21:41:08.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/12/mv85-austin-sonny-1280-1791830924948.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason"
-    }
-   ]
-  },
-  {
-   "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
-   "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
-   "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
-   "pubDate": "2026-11-08T21:38:31.000Z",
-   "firstSeen": "2026-11-08T21:47:32.438Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/08/nvidia-ceo-jensen-huang-1794177110571.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy"
-    },
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/"
-    }
-   ]
-  },
-  {
-   "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
-   "summary": "Jesse Eisenberg said he will \"sometimes experiment with AI\" – but it's just because he's \"testing it to make sure it's bad.\"",
-   "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
-   "pubDate": "2026-11-08T21:32:50.000Z",
-   "firstSeen": "2026-11-08T22:47:32.755Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/08/jesse-eisenberg-ai-1794173561300.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet"
-    }
-   ]
-  },
-  {
-   "title": "「サンリオキャラクターズ」新作UTがユニクロに登場！デコレーションシール風デザインのキッズ向け合計7種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/09/190567.html",
-   "pubDate": "2026-11-08T21:25:02.000Z",
-   "firstSeen": "2026-11-08T21:47:32.438Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/09/190567.html"
-    }
-   ]
-  },
-  {
-   "title": "『ドラクエ』11月のプライズまとめ！機能性備えた「キングスライムの蒸し器」、「マリンスライムの気化式加湿器」など",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/09/190566.html",
-   "pubDate": "2026-11-08T21:00:03.000Z",
-   "firstSeen": "2026-11-08T21:47:32.438Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/09/190566.html"
-    }
-   ]
-  },
-  {
-   "title": "The Best Deals Today: Sony Inzone H9 Gaming Headset, Criterion Collection Sale, Pikmin 4, and More",
-   "summary": "",
-   "link": "https://www.ign.com/articles/best-deals-for-november-8-2026",
-   "pubDate": "2026-11-08T20:55:31.000Z",
-   "firstSeen": "2026-11-08T21:47:32.438Z",
-   "image": "https://assets-prd.ignimgs.com/2022/06/27/sonyinzoneh9-blogroll-1656352262297.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-november-8-2026"
     }
    ]
   }
