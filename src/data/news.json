@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T18:47:57.097Z",
+ "generatedAt": "2026-11-25T19:47:56.391Z",
  "count": 6000,
  "dedupe": {
   "exact": 1380,
@@ -9771,22 +9771,6 @@
   {
    "date": "2027-02-16",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "遊戯王OCG",
-   "title": "『遊戯王OCG』の新規カード「アルカナフォースVIII－STRENGTH」を同梱！『遊戯王 TAG FORCE GX』攻略本が2月16日発売決定",
-   "link": "https://www.inside-games.jp/article/2026/11/10/190651.html",
-   "source": "インサイド",
-   "sources": 2,
-   "categories": [
-    "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-02-16",
-   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "Shroud of Gloom",
@@ -10827,8 +10811,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 617,
-   "accepted": 480
+   "archived": 618,
+   "accepted": 481
   },
   {
    "id": "gnews-dengeki",
@@ -10838,8 +10822,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 597,
-   "accepted": 354
+   "archived": 600,
+   "accepted": 357
   },
   {
    "id": "gnews-newgame",
@@ -10848,7 +10832,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 83,
    "archived": 630,
    "accepted": 578
   },
@@ -10860,8 +10844,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1469,
-   "accepted": 1265
+   "archived": 1466,
+   "accepted": 1262
   },
   {
    "id": "gnews-ps5",
@@ -10881,9 +10865,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 76,
-   "archived": 426,
-   "accepted": 338
+   "fetched": 77,
+   "archived": 425,
+   "accepted": 337
   },
   {
    "id": "prtimes",
@@ -10893,7 +10877,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26479,
+   "archived": 26520,
    "accepted": 416
   },
   {
@@ -10904,8 +10888,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 310,
-   "accepted": 310
+   "archived": 311,
+   "accepted": 311
   },
   {
    "id": "ign",
@@ -10915,8 +10899,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1290,
-   "accepted": 1290
+   "archived": 1288,
+   "accepted": 1288
   },
   {
    "id": "eurogamer",
@@ -10926,8 +10910,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 331,
-   "accepted": 331
+   "archived": 332,
+   "accepted": 332
   },
   {
    "id": "gamespot",
@@ -10937,8 +10921,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 321,
-   "accepted": 321
+   "archived": 322,
+   "accepted": 322
   },
   {
    "id": "nintendolife",
@@ -10959,11 +10943,175 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 649,
-   "accepted": 649
+   "archived": 647,
+   "accepted": 647
   }
  ],
  "items": [
+  {
+   "title": "GTA 6、Xbox Series XではPS5より快適に動作",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5bGtYR0hFdE1JQkUybTNsUHljVEtrMDd5dl84ZHlSYmo2c1FydXdxUmtKdTBkcjA4YTd6cmlSdm9BWGZyTTRTamJfQm9MbnZRSnVNYnFnaTN3S3loWHJtOEhCcw?oc=5",
+   "pubDate": "2026-11-25T19:11:45.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": null,
+   "source": "mobidevices.com",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "mobidevices.com",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5bGtYR0hFdE1JQkUybTNsUHljVEtrMDd5dl84ZHlSYmo2c1FydXdxUmtKdTBkcjA4YTd6cmlSdm9BWGZyTTRTamJfQm9MbnZRSnVNYnFnaTN3S3loWHJtOEhCcw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone",
+   "summary": "The DOGE alum Treasury CIO says his passion project is \"so cool.\"",
+   "link": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
+   "pubDate": "2026-11-25T19:00:25.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/nF7gF683H8fFsyaJnbvZDc-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/"
+    }
+   ]
+  },
+  {
+   "title": "Incremental mining and blacksmithing game Mello & Omega announced for PC",
+   "summary": "Banchou Tactics and Neko Odyssey developer Secret Character has announced Mello & Omega, an incremental …",
+   "link": "https://www.gematsu.com/2026/11/incremental-mining-and-blacksmithing-game-mello-omega-announced-for-pc",
+   "pubDate": "2026-11-25T19:00:13.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Mello-Omega-Ann_11-25-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/incremental-mining-and-blacksmithing-game-mello-omega-announced-for-pc"
+    }
+   ]
+  },
+  {
+   "title": "Metroid Dread Has Been Sold Out for Ages, and Is Now in Stock at a Steep Discount",
+   "summary": "Metroid Dread is now only £33.29 in Nintendo's Black Friday sale, with a 33% discount and free poster after physical copies sold out.",
+   "link": "https://www.ign.com/articles/metroid-dread-nintendo-switch-black-friday-deal",
+   "pubDate": "2026-11-25T19:00:00.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/22/metroid-dread-nintendo-switch-black-friday-deal-1795359503420.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/metroid-dread-nintendo-switch-black-friday-deal"
+    }
+   ]
+  },
+  {
+   "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
+   "summary": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson…",
+   "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/",
+   "pubDate": "2026-11-25T18:59:56.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/ea-sports-fc-26.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/"
+    }
+   ]
+  },
+  {
+   "title": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
+   "summary": "Action game maestro Hideki Kamiya really wants to make a new Castlevania game with publisher Konami. Read more",
+   "link": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+   "pubDate": "2026-11-25T18:55:20.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://assetsio.gnwcdn.com/0608_01.png?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania"
+    }
+   ]
+  },
   {
    "title": "名作ボドゲ「ブラス：ランカシャー」が「ボードゲームアリーナ」に正式実装。運河と鉄道を敷き，産業革命期の英国で事業を広げる経済戦略ゲーム",
    "summary": "オンラインボードゲームサイト「ボードゲームアリーナ」を運営するAsmodeeDigitalは2026年11月25日，経済戦略ゲーム「ブラス：ランカシャー」を正式実装した。プレイヤーは産業革命期のイングランドで実業家となり，産業施設を建て，運河や鉄道で街を結んで得点を稼ぐ。",
@@ -11015,6 +11163,34 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/"
+    }
+   ]
+  },
+  {
+   "title": "Subscribe to Apple Arcade and Enjoy a One-Month Free Trial Plus Access to New Launches Like NBA 2K27 Arcade Edition",
+   "summary": "Those who subscribe to Apple Arcade can enjoy a one-month free trial plus access to new launches, including Football Manager 27 Touch, NBA 2…",
+   "link": "https://www.ign.com/articles/subscribe-to-apple-arcade-and-enjoy-a-one-month-free-trial-plus-access-to-new-launches-like-nba-2k27-arcade-edition",
+   "pubDate": "2026-11-25T18:29:05.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://assets-prd.ignimgs.com/2026/08/28/nba-2k27-1787944622105.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": -6,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/subscribe-to-apple-arcade-and-enjoy-a-one-month-free-trial-plus-access-to-new-launches-like-nba-2k27-arcade-edition"
     }
    ]
   },
@@ -12277,6 +12453,35 @@
      "name": "Gematsu",
      "sourceId": "gematsu",
      "link": "https://www.gematsu.com/2026/11/sentimental-graffiti-re-launches-march-25-2027-in-japan"
+    }
+   ]
+  },
+  {
+   "title": "Hollow Knight: Silksong’s First Expansion Details Coming Friday, Here’s How To Watch",
+   "summary": "Hollow Knight: Silksong was such a highly anticipated sequel that it became a meme, so naturally as soon as it released, Hollow Knight fans…",
+   "link": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/",
+   "pubDate": "2026-11-25T15:27:27.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/images_8aabe5.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/"
     }
    ]
   },
@@ -14442,7 +14647,7 @@
    "firstSeen": "2026-11-25T11:47:33.001Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14459,9 +14664,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUVZZaklBWnRIRzdnRGM3UkMwZWcySWFwTnpNS1BqWDFTYnZDM3c2ZzdRYXpDSExQZkZmQ25pN1BaZFg4OGZaMlR4UFg0bnVIanpRTGFkVmVSUQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -15694,7 +15899,7 @@
    "firstSeen": "2026-11-25T10:47:41.549Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15709,9 +15914,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sZHdIWEczVzVXa0hlUzF0aVlScF9RRTBtMG10dEstNDhHNGFQV1daYzQ1dVNyTEE5R0RYSmJDWDd4VmtBdVdRVjFpUzlrZ1M1Q1pwMFQ2NA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -18362,6 +18567,38 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000055.000126983.html"
+    }
+   ]
+  },
+  {
+   "title": "海馬瀬人のように着こなせるアウター登場！ 『遊☆戯☆王』コラボアイテム4種が予約開始",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0RFRkNlZ3T2NrZVFYX05pcVp3b2Zrd1R0Z1dBYk9nYnBwQTBqRkpRTGotVVV6bzFtSGxHZW9TMWVRNjZPM2J3eUxhTllZdGI0bWZ2RDdoQUJRZw?oc=5",
+   "pubDate": "2026-11-25T06:35:00.000Z",
+   "firstSeen": "2026-11-25T19:47:39.815Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "遊☆戯☆王"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0RFRkNlZ3T2NrZVFYX05pcVp3b2Zrd1R0Z1dBYk9nYnBwQTBqRkpRTGotVVV6bzFtSGxHZW9TMWVRNjZPM2J3eUxhTllZdGI0bWZ2RDdoQUJRZw?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -29365,7 +29602,7 @@
    "firstSeen": "2026-11-24T08:47:37.177Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -29380,9 +29617,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzRFVnblc3MjhCbE5VREpvMmNFakZ0c1BwTHlmM21KZ3JwM0RXNUppLWtvZnpkcjc2bGE2VGtOV0F4Z2EweFo0RkNpVGNsbUNtOVBIdy0xMnVtQQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -188535,298 +188772,6 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261110-478358/"
-    }
-   ]
-  },
-  {
-   "title": "『メダロット』初期8作品入り『メダロット クラシックス プラス』Steam向けに発表。オンライン対戦・交換にも対応、人気シリーズがSteam初進出",
-   "summary": "イマジニアは11月10日、『メダロット クラシックス プラス カブトVer.』および『メダロット クラシックス プラス クワガタVer.』のSteam版を発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261110-478360/",
-   "pubDate": "2026-11-10T03:00:06.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478360-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "メダロット",
-    "メダロット クラシックス プラス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261110-478360/"
-    }
-   ]
-  },
-  {
-   "title": "舞台は1999年。空き巣して人の弱みを握り、クセありすぎキャラたちと共同生活からのタダ働きするホラーADV『1999トコヨビル』Steamでリリース",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/10/174693.html",
-   "pubDate": "2026-11-10T03:00:03.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "1999トコヨビル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/10/174693.html"
-    }
-   ]
-  },
-  {
-   "title": "PC向けホラーアドベンチャー「1999トコヨビル」，Steamで配信開始。2ndPVやグッズ情報も公開に",
-   "summary": "講談社ゲームラボは本日（2026年11月10日），PC向けホラーアドベンチャー「1999トコヨビル」をSteamでリリースした。価格は1420円（税込）。また，2ndPVやアニメイトで展開されるグッズの全ラインナップが公開された。",
-   "link": "https://www.4gamer.net/games/813/G081367/20261109028/",
-   "pubDate": "2026-11-10T03:00:00.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "release",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/813/G081367/20261109028/"
-    }
-   ]
-  },
-  {
-   "title": "『遊戯王OCG』の新規カード「アルカナフォースVIII－STRENGTH」を同梱！『遊戯王 TAG FORCE GX』攻略本が2月16日発売決定",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/10/190651.html",
-   "pubDate": "2026-11-10T03:00:00.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "遊戯王OCG",
-    "遊戯王 TAG FORCE GX"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/10/190651.html"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dmpuREFFSnRRVkpwdFpCXzY1QW5uM3N5c29lNFJJYmRTajlpelhLemthbGxvNlI3aHVWMjBiVldSMy1JdDR1SmgzN0ZRX2tqNzlzZWJHTE44ZmdPSVFCSQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "任天堂「マリオパーティ」ソフト1本で最大4人遊べるように！ Switch 2の無料アプデで「おすそわけ通信」が大幅進化",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTU4tZDdrd0c0bjVQTEUwOGFHcDFyVjFHQ3otLW83X2owbmdHeFdSRTJidWtzU3NOLWtweGxCMWVMZFAycWhyUTZQa2Z4dDR3SkpTWA?oc=5",
-   "pubDate": "2026-11-10T03:00:00.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": null,
-   "source": "ASCII.jp",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTU4tZDdrd0c0bjVQTEUwOGFHcDFyVjFHQ3otLW83X2owbmdHeFdSRTJidWtzU3NOLWtweGxCMWVMZFAycWhyUTZQa2Z4dDR3SkpTWA?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    },
-    {
-     "name": "週刊アスキー",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxbHA5bE5SOVJNYnM3cnVBUFhCQkVjYW5RTHJFM1BjbDBUeGVidG9yY284bGt6RkRmUlBZZk5sQWJMSXQwdGUwT1hNWHYxcC1PWksxak91V2Z5cUFqYWc?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "ゲーム『崩壊：スターレイル』より、「学生寮シリーズ ちびキャラクター ブラインドボックス 第2弾」が登場！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000222.000127482.html",
-   "pubDate": "2026-11-10T03:00:00.000Z",
-   "firstSeen": "2026-11-10T04:47:36.301Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩壊:スターレイル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000222.000127482.html"
-    }
-   ]
-  },
-  {
-   "title": "秘密を暴いて弱みを握る。君と本当の友達になるために ノスタルジック×ホラーADV『1999トコヨビル』 本日よりSteamにて配信開始 & ローンチ20%OFFセール実施！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000009138.000001719.html",
-   "pubDate": "2026-11-10T03:00:00.000Z",
-   "firstSeen": "2026-11-10T04:47:36.301Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release",
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "steam"
-    ],
-    "off": 20,
-    "free": false
-   },
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "1999トコヨビル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009138.000001719.html"
-    }
-   ]
-  },
-  {
-   "title": "かわいいタヌキがBMXに乗って郵便配達する『タヌキ：ポンの夏』をレビュー。個性的な住人たちとタヌキのポンの交流を描いた、ひと夏の物語",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCdWpCTkhPR2R3dG9fWldUa1haNnNoTWtkNWs1Mmh6aU9uQTh5eG5NWXE3djVNd2NlTmhKR3YtX3pIMTZhYW56Q2JKTHg0a1ZLd0xyMXVvNA?oc=5",
-   "pubDate": "2026-11-10T03:00:00.000Z",
-   "firstSeen": "2026-11-11T02:47:35.732Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "タヌキ:ポンの夏"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCdWpCTkhPR2R3dG9fWldUa1haNnNoTWtkNWs1Mmh6aU9uQTh5eG5NWXE3djVNd2NlTmhKR3YtX3pIMTZhYW56Q2JKTHg0a1ZLd0xyMXVvNA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "セブン―イレブンで「たまごっち」30周年記念フェアが順次開催！コラボ食品や限定グッズ、LINEキャンペーンなど盛り沢山",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/10/190650.html",
-   "pubDate": "2026-11-10T02:55:02.000Z",
-   "firstSeen": "2026-11-10T03:47:35.741Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/10/190650.html"
     }
    ]
   }
