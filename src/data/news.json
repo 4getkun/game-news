@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-25T13:47:56.426Z",
+ "generatedAt": "2026-11-25T14:47:55.218Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1376,
+  "exact": 1380,
   "syndicated": 64,
-  "similar": 381,
-  "syndicatedTotal": 448,
-  "syndicatedLeft": 32
+  "similar": 382,
+  "syndicatedTotal": 449,
+  "syndicatedLeft": 31
  },
  "calendar": [
   {
@@ -1283,22 +1283,6 @@
    "source": "ファミ通",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-12",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": null,
-   "title": "「Golden Joystick Awards 2026」通訳字幕付き生放送が11月12日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-   "link": "https://www.4gamer.net/games/421/G042182/20261109038/",
-   "source": "4Gamer.net（スマホ）",
-   "sources": 1,
-   "categories": [
-    "event"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -5832,6 +5816,39 @@
   {
    "date": "2026-11-27",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "デルタフォース",
+   "title": "『デルタフォース』と『メタルギアソリッドΔ』のコラボが11月27日より開催。レジェンドEX外観「ネイキッド・スネーク」や、限定アクション「ダンボール箱に隠れる」など『MGSΔ』の世界観が満載",
+   "link": "https://news.denfaminicogamer.jp/news/2611253c",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-27",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "「Delta Force」×「METAL GEAR SOLID Δ: SNAKE EATER」コラボが11月27日に開幕。レジェンドEX外観「ネイキッド・スネーク」や限定アクションが登場",
+   "link": "https://www.4gamer.net/games/732/G073256/20261125060/",
+   "source": "4Gamer.net（スマホ）",
+   "sources": 1,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-27",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": "ホロじゃん",
@@ -10033,16 +10050,33 @@
   {
    "date": "2027-03-12",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "信長の野望･飛翔",
+   "title": "歴史SLGシリーズ最新作『信長の野望・飛翔』2027年3月12日リリース決定！アニメ「転生貴族、鑑定スキルで成り上がる」や関谷醸造とのコラボも",
+   "link": "http://www.gamespark.jp/article/2026/11/25/175304.html",
+   "source": "Game*Spark",
+   "sources": 2,
+   "categories": [
+    "release",
+    "collab",
+    "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-03-12",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "信長の野望･飛翔",
-   "title": "『信長の野望･飛翔』2027年3月12日に発売決定。アニメ『転生貴族、鑑定スキルで成り上がる』とのコラボも発表",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94czN2aUg1T05OVXJmVTRjNFdIMGZkdzZ5ckZfNU9UejI5ZmtLQTUxMnFpMVdVX1lLSXhIeVAxaU9XV2N6TTBSM3dOekxSaDY4amIxM3JmZw?oc=5",
-   "source": "ファミ通",
-   "sources": 3,
+   "title": "『信長の野望･飛翔』来年3月12日に発売決定。「城下町」を自由に作り、大義名分を掲げて争う戦国時代",
+   "link": "https://automaton-media.com/articles/newsjp/20261125-480924/",
+   "source": "AUTOMATON",
+   "sources": 2,
    "categories": [
-    "release",
-    "collab"
+    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -10715,8 +10749,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 549,
-   "accepted": 542
+   "archived": 548,
+   "accepted": 541
   },
   {
    "id": "denfaminico",
@@ -10726,8 +10760,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1187,
-   "accepted": 1057
+   "archived": 1188,
+   "accepted": 1058
   },
   {
    "id": "gamewatch",
@@ -10748,8 +10782,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1197,
-   "accepted": 1172
+   "archived": 1198,
+   "accepted": 1173
   },
   {
    "id": "inside-games",
@@ -10803,8 +10837,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 619,
-   "accepted": 482
+   "archived": 620,
+   "accepted": 483
   },
   {
    "id": "gnews-dengeki",
@@ -10814,8 +10848,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 600,
-   "accepted": 356
+   "archived": 595,
+   "accepted": 353
   },
   {
    "id": "gnews-newgame",
@@ -10825,8 +10859,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 630,
-   "accepted": 578
+   "archived": 632,
+   "accepted": 580
   },
   {
    "id": "gnews-switch2",
@@ -10836,8 +10870,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1460,
-   "accepted": 1256
+   "archived": 1464,
+   "accepted": 1260
   },
   {
    "id": "gnews-ps5",
@@ -10848,7 +10882,7 @@
    "error": null,
    "fetched": 100,
    "archived": 805,
-   "accepted": 734
+   "accepted": 732
   },
   {
    "id": "gnews-update",
@@ -10857,9 +10891,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 72,
-   "archived": 420,
-   "accepted": 338
+   "fetched": 100,
+   "archived": 426,
+   "accepted": 341
   },
   {
    "id": "prtimes",
@@ -10869,8 +10903,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26427,
-   "accepted": 416
+   "archived": 26399,
+   "accepted": 415
   },
   {
    "id": "gematsu",
@@ -10880,8 +10914,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 310,
-   "accepted": 310
+   "archived": 311,
+   "accepted": 311
   },
   {
    "id": "ign",
@@ -10891,8 +10925,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1285,
-   "accepted": 1285
+   "archived": 1286,
+   "accepted": 1286
   },
   {
    "id": "eurogamer",
@@ -10913,8 +10947,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 312,
-   "accepted": 312
+   "archived": 311,
+   "accepted": 311
   },
   {
    "id": "nintendolife",
@@ -10924,8 +10958,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 354,
-   "accepted": 354
+   "archived": 355,
+   "accepted": 355
   },
   {
    "id": "pcgamer",
@@ -10935,11 +10969,380 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 655,
-   "accepted": 655
+   "archived": 654,
+   "accepted": 654
   }
  ],
  "items": [
+  {
+   "title": "How to steal an ATM and get a winched vehicle in GTA 6",
+   "summary": "Yank out ATMs and grab the cash with Yasmani's tips.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+   "pubDate": "2026-11-25T14:27:50.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/2bsbrPohC2jrFUKms54Zqi-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Modders Are Trying To Vibe-Code A PC Port, And It’s Not Going Well",
+   "summary": "PC modders are racing to get GTA 6 playable on PC after the leak of the game's complete Xbox build, but so far it doesn't look too promising…",
+   "link": "https://www.gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well/",
+   "pubDate": "2026-11-25T14:23:37.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-28-2.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "xbox",
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well/"
+    }
+   ]
+  },
+  {
+   "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
+   "summary": "What's your excuse?",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/",
+   "pubDate": "2026-11-25T14:15:51.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/CQTzhRbNRKLtjyYiPMkaDh-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/"
+    }
+   ]
+  },
+  {
+   "title": "The Witcher 4 Wants To Be The GTA 6 Of The Witcher Franchise",
+   "summary": "There's been a massive gap between new entries in The Witcher series, and for The Witcher 4, developer CD Projekt Red aims to make it the GT…",
+   "link": "https://www.gamespot.com/articles/the-witcher-4-wants-to-be-the-gta-6-of-the-witcher-franchise/",
+   "pubDate": "2026-11-25T14:15:08.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/The-Witcher-4.jpg?w=300",
+   "source": "GameSpot",
+   "sourceId": "gamespot",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameSpot",
+     "sourceId": "gamespot",
+     "link": "https://www.gamespot.com/articles/the-witcher-4-wants-to-be-the-gta-6-of-the-witcher-franchise/"
+    }
+   ]
+  },
+  {
+   "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
+   "summary": "Do you think you'd enjoy invasive UI elements in real life? You crouch to fuss your dog, and a little ping activates in your retina, informi…",
+   "link": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+   "pubDate": "2026-11-25T14:06:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://assetsio.gnwcdn.com/gta-lucia-psycho.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings"
+    }
+   ]
+  },
+  {
+   "title": "Hershey Chocolate Bars Drop Back Down to Their Original Price of 5 Cents for Today Only",
+   "summary": "",
+   "link": "https://www.ign.com/articles/chocolate-bars-are-just-5-cents-for-the-release-of-the-hershey-movie",
+   "pubDate": "2026-11-25T14:01:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/hersheys-deal-1795597364465.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/chocolate-bars-are-just-5-cents-for-the-release-of-the-hershey-movie"
+    }
+   ]
+  },
+  {
+   "title": "『デルタフォース』と『メタルギアソリッドΔ』のコラボが11月27日より開催。レジェンドEX外観「ネイキッド・スネーク」や、限定アクション「ダンボール箱に隠れる」など『MGSΔ』の世界観が満載",
+   "summary": "限定アクション「ダンボール箱に隠れる」や、コラボ限定銃器スキン、コラボモチーフのフィギュアなど、多彩なコンテンツが楽しめる",
+   "link": "https://news.denfaminicogamer.jp/news/2611253c",
+   "pubDate": "2026-11-25T14:00:53.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Image1-23-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "デルタフォース",
+    "メタルギアソリッドΔ",
+    "MGSΔ",
+    "ダンボール箱に隠れる"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611253c"
+    }
+   ]
+  },
+  {
+   "title": "Digimon Alysion now available",
+   "summary": "Digimon Alysion, the free-to-play mobile game based on Digimon Card Game, is now available for …",
+   "link": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
+   "pubDate": "2026-11-25T14:00:42.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Digimon-Alysion-Launch_11-25-26_001.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/digimon-alysion-now-available"
+    }
+   ]
+  },
+  {
+   "title": "「Delta Force」×「METAL GEAR SOLID Δ: SNAKE EATER」コラボが11月27日に開幕。レジェンドEX外観「ネイキッド・スネーク」や限定アクションが登場",
+   "summary": "TeamJadeはタクティカルシューター「DeltaForce」において，KONAMIの「METALGEARSOLIDΔ:SNAKEEATER」とのコラボレーションイベントを2026年11月27日から12月31日まで開催する。期間中はログインやゲームプレイ，探索などを通じて，各コ…",
+   "link": "https://www.4gamer.net/games/732/G073256/20261125060/",
+   "pubDate": "2026-11-25T14:00:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 3,
+   "categories": [
+    "event",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/732/G073256/20261125060/"
+    }
+   ]
+  },
+  {
+   "title": "Blade Runner 2099 Ending Explained and Biggest Burning Questions",
+   "summary": "Blade Runner 2099 ending explained and burning questions: We break down the details on the latest addition to the future noir sci-fi franchi…",
+   "link": "https://www.ign.com/articles/blade-runner-2099-ending-explained-biggest-burning-questions",
+   "pubDate": "2026-11-25T14:00:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/blade-runner-2099-olwen-thumb-1795569506086.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/blade-runner-2099-ending-explained-biggest-burning-questions"
+    }
+   ]
+  },
+  {
+   "title": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
+   "summary": "Switch 2 hard mode. While it's less likely for players enjoying Ocarina of Time for the first time, veterans may well find the game a bit ea…",
+   "link": "https://www.nintendolife.com/features/8-ways-to-make-zelda-ocarina-of-time-more-difficult",
+   "pubDate": "2026-11-25T14:00:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://images.nintendolife.com/d13caead8eb4a/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/features/8-ways-to-make-zelda-ocarina-of-time-more-difficult"
+    }
+   ]
+  },
+  {
+   "title": "『めっちゃカメレオン』ホラーゲーム『Dark Deception』とのコラボステージ「モンキービジネス」登場！観戦モードや酔い止め防止などの新機能も",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/25/175303.html",
+   "pubDate": "2026-11-25T13:54:46.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "めっちゃカメレオン",
+    "Dark Deception"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/25/175303.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TVW5pcF9ySGJKdFNfQUVDckxNOUpubVppeWhRcXFPeWpELWh1SGFqZ252ZV9hc1M4MGx2U1hZbENyX0RfR2p2QlBxWV9vSkV6SF9xNk90Nnh2NUppRzBydzFiNA?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+   "summary": "Blizzard has officially unveiled Diablo 4's next live-service season: Season of Tyrael's Gambit. This is the ARPG's 16th season, and it foll…",
+   "link": "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary",
+   "pubDate": "2026-11-25T13:51:10.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": "https://assetsio.gnwcdn.com/diablo-4-season-of-hells-legacy-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary"
+    }
+   ]
+  },
   {
    "title": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List",
    "summary": "Nintendo, Konami, Square Enix... you name it! It has been a long old time since we've heard anything from Hideki Kamiya's YouTube channel. T…",
@@ -10967,6 +11370,37 @@
    ]
   },
   {
+   "title": "Switch 2用ドックカバー、ホコリから守るだけでなく周辺機器も収納できるってすごくない？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZGx5b2c2Nm14bmFDSEtaeE9zU0w2VWZLT0lad2d0TGtrMW9sVmt3cTAzZmUyMjVJZE1aMFZfaVZ6RlA3MC1mRUtGZGhYVmx4Q0NOeg?oc=5",
+   "pubDate": "2026-11-25T13:45:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": null,
+   "source": "ASCII.jp",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZGx5b2c2Nm14bmFDSEtaeE9zU0w2VWZLT0lad2d0TGtrMW9sVmt3cTAzZmUyMjVJZE1aMFZfaVZ6RlA3MC1mRUtGZGhYVmx4Q0NOeg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
    "title": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
    "summary": "You can do a lot of things in GTA 6: fishing, golfing, running, jumping, dancing, racing, roaming, shopping. It goes on! There's romancing,…",
    "link": "https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game",
@@ -10989,6 +11423,37 @@
      "name": "Eurogamer",
      "sourceId": "eurogamer",
      "link": "https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game"
+    }
+   ]
+  },
+  {
+   "title": "『ロマサガ3』仲間5人やトレード、新合成術などリメイク版最新情報",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZFh6ZF8tU2tPM21uYl95R1pKVEltOTk0eDVidFVnLUpMTXpiU2k2Y2E1ZjJuZm1JRzdTRXJBWGtMVEpwMkpTVVVLUVozdS1WUzZ4WDMyYVVNUQ?oc=5",
+   "pubDate": "2026-11-25T13:31:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ロマサガ3"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZFh6ZF8tU2tPM21uYl95R1pKVEltOTk0eDVidFVnLUpMTXpiU2k2Y2E1ZjJuZm1JRzdTRXJBWGtMVEpwMkpTVVVLUVozdS1WUzZ4WDMyYVVNUQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -11086,21 +11551,22 @@
    ]
   },
   {
-   "title": "『信長の野望･飛翔』2027年3月12日に発売決定。アニメ『転生貴族、鑑定スキルで成り上がる』とのコラボも発表",
+   "title": "歴史SLGシリーズ最新作『信長の野望・飛翔』2027年3月12日リリース決定！アニメ「転生貴族、鑑定スキルで成り上がる」や関谷醸造とのコラボも",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94czN2aUg1T05OVXJmVTRjNFdIMGZkdzZ5ckZfNU9UejI5ZmtLQTUxMnFpMVdVX1lLSXhIeVAxaU9XV2N6TTBSM3dOekxSaDY4amIxM3JmZw?oc=5",
+   "link": "http://www.gamespark.jp/article/2026/11/25/175304.html",
    "pubDate": "2026-11-25T13:14:00.000Z",
    "firstSeen": "2026-11-25T13:47:35.202Z",
    "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
-   "score": 4,
+   "score": 6,
    "categories": [
     "release",
-    "collab"
+    "collab",
+    "new"
    ],
    "deal": null,
    "platforms": [],
@@ -11110,6 +11576,11 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/25/175304.html"
+    },
     {
      "name": "ファミ通",
      "sourceId": "gnews-ps5",
@@ -11468,6 +11939,37 @@
      "name": "Gematsu",
      "sourceId": "gematsu",
      "link": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia"
+    }
+   ]
+  },
+  {
+   "title": "Kindleで『潔く柔く』全13巻が各100円。『警視庁特犯課007』は3巻まで0円、『陰の実力者になりたくて！』は3巻まで各358円【漫画セール情報】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01cV9Qc1RxNXNzdjJsQ3JfYkVQZlMxcUpCcE02UTNjLTNERkFVeDJGU2RtekEzNElZZEw4UE9JTjdBTnNTTjlObEpIN1ZEVXNXQkFweWVVQQ?oc=5",
+   "pubDate": "2026-11-25T12:10:00.000Z",
+   "firstSeen": "2026-11-25T14:47:34.337Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "潔く柔く",
+    "警視庁特犯課007",
+    "陰の実力者になりたくて!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01cV9Qc1RxNXNzdjJsQ3JfYkVQZlMxcUpCcE02UTNjLTNERkFVeDJGU2RtekEzNElZZEw4UE9JTjdBTnNTTjlObEpIN1ZEVXNXQkFweWVVQQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -12207,7 +12709,7 @@
    "firstSeen": "2026-11-25T11:47:33.001Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12224,9 +12726,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUVZZaklBWnRIRzdnRGM3UkMwZWcySWFwTnpNS1BqWDFTYnZDM3c2ZzdRYXpDSExQZkZmQ25pN1BaZFg4OGZaMlR4UFg0bnVIanpRTGFkVmVSUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -13944,7 +14446,7 @@
    "firstSeen": "2026-11-25T11:47:33.001Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -13961,9 +14463,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RTmZqZThUVHJDaHNSamxjbEQwdFZlNnRrQlRlTnFDVWNZV3VMeVFreGU4ZzcyX0pCM19STmFWcE5pMmNzR3ZoVVFXX00tMmtjclc0cDgxMA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -14480,7 +14982,7 @@
    "firstSeen": "2026-11-25T13:47:35.202Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14499,9 +15001,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Yk9kX1hwZE9qMHFrY1dOWGE5TnByZGR4by11THVhcDdzVEVFRnFWUXlYNW4wUFZpZVFYcEFmX2dmaUstM1dNVWltakIyRGllNHphdnJRTGhEZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -15344,13 +15846,13 @@
   {
    "title": "「オレらは何をさせられてんねん!?」ゲストも困惑＆爆笑! とにかく明るい安村×トキの新作ゲームライブにまさかの長谷川穂積が参戦",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUVjSmhJT1ZyOWh2cjJkb0d1cHhUbUY4NlVkZkhrRUlYbWFQM3hnM3pNVzYtMFFvS2RlTHJKbmlPeklKY3V0WUtNblp2c2VHOXFkbzBPUndWQ2dIY1BmTXFwczByaVZMa2FTamdoSnUwb3ZheVU0Vzg4Mjd4bjEydlZzYktUQmxwSmFjd3hVajFaUdIBlwFBVV95cUxOU3M2anZWU2Q5ZEQxUGhfOXY4MlJyQVhpSnFWT1V3UnlOZ0luWEtwQWYyYjdJUVFERDN5RE9za2FsUHQwZGgtdHZkeDlpZV9UNER3YnRrazNyYVFkYjFDZVQzVXhEYjAwMjVIbTlRTXVnZjEwOWdySXI0c1B2cEU4a3ktQzJRaFlUSkdvall1SjQ2Z3YwNWQ0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMd0pwa251TlVKOEJETVljd0JpcjBQaTZxa1dyVEpOc0wzN2c4NTUxVDhSSkdnME5qaV9KeWNOZWJiYkhZREhjaQ?oc=5",
    "pubDate": "2026-11-25T08:00:00.000Z",
    "firstSeen": "2026-11-25T08:47:36.665Z",
    "image": null,
-   "source": "ｄメニューニュース",
+   "source": "Fany Magazine",
    "sourceId": "gnews-newgame",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 16,
@@ -15362,6 +15864,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "Fany Magazine",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMd0pwa251TlVKOEJETVljd0JpcjBQaTZxa1dyVEpOc0wzN2c4NTUxVDhSSkdnME5qaV9KeWNOZWJiYkhZREhjaQ?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    },
     {
      "name": "ｄメニューニュース",
      "sourceId": "gnews-newgame",
@@ -17375,7 +17883,7 @@
    "firstSeen": "2026-11-25T12:47:48.531Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17392,9 +17900,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SRlhiTjBjTGdlQkhIVWFmMG1CbUN5NnY1OEgwUEdhQ0RKbHRvMGNEaDhOVTFfNUVRUTFWRlNRX1dCeW1oaDNVYTJkblVqWnNLd2JqUVhBQWhpUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -188452,454 +188960,6 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/the-legend-of-zelda-chess-set-is-buy-1-get-1-50-off-before-black-friday-2026"
-    }
-   ]
-  },
-  {
-   "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
-   "summary": "The boss of Rockstar parent company Take-Two has responded to the threat of AI-assisted reverse-engineering and decompilation of games ahead…",
-   "link": "https://www.ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat",
-   "pubDate": "2026-11-09T23:18:51.000Z",
-   "firstSeen": "2026-11-10T00:47:33.768Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-hawk-and-little-morgan-revolvers-01-1794266239211.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat"
-    }
-   ]
-  },
-  {
-   "title": "Switch 2、半期販売37%減でも純利益11%増――2635万台到達の裏にあるソフト比率の変化",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBhQkI2UV9KeVc0YnBGNHVPck5jV2hfd1JPM1lPYzlMaGRnMTZuUm1sZzVfbkxwbzBLdG5SbnNTUm9SRVhQ?oc=5",
-   "pubDate": "2026-11-09T23:14:47.000Z",
-   "firstSeen": "2026-11-09T23:47:37.818Z",
-   "image": null,
-   "source": "shiritomo",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "shiritomo",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBhQkI2UV9KeVc0YnBGNHVPck5jV2hfd1JPM1lPYzlMaGRnMTZuUm1sZzVfbkxwbzBLdG5SbnNTUm9SRVhQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "細かすぎる過酷サバイバルシム『Casualties: Unknown』リリース。四肢やメンタルだけでなく、「心血管」まで管理",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/10/174686.html",
-   "pubDate": "2026-11-09T23:00:02.000Z",
-   "firstSeen": "2026-11-09T23:47:37.818Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Casualties: Unknown"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/10/174686.html"
-    }
-   ]
-  },
-  {
-   "title": "「Golden Joystick Awards 2026」通訳字幕付き生放送が11月12日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-   "summary": "「GoldenJoystickAwards2026」通訳字幕付き生放送が11月12日3：00に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
-   "link": "https://www.4gamer.net/games/421/G042182/20261109038/",
-   "pubDate": "2026-11-09T23:00:00.000Z",
-   "firstSeen": "2026-11-09T23:47:37.818Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/421/G042182/20261109038/"
-    }
-   ]
-  },
-  {
-   "title": "'I’ve Been In a Lot of Harry Potter Already' — Daniel Radcliffe Isn't Sure If He'll Watch HBO's Harry Potter TV Series",
-   "summary": "Former Harry Potter actor Daniel Radcliffe isn't sure if he's going to watch HBO's TV adaptation of the Wizarding World.",
-   "link": "https://www.ign.com/articles/ive-been-in-a-lot-of-harry-potter-already-daniel-radcliffe-isnt-sure-if-hell-watch-hbos-harry-potter-tv-series",
-   "pubDate": "2026-11-09T22:58:23.000Z",
-   "firstSeen": "2026-11-09T23:47:37.818Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/daniel-radcliffe-1794263649773.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "I’ve Been In a Lot of Harry Potter Already"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/ive-been-in-a-lot-of-harry-potter-already-daniel-radcliffe-isnt-sure-if-hell-watch-hbos-harry-potter-tv-series"
-    }
-   ]
-  },
-  {
-   "title": "Skydance Reveals HBO Max and Paramount Plus Streaming Bundle Coming Early 2027",
-   "summary": "Skydance has announced a subscription bundle for both Paramount+ and HBO Max is coming to viewers as soon as early 2027.",
-   "link": "https://www.ign.com/articles/skydance-reveals-hbo-max-and-paramount-plus-streaming-bundle-coming-early-2027",
-   "pubDate": "2026-11-09T22:50:22.000Z",
-   "firstSeen": "2026-11-09T23:47:37.818Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/skydance-warner-bros-paramount-1794263646231.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/skydance-reveals-hbo-max-and-paramount-plus-streaming-bundle-coming-early-2027"
-    }
-   ]
-  },
-  {
-   "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
-   "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting t…",
-   "link": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
-   "pubDate": "2026-11-09T22:47:40.000Z",
-   "firstSeen": "2026-11-09T23:47:37.818Z",
-   "image": "https://assetsio.gnwcdn.com/Lucia-ai-background.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview"
-    }
-   ]
-  },
-  {
-   "title": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
-   "summary": "Skydance Games has \"made the difficult decision to scale down some of our projects.\"",
-   "link": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/",
-   "pubDate": "2026-11-09T22:33:41.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/wKbv8zjAaUe8ogbgTPav7N-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/"
-    }
-   ]
-  },
-  {
-   "title": "最大4人協力プレイ対応のミニカー専門店経営シム『Supercar Collection Together』早期アクセス開始。儲けて、集めて、最速も目指せ",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/10/174685.html",
-   "pubDate": "2026-11-09T22:30:03.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Supercar Collection Together"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/10/174685.html"
-    }
-   ]
-  },
-  {
-   "title": "昼は国の役人、裏では地下組織のスパイとして暗躍するゲーム『Beholder 4』が発表。誰もが監視されるダークなディストピアで、国と地下組織のどちらにつくかはプレイヤー次第",
-   "summary": "盗聴や金庫破りで秘密を探りつつ、昇進して機密情報に近づく。4人の女性とのロマンスも。発売日は未定",
-   "link": "https://news.denfaminicogamer.jp/news/261110d",
-   "pubDate": "2026-11-09T22:28:22.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_4e405b1ed2a59a7f6218297ab988a714787d5ff4.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Beholder 4"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261110d"
-    }
-   ]
-  },
-  {
-   "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
-   "summary": "Pre-orders for GTA 6 are still \"unprecedented,\" says the publisher.",
-   "link": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
-   "pubDate": "2026-11-09T22:06:34.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/9SieU3JpSSPX34eMduXqsW-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/"
-    }
-   ]
-  },
-  {
-   "title": "“感染ウィルス”ゲーム『Plague Inc』のボドゲ版がデジタルでも配信。理由は開発元が「楽しかったから」。ユーザー数2億人超えたという人気作のボドゲ版が、オンライン対戦も楽しめる。最大4人対戦が可能",
-   "summary": "ユーザー数2億人超えたという人気作のボドゲ版が、オンライン対戦も楽しめるように。最大4人で、ライバルの病原体と争いながら人類を滅ぼせる",
-   "link": "https://news.denfaminicogamer.jp/news/261110c",
-   "pubDate": "2026-11-09T22:03:59.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_e547931e302cf70a14c9ff05096f5f851b0b4360.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Plague Inc"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261110c"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick",
-   "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick noted that pre-orders for Grand Theft Auto 6 are tr…",
-   "link": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
-   "pubDate": "2026-11-09T22:02:50.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": "https://assetsio.gnwcdn.com/gta-earnings.jpg?width=690&quality=85&format=jpg&auto=webp",
-   "source": "Eurogamer",
-   "sourceId": "eurogamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Eurogamer",
-     "sourceId": "eurogamer",
-     "link": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call"
-    }
-   ]
-  },
-  {
-   "title": "GTA6のPS5 Pro版は60fpsではなく40fpsモードを搭載か。プリロードから120Hz出力と新PSSR対応が判明",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83bTFxcXV0d0FBVmEyZ1M3UTJPMGJ4QzNvS3MyR0dscW1mMUZ4VlE3Nmc1ZFdzeGdmekpOWkxnWkdVU2M2WDBJTmVyV1JfbGMyZ1VNRTR6R3o2Xzg2NWhwcTZ6ekNrQV9sQzRaZGo0a0U?oc=5",
-   "pubDate": "2026-11-09T22:02:00.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": null,
-   "source": "GAZLOG",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAZLOG",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83bTFxcXV0d0FBVmEyZ1M3UTJPMGJ4QzNvS3MyR0dscW1mMUZ4VlE3Nmc1ZFdzeGdmekpOWkxnWkdVU2M2WDBJTmVyV1JfbGMyZ1VNRTR6R3o2Xzg2NWhwcTZ6ekNrQV9sQzRaZGo0a0U?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】にゃんとも可愛いナイスバディな「猫汰つな」、リアル天使の『NIKKE』に「グレンラガン」まで「池ハロ」美女レイヤー9選【写真38枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/10/190634.html",
-   "pubDate": "2026-11-09T22:00:03.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "NIKKE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/10/190634.html"
-    }
-   ]
-  },
-  {
-   "title": "等身大美少女フィギュアを並べて“俺の嫁”博物館を作る整理整頓シム『Waifu Curator』リリース！くノ一、メイド、ケモノ...いろんなムチムチ美女が勢ぞろい",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/10/174684.html",
-   "pubDate": "2026-11-09T22:00:02.000Z",
-   "firstSeen": "2026-11-09T22:44:12.715Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Waifu Curator"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/10/174684.html"
     }
    ]
   }
