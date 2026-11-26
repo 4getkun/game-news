@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T17:47:56.457Z",
+ "generatedAt": "2026-11-26T18:47:44.135Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1392,
-  "syndicated": 66,
-  "similar": 390,
-  "syndicatedTotal": 456,
+  "exact": 1393,
+  "syndicated": 67,
+  "similar": 389,
+  "syndicatedTotal": 457,
   "syndicatedLeft": 30
  },
  "calendar": [
@@ -4644,6 +4644,24 @@
   {
    "date": "2026-11-26",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "ドラゴンズドグマ 2:ダークアリズン",
+   "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ‼",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbGhMc01rRUVhVjNUZUZkTExDUVZRSXdJQmNDOW4wS3hGY0VSSHR0YnhqRDdla2NkbEJWcEViREstbEE0WHhNaDk1S2h6WjdHMmthNjJqb09zQ0txUFI3Y3JXSjFlOFRVTnc?oc=5",
+   "source": "PR TIMES",
+   "sources": 5,
+   "categories": [
+    "release"
+   ],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-26",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "楽園追放 –Expelled from Paradise-",
@@ -4656,24 +4674,6 @@
     "release"
    ],
    "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-26",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "ドラゴンズドグマ 2:ダークアリズン",
-   "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ‼",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbGhMc01rRUVhVjNUZUZkTExDUVZRSXdJQmNDOW4wS3hGY0VSSHR0YnhqRDdla2NkbEJWcEViREstbEE0WHhNaDk1S2h6WjdHMmthNjJqb09zQ0txUFI3Y3JXSjFlOFRVTnc?oc=5",
-   "source": "PR TIMES",
-   "sources": 4,
-   "categories": [
-    "release"
-   ],
-   "platforms": [
-    "switch2"
-   ],
    "spoiler": false
   },
   {
@@ -7447,22 +7447,6 @@
    "categories": [
     "new",
     "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-02",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": null,
-   "title": "「Cities: Skylines II」，新拡張パック「Park Adventures」を12月2日に配信。動物園や遊園地，自然保護区を設計して運営しよう",
-   "link": "https://www.4gamer.net/games/691/G069127/20261111007/",
-   "source": "4Gamer.net",
-   "sources": 1,
-   "categories": [
-    "update"
    ],
    "platforms": [],
    "spoiler": false
@@ -11008,8 +10992,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 606,
-   "accepted": 473
+   "archived": 608,
+   "accepted": 475
   },
   {
    "id": "gnews-dengeki",
@@ -11019,8 +11003,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 583,
-   "accepted": 352
+   "archived": 582,
+   "accepted": 351
   },
   {
    "id": "gnews-newgame",
@@ -11029,9 +11013,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 622,
-   "accepted": 573
+   "fetched": 81,
+   "archived": 621,
+   "accepted": 572
   },
   {
    "id": "gnews-switch2",
@@ -11041,8 +11025,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1496,
-   "accepted": 1287
+   "archived": 1495,
+   "accepted": 1286
   },
   {
    "id": "gnews-ps5",
@@ -11053,7 +11037,7 @@
    "error": null,
    "fetched": 100,
    "archived": 840,
-   "accepted": 766
+   "accepted": 767
   },
   {
    "id": "gnews-update",
@@ -11063,8 +11047,8 @@
    "ok": true,
    "error": null,
    "fetched": 74,
-   "archived": 417,
-   "accepted": 329
+   "archived": 418,
+   "accepted": 330
   },
   {
    "id": "prtimes",
@@ -11074,7 +11058,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26522,
+   "archived": 26554,
    "accepted": 419
   },
   {
@@ -11096,8 +11080,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1298,
-   "accepted": 1298
+   "archived": 1293,
+   "accepted": 1293
   },
   {
    "id": "eurogamer",
@@ -11107,8 +11091,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 334,
-   "accepted": 334
+   "archived": 335,
+   "accepted": 335
   },
   {
    "id": "gamespot",
@@ -11118,8 +11102,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 311,
-   "accepted": 311
+   "archived": 310,
+   "accepted": 310
   },
   {
    "id": "nintendolife",
@@ -11129,8 +11113,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 354,
-   "accepted": 354
+   "archived": 355,
+   "accepted": 355
   },
   {
    "id": "pcgamer",
@@ -11140,11 +11124,152 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 641,
-   "accepted": 641
+   "archived": 640,
+   "accepted": 640
   }
  ],
  "items": [
+  {
+   "title": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
+   "summary": "Aeternum Game Studios does have a question, though: \"Is it just us, or does the universe have it in for us?\"",
+   "link": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/",
+   "pubDate": "2026-11-26T18:31:22.000Z",
+   "firstSeen": "2026-11-26T18:47:32.110Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/SK9qm2fZ6UsQLxkoi24YSG-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/"
+    }
+   ]
+  },
+  {
+   "title": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time",
+   "summary": "Give us a tune. Just last week, Nintendo announced that the upcoming playable and electric ocarinas, launching in conjunction with Ocarina o…",
+   "link": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time",
+   "pubDate": "2026-11-26T18:30:00.000Z",
+   "firstSeen": "2026-11-26T18:47:32.110Z",
+   "image": "https://images.nintendolife.com/e0787ab453cfb/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time"
+    }
+   ]
+  },
+  {
+   "title": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
+   "summary": "Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata…",
+   "link": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands",
+   "pubDate": "2026-11-26T18:14:30.000Z",
+   "firstSeen": "2026-11-26T18:47:32.110Z",
+   "image": "https://assetsio.gnwcdn.com/nioh-3-gameplay-screen-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands"
+    }
+   ]
+  },
+  {
+   "title": "T-Mobile Is Offering a $1,200 Off Discount on the New Apple iPhone 18 Pro Smartphone for Black Friday",
+   "summary": "When you sign up for T-Mobile's new T-Mix Loaded plan.",
+   "link": "https://www.ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-black-friday-deal-2026",
+   "pubDate": "2026-11-26T18:00:00.000Z",
+   "firstSeen": "2026-11-26T18:47:32.110Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/appleiphone18pro2-1795714141504.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "mobile"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-black-friday-deal-2026"
+    }
+   ]
+  },
+  {
+   "title": "Review: Gamesir Nova Vision Controller For Switch 1 & 2 - Unique Features Elevate This Mid-Range Pad",
+   "summary": "What a vision. Accessory developer Gamesir doesn’t often make controllers with the Switch 1 and 2 in mind, instead focusing primarily on Xbo…",
+   "link": "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad",
+   "pubDate": "2026-11-26T18:00:00.000Z",
+   "firstSeen": "2026-11-26T18:47:32.110Z",
+   "image": "https://images.nintendolife.com/637448a224e55/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad"
+    }
+   ]
+  },
   {
    "title": "Black Friday SSD deals 2026",
    "summary": "Black Friday has already begun, making it the perfect time to scout out the ultimate storage upgrade.",
@@ -12898,6 +13023,39 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2159453.html"
+    }
+   ]
+  },
+  {
+   "title": "『GTA6』デビューしよう！ AmazonブラックフライデーでPS5本体＋PSストアチケット13000円分のセットがお買い得！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XeWg1ZmRSbl92UEpuWTFWbEJjRV9ueEQ0LWVLQlMxZkU3b1lnQ0J0aTZLLXU0Y2ZWTHV0cTNYaktjT01BdmNKRmhkelNldkR1bVRpVmVqUQ?oc=5",
+   "pubDate": "2026-11-26T15:03:00.000Z",
+   "firstSeen": "2026-11-26T18:47:32.110Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XeWg1ZmRSbl92UEpuWTFWbEJjRV9ueEQ0LWVLQlMxZkU3b1lnQ0J0aTZLLXU0Y2ZWTHV0cTNYaktjT01BdmNKRmhkelNldkR1bVRpVmVqUQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -17538,7 +17696,7 @@
    "firstSeen": "2026-11-26T08:47:36.389Z",
    "image": null,
    "source": "GameWith",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17556,9 +17714,9 @@
    "sources": [
     {
      "name": "GameWith",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUDRjemdKeXphdEhSX0k4ZFFQYmVuQk9fdExPMk5pQUpnckdidHlFMUh2M0dPYzhSSENuLWtTeFdXT3YyVTFNbFZreFpLbG96dndmYkJDMFFoWXc?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -22168,58 +22326,6 @@
    ]
   },
   {
-   "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ‼",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbGhMc01rRUVhVjNUZUZkTExDUVZRSXdJQmNDOW4wS3hGY0VSSHR0YnhqRDdla2NkbEJWcEViREstbEE0WHhNaDk1S2h6WjdHMmthNjJqb09zQ0txUFI3Y3JXSjFlOFRVTnc?oc=5",
-   "pubDate": "2026-11-26T02:00:02.000Z",
-   "firstSeen": "2026-11-26T04:47:40.872Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 28,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "ドラゴンズドグマ 2:ダークアリズン",
-    "モンスターハンターワイルズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbGhMc01rRUVhVjNUZUZkTExDUVZRSXdJQmNDOW4wS3hGY0VSSHR0YnhqRDdla2NkbEJWcEViREstbEE0WHhNaDk1S2h6WjdHMmthNjJqb09zQ0txUFI3Y3JXSjFlOFRVTnc?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WandONjNWSXZhTXZabGhia0NBT0V4czZBUktrV0NvZzNGaEhIRnNnY0xFcjFfTzhuQUk4aWZhbnBTME5mU1diSktrY29yNk5IMGRqaGM5WUoxWDJGODJXY29sSV9MbkozMjN0SEZCZ2ZYTFVTUlVR?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByNTExb0J1ZXM4cnNnLUxzTFVnOEZiYUN6YndaQ0VoNXRLNDlwbFVwaENWTFZEUkc1M3lQVzFXbGVVTnNtUWNJQ3RzWTRMX2tBSWxtcFhFOGR4RXNaY0pEdQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VdWdxbzdxbEk2TXFCWTk5MHZsdUkwYjZHM09KMkt0REU0ZlBaZ3lUNVpSQWY3aDN2cTdhTXFNTXVJRzJuR01id01zWVc3QnlqU3dMVXJlc0RScGY4QTJIWkloS0pGbVRGdlFB?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
    "title": "男色ディーノのゲイムヒヒョー ゼロ：第917回「開放的な旅の夜」",
    "summary": "今週の「男色ディーノのゲイムヒヒョーゼロ」は，プロレスの遠征先で遊んだ「ONEPIECE海のごちそうレストラン」を取り上げます。4連戦の夜をともにしたカイロソフト作品について，ディーノ選手が語ります。",
    "link": "https://www.4gamer.net/games/040/G004083/20261124017/",
@@ -22268,6 +22374,65 @@
      "name": "GAME Watch",
      "sourceId": "gamewatch",
      "link": "https://game.watch.impress.co.jp/docs/news/2159255.html"
+    }
+   ]
+  },
+  {
+   "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ‼",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbGhMc01rRUVhVjNUZUZkTExDUVZRSXdJQmNDOW4wS3hGY0VSSHR0YnhqRDdla2NkbEJWcEViREstbEE0WHhNaDk1S2h6WjdHMmthNjJqb09zQ0txUFI3Y3JXSjFlOFRVTnc?oc=5",
+   "pubDate": "2026-11-26T02:00:00.000Z",
+   "firstSeen": "2026-11-26T04:47:40.872Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 28,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "ドラゴンズドグマ 2:ダークアリズン",
+    "モンスターハンターワイルズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbGhMc01rRUVhVjNUZUZkTExDUVZRSXdJQmNDOW4wS3hGY0VSSHR0YnhqRDdla2NkbEJWcEViREstbEE0WHhNaDk1S2h6WjdHMmthNjJqb09zQ0txUFI3Y3JXSjFlOFRVTnc?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WandONjNWSXZhTXZabGhia0NBT0V4czZBUktrV0NvZzNGaEhIRnNnY0xFcjFfTzhuQUk4aWZhbnBTME5mU1diSktrY29yNk5IMGRqaGM5WUoxWDJGODJXY29sSV9MbkozMjN0SEZCZ2ZYTFVTUlVR?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "AppBank",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByNTExb0J1ZXM4cnNnLUxzTFVnOEZiYUN6YndaQ0VoNXRLNDlwbFVwaENWTFZEUkc1M3lQVzFXbGVVTnNtUWNJQ3RzWTRMX2tBSWxtcFhFOGR4RXNaY0pEdQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VdWdxbzdxbEk2TXFCWTk5MHZsdUkwYjZHM09KMkt0REU0ZlBaZ3lUNVpSQWY3aDN2cTdhTXFNTXVJRzJuR01id01zWVc3QnlqU3dMVXJlc0RScGY4QTJIWkloS0pGbVRGdlFB?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wRkxpWnpwXzJOZDRjektOTUdfMmJVc2JZUnBUQ0hwb0twUDZEa0lZZ2QyWFdrWDVXOWd2eWJFdlQ4NjY5Q2tXemwxNDY1N2lpQ2tCdy1LSmcxRkx4QjNId3ljblFnTUlWWGtEdVduOTNPZw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
     }
    ]
   },
@@ -30188,7 +30353,7 @@
    "firstSeen": "2026-11-25T11:47:33.001Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30205,9 +30370,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RTmZqZThUVHJDaHNSamxjbEQwdFZlNnRrQlRlTnFDVWNZV3VMeVFreGU4ZzcyX0pCM19STmFWcE5pMmNzR3ZoVVFXX00tMmtjclc0cDgxMA?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -35675,7 +35840,7 @@
    "firstSeen": "2026-11-25T02:47:41.211Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-update",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -35690,9 +35855,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0VUlPdFFBZzNVTkJTa2h0azEyc0RnTDdQelVTdkF1eTdKM1hlbmd4T2dzY2V4TzlFN3hZdDViSFhmMG5nTGUwUEdpSGViQUdVekJnS0cyOA?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -48723,9 +48888,9 @@
     },
     {
      "name": "Nintendo",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjFtOWtkUGFPTno4QzhoQ2Y4RXFoRnVaeG5WMGl0OXRuWV91LWRnWEs0S3VfVnMtenlkWWdYNUNVWWFoSHgteGtzUGVxTFNWdldmQ1ZGRkVkT2w3WWV6R1BQSmk2TnpMYlZMdWhxOTNjbUxiY00xc1hfVlAwcTJ5TTV5Qnc3Zw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ゲーム アップデート」"
     },
     {
      "name": "Nintendo Switch 情報ブログ",
@@ -55058,7 +55223,7 @@
    "firstSeen": "2026-11-23T09:47:34.413Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -55078,9 +55243,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xdjFoQlItNzl0X3ZSMHJaU0dOOUd4eVhqcmJWWWZOc2l6MGFORDd3QVB5Z015ZjJLbEhBQkF5TXBKR29PSHVxakx1R1V3d3BYc0JfT3pwcjRDUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -106880,9 +107045,9 @@
     },
     {
      "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tR0xIXzlaUlc3R2FtekxxY0VHdGRfMmlmaUJTcWYtWkE4MmxQLUo1a1oxRFNXTm83X0dUQzZWYmJDSHlpLU1ZOU1kWE01YjltRjNPUHVxdDdWaEpyR3VaaEZNYVV3U3czaVNscnE5MGlwWmFXY3VnMXRPRWN1SnM?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
+     "via": "Googleニュース「PS5 発売」",
      "syndicated": true
     }
    ]
@@ -188965,190 +189130,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/11/190723.html"
-    }
-   ]
-  },
-  {
-   "title": "『刀剣乱舞』新刀剣男士“八八王国吉（ぱちぱちおうくによし）”（声：檜山修之、絵：lack）が登場するイベント“江戸城潜入調査”が開催【とうらぶ】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VlpzSW5FYkpjQjJGOTlyRHk3UHVQeWlMYnVnaGhoeU5INlJpcmo5WGk0X3hIaWJ4UUIxWVNSSkNtd3pNN3ZjSU90M01sc1psQlI0aHJVdw?oc=5",
-   "pubDate": "2026-11-11T02:36:00.000Z",
-   "firstSeen": "2026-11-11T08:47:36.256Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event",
-    "ranking"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "刀剣乱舞"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VlpzSW5FYkpjQjJGOTlyRHk3UHVQeWlMYnVnaGhoeU5INlJpcmo5WGk0X3hIaWJ4UUIxWVNSSkNtd3pNN3ZjSU90M01sc1psQlI0aHJVdw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "『ウィザードリィ』45周年記念セール開催！PC版『6』『7』『8』が最大85%オフ、リメイク版初代も70%オフに。『五つの試練』も1,791円で安い",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/11/174733.html",
-   "pubDate": "2026-11-11T02:35:50.000Z",
-   "firstSeen": "2026-11-11T02:47:35.732Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new",
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 85,
-    "free": false
-   },
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "ウィザードリィ",
-    "五つの試練"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/11/174733.html"
-    }
-   ]
-  },
-  {
-   "title": "Devolver Digital初の“AAAタイトル”が満を持して発表、その名も『All Army Attack』。結局ダジャレ",
-   "summary": "Devolver Digitalは11月11日、BlackLight Gamesが手がける『All Army Attack』を発表した。同社初の「AAA」を発表すると予告されていた。",
-   "link": "https://automaton-media.com/articles/newsjp/20261111-478536/",
-   "pubDate": "2026-11-11T02:28:54.000Z",
-   "firstSeen": "2026-11-11T02:47:35.732Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478536-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "All Army Attack"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261111-478536/"
-    }
-   ]
-  },
-  {
-   "title": "「Cities: Skylines II」，新拡張パック「Park Adventures」を12月2日に配信。動物園や遊園地，自然保護区を設計して運営しよう",
-   "summary": "ParadoxInteractiveは，都市建設シミュレーション「Cities:SkylinesII」の新拡張パック「ParkAdventures」を2026年12月2日に配信すると発表した。開発を引き継いだIceflakeStudiosが初めて手掛ける拡張コンテンツで，遊園地や…",
-   "link": "https://www.4gamer.net/games/691/G069127/20261111007/",
-   "pubDate": "2026-11-11T02:27:39.000Z",
-   "firstSeen": "2026-11-11T02:47:35.732Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/691/G069127/20261111007/"
-    }
-   ]
-  },
-  {
-   "title": "『Warhammer Survivors』が XBOX Game Pass で配信開始！ グルームスパイト・ギットに打ち勝つための攻略ヒント",
-   "summary": "The post 『Warhammer Survivors』が XBOX Game Pass で配信開始！ グルームスパイト・ギットに打ち勝つための攻略ヒント appeared first on XBOX Wire Japan.",
-   "link": "https://news.xbox.com/ja-jp/2026/11/11/warhammer-survivors-gloomspite-gitz/",
-   "pubDate": "2026-11-11T02:22:38.000Z",
-   "firstSeen": "2026-11-11T02:47:35.732Z",
-   "image": "https://xboxwire.thesourcemediaassets.com/sites/10/2026/11/TitledHeroArt_1920x1080_null-f6bfdf14d74972ecefee-1024x576.jpg",
-   "source": "Xbox Wire",
-   "sourceId": "xbox-wire",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [
-    "Warhammer Survivors"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Xbox Wire",
-     "sourceId": "xbox-wire",
-     "link": "https://news.xbox.com/ja-jp/2026/11/11/warhammer-survivors-gloomspite-gitz/"
-    }
-   ]
-  },
-  {
-   "title": "「ムーミン」アイテムがしまむら・シャンブルにて発売！これからの季節にぴったりなアパレル、バッグやステンレスマグなど多数ラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/11/190721.html",
-   "pubDate": "2026-11-11T02:20:02.000Z",
-   "firstSeen": "2026-11-11T02:47:35.732Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/11/190721.html"
     }
    ]
   }
