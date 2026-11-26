@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-26T13:47:55.141Z",
+ "generatedAt": "2026-11-26T14:47:55.307Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1383,
+  "exact": 1386,
   "syndicated": 65,
-  "similar": 393,
-  "syndicatedTotal": 451,
+  "similar": 388,
+  "syndicatedTotal": 452,
   "syndicatedLeft": 31
  },
  "calendar": [
@@ -2212,22 +2212,6 @@
    "source": "GAME Watch",
    "sources": 1,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-18",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "マクドナルド「チキンマックナゲット 15ピース」が490円！期間限定ソース2種も新登場11月18日よりキャンペーン開催。サンエックスコラボも",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155290.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [
-    "collab"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -5007,6 +4991,22 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "地球防衛軍6.2",
+   "title": "『地球防衛軍6.2』公式生放送第2回が2026年11月26日20時より配信決定！",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14cTVteXRpMnBSRmZiZnlsR0RuSU1rMWVBaTNjajlPLVhGdnowMUc5bjRKX0d1cWNjN04wdmo3aHYzZkF4bV9NejJRX1QyVk5sdGJMOExablViMkE?oc=5",
+   "source": "GameWith",
+   "sources": 1,
+   "categories": [
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-26",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": null,
    "title": "Desktop Mate OИE DLC 本日リリース！",
    "link": "https://prtimes.jp/main/html/rd/p/000000121.000045461.html",
@@ -6523,6 +6523,20 @@
   {
    "date": "2026-12",
    "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "ゾロ目か“7”で勝負開始！ いますぐコルクを逃がせ！ 反射神経を競うアクションパーティーボドゲ「クォルク」日本語版が12月下旬発売へ",
+   "link": "https://www.4gamer.net/games/138/G013817/20261126057/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
    "verb": "launch",
    "label": "配信",
    "work": "Red Life",
@@ -7519,6 +7533,22 @@
   {
    "date": "2026-12-03",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "サルウォーズ",
+   "title": "開発のキッカケは“サルに野菜を持っていかれた実体験”―マウス操作で畑を守る2人協力アクション『サルウォーズ』スイッチ2向けに12月3日発売",
+   "link": "https://www.inside-games.jp/article/2026/11/26/191615.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
+   "platforms": [
+    "switch2"
+   ],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-03",
+   "precision": "day",
    "verb": "update",
    "label": "アップデート",
    "work": "グラブル リリンク エンドレスラグナロク",
@@ -7833,6 +7863,22 @@
    "categories": [
     "new",
     "demo"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "Titan Crew",
+   "title": "112ページのマニュアルまで日本語対応！4人で巨大2脚ロボを歩かせる『Titan Crew』が12月4日に早期アクセス開始",
+   "link": "http://www.gamespark.jp/article/2026/11/26/175345.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [
+    "release"
    ],
    "platforms": [],
    "spoiler": false
@@ -10930,8 +10976,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1196,
-   "accepted": 1069
+   "archived": 1194,
+   "accepted": 1067
   },
   {
    "id": "gamewatch",
@@ -10963,8 +11009,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1674,
-   "accepted": 1290
+   "archived": 1675,
+   "accepted": 1291
   },
   {
    "id": "ps-blog",
@@ -11007,8 +11053,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 607,
-   "accepted": 476
+   "archived": 602,
+   "accepted": 471
   },
   {
    "id": "gnews-dengeki",
@@ -11018,8 +11064,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 579,
-   "accepted": 350
+   "archived": 577,
+   "accepted": 348
   },
   {
    "id": "gnews-newgame",
@@ -11029,8 +11075,8 @@
    "ok": true,
    "error": null,
    "fetched": 74,
-   "archived": 622,
-   "accepted": 571
+   "archived": 620,
+   "accepted": 570
   },
   {
    "id": "gnews-switch2",
@@ -11040,8 +11086,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1491,
-   "accepted": 1283
+   "archived": 1495,
+   "accepted": 1289
   },
   {
    "id": "gnews-ps5",
@@ -11051,8 +11097,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 837,
-   "accepted": 761
+   "archived": 840,
+   "accepted": 766
   },
   {
    "id": "gnews-update",
@@ -11061,7 +11107,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 72,
    "archived": 414,
    "accepted": 326
   },
@@ -11073,8 +11119,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26558,
-   "accepted": 415
+   "archived": 26532,
+   "accepted": 414
   },
   {
    "id": "gematsu",
@@ -11084,8 +11130,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 312,
-   "accepted": 312
+   "archived": 313,
+   "accepted": 313
   },
   {
    "id": "ign",
@@ -11095,8 +11141,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1297,
-   "accepted": 1297
+   "archived": 1301,
+   "accepted": 1301
   },
   {
    "id": "eurogamer",
@@ -11106,8 +11152,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 331,
-   "accepted": 331
+   "archived": 333,
+   "accepted": 333
   },
   {
    "id": "gamespot",
@@ -11117,8 +11163,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 315,
-   "accepted": 315
+   "archived": 312,
+   "accepted": 312
   },
   {
    "id": "nintendolife",
@@ -11139,11 +11185,610 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 643,
-   "accepted": 643
+   "archived": 641,
+   "accepted": 641
   }
  ],
  "items": [
+  {
+   "title": "Retail Hell coming to PS5, Xbox Series, and Switch",
+   "summary": "Publisher Feardemic and developer LEAP Game Studios will release simulation horror game Retail Hell for …",
+   "link": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch",
+   "pubDate": "2026-11-26T14:46:52.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Retail-Hell_11-26-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 18,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5",
+    "xbox"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch"
+    }
+   ]
+  },
+  {
+   "title": "無料モンスター育成ローグライク『Dokimon Frontier』ウィッシュリスト1万突破―250万DLされた『ポケモン』インスパイアRPGのシリーズ新作",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/26/175346.html",
+   "pubDate": "2026-11-26T14:45:29.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Dokimon Frontier",
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/26/175346.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
+   "summary": "Scan the No Flusher graffiti to steal the fastest car in the game.",
+   "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
+   "pubDate": "2026-11-26T14:37:19.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/3DrBjzAVG2ardmUJ5SjaQn-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
+    }
+   ]
+  },
+  {
+   "title": "112ページのマニュアルまで日本語対応！4人で巨大2脚ロボを歩かせる『Titan Crew』が12月4日に早期アクセス開始",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/26/175345.html",
+   "pubDate": "2026-11-26T14:30:03.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Titan Crew"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/26/175345.html"
+    }
+   ]
+  },
+  {
+   "title": "One Of 2025's Best Roguelikes Will Soon Be Free For Switch Online Members",
+   "summary": "Rogue 'em up until 3rd December. Nintendo is back with another Free Game Trial for all of its NSO members in Europe, and it's a real good'un…",
+   "link": "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members",
+   "pubDate": "2026-11-26T14:30:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://images.nintendolife.com/b5fcb7992a479/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members"
+    }
+   ]
+  },
+  {
+   "title": "ゾロ目か“7”で勝負開始！ いますぐコルクを逃がせ！ 反射神経を競うアクションパーティーボドゲ「クォルク」日本語版が12月下旬発売へ",
+   "summary": "ホビージャパンは本日（2026年11月26日），ボードゲーム「クォルク」の日本語版を12月下旬に発売すると発表した。価格は3740円（税込）。ダイスの出目を合図に，カップをかぶせてコルクを捕まえる側と，ひもを引いてコルクを逃がす側に分かれて遊ぶパーティーゲームだ。",
+   "link": "https://www.4gamer.net/games/138/G013817/20261126057/",
+   "pubDate": "2026-11-26T14:24:12.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 1,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/138/G013817/20261126057/"
+    }
+   ]
+  },
+  {
+   "title": "These budget-friendly pads are the cheapest, quickest way to instantly upgrade your setup for under $25",
+   "summary": "Be a master controller on the cheap.",
+   "link": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25/",
+   "pubDate": "2026-11-26T14:20:36.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/HnGQPuJEk2xU29aLtyyTSG-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25/"
+    }
+   ]
+  },
+  {
+   "title": "We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says",
+   "summary": "Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI…",
+   "link": "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city",
+   "pubDate": "2026-11-26T14:18:20.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+   "summary": "Somewhere around the middle of GTA 6 you unlock the ability to rob ATMs. Any ATM marked green can be pulled out of the wall and cracked open…",
+   "link": "https://www.ign.com/articles/robbing-gta-6-atms-quickly",
+   "pubDate": "2026-11-26T14:16:47.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-12-1795702599377.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/robbing-gta-6-atms-quickly"
+    }
+   ]
+  },
+  {
+   "title": "Card-based hacking adventure game Hack ’95 to be published by PQube",
+   "summary": "PQube will publish Village Studio-developed card-based hacking adventure game Hack ’95 when it launches for …",
+   "link": "https://www.gematsu.com/2026/11/card-based-hacking-adventure-game-hack-95-to-be-published-by-pqube",
+   "pubDate": "2026-11-26T14:13:52.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hack-95_11-26-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/card-based-hacking-adventure-game-hack-95-to-be-published-by-pqube"
+    }
+   ]
+  },
+  {
+   "title": "パフォーマンス向上の最新アプデが好影響か―Steam版『Escape from Tarkov』最近のユーザーレビューが“やや好評”に",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/26/175344.html",
+   "pubDate": "2026-11-26T14:11:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Escape from Tarkov"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/26/175344.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04d1k2Q2N0WTF4TlYtSVJzbExOWXhnZHhnOVZGMUw4cS1hSUhjTWRlOEhoN05BaXhKNjZuaGRabUJQdklrZTJWd2oyVzE5bUNLWW5ZSFJNM3dybFAwaWx6bVJPWQ?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+   "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desi…",
+   "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+   "pubDate": "2026-11-26T14:09:10.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats"
+    }
+   ]
+  },
+  {
+   "title": "Origament: A Paper Adventure now available for PS5, Switch",
+   "summary": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch …",
+   "link": "https://www.gematsu.com/2026/11/origament-a-paper-adventure-now-available-for-ps5-switch",
+   "pubDate": "2026-11-26T14:08:59.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Origament-Console_11-23-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 13,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/origament-a-paper-adventure-now-available-for-ps5-switch"
+    }
+   ]
+  },
+  {
+   "title": "Every Current Model Apple Watch Has Dropped to New Price Lows for Black Friday",
+   "summary": "Starts at just $179 for a brand new watch.",
+   "link": "https://www.ign.com/articles/best-apple-watch-deals-black-friday-sale-2026",
+   "pubDate": "2026-11-26T14:00:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/applewatchultra4-1795699775521.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/best-apple-watch-deals-black-friday-sale-2026"
+    }
+   ]
+  },
+  {
+   "title": "Watching TV in GTA 6 Is More Depressing Than Fun, Except for One Show",
+   "summary": "GTA 6's TV content is impressive on a technical level, but apart from one standout show, it's not all that fun to actually watch.",
+   "link": "https://www.ign.com/articles/watching-tv-in-gta-6-is-more-depressing-than-fun-except-for-one-show",
+   "pubDate": "2026-11-26T14:00:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/mixcollage-25-nov-2026-04-48-pm-3970-1795644000393.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/watching-tv-in-gta-6-is-more-depressing-than-fun-except-for-one-show"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Promises To Fix The Long Load Times On Pikmin 4 - Switch 2 Edition",
+   "summary": "\"We apologise for the inconvenience\". Nintendo has issued a statement acknowledging load time issues on Pikmin 4 - Nintendo Switch 2 Edition…",
+   "link": "https://www.nintendolife.com/news/2026/11/nintendo-promises-to-fix-the-long-load-times-on-pikmin-4-switch-2-edition",
+   "pubDate": "2026-11-26T14:00:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://images.nintendolife.com/226eca7fe50a1/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/nintendo-promises-to-fix-the-long-load-times-on-pikmin-4-switch-2-edition"
+    }
+   ]
+  },
+  {
+   "title": "South Park Season 29 Finale Review: 'City Endings'",
+   "summary": "South Park caps off a very uneven Season 29 with the messy but still very enjoyable finale episode \"City Endings.\" Read our full review.",
+   "link": "https://www.ign.com/articles/south-park-season-29-finale-review-city-endings",
+   "pubDate": "2026-11-26T13:56:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/24/south-park-2906-press-image-2-1795547990235.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "update",
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/south-park-season-29-finale-review-city-endings"
+    }
+   ]
+  },
+  {
+   "title": "\"I'm betting on the sickos\" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper",
+   "summary": "When I last spoke to Citizen Sleeper creator Gareth Damian Martin, it was on the eve of Citizen Sleeper 2's release. Like its predecessor, t…",
+   "link": "https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg",
+   "pubDate": "2026-11-26T13:54:50.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assetsio.gnwcdn.com/signet-city-no-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "source": "Eurogamer",
+   "sourceId": "eurogamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Eurogamer",
+     "sourceId": "eurogamer",
+     "link": "https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg"
+    }
+   ]
+  },
+  {
+   "title": "PS5『地球防衛軍6.2』生放送まとめ。新要素のカスタマイズ機能の仕組みが紹介、物量地獄には特殊効果重ね掛けの突撃が決め手",
+   "summary": "ディースリー・パブリッシャーは11月26日、『地球防衛軍6.2 INVADERS FROM ANOTHER WORLD』の公式生放送を配信。新要素である武器のカスタマイズ機能の仕組みが解説された。",
+   "link": "https://automaton-media.com/articles/newsjp/20261126-481222/",
+   "pubDate": "2026-11-26T13:50:04.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481222-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "地球防衛軍6.2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261126-481222/"
+    }
+   ]
+  },
+  {
+   "title": "PS5(PlayStation 5) Pro本体はAmazonブラックフライデー2026で安くなる？通常版はいくら？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaC1vdzN5QnlrSlI2cFM2aFlwaXJ1WnZQSE1aWHJoWXRqSGVib3ZTNkJFZGRJdGxhUEprclF3SUNOSzA0V0h1ZHMxZXAyQmd2ZlRYaG5uQ2E3R3A1MUlaXzBDZ3Npd2UzSjMxbV9xQy1uWjJHelNJdGdPdEI4cTRQQWZGVEwzSVdpelZHYnFZdjktbWJfcElCVi1ZeXFYdHJ0NERSN0lHQm5OZHRIMlZwUUkza1RTclE0NDNBem9QQllLQ2p6TDBqRg?oc=5",
+   "pubDate": "2026-11-26T13:49:37.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": null,
+   "source": "Goal.com",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Goal.com",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaC1vdzN5QnlrSlI2cFM2aFlwaXJ1WnZQSE1aWHJoWXRqSGVib3ZTNkJFZGRJdGxhUEprclF3SUNOSzA0V0h1ZHMxZXAyQmd2ZlRYaG5uQ2E3R3A1MUlaXzBDZ3Npd2UzSjMxbV9xQy1uWjJHelNJdGdPdEI4cTRQQWZGVEwzSVdpelZHYnFZdjktbWJfcElCVi1ZeXFYdHJ0NERSN0lHQm5OZHRIMlZwUUkza1RTclE0NDNBem9QQllLQ2p6TDBqRg?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
+   "title": "開発のキッカケは“サルに野菜を持っていかれた実体験”―マウス操作で畑を守る2人協力アクション『サルウォーズ』スイッチ2向けに12月3日発売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/26/191615.html",
+   "pubDate": "2026-11-26T13:40:03.000Z",
+   "firstSeen": "2026-11-26T13:47:33.952Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [
+    "サルウォーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/26/191615.html"
+    }
+   ]
+  },
   {
    "title": "『GTA6』コンソール比較―PS5とXSXでビジュアル表現はほぼ同一。パフォーマンスはXSXが優位",
    "summary": "",
@@ -11171,6 +11816,90 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/26/175343.html"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6's Cartel Heist Might Be Rockstar's Best Ever Mission, But Only If You Do It Badly",
+   "summary": "GTA 6's chapter three heist might be Rockstar's best ever mission, but only if you do it badly.",
+   "link": "https://www.ign.com/articles/gta-6s-cartel-heist-might-be-rockstars-best-ever-mission-chapter-3-explained",
+   "pubDate": "2026-11-26T13:30:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/heist-blog-1795698388839.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6s-cartel-heist-might-be-rockstars-best-ever-mission-chapter-3-explained"
+    }
+   ]
+  },
+  {
+   "title": "Here's When and Where to Stream Every NFL Football Game on Thanksgiving",
+   "summary": "",
+   "link": "https://www.ign.com/articles/thanksgiving-nfl-football-schedule-for-streaming-2026",
+   "pubDate": "2026-11-26T13:30:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/thanksgiving-football-1795669126820.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": -2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/thanksgiving-nfl-football-schedule-for-streaming-2026"
+    }
+   ]
+  },
+  {
+   "title": "Shop the Sonos Black Friday Sale on Thanksgiving Day: Up to 34% Off Soundbars, Speakers, and Headphones",
+   "summary": "Lowest prices ever on the Arc Ultra soundbar and Sonos Ace headphones.",
+   "link": "https://www.ign.com/articles/sonos-black-friday-sale-2026",
+   "pubDate": "2026-11-26T13:30:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/sonos2-1795697571866.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 34,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/sonos-black-friday-sale-2026"
     }
    ]
   },
@@ -15580,6 +16309,37 @@
    ]
   },
   {
+   "title": "『地球防衛軍6.2』公式生放送第2回が2026年11月26日20時より配信決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14cTVteXRpMnBSRmZiZnlsR0RuSU1rMWVBaTNjajlPLVhGdnowMUc5bjRKX0d1cWNjN04wdmo3aHYzZkF4bV9NejJRX1QyVk5sdGJMOExablViMkE?oc=5",
+   "pubDate": "2026-11-26T07:06:07.000Z",
+   "firstSeen": "2026-11-26T07:47:33.695Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "地球防衛軍6.2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14cTVteXRpMnBSRmZiZnlsR0RuSU1rMWVBaTNjajlPLVhGdnowMUc5bjRKX0d1cWNjN04wdmo3aHYzZkF4bV9NejJRX1QyVk5sdGJMOExablViMkE?oc=5",
+     "via": "Googleニュース「PS5 発売」"
+    }
+   ]
+  },
+  {
    "title": "「ガルダイーグル」が令和に爆誕！『バラバライド』と『クラッシュギア』がコラボ",
    "summary": "猛禽類を思わせる甲冑姿と「ビークソード」を復刻再現。「シャイニングソードブレイカー」でライバルをバラバラにできる！？",
    "link": "https://news.denfaminicogamer.jp/news/2611262s",
@@ -16425,7 +17185,7 @@
    "firstSeen": "2026-11-26T06:47:36.608Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16441,9 +17201,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mdi1EalQxMDJrRmNwaXJQOFNqZ0JTYjQ4SkVSM2NYTkpXaHlTRkVnRWRsbUZYblkxRnhQZDhrVHZLSG51YUwtLWZ4TWdmZTJNdzZtUF9oVUp1dw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -17397,7 +18157,7 @@
    "firstSeen": "2026-11-26T06:47:36.608Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17416,9 +18176,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53WElteHBSYW1wYmFQYm1vdmxKNTE1aUxFOGpfc1diZUctRFRpbTRsVnZLRnk5eXpvZ3hWMmxoQmJtektuLXFpQTFWZWZfeXdTNm43VUdQWQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -19662,6 +20422,35 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NYThNQjd5WkpzV0JNQUpES3ZrOTFBanU5OG9CMm5PNDFYUXFwZV9vYmpLSjV4MTdRaEFjWTJJZzdwQzZGUmxMWkJ0WTc3bEFCdlpjVEhfelc1MWVyVEdTMQ?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "プリキュア第24弾は『ファンたじっくプリキュア！』。ロゴ＆キャッチコピー公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZlBhd3A3c2xlOVhaanVWaTFDYklNNzVnUTBHR2FmVUZ6SVVMUFdDYkJaQzBHZ3VRTW44Q1Rhdk4yNUxCWXI1aFpTWFBZNXlZOGtWUUV2Q1B2UQ?oc=5",
+   "pubDate": "2026-11-26T01:34:00.000Z",
+   "firstSeen": "2026-11-26T14:47:33.682Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ファンたじっくプリキュア!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZlBhd3A3c2xlOVhaanVWaTFDYklNNzVnUTBHR2FmVUZ6SVVMUFdDYkJaQzBHZ3VRTW44Q1Rhdk4yNUxCWXI1aFpTWFBZNXlZOGtWUUV2Q1B2UQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -26779,9 +27568,9 @@
     },
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZExEUjZPb3BjTWo4N1NVLVVqdGlyV1lyR1QtOHdaSzIyYnMxa1dxbXVnX2FoSWFjVUpmODhTaW1leWJSNkJQVTdrTU5NSktCQzBqRzU5MA?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -27846,7 +28635,7 @@
    "firstSeen": "2026-11-25T13:47:35.202Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -27865,9 +28654,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Yk9kX1hwZE9qMHFrY1dOWGE5TnByZGR4by11THVhcDdzVEVFRnFWUXlYNW4wUFZpZVFYcEFmX2dmaUstM1dNVWltakIyRGllNHphdnJRTGhEZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -41936,7 +42725,7 @@
    "firstSeen": "2026-11-24T07:47:36.191Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -41965,9 +42754,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50dXlQRmhLSDliYXJJc3BacnYyVVJQbENvbGxsVHpydG1la2lkaEplakFLM0otVWJWallGTWQ0UmxheG1aRG5qem96M0l5SGNrenBtUElTcw?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -45031,9 +45820,9 @@
     },
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNVFnWVZaRi1vTXc2MGVtc3k2bl9uamJVWlZCUUF1Z0lub1lRUlNVR19BRTQ5OVAxeDVQdmNNYUhGWW04dWtIRFJjakluZzFrR1dDdHFtbWsxUQ?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -188444,723 +189233,6 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01MnR1RS1UVzZteVlMMDR3TUc5OWlWT1FRUG1KME1jSG9HZVlDNGVvaWpSRXpVTFRHcU1hUXgwQ3hBLUI2VUhsVjJ6NV83VDN2TXZpZzlMUQ?oc=5",
      "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
-   "summary": "The Symbiosis update, which will also kick off a beta for a new Team Deathmatch mode, will launch on December 8 with a free-play week.",
-   "link": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
-   "pubDate": "2026-11-10T21:16:59.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/qsoUEKZJuZjDSsWKVnbSzh-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "update",
-    "trailer",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/"
-    }
-   ]
-  },
-  {
-   "title": "DC's New Leader Will Reportedly Prioritize More Well-Known Characters Like Batman and Wonder Woman, Reboot Has Yet to Be Decided",
-   "summary": "DC Studios' new boss is reportedly planning to prioritize more mainstream characters like Batman and Wonder Woman going forward.",
-   "link": "https://www.ign.com/articles/dcs-new-leader-will-reportedly-prioritize-more-well-known-characters-like-batman-and-wonder-woman-reboot-has-yet-to-be-decided",
-   "pubDate": "2026-11-10T21:15:35.000Z",
-   "firstSeen": "2026-11-10T22:47:33.179Z",
-   "image": "https://assets-prd.ignimgs.com/2025/04/24/wonder-woman-whatever-happened-thumb-1745538711578.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/dcs-new-leader-will-reportedly-prioritize-more-well-known-characters-like-batman-and-wonder-woman-reboot-has-yet-to-be-decided"
-    }
-   ]
-  },
-  {
-   "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
-   "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history. It's little wonder then, that…",
-   "link": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
-   "pubDate": "2026-11-10T21:08:36.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/03/wowthumb-1793742518107.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance"
-    }
-   ]
-  },
-  {
-   "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
-   "summary": "Fairgames, a live-service heist game from PlayStation's Haven Studios, has been canceled by Sony.",
-   "link": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
-   "pubDate": "2026-11-10T21:00:21.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/fairgames-1794344318033.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames"
-    }
-   ]
-  },
-  {
-   "title": "ゲーム向け翻訳支援ツール「PCOT」開発終了へ。AIを使ってプレイヤー自身で日本語化する未来が見えたため",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/11/174727.html",
-   "pubDate": "2026-11-10T21:00:03.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/11/174727.html"
-    }
-   ]
-  },
-  {
-   "title": "ロマンチックな可愛いリボン姿にキュン！「サンリオキャラクターズ」マイメロディたちの新作グッズ全6種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/11/190706.html",
-   "pubDate": "2026-11-10T21:00:03.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/11/190706.html"
-    }
-   ]
-  },
-  {
-   "title": "Fairgame$ canceled",
-   "summary": "Sony Interactive Entertainment has canceled development subsidiary Haven Interactive Studios’ May 2023-announced multiplayer shooter Fairgam…",
-   "link": "https://www.gematsu.com/2026/11/fairgame-canceled",
-   "pubDate": "2026-11-10T20:58:47.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Fairgames-Cancelled_11-10-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/fairgame-canceled"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
-   "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are exci…",
-   "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
-   "pubDate": "2026-11-10T20:55:32.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/"
-    }
-   ]
-  },
-  {
-   "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
-   "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is accord…",
-   "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
-   "pubDate": "2026-11-10T20:43:00.000Z",
-   "firstSeen": "2026-11-10T21:47:35.624Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/fairgames.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
-   "summary": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car driver doing a backflip. The animation look…",
-   "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
-   "pubDate": "2026-11-10T20:26:18.000Z",
-   "firstSeen": "2026-11-10T20:47:39.221Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 1,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/"
-    }
-   ]
-  },
-  {
-   "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
-   "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick…",
-   "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
-   "pubDate": "2026-11-10T20:14:55.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_07.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/"
-    }
-   ]
-  },
-  {
-   "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
-   "summary": "Features three AC outlets and four USB ports.",
-   "link": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday",
-   "pubDate": "2026-11-10T20:10:00.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/talixfluxo-1794339247921.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": 50,
-    "free": false
-   },
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday"
-    }
-   ]
-  },
-  {
-   "title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
-   "summary": "We build LEGO Ideas Downton Abbey, a big, heavy, stately set that comes with 13 minifigures.",
-   "link": "https://www.ign.com/articles/lego-downton-abbey-review-21373",
-   "pubDate": "2026-11-10T20:08:45.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/lego-downton-abbey-blogroll-1794337223830.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/lego-downton-abbey-review-21373"
-    }
-   ]
-  },
-  {
-   "title": "Street Fighter Overtakes Street Fighter as the Highest-Grossing Street Fighter Movie at the Global Box Office",
-   "summary": "The 2026 Street Fighter film has officially dethroned the 1994 movie as the highest-grossing Street Fighter adaptation of all time.",
-   "link": "https://www.ign.com/articles/street-fighter-overtakes-street-fighter-as-the-highest-grossing-street-fighter-movie-at-the-global-box-office",
-   "pubDate": "2026-11-10T20:04:02.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/10/16/dd-raul-oo-1792111569928.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "media"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/street-fighter-overtakes-street-fighter-as-the-highest-grossing-street-fighter-movie-at-the-global-box-office"
-    }
-   ]
-  },
-  {
-   "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
-   "summary": "Reflector Entertainment had a new game in pre-production, but Bandai decided it wasn't worth the time or money to pursue.",
-   "link": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/",
-   "pubDate": "2026-11-10T19:55:36.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/WTrJjDChn3v8ozas2KjHmf-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/"
-    }
-   ]
-  },
-  {
-   "title": "Someone Got Halo 1 Running on a Sega Dreamcast",
-   "summary": "A developer has successfully gotten the original Halo: Combat Evolved, a day-one launch title for the original Xbox in 2001, ported and runn…",
-   "link": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
-   "pubDate": "2026-11-10T19:47:58.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/h1-1794340308833.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast"
-    }
-   ]
-  },
-  {
-   "title": "The Ultimate Where's Waldo Book Collection Drops to Its Lowest Price of the Year",
-   "summary": "",
-   "link": "https://www.ign.com/articles/the-ultimate-wheres-waldo-book-collection-drops-to-its-lowest-price-of-the-year-black-friday-2026",
-   "pubDate": "2026-11-10T19:45:38.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/new-project-1794339920252.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/the-ultimate-wheres-waldo-book-collection-drops-to-its-lowest-price-of-the-year-black-friday-2026"
-    }
-   ]
-  },
-  {
-   "title": "Today’s Top Deals: Astro Bot, Logitech G PRO X Superlight 2 SE Mouse, and Star Wars Galactic Racer",
-   "summary": "Plus, save on an Elgato mic, Switch 2, LEGO, and more.",
-   "link": "https://www.ign.com/articles/best-deals-for-november-10-2026",
-   "pubDate": "2026-11-10T19:30:00.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/untitled-design-23-1794334257982.png",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/best-deals-for-november-10-2026"
-    }
-   ]
-  },
-  {
-   "title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes",
-   "summary": "Burger King just launched a Magic: The Gathering meal that comes with Whopper-themed deck boxes and sleeves. Unfortunately, the promotion is…",
-   "link": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
-   "pubDate": "2026-11-10T19:16:40.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/10/burgerkingmtg-1794335089331.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes"
-    }
-   ]
-  },
-  {
-   "title": "GTA 6 Was Never Going to Hit 60 Frames per Second on Consoles",
-   "summary": "Back when Rockstar showed off a bunch of GTA 6 gameplay on Netflix, one thing was incredibly clear – the game was running around 30 fps. And…",
-   "link": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles",
-   "pubDate": "2026-11-10T19:15:00.000Z",
-   "firstSeen": "2026-11-10T20:37:29.678Z",
-   "image": "https://assets-prd.ignimgs.com/2026/11/09/ultimate-edition-electric-fang-03-1794260488819.jpg",
-   "source": "IGN",
-   "sourceId": "ign",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN",
-     "sourceId": "ign",
-     "link": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles"
-    }
-   ]
-  },
-  {
-   "title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
-   "summary": "Valve's Steam Deck verification program has been a helpful, if somewhat flawed, method of determining if a game is a good fit for the compan…",
-   "link": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/",
-   "pubDate": "2026-11-10T19:07:47.000Z",
-   "firstSeen": "2026-11-10T19:47:32.889Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/2e7f9079b6be9a3c99c5014fc1ee0eaede8d5edb.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/"
-    }
-   ]
-  },
-  {
-   "title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
-   "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more th…",
-   "link": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/",
-   "pubDate": "2026-11-10T19:03:44.000Z",
-   "firstSeen": "2026-11-10T19:47:32.889Z",
-   "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-First-Post-Launch-Changes.jpg?w=300",
-   "source": "GameSpot",
-   "sourceId": "gamespot",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameSpot",
-     "sourceId": "gamespot",
-     "link": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/"
-    }
-   ]
-  },
-  {
-   "title": "マクドナルド「チキンマックナゲット 15ピース」が490円！期間限定ソース2種も新登場11月18日よりキャンペーン開催。サンエックスコラボも",
-   "summary": "日本マクドナルドは、サイドメニュー「チキンマックナゲット 15ピース」を特別価格で販売する「トクニナルド」キャンペーンを11月18日より開催する。期間は12月15日まで。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155290.html",
-   "pubDate": "2026-11-10T19:00:00.000Z",
-   "firstSeen": "2026-11-10T19:47:32.889Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2155290.html"
-    }
-   ]
-  },
-  {
-   "title": "『Ravenswatch』歪んだおとぎ話がSwitch 2へ、Switch版所有者は無料アップグレード",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTktUnl1TmNfTm5tMXlPZnl4MDZ1LVFVNzJRUGxyX1pHRThTUlhsRGRJTmxKX1prRjFJd192dEh5QnZwQkFlbTA2S0t2SGJvMHh1dEJ6VmlxMTg4cjk1MmRWQnhnaFZ6M2NQUGphSVhGeVBoRXI5Q2JCbE9uTTdONzZEblF6NmFWVGFjZFlFTzY4SFUyc2ljbGM4bnJLY2VZQ3Jn?oc=5",
-   "pubDate": "2026-11-10T19:00:00.000Z",
-   "firstSeen": "2026-11-10T19:47:32.889Z",
-   "image": null,
-   "source": "Martin Cid Magazine",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch"
-   ],
-   "works": [
-    "Ravenswatch"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Martin Cid Magazine",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTktUnl1TmNfTm5tMXlPZnl4MDZ1LVFVNzJRUGxyX1pHRThTUlhsRGRJTmxKX1prRjFJd192dEh5QnZwQkFlbTA2S0t2SGJvMHh1dEJ6VmlxMTg4cjk1MmRWQnhnaFZ6M2NQUGphSVhGeVBoRXI5Q2JCbE9uTTdONzZEblF6NmFWVGFjZFlFTzY4SFUyc2ljbGM4bnJLY2VZQ3Jn?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier",
-   "summary": "Big talk. \"The line must be drawn here! This far, no further!\" Please forgive the Captain Picard First Contact quote (it's been a couple of…",
-   "link": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier",
-   "pubDate": "2026-11-10T19:00:00.000Z",
-   "firstSeen": "2026-11-10T19:47:32.889Z",
-   "image": "https://images.nintendolife.com/35bdc8dc74477/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier"
-    }
-   ]
-  },
-  {
-   "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
-   "summary": "Yes, this fits with Sony's broader pullback from PC, but the real reason the app is \"retiring\" is a simple lack of interest.",
-   "link": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
-   "pubDate": "2026-11-10T18:57:18.000Z",
-   "firstSeen": "2026-11-10T19:47:32.889Z",
-   "image": "https://cdn.mos.cms.futurecdn.net/wkTrHGFcrPxmNFFGDeyYtH-1920-80.jpg",
-   "source": "PC Gamer",
-   "sourceId": "pcgamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 6,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PC Gamer",
-     "sourceId": "pcgamer",
-     "link": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/"
     }
    ]
   }
