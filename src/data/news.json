@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T22:38:13.730Z",
+ "generatedAt": "2026-11-26T22:47:50.394Z",
  "count": 6000,
  "dedupe": {
   "exact": 1391,
@@ -10994,8 +10994,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 623,
-   "accepted": 574
+   "archived": 622,
+   "accepted": 573
   },
   {
    "id": "gnews-switch2",
@@ -11005,8 +11005,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1492,
-   "accepted": 1283
+   "archived": 1493,
+   "accepted": 1284
   },
   {
    "id": "gnews-ps5",
@@ -11016,8 +11016,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 838,
-   "accepted": 765
+   "archived": 839,
+   "accepted": 766
   },
   {
    "id": "gnews-update",
@@ -11026,9 +11026,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 73,
-   "archived": 419,
-   "accepted": 331
+   "fetched": 70,
+   "archived": 418,
+   "accepted": 330
   },
   {
    "id": "prtimes",
@@ -18386,7 +18386,7 @@
    "firstSeen": "2026-11-26T08:47:36.389Z",
    "image": null,
    "source": "GameWith",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -18404,9 +18404,9 @@
    "sources": [
     {
      "name": "GameWith",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUDRjemdKeXphdEhSX0k4ZFFQYmVuQk9fdExPMk5pQUpnckdidHlFMUh2M0dPYzhSSENuLWtTeFdXT3YyVTFNbFZreFpLbG96dndmYkJDMFFoWXc?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -45713,7 +45713,7 @@
    "firstSeen": "2026-11-24T07:47:36.191Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -45742,9 +45742,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50dXlQRmhLSDliYXJJc3BacnYyVVJQbENvbGxsVHpydG1la2lkaEplakFLM0otVWJWallGTWQ0UmxheG1aRG5qem96M0l5SGNrenBtUElTcw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -107779,9 +107779,9 @@
     },
     {
      "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tR0xIXzlaUlc3R2FtekxxY0VHdGRfMmlmaUJTcWYtWkE4MmxQLUo1a1oxRFNXTm83X0dUQzZWYmJDSHlpLU1ZOU1kWE01YjltRjNPUHVxdDdWaEpyR3VaaEZNYVV3U3czaVNscnE5MGlwWmFXY3VnMXRPRWN1SnM?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
+     "via": "Googleニュース「PS5 発売」",
      "syndicated": true
     }
    ]
