@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-27T00:47:58.069Z",
+ "generatedAt": "2026-11-27T01:47:57.521Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1392,
-  "syndicated": 67,
+  "exact": 1396,
+  "syndicated": 66,
   "similar": 387,
   "syndicatedTotal": 458,
-  "syndicatedLeft": 31
+  "syndicatedLeft": 30
  },
  "calendar": [
   {
@@ -5865,6 +5865,34 @@
   {
    "date": "2026-12",
    "precision": "month",
+   "verb": "launch",
+   "label": "配信",
+   "work": null,
+   "title": "アマプラ、12月配信ラインナップまとめ！ 「マイケル」が独占配信「グレンラガン」「ギアス」「けいおん！」「〈物語〉」などアニメも",
+   "link": "https://game.watch.impress.co.jp/docs/news/2159711.html",
+   "source": "GAME Watch",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "launch",
+   "label": "配信",
+   "work": "鎌倉殿の13人",
+   "title": "【アマプラ12月配信作品】大河ドラマ『鎌倉殿の13人』が見放題配信に登場。『グレンラガン』『コードギアス』『物語』シリーズなどアニメも充実",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1VXNGeHVkNHotckdkMWliZUNzVC1hdWlWR0VoUmNoNTZYYThjWWtDUm1FM19UVFVsMC1UYmFqYlZYWUFiUjBjWm1kMU11dTQ2QVh1dmJ5cw?oc=5",
+   "source": "ファミ通",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -8880,20 +8908,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-01-23",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "遊戯王OCG",
-   "title": "『遊戯王OCG』新パック「PRIDE AND SOUL」1月23日発売！パッケージは海馬瀬人、新たな「ブルーアイズ」や「闇・道化師のサギー」たちが登場",
-   "link": "https://www.inside-games.jp/article/2026/11/11/190731.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-01-26",
    "precision": "day",
    "verb": "launch",
@@ -9578,13 +9592,14 @@
    "verb": "release",
    "label": "発売",
    "work": "センチメンタルグラフティリメイク",
-   "title": "『センチメンタルグラフティリメイク』2027年3月25日に発売決定！主題歌「Melty Love」（SHAZNA）が流れるOPムービーも公開",
-   "link": "https://news.denfaminicogamer.jp/news/2611262i",
-   "source": "電ファミニコゲーマー",
-   "sources": 4,
+   "title": "伝説のギャルゲーが29年の時を経て再び『センチメンタルグラフティリメイク』2027年3月25日発売決定！水着を含む大量のイベントCGが眩しい…新たな『セングラ』",
+   "link": "http://www.gamespark.jp/article/2026/11/26/175330.html",
+   "source": "Game*Spark",
+   "sources": 5,
    "categories": [
     "new",
-    "release"
+    "release",
+    "event"
    ],
    "platforms": [],
    "spoiler": false
@@ -10235,8 +10250,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 940,
-   "accepted": 911
+   "archived": 941,
+   "accepted": 912
   },
   {
    "id": "4gamer-sp",
@@ -10246,8 +10261,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 229,
-   "accepted": 220
+   "archived": 230,
+   "accepted": 221
   },
   {
    "id": "automaton",
@@ -10269,7 +10284,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1198,
-   "accepted": 1067
+   "accepted": 1066
   },
   {
    "id": "gamewatch",
@@ -10279,7 +10294,7 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 634,
+   "archived": 635,
    "accepted": 602
   },
   {
@@ -10290,8 +10305,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1187,
-   "accepted": 1161
+   "archived": 1189,
+   "accepted": 1163
   },
   {
    "id": "inside-games",
@@ -10302,7 +10317,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1680,
-   "accepted": 1290
+   "accepted": 1292
   },
   {
    "id": "ps-blog",
@@ -10345,8 +10360,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 612,
-   "accepted": 475
+   "archived": 617,
+   "accepted": 478
   },
   {
    "id": "gnews-dengeki",
@@ -10356,8 +10371,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 579,
-   "accepted": 351
+   "archived": 580,
+   "accepted": 353
   },
   {
    "id": "gnews-newgame",
@@ -10366,7 +10381,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 78,
+   "fetched": 100,
    "archived": 624,
    "accepted": 575
   },
@@ -10378,8 +10393,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1491,
-   "accepted": 1283
+   "archived": 1494,
+   "accepted": 1285
   },
   {
    "id": "gnews-ps5",
@@ -10389,8 +10404,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 842,
-   "accepted": 769
+   "archived": 841,
+   "accepted": 768
   },
   {
    "id": "gnews-update",
@@ -10399,9 +10414,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 70,
-   "archived": 418,
-   "accepted": 330
+   "fetched": 100,
+   "archived": 420,
+   "accepted": 332
   },
   {
    "id": "prtimes",
@@ -10411,8 +10426,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26691,
-   "accepted": 423
+   "archived": 26600,
+   "accepted": 422
   },
   {
    "id": "gematsu",
@@ -10433,8 +10448,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1281,
-   "accepted": 1281
+   "archived": 1280,
+   "accepted": 1280
   },
   {
    "id": "eurogamer",
@@ -10477,11 +10492,589 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 641,
-   "accepted": 641
+   "archived": 643,
+   "accepted": 643
   }
  ],
  "items": [
+  {
+   "title": "『GTA6』発売とともに行われたロックスターの労組承認投票、反対75%で否決―組合側は「撤退の合図ではない」と活動継続へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/27/175354.html",
+   "pubDate": "2026-11-27T01:45:03.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "GTA6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/27/175354.html"
+    }
+   ]
+  },
+  {
+   "title": "任天堂、Nintendo Storeで最大2,000円キャッシュバックのあと払いキャンペーンを開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4X0JBVTJvb0R3bDRFTFhHYUZGek5ZcWRGcTE4VDdiOHFRcnFnX0t2LTdQQWVjZkZJNnFYdTdITFdrT05ZV2czNnFfMERCSGY5NGhlakJxVWxHOUpDTWFnSWkzRVVKQQ?oc=5",
+   "pubDate": "2026-11-27T01:43:51.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4X0JBVTJvb0R3bDRFTFhHYUZGek5ZcWRGcTE4VDdiOHFRcnFnX0t2LTdQQWVjZkZJNnFYdTdITFdrT05ZV2czNnFfMERCSGY5NGhlakJxVWxHOUpDTWFnSWkzRVVKQQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "「Amazonブラックフライデー」先行セール開始！スイッチ2本体＋DL版ソフトセットやダウンロード版ソフト2本まとめ買いが対象に",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/27/191630.html",
+   "pubDate": "2026-11-27T01:40:02.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/27/191630.html"
+    }
+   ]
+  },
+  {
+   "title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
+   "summary": "Just think what you'll be able to do with those extra 156 KB they're freeing up.",
+   "link": "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/",
+   "pubDate": "2026-11-27T01:39:07.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/JGWhX4ciZicn3CD8dUR8g-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/"
+    }
+   ]
+  },
+  {
+   "title": "「フォートナイト」，アイテムショップの新ラインナップを公開。「ドキドキ文芸部！」のコスチュームは11月28日登場",
+   "summary": "EpicGamesは本日（2026年11月27日），「フォートナイト」のアイテムショップに並ぶ今週の新商品と登場日を公開した。11月28日（日本時間）には，「ドキドキ文芸部！」のモニカ，サヨリ，ナツキ，ユリが，原作でおなじみの制服姿のコスチュームとして登場する。",
+   "link": "https://www.4gamer.net/games/144/G014484/20261127003/",
+   "pubDate": "2026-11-27T01:31:03.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "4Gamer.net（スマホ）",
+   "sourceId": "4gamer-sp",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net（スマホ）",
+     "sourceId": "4gamer-sp",
+     "link": "https://www.4gamer.net/games/144/G014484/20261127003/"
+    }
+   ]
+  },
+  {
+   "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
+   "summary": "Holy Sigmar, bless this ravaged body.",
+   "link": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+   "pubDate": "2026-11-27T01:28:24.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/SubVYEY5D6vgzjDNu7QSST-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [
+     "steam"
+    ],
+    "off": 90,
+    "free": false
+   },
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/"
+    }
+   ]
+  },
+  {
+   "title": "家族や友達と楽しむ冬。Nintendo Switch 2・Nintendo Switchの新CMを公開。関連ニュースもご紹介。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNlRDMEVEem5uRGlzUHhQeDVjQmFtVWc4ZHJqUVdhVHJWbHcyWjBtWE9oRHNaTUVSTjZTQnE0TzNpYXhqMUJWb0YwaTZZclN4RlVJVElTYkgxbkIzSkhGNWY3TzNnYTFMaTR2N252bFhhbGVKX2pvTC1qQzMxOWYwZkQ3eFdSdw?oc=5",
+   "pubDate": "2026-11-27T01:23:21.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "Nintendo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNlRDMEVEem5uRGlzUHhQeDVjQmFtVWc4ZHJqUVdhVHJWbHcyWjBtWE9oRHNaTUVSTjZTQnE0TzNpYXhqMUJWb0YwaTZZclN4RlVJVElTYkgxbkIzSkhGNWY3TzNnYTFMaTR2N252bFhhbGVKX2pvTC1qQzMxOWYwZkQ3eFdSdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "PS5向けコントローラー「デュアルセンス」が1万円を切る「8617円」で購入できるセールが開催中！3ｍ充電ケーブルセットも「8980円」のお買い得",
+   "summary": "PS5やPC、モバイルにも使用できるマルチなコントローラー。内臓バッテリーやヘッドセット端子、高精細振動モーター搭載の高機能",
+   "link": "https://news.denfaminicogamer.jp/news/261127p",
+   "pubDate": "2026-11-27T01:22:55.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/17404960818dfdc1e6c3a72bedc66639-1024x459.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "hardware"
+   ],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261127p"
+    }
+   ]
+  },
+  {
+   "title": "マグネットで新感覚のディスプレイ体験！「グレンダイザー」「マジンガーZ」「グレートマジンガー」アクションフィギュアが予約受付実施",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/27/191628.html",
+   "pubDate": "2026-11-27T01:15:03.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "release",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/27/191628.html"
+    }
+   ]
+  },
+  {
+   "title": "『ピクロスS』が11月30日から期間限定で遊び放題。Nintendo Switch Online加入者限定イベント「いっせいトライアル」開催。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaFp6VFowdHd4WnpqRl9xalBUTWZXZlo4RFBUSTdIQk9pdTk4QnlLcG80X0hjZWhSNkUtdko5YzRBTFFsNjBYUHQwVUY5azlZaXJ3LVRZYzY0eE43N3JWSVNRZmpaZy1CQ1JYQUV4aGhBN0Y3cUlkaTY2Z2NLcV91cWwwM0xvdw?oc=5",
+   "pubDate": "2026-11-27T01:07:10.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "Nintendo",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch"
+   ],
+   "works": [
+    "ピクロスS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaFp6VFowdHd4WnpqRl9xalBUTWZXZlo4RFBUSTdIQk9pdTk4QnlLcG80X0hjZWhSNkUtdko5YzRBTFFsNjBYUHQwVUY5azlZaXJ3LVRZYzY0eE43N3JWSVNRZmpaZy1CQ1JYQUV4aGhBN0Y3cUlkaTY2Z2NLcV91cWwwM0xvdw?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+   "summary": "Includes a fix for Anarchy Battle. Last week, Nintendo released a major update for its team-based squid-shooter Splatoon 3, bumping the game…",
+   "link": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+   "pubDate": "2026-11-27T01:05:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": "https://images.nintendolife.com/44b2b1eff4f0d/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 2,
+   "categories": [
+    "release",
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes"
+    }
+   ]
+  },
+  {
+   "title": "柔術の技をカードでつなぎ，スキをついて絞める！ 組技を極めるライフシム「Jiu-Jitsu Life: Road to Black Belt」，ストアページを公開",
+   "summary": "GambitForgeは本日（2026年11月27日），PC向けの柔術シミュレーション「Jiu-JitsuLife:RoadtoBlackBelt」のSteamストアページを公開した。ウィッシュリスト登録を受け付けている。本作では，アルバイトで道場に通う費用を稼いで技を学び，相手…",
+   "link": "https://www.4gamer.net/games/061/G106197/20261127002/",
+   "pubDate": "2026-11-27T01:01:34.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/061/G106197/20261127002/"
+    }
+   ]
+  },
+  {
+   "title": "ドイツ88mm砲「アハト・アハト」を皆で操作！とても素敵な最大5人協力の対空砲シム『Flak Simulator』Steam早期アクセス開始",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/27/175353.html",
+   "pubDate": "2026-11-27T01:00:03.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Flak Simulator"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/27/175353.html"
+    }
+   ]
+  },
+  {
+   "title": "「ガンダム」×「ホロライブ」コラボアクスタが登場！パイロットスーツ姿の「星街すいせい」や、「兎田ぺこら／ユニコーンガンダム」回転アクリルスタンドなど",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/27/191627.html",
+   "pubDate": "2026-11-27T01:00:03.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/27/191627.html"
+    }
+   ]
+  },
+  {
+   "title": "アマプラ、12月配信ラインナップまとめ！ 「マイケル」が独占配信「グレンラガン」「ギアス」「けいおん！」「〈物語〉」などアニメも",
+   "summary": "Amazonは11月27日、サブスクリプションサービス「Prime Video（プライムビデオ）」における2026年12月の配信作品を発表した。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2159711.html",
+   "pubDate": "2026-11-27T01:00:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2159711.html"
+    }
+   ]
+  },
+  {
+   "title": "【アマプラ12月配信作品】大河ドラマ『鎌倉殿の13人』が見放題配信に登場。『グレンラガン』『コードギアス』『物語』シリーズなどアニメも充実",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1VXNGeHVkNHotckdkMWliZUNzVC1hdWlWR0VoUmNoNTZYYThjWWtDUm1FM19UVFVsMC1UYmFqYlZYWUFiUjBjWm1kMU11dTQ2QVh1dmJ5cw?oc=5",
+   "pubDate": "2026-11-27T01:00:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "鎌倉殿の13人",
+    "グレンラガン",
+    "コードギアス",
+    "物語"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1VXNGeHVkNHotckdkMWliZUNzVC1hdWlWR0VoUmNoNTZYYThjWWtDUm1FM19UVFVsMC1UYmFqYlZYWUFiUjBjWm1kMU11dTQ2QVh1dmJ5cw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch 2・Nintendo Switchソフト『ぼくと釣り日記』ダウンロード版初セール開催のお知らせ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HdDVlZG5PZC10WFRONWU4aDJJajBaMGk3aTM4TE9wYlJIWW1Idi05RDVmWThLZXMwU3owcHhRY2dCZ1hlTHo4M0tNTjAwcEpJblBSMg?oc=5",
+   "pubDate": "2026-11-27T01:00:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "河北新報オンライン",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": null,
+    "free": false
+   },
+   "platforms": [
+    "switch2",
+    "switch"
+   ],
+   "works": [
+    "ぼくと釣り日記"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "河北新報オンライン",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HdDVlZG5PZC10WFRONWU4aDJJajBaMGk3aTM4TE9wYlJIWW1Idi05RDVmWThLZXMwU3owcHhRY2dCZ1hlTHo4M0tNTjAwcEpJblBSMg?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84YV9IRkNnLWt1ZjU5TVEtN3RlX2ZmLUlFOGptc3pTMVRUblhVWUh5YkEwZUQ5QWRQMkg2d2Q5alhxSHVjblNZaHZaa3VZVDRLSnM5RnVlSGVCajhqaXY2MXF2dFlTc2NxTVdMTC13?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『Slay the Spire 2』のアセンション10に“80％勝てるAI”は「石の加湿器」が大好きで、絶対に捨てゲーしない鬼メンタル。どこまで強くなる？弱みはどこ？研究者に訊いた",
+   "summary": "弊誌では、「AlphaDefect」の研究に共著者として携わった小宮山純平氏にインタビューをおこなった。",
+   "link": "https://automaton-media.com/articles/interviewsjp/20261127-481245/",
+   "pubDate": "2026-11-27T00:52:51.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261127-481245-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "review"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Slay the Spire 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/interviewsjp/20261127-481245/"
+    }
+   ]
+  },
+  {
+   "title": "クラフトン傘下、新作ゲームの初テスト参加者募集",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xd01RNmdjOUhoMWZIMHhldmZPZnJxdmRXWUl3U0pSSFl6T2x3cGozODZfM04wVGstWk1NUm11Wmx1dmg5dGRtbzFWZUpoR0NqdkIxUEh4SFRUeWhCR1BmYVkyWkc1UEdsaGJGRmRZUG93RmVPaGoyMlR30gGOAUFVX3lxTE5NOVRqVHozb2ZkZjlxenlFeFdWVnNBRHBZdTQ1ZEFONm9lRnBrRW02MGpxOElMMV9RZnJjbWhlWi1TNlloUjJEWm5VVURnM1lySzZTeG0tdWllMkYyZDRqNkI5dDZXc0N3bDNkSlBNczZLVUxoZTR0UW1Ebl9BenBQeVpXUnNOZXBiY3pqaHc?oc=5",
+   "pubDate": "2026-11-27T00:50:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "Chosunbiz",
+   "sourceId": "gnews-newgame",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Chosunbiz",
+     "sourceId": "gnews-newgame",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xd01RNmdjOUhoMWZIMHhldmZPZnJxdmRXWUl3U0pSSFl6T2x3cGozODZfM04wVGstWk1NUm11Wmx1dmg5dGRtbzFWZUpoR0NqdkIxUEh4SFRUeWhCR1BmYVkyWkc1UEdsaGJGRmRZUG93RmVPaGoyMlR30gGOAUFVX3lxTE5NOVRqVHozb2ZkZjlxenlFeFdWVnNBRHBZdTQ1ZEFONm9lRnBrRW02MGpxOElMMV9RZnJjbWhlWi1TNlloUjJEWm5VVURnM1lySzZTeG0tdWllMkYyZDRqNkI5dDZXc0N3bDNkSlBNczZLVUxoZTR0UW1Ebl9BenBQeVpXUnNOZXBiY3pqaHc?oc=5",
+     "via": "Googleニュース「新作ゲーム」"
+    }
+   ]
+  },
   {
    "title": "プレバンでガンプラ16商品が一挙再販！「ガンダムAGE－1 タイタス」や「ダークハウンド」「フルグランサ」なども",
    "summary": "",
@@ -10897,6 +11490,35 @@
    ]
   },
   {
+   "title": "【ドラクエ8】『ドラゴンクエストVIII』が発売された日。レベルファイブが開発し、シリーズで初めて完全3D化を果たした名作。テンションや錬金釜が初登場。ゼシカが人気だった【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JeUVpQXlpUWZ4bEhkTFBlTDRER2lDeXI3YlUtSHRXTlYyajUtVTVUeUhSX1FMdWhKZXJoY2lnV2llOFgwS0RKcGh4czE5bFE1d0R0ODk1Yw?oc=5",
+   "pubDate": "2026-11-26T22:40:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラゴンクエストVIII"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JeUVpQXlpUWZ4bEhkTFBlTDRER2lDeXI3YlUtSHRXTlYyajUtVTVUeUhSX1FMdWhKZXJoY2lnV2llOFgwS0RKcGh4czE5bFE1d0R0ODk1Yw?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
    "summary": "Dawn of War 4 writer John French lays out how it works.",
    "link": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
@@ -10947,6 +11569,33 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/"
+    }
+   ]
+  },
+  {
+   "title": "【デジアリ攻略】リセマラおすすめSR＆SECシークレットは？ 全パック収録カード一覧【デジモンアリシオン】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ec0N2U0dOSFhRdlcya3dESWo4cFAtVFg3SGhFXzVHaFZnRzBEREtpVFZjUzNTaUkzQzlnNzhvS1Nobmg4MUhqSGc2VDhtTG05dUNHMkdOS3hDQQ?oc=5",
+   "pubDate": "2026-11-26T22:10:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ec0N2U0dOSFhRdlcya3dESWo4cFAtVFg3SGhFXzVHaFZnRzBEREtpVFZjUzNTaUkzQzlnNzhvS1Nobmg4MUhqSGc2VDhtTG05dUNHMkdOS3hDQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -11093,7 +11742,7 @@
    ]
   },
   {
-   "title": "今年の韓国最大級ゲームショウのメインスポンサーはAIキャラクターチャットの「Crack」。日本版「キャラぷ」を運営する日本法人代表に，クリエイター還元の仕組みや会話の中身を原則見ない運営を聞く［G-STAR 2026］",
+   "title": "韓国最大級ゲームショウのメインスポンサーはAIキャラチャットの「Crack」。日本版「キャラぷ」の日本法人代表に，クリエイター還元や会話の中身を原則見ない運営を聞く［G-STAR 2026］",
    "summary": "ゲーム企業以外で初めて「G-STAR2026」のメインスポンサーを務めるのは，AIキャラクターチャット「Crack」だ。日本版「キャラぷ」を運営する増田良平氏に，クリエイター還元や会話の中身を原則見ない運営について聞いた。",
    "link": "https://www.4gamer.net/games/999/G999904/20261121004/",
    "pubDate": "2026-11-26T22:00:00.000Z",
@@ -11104,7 +11753,7 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 10,
+   "score": 9,
    "categories": [],
    "deal": null,
    "platforms": [],
@@ -13652,6 +14301,35 @@
    ]
   },
   {
+   "title": "『ドラゴンボール 神龍の謎』40周年。神龍への願いは“ギャルの〇〇”!? 悟空の冒険を描いた記念すべきファミコン第1作【今日は何の日？】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbUoxRVZrTGFOUUhrdE1iQngxRWp3cThnTzF2Qk9KZ0hna3piWmVWNG5DYl9iTldQVEVqNWFFb2F2c2tfaWl4djFlYm5QSkxEeThSMDRBVQ?oc=5",
+   "pubDate": "2026-11-26T15:00:00.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラゴンボール 神龍の謎"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbUoxRVZrTGFOUUhrdE1iQngxRWp3cThnTzF2Qk9KZ0hna3piWmVWNG5DYl9iTldQVEVqNWFFb2F2c2tfaWl4djFlYm5QSkxEeThSMDRBVQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "Everything You Need To Know Ahead of The Delta Force Invitationals Grand Final",
    "summary": "",
    "link": "https://www.ign.com/articles/everything-you-need-to-know-ahead-of-the-delta-force-invitationals-grand-final",
@@ -13847,6 +14525,35 @@
      "name": "PC Gamer",
      "sourceId": "pcgamer",
      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/"
+    }
+   ]
+  },
+  {
+   "title": "新ゲームモードを導入する「Neon Abyss 2」の無料DLCがアナウンス、配信は12月4日",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKYzBLQ0RVb3FwZXhsM1YzM1dCdTF6SExxRmItWVdLajlCZWlKS2M0Qk5tU2NibWdORnI2OVdHWFNpNFU4UEhhaEVzWQ?oc=5",
+   "pubDate": "2026-11-26T14:35:45.000Z",
+   "firstSeen": "2026-11-27T01:47:35.745Z",
+   "image": null,
+   "source": "doope!",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "doope!",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKYzBLQ0RVb3FwZXhsM1YzM1dCdTF6SExxRmItWVdLajlCZWlKS2M0Qk5tU2NibWdORnI2OVdHWFNpNFU4UEhhaEVzWQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -17828,6 +18535,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/26/175330.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/27/191631.html"
     }
    ]
   },
@@ -19726,6 +20438,11 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/26/175324.html"
+    },
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/27/191629.html"
     },
     {
      "name": "au Webポータル",
@@ -31491,7 +32208,7 @@
    "firstSeen": "2026-11-25T13:47:35.202Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -31510,9 +32227,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Yk9kX1hwZE9qMHFrY1dOWGE5TnByZGR4by11THVhcDdzVEVFRnFWUXlYNW4wUFZpZVFYcEFmX2dmaUstM1dNVWltakIyRGllNHphdnJRTGhEZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -45588,7 +46305,7 @@
    "firstSeen": "2026-11-24T07:47:36.191Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-ps5",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -45617,9 +46334,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50dXlQRmhLSDliYXJJc3BacnYyVVJQbENvbGxsVHpydG1la2lkaEplakFLM0otVWJWallGTWQ0UmxheG1aRG5qem96M0l5SGNrenBtUElTcw?oc=5",
-     "via": "Googleニュース「PS5 発売」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -107654,9 +108371,9 @@
     },
     {
      "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-ps5",
+     "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tR0xIXzlaUlc3R2FtekxxY0VHdGRfMmlmaUJTcWYtWkE4MmxQLUo1a1oxRFNXTm83X0dUQzZWYmJDSHlpLU1ZOU1kWE01YjltRjNPUHVxdDdWaEpyR3VaaEZNYVV3U3czaVNscnE5MGlwWmFXY3VnMXRPRWN1SnM?oc=5",
-     "via": "Googleニュース「PS5 発売」",
+     "via": "Googleニュース「ゲーム アップデート」",
      "syndicated": true
     }
    ]
@@ -187715,752 +188432,6 @@
      "name": "Xbox Wire",
      "sourceId": "xbox-wire",
      "link": "https://news.xbox.com/ja-jp/2026/11/11/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
-    }
-   ]
-  },
-  {
-   "title": "『崩壊：スターレイル』初のプレイアブル星神に“愉悦の神”アッハが選ばれた理由は、本作が「人間の物語」であり、アッハが「人間性を極めて神になった」キャラだったから。アッハ実装の舞台裏を開発者に聞いてみた",
-   "summary": "『崩壊：スターレイル』は「人間の物語」だからこそ、初のプレイアブル星神には\"愉悦の神\"アッハが選ばれた。",
-   "link": "https://news.denfaminicogamer.jp/interview/261111o",
-   "pubDate": "2026-11-11T04:00:17.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image_001-10-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "崩壊:スターレイル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/interview/261111o"
-    }
-   ]
-  },
-  {
-   "title": "【音感“ゆる知育”クイズ】音階に合わせて伸び縮みするチンアナゴで鍛える『絶対音感チンアナゴ』本日11月11日発売",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/11/174739.html",
-   "pubDate": "2026-11-11T04:00:03.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "絶対音感チンアナゴ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/11/174739.html"
-    }
-   ]
-  },
-  {
-   "title": "新感覚の音感クイズゲーム『絶対音感チンアナゴ』2026年11月11日（チンアナゴの日）Steamにて本日発売！今だけ20％OFF！発売記念セールを１週間限定で開催！",
-   "summary": "株式会社ゲラッパ（Get Wrapped Up Inc.）は、視覚（長さ）と聴覚（音程）をリンクさせた新感覚の音感クイズゲーム『絶対音感チンアナゴ』を本日、2026年11月11日（チンアナゴの日）Steamにて正式リリースいたし...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000013.000166530.html",
-   "pubDate": "2026-11-11T04:00:02.000Z",
-   "firstSeen": "2026-11-11T05:47:31.440Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 17,
-   "categories": [
-    "release",
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "steam"
-    ],
-    "off": 20,
-    "free": false
-   },
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "絶対音感チンアナゴ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000013.000166530.html"
-    }
-   ]
-  },
-  {
-   "title": "「崩壊：スターレイル」で描くのは人間の物語。いよいよ星神アッハが実装されるVer.4.7を中心に，気になるところをチーフデザイナーに聞く［インタビュー］",
-   "summary": "HoYoverseが韓国で開催したメディアツアーで，スペースファンタジーRPG「崩壊：スターレイル」のチーフデザイナーにインタビューを行った。Ver.4.7では，ついに星神であるアッハがプレイアブル実装されるが，この大きなアップデートの話題を中心に気になるところを聞いた。",
-   "link": "https://www.4gamer.net/games/599/G059954/20261106021/",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "update",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/599/G059954/20261106021/"
-    }
-   ]
-  },
-  {
-   "title": "ポズナンの街とゲームイベントを巡って感じた，ゲーム文化と産業を育てる人々の力。ポーランドのゲーム業界視察プログラムをレポート",
-   "summary": "古くから商業都市として栄え，幾度も時代の変化を経験してきたポズナン。GICの公式ツアーで街を歩くと，言葉や文化を守ろうとしてきた人々の歴史が見えてきた。ゲームの開発者とファンが集うイベントを巡る取材に，もうひとつの視点を加えてお届けする。",
-   "link": "https://www.4gamer.net/games/991/G999110/20261110022/",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event",
-    "review",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999110/20261110022/"
-    }
-   ]
-  },
-  {
-   "title": "音感クイズゲーム「絶対音感チンアナゴ」，Steamで本日発売。伸び縮みするチンアナゴを手掛かりに，メロディの音を当てよう",
-   "summary": "ゲラッパは本日，PCゲーム「絶対音感チンアナゴ」をSteamで発売した。本作は，水族館で人気のチンアナゴを題材にした音感クイズゲームだ。メロディが流れると，チンアナゴたちが音の高さに合わせて伸び縮みする。プレイヤーはその長さを手掛かりに，指定された音が何の音かを当てていく。",
-   "link": "https://www.4gamer.net/games/048/G104853/20261111008/",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 21,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "絶対音感チンアナゴ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/048/G104853/20261111008/"
-    }
-   ]
-  },
-  {
-   "title": "「崩壊：スターレイル」初のプレイアブル星神は「アッハがふさわしい」チーフデザイナー・Chengnan An氏に最新アップデートからゲームの裏側までを聞く",
-   "summary": "本日11月11日にVer.4.7が配信された「崩壊：スターレイル」。Ver.4.7ではついに「アッハ」が星神初のプレイアブルキャラクターとして実装される。",
-   "link": "https://game.watch.impress.co.jp/docs/interview/2155031.html",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/interview/2155031.html"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QZnRXUERkU3VxaGZwQi12UWNmNVE2elZ6OFRuMGhERi1Vc1NDQ016d1NHa3F0MWVXblZOSk4xNkZlVU5fcTRxNWE5NUVkYmlmN0ZOYlo5UUJURFpWYWRZYzlpRWhSanpXWmlWUmRZN0RKdUhrcmNF?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "「Minecraft」に70種以上のイカが追加！ 新コンテンツ「イカってなんだっけ？」マーケットプレイスで販売開始",
-   "summary": "インプレスは、プレイステーション 5/プレイステーション 4/Xbox Series X|S/Xbox One/Nintendo Switch 2/Nintendo Switch/Android/iOS/PC用サンドボックスゲーム「Minecraft」の新コンテンツ「イカってなん…",
-   "link": "https://game.watch.impress.co.jp/docs/news/2154941.html",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 19,
-   "categories": [
-    "mobile"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "switch",
-    "ps5",
-    "xbox",
-    "mobile"
-   ],
-   "works": [
-    "イカってなんだっけ?"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2154941.html"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000007823.000005875.html"
-    }
-   ]
-  },
-  {
-   "title": "『真・女神転生V』5周年！ 『V Vengeance』のアートも収録した公式設定画集が本日発売。300体以上の悪魔・人物名鑑や初公開設定画も満載",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrSHNiSnZlbVlRV1NKWk1rclIwTTdfajRoOUxZbkVsNzFlX2xGOGQ0OUFyUVg2R0VYN3BmdW5xNERSaDZrNUQ1V1VCZWlOOG1uVmlRbDJlOA?oc=5",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "真・女神転生V",
-    "V Vengeance"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrSHNiSnZlbVlRV1NKWk1rclIwTTdfajRoOUxZbkVsNzFlX2xGOGQ0OUFyUVg2R0VYN3BmdW5xNERSaDZrNUQ1V1VCZWlOOG1uVmlRbDJlOA?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    },
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vOUV2Tm5KSDFURS0ySGE2aWl5d2JnaHFuTnppRkVFd1FDUmE5QlM0Tm9iQmQ3WjJpakdpdnF6MjRXOGF0QUNaUW5hNXV2R2FCbGVmeXdGZ01lQQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "13年ぶりの「GTA」シリーズに世界中が熱狂──新作ゲーム『GTA6』予約数が推計969万本を突破 ビデオゲーム史を更新する予約本数に（KAI-YOU）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6UWl6TXRqZ1BHSEN4N1d4UkNvdlZHc0tIcmVCQTFFclYtOXk1Qmtod1NOU2RQQ1p0VGxNa3hteVlHOGhCYXhjRWlDdkNncU5fQXZVaE1MSXBFQnNsV29SV1RtZU9NQkdvWlkxWlJTaXJIdU9meVE1dDFSUlEwcDQ?oc=5",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "KAI-YOU（Yahoo!ニュース）",
-   "sourceId": "gnews-newgame",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "new",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "GTA6"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "KAI-YOU（Yahoo!ニュース）",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6UWl6TXRqZ1BHSEN4N1d4UkNvdlZHc0tIcmVCQTFFclYtOXk1Qmtod1NOU2RQQ1p0VGxNa3hteVlHOGhCYXhjRWlDdkNncU5fQXZVaE1MSXBFQnNsV29SV1RtZU9NQkdvWlkxWlJTaXJIdU9meVE1dDFSUlEwcDQ?oc=5",
-     "via": "Googleニュース「新作ゲーム」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【ヘイグ】2026年11月新作ゲーム攻略Wikiを多数公開！その他各種アップデートのご案内",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iUnQ3aU1IWU01Tm5GMDl5TWpZNVk3Mml3d1V4RmhOcHJBR25SbFdoM0dPcmtrUE5mTFV3ZVFfRGQ3TlpWb0JOTTBnYlV2aEhwYzRnWFE1T0FvX0xGZFlGenhMTExlaW9iZVRN?oc=5",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "Excite エキサイト",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "new",
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iUnQ3aU1IWU01Tm5GMDl5TWpZNVk3Mml3d1V4RmhOcHJBR25SbFdoM0dPcmtrUE5mTFV3ZVFfRGQ3TlpWb0JOTTBnYlV2aEhwYzRnWFE1T0FvX0xGZFlGenhMTExlaW9iZVRN?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    },
-    {
-     "name": "ZDNET Japan",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYdEFhTjZCQlJUZE42Q3hNWUFTWkJlMEtkM1VSSTBzMXVkWC11bElkenBSeFg1ZER0NFVYRGxHSy1nVEtiRHk0em5UTFBDTWlQUWdr?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『崩壊：スターレイル』、Ver.4.7が本日11月11日リリース！愉悦の終幕を届けよ。ついに初の星神キャラ「星神★アッハ」降臨！限定星5キャラ無料配布など、豪華報酬が盛りだくさん",
-   "summary": "グローバルエンターテインメントブランドHoYoverseは、スペースファンタジーRPG『崩壊：スターレイル』において、本日2026年11月11日（水）より、Ver.4.7「いま、群星は笑いに包まれる」へアップデートしたことを...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000467.000096124.html",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T05:47:31.440Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "update",
-    "sale"
-   ],
-   "deal": {
-    "stores": [],
-    "off": null,
-    "free": true
-   },
-   "platforms": [],
-   "works": [
-    "崩壊:スターレイル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000467.000096124.html"
-    }
-   ]
-  },
-  {
-   "title": "LINE Games、『Ember and Blade』＆『QUIET』がSteamのウイッシュリスト登録者数10万件突破！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBSC05SVVTS3pMZWNzajFGaFJOcklacElETmJqUWJXNXVVUFlPZEhScGtZLWgxU016VGQ0S1VYVUdzeFNISzVZLVk4em5ST280NWYw?oc=5",
-   "pubDate": "2026-11-11T04:00:00.000Z",
-   "firstSeen": "2026-11-11T22:47:40.590Z",
-   "image": null,
-   "source": "ZDNET Japan",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "Ember and Blade",
-    "QUIET"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ZDNET Japan",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBSC05SVVTS3pMZWNzajFGaFJOcklacElETmJqUWJXNXVVUFlPZEhScGtZLWgxU016VGQ0S1VYVUdzeFNISzVZLVk4em5ST280NWYw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "無数に湧き出る敵の群れを殲滅していくローグライトサバイバー『Warhammer Survivors』発売！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12d0lOTUxxb2NhLUZva2lzeGlSTFpFWFd3V0E0UlMzUHdrZmxRdm9oYlRwM0dYWjNwN3JZTks3MDFxMHNld01SaUxlZjNuNG02TnFZQ3EyWjZaNms?oc=5",
-   "pubDate": "2026-11-11T03:58:40.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "GameWith",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Warhammer Survivors"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GameWith",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12d0lOTUxxb2NhLUZva2lzeGlSTFpFWFd3V0E0UlMzUHdrZmxRdm9oYlRwM0dYWjNwN3JZTks3MDFxMHNld01SaUxlZjNuNG02TnFZQ3EyWjZaNms?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "この衣装はいったい誰！？ファミマ公式が『刀剣乱舞』とのコラボを匂わせ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/11/190734.html",
-   "pubDate": "2026-11-11T03:55:02.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "刀剣乱舞"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/11/190734.html"
-    }
-   ]
-  },
-  {
-   "title": "PS5 shipments top 100 million",
-   "summary": "PlayStation 5 has shipped more than 100 million units worldwide as of November 10, 2026, …",
-   "link": "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million",
-   "pubDate": "2026-11-11T03:54:30.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/PS5-Sales_11-10-26.jpg",
-   "source": "Gematsu",
-   "sourceId": "gematsu",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 11,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gematsu",
-     "sourceId": "gematsu",
-     "link": "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million"
-    }
-   ]
-  },
-  {
-   "title": "PS5、1億台を突破！全世界累計販売台数がPS・PS2・PS4に続く大台に到達。6年目にして",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/11/174738.html",
-   "pubDate": "2026-11-11T03:50:59.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5",
-    "ps4"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/11/174738.html"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/11/190774.html"
-    },
-    {
-     "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRVQ1ejBjMnIwTG44UFZaS2o0YmZ1VGIwWnNuWmZ4TFYxUFc5MGxQWEFDa3BsdHF6dU1tajVGZ1RNM2pYay1mNXFtZVZFbVc5OTFPZzlfbURydWlwTHN2NGc3d25nRDhoZjB0ckNZVldEUGZDZGp0ZUtfMXVoYkE?oc=5",
-     "via": "Googleニュース「PS5 発売」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【高評価】『勇者パーティはぜんめつしました。』発売1日で好評率96%「非常に好評」を得る好調スタート、約200件のレビューを集める。クセ強で魅力的なキャラたちや引き込まれるストーリーなどが評判を呼ぶ",
-   "summary": "最大同接は約2800人、約200件のレビューを集める。魅力的なキャラたちや引き込まれるストーリーなどが評判を呼ぶ",
-   "link": "https://news.denfaminicogamer.jp/news/2611112a",
-   "pubDate": "2026-11-11T03:50:42.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/KV-1-1-1024x587.webp",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "勇者パーティはぜんめつしました。"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611112a"
-    }
-   ]
-  },
-  {
-   "title": "「えちえちアクリルウォール」っていいんですかッ！？「咲-Saki-」20周年記念グッズがあまりにも大・迫・力",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/11/190733.html",
-   "pubDate": "2026-11-11T03:50:02.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/11/190733.html"
-    }
-   ]
-  },
-  {
-   "title": "Roboto Games、ファンタジー・オープンワールド・サバイバルクラフトゲーム『ストームフォージ』早期アクセス版をリリース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OLXFtY2JlNm1yVy1jcGNNam1JYTVPT2MteFNDOGRFWDFoU3pHSDNHeEo3Q1J5MXVlQ1Z1MUhGd1gwUnps?oc=5",
-   "pubDate": "2026-11-11T03:50:00.000Z",
-   "firstSeen": "2026-11-11T11:47:34.293Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ストームフォージ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OLXFtY2JlNm1yVy1jcGNNam1JYTVPT2MteFNDOGRFWDFoU3pHSDNHeEo3Q1J5MXVlQ1Z1MUhGd1gwUnps?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『遊戯王OCG』新パック「PRIDE AND SOUL」1月23日発売！パッケージは海馬瀬人、新たな「ブルーアイズ」や「闇・道化師のサギー」たちが登場",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/11/190731.html",
-   "pubDate": "2026-11-11T03:40:02.000Z",
-   "firstSeen": "2026-11-11T04:47:34.259Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "遊戯王OCG"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/11/190731.html"
-    }
-   ]
-  },
-  {
-   "title": "大ヒットローグライク『RACCOIN』にお待ちかね“コンソール版”登場、新要素もりもり無料アプデとともに。新キャラ「創造主」なら“ごった煮ビルド”も組める",
-   "summary": "Playstackは11月10日、Doraccoonが手掛ける『RACCOIN: Chaos Max Edition』をNintendo Switch 2/PS5/Xbox Series X|S向けにリリースした。",
-   "link": "https://automaton-media.com/articles/newsjp/20261111-478588/",
-   "pubDate": "2026-11-11T03:39:58.000Z",
-   "firstSeen": "2026-11-11T03:47:36.187Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478588-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 27,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2",
-    "ps5",
-    "xbox"
-   ],
-   "works": [
-    "RACCOIN"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261111-478588/"
-    }
-   ]
-  },
-  {
-   "title": "「昨年のつまずきを経て、かつての高みへと力強く舞い戻った」海外レビューハイスコア『Football Manager 27』",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/11/174737.html",
-   "pubDate": "2026-11-11T03:39:34.000Z",
-   "firstSeen": "2026-11-11T03:47:36.187Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Football Manager 27"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/11/174737.html"
     }
    ]
   }
