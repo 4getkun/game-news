@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T20:47:58.443Z",
+ "generatedAt": "2026-11-27T21:47:57.308Z",
  "count": 6000,
  "dedupe": {
   "exact": 1362,
@@ -1348,20 +1348,6 @@
    "categories": [
     "hardware"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-18",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "マクドナルド、新商品「マックフルーリー ザクザク いちごのミルフィーユ味」11月18日より期間限定発売本田真凜さん出演のCMも放映",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155758.html",
-   "source": "GAME Watch",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -5411,6 +5397,22 @@
   {
    "date": "2026-11-28",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「ヒロアカ」グッズが、しまむらで11月28日発売！アパレルやバッグ、爆豪の籠手型ペンケースなど豊富なデザイン",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191700.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-28",
+   "precision": "day",
    "verb": "launch",
    "label": "配信",
    "work": null,
@@ -8067,13 +8069,11 @@
    "verb": "launch",
    "label": "配信",
    "work": "Warframe",
-   "title": "『Warframe』史上最大規模のアプデ「Tau」が12月10日配信！新星系の魅力から新規プレイヤーへの取り組みまで開発者に訊く、最新情報ひとまとめ",
-   "link": "http://www.gamespark.jp/article/2026/11/28/175400.html",
-   "source": "Game*Spark",
-   "sources": 1,
-   "categories": [
-    "review"
-   ],
+   "title": "『Warframe』の開発陣「13年続く物語を原点に立ち返らせ、行き先を示す」と語る。星系ごと追加する超大型アプデ「Tau」は12月10日に配信へ",
+   "link": "https://news.denfaminicogamer.jp/interview/261128x",
+   "source": "電ファミニコゲーマー",
+   "sources": 2,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -10740,8 +10740,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1180,
-   "accepted": 1046
+   "archived": 1181,
+   "accepted": 1047
   },
   {
    "id": "gamewatch",
@@ -10773,8 +10773,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1695,
-   "accepted": 1308
+   "archived": 1697,
+   "accepted": 1311
   },
   {
    "id": "ps-blog",
@@ -10806,7 +10806,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 121,
+   "archived": 120,
    "accepted": 84
   },
   {
@@ -10817,8 +10817,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 590,
-   "accepted": 452
+   "archived": 589,
+   "accepted": 451
   },
   {
    "id": "gnews-dengeki",
@@ -10838,7 +10838,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 75,
+   "fetched": 100,
    "archived": 617,
    "accepted": 568
   },
@@ -10850,8 +10850,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1424,
-   "accepted": 1215
+   "archived": 1425,
+   "accepted": 1216
   },
   {
    "id": "gnews-ps5",
@@ -10861,8 +10861,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 820,
-   "accepted": 746
+   "archived": 822,
+   "accepted": 748
   },
   {
    "id": "gnews-update",
@@ -10871,9 +10871,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 409,
-   "accepted": 326
+   "fetched": 85,
+   "archived": 407,
+   "accepted": 327
   },
   {
    "id": "prtimes",
@@ -10883,8 +10883,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26775,
-   "accepted": 417
+   "archived": 26792,
+   "accepted": 415
   },
   {
    "id": "gematsu",
@@ -10894,8 +10894,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 292,
-   "accepted": 292
+   "archived": 291,
+   "accepted": 291
   },
   {
    "id": "ign",
@@ -10905,8 +10905,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1309,
-   "accepted": 1309
+   "archived": 1308,
+   "accepted": 1308
   },
   {
    "id": "eurogamer",
@@ -10954,6 +10954,255 @@
   }
  ],
  "items": [
+  {
+   "title": "オープンワールド海賊サバクラ『ウィンドローズ』大型アプデ「Ashlands」新情報。倒しても骨を組み直して復活するスケルトンが登場！全海域に5種の敵船戦闘タイプも追加へ",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175402.html",
+   "pubDate": "2026-11-27T21:30:03.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウィンドローズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175402.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむらパーク限定「サンリオキャラクターズ」マスコットチャームが発売！テニスウェアの「ハローキティ」やバスケ姿の「ポムポムプリン」など全6種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191702.html",
+   "pubDate": "2026-11-27T21:30:03.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191702.html"
+    }
+   ]
+  },
+  {
+   "title": "アベイルに「んぽちゃむ」新作グッズがいっぱい！ガソスタ店員になったデザイン、日常使いできる雑貨からアパレルまでさまざま",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191701.html",
+   "pubDate": "2026-11-27T21:10:02.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191701.html"
+    }
+   ]
+  },
+  {
+   "title": "「ヒロアカ」グッズが、しまむらで11月28日発売！アパレルやバッグ、爆豪の籠手型ペンケースなど豊富なデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191700.html",
+   "pubDate": "2026-11-27T21:00:03.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191700.html"
+    }
+   ]
+  },
+  {
+   "title": "クレイトスの妻が戦う『ゴッド・オブ・ウォー ラウフェイ』プレオーダートレイラー！PS Storeなどで予約受付中",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175401.html",
+   "pubDate": "2026-11-27T21:00:02.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゴッド・オブ・ウォー ラウフェイ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175401.html"
+    }
+   ]
+  },
+  {
+   "title": "『Warframe』の開発陣「13年続く物語を原点に立ち返らせ、行き先を示す」と語る。星系ごと追加する超大型アプデ「Tau」は12月10日に配信へ",
+   "summary": "悪党と賭博にまみれた大スラム都市を“ハードボイルドな探偵”として探索。また、『マッドマックス』に着想を得た世紀末な砂漠がテンノを待つ",
+   "link": "https://news.denfaminicogamer.jp/interview/261128x",
+   "pubDate": "2026-11-27T20:58:21.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Warframe-_-Warframe_-Tau-Official-Teaser-Watch-Devstream-199-on-November-27-0-19-screenshot-1-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Warframe"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/interview/261128x"
+    }
+   ]
+  },
+  {
+   "title": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
+   "summary": "I finally went 100% wireless this year and you can get your desk looking equally fresh at a fraction of the cost this weekend.",
+   "link": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
+   "pubDate": "2026-11-27T20:57:32.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/A2yBzobtVrs8tLEAXen64P-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/"
+    }
+   ]
+  },
+  {
+   "title": "The Shrek Toaster Is the Only Black Friday Deal You Need",
+   "summary": "",
+   "link": "https://www.ign.com/articles/the-shrek-toaster-is-the-only-black-friday-deal-you-need",
+   "pubDate": "2026-11-27T20:55:17.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/shrektoaster-1795811228668.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/the-shrek-toaster-is-the-only-black-friday-deal-you-need"
+    }
+   ]
+  },
+  {
+   "title": "Switch 2-Compatible SanDisk MicroSD Express Cards Are Up to $70 Off for Black Friday",
+   "summary": "Make room for more games with discounts on 256GB, 512GB, and 1TB cards",
+   "link": "https://www.ign.com/articles/sandisk-microsd-express-cards-switch-2-deal-black-friday-2026",
+   "pubDate": "2026-11-27T20:37:00.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/untitled-design-23-1795805437556.png",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "switch2"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/sandisk-microsd-express-cards-switch-2-deal-black-friday-2026"
+    }
+   ]
+  },
   {
    "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
    "summary": "EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry. The wait to finally, officially see the superh…",
@@ -11500,7 +11749,7 @@
    ]
   },
   {
-   "title": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+   "title": "Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
    "summary": "A rumored remake of The Simpsons: Hit & Run (the internet's most-wanted video game revival) may be in trouble. Read more",
    "link": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
    "pubDate": "2026-11-27T18:08:20.000Z",
@@ -11804,6 +12053,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/28/175399.html"
+    }
+   ]
+  },
+  {
+   "title": "脱獄したPS5でMOD制作者が『GTA VI』の30FPS上限を解除、ただし60FPSには届かず",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51bS1wODRsLWNjcEJrSDhXNE1fZ1huTWpqUGdmVTg1VmNTeUR1VkRqM3VrSW9rWlJFa2pLWWhOZHdoOG80eXBaLXMyLTczV1JnM2Q4WWRmQWp0aTVhMEVSczBuMmdleVJKZ3ljeFdGVWUwMzFB?oc=5",
+   "pubDate": "2026-11-27T16:05:00.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "BigGo ファイナンス",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [
+    "GTA VI"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "BigGo ファイナンス",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51bS1wODRsLWNjcEJrSDhXNE1fZ1huTWpqUGdmVTg1VmNTeUR1VkRqM3VrSW9rWlJFa2pLWWhOZHdoOG80eXBaLXMyLTczV1JnM2Q4WWRmQWp0aTVhMEVSczBuMmdleVJKZ3ljeFdGVWUwMzFB?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -12144,6 +12424,33 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/28/191697.html"
+    }
+   ]
+  },
+  {
+   "title": "【ブラウンダスト2】3.5周年生放送まとめ【ブラダス2】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tV2JhQ2dONC0wTDZ4WWd6U2tCekU5NWx5bkNoVWUzX1RraGdPNnlkaS1WTXFOMm5Mc0psaFkyZHlxRGRyZy0wSVVsT0RrZw?oc=5",
+   "pubDate": "2026-11-27T15:16:31.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "GameWith",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tV2JhQ2dONC0wTDZ4WWd6U2tCekU5NWx5bkNoVWUzX1RraGdPNnlkaS1WTXFOMm5Mc0psaFkyZHlxRGRyZy0wSVVsT0RrZw?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -28420,6 +28727,37 @@
    ]
   },
   {
+   "title": "『トリッカル』バンコレ！ から新グッズ登場!? 9月のポップアップストアに続く新展開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X0NIZVEzR2Vka3FzdXJVWHppZmpHQ2pPTTNjbFlNaDhGODhTWUZXbEtkNjBrbUV0UXdCTUxqcWJBZkYxUTZDRjdjdWZNZGN1SXIzT2puWUhBQQ?oc=5",
+   "pubDate": "2026-11-26T11:29:00.000Z",
+   "firstSeen": "2026-11-27T21:47:36.078Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "トリッカル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X0NIZVEzR2Vka3FzdXJVWHppZmpHQ2pPTTNjbFlNaDhGODhTWUZXbEtkNjBrbUV0UXdCTUxqcWJBZkYxUTZDRjdjdWZNZGN1SXIzT2puWUhBQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
+    }
+   ]
+  },
+  {
    "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
    "summary": "Rockstar recently dropped the first post-launch patch for GTA 6 which, among other things, included a fix for the game’s lack of weather var…",
    "link": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
@@ -44406,7 +44744,7 @@
    "firstSeen": "2026-11-25T13:47:35.202Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -44425,9 +44763,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Yk9kX1hwZE9qMHFrY1dOWGE5TnByZGR4by11THVhcDdzVEVFRnFWUXlYNW4wUFZpZVFYcEFmX2dmaUstM1dNVWltakIyRGllNHphdnJRTGhEZw?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -120575,9 +120913,9 @@
     },
     {
      "name": "Game Spark（Yahoo!ニュース）",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tR0xIXzlaUlc3R2FtekxxY0VHdGRfMmlmaUJTcWYtWkE4MmxQLUo1a1oxRFNXTm83X0dUQzZWYmJDSHlpLU1ZOU1kWE01YjltRjNPUHVxdDdWaEpyR3VaaEZNYVV3U3czaVNscnE5MGlwWmFXY3VnMXRPRWN1SnM?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」",
+     "via": "Googleニュース「PS5 発売」",
      "syndicated": true
     }
    ]
@@ -170785,7 +171123,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 12,
    "categories": [
     "update"
    ],
@@ -172569,6 +172907,35 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/13/190877.html"
+    }
+   ]
+  },
+  {
+   "title": "海賊サバイバル『ウィンドローズ』建築がさらに自由になる大型アプデで新パーツが100点超追加",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mRTREd192TWlVSnRObWczOXpEaWl3clhZQzE1UkhuSFlZTHZaei03RFdXeHVmMkJQQnhuYmxZNVFOcDJCTEV3WUVqVGo1Smp0by1PbWV4aXZIdw?oc=5",
+   "pubDate": "2026-11-13T01:47:00.000Z",
+   "firstSeen": "2026-11-13T04:47:34.152Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ウィンドローズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mRTREd192TWlVSnRObWczOXpEaWl3clhZQzE1UkhuSFlZTHZaei03RFdXeHVmMkJQQnhuYmxZNVFOcDJCTEV3WUVqVGo1Smp0by1PbWV4aXZIdw?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -188457,386 +188824,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/12/190796.html"
-    }
-   ]
-  },
-  {
-   "title": "【Fortnite】「目を逸らせば、迫る」和風ホラーの極限に挑む新作ゲーム『おかめの館【彼岸】』が公開！",
-   "summary": "ゲーム・メタバース事業を手掛ける株式会社モンドリアン（本社：東京都中央区、代表取締役：角田拓志、以下「当社」）は、総プレイ数1億5,000万回超の実績を持つトップクリエイター・Neverty7（ねばてぃー）氏...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000092.000119336.html",
-   "pubDate": "2026-11-12T02:00:02.000Z",
-   "firstSeen": "2026-11-12T02:47:36.461Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "おかめの館【彼岸】"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000092.000119336.html"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMW5fN0JULUZSZk8yVEVmZ3g3WFgtT29Kbm42bl9pSkhaRF9ka3FyVElKMm9HT3RCZkp2ZUFOaHZpTk5zWkpGT283RDZndnFoT2RkaGdMZmxlS1hNU1RHVVBlQi1pTDRTM3VMTXhVQ3hkdkpS?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "男色ディーノのゲイムヒヒョー ゼロ：第915回「生き方はいろいろある」",
-   "summary": "今週の「男色ディーノのゲイムヒヒョーゼロ」は，珍しくブラウザゲイムの話題です。生まれる場所を選べない人生シミュレーション「80億分の1」について，49歳のディーノ選手が自らの人生を振り返りながら語っています。",
-   "link": "https://www.4gamer.net/games/040/G004083/20261110033/",
-   "pubDate": "2026-11-12T02:00:00.000Z",
-   "firstSeen": "2026-11-12T02:47:36.461Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/040/G004083/20261110033/"
-    }
-   ]
-  },
-  {
-   "title": "「ポケモン東京ばな奈」にピカチュウとイーブイがデザインされた「トートバッグセット」が登場！ 11月21日より販売",
-   "summary": "グレープストーンは、「ポケモン東京ばな奈 ピカチュウ＆イーブイバッグセット」を11月21日より販売する。価格は3,980円。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155766.html",
-   "pubDate": "2026-11-12T01:57:06.000Z",
-   "firstSeen": "2026-11-12T02:47:36.461Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2155766.html"
-    }
-   ]
-  },
-  {
-   "title": "Switch 2「選べるソフト セット」12日発売 『マリオカート ワールド』など3本から1本、63,980円・番号の期限は2027年3月31日",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YcWNpVklYWVlNWVVnckZ1U3JleXlsWU1ERFBHa1BlTldJek1tSVBzZWJta3VPUTNES2N5M1J6eGs5azNLU0d3V180dW1zRU9aalE2SEpUcw?oc=5",
-   "pubDate": "2026-11-12T01:55:15.000Z",
-   "firstSeen": "2026-11-12T02:47:36.461Z",
-   "image": null,
-   "source": "共同通信PRワイヤー",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "マリオカート ワールド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "共同通信PRワイヤー",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YcWNpVklYWVlNWVVnckZ1U3JleXlsWU1ERFBHa1BlTldJek1tSVBzZWJta3VPUTNES2N5M1J6eGs5azNLU0d3V180dW1zRU9aalE2SEpUcw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "まだギリ間に合う！『ワンピース カードゲーム』4周年パック第2弾「神の支配」がプレバンで抽選販売中",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190795.html",
-   "pubDate": "2026-11-12T01:50:03.000Z",
-   "firstSeen": "2026-11-12T02:47:36.461Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ワンピース カードゲーム"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190795.html"
-    }
-   ]
-  },
-  {
-   "title": "なあんだ、腹ヘリか？ おっし！ カルパッチョ食わしてやる。ワッカの髪の毛を再現したフードはサーモン＆レタス、青色ドレッシングがサッパリ美味しい！【FFXコラボカフェ食レポ】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xY1dLbThnX1pNOVFNVGRockdGeW1BdnRHSjdhS1RhcUxaTlBPZUpaajREZmRvSmJnN09UZmFKdGRWLUtkZ09oakJReEZrODBPcWZxalpseEotUQ?oc=5",
-   "pubDate": "2026-11-12T01:50:00.000Z",
-   "firstSeen": "2026-11-12T10:47:35.533Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "update",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xY1dLbThnX1pNOVFNVGRockdGeW1BdnRHSjdhS1RhcUxaTlBPZUpaajREZmRvSmJnN09UZmFKdGRWLUtkZ09oakJReEZrODBPcWZxalpseEotUQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "「仮面ライダーマイス」×「トムとジェリー」コラボ「DXライダーエグズ」が登場！DXマイスドライバーとの連動でオリジナル音声・発光が楽しめる",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190794.html",
-   "pubDate": "2026-11-12T01:45:02.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190794.html"
-    }
-   ]
-  },
-  {
-   "title": "【AmazonスマイルSALE駆け込み＆イベントシーズン応援セール】ポケモンGO(R)対応・挿すだけオートキャッチ「Pocket Hunter」が特別価格｜歩きスマホゼロで、秋のポケ活をもっと快適に！",
-   "summary": "ONO貿易株式会社（本社：東京都港区赤坂）は、台湾発のゲーム周辺機器メーカー「Brook Gaming」の日本正規代理店として、ポケモンGO(R)対応のARゲームサポートツール「Pocket Hunter（ポケットハンター）」につい...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000222.000084333.html",
-   "pubDate": "2026-11-12T01:41:20.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "update",
-    "event",
-    "hardware"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000222.000084333.html"
-    }
-   ]
-  },
-  {
-   "title": "「サブノーティカ 2」，Golden Joystick Awards 2026のBest Early Access Game部門を受賞",
-   "summary": "",
-   "link": "https://www.4gamer.net/games/848/G084886/20261112051/",
-   "pubDate": "2026-11-12T01:41:20.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "サブノーティカ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/848/G084886/20261112051/"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000441.000082433.html"
-    }
-   ]
-  },
-  {
-   "title": "『ピクミン』頭だけ出した“ぬかれまち”の姿が可愛い！マグネットや小皿、ネクタイなど日常使いできる新グッズが任天堂各ストアで発売",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190793.html",
-   "pubDate": "2026-11-12T01:40:02.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ピクミン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190793.html"
-    }
-   ]
-  },
-  {
-   "title": "マクドナルド、新商品「マックフルーリー ザクザク いちごのミルフィーユ味」11月18日より期間限定発売本田真凜さん出演のCMも放映",
-   "summary": "日本マクドナルドは、新商品「マックフルーリー ザクザク いちごのミルフィーユ味」を11月18日より全国のマクドナルド店舗にて期間限定で販売する。価格は380円〜。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155758.html",
-   "pubDate": "2026-11-12T01:35:25.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2155758.html"
-    }
-   ]
-  },
-  {
-   "title": "抜かれ待ちの「ピクミン」マグネットも！ニンテンドーストア「ピクミン」新グッズが販売開始",
-   "summary": "任天堂は、ダンドリアクションゲーム「ピクミン」シリーズの新たなオリジナルグッズを本日11月12日より発売する。価格は990円より。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155751.html",
-   "pubDate": "2026-11-12T01:31:12.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2155751.html"
-    }
-   ]
-  },
-  {
-   "title": "「ポケモン」3way使い分けできるルームポンチョが11月14日全国ドン・キホーテ/アピタにて発売！イーブイやミミッキュなど総柄全10種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190792.html",
-   "pubDate": "2026-11-12T01:30:03.000Z",
-   "firstSeen": "2026-11-12T01:47:42.433Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190792.html"
     }
    ]
   }
