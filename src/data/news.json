@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-28T00:47:53.927Z",
+ "generatedAt": "2026-11-28T01:47:58.324Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1364,
-  "syndicated": 64,
-  "similar": 368,
-  "syndicatedTotal": 445,
-  "syndicatedLeft": 29
+  "exact": 1355,
+  "syndicated": 62,
+  "similar": 363,
+  "syndicatedTotal": 441,
+  "syndicatedLeft": 28
  },
  "calendar": [
   {
@@ -1166,7 +1166,7 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "すみっコぐらし",
+   "work": "すみっコぐらし™",
    "title": "大人気キャラクター『すみっコぐらし™』のゲームシリーズ最新作！Nintendo Switch 2 ゲームソフト『すみっコぐらし ぽかぽか温泉にようこそ』本日2026年11月19日(木)発売のお知らせ",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FalNoMFQ4M002cVM1QU1FOExVdnhYYThzMHBVQTN0RU5PdVF3VmUxWXByLW5lVXdkZEhPemVBRVdhTm1Nel9ZX1ZpbElVRVNzYVo0SFpxd2h4MzV3YVUtVWcwVUFtYWRTU3c?oc=5",
    "source": "PR TIMES",
@@ -5400,6 +5400,23 @@
   {
    "date": "2026-11-30",
    "precision": "day",
+   "verb": "launch",
+   "label": "配信",
+   "work": "META TAXI",
+   "title": "ESCAPE所属・なぞのデザイナー×『META TAXI』コラボ！初のオンラインゲーム『META TAXI MEETS なぞのデザイナー』第1弾「カシワとフィンフィンの謎解きガチャ」11/30リリース",
+   "link": "https://prtimes.jp/main/html/rd/p/000000196.000148619.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "mobile",
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-30",
+   "precision": "day",
    "verb": "event",
    "label": "開催・放送",
    "work": "ウマ娘",
@@ -6971,6 +6988,20 @@
    "link": "https://prtimes.jp/main/html/rd/p/000000018.000182787.html",
    "source": "PR TIMES",
    "sources": 2,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "楽天スーパーSALEが12月4日より開催！ ポイントは最大47.5倍クーポンの配布も実施",
+   "link": "https://game.watch.impress.co.jp/docs/news/2160097.html",
+   "source": "GAME Watch",
+   "sources": 1,
    "categories": [],
    "platforms": [],
    "spoiler": false
@@ -9956,23 +9987,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-03-25",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "恋愛、はじめましてCS版",
-   "title": "青春追体験コメディが家庭用ゲーム機へ―AirVelocityの新作『恋愛、はじめましてCS版』2027年3月25日発売決定",
-   "link": "http://www.gamespark.jp/article/2026/11/12/174782.html",
-   "source": "Game*Spark",
-   "sources": 1,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-03-26",
    "precision": "day",
    "verb": "release",
@@ -10329,8 +10343,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 936,
-   "accepted": 908
+   "archived": 934,
+   "accepted": 906
   },
   {
    "id": "4gamer-sp",
@@ -10351,8 +10365,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 529,
-   "accepted": 523
+   "archived": 528,
+   "accepted": 522
   },
   {
    "id": "denfaminico",
@@ -10362,8 +10376,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1179,
-   "accepted": 1044
+   "archived": 1174,
+   "accepted": 1039
   },
   {
    "id": "gamewatch",
@@ -10373,8 +10387,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 625,
-   "accepted": 593
+   "archived": 620,
+   "accepted": 588
   },
   {
    "id": "gamespark",
@@ -10384,8 +10398,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1193,
-   "accepted": 1167
+   "archived": 1191,
+   "accepted": 1165
   },
   {
    "id": "inside-games",
@@ -10395,8 +10409,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1704,
-   "accepted": 1317
+   "archived": 1700,
+   "accepted": 1313
   },
   {
    "id": "ps-blog",
@@ -10428,8 +10442,8 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 120,
-   "accepted": 84
+   "archived": 119,
+   "accepted": 83
   },
   {
    "id": "gnews-famitsu",
@@ -10439,8 +10453,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 590,
-   "accepted": 451
+   "archived": 592,
+   "accepted": 453
   },
   {
    "id": "gnews-dengeki",
@@ -10451,7 +10465,7 @@
    "error": null,
    "fetched": 100,
    "archived": 559,
-   "accepted": 340
+   "accepted": 339
   },
   {
    "id": "gnews-newgame",
@@ -10461,8 +10475,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 620,
-   "accepted": 572
+   "archived": 618,
+   "accepted": 570
   },
   {
    "id": "gnews-switch2",
@@ -10472,8 +10486,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1418,
-   "accepted": 1209
+   "archived": 1399,
+   "accepted": 1195
   },
   {
    "id": "gnews-ps5",
@@ -10483,8 +10497,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 817,
-   "accepted": 743
+   "archived": 813,
+   "accepted": 739
   },
   {
    "id": "gnews-update",
@@ -10493,9 +10507,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 409,
-   "accepted": 328
+   "fetched": 84,
+   "archived": 408,
+   "accepted": 327
   },
   {
    "id": "prtimes",
@@ -10505,8 +10519,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26716,
-   "accepted": 408
+   "archived": 26641,
+   "accepted": 410
   },
   {
    "id": "gematsu",
@@ -10516,8 +10530,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 291,
-   "accepted": 291
+   "archived": 290,
+   "accepted": 290
   },
   {
    "id": "ign",
@@ -10527,8 +10541,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1308,
-   "accepted": 1308
+   "archived": 1309,
+   "accepted": 1309
   },
   {
    "id": "eurogamer",
@@ -10571,11 +10585,348 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 631,
-   "accepted": 631
+   "archived": 630,
+   "accepted": 630
   }
  ],
  "items": [
+  {
+   "title": "“せいだん”と過ごす、おいしい時間。「成人男性三人組」×カプコンカフェ開催決定！ 気になるコラボメニューを公開！",
+   "summary": "2026年12月18日（金）～2027年1月14日（木）の期間中、カプコンカフェ池袋店と梅田店の2店舗において、高音系歌い手グループ「成人男性三人組」のコラボメニューやグッズを展開するコラボレーションを開催いたし...",
+   "link": "https://prtimes.jp/main/html/rd/p/000006186.000013450.html",
+   "pubDate": "2026-11-28T01:40:42.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000006186.000013450.html"
+    }
+   ]
+  },
+  {
+   "title": "『ドラクエ』の「スライムダーク」グッズがイオンで受注販売中！真っ黒になった「スライム」のぬいぐるみ、トートバッグなど",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191713.html",
+   "pubDate": "2026-11-28T01:30:03.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191713.html"
+    }
+   ]
+  },
+  {
+   "title": "海戦に経営，結婚まで盛りだくさんの「紅の砂漠 Enhanced：未知なる旅路」は，本編の冒険をどう広げたのか？［プレイレポ］",
+   "summary": "「紅の砂漠Enhanced」の大型DLC「紅の砂漠Enhanced：未知なる旅路」が，10月30日にリリースされた。アップデートを経て再評価された本編の変化に触れつつ，新たに追加された海洋探索や自由建築，店舗経営，結婚といった新要素，さらにはクリフたちの後日談まで，大幅に拡張され…",
+   "link": "https://www.4gamer.net/games/484/G048495/20261126027/",
+   "pubDate": "2026-11-28T01:30:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/484/G048495/20261126027/"
+    }
+   ]
+  },
+  {
+   "title": "「ロマンシング サ・ガ3」の大剣技「乱れ雪月花」をカレーにしたらどうなる？ 料理人の閃きで作る3色カレー。俺のコラボカフェ：Menu 094",
+   "summary": "毎月第4土曜日に掲載している連載「俺のコラボカフェ」は，現役シェフである大西哲也氏が，さまざまなゲームなどと勝手にコラボし，イメージしたレシピを紹介するというコーナーだ。今回のお題は，フルリメイク版「ロマンシングサガ3デスティニーユナイテッド」の発売を2027年2月に控えた「ロマ…",
+   "link": "https://www.4gamer.net/games/448/G044868/20261127032/",
+   "pubDate": "2026-11-28T01:25:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/448/G044868/20261127032/"
+    }
+   ]
+  },
+  {
+   "title": "ESCAPE所属・なぞのデザイナー×『META TAXI』コラボ！初のオンラインゲーム『META TAXI MEETS なぞのデザイナー』第1弾「カシワとフィンフィンの謎解きガチャ」11/30リリース",
+   "summary": "ESCAPE株式会社所属の謎解きクリエイター「なぞのデザイナー」が、バーチャルタクシーをコンセプトにした人気YouTubeチャンネル『META TAXI（メタタクシー）』とコラボレーション。『META TAXI』初のオンラインゲ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000196.000148619.html",
+   "pubDate": "2026-11-28T01:15:18.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "mobile",
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "META TAXI",
+    "META TAXI MEETS なぞのデザイナー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000196.000148619.html"
+    }
+   ]
+  },
+  {
+   "title": "eスポーツチーム「REJECT」、所属VTuber6名が出演する3DライブREJECT Fes. Vol.1 \"Shine as One\" を2月22日にKT Zepp Yokohamaで開催",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000689.000050979.html",
+   "pubDate": "2026-11-28T01:15:18.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000689.000050979.html"
+    }
+   ]
+  },
+  {
+   "title": "Pokémon Winds & Waves Starter Pokémon Plush Revealed",
+   "summary": "Arriving in Japan next month. Pokémon Winds & Waves will introduce a new generation of Pokémon, and as usual, you can expect all sorts of me…",
+   "link": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed",
+   "pubDate": "2026-11-28T01:05:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": "https://images.nintendolife.com/9ba5fff5f265a/large.jpg",
+   "source": "Nintendo Life",
+   "sourceId": "nintendolife",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nintendo Life",
+     "sourceId": "nintendolife",
+     "link": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed"
+    }
+   ]
+  },
+  {
+   "title": "アベイルの「PEANUTS」ルームウェア5点セットが素敵！スヌーピーたちを可愛くデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191712.html",
+   "pubDate": "2026-11-28T01:00:04.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191712.html"
+    }
+   ]
+  },
+  {
+   "title": "タイ代表の無敗4連覇に地元が沸いた。賞金総額約2900万円の「ラグナロク」公式eスポーツ3大世界大会をレポート［Ragnarok Festa 2026］",
+   "summary": "2026年11月7日にタイ・バンコクで開催された「RagnarokFesta2026」の公式eスポーツ3大世界大会をレポート。タイ代表「MORNINGSTAR」の無敗4連覇をはじめ，巨大ステージで同時進行した3部門の熱戦を伝える。",
+   "link": "https://www.4gamer.net/games/001/G000183/20261127009/",
+   "pubDate": "2026-11-28T01:00:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "esports"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/001/G000183/20261127009/"
+    }
+   ]
+  },
+  {
+   "title": "楽天スーパーSALEが12月4日より開催！ ポイントは最大47.5倍クーポンの配布も実施",
+   "summary": "楽天は、大型セール「楽天スーパーSALE」を12月4日20時より12月11日1時59分にかけて開催する。",
+   "link": "https://game.watch.impress.co.jp/docs/news/2160097.html",
+   "pubDate": "2026-11-28T01:00:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gamewatch",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gamewatch",
+     "link": "https://game.watch.impress.co.jp/docs/news/2160097.html"
+    }
+   ]
+  },
+  {
+   "title": "『アークナイツ：エンドフィールド』新オペレーター「ケーちゃん」の次世代“お腹まわり”グラフィックが脚光浴びる。濡れ感・透け感・肉感、マニアック技術力炸裂",
+   "summary": "『アークナイツ：エンドフィールド』にて新たに登場したオペレーター「ケーちゃん」について、グラフィック表現の観点から熱視線が注がれている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261128-481434/",
+   "pubDate": "2026-11-28T00:50:27.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481434-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アークナイツ:エンドフィールド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261128-481434/"
+    }
+   ]
+  },
+  {
+   "title": "The Lenovo Black Friday Sale Has Great Deals on Two High-End Legion Gaming PCs",
+   "summary": "Both systems can easily run games in 4K.",
+   "link": "https://www.ign.com/articles/lenovo-black-friday-sale-best-gaming-pc-deals",
+   "pubDate": "2026-11-28T00:45:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/28/lenovolegiontower72-1795825965391.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/lenovo-black-friday-sale-best-gaming-pc-deals"
+    }
+   ]
+  },
   {
    "title": "ユニクロ「UT」の「サンリオキャラクターズ」新作コレクションに注目！デコレーションシール風デザインのキッズ向けシャツ全3種",
    "summary": "",
@@ -20053,6 +20404,35 @@
    ]
   },
   {
+   "title": "ピンボールとシューティングが融合したローグライトアクション『Appulse』発売。放たれたボールは射撃機能搭載。撃てば反動で軌道が変化",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XdDZLdmpEV3ZSS3VrQVN6bWJQYmw4dVoxOThVUlJFc2s1dThJTS03bmF0RjZzX0NGWmJqeW9fcERpbVFSTHpoV3RwWTliOVlNREJfRmZWRQ?oc=5",
+   "pubDate": "2026-11-27T05:10:00.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Appulse"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XdDZLdmpEV3ZSS3VrQVN6bWJQYmw4dVoxOThVUlJFc2s1dThJTS03bmF0RjZzX0NGWmJqeW9fcERpbVFSTHpoV3RwWTliOVlNREJfRmZWRQ?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "「てれびくん 1月号」本日発売！ 大人もかぶれる「ゴジラマスク」や「ドラクエモンスターズ4」のデジタルコードなど豪華7大付録",
    "summary": "小学館は、雑誌「てれびくん 1月号」を本日11月27日より発売する。価格は2,090円。",
    "link": "https://game.watch.impress.co.jp/docs/news/2159937.html",
@@ -25956,7 +26336,7 @@
    "firstSeen": "2026-11-26T15:47:34.595Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-famitsu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -25975,9 +26355,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVekJ4QTJvZnRENU5HS2JZV0Q2OUpJaVZEcUVGNFpQUnZiN1JVby1LRzVIRktwMHJfRDJkMUNuQ1pIVTNTWHNSdDBxZUJkekJNcFpTWFlQZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「ファミ通」"
     }
    ]
   },
@@ -39427,6 +39807,35 @@
      "name": "GameSpot",
      "sourceId": "gamespot",
      "link": "https://www.gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier/"
+    }
+   ]
+  },
+  {
+   "title": "『モンスターハンターライズ』モバイル版がNetflixゲームに登場！加入者は追加料金なしでプレイ可能",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOb1ZoQTJIV3RPaVJYZlo4cWdyV1RmdGJaUkZ1U2tRQ1RFNE4wRmtTS1lnX3pDaGQ0LW05Y3VwdEpnTm9wazkyUmhIY2l0OFdUNFVaOU1LbTBYbEpqNnVSWElGbGp0d2hWQnBNdy0teTdHeUtlYXY3a2FUaV8zZnJ5LTJBblN3c01CRGhkcHQ0ZHFJekRTMERPR2VUZW5rZWRYaG5zd25qTGY3dlpmZnUyZ09hRzNZcGVGT0s1dVNMR0FsNGNSTEJTMFNtUXFoOWhvaC1KNEdxejFkUThDeEkyQnVTUFVveGhUYVZGb2xfXzdGeXlWNlNjQ1RxYXhJUjR6cTFTc1pjZ3hnblhBLXZreGx1NlBFUk83X282WVBRMk1GV1JMZEZ0OHZGZzR1SFdtNm9wNl9lMTRZaWRwS2tKdU90cWl2QjhqT2VyMm9ZdFQzN2g2X25nNjdwWGhQS2hudGtnZnRRZGI?oc=5",
+   "pubDate": "2026-11-25T17:43:10.000Z",
+   "firstSeen": "2026-11-28T01:47:43.042Z",
+   "image": null,
+   "source": "games.gg",
+   "sourceId": "gnews-update",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "モンスターハンターライズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "games.gg",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOb1ZoQTJIV3RPaVJYZlo4cWdyV1RmdGJaUkZ1U2tRQ1RFNE4wRmtTS1lnX3pDaGQ0LW05Y3VwdEpnTm9wazkyUmhIY2l0OFdUNFVaOU1LbTBYbEpqNnVSWElGbGp0d2hWQnBNdy0teTdHeUtlYXY3a2FUaV8zZnJ5LTJBblN3c01CRGhkcHQ0ZHFJekRTMERPR2VUZW5rZWRYaG5zd25qTGY3dlpmZnUyZ09hRzNZcGVGT0s1dVNMR0FsNGNSTEJTMFNtUXFoOWhvaC1KNEdxejFkUThDeEkyQnVTUFVveGhUYVZGb2xfXzdGeXlWNlNjQ1RxYXhJUjR6cTFTc1pjZ3hnblhBLXZreGx1NlBFUk83X282WVBRMk1GV1JMZEZ0OHZGZzR1SFdtNm9wNl9lMTRZaWRwS2tKdU90cWl2QjhqT2VyMm9ZdFQzN2g2X25nNjdwWGhQS2hudGtnZnRRZGI?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」"
     }
    ]
   },
@@ -63149,9 +63558,9 @@
     },
     {
      "name": "Nintendo",
-     "sourceId": "gnews-update",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjFtOWtkUGFPTno4QzhoQ2Y4RXFoRnVaeG5WMGl0OXRuWV91LWRnWEs0S3VfVnMtenlkWWdYNUNVWWFoSHgteGtzUGVxTFNWdldmQ1ZGRkVkT2w3WWV6R1BQSmk2TnpMYlZMdWhxOTNjbUxiY00xc1hfVlAwcTJ5TTV5Qnc3Zw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     },
     {
      "name": "Nintendo Switch 情報ブログ",
@@ -85900,7 +86309,7 @@
    ]
   },
   {
-   "title": "【11月20日更新】PS5 Pro(PlayStation 5 Pro)はどこで買える？抽選・先着販売ストア一覧",
+   "title": "【11月20日更新】PS5 Proはどこで買える？抽選・先着販売ストア一覧",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjRQcmtIVHJUbmNpUkVzZDRjQndpcUlOM1g0ZzFTOF9KQ0VoRU1MSDF1Sl93SG53UGJ3TVV6VXpFZnJudmNUNVd4QUs1YnVQTFNFR1RKVzh3MVlwRXE2REk3clQyR195TTF5NldybDBQU0M5S3U2c01sWlk0Z2xxYmU4ZVctNU9VVnlfTE5kQmtLOENiVl9NM2lzTUVuVVRVSU40?oc=5",
    "pubDate": "2026-11-20T12:27:18.000Z",
@@ -85911,7 +86320,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 8,
    "categories": [],
    "deal": null,
    "platforms": [
@@ -109455,7 +109864,7 @@
     "switch2"
    ],
    "works": [
-    "すみっコぐらし",
+    "すみっコぐらし™",
     "すみっコぐらし ぽかぽか温泉にようこそ",
     "すみっコぐらし(TM)"
    ],
@@ -187963,421 +188372,6 @@
      "name": "AUTOMATON",
      "sourceId": "automaton",
      "link": "https://automaton-media.com/articles/newsjp/20261112-478838/"
-    }
-   ]
-  },
-  {
-   "title": "「パペットスンスン」チョコレートギフトが先行予約！可愛いデザインにも注目",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190806.html",
-   "pubDate": "2026-11-12T03:10:03.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190806.html"
-    }
-   ]
-  },
-  {
-   "title": "XBOX大規模レイオフの影響を受けた「元id Softwareスタッフ」が新スタジオ設立。『DOOM』など“総開発経験250年”の大ベテラン集団がつくる、あの頃のFPS",
-   "summary": "元id Softwareの開発者たちが11月11日、新たな開発スタジオHidden Horsesの設立を発表した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261112-478831/",
-   "pubDate": "2026-11-12T03:09:23.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478831-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "review",
-    "business"
-   ],
-   "deal": null,
-   "platforms": [
-    "xbox"
-   ],
-   "works": [
-    "DOOM"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261112-478831/"
-    }
-   ]
-  },
-  {
-   "title": "青春追体験コメディが家庭用ゲーム機へ―AirVelocityの新作『恋愛、はじめましてCS版』2027年3月25日発売決定",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/11/12/174782.html",
-   "pubDate": "2026-11-12T03:05:03.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new",
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "恋愛、はじめましてCS版"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/12/174782.html"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】ミニ丈シースルーの金髪エルフ！蠱惑的な笑顔と、見事な“S字カーブ”で魅了する美女レイヤー【写真8枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190805.html",
-   "pubDate": "2026-11-12T03:05:03.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190805.html"
-    }
-   ]
-  },
-  {
-   "title": "「特別な天才」と「特別になれなかった凡人たち」の重すぎる感情を描くRPG『勇者パーティはぜんめつしました』はなぜ生まれたか。無名のインディーチームが4年間心血を注ぎ、40万字と400枚超のイラストで描きたかったものとは",
-   "summary": "無名のインディーチームが4年間心血を注ぎ、40万字と400枚超のイラストで描きたかったものとは",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/2611122f",
-   "pubDate": "2026-11-12T03:02:01.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image23-1-1024x384.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "indie"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "勇者パーティはぜんめつしました"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/2611122f"
-    }
-   ]
-  },
-  {
-   "title": "『名探偵プリキュア！』前期ED「なぜ？謎？！ANSWER」が“1000万回再生”を突破。『プリアラ』後期EDの“約1年4カ月”を大幅に塗り替え、わずか“約9カ月”で達成する最速記録",
-   "summary": "『プリアラ』後期EDの“約1年4カ月”というこれまでの記録を大幅に塗り替えた。前期EDにはいなかったキュアエクレール&シュシュタンを含めたお祝い画像も公開",
-   "link": "https://news.denfaminicogamer.jp/news/261112y",
-   "pubDate": "2026-11-12T03:01:45.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HW3BIuFaoAAk869-1024x724.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "名探偵プリキュア!",
-    "プリアラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261112y"
-    }
-   ]
-  },
-  {
-   "title": "『ゼルダの伝説 時のオカリナ』リメイク発売初週の評判はいかに 元RTA日本1位から完全初見の人気実況者まで、反応と共に振り返る（リアルサウンド）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iR3lKdERERkt2MzNyZmswOUktdnNwamZtbTJBT1l5TEVqaEJEUzlGYjM2WGEzVHhWU29lcFFweTRzbWtyOGhhVy1YRGY1akhnV2tVRWtaeEVMZ3h6TnlnR2pQWTlUS0U4M3pSMDZwRzVrZ3Bia2U2aG5JMEMzQkk?oc=5",
-   "pubDate": "2026-11-12T03:00:51.000Z",
-   "firstSeen": "2026-11-12T06:47:54.647Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース）",
-   "sourceId": "gnews-switch2",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ゼルダの伝説 時のオカリナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース）",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iR3lKdERERkt2MzNyZmswOUktdnNwamZtbTJBT1l5TEVqaEJEUzlGYjM2WGEzVHhWU29lcFFweTRzbWtyOGhhVy1YRGY1akhnV2tVRWtaeEVMZ3h6TnlnR2pQWTlUS0U4M3pSMDZwRzVrZ3Bia2U2aG5JMEMzQkk?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "魔法使いとして敵をなぎ倒しまくる一人称視点のアクションゲーム『Revenge of the Mage』正式版が発売。スピード感あふれる戦闘に魔法のビルド構築といったローグライト要素も",
-   "summary": "スピード感あふれる戦闘に魔法のビルド構築といったローグライト要素も。複数の魔法使いから選び、自分だけのスタイルで楽しめる",
-   "link": "https://news.denfaminicogamer.jp/news/261112r",
-   "pubDate": "2026-11-12T03:00:47.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/SS_Forest1-copy-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Revenge of the Mage"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261112r"
-    }
-   ]
-  },
-  {
-   "title": "“ティア表”のランク順を最大10人で当てあうゲーム『みんなでティア表!』が本日Steamにて発売",
-   "summary": "「なんでそれがSランク！？」という価値観のズレも盛り上がるスパイスに。ティア表の並びが全員揃えば成功の新モード「全員一致」が追加",
-   "link": "https://news.denfaminicogamer.jp/news/261112w",
-   "pubDate": "2026-11-12T03:00:43.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/02-guess-the-ranking-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [
-    "みんなでティア表!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261112w"
-    }
-   ]
-  },
-  {
-   "title": "新作ゲーム『ムーミン：ムーミン谷の夏まつり』本日11月12日（木）発売開始！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yQ3JiMFAxQUNvdi1DeDNfQWNEdEc0RDl1U09MYTJSd09tYkFYVnYzTDhfNTRUbDRhbElkNVdZbENSajZQa0pEbWpYQlR1b2Q0QjFCRDdOWlh4b2dkcjdnT1lB?oc=5",
-   "pubDate": "2026-11-12T03:00:40.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "ムーミン公式サイト | Moomin Official Website",
-   "sourceId": "gnews-newgame",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ムーミン:ムーミン谷の夏まつり"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ムーミン公式サイト | Moomin Official Website",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yQ3JiMFAxQUNvdi1DeDNfQWNEdEc0RDl1U09MYTJSd09tYkFYVnYzTDhfNTRUbDRhbElkNVdZbENSajZQa0pEbWpYQlR1b2Q0QjFCRDdOWlh4b2dkcjdnT1lB?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "【募集】「ニュースライター」を募集。ゲームメディアで働きたい人、一緒にさまざまなプロジェクトへ挑戦したい未来の人材求む",
-   "summary": "ニュース執筆からスタートし、1～2年で編集アシスタントとなる育成枠を募集。エンタメやネットの話題、そして人に伝えることが好きな人、大歓迎",
-   "link": "https://news.denfaminicogamer.jp/oshirase/2611122a",
-   "pubDate": "2026-11-12T03:00:31.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/3026/10/G8viSjeacAAtyh7.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/oshirase/2611122a"
-    }
-   ]
-  },
-  {
-   "title": "手描きアートで表現された“ムーミン谷”を冒険するゲーム『ムーミン：ムーミン谷の夏まつり』が本日11月12日に発売。トーベ・ヤンソンの小説『ムーミン谷の夏まつり』が原作",
-   "summary": "トーベ・ヤンソンの小説『ムーミン谷の夏まつり』が原作。大洪水に見舞われたムーミン谷で、離ればなれになってしまった仲間を探す心温まる物語が描かれる",
-   "link": "https://news.denfaminicogamer.jp/news/261112z",
-   "pubDate": "2026-11-12T03:00:26.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_25319f0842622bea6238136ff97d98892ef216b4.1920x1080-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ムーミン:ムーミン谷の夏まつり",
-    "ムーミン谷の夏まつり"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261112z"
-    }
-   ]
-  },
-  {
-   "title": "世界最大級のゲームデータベースサイト『GAMES NEVER DIE！（ゲームよ、永遠なれ！）』を公開しました。「好きだったゲーム」を、残していける場所を目指して",
-   "summary": "「好きだったゲーム」を、残していける場所を目指して。「IGDB」をもとに26万を超えるゲームタイトルの基礎・関連情報を集約。まずは気になる1本を探してみてください",
-   "link": "https://news.denfaminicogamer.jp/kikakuthetower/2611122d",
-   "pubDate": "2026-11-12T03:00:17.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/e0c34f9294cd9f50b286bf18318c7bca-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "GAMES NEVER DIE!(ゲームよ、永遠なれ!)"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/kikakuthetower/2611122d"
-    }
-   ]
-  },
-  {
-   "title": "『スト6』「リュウ」と「春麗」の『Desktop Mate』DLCがリリース。波動拳やスピニングバードキックでウィンドウを吹き飛ばす",
-   "summary": "11月12日、株式会社インフィニットループは、『Desktop Mate』にて、『ストリートファイター6』より「リュウ」と「春麗」のDLCをリリースした。 同DLCは、株式会社カプコン監修のもと、2人の姿をDesktop Mateで再現。日本語・英語ボイスに対応し、価格は各220…",
-   "link": "https://news.denfaminicogamer.jp/news/2611123n",
-   "pubDate": "2026-11-12T03:00:08.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image4-4-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 19,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "スト6",
-    "Desktop Mate"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611123n"
-    },
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/11/12/174781.html"
     }
    ]
   }
