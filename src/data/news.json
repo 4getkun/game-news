@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-28T08:47:41.773Z",
+ "generatedAt": "2026-11-28T09:52:29.426Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1340,
+  "exact": 1338,
   "syndicated": 61,
   "similar": 342,
-  "syndicatedTotal": 438,
+  "syndicatedTotal": 437,
   "syndicatedLeft": 27
  },
  "calendar": [
@@ -300,23 +300,6 @@
    "source": "インサイド",
    "sources": 1,
    "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-16",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": null,
-   "title": "「アークナイツ」，「モンスターハンター」コラボを11月16日から開催。限定オペレーター“焔狐竜オーキッド”などが登場",
-   "link": "https://www.4gamer.net/games/442/G044288/20261112017/",
-   "source": "4Gamer.net（スマホ）",
-   "sources": 1,
-   "categories": [
-    "event",
     "collab"
    ],
    "platforms": [],
@@ -7703,22 +7686,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-09",
-   "precision": "day",
-   "verb": "launch",
-   "label": "配信",
-   "work": "Marathon",
-   "title": "『Marathon』アップデート「共生」が12月9日配信！ 新モード「遠征」や新武器、ランナーシェル”BISHOP”が登場",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odnpIWVhTNGRPYVQ0d0lxUVdsbWw5cXQzRlQyRDdmOVhLTVJrNmdLYzRIN0xlY3pQUm5qLUNGU3gtT0d6bklkSHlDRkE4b1J1b2c0dmw2cjdEZThCS2JnNw?oc=5",
-   "source": "AppBank",
-   "sources": 1,
-   "categories": [
-    "update"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-10",
    "precision": "day",
    "verb": "release",
@@ -8509,6 +8476,22 @@
    "platforms": [
     "switch2"
    ],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": "陰の実力者になりたくて! 残響編",
+   "title": "『劇場版 陰の実力者になりたくて！ 残響編』が2027年5月に全国公開決定！新キャラクター・ミノル役に釘宮理恵さん",
+   "link": "https://news.denfaminicogamer.jp/news/261128j",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "media"
+   ],
+   "platforms": [],
    "spoiler": false
   },
   {
@@ -10202,6 +10185,23 @@
    "spoiler": false
   },
   {
+   "date": "2027-05-14",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「陰の実力者になりたくて！Phantom Echoes」，2027年5月14日に発売決定。最新トレイラーや各エディションの情報も公開",
+   "link": "https://www.4gamer.net/games/039/G103917/20261127045/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2027-06",
    "precision": "month",
    "verb": "release",
@@ -10309,8 +10309,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 911,
-   "accepted": 885
+   "archived": 910,
+   "accepted": 884
   },
   {
    "id": "4gamer-sp",
@@ -10320,8 +10320,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 223,
-   "accepted": 213
+   "archived": 222,
+   "accepted": 212
   },
   {
    "id": "automaton",
@@ -10331,8 +10331,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 515,
-   "accepted": 510
+   "archived": 513,
+   "accepted": 508
   },
   {
    "id": "denfaminico",
@@ -10342,8 +10342,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1154,
-   "accepted": 1015
+   "archived": 1151,
+   "accepted": 1013
   },
   {
    "id": "gamewatch",
@@ -10353,8 +10353,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 602,
-   "accepted": 570
+   "archived": 597,
+   "accepted": 566
   },
   {
    "id": "gamespark",
@@ -10364,8 +10364,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1177,
-   "accepted": 1151
+   "archived": 1176,
+   "accepted": 1150
   },
   {
    "id": "inside-games",
@@ -10375,8 +10375,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1681,
-   "accepted": 1298
+   "archived": 1679,
+   "accepted": 1295
   },
   {
    "id": "ps-blog",
@@ -10408,7 +10408,7 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "archived": 118,
+   "archived": 117,
    "accepted": 82
   },
   {
@@ -10416,31 +10416,31 @@
    "name": "Googleニュース「ファミ通」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 585,
-   "accepted": 448
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 582,
+   "accepted": 445
   },
   {
    "id": "gnews-dengeki",
    "name": "Googleニュース「電撃オンライン」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 556,
-   "accepted": 331
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 555,
+   "accepted": 330
   },
   {
    "id": "gnews-newgame",
    "name": "Googleニュース「新作ゲーム」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 616,
    "accepted": 568
   },
@@ -10449,33 +10449,33 @@
    "name": "Googleニュース「Nintendo Switch 2」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 1364,
-   "accepted": 1163
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 1356,
+   "accepted": 1158
   },
   {
    "id": "gnews-ps5",
    "name": "Googleニュース「PS5 発売」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 791,
-   "accepted": 716
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 789,
+   "accepted": 714
   },
   {
    "id": "gnews-update",
    "name": "Googleニュース「ゲーム アップデート」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 83,
-   "archived": 404,
-   "accepted": 329
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 401,
+   "accepted": 327
   },
   {
    "id": "prtimes",
@@ -10485,7 +10485,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26288,
+   "archived": 26277,
    "accepted": 408
   },
   {
@@ -10507,8 +10507,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1309,
-   "accepted": 1309
+   "archived": 1308,
+   "accepted": 1308
   },
   {
    "id": "eurogamer",
@@ -10518,8 +10518,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 334,
-   "accepted": 334
+   "archived": 333,
+   "accepted": 333
   },
   {
    "id": "gamespot",
@@ -10556,6 +10556,242 @@
   }
  ],
  "items": [
+  {
+   "title": "店舗経営もできるローポリ犯罪ライフシム『HOOD』Steam早期アクセス開始―自由度高いギャング体験で“非常に好評”スタート",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175419.html",
+   "pubDate": "2026-11-28T09:30:03.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "HOOD"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175419.html"
+    }
+   ]
+  },
+  {
+   "title": "失踪した妻を探すセクシーADV『この世のどこかにいる妻へ』Steam版、初動で「DLsite版の17倍」も売れる。10言語展開で躍進、“背徳フェチ”に国境なし",
+   "summary": "IV18Gaugeは11月26日、『DEEPest RESEARCH（この世のどこかにいる妻へ）』をSteam向けに発売した。本作はSteamでのリリースにあたって、先行していたDLsite版の17倍も売れたのだという。",
+   "link": "https://automaton-media.com/articles/newsjp/20261128-481500/",
+   "pubDate": "2026-11-28T09:29:00.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481500-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 13,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "この世のどこかにいる妻へ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261128-481500/"
+    }
+   ]
+  },
+  {
+   "title": "パズルで戦う3Dダンジョン探索RPG『Destined Dungeon Quest』配信開始！プレイするたびに変化するダンジョンが待ち受ける",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175418.html",
+   "pubDate": "2026-11-28T09:20:57.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Destined Dungeon Quest"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175418.html"
+    }
+   ]
+  },
+  {
+   "title": "オリジナルガンプラ「HG 1/144 マイティーストライクフリーダムガンダム [ポラライズドクリア]」が登場！西川貴教の「SEED FREEDOM ZERO」主題歌CDに付属",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191728.html",
+   "pubDate": "2026-11-28T09:05:02.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191728.html"
+    }
+   ]
+  },
+  {
+   "title": "『劇場版 陰の実力者になりたくて！ 残響編』が2027年5月に全国公開決定！新キャラクター・ミノル役に釘宮理恵さん",
+   "summary": "「主人公最強×圧倒的中二病×勘違いシリアスコメディ」の人気アニメが初の映画化、次なる暗躍の舞台は“現代日本”。TVシリーズ全32話が2027年1月より再放送",
+   "link": "https://news.denfaminicogamer.jp/news/261128j",
+   "pubDate": "2026-11-28T09:00:42.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/kage_movie_mein1_pos_s-723x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "media"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "陰の実力者になりたくて! 残響編"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261128j"
+    }
+   ]
+  },
+  {
+   "title": "「陰の実力者になりたくて！Phantom Echoes」，2027年5月14日に発売決定。最新トレイラーや各エディションの情報も公開",
+   "summary": "Aimingは本日，新作ローグライトアクション「陰の実力者になりたくて！PhantomEchoes」の発売日が2027年5月14日に決定したと発表した。これにあわせて予約受付を順次開始し，最新トレイラーや各エディションの詳細を公開している。",
+   "link": "https://www.4gamer.net/games/039/G103917/20261127045/",
+   "pubDate": "2026-11-28T09:00:00.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "new",
+    "release"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/039/G103917/20261127045/"
+    }
+   ]
+  },
+  {
+   "title": "週刊Steam広場 第181号：放置RPG「Melvor Idle 2」や，ダンジョンクローラー「Dungeonbound」が発売に",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，地球に衝突する巨大小惑星の破壊を題材とした「NoAsteroids」や，古びた品々をよみがえらせるレストアを題材とした「Reshine」が発売された。",
+   "link": "https://www.4gamer.net/games/038/G003821/20261128003/",
+   "pubDate": "2026-11-28T09:00:00.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "pc"
+   ],
+   "works": [
+    "Melvor Idle 2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/038/G003821/20261128003/"
+    }
+   ]
+  },
+  {
+   "title": "『サイバーパンク2077』サブクエのその後をメールで描くシステムは『ペルソナ５』が着想元―クエスト開発率いた人物が語る",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175417.html",
+   "pubDate": "2026-11-28T08:57:22.000Z",
+   "firstSeen": "2026-11-28T09:52:14.101Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "サイバーパンク2077",
+    "ペルソナ5"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175417.html"
+    }
+   ]
+  },
   {
    "title": "全24種類のクラスが一挙登場！『Ori』シリーズ開発元の見下ろしARPG『ノー レスト フォー ザ ウィケッド』システム刷新するオープンベータ12月17日開催。384種の特性を組み合わせてクラスの垣根を超えたビルド構築も",
    "summary": "",
@@ -188093,249 +188329,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000117.000045461.html"
-    }
-   ]
-  },
-  {
-   "title": "【発売日決定！】聖徳太子と恋愛できる乙女ゲーム『なら☆こい ～古代人なれど恋したひ～』の公式サイトを公開し、発売日が2026年12月17日に決定したことを発表！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000420.000113626.html",
-   "pubDate": "2026-11-12T05:40:44.000Z",
-   "firstSeen": "2026-11-12T05:47:37.275Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "なら☆こい 〜古代人なれど恋したひ〜"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000420.000113626.html"
-    }
-   ]
-  },
-  {
-   "title": "『ダンガンロンパ』イラストレーターORIHARA描き下ろしグッズ販売。ポップアップショップが有楽町マルイ、なんばマルイで開催。コンセプトは和装",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fNW5sOC1sU3NHZGxiZjNlb2o3dlUxcTdPWUdMY3h4S2t6d29XVGxlcG54WUhFNWEyN3BDd0owVHlyMG1MTWRzSXU4Z1dfa0o1c2pmY0Jjbw?oc=5",
-   "pubDate": "2026-11-12T05:37:00.000Z",
-   "firstSeen": "2026-11-12T10:47:35.533Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ダンガンロンパ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fNW5sOC1sU3NHZGxiZjNlb2o3dlUxcTdPWUdMY3h4S2t6d29XVGxlcG54WUhFNWEyN3BDd0owVHlyMG1MTWRzSXU4Z1dfa0o1c2pmY0Jjbw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "発売予定のPS5ゲーム：発売日一覧（随時更新）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00R1pKa2hYVmI5Y3FhcWxzMWhTMHEyTm9GTFVIMFR4akJpaTN5VHhQZjNJb3h3T253QjV3YXFxUldTLVZCME9QdGVWRWdrSDkt?oc=5",
-   "pubDate": "2026-11-12T05:33:23.000Z",
-   "firstSeen": "2026-11-12T15:47:37.539Z",
-   "image": null,
-   "source": "games.gg",
-   "sourceId": "gnews-ps5",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [
-    "ps5"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "games.gg",
-     "sourceId": "gnews-ps5",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00R1pKa2hYVmI5Y3FhcWxzMWhTMHEyTm9GTFVIMFR4akJpaTN5VHhQZjNJb3h3T253QjV3YXFxUldTLVZCME9QdGVWRWdrSDkt?oc=5",
-     "via": "Googleニュース「PS5 発売」"
-    }
-   ]
-  },
-  {
-   "title": "今年で10周年の節目を迎える中国・上海のゲームイベント「WePlay 2026」。来週末の開催に向けて追加情報が公開された",
-   "summary": "中国・上海で2026年11月21日と22日に開催されるゲームイベント「WePlay2026」は，海外開発者の来場ラッシュとなりそうだ。「RustyLake」のRobin氏とMaarten氏，「SlaytheSpire」のCaseyYano氏，「LiesofP」のチェ・ジウォン氏ら…",
-   "link": "https://www.4gamer.net/games/606/G060611/20261112014/",
-   "pubDate": "2026-11-12T05:32:58.000Z",
-   "firstSeen": "2026-11-12T05:47:37.275Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/606/G060611/20261112014/"
-    },
-    {
-     "name": "4Gamer.net",
-     "sourceId": "gnews-newgame",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XQVRST2ZPOEN6NVJzQmVSMTJiT2dGdWxTWUtadkxvWHRFUXRaMFByWm16VXlmSndsWV9DdGFhdWxMeEtrTWJBbDNYa2ZvTmNNSkItSU12VVpJcFpETmduQ1Z1Zw?oc=5",
-     "via": "Googleニュース「新作ゲーム」"
-    }
-   ]
-  },
-  {
-   "title": "『The Elder Scrolls V: Skyrim』はなぜ心地よいのか。意図せずコージーゲームとなったその理由",
-   "summary": "『The Elder Scrolls V: Skyrim』は『Stardew Valley』ではない。それなのに、なぜこの氷に閉ざされた危険な世界は、これほどまでに温かく心地よく感じられるのだろうか？ 数か月おきに、どこかのYouTubeチャンネルが「発売から10年以上経った今も…",
-   "link": "https://jp.ign.com/the-elder-scrolls-v-skyrim/84587/the-elder-scrolls-v-skyrim",
-   "pubDate": "2026-11-12T05:32:04.000Z",
-   "firstSeen": "2026-11-12T06:47:54.647Z",
-   "image": "https://sm.ign.com/ign_jp/feature/h/how-skyrim/how-skyrim-found-a-second-life-as-cozy-game_ent4.jpg",
-   "source": "IGN Japan",
-   "sourceId": "ign-jp",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "The Elder Scrolls V: Skyrim"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "IGN Japan",
-     "sourceId": "ign-jp",
-     "link": "https://jp.ign.com/the-elder-scrolls-v-skyrim/84587/the-elder-scrolls-v-skyrim"
-    }
-   ]
-  },
-  {
-   "title": "任天堂、Nintendo Switchの「改造チップ用プログラム」にごっそり削除要請。改造チップを“動かす手段”にも追及の手、海賊版対策さらに進む",
-   "summary": "ソフトウェア開発プラットフォームGitHubは、任天堂から11月6日に送付された複数のDMCAを公開した。",
-   "link": "https://automaton-media.com/articles/newsjp/20261112-478848/",
-   "pubDate": "2026-11-12T05:20:16.000Z",
-   "firstSeen": "2026-11-12T05:47:37.275Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478848-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 14,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/20261112-478848/"
-    }
-   ]
-  },
-  {
-   "title": "『Marathon』アップデート「共生」が12月9日配信！ 新モード「遠征」や新武器、ランナーシェル”BISHOP”が登場",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odnpIWVhTNGRPYVQ0d0lxUVdsbWw5cXQzRlQyRDdmOVhLTVJrNmdLYzRIN0xlY3pQUm5qLUNGU3gtT0d6bklkSHlDRkE4b1J1b2c0dmw2cjdEZThCS2JnNw?oc=5",
-   "pubDate": "2026-11-12T05:15:00.000Z",
-   "firstSeen": "2026-11-12T05:47:37.275Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-update",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "update"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "Marathon"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-update",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odnpIWVhTNGRPYVQ0d0lxUVdsbWw5cXQzRlQyRDdmOVhLTVJrNmdLYzRIN0xlY3pQUm5qLUNGU3gtT0d6bklkSHlDRkE4b1J1b2c0dmw2cjdEZThCS2JnNw?oc=5",
-     "via": "Googleニュース「ゲーム アップデート」"
-    }
-   ]
-  },
-  {
-   "title": "「アークナイツ」，「モンスターハンター」コラボを11月16日から開催。限定オペレーター“焔狐竜オーキッド”などが登場",
-   "summary": "「アークナイツ」公式Xは本日（2026年11月12日），「モンスターハンター」とのコラボイベント「泡影を穿つ碧雷」を11月16日にスタートすると発表した。期間限定で新オペレーターをスカウトできるほか，任務達成でイベント限定オペレーターも加入する。",
-   "link": "https://www.4gamer.net/games/442/G044288/20261112017/",
-   "pubDate": "2026-11-12T05:13:54.000Z",
-   "firstSeen": "2026-11-12T05:47:37.275Z",
-   "image": null,
-   "source": "4Gamer.net（スマホ）",
-   "sourceId": "4gamer-sp",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net（スマホ）",
-     "sourceId": "4gamer-sp",
-     "link": "https://www.4gamer.net/games/442/G044288/20261112017/"
     }
    ]
   }
