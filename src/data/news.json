@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-28T13:47:50.633Z",
+ "generatedAt": "2026-11-28T14:34:23.166Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1332,
+  "exact": 1328,
   "syndicated": 62,
-  "similar": 339,
-  "syndicatedTotal": 435,
+  "similar": 337,
+  "syndicatedTotal": 434,
   "syndicatedLeft": 27
  },
  "calendar": [
@@ -2532,22 +2532,6 @@
     "switch",
     "ps5"
    ],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-21",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「ポケモン東京ばな奈」新作トートバッグセットが11月21日発売！ピカチュウ＆イーブイを大胆デザイン、付箋プレゼントキャンペーンも実施",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190826.html",
-   "source": "インサイド",
-   "sources": 1,
-   "categories": [
-    "new"
-   ],
-   "platforms": [],
    "spoiler": false
   },
   {
@@ -5925,6 +5909,22 @@
    "precision": "day",
    "verb": "launch",
    "label": "配信",
+   "work": "アナザーエデン",
+   "title": "『アナザーエデン』が『サガ』シリーズとコラボ。バトルテーマは作曲家・伊藤賢治氏による書き下ろし",
+   "link": "https://news.denfaminicogamer.jp/news/261128m",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "collab"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-01",
+   "precision": "day",
+   "verb": "launch",
+   "label": "配信",
    "work": "The Last Squad",
    "title": "最大4人協力ローグライトハクスラアクション「The Last Squad」，12月1日に早期アクセス版をリリース",
    "link": "https://www.4gamer.net/games/953/G095371/20261127054/",
@@ -7895,23 +7895,6 @@
    "source": "電ファミニコゲーマー",
    "sources": 1,
    "categories": [
-    "collab"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-11",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催・放送",
-   "work": "ブルアカ",
-   "title": "『ブルアカ』とサンシャイン水族館のコラボイベントが12月11日から開催。ホシノと水族館を巡りながら生き物を解説してもらえる音声ガイドを楽しめちゃう",
-   "link": "https://news.denfaminicogamer.jp/news/2611122w",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
-   "categories": [
-    "event",
     "collab"
    ],
    "platforms": [],
@@ -10261,8 +10244,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 891,
-   "accepted": 865
+   "archived": 890,
+   "accepted": 864
   },
   {
    "id": "4gamer-sp",
@@ -10283,8 +10266,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 508,
-   "accepted": 503
+   "archived": 507,
+   "accepted": 502
   },
   {
    "id": "denfaminico",
@@ -10316,8 +10299,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1166,
-   "accepted": 1140
+   "archived": 1163,
+   "accepted": 1137
   },
   {
    "id": "inside-games",
@@ -10327,8 +10310,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1675,
-   "accepted": 1293
+   "archived": 1674,
+   "accepted": 1292
   },
   {
    "id": "ps-blog",
@@ -10371,8 +10354,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 586,
-   "accepted": 447
+   "archived": 584,
+   "accepted": 445
   },
   {
    "id": "gnews-dengeki",
@@ -10382,7 +10365,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 552,
+   "archived": 551,
    "accepted": 325
   },
   {
@@ -10393,8 +10376,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 620,
-   "accepted": 572
+   "archived": 618,
+   "accepted": 570
   },
   {
    "id": "gnews-switch2",
@@ -10404,8 +10387,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1342,
-   "accepted": 1145
+   "archived": 1341,
+   "accepted": 1142
   },
   {
    "id": "gnews-ps5",
@@ -10415,8 +10398,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 786,
-   "accepted": 710
+   "archived": 783,
+   "accepted": 707
   },
   {
    "id": "gnews-update",
@@ -10437,7 +10420,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26175,
+   "archived": 26163,
    "accepted": 408
   },
   {
@@ -10448,8 +10431,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 281,
-   "accepted": 281
+   "archived": 278,
+   "accepted": 278
   },
   {
    "id": "ign",
@@ -10459,8 +10442,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1305,
-   "accepted": 1305
+   "archived": 1299,
+   "accepted": 1299
   },
   {
    "id": "eurogamer",
@@ -10470,8 +10453,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 329,
-   "accepted": 329
+   "archived": 326,
+   "accepted": 326
   },
   {
    "id": "gamespot",
@@ -10481,8 +10464,8 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "archived": 285,
-   "accepted": 285
+   "archived": 282,
+   "accepted": 282
   },
   {
    "id": "nintendolife",
@@ -10492,8 +10475,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 349,
-   "accepted": 349
+   "archived": 348,
+   "accepted": 348
   },
   {
    "id": "pcgamer",
@@ -10503,11 +10486,94 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 610,
-   "accepted": 610
+   "archived": 608,
+   "accepted": 608
   }
  ],
  "items": [
+  {
+   "title": "Team Ninja producer says the Nioh studio uses AI 'to streamline certain workflows', but insists 'deciding how to craft the game and what makes it enjoyable must be done by humans'",
+   "summary": "\"Using AI itself should never be the goal.\"",
+   "link": "https://www.pcgamer.com/gaming-industry/game-development/team-ninja-producer-says-the-nioh-studio-uses-ai-to-streamline-certain-workflows-but-insists-deciding-how-to-craft-the-game-and-what-makes-it-enjoyable-must-be-done-by-humans/",
+   "pubDate": "2026-11-28T14:07:37.000Z",
+   "firstSeen": "2026-11-28T14:34:02.782Z",
+   "image": "https://cdn.mos.cms.futurecdn.net/xV5zNsdmdv7q43RuGfdGxb-1920-80.jpg",
+   "source": "PC Gamer",
+   "sourceId": "pcgamer",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PC Gamer",
+     "sourceId": "pcgamer",
+     "link": "https://www.pcgamer.com/gaming-industry/game-development/team-ninja-producer-says-the-nioh-studio-uses-ai-to-streamline-certain-workflows-but-insists-deciding-how-to-craft-the-game-and-what-makes-it-enjoyable-must-be-done-by-humans/"
+    }
+   ]
+  },
+  {
+   "title": "『アナザーエデン』が『サガ』シリーズとコラボ。バトルテーマは作曲家・伊藤賢治氏による書き下ろし",
+   "summary": "詳細は12月1日に配信予定の「アナデンまつり2026冬」で解禁。SNSでは「ギュスターヴにアセルス！？」など、登場キャラに期待が高まる",
+   "link": "https://news.denfaminicogamer.jp/news/261128m",
+   "pubDate": "2026-11-28T14:05:28.000Z",
+   "firstSeen": "2026-11-28T14:34:02.782Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HYNRIpObQAEbWW--768x1024.jpeg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "アナザーエデン",
+    "サガ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261128m"
+    }
+   ]
+  },
+  {
+   "title": "GTA 6’s Criminal Profile Isn’t a Morality Spectrum – It’s an RPG Class System",
+   "summary": "Doing violent crimes changes your criminal profile in GTA 6, but this isn't a punishment for being \"evil\" - it's a new take on the RPG class…",
+   "link": "https://www.ign.com/articles/gta-6s-criminal-profile-isnt-a-morality-spectrum-its-an-rpg-class-system",
+   "pubDate": "2026-11-28T13:30:00.000Z",
+   "firstSeen": "2026-11-28T14:34:02.782Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-robbery-1795698467947.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/gta-6s-criminal-profile-isnt-a-morality-spectrum-its-an-rpg-class-system"
+    }
+   ]
+  },
   {
    "title": "It looks like GTA 6's Jason and Mandy might have had a history after all",
    "summary": "Warning: spoilers for GTA 6 follow. Read more",
@@ -11394,6 +11460,37 @@
      "name": "Game*Spark",
      "sourceId": "gamespark",
      "link": "http://www.gamespark.jp/article/2026/11/28/175418.html"
+    }
+   ]
+  },
+  {
+   "title": "The Eminence in Shadow: Phantom Echoes launches May 13, 2027",
+   "summary": "Roguelite action game The Eminence in Shadow: Phantom Echoes will launch for PlayStation 5, Switch …",
+   "link": "https://www.gematsu.com/2026/11/the-eminence-in-shadow-phantom-echoes-launches-may-13-2027",
+   "pubDate": "2026-11-28T09:15:56.000Z",
+   "firstSeen": "2026-11-28T14:34:02.782Z",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/The-Eminence-in-Shadow-Date_11-28-26.jpg",
+   "source": "Gematsu",
+   "sourceId": "gematsu",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 5,
+   "categories": [
+    "release"
+   ],
+   "deal": null,
+   "platforms": [
+    "switch",
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gematsu",
+     "sourceId": "gematsu",
+     "link": "https://www.gematsu.com/2026/11/the-eminence-in-shadow-phantom-echoes-launches-may-13-2027"
     }
    ]
   },
@@ -12647,6 +12744,35 @@
    ]
   },
   {
+   "title": "「うぶごえ」クラファン支援金1093万円の未送金問題にあった『パーガトリー・ブルー』が制作再開。2027年夏にリリース予定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ckVlWVNJcVBzd25hMUlDNU91bmhoN3VTWjVzemZHVnYyTjY2dDdBc0RMaHN0MXE1WFlxREsydTgwUUJrN3Jxai1JNnlhQ215UkJsM0NSOA?oc=5",
+   "pubDate": "2026-11-28T02:56:00.000Z",
+   "firstSeen": "2026-11-28T14:34:02.782Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-famitsu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "パーガトリー・ブルー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-famitsu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ckVlWVNJcVBzd25hMUlDNU91bmhoN3VTWjVzemZHVnYyTjY2dDdBc0RMaHN0MXE1WFlxREsydTgwUUJrN3Jxai1JNnlhQ215UkJsM0NSOA?oc=5",
+     "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
    "title": "本日（11月28日）19時からミンゴスが釘宮理恵さん、沼倉愛美さん、長谷川明子さんと『桃鉄2』をプレイ。『今井麻美のニコニコSSG』特番生放送配信",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1NEQ1I2RDhON0QyXzdXUGs1aE5yUUhMT2MxTnVPTFNMMDZ4amdSTFRfLWhSVTdVLW9xRVlIY3pqTDlZbnNielVDQnB5ZkRGTWszN2V5UQ?oc=5",
@@ -12654,7 +12780,7 @@
    "firstSeen": "2026-11-28T03:47:33.556Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-switch2",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12670,9 +12796,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1NEQ1I2RDhON0QyXzdXUGs1aE5yUUhMT2MxTnVPTFNMMDZ4amdSTFRfLWhSVTdVLW9xRVlIY3pqTDlZbnNielVDQnB5ZkRGTWszN2V5UQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「Nintendo Switch 2」"
     }
    ]
   },
@@ -30046,7 +30172,7 @@
    "firstSeen": "2026-11-26T18:47:32.110Z",
    "image": null,
    "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
+   "sourceId": "gnews-ps5",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -30067,9 +30193,9 @@
    "sources": [
     {
      "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
+     "sourceId": "gnews-ps5",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XeWg1ZmRSbl92UEpuWTFWbEJjRV9ueEQ0LWVLQlMxZkU3b1lnQ0J0aTZLLXU0Y2ZWTHV0cTNYaktjT01BdmNKRmhkelNldkR1bVRpVmVqUQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -188135,152 +188261,6 @@
      "sourceId": "gnews-switch2",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jX25Mb0s4ZmJ6M2hiM3J5NkJBQk9mQW1jclB6b3BPOGFqeVkwRExXZVJEOWh3eXh6Y2ZqWGdOUkpZVjczSFoxWHNkZXNyVkdzS1lzUA?oc=5",
      "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "「ポケモン東京ばな奈」新作トートバッグセットが11月21日発売！ピカチュウ＆イーブイを大胆デザイン、付箋プレゼントキャンペーンも実施",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190826.html",
-   "pubDate": "2026-11-12T06:45:02.000Z",
-   "firstSeen": "2026-11-12T07:47:33.038Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190826.html"
-    }
-   ]
-  },
-  {
-   "title": "『Stray』Switch 2パッケージ版が発売。Joy-Con2のマウス操作にも対応",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUVE1M3FCQUlpekhyYktSeHZmUmtWSU9LajkzcXh2N1RRZmpKakxoTWZCU3R2bERCQlVBUldoTmJuenltN0dFN0VvLTI2SV8wblZUNTZ3RkxrQQ?oc=5",
-   "pubDate": "2026-11-12T06:45:00.000Z",
-   "firstSeen": "2026-11-12T07:47:33.038Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-dengeki",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "Stray"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-dengeki",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUVE1M3FCQUlpekhyYktSeHZmUmtWSU9LajkzcXh2N1RRZmpKakxoTWZCU3R2bERCQlVBUldoTmJuenltN0dFN0VvLTI2SV8wblZUNTZ3RkxrQQ?oc=5",
-     "via": "Googleニュース「電撃オンライン」"
-    }
-   ]
-  },
-  {
-   "title": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
-   "summary": "The line up is now complete! Since the arrival of Kirby Air Riders on the Switch 2 last year, Nintendo has been releasing amiibo for the gam…",
-   "link": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
-   "pubDate": "2026-11-12T06:45:00.000Z",
-   "firstSeen": "2026-11-12T07:47:33.038Z",
-   "image": "https://images.nintendolife.com/6b585f1bee2a5/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available"
-    }
-   ]
-  },
-  {
-   "title": "『ブルアカ』とサンシャイン水族館のコラボイベントが12月11日から開催。ホシノと水族館を巡りながら生き物を解説してもらえる音声ガイドを楽しめちゃう",
-   "summary": "対策委員会メンバーがかわいくプリントされたコラボココアや、描き起こしイラストのグッズ、フォトスポットも",
-   "link": "https://news.denfaminicogamer.jp/news/2611122w",
-   "pubDate": "2026-11-12T06:42:49.000Z",
-   "firstSeen": "2026-11-12T06:47:54.647Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/f6fd1228a91a0fc08e676a0d2276962a382b3e2fbc396c01802b26605ce980d6.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ブルアカ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611122w"
-    }
-   ]
-  },
-  {
-   "title": "「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク",
-   "summary": "Steamで提出されるゲームの本数自体が大幅に増加していることにくわえ、提出されたゲームの再審査が頻発しているためだという。",
-   "link": "https://automaton-media.com/articles/newsjp/steams-20261112-478874/",
-   "pubDate": "2026-11-12T06:41:30.000Z",
-   "firstSeen": "2026-11-12T06:47:54.647Z",
-   "image": "https://automaton-media.com/wp-content/uploads/2026/11/steams-20261112-478874-header.jpg",
-   "source": "AUTOMATON",
-   "sourceId": "automaton",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AUTOMATON",
-     "sourceId": "automaton",
-     "link": "https://automaton-media.com/articles/newsjp/steams-20261112-478874/"
     }
    ]
   }
