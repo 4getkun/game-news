@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-28T02:47:50.731Z",
+ "generatedAt": "2026-11-28T03:47:54.445Z",
  "count": 6000,
  "dedupe": {
-  "exact": 1351,
-  "syndicated": 62,
-  "similar": 358,
-  "syndicatedTotal": 441,
+  "exact": 1347,
+  "syndicated": 61,
+  "similar": 357,
+  "syndicatedTotal": 440,
   "syndicatedLeft": 28
  },
  "calendar": [
@@ -1152,7 +1152,7 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "すみっコぐらし™",
+   "work": "すみっコぐらし",
    "title": "大人気キャラクター『すみっコぐらし™』のゲームシリーズ最新作！Nintendo Switch 2 ゲームソフト『すみっコぐらし ぽかぽか温泉にようこそ』本日2026年11月19日(木)発売のお知らせ",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FalNoMFQ4M002cVM1QU1FOExVdnhYYThzMHBVQTN0RU5PdVF3VmUxWXByLW5lVXdkZEhPemVBRVdhTm1Nel9ZX1ZpbElVRVNzYVo0SFpxd2h4MzV3YVUtVWcwVUFtYWRTU3c?oc=5",
    "source": "PR TIMES",
@@ -5039,6 +5039,20 @@
   {
    "date": "2026-11-28",
    "precision": "day",
+   "verb": "event",
+   "label": "開催・放送",
+   "work": null,
+   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」11月28日22時より放送！",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175408.html",
+   "source": "Game*Spark",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-28",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -8254,22 +8268,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-17",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "なら☆こい 〜古代人なれど恋したひ〜",
-   "title": "聖徳太子と恋愛できる『なら☆こい 〜古代人なれど恋したひ〜』12月17日に発売決定。女子高生の小野妹子が出会ったのは見覚えのある顔の男子たち",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnTWtTUW1UNUlLYU1QeGdJYXpHT2tBbHk4alg0dWEtNS01MmdpY0MtLV93a2N1eXJscDJJQVVDaDdaUWtEYkQzRWRtM1lEOVVlLVUyb0s1WQ?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [
-    "release"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-18",
    "precision": "day",
    "verb": "event",
@@ -9436,8 +9434,10 @@
    "title": "オカルトサスペンスアドベンチャー 『覗怪』（しかい）独自ゲームシステム「覗怪モード」紹介動画を公開",
    "link": "https://prtimes.jp/main/html/rd/p/000000271.000046985.html",
    "source": "PR TIMES",
-   "sources": 2,
-   "categories": [],
+   "sources": 3,
+   "categories": [
+    "trailer"
+   ],
    "platforms": [
     "switch"
    ],
@@ -10272,7 +10272,7 @@
    "title": "アニメ『ポケモン』ワンダーボヤージュの続編となる新シーズンが2027年10月より放送。アニポケ30周年記念番組の放送も決定",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56bW9nM2xwRFVTZ2Vrekx6QzZ1UVJkc0ozNWMtS0RtV016OW1BUW0yR3ZJNUlHdHNrajdRNUtiUm5VU3BfcHYwZ2IwUll2M1JPMnRTekVQbw?oc=5",
    "source": "ファミ通",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "new",
     "update"
@@ -10325,8 +10325,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 931,
-   "accepted": 903
+   "archived": 924,
+   "accepted": 898
   },
   {
    "id": "4gamer-sp",
@@ -10336,8 +10336,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 230,
-   "accepted": 221
+   "archived": 228,
+   "accepted": 219
   },
   {
    "id": "automaton",
@@ -10347,8 +10347,8 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "archived": 529,
-   "accepted": 523
+   "archived": 523,
+   "accepted": 517
   },
   {
    "id": "denfaminico",
@@ -10358,8 +10358,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1171,
-   "accepted": 1036
+   "archived": 1168,
+   "accepted": 1031
   },
   {
    "id": "gamewatch",
@@ -10369,8 +10369,8 @@
    "ok": true,
    "error": null,
    "fetched": 29,
-   "archived": 614,
-   "accepted": 582
+   "archived": 608,
+   "accepted": 576
   },
   {
    "id": "gamespark",
@@ -10380,8 +10380,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1188,
-   "accepted": 1162
+   "archived": 1185,
+   "accepted": 1159
   },
   {
    "id": "inside-games",
@@ -10391,7 +10391,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1700,
+   "archived": 1699,
    "accepted": 1314
   },
   {
@@ -10402,8 +10402,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 31,
-   "accepted": 31
+   "archived": 30,
+   "accepted": 30
   },
   {
    "id": "xbox-wire",
@@ -10435,8 +10435,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 592,
-   "accepted": 453
+   "archived": 589,
+   "accepted": 451
   },
   {
    "id": "gnews-dengeki",
@@ -10446,8 +10446,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 557,
-   "accepted": 337
+   "archived": 562,
+   "accepted": 338
   },
   {
    "id": "gnews-newgame",
@@ -10456,9 +10456,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 615,
-   "accepted": 567
+   "fetched": 77,
+   "archived": 613,
+   "accepted": 566
   },
   {
    "id": "gnews-switch2",
@@ -10468,8 +10468,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1401,
-   "accepted": 1198
+   "archived": 1389,
+   "accepted": 1187
   },
   {
    "id": "gnews-ps5",
@@ -10479,8 +10479,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 806,
-   "accepted": 732
+   "archived": 808,
+   "accepted": 734
   },
   {
    "id": "gnews-update",
@@ -10490,8 +10490,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 408,
-   "accepted": 327
+   "archived": 410,
+   "accepted": 329
   },
   {
    "id": "prtimes",
@@ -10501,8 +10501,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26535,
-   "accepted": 408
+   "archived": 26437,
+   "accepted": 405
   },
   {
    "id": "gematsu",
@@ -10512,8 +10512,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 289,
-   "accepted": 289
+   "archived": 287,
+   "accepted": 287
   },
   {
    "id": "ign",
@@ -10523,8 +10523,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1309,
-   "accepted": 1309
+   "archived": 1308,
+   "accepted": 1308
   },
   {
    "id": "eurogamer",
@@ -10556,8 +10556,8 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "archived": 355,
-   "accepted": 355
+   "archived": 354,
+   "accepted": 354
   },
   {
    "id": "pcgamer",
@@ -10572,6 +10572,260 @@
   }
  ],
  "items": [
+  {
+   "title": "『ゼンゼロ』完全新規キャラ「ユージー」公開！挑発的で口癖はザコ、容姿も幼い推定“メスガキ”",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191722.html",
+   "pubDate": "2026-11-28T03:36:05.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ゼンゼロ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191722.html"
+    }
+   ]
+  },
+  {
+   "title": "GUと「スヌーピー」がコラボ！“仲間たちとのパーティ”テーマのルームウェア全8種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191721.html",
+   "pubDate": "2026-11-28T03:20:02.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "collab"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191721.html"
+    }
+   ]
+  },
+  {
+   "title": "Save 40% Off the ASUS ZenScreen 16\" 1080p Portable USB Monitor for Black Friday",
+   "summary": "Save 40% Off the ASUS ZenScreen 16\" 1080p Portable USB Monitor for Black Friday",
+   "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-black-friday-sale-2026",
+   "pubDate": "2026-11-28T03:20:00.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": "https://assets-prd.ignimgs.com/2026/11/28/asuszenscreen2-1795835514212.jpg",
+   "source": "IGN",
+   "sourceId": "ign",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "sale"
+   ],
+   "deal": {
+    "stores": [],
+    "off": 40,
+    "free": false
+   },
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "IGN",
+     "sourceId": "ign",
+     "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-black-friday-sale-2026"
+    }
+   ]
+  },
+  {
+   "title": "PvPvEホラーFPS『HUNGER』、「最後のオープンベータ」が同接1万人超の活況。怪物と生存者が生き残りをかけて戦う、“白兵戦多め”残虐脱出型シューター",
+   "summary": "GOOD FUN CORPORATIONは11月27日、PvPvEホラーFPS『HUNGER』のオープンベータプレイテストを開始した。同接1万人を超える活況となっている。",
+   "link": "https://automaton-media.com/articles/newsjp/20261128-481458/",
+   "pubDate": "2026-11-28T03:17:22.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481458-header.jpg",
+   "source": "AUTOMATON",
+   "sourceId": "automaton",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 11,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "HUNGER"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "AUTOMATON",
+     "sourceId": "automaton",
+     "link": "https://automaton-media.com/articles/newsjp/20261128-481458/"
+    }
+   ]
+  },
+  {
+   "title": "金属ってこんなに綺麗だったんだ……。錆びたアンティークを自分の手で磨き上げる修復ゲーム『Reshine』。鈍色の表面が輝きを取り戻す瞬間に、思わず見惚れた",
+   "summary": "金属ってこんなに綺麗だったんだ……。錆びたアンティークを自分の手で磨き上げる修復ゲーム『Reshine』。鈍色の表面が輝きを取り戻す瞬間に、思わず見惚れた",
+   "link": "https://news.denfaminicogamer.jp/kikakuthetower/261128b",
+   "pubDate": "2026-11-28T03:00:06.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/re_15-1-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "Reshine"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/kikakuthetower/261128b"
+    }
+   ]
+  },
+  {
+   "title": "【お知らせ】ゲーマーのためのトーク番組「Game*Sparkのラジオ善意X」11月28日22時より放送！",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175408.html",
+   "pubDate": "2026-11-28T03:00:03.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175408.html"
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】妖しい笑みにゾクゾクする狂気感がすごい！『東方Project』風見幽香レイヤーの魔性な魅力の虜になる【写真9枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191720.html",
+   "pubDate": "2026-11-28T03:00:03.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "東方Project"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191720.html"
+    }
+   ]
+  },
+  {
+   "title": "本日（11月28日）19時からミンゴスが釘宮理恵さん、沼倉愛美さん、長谷川明子さんと『桃鉄2』をプレイ。『今井麻美のニコニコSSG』特番生放送配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1NEQ1I2RDhON0QyXzdXUGs1aE5yUUhMT2MxTnVPTFNMMDZ4amdSTFRfLWhSVTdVLW9xRVlIY3pqTDlZbnNielVDQnB5ZkRGTWszN2V5UQ?oc=5",
+   "pubDate": "2026-11-28T02:50:00.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-switch2",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "桃鉄2",
+    "今井麻美のニコニコSSG"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-switch2",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1NEQ1I2RDhON0QyXzdXUGs1aE5yUUhMT2MxTnVPTFNMMDZ4amdSTFRfLWhSVTdVLW9xRVlIY3pqTDlZbnNielVDQnB5ZkRGTWszN2V5UQ?oc=5",
+     "via": "Googleニュース「Nintendo Switch 2」"
+    }
+   ]
+  },
+  {
+   "title": "「ジョジョ」印象的な「To Be Continued」矢印がライトに！インテリアとしてはもちろん、壁にディスプレイも可能",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/28/191719.html",
+   "pubDate": "2026-11-28T02:45:02.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/28/191719.html"
+    }
+   ]
+  },
   {
    "title": "『ゼンゼロ』元NPC「セシリア」がプレイアブル化！伝説の歌姫にして妄想エンジェルの先生、初登場から約1年を経て待望の実装",
    "summary": "",
@@ -13180,7 +13434,9 @@
    "kind": "press",
    "lang": "ja",
    "score": 15,
-   "categories": [],
+   "categories": [
+    "trailer"
+   ],
    "deal": null,
    "platforms": [
     "switch"
@@ -13194,6 +13450,12 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000271.000046985.html"
+    },
+    {
+     "name": "GameWith",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UR1poNXpUeFVzdDVMOGRycUhmZ2RkTzJIeUFQODFnLVRZSU9rVWMxM3pwMHFYZURZSnBkRGYzZEpTR1BkUmlJZzdvQlNFSnhfSkdZNlM2d0VVbkE?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -16194,6 +16456,13 @@
      "sourceId": "gnews-update",
      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4dGxBRHhSWTNWV2NUX01MZjdFd3FWMFNwTHB6N0FtSG5aaFF3cVZHQWQ5WFFLeHhZcDQw?oc=5",
      "via": "Googleニュース「ゲーム アップデート」"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-update",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SX3pnY2I2TXRfem82VXBnS3p4S2Q2dDB2UVlGSk04cl9va1BsUVphRnRBSk1MMzRobzhNZHhDSEM2X1otb0FYaFRPQ3VTM1JVNW9IY3plWmNhSEYwU0hiU2J3cFlEQ0VMR2VLc0phU3VuMEM2OXJlMUVBbkpha1k?oc=5",
+     "via": "Googleニュース「ゲーム アップデート」",
+     "syndicated": true
     }
    ]
   },
@@ -16338,6 +16607,37 @@
      "sourceId": "gnews-famitsu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56bW9nM2xwRFVTZ2Vrekx6QzZ1UVJkc0ozNWMtS0RtV016OW1BUW0yR3ZJNUlHdHNrajdRNUtiUm5VU3BfcHYwZ2IwUll2M1JPMnRTekVQbw?oc=5",
      "via": "Googleニュース「ファミ通」"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『ポケモン』新シーズンは2027年10月の放送を予定。リコとロイの新たな冒険が始まる",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjZ5dDFGTnJ5OXVlQi1fWGFKMFA2dGdCR0lVQ2Rvd2NHb2oxQmpHTWVjRXZyUTVUMWlqdDdnS2N6Y0FReVVRcFhxZTZVMEpscnI5M0E4blpTQQ?oc=5",
+   "pubDate": "2026-11-27T10:30:00.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-dengeki",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "update"
+   ],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-dengeki",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjZ5dDFGTnJ5OXVlQi1fWGFKMFA2dGdCR0lVQ2Rvd2NHb2oxQmpHTWVjRXZyUTVUMWlqdDdnS2N6Y0FReVVRcFhxZTZVMEpscnI5M0E4blpTQQ?oc=5",
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -26499,34 +26799,6 @@
    ]
   },
   {
-   "title": "大人気ゲーム『ブルーアーカイブ』より、シッテムの箱のOS「プラナ」がねんどろいどで再登場です！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000001102.000042572.html",
-   "pubDate": "2026-11-26T15:40:02.000Z",
-   "firstSeen": "2026-11-26T15:47:34.595Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ブルーアーカイブ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000001102.000042572.html"
-    }
-   ]
-  },
-  {
    "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
    "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever…",
    "link": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
@@ -35869,6 +36141,34 @@
    ]
   },
   {
+   "title": "大人気ゲーム『ブルーアーカイブ』より、シッテムの箱のOS「プラナ」がねんどろいどで再登場です！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000001102.000042572.html",
+   "pubDate": "2026-11-26T03:07:10.000Z",
+   "firstSeen": "2026-11-26T15:47:34.595Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [],
+   "works": [
+    "ブルーアーカイブ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000001102.000042572.html"
+    }
+   ]
+  },
+  {
    "title": "Dragon Quest Monsters: The Withered World ‘Final’ trailer",
    "summary": "Square Enix has released the final trailer for monster raising RPG Dragon Quest Monsters: The …",
    "link": "https://www.gematsu.com/2026/11/dragon-quest-monsters-the-withered-world-final-trailer",
@@ -40013,6 +40313,35 @@
      "name": "IGN",
      "sourceId": "ign",
      "link": "https://www.ign.com/articles/best-deals-for-november-25-2026"
+    }
+   ]
+  },
+  {
+   "title": "PS5がGTA 6発売後の米小売店で完売、ブラックフライデー前の需要増で品薄に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa1p5Y2hld2xidkNnR2UyQ2FCWngyYklLekxBX0JEUmlRUVk1MUx1eXhmU0NWMGdneXdjMHQybDV4aHFIUVRaYkNWMWFwUl9kSkZqZFJrNEJKdFNaczNhM2xVTHVOWGRmclhJZlQ0QktnakJpanVNUXZUVGpWejNQN3N3MzNYWUZOQ1VyeEhJRnJfWUdsUmlOOVFoVDNOR3FERm9BRy1fTnJCWFI5SDFyc3hLY0dmdjJ0ek1Ia2xSd0ViZUh3azUwaC14OFZaRm1FNGxHaGRoamtOVG80dnZQSHF4NW9SdzRRalZBYXRUTWdId2s1aEtfSVIweUFNdS1aQ0ZaUGh0TFRMLUdkU3prbktobVNtUHY1TmY1Y2V3eXV4ZTVRdFVOSGNjUEZjQTdXWHZ3OG5nZ3JBdU5vdElycXUtTmdxRGI1aUVOM002QjhQUHpBR1I1RXJydnZnZC1DYlpZQXBsMkd2b0EzTmVxYUpRMy1GVXlmbXl6YmVkdDRBOWEzY044eXhvclhJdw?oc=5",
+   "pubDate": "2026-11-25T17:59:11.000Z",
+   "firstSeen": "2026-11-28T03:47:33.556Z",
+   "image": null,
+   "source": "games.gg",
+   "sourceId": "gnews-ps5",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "deal": null,
+   "platforms": [
+    "ps5"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "games.gg",
+     "sourceId": "gnews-ps5",
+     "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa1p5Y2hld2xidkNnR2UyQ2FCWngyYklLekxBX0JEUmlRUVk1MUx1eXhmU0NWMGdneXdjMHQybDV4aHFIUVRaYkNWMWFwUl9kSkZqZFJrNEJKdFNaczNhM2xVTHVOWGRmclhJZlQ0QktnakJpanVNUXZUVGpWejNQN3N3MzNYWUZOQ1VyeEhJRnJfWUdsUmlOOVFoVDNOR3FERm9BRy1fTnJCWFI5SDFyc3hLY0dmdjJ0ek1Ia2xSd0ViZUh3azUwaC14OFZaRm1FNGxHaGRoamtOVG80dnZQSHF4NW9SdzRRalZBYXRUTWdId2s1aEtfSVIweUFNdS1aQ0ZaUGh0TFRMLUdkU3prbktobVNtUHY1TmY1Y2V3eXV4ZTVRdFVOSGNjUEZjQTdXWHZ3OG5nZ3JBdU5vdElycXUtTmdxRGI1aUVOM002QjhQUHpBR1I1RXJydnZnZC1DYlpZQXBsMkd2b0EzTmVxYUpRMy1GVXlmbXl6YmVkdDRBOWEzY044eXhvclhJdw?oc=5",
+     "via": "Googleニュース「PS5 発売」"
     }
    ]
   },
@@ -45884,7 +46213,7 @@
    "firstSeen": "2026-11-25T13:47:35.202Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-switch2",
+   "sourceId": "gnews-dengeki",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -45903,9 +46232,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-switch2",
+     "sourceId": "gnews-dengeki",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Yk9kX1hwZE9qMHFrY1dOWGE5TnByZGR4by11THVhcDdzVEVFRnFWUXlYNW4wUFZpZVFYcEFmX2dmaUstM1dNVWltakIyRGllNHphdnJRTGhEZw?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
+     "via": "Googleニュース「電撃オンライン」"
     }
    ]
   },
@@ -110202,7 +110531,7 @@
     "switch2"
    ],
    "works": [
-    "すみっコぐらし™",
+    "すみっコぐらし",
     "すみっコぐらし ぽかぽか温泉にようこそ",
     "すみっコぐらし(TM)"
    ],
@@ -187973,346 +188302,6 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/12/190811.html"
-    }
-   ]
-  },
-  {
-   "title": "聖徳太子と恋愛できる『なら☆こい 〜古代人なれど恋したひ〜』12月17日に発売決定。女子高生の小野妹子が出会ったのは見覚えのある顔の男子たち",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnTWtTUW1UNUlLYU1QeGdJYXpHT2tBbHk4alg0dWEtNS01MmdpY0MtLV93a2N1eXJscDJJQVVDaDdaUWtEYkQzRWRtM1lEOVVlLVUyb0s1WQ?oc=5",
-   "pubDate": "2026-11-12T03:55:00.000Z",
-   "firstSeen": "2026-11-12T09:47:42.379Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "なら☆こい 〜古代人なれど恋したひ〜"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnTWtTUW1UNUlLYU1QeGdJYXpHT2tBbHk4alg0dWEtNS01MmdpY0MtLV93a2N1eXJscDJJQVVDaDdaUWtEYkQzRWRtM1lEOVVlLVUyb0s1WQ?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "【USJ】スヌーピー、暖かな冬新作グッズなどを現地からまとめて紹介チャーリー・ブラウンとのハグがかわいい。賑やかなクリスマスグッズも",
-   "summary": "ユニバーサル・スタジオ・ジャパンは、「スヌーピー」をはじめとしたキャラクターの新グッズを11月9日より発売している。本稿ではUSJ現地から各グッズをまとめてご紹介する。",
-   "link": "https://game.watch.impress.co.jp/docs/news/2155840.html",
-   "pubDate": "2026-11-12T03:52:27.000Z",
-   "firstSeen": "2026-11-12T04:47:33.043Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gamewatch",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 1,
-   "categories": [
-    "new",
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gamewatch",
-     "link": "https://game.watch.impress.co.jp/docs/news/2155840.html"
-    }
-   ]
-  },
-  {
-   "title": "ウッウに食べられるピカチュウ…！『ポケモン』モンスターボールに入った食玩ミニフィギュアがユニーク",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190810.html",
-   "pubDate": "2026-11-12T03:45:02.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190810.html"
-    }
-   ]
-  },
-  {
-   "title": "Skyrim Celebrates 15 Years Of Adventure With Switch eShop Sale, Get 60% Off",
-   "summary": "Play it again, for Todd. Forget Zelda and GTA for just a moment, as Bethesda needs to remind us about its epic fantasy RPG, The Elder Scroll…",
-   "link": "https://www.nintendolife.com/news/2026/11/skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sale-get-60percent-off",
-   "pubDate": "2026-11-12T03:45:00.000Z",
-   "firstSeen": "2026-11-12T04:47:33.043Z",
-   "image": "https://images.nintendolife.com/38c74dd85fa63/large.jpg",
-   "source": "Nintendo Life",
-   "sourceId": "nintendolife",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 2,
-   "categories": [
-    "sale"
-   ],
-   "deal": {
-    "stores": [
-     "nintendo"
-    ],
-    "off": 60,
-    "free": false
-   },
-   "platforms": [
-    "switch"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Nintendo Life",
-     "sourceId": "nintendolife",
-     "link": "https://www.nintendolife.com/news/2026/11/skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sale-get-60percent-off"
-    }
-   ]
-  },
-  {
-   "title": "コンシューマ向け最新作『サクナヒメ外伝 ココロワと想世の歯車』新映像が公開。SLG風のバトルに、スマホ版で話題になったヒヒカカヒメの姿も",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PZzg1ckU2SEJpeFoyZGRGVFdjb3ZYWUpaOXFSNWVpV2FyTmhJd3VJVVJpamJOS2owUlIzV2JkLUhBbUFxemphY1FGMzRic2JYdlhMQm5LYw?oc=5",
-   "pubDate": "2026-11-12T03:44:00.000Z",
-   "firstSeen": "2026-11-12T05:47:37.275Z",
-   "image": null,
-   "source": "ファミ通",
-   "sourceId": "gnews-famitsu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "trailer"
-   ],
-   "deal": null,
-   "platforms": [
-    "mobile"
-   ],
-   "works": [
-    "サクナヒメ外伝 ココロワと想世の歯車"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ファミ通",
-     "sourceId": "gnews-famitsu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PZzg1ckU2SEJpeFoyZGRGVFdjb3ZYWUpaOXFSNWVpV2FyTmhJd3VJVVJpamJOS2owUlIzV2JkLUhBbUFxemphY1FGMzRic2JYdlhMQm5LYw?oc=5",
-     "via": "Googleニュース「ファミ通」"
-    }
-   ]
-  },
-  {
-   "title": "「セフィロス」が“見返り美人”に！？『FF40周年記念展』が重要文化財とコラボ発表",
-   "summary": "『冨嶽三十六景 神奈川沖浪裏』や『孔雀明王像』、『風神雷神図屏風』がFFと融合。シリーズに携わってきた歴代アートデザイナー総勢12名が参加",
-   "link": "https://news.denfaminicogamer.jp/news/2611122i",
-   "pubDate": "2026-11-12T03:40:48.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/c128b3a2172489c3994972e1351bad18-724x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "collab"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [
-    "FF40周年記念展"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611122i"
-    }
-   ]
-  },
-  {
-   "title": "「コードギアス 反逆のルルーシュ」20周年記念！S.H.Figuartsからルルーシュ-ゼロ-と C.C.が商品化決定",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190809.html",
-   "pubDate": "2026-11-12T03:40:02.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190809.html"
-    }
-   ]
-  },
-  {
-   "title": "カイロソフト、『箱庭シティ鉄道 Nintendo Switch 2 Edition』とアップグレードパスを発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPMWNLSWhKTDRUcWxWQ2ZiTkU3UkZCMEFNNWJPN21oVnA2cW5qQnNRRXdSb2dWdDY2RXVFQUpOc1JFNWNa?oc=5",
-   "pubDate": "2026-11-12T03:40:00.000Z",
-   "firstSeen": "2026-11-12T04:47:33.043Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "箱庭シティ鉄道 Nintendo Switch 2 Edition"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPMWNLSWhKTDRUcWxWQ2ZiTkU3UkZCMEFNNWJPN21oVnA2cW5qQnNRRXdSb2dWdDY2RXVFQUpOc1JFNWNa?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "「ドラゴンボールZ」レザーアイテム全25種が予約開始！復刻版ロングウォレットや神龍チェーン、仙豆キーホルダーなど展開",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/12/190808.html",
-   "pubDate": "2026-11-12T03:35:02.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "release"
-   ],
-   "deal": null,
-   "platforms": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/12/190808.html"
-    }
-   ]
-  },
-  {
-   "title": "『バン！バン！バンディッツ Nintendo Switch 2 Edition』無料体験版が11月12日に配信開始！ 対応言語も4言語拡大",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TSlAtMl9GV202ZTlLRGtaa3Vvbm5IZFNjUG44azVucTdpU3gzbUdyN3h0TlA1eFN3ZTA4UUlHd1VybGhjVGUxQXNsZEtFaTRQUEJ5MkdTdzdnWmEtV2xjQQ?oc=5",
-   "pubDate": "2026-11-12T03:32:01.000Z",
-   "firstSeen": "2026-11-12T07:47:33.038Z",
-   "image": null,
-   "source": "AppBank",
-   "sourceId": "gnews-switch2",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "release",
-    "demo"
-   ],
-   "deal": null,
-   "platforms": [
-    "switch2"
-   ],
-   "works": [
-    "バン!バン!バンディッツ Nintendo Switch 2 Edition"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AppBank",
-     "sourceId": "gnews-switch2",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TSlAtMl9GV202ZTlLRGtaa3Vvbm5IZFNjUG44azVucTdpU3gzbUdyN3h0TlA1eFN3ZTA4UUlHd1VybGhjVGUxQXNsZEtFaTRQUEJ5MkdTdzdnWmEtV2xjQQ?oc=5",
-     "via": "Googleニュース「Nintendo Switch 2」"
-    }
-   ]
-  },
-  {
-   "title": "身長5cmになり，かつての飼い猫に世話をしてもらう。「ネコルポス 〜巨大猫の観察日記〜」，Steamで体験版を公開。自由入力で猫又と会話できる",
-   "summary": "個人ゲーム開発者の八雲吉祥氏は，コミュニケーションゲーム「ネコルポス〜巨大猫の観察日記〜」の体験版をSteamで公開した。身長5cmになった主人公が，かつての飼い猫「ネルコ」に世話をしてもらう作品だ。選択肢だけでなく，好きな言葉を自由に入力して猫又と会話できる。",
-   "link": "https://www.4gamer.net/games/057/G105778/20261112009/",
-   "pubDate": "2026-11-12T03:31:05.000Z",
-   "firstSeen": "2026-11-12T03:47:35.019Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "demo",
-    "review"
-   ],
-   "deal": null,
-   "platforms": [
-    "pc"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/057/G105778/20261112009/"
     }
    ]
   }
